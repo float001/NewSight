@@ -45,15 +45,19 @@
   - [CVE-2026-21589 | Atlassian Data Center Products Unauthenticated Arbitrary File Read Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-21589/)
 - johndcook.com
   - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
+  - [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/)
 - Linux Foundation Blogs
   - [Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure](https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure)
   - [Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management](https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management)
 - PortSwigger Research
   - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
+- rtl-sdr.com
+  - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://www.rtl-sdr.com/esp32-sdr-trx-use-an-esp32-s3-as-a-receiver-for-sdr-and-as-an-fm-ssb-voice-transmitter-on-13cm/)
 - simonwillison.net
   - [EmbeddingGemma 2](https://simonwillison.net/2026/Oct/6/hn-49983751/)
   - [Introducing Mistral Large 4: Le chonk](https://simonwillison.net/2026/Oct/6/le-chonk/)
   - [llm-mistral 0.16](https://simonwillison.net/2026/Oct/6/llm-mistral/)
+  - [OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/)
   - [Using Parseable with Datasette for OpenTelemetry traces](https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/)
 - TechCrunch
   - [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/)
@@ -109,6 +113,7 @@
   - [Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)](https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/)
   - [Best Prime Day Laptop Deals: Save Up to $500 (2026)](https://www.wired.com/story/best-prime-day-laptop-deals/)
   - [Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026)](https://www.wired.com/story/samsung-the-frame-tv-deal-prime-day-10-6-2026/)
+  - [I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)
   - [I Found The Best Amazon Prime Day Headphone Deals (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-06-2026/)
   - [Jaguar Finally Reveals Its Biggest Gamble: the Type 01](https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/)
   - [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/)
@@ -120,5 +125,7 @@
   - [You Probably Aren’t Going to Get the Plague](https://www.wired.com/story/what-we-know-about-plague-russia/)
   - [‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers](https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/)
   - [‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support](https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/)
+- 不安全
+  - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://buaq.net/go-446751.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
