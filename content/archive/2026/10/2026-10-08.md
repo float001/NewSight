@@ -10,6 +10,10 @@
 - Cyber Kendra
   - [AI Agents Are Getting Their Own Inboxes. Email Infrastructure Is Starting to Catch Up](https://www.cyberkendra.com/2026/10/ai-agents-are-getting-their-own-inboxes-email-infrastructure-is-starting-to-catch-up.html)
   - [Top MDR Providers of 2026: What to Evaluate and Where the Category Falls Short](https://www.cyberkendra.com/2026/10/top-mdr-providers-what-to-evaluate.html)
+- darkreading
+  - [OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)
+- Fidelis Security
+  - [Agentless vs. Agent-Based Deception: The Case for Faster Deployment](https://fidelissecurity.com/threatgeek/deception/agentless-vs-agent-based-deception/)
 - Hacker News Frontpage
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
 - IEEE Spectrum
@@ -28,20 +32,24 @@
   - [Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion](https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953)
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
 - The Decoder
+  - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
   - [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/)
   - [Google says 180 billion images and videos now carry SynthID watermarks as detector goes public](https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/)
   - [Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior](https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/)
 - The Verge
   - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
+  - [ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
   - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
   - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
   - [Everything announced at Microsoft&#8217;s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
   - [It appears .agent and .agi are about to be the hot new domains](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)
   - [Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging)
+  - [Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700](https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale)
   - [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder)
   - [The Apple Watch Series 12 is a good deal at $50 off](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale)
   - [The best October Prime Day deals from Apple, Sony, Google, and more](https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two)
+  - [The first Nvidia RTX Spark laptops cost up to $7,000](https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000)
   - [The scariest thing about gray-market peptides is how little we know](https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage)
   - [The Surface Laptop Ultra finally has a release date — and a starting price of $2,599](https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date)
   - [What The Social Reckoning gets right — and wrong](https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life)
@@ -49,6 +57,10 @@
   - [Xreal’s most affordable display glasses are $50 off](https://www.theverge.com/gadgets/1006064/xreal-xbx-ao1-plus-display-glasses-prime-day-deal-sale)
 - Wired
   - [115 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
+  - [30 Best Amazon Prime Day Deals Under $50 (October 2026)](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
+  - [Best Prime Day Laptop Deals: Save Up to $500 (2026)](https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/)
+  - [Best Shark Prime Day Vacuum Deals (2026)](https://www.wired.com/story/shark-prime-day-vacuum-deals-10-07-2026/)
+  - [Meet the Vendors Selling ‘Cornell Seven’ Merch](https://www.wired.com/story/meet-the-vendors-selling-cornell-seven-merch/)
   - [Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)](https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/)
   - [The Best Amazon Prime Day Headphone Deals Before The Sale Ends (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/)
   - [The New ChatGPT Is More Show Than Tell](https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/)
