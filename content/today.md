@@ -3,6 +3,7 @@
 - 404 Media
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - CoinTelegraph
+  - [Circle brings USDC, EURC payments to SAP customers through Tereina](https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sui tunnels hit 40.6M TPS in live AI agent test](https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,12 +21,16 @@
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
 - NVIDIA AI Blog
   - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
+- simonwillison.net
+  - [Introducing Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)
 - TechCrunch
   - [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
   - [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
   - [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
   - [Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
   - [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)
+  - [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
+  - [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)
   - [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
 - The Block
   - [Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk](https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954)
@@ -38,6 +43,7 @@
   - [Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior](https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/)
 - The Verge
   - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
+  - [Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
   - [ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
   - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
@@ -52,6 +58,7 @@
   - [The first Nvidia RTX Spark laptops cost up to $7,000](https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000)
   - [The scariest thing about gray-market peptides is how little we know](https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage)
   - [The Surface Laptop Ultra finally has a release date — and a starting price of $2,599](https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date)
+  - [We found some great October Prime Day deals under $50](https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50)
   - [What The Social Reckoning gets right — and wrong](https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life)
   - [Windows and Surface live blog: On the ground at Microsoft’s event](https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark)
   - [Xreal’s most affordable display glasses are $50 off](https://www.theverge.com/gadgets/1006064/xreal-xbx-ao1-plus-display-glasses-prime-day-deal-sale)
@@ -63,7 +70,9 @@
   - [Meet the Vendors Selling ‘Cornell Seven’ Merch](https://www.wired.com/story/meet-the-vendors-selling-cornell-seven-merch/)
   - [Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)](https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/)
   - [The Best Amazon Prime Day Headphone Deals Before The Sale Ends (2026)](https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/)
+  - [The Best Amazon Prime Day Pet Deals on Feeders, Litter Boxes, and More (2026)](https://www.wired.com/story/best-amazon-prime-day-pet-deals-10-7-2026/)
   - [The New ChatGPT Is More Show Than Tell](https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/)
+  - [The Science Behind the Nobel-Winning Technology That Controls Neurons With Light](https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/)
   - [The Shark CryoGlow LED Mask Is Cheaper Than Ever on Prime Day](https://www.wired.com/story/shark-cryoglow-led-face-mask-prime-day-deal/)
   - [These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out](https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/)
 - 代码审计星球
