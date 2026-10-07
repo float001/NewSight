@@ -6,6 +6,7 @@
   - [假期结束回来继续搬砖了～ 🐮🐴](https://2libra.com/post/office-life/zdzTikh)
   - [小小潜水员](https://2libra.com/post/game-share/2yU8uMP)
   - [我的一点怪癖](https://2libra.com/post/personal-life/KOV7dEu)
+  - [评论现在支持置顶以及关闭](https://2libra.com/post/product-updates/luVk04P)
 - 404 Media
   - [Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'](https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/)
 - CoinTelegraph
@@ -15,12 +16,14 @@
   - [Bitcoin.de trading remains halted as German regulator rejects MiCA application](https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears](https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Conduit sues Tether over allegedly freezing $2.8M without explanation](https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto liquidations hit $550M as Bitcoin price dips below $84K](https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid](https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB policymaker warns of fragmentation without digital euro](https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast](https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK names 6 banks to lead first digitally native government bond](https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing](https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [‘Old money’ has stronger Bitcoin ‘diamond hands,’ says BingX exec](https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Chinese AI Agent Artex Used to Hack 7 South Korean Banks](https://www.cyberkendra.com/2026/10/artex-ai-south-korea-bank-breach.html)
   - [WhatsApp Patches Instagram Reels URL Flaw, CVE-2026-23866](https://www.cyberkendra.com/2026/10/whatsapp-patches-instagram-reels-url-flaw-cve-2026-23866.html)
@@ -56,8 +59,10 @@
   - [The Query Transformation Pipeline](https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline)
 - Horizon3.ai
   - [CVE-2026-21589 | Atlassian Data Center Products Unauthenticated Arbitrary File Read Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-21589/)
+  - [Zammad CVE-2026-102489: Session Leak to RCE](https://horizon3.ai/attack-research/disclosures/cve-2026-102489-zammad-session-leak-rce/)
 - infosecurity-magazine.com
   - [Danish CPR Breach Highlights Challenge of Supply Chain Risk](https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/)
+  - [Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One](https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/)
 - johndcook.com
   - [A topological model for provability logic](https://www.johndcook.com/blog/2026/10/06/godel-lob/)
   - [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/)
@@ -99,6 +104,7 @@
   - [Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million](https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882)
   - [Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange](https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867)
   - [Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds](https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831)
+  - [Jito’s JTX plans mobile app this fall, eyes perps integration later this winter](https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905)
   - [Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing ‘tens of millions’](https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855)
   - [Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push](https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890)
   - [Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker](https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826)
@@ -140,6 +146,7 @@
   - [Best Amazon Prime Day Vacuum Deals: Dyson, Shark, and Robot Vacuums (2026)](https://www.wired.com/story/prime-day-vacuum-deals-10-06-2026/)
   - [Best October Prime Day Mattress and Bedding Deals (2026)](https://www.wired.com/story/prime-day-mattress-deals-10-06-2026/)
   - [Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)](https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/)
+  - [Best Prime Day Laptop Deals: Save Up to $500 (2026)](https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/)
   - [Best Prime Day Laptop Deals: Save Up to $500 (2026)](https://www.wired.com/story/best-prime-day-laptop-deals/)
   - [Everybody’s Favorite Art TV Is Nearly Half Off for Prime Day (2026)](https://www.wired.com/story/samsung-the-frame-tv-deal-prime-day-10-6-2026/)
   - [I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)
@@ -148,6 +155,7 @@
   - [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/)
   - [The 13 Amazon Device Deals Actually Worth Snagging This Prime Day](https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/)
   - [The 24 Best Prime Day Deals Under $100 (2026)](https://www.wired.com/story/best-prime-day-deals-under-100-10-06-2026/)
+  - [The 30 Best Prime Day Deals Under $100 (2026)](https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/)
   - [The Best Anti-Prime Day Deals for Amazon Haters](https://www.wired.com/story/anti-prime-day-deals-october-2026/)
   - [The Best Prime Day Smart Home Deals Are Up to 50% Off (2026)](https://www.wired.com/story/best-smart-home-prime-day-10-6-2026/)
   - [We’re Tracking October Prime Day Live (2026)](https://www.wired.com/live/amazon-prime-day-live-tracker-october-06-2026/)
@@ -158,6 +166,7 @@
   - [‘Mike Rogers Is Watching You’: New Ad Blitz From Abdul El-Sayed Attacks Surveillance Support](https://www.wired.com/story/mike-rogers-is-watching-you-new-ad-blitz-from-abdul-el-sayed-attacks-surveillance-support/)
 - 不安全
   - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://buaq.net/go-446751.html)
+  - [Pwn2Own Ireland 2026 - Day Two Results](https://buaq.net/go-446792.html)
   - [Twenty-two pending curl vulnerabilities](https://buaq.net/go-446775.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
