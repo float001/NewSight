@@ -15,6 +15,7 @@
   - [Bitcoin grinds toward $87K as US equities hit new record highs](https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin.de trading remains halted as German regulator rejects MiCA application](https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears](https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO](https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Conduit sues Tether over allegedly freezing $2.8M without explanation](https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto card access doesn’t match global demand, Tangem says](https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto liquidations hit $550M as Bitcoin price dips below $84K](https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,6 +67,7 @@
   - [CVE-2026-21589 | Atlassian Data Center Products Unauthenticated Arbitrary File Read Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-21589/)
   - [Zammad CVE-2026-102489: Session Leak to RCE](https://horizon3.ai/attack-research/disclosures/cve-2026-102489-zammad-session-leak-rce/)
 - infosecurity-magazine.com
+  - [Attackers Hide AI Prompt Injections Inside Phishing Emails](https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/)
   - [Danish CPR Breach Highlights Challenge of Supply Chain Risk](https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/)
   - [Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns](https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/)
   - [Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One](https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/)
@@ -76,8 +78,14 @@
 - Linux Foundation Blogs
   - [Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure](https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure)
   - [Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management](https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management)
+- MIT Technology Review
+  - [The Download: weight-loss drugs slowing aging and carbon dioxide batteries](https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/)
+- NowSecure
+  - [Cybersecurity Awareness Month 2026: 7 Mobile App Security Realities You Can No Longer Ignore](https://www.nowsecure.com/blog/2026/10/07/cybersecurity-awareness-month-2026-7-mobile-app-security-realities-you-can-no-longer-ignore/)
 - PortSwigger Research
   - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating)
+- Recent Commits to cve:main
+  - [Update Wed Oct  7 12:41:07 UTC 2026](https://github.com/trickest/cve/commit/a6dfe9afee6759363e680c57338ea9c2017f3903)
 - rtl-sdr.com
   - [esp32-sdr-trx: Use an ESP32-S3 as a Receiver for SDR++ and as an FM/SSB Voice Transmitter on 13cm](https://www.rtl-sdr.com/esp32-sdr-trx-use-an-esp32-s3-as-a-receiver-for-sdr-and-as-an-fm-ssb-voice-transmitter-on-13cm/)
   - [ESP32-SDR: Turbo Mode Throughput Improvement + Real I/Q Output](https://www.rtl-sdr.com/esp32-sdr-turbo-mode-throughput-improvement-real-i-q-output/)
@@ -118,6 +126,7 @@
   - [Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker](https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826)
   - [‘Every single exchange’ will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says](https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896)
 - The Decoder
+  - [ChatGPT rated "unacceptable risk" for teens after parental alerts failed during suicide conversations](https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/)
   - [Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size](https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/)
   - [Google's new image model Nano Banana 2.1 generates better images for less money](https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/)
   - [Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade](https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/)
@@ -145,6 +154,7 @@
   - [The best October Prime Day deals from Apple, Sony, Google, and more](https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two)
   - [The best October Prime Day tech deals we found](https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech)
   - [The best robot vacuum and mop deals during October Prime Day](https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale)
+  - [The Social Reckoning is a tepid thriller that reminds us of how we got here](https://www.theverge.com/entertainment/1005997/the-social-reconing-review-facebook-zuckerberg-frances-haugen)
   - [The stylish Nothing Headphone 1 are cheaper than ever](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale)
   - [Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED](https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications)
   - [We can’t just change the definition of ‘recording’](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording)
