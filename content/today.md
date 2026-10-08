@@ -6,6 +6,7 @@
   - [【💰】claude 网页版怎么突然支持中文了？？](https://2libra.com/post/ai-tools/wYT_yzf)
   - [【💰】人在工位，有点迷茫](https://2libra.com/post/touch-fish/-sMu8fh)
   - [【💰】季节会影响你的心情吗？各位年初的目标实现的如何了？](https://2libra.com/post/personal-life/NokEmu9)
+  - [【💰】想买车-油车与电车怎么选（15w 预算）](https://2libra.com/post/automobile/9jVv3fa)
   - [【💰】装修](https://2libra.com/post/personal-life/44UH0ja)
   - [上班第一天！从头到脚 ，浑身难受！](https://2libra.com/post/office-life/bJVFxI1)
   - [中式快餐驴肉火烧，你爱保定派还是河间派？](https://2libra.com/post/small-things/mmOhonV)
@@ -17,6 +18,7 @@
   - [有没有国庆期间签到全勤的](https://2libra.com/post/forum-function/-pmhgpI)
   - [精酿啤酒模拟经营小游戏](https://2libra.com/post/game-share/MXOFQVT)
   - [都到工位了吗？](https://2libra.com/post/touch-fish/gFQNYzF)
+  - [🎁 开工第一天，给大家放些福利](https://2libra.com/post/promotion/28sjCEd)
   - [🎉 复工福利｜1024Proxy 住宅 IP CDK 免费送](https://2libra.com/post/promotion/bFWiyAO)
 - 404 Media
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
@@ -27,6 +29,7 @@
   - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sui tunnels hit 40.6M TPS in live AI agent test](https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US Bitcoin ETFs shed $485M in biggest daily outflow since June](https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AI Agents Are Getting Their Own Inboxes. Email Infrastructure Is Starting to Catch Up](https://www.cyberkendra.com/2026/10/ai-agents-are-getting-their-own-inboxes-email-infrastructure-is-starting-to-catch-up.html)
   - [Top MDR Providers of 2026: What to Evaluate and Where the Category Falls Short](https://www.cyberkendra.com/2026/10/top-mdr-providers-what-to-evaluate.html)
@@ -44,6 +47,7 @@
 - Fidelis Security
   - [Agentless vs. Agent-Based Deception: The Case for Faster Deployment](https://fidelissecurity.com/threatgeek/deception/agentless-vs-agent-based-deception/)
 - Hacker News Frontpage
+  - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
   - [I'm in love with a German film star](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
   - [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
@@ -88,6 +92,7 @@
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
   - [Samsung to launch USDC transfers on Solana for US Galaxy users](https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004)
   - [Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense](https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924)
+  - [Standard Chartered to expand crypto custody services in Singapore](https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017)
   - [‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats](https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007)
 - The Decoder
   - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
@@ -137,6 +142,7 @@
 - 不安全
   - [APEX_official](https://buaq.net/go-446920.html)
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 Monthly](https://buaq.net/go-446949.html)
+  - [Mac 也能装 SteamOS 了！开源工具 Steamac，让苹果电脑直接玩 Windows 游戏](https://buaq.net/go-446970.html)
   - [Pwn2Own Ireland 2026 Day 1: 32 Zero-Days, $388,500, Samsung Galaxy S26 Hacked 3 Times](https://buaq.net/go-446967.html)
   - [希捷与东芝争购日本TDK硬盘磁头业务 可能会对机械硬盘市场产生重大影响](https://buaq.net/go-446923.html)
 - 代码审计星球
@@ -146,3 +152,4 @@
   - [黄仁勋发布史上最强 Surface！专为「无限智能」设计](https://www.ifanr.com/1683127?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [大模型原生智能体手机STEPX Neo将于10月13日正式发布](https://www.qbitai.com/2026/10/501915.html)
+  - [打不过就投降，保时捷裁员9000人，回归燃油车主线](https://www.qbitai.com/2026/10/501930.html)
