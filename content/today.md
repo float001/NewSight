@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-10-08）
 
 - 2Libra
+  - [10 月 8 日中国移动灵犀口令#柿柿如意](https://2libra.com/post/deal-hunter/dZso8Jo)
   - [FileTime：单文件版本管理软件](https://2libra.com/post/open-source-tools/nofS6JI)
   - [【💰】claude 网页版怎么突然支持中文了？？](https://2libra.com/post/ai-tools/wYT_yzf)
   - [【💰】人在工位，有点迷茫](https://2libra.com/post/touch-fish/-sMu8fh)
@@ -10,6 +11,7 @@
   - [国庆去对象家了](https://2libra.com/post/family/6-DCQjT)
   - [头一次去新疆玩，中秋连国庆十二天](https://2libra.com/post/travel-logs/XSsVnxS)
   - [我的主页，没有终点——个人极简主页](https://2libra.com/post/personal-works/s3ugcOw)
+  - [我的眼睛太坚强了](https://2libra.com/post/small-things/dCIQ9Ne)
   - [有没有国庆期间签到全勤的](https://2libra.com/post/forum-function/-pmhgpI)
   - [精酿啤酒模拟经营小游戏](https://2libra.com/post/game-share/MXOFQVT)
   - [都到工位了吗？](https://2libra.com/post/touch-fish/gFQNYzF)
@@ -18,6 +20,7 @@
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - CoinTelegraph
   - [Circle brings USDC, EURC payments to SAP customers through Tereina](https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto must cement adoption to withstand US policy shifts: Canton CEO](https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sui tunnels hit 40.6M TPS in live AI agent test](https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -56,6 +59,8 @@
   - [Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/)
 - NVIDIA AI Blog
   - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
+- rtl-sdr.com
+  - [OnAir: A Digital TV and DAB Decoder for SDRs](https://www.rtl-sdr.com/onair-a-digital-tv-and-dab-decoder-for-sdrs/)
 - simonwillison.net
   - [Introducing Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)
   - [Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/)
@@ -76,6 +81,7 @@
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
   - [Samsung to launch USDC transfers on Solana for US Galaxy users](https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004)
   - [Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense](https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924)
+  - [‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats](https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007)
 - The Decoder
   - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
   - [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/)
