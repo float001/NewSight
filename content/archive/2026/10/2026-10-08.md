@@ -18,8 +18,10 @@
   - [我的主页，没有终点——个人极简主页](https://2libra.com/post/personal-works/s3ugcOw)
   - [我的眼睛太坚强了](https://2libra.com/post/small-things/dCIQ9Ne)
   - [有没有国庆期间签到全勤的](https://2libra.com/post/forum-function/-pmhgpI)
+  - [注册骑手后才知道钱难挣屎难吃啊！](https://2libra.com/post/workplace-stories/zd22zeK)
   - [精酿啤酒模拟经营小游戏](https://2libra.com/post/game-share/MXOFQVT)
   - [都到工位了吗？](https://2libra.com/post/touch-fish/gFQNYzF)
+  - [鹈鹕暴力摩托](https://2libra.com/post/personal-works/DaY3OZ2)
   - [🎁 开工第一天，给大家放些福利](https://2libra.com/post/promotion/28sjCEd)
   - [🎉 复工福利｜1024Proxy 住宅 IP CDK 免费送](https://2libra.com/post/promotion/bFWiyAO)
 - 404 Media
@@ -53,6 +55,8 @@
   - [Monte-Carlo simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 - Fidelis Security
   - [Agentless vs. Agent-Based Deception: The Case for Faster Deployment](https://fidelissecurity.com/threatgeek/deception/agentless-vs-agent-based-deception/)
+- GuidePoint Security
+  - [GRIT Q3 2026 Ransomware and Cyber Threat Insights Report: Top Takeaways](https://www.guidepointsecurity.com/blog/ransomware-insights-q3-2026/)
 - Hacker News Frontpage
   - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
   - [I'm in love with a German film star](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
@@ -71,6 +75,7 @@
 - IEEE Spectrum
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
 - infosecurity-magazine.com
+  - [Chinese Hacker Deployed AI in Campaign Against South Korean Banks](https://www.infosecurity-magazine.com/news/chinese-hacker-ai-korean-banks/)
   - [Europol and US GAO Sound the Alarm Over Quantum Threats](https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/)
   - [FBI and Secret Service Warn of FortiBleed Lockout Threat](https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/)
 - johndcook.com
@@ -110,6 +115,7 @@
   - [While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
   - [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
 - The Block
+  - [Crypto industry split over Justin Drake’s AI warning](https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021)
   - [Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk](https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954)
   - [Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion](https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953)
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
@@ -155,6 +161,7 @@
   - [Best Prime Day Vacuum Deals: Save Big On a Dyson (2026)](https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/)
   - [Best Shark Prime Day Vacuum Deals (2026)](https://www.wired.com/story/shark-prime-day-vacuum-deals-10-07-2026/)
   - [How a (Weirdly Chill) Celebrity Thinks About Personal Cybersecurity](https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/)
+  - [Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry](https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/)
   - [Meet the Vendors Selling ‘Cornell Seven’ Merch](https://www.wired.com/story/meet-the-vendors-selling-cornell-seven-merch/)
   - [Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)](https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/)
   - [The 23 Best Prime Day Deals Under $100 That You Can Still Get (2026)](https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/)
@@ -168,11 +175,13 @@
   - [Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’](https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/)
 - 不安全
   - [APEX_official](https://buaq.net/go-446920.html)
+  - [Convegno "Sotto attacco" (e Gli uomini possona fare tutto - Ottobre 2026)](https://buaq.net/go-446997.html)
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 Monthly](https://buaq.net/go-446949.html)
   - [gost](https://buaq.net/go-446989.html)
   - [Mac 也能装 SteamOS 了！开源工具 Steamac，让苹果电脑直接玩 Windows 游戏](https://buaq.net/go-446970.html)
   - [Pwn2Own Ireland 2026 Day 1: 32 Zero-Days, $388,500, Samsung Galaxy S26 Hacked 3 Times](https://buaq.net/go-446967.html)
   - [TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关](https://buaq.net/go-446982.html)
+  - [U.S. Offers $10 Million Reward for Alleged HAFNIUM Hacker Zhang Yu](https://buaq.net/go-447003.html)
   - [希捷与东芝争购日本TDK硬盘磁头业务 可能会对机械硬盘市场产生重大影响](https://buaq.net/go-446923.html)
   - [有人把全世界的城市做成抽卡游戏，有人收集了 5.7 万座城堡、要塞、宫殿](https://buaq.net/go-446986.html)
 - 代码审计星球
@@ -181,6 +190,7 @@
   - [世界各地的民调认为社交媒体伤害民主](https://www.solidot.org/story?sid=85547)
 - 爱范儿
   - [Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战](https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [和过往的捷豹说再见吧：Type 01 发布，用千匹动力迎接一批新买家](https://www.ifanr.com/1683214?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布](https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [黄仁勋发布史上最强 Surface！专为「无限智能」设计](https://www.ifanr.com/1683127?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
