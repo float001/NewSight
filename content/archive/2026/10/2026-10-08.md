@@ -10,9 +10,11 @@
   - [【💰】装修](https://2libra.com/post/personal-life/44UH0ja)
   - [上班第一天！从头到脚 ，浑身难受！](https://2libra.com/post/office-life/bJVFxI1)
   - [中式快餐驴肉火烧，你爱保定派还是河间派？](https://2libra.com/post/small-things/mmOhonV)
+  - [今天的是个特殊的日子，我使用了路人甲技能，不论我怎么水群 水论坛 都没有人理我](https://2libra.com/post/slacking-off/-vcpb_j)
   - [国庆去对象家了](https://2libra.com/post/family/6-DCQjT)
   - [多少金币可以排到前 1000 名？](https://2libra.com/post/forum-function/FttpfrG)
   - [头一次去新疆玩，中秋连国庆十二天](https://2libra.com/post/travel-logs/XSsVnxS)
+  - [我为自己的小桌宠成立了一家公司](https://2libra.com/post/personal-works/JtnaL56)
   - [我的主页，没有终点——个人极简主页](https://2libra.com/post/personal-works/s3ugcOw)
   - [我的眼睛太坚强了](https://2libra.com/post/small-things/dCIQ9Ne)
   - [有没有国庆期间签到全勤的](https://2libra.com/post/forum-function/-pmhgpI)
@@ -23,8 +25,10 @@
 - 404 Media
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - CoinTelegraph
+  - [Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls](https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle brings USDC, EURC payments to SAP customers through Tereina](https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto must cement adoption to withstand US policy shifts: Canton CEO](https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ESMA gives crypto firms 3 months to exit non-compliant stablecoins](https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR enters crypto’s top 20 after 140% surge in 30 days](https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,9 +67,11 @@
   - [黑客在入侵 ccTLD 注册管理机构后劫持 Google 域名](http://0.0.0.0:8080/post/64755)
 - HackerNoon
   - [Claude Code Finally Made Me an Engineer After 10 Years in Figma](https://hackernoon.com/claude-code-finally-made-me-an-engineer-after-10-years-in-figma?source=rss)
+  - [Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition](https://hackernoon.com/hashi-mainnet-to-launch-with-$500m-in-capital-backing-adds-anchorage-digital-to-coalition?source=rss)
 - IEEE Spectrum
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
 - infosecurity-magazine.com
+  - [Europol and US GAO Sound the Alarm Over Quantum Threats](https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/)
   - [FBI and Secret Service Warn of FortiBleed Lockout Threat](https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/)
 - johndcook.com
   - [Consequences of progress toward the Riemann Hypothesis](https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/)
@@ -80,6 +86,8 @@
 - rtl-sdr.com
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 A Month](https://www.rtl-sdr.com/flitegrid-a-crowdsourced-drone-detection-network-that-pays-feeders-us50-a-month/)
   - [OnAir: A Digital TV and DAB Decoder for SDRs](https://www.rtl-sdr.com/onair-a-digital-tv-and-dab-decoder-for-sdrs/)
+- Sec-News 安全文摘
+  - [CVE-2026-86950: The Great Glyph Grift](https://govuln.com/news/url/PZOa)
 - Seebug Paper
   - [TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关](https://paper.seebug.org/3524)
 - simonwillison.net
@@ -110,9 +118,11 @@
   - [Standard Chartered to expand crypto custody services in Singapore](https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017)
   - [‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats](https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007)
 - The Decoder
+  - [AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks](https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/)
   - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
   - [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/)
   - [Google says 180 billion images and videos now carry SynthID watermarks as detector goes public](https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/)
+  - [Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense](https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/)
   - [Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior](https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/)
 - The Verge
   - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
@@ -140,6 +150,7 @@
   - [115 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
   - [27 Best Prime Day Deals on Phone Accessories (2026)](https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/)
   - [30 Best Amazon Prime Day Deals Under $50 (October 2026)](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/)
+  - [A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology](https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/)
   - [Best Prime Day Laptop Deals: Save Up to $500 (2026)](https://www.wired.com/story/best-prime-day-laptop-deals-10-07-2026/)
   - [Best Prime Day Vacuum Deals: Save Big On a Dyson (2026)](https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/)
   - [Best Shark Prime Day Vacuum Deals (2026)](https://www.wired.com/story/shark-prime-day-vacuum-deals-10-07-2026/)
@@ -154,13 +165,16 @@
   - [The Science Behind the Nobel-Winning Technology That Controls Neurons With Light](https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/)
   - [The Shark CryoGlow LED Mask Is Cheaper Than Ever on Prime Day](https://www.wired.com/story/shark-cryoglow-led-face-mask-prime-day-deal/)
   - [These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out](https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/)
+  - [Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’](https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/)
 - 不安全
   - [APEX_official](https://buaq.net/go-446920.html)
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 Monthly](https://buaq.net/go-446949.html)
+  - [gost](https://buaq.net/go-446989.html)
   - [Mac 也能装 SteamOS 了！开源工具 Steamac，让苹果电脑直接玩 Windows 游戏](https://buaq.net/go-446970.html)
   - [Pwn2Own Ireland 2026 Day 1: 32 Zero-Days, $388,500, Samsung Galaxy S26 Hacked 3 Times](https://buaq.net/go-446967.html)
   - [TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关](https://buaq.net/go-446982.html)
   - [希捷与东芝争购日本TDK硬盘磁头业务 可能会对机械硬盘市场产生重大影响](https://buaq.net/go-446923.html)
+  - [有人把全世界的城市做成抽卡游戏，有人收集了 5.7 万座城堡、要塞、宫殿](https://buaq.net/go-446986.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -170,5 +184,7 @@
   - [早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布](https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [黄仁勋发布史上最强 Surface！专为「无限智能」设计](https://www.ifanr.com/1683127?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？](https://www.qbitai.com/2026/10/501995.html)
+  - [吉利智充技术正式发布，重塑全球补能新标杆](https://www.qbitai.com/2026/10/501956.html)
   - [大模型原生智能体手机STEPX Neo将于10月13日正式发布](https://www.qbitai.com/2026/10/501915.html)
   - [打不过就投降，保时捷裁员9000人，回归燃油车主线](https://www.qbitai.com/2026/10/501930.html)
