@@ -4,9 +4,14 @@
   - [FileTime：单文件版本管理软件](https://2libra.com/post/open-source-tools/nofS6JI)
   - [【💰】人在工位，有点迷茫](https://2libra.com/post/touch-fish/-sMu8fh)
   - [【💰】季节会影响你的心情吗？各位年初的目标实现的如何了？](https://2libra.com/post/personal-life/NokEmu9)
+  - [【💰】装修](https://2libra.com/post/personal-life/44UH0ja)
+  - [国庆去对象家了](https://2libra.com/post/family/6-DCQjT)
   - [头一次去新疆玩，中秋连国庆十二天](https://2libra.com/post/travel-logs/XSsVnxS)
+  - [我的主页，没有终点——个人极简主页](https://2libra.com/post/personal-works/s3ugcOw)
+  - [有没有国庆期间签到全勤的](https://2libra.com/post/forum-function/-pmhgpI)
   - [精酿啤酒模拟经营小游戏](https://2libra.com/post/game-share/MXOFQVT)
   - [都到工位了吗？](https://2libra.com/post/touch-fish/gFQNYzF)
+  - [🎉 复工福利｜1024Proxy 住宅 IP CDK 免费送](https://2libra.com/post/promotion/bFWiyAO)
 - 404 Media
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - CoinTelegraph
@@ -25,6 +30,8 @@
   - [Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)
   - [Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)
   - [OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)
+- eli.thegreenplace.net
+  - [Monte-Carlo simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 - Fidelis Security
   - [Agentless vs. Agent-Based Deception: The Case for Faster Deployment](https://fidelissecurity.com/threatgeek/deception/agentless-vs-agent-based-deception/)
 - Hacker News Frontpage
@@ -59,6 +66,7 @@
   - [Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk](https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954)
   - [Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion](https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953)
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
+  - [Samsung to launch USDC transfers on Solana for US Galaxy users](https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004)
   - [Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense](https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924)
 - The Decoder
   - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
@@ -112,3 +120,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布](https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [大模型原生智能体手机STEPX Neo将于10月13日正式发布](https://www.qbitai.com/2026/10/501915.html)
