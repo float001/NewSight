@@ -77,6 +77,7 @@
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
   - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
   - [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
+  - [Why the AI future will be awesome](https://nullpaste.org/raw/t-0Um6AUv_CJ)
 - HackerNews
   - [PoeLLM 恶意软件感染 3,400 多台服务器，以扩大加密货币挖矿僵尸网络](http://0.0.0.0:8080/post/64752)
   - [八个恶意 npm 包被下载 40,767 次，投递 Overlord RAT 和窃密软件](http://0.0.0.0:8080/post/64754)
@@ -90,6 +91,7 @@
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
 - infosecurity-magazine.com
   - [ASOS Confirms Data Breach Linked to Stolen Employee Credentials](https://www.infosecurity-magazine.com/news/asos-data-breach-stolen-employee/)
+  - [Attackers Hijack Three ccTLDs to Obtain Google Certificates](https://www.infosecurity-magazine.com/news/attackers-hijack-cctlds-obtain/)
   - [Chinese Hacker Deployed AI in Campaign Against South Korean Banks](https://www.infosecurity-magazine.com/news/chinese-hacker-ai-korean-banks/)
   - [Europol and US GAO Sound the Alarm Over Quantum Threats](https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/)
   - [FBI and Secret Service Warn of FortiBleed Lockout Threat](https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/)
@@ -99,6 +101,8 @@
   - [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/)
   - [Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/)
   - [Privacy policies and modal logic](https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/)
+- Kali Linux Tutorials
+  - [How Swiss Privacy Rules Affect AI Companies Under GDPR](https://kalilinuxtutorials.com/swiss-privacy-rules-ai-companies-gdpr/)
 - MIT Technology Review
   - [Building a safer path to autonomous industrial AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/)
   - [The Download: AI roadblocks for humanoids and portable rubber dams](https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/)
@@ -129,12 +133,14 @@
 - TechCrunch
   - [5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass](https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/)
   - [Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access](https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/)
+  - [Asos confirms breach of customer data after hackers send rogue app notification](https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/)
   - [Cal AI’s 19-year-old founder just raised $10M for his new AI startup](https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/)
   - [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
   - [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
   - [China’s Manus raises over $500M in first funding round since split with Meta](https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/)
   - [Google releases a new local-first Granola competitor](https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/)
   - [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
+  - [Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/)
   - [India rejects Elon Musk’s claim of discrimination over Starlink launch](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
   - [Last call to volunteer at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/)
   - [Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
@@ -142,11 +148,14 @@
   - [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
   - [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)
   - [Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)
+  - [Spotify is getting more serious about selling enterprise software](https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/)
   - [Uber and China’s Pony.ai plan to launch robotaxis in London](https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/)
   - [Vesta raises $30M to bring swarms of agents to mortgage lenders](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/)
+  - [Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion](https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/)
   - [While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
   - [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
 - The Block
+  - [Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range](https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052)
   - [Crypto industry split over Justin Drake’s AI warning](https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021)
   - [Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk](https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954)
   - [Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion](https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953)
@@ -166,12 +175,14 @@
   - [Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense](https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/)
   - [Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior](https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/)
 - The Verge
+  - [75 great October Prime Day deals are still happening](https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals)
   - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
   - [Alexa Plus is better at running my home, but it&#8217;s not ready to run my life](https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max)
   - [Amazon’s Alexa Tablets are coming for the iPad](https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs)
   - [Amazon’s new Kids Tablets let parents manage access to the Google Play store](https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play)
   - [Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
   - [Artificial is a wicked satire that also sticks to the facts](https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts)
+  - [Atari is bringing back one of its earliest 8-bit home computers](https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder)
   - [Can you trust Meta’s Muse or OpenAI’s Dots to run your life?](https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free)
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
   - [ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
@@ -179,6 +190,7 @@
   - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
   - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
   - [Everything announced at Microsoft&#8217;s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
+  - [Google is launching a one-stop Gemini agent for your work tasks](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise)
   - [GTA VI leaks continue with a lengthy (and very nude) gameplay video](https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked)
   - [Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display](https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on)
   - [It appears .agent and .agi are about to be the hot new domains](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)
@@ -197,6 +209,8 @@
   - [Windows and Surface live blog: On the ground at Microsoft’s event](https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark)
   - [Xbox is launching a new film and TV division](https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events)
   - [Xreal’s most affordable display glasses are $50 off](https://www.theverge.com/gadgets/1006064/xreal-xbx-ao1-plus-display-glasses-prime-day-deal-sale)
+- Wallarm
+  - [You Can’t Secure the AWS Accounts You Don’t Know About.](https://lab.wallarm.com/aws-asset-discovery-attack-path-analysis/)
 - Wired
   - [115 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
   - [27 Best Prime Day Deals on Phone Accessories (2026)](https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/)
