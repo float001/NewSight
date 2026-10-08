@@ -14,6 +14,7 @@
   - [国庆去对象家了](https://2libra.com/post/family/6-DCQjT)
   - [多少金币可以排到前 1000 名？](https://2libra.com/post/forum-function/FttpfrG)
   - [头一次去新疆玩，中秋连国庆十二天](https://2libra.com/post/travel-logs/XSsVnxS)
+  - [巧生一计](https://2libra.com/post/slacking-off/M4z0Pmq)
   - [我为自己的小桌宠成立了一家公司](https://2libra.com/post/personal-works/JtnaL56)
   - [我的主页，没有终点——个人极简主页](https://2libra.com/post/personal-works/s3ugcOw)
   - [我的眼睛太坚强了](https://2libra.com/post/small-things/dCIQ9Ne)
@@ -21,6 +22,7 @@
   - [注册骑手后才知道钱难挣屎难吃啊！](https://2libra.com/post/workplace-stories/zd22zeK)
   - [精酿啤酒模拟经营小游戏](https://2libra.com/post/game-share/MXOFQVT)
   - [都到工位了吗？](https://2libra.com/post/touch-fish/gFQNYzF)
+  - [韩国银行遭 AI 网攻报告指黑客疑藏身广东【搬运】](https://2libra.com/post/network-security/seDq8o7)
   - [鹈鹕暴力摩托](https://2libra.com/post/personal-works/DaY3OZ2)
   - [🎁 开工第一天，给大家放些福利](https://2libra.com/post/promotion/28sjCEd)
   - [🎉 复工福利｜1024Proxy 住宅 IP CDK 免费送](https://2libra.com/post/promotion/bFWiyAO)
@@ -28,11 +30,16 @@
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 - Ars Technica
   - [Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)
+- Ben's Bites
+  - [Text is so 2023](https://www.bensbites.com/p/text-is-so-2023)
+- Bitdefender Labs
+  - [The phone was compromised before the user turned it on: the rise of Midnight Mimosa](https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware)
 - CoinTelegraph
   - [Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls](https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle brings USDC, EURC payments to SAP customers through Tereina](https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto must cement adoption to withstand US policy shifts: Canton CEO](https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ESMA gives crypto firms 3 months to exit non-compliant stablecoins](https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [EU lawmakers push crypto onto anti-corruption agenda](https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR enters crypto’s top 20 after 140% surge in 30 days](https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,6 +73,7 @@
   - [I'm in love with a German film star](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
   - [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
+  - [Telnet BBS Guide](https://www.telnetbbsguide.com/)
   - [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
 - HackerNews
   - [PoeLLM 恶意软件感染 3,400 多台服务器，以扩大加密货币挖矿僵尸网络](http://0.0.0.0:8080/post/64752)
@@ -82,18 +90,22 @@
   - [Chinese Hacker Deployed AI in Campaign Against South Korean Banks](https://www.infosecurity-magazine.com/news/chinese-hacker-ai-korean-banks/)
   - [Europol and US GAO Sound the Alarm Over Quantum Threats](https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/)
   - [FBI and Secret Service Warn of FortiBleed Lockout Threat](https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/)
+  - [Russia-Aligned UAC-0099 Evolves MATCHBOIL Malware](https://www.infosecurity-magazine.com/news/russia-aligned-uac-0099-evolves/)
 - johndcook.com
   - [Consequences of progress toward the Riemann Hypothesis](https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/)
   - [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/)
   - [Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/)
 - MIT Technology Review
   - [Building a safer path to autonomous industrial AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/)
+  - [The Download: AI roadblocks for humanoids and portable rubber dams](https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【已支持检测】Atlassian Jira/Confluence/Bitbucket 等 Da...](https://nosec.org/home/detail/6730.html)
 - NVIDIA AI Blog
   - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
 - Pen Test Partners
   - [Your AI can access it. Can an attacker?](https://www.pentestpartners.com/security-blog/your-ai-can-access-it-can-an-attacker/)
+- Recent Commits to cve:main
+  - [Update Thu Oct  8 12:29:28 UTC 2026](https://github.com/trickest/cve/commit/3f022a9889230ad9f28b2851f800955bb7d3ed46)
 - rtl-sdr.com
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 A Month](https://www.rtl-sdr.com/flitegrid-a-crowdsourced-drone-detection-network-that-pays-feeders-us50-a-month/)
   - [OnAir: A Digital TV and DAB Decoder for SDRs](https://www.rtl-sdr.com/onair-a-digital-tv-and-dab-decoder-for-sdrs/)
@@ -111,15 +123,18 @@
   - [innbox_root exploit](https://sploitus.com/exploit?id=7DA3EEF9-9D07-5EAD-A528-EEAFE47912F6&utm_source=rss&utm_medium=rss)
   - [network-forensics exploit](https://sploitus.com/exploit?id=A483AF8C-7A61-56EA-A365-67E8E6681087&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access](https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/)
   - [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
   - [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
   - [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
   - [India rejects Elon Musk’s claim of discrimination over Starlink launch](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
+  - [Last call to volunteer at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/)
   - [Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
   - [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)
   - [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
   - [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)
   - [Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)
+  - [Uber and China’s Pony.ai plan to launch robotaxis in London](https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/)
   - [Vesta raises $30M to bring swarms of agents to mortgage lenders](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/)
   - [While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
   - [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
@@ -133,6 +148,7 @@
   - [Standard Chartered to expand crypto custody services in Singapore](https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017)
   - [‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats](https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007)
 - The Decoder
+  - [A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found](https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/)
   - [AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks](https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/)
   - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
   - [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/)
@@ -141,6 +157,7 @@
   - [Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior](https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/)
 - The Verge
   - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
+  - [Amazon’s Alexa Tablets are coming for the iPad](https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs)
   - [Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
   - [ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
@@ -148,7 +165,9 @@
   - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
   - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
   - [Everything announced at Microsoft&#8217;s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
+  - [Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display](https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on)
   - [It appears .agent and .agi are about to be the hot new domains](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)
+  - [Joe Rogan and Spotify renew massive podcast deal](https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal)
   - [Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging)
   - [Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700](https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale)
   - [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder)
