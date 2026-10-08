@@ -37,6 +37,7 @@
 - CoinTelegraph
   - [Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls](https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle brings USDC, EURC payments to SAP customers through Tereina](https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto lending rises again… but have they solved the risks?](https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto must cement adoption to withstand US policy shifts: Canton CEO](https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ESMA gives crypto firms 3 months to exit non-compliant stablecoins](https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU lawmakers push crypto onto anti-corruption agenda](https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -48,6 +49,7 @@
   - [Sui tunnels hit 40.6M TPS in live AI agent test](https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Bitcoin ETFs shed $485M in biggest daily outflow since June](https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity](https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AI Agents Are Getting Their Own Inboxes. Email Infrastructure Is Starting to Catch Up](https://www.cyberkendra.com/2026/10/ai-agents-are-getting-their-own-inboxes-email-infrastructure-is-starting-to-catch-up.html)
   - [Top MDR Providers of 2026: What to Evaluate and Where the Category Falls Short](https://www.cyberkendra.com/2026/10/top-mdr-providers-what-to-evaluate.html)
@@ -87,6 +89,7 @@
 - IEEE Spectrum
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
 - infosecurity-magazine.com
+  - [ASOS Confirms Data Breach Linked to Stolen Employee Credentials](https://www.infosecurity-magazine.com/news/asos-data-breach-stolen-employee/)
   - [Chinese Hacker Deployed AI in Campaign Against South Korean Banks](https://www.infosecurity-magazine.com/news/chinese-hacker-ai-korean-banks/)
   - [Europol and US GAO Sound the Alarm Over Quantum Threats](https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/)
   - [FBI and Secret Service Warn of FortiBleed Lockout Threat](https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/)
@@ -95,6 +98,7 @@
   - [Consequences of progress toward the Riemann Hypothesis](https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/)
   - [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/)
   - [Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/)
+  - [Privacy policies and modal logic](https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/)
 - MIT Technology Review
   - [Building a safer path to autonomous industrial AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/)
   - [The Download: AI roadblocks for humanoids and portable rubber dams](https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/)
@@ -123,9 +127,13 @@
   - [innbox_root exploit](https://sploitus.com/exploit?id=7DA3EEF9-9D07-5EAD-A528-EEAFE47912F6&utm_source=rss&utm_medium=rss)
   - [network-forensics exploit](https://sploitus.com/exploit?id=A483AF8C-7A61-56EA-A365-67E8E6681087&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass](https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/)
   - [Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access](https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/)
+  - [Cal AI’s 19-year-old founder just raised $10M for his new AI startup](https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/)
   - [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
   - [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
+  - [China’s Manus raises over $500M in first funding round since split with Meta](https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/)
+  - [Google releases a new local-first Granola competitor](https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/)
   - [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
   - [India rejects Elon Musk’s claim of discrimination over Starlink launch](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
   - [Last call to volunteer at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/)
@@ -144,11 +152,13 @@
   - [Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion](https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953)
   - [Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’](https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947)
   - [Samsung to launch USDC transfers on Solana for US Galaxy users](https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004)
+  - [Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more](https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043)
   - [Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense](https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924)
   - [Standard Chartered to expand crypto custody services in Singapore](https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017)
   - [‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats](https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007)
 - The Decoder
   - [A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found](https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/)
+  - [AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse](https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/)
   - [AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks](https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/)
   - [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/)
   - [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/)
@@ -157,14 +167,19 @@
   - [Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior](https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/)
 - The Verge
   - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
+  - [Alexa Plus is better at running my home, but it&#8217;s not ready to run my life](https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max)
   - [Amazon’s Alexa Tablets are coming for the iPad](https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs)
+  - [Amazon’s new Kids Tablets let parents manage access to the Google Play store](https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play)
   - [Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
+  - [Artificial is a wicked satire that also sticks to the facts](https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts)
+  - [Can you trust Meta’s Muse or OpenAI’s Dots to run your life?](https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free)
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
   - [ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
   - [Cupertino might be made for your mom, but it&#8217;s a good take on tech](https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review)
   - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
   - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
   - [Everything announced at Microsoft&#8217;s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
+  - [GTA VI leaks continue with a lengthy (and very nude) gameplay video](https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked)
   - [Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display](https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on)
   - [It appears .agent and .agi are about to be the hot new domains](https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi)
   - [Joe Rogan and Spotify renew massive podcast deal](https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal)
@@ -220,6 +235,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [世界各地的民调认为社交媒体伤害民主](https://www.solidot.org/story?sid=85547)
+  - [美国男子因利用 AI 生成音乐和机器人账号欺诈播放被判 18 个月](https://www.solidot.org/story?sid=85551)
 - 爱范儿
   - [Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战](https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [和过往的捷豹说再见吧：Type 01 发布，用千匹动力迎接一批新买家](https://www.ifanr.com/1683214?utm_source=rss&utm_medium=rss&utm_campaign=)
