@@ -8,6 +8,7 @@
 - blog.jim-nielsen.com
   - [“Getting off the Modernization Treadmill”](https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/)
 - CoinTelegraph
+  - [China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express](https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [IMF warns tokenized markets could amplify financial risks](https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison](https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -16,6 +17,7 @@
 - daringfireball.net
   - [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137)
   - [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858)
+  - [Let’s Check In on Trump’s Blog](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910)
 - darkreading
   - [Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift](https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift)
   - [Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)
@@ -44,6 +46,7 @@
   - [OpenAI’s math solutions aren’t meeting the field’s standards yet](https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/)
   - [OpenAI’s revenue is reportedly $20 billion less than previously projected](https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/)
   - [Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months](https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/)
+  - [President Trump awards Big Tech donors with nation’s highest science prizes](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/)
   - [Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)
   - [Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/)
 - The Block
@@ -74,11 +77,13 @@
   - [SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute](https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson)
   - [Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business](https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo)
   - [Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access](https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance)
+  - [US plans livestream of execution by firing squad](https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood)
   - [USA Today becomes the latest publisher to sue OpenAI](https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit)
 - Whwlsfb's Tech Blog
   - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/b9135f2f66f4.html)
 - Wired
   - [38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/)
+  - [ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud](https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/)
   - [Inside Elon Musk’s Midterm Spending Spree](https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/)
   - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)
   - [Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe](https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/)
