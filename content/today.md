@@ -8,7 +8,9 @@
   - [【💰】季节会影响你的心情吗？各位年初的目标实现的如何了？](https://2libra.com/post/personal-life/NokEmu9)
   - [【💰】装修](https://2libra.com/post/personal-life/44UH0ja)
   - [上班第一天！从头到脚 ，浑身难受！](https://2libra.com/post/office-life/bJVFxI1)
+  - [中式快餐驴肉火烧，你爱保定派还是河间派？](https://2libra.com/post/small-things/mmOhonV)
   - [国庆去对象家了](https://2libra.com/post/family/6-DCQjT)
+  - [多少金币可以排到前 1000 名？](https://2libra.com/post/forum-function/FttpfrG)
   - [头一次去新疆玩，中秋连国庆十二天](https://2libra.com/post/travel-logs/XSsVnxS)
   - [我的主页，没有终点——个人极简主页](https://2libra.com/post/personal-works/s3ugcOw)
   - [我的眼睛太坚强了](https://2libra.com/post/small-things/dCIQ9Ne)
@@ -35,6 +37,8 @@
   - [Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)
   - [Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)
   - [OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)
+- defend.network
+  - [SonicWall CVSS 10.0 flaw; Google domains hijacked via ccTLD compromise; PoeLLM malware targets AI servers](https://defend.network/briefings/sonicwall-google-ai-malware-cryptomining-supply-chain-2026-10-08.html)
 - eli.thegreenplace.net
   - [Monte-Carlo simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/)
 - Fidelis Security
@@ -70,6 +74,7 @@
   - [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
   - [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
   - [Greenairy is building smart plant towers to clean the air in your office](https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/)
+  - [India rejects Elon Musk’s claim of discrimination over Starlink launch](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
   - [Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material](https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/)
   - [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/)
   - [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
@@ -132,6 +137,7 @@
 - 不安全
   - [APEX_official](https://buaq.net/go-446920.html)
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 Monthly](https://buaq.net/go-446949.html)
+  - [Pwn2Own Ireland 2026 Day 1: 32 Zero-Days, $388,500, Samsung Galaxy S26 Hacked 3 Times](https://buaq.net/go-446967.html)
   - [希捷与东芝争购日本TDK硬盘磁头业务 可能会对机械硬盘市场产生重大影响](https://buaq.net/go-446923.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
