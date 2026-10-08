@@ -27,6 +27,9 @@
   - [Crypto must cement adoption to withstand US policy shifts: Canton CEO](https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill](https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [NEAR enters crypto’s top 20 after 140% surge in 30 days](https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Samsung Wallet to add USDC transfers for US Galaxy users in October](https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered plans institutional crypto custody in Singapore](https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sui tunnels hit 40.6M TPS in live AI agent test](https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization](https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Bitcoin ETFs shed $485M in biggest daily outflow since June](https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -62,18 +65,30 @@
   - [Claude Code Finally Made Me an Engineer After 10 Years in Figma](https://hackernoon.com/claude-code-finally-made-me-an-engineer-after-10-years-in-figma?source=rss)
 - IEEE Spectrum
   - [IEEE Report Predicts Tech That Will Transform Lives](https://spectrum.ieee.org/ieee-report-predicts-tech)
+- infosecurity-magazine.com
+  - [FBI and Secret Service Warn of FortiBleed Lockout Threat](https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/)
 - johndcook.com
   - [Consequences of progress toward the Riemann Hypothesis](https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/)
   - [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/)
   - [Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/)
+- MIT Technology Review
+  - [Building a safer path to autonomous industrial AI](https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/)
+- NOSEC 安全讯息平台 - 漏洞预警
+  - [【已支持检测】Atlassian Jira/Confluence/Bitbucket 等 Da...](https://nosec.org/home/detail/6730.html)
 - NVIDIA AI Blog
   - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
 - rtl-sdr.com
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 A Month](https://www.rtl-sdr.com/flitegrid-a-crowdsourced-drone-detection-network-that-pays-feeders-us50-a-month/)
   - [OnAir: A Digital TV and DAB Decoder for SDRs](https://www.rtl-sdr.com/onair-a-digital-tv-and-dab-decoder-for-sdrs/)
+- Seebug Paper
+  - [TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关](https://paper.seebug.org/3524)
 - simonwillison.net
   - [Introducing Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)
   - [Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-21589](https://sploitus.com/exploit?id=19F202D4-5051-5031-9B1D-1AFCF723BA49&utm_source=rss&utm_medium=rss)
+  - [innbox_root exploit](https://sploitus.com/exploit?id=7DA3EEF9-9D07-5EAD-A528-EEAFE47912F6&utm_source=rss&utm_medium=rss)
+  - [network-forensics exploit](https://sploitus.com/exploit?id=A483AF8C-7A61-56EA-A365-67E8E6681087&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [ChatGPT for Teens keeps teens talking, even during mental health crises](https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/)
   - [ChatGPT is getting a lot more visual, with the launch of a new interface](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/)
@@ -144,10 +159,14 @@
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 Monthly](https://buaq.net/go-446949.html)
   - [Mac 也能装 SteamOS 了！开源工具 Steamac，让苹果电脑直接玩 Windows 游戏](https://buaq.net/go-446970.html)
   - [Pwn2Own Ireland 2026 Day 1: 32 Zero-Days, $388,500, Samsung Galaxy S26 Hacked 3 Times](https://buaq.net/go-446967.html)
+  - [TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关](https://buaq.net/go-446982.html)
   - [希捷与东芝争购日本TDK硬盘磁头业务 可能会对机械硬盘市场产生重大影响](https://buaq.net/go-446923.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [世界各地的民调认为社交媒体伤害民主](https://www.solidot.org/story?sid=85547)
 - 爱范儿
+  - [Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战](https://www.ifanr.com/1683177?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布](https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [黄仁勋发布史上最强 Surface！专为「无限智能」设计](https://www.ifanr.com/1683127?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
