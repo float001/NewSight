@@ -2,9 +2,11 @@
 
 - 2Libra
   - [FileTime：单文件版本管理软件](https://2libra.com/post/open-source-tools/nofS6JI)
+  - [【💰】claude 网页版怎么突然支持中文了？？](https://2libra.com/post/ai-tools/wYT_yzf)
   - [【💰】人在工位，有点迷茫](https://2libra.com/post/touch-fish/-sMu8fh)
   - [【💰】季节会影响你的心情吗？各位年初的目标实现的如何了？](https://2libra.com/post/personal-life/NokEmu9)
   - [【💰】装修](https://2libra.com/post/personal-life/44UH0ja)
+  - [上班第一天！从头到脚 ，浑身难受！](https://2libra.com/post/office-life/bJVFxI1)
   - [国庆去对象家了](https://2libra.com/post/family/6-DCQjT)
   - [头一次去新疆玩，中秋连国庆十二天](https://2libra.com/post/travel-logs/XSsVnxS)
   - [我的主页，没有终点——个人极简主页](https://2libra.com/post/personal-works/s3ugcOw)
@@ -38,6 +40,12 @@
   - [I'm in love with a German film star](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
   - [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
+- HackerNews
+  - [PoeLLM 恶意软件感染 3,400 多台服务器，以扩大加密货币挖矿僵尸网络](http://0.0.0.0:8080/post/64752)
+  - [八个恶意 npm 包被下载 40,767 次，投递 Overlord RAT 和窃密软件](http://0.0.0.0:8080/post/64754)
+  - [勒索软件恢复公司 CEO 因秘密支付赎金被起诉](http://0.0.0.0:8080/post/64751)
+  - [未修补的 LMCache 严重漏洞可让未认证攻击者远程执行代码](http://0.0.0.0:8080/post/64753)
+  - [黑客在入侵 ccTLD 注册管理机构后劫持 Google 域名](http://0.0.0.0:8080/post/64755)
 - HackerNoon
   - [Claude Code Finally Made Me an Engineer After 10 Years in Figma](https://hackernoon.com/claude-code-finally-made-me-an-engineer-after-10-years-in-figma?source=rss)
 - IEEE Spectrum
@@ -120,5 +128,6 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布](https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [黄仁勋发布史上最强 Surface！专为「无限智能」设计](https://www.ifanr.com/1683127?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [大模型原生智能体手机STEPX Neo将于10月13日正式发布](https://www.qbitai.com/2026/10/501915.html)
