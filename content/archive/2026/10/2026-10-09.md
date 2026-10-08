@@ -29,6 +29,12 @@
   - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
 - Horizon3.ai
   - [CVE-2026-102489 | Technical Details](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-102489/)
+- NVIDIA AI Blog
+  - [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
+- simonwillison.net
+  - [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Path Traversal in Apache Http_Server](https://sploitus.com/exploit?id=2D1B2FFF-774C-5301-A577-A130E68C5110&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A startup founder who served time in prison is looking to court an untapped market: ex-cons](https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/)
   - [Anthropic changes usage policy to ban model abuse and election interference](https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/)
@@ -52,6 +58,7 @@
 - The Verge
   - [Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
   - [Anthropic bans ‘abusive or cruel behavior’ towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
+  - [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
   - [Apple announces surprise &#8216;Welcome home&#8217; launch event](https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th)
   - [Apple will reportedly debut its first touchscreen MacBook in three weeks](https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor)
   - [Are you ready for you ready for everything to look like TikTok?](https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok)
@@ -63,6 +70,7 @@
   - [New York accuses TikTok of serving users ‘placebo’ safety features](https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features)
   - [Older Pixel watches are losing free cellular access to several safety features](https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending)
   - [Paramount is making a Cyberpunk 2077 film](https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie)
+  - [SpaceX announces plan to become a ‘major mobile carrier’](https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier)
   - [SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute](https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson)
   - [Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business](https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo)
   - [Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access](https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance)
@@ -71,6 +79,7 @@
   - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/b9135f2f66f4.html)
 - Wired
   - [38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/)
+  - [Inside Elon Musk’s Midterm Spending Spree](https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/)
   - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)
   - [Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe](https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/)
 - 代码审计星球
