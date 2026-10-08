@@ -43,6 +43,7 @@
   - [I'm in love with a German film star](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
   - [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
   - [Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
+  - [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
 - HackerNews
   - [PoeLLM 恶意软件感染 3,400 多台服务器，以扩大加密货币挖矿僵尸网络](http://0.0.0.0:8080/post/64752)
   - [八个恶意 npm 包被下载 40,767 次，投递 Overlord RAT 和窃密软件](http://0.0.0.0:8080/post/64754)
@@ -60,6 +61,7 @@
 - NVIDIA AI Blog
   - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
 - rtl-sdr.com
+  - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 A Month](https://www.rtl-sdr.com/flitegrid-a-crowdsourced-drone-detection-network-that-pays-feeders-us50-a-month/)
   - [OnAir: A Digital TV and DAB Decoder for SDRs](https://www.rtl-sdr.com/onair-a-digital-tv-and-dab-decoder-for-sdrs/)
 - simonwillison.net
   - [Introducing Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)
@@ -129,6 +131,7 @@
   - [These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out](https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/)
 - 不安全
   - [APEX_official](https://buaq.net/go-446920.html)
+  - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 Monthly](https://buaq.net/go-446949.html)
   - [希捷与东芝争购日本TDK硬盘磁头业务 可能会对机械硬盘市场产生重大影响](https://buaq.net/go-446923.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
