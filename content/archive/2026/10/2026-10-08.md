@@ -26,6 +26,8 @@
   - [🎉 复工福利｜1024Proxy 住宅 IP CDK 免费送](https://2libra.com/post/promotion/bFWiyAO)
 - 404 Media
   - [‘Jonathan’ Is the Oldest Land Animal on Earth. He Could Hold the Secrets to Defying Death](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
+- Ars Technica
+  - [Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)
 - CoinTelegraph
   - [Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls](https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle brings USDC, EURC payments to SAP customers through Tereina](https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,6 +51,7 @@
   - [Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)
   - [Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)
   - [OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)
+  - [Writing the Next Chapter](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)
 - defend.network
   - [SonicWall CVSS 10.0 flaw; Google domains hijacked via ccTLD compromise; PoeLLM malware targets AI servers](https://defend.network/briefings/sonicwall-google-ai-malware-cryptomining-supply-chain-2026-10-08.html)
 - eli.thegreenplace.net
@@ -58,6 +61,7 @@
 - GuidePoint Security
   - [GRIT Q3 2026 Ransomware and Cyber Threat Insights Report: Top Takeaways](https://www.guidepointsecurity.com/blog/ransomware-insights-q3-2026/)
 - Hacker News Frontpage
+  - [Anne Carson wins Nobel Prize in literature 2026](https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026)
   - [I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)
   - [I'm in love with a German film star](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
   - [Margaret Hamilton, who led software development for Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
@@ -88,6 +92,8 @@
   - [【已支持检测】Atlassian Jira/Confluence/Bitbucket 等 Da...](https://nosec.org/home/detail/6730.html)
 - NVIDIA AI Blog
   - [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/)
+- Pen Test Partners
+  - [Your AI can access it. Can an attacker?](https://www.pentestpartners.com/security-blog/your-ai-can-access-it-can-an-attacker/)
 - rtl-sdr.com
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 A Month](https://www.rtl-sdr.com/flitegrid-a-crowdsourced-drone-detection-network-that-pays-feeders-us50-a-month/)
   - [OnAir: A Digital TV and DAB Decoder for SDRs](https://www.rtl-sdr.com/onair-a-digital-tv-and-dab-decoder-for-sdrs/)
@@ -95,6 +101,8 @@
   - [CVE-2026-86950: The Great Glyph Grift](https://govuln.com/news/url/PZOa)
 - Seebug Paper
   - [TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关](https://paper.seebug.org/3524)
+- shkspr.mobi
+  - [Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪](https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/)
 - simonwillison.net
   - [Introducing Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)
   - [Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/)
@@ -112,6 +120,7 @@
   - [Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11](https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/)
   - [Nous Research confirms it hit $1.5B valuation, launches AI agents for business users](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)
   - [Robot data startup Mecka AI nabs $60M from Sequoia](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)
+  - [Vesta raises $30M to bring swarms of agents to mortgage lenders](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/)
   - [While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
   - [X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/)
 - The Block
@@ -135,6 +144,7 @@
   - [Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think](https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think)
   - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)
   - [ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)
+  - [Cupertino might be made for your mom, but it&#8217;s a good take on tech](https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review)
   - [Disney Plus will stream Super Bowl LXI](https://www.theverge.com/streaming/1006911/disney-plus-super-bowl-lxi-streaming)
   - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
   - [Everything announced at Microsoft&#8217;s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced)
@@ -151,6 +161,7 @@
   - [We found some great October Prime Day deals under $50](https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50)
   - [What The Social Reckoning gets right — and wrong](https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life)
   - [Windows and Surface live blog: On the ground at Microsoft’s event](https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark)
+  - [Xbox is launching a new film and TV division](https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events)
   - [Xreal’s most affordable display glasses are $50 off](https://www.theverge.com/gadgets/1006064/xreal-xbx-ao1-plus-display-glasses-prime-day-deal-sale)
 - Wired
   - [115 Best Prime Day Deals We’re Shopping This October (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
@@ -175,10 +186,12 @@
   - [Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’](https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/)
 - 不安全
   - [APEX_official](https://buaq.net/go-446920.html)
+  - [bromite](https://buaq.net/go-447021.html)
   - [Convegno "Sotto attacco" (e Gli uomini possona fare tutto - Ottobre 2026)](https://buaq.net/go-446997.html)
   - [FliteGrid: A Crowdsourced Drone Detection Network That Pays Feeders US$50 Monthly](https://buaq.net/go-446949.html)
   - [gost](https://buaq.net/go-446989.html)
   - [Mac 也能装 SteamOS 了！开源工具 Steamac，让苹果电脑直接玩 Windows 游戏](https://buaq.net/go-446970.html)
+  - [Meta’s Muse AI files away your friendships, arguments, and secrets](https://buaq.net/go-447017.html)
   - [Pwn2Own Ireland 2026 Day 1: 32 Zero-Days, $388,500, Samsung Galaxy S26 Hacked 3 Times](https://buaq.net/go-446967.html)
   - [TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关](https://buaq.net/go-446982.html)
   - [U.S. Offers $10 Million Reward for Alleged HAFNIUM Hacker Zhang Yu](https://buaq.net/go-447003.html)
