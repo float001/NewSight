@@ -3,6 +3,8 @@
 - 404 Media
   - ['It Is Done. Hail Satan:' City Immediately Regrets New Religious Liberty Law That Allows Prayer at City Council Meeting](https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/)
   - [Podcast: Leak Show Cops Can Break into Locked iPhones](https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/)
+- Ars Technica
+  - [R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing](https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/)
 - blog.jim-nielsen.com
   - [“Getting off the Modernization Treadmill”](https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/)
 - CoinTelegraph
@@ -36,6 +38,7 @@
   - [OpenAI’s math solutions aren’t meeting the field’s standards yet](https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/)
   - [OpenAI’s revenue is reportedly $20 billion less than previously projected](https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/)
   - [Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months](https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/)
+  - [Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)
   - [Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/)
 - The Block
   - [Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users](https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070)
@@ -50,7 +53,9 @@
   - [Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
   - [Anthropic bans ‘abusive or cruel behavior’ towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
   - [Apple announces surprise &#8216;Welcome home&#8217; launch event](https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th)
+  - [Apple will reportedly debut its first touchscreen MacBook in three weeks](https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor)
   - [Are you ready for you ready for everything to look like TikTok?](https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok)
+  - [California is trying to shut down robot vs. human cage matches](https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human)
   - [Forza Horizon 6 is being delayed on PS5 to January 2027](https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay)
   - [I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale](https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale)
   - [ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside](https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video)
