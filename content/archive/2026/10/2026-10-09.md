@@ -9,16 +9,22 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [IMF warns tokenized markets could amplify financial risks](https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison](https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [NFL backs New Jersey authorities in SCOTUS petition over Kalshi](https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Securitize stock jumps over 10% after launching tokenized US equities on Solana](https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137)
   - [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858)
 - darkreading
   - [Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift](https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift)
+  - [Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)
 - Fidelis Security
   - [Risk Prioritization: How Security Teams Decide What to Fix First](https://fidelissecurity.com/threatgeek/threat-detection-response/risk-prioritization/)
 - Hacker News Frontpage
+  - [License update: AI derivation prohibited on all my art, lore, stories, comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
   - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
   - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
   - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
+  - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
 - Horizon3.ai
   - [CVE-2026-102489 | Technical Details](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-102489/)
 - TechCrunch
@@ -38,6 +44,7 @@
   - [Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says](https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066)
   - [The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market](https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081)
 - The Decoder
+  - [Claude can now generate animated explainer videos and live data dashboards from text prompts](https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/)
   - [Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field](https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/)
 - The Verge
   - [Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
@@ -46,8 +53,11 @@
   - [Are you ready for you ready for everything to look like TikTok?](https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok)
   - [Forza Horizon 6 is being delayed on PS5 to January 2027](https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay)
   - [I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale](https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale)
+  - [ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside](https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video)
+  - [Microsoft’s new Windows Search is exactly what Windows 11 needs](https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11)
   - [New York accuses TikTok of serving users ‘placebo’ safety features](https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features)
   - [Older Pixel watches are losing free cellular access to several safety features](https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending)
+  - [Paramount is making a Cyberpunk 2077 film](https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie)
   - [SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute](https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson)
   - [Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business](https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo)
   - [Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access](https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance)
@@ -56,5 +66,7 @@
   - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/b9135f2f66f4.html)
 - Wired
   - [38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/)
+  - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)
+  - [Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe](https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
