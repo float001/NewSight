@@ -4,10 +4,16 @@
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
 - 404 Media
   - [Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program](https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/)
+- Ars Technica
+  - [AI disqualification yields new Nikon Small World in Motion winner](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/)
+  - [PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023](https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/)
+  - [Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon](https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/)
+  - [Your artwork could be featured in the next Debian release](https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/)
 - Blog - Praetorian
   - [Hunt, Triage, and Act on Guard Findings in Slack](https://www.praetorian.com/blog/slack-integration/)
 - CoinTelegraph
   - [Blockchain.com pursues CFTC approval for prediction markets: CNBC](https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HSBC, Ant Digital test AI-agent payments using tokenized deposits](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ledger investigates fund losses linked to Southeast Asian reseller, warns users](https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -21,29 +27,45 @@
 - gilesthomas.com
   - [Fun with low-rank vocab matrices (and a bonus test loss reduction?)](https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices)
 - Hacker News Frontpage
+  - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
+  - [Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)
   - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
+  - [Show HN: See *almost* any carriers phone settings](https://carrierexplode.com/)
+  - [You Might Want to Try Being Less Creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
 - Horizon3.ai
   - [AI Changed the Economics of Cyberattacks](https://horizon3.ai/downloads/whitepapers/ai-economics-cyberattacks-exposure-management/)
 - IEEE Spectrum
   - [Master AI Chip Principles With New IEEE Design Program](https://spectrum.ieee.org/master-ai-chip-principles-ieee)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=29D79F63-DC38-57EF-8AE3-3AA792A62627&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
+  - [Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)
   - [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
   - [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
+  - [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
   - [Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe](https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/)
   - [We can’t help treating AI like it’s human. But should we?](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)
 - The Block
   - [Blockchain.com seeks CFTC greenlight for prediction markets, crypto derivatives trading: CNBC](https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192)
+  - [Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’](https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208)
 - The Decoder
   - [Anthropic launches a free AI scanner for open-source projects](https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/)
+  - [Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows](https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/)
   - [OpenAI revenue keeps surging as company seeks $30 billion in fresh capital](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/)
 - The Verge
   - [Amazon’s new Kindles appear to have a light leak problem](https://www.theverge.com/tech/1008833/amazon-kindle-light-leak)
   - [Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features](https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor)
+  - [Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
   - [Frances Haugen hopes The Social Reckoning will inspire more whistleblowers](https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower)
+  - [Google teases Fitbit Edge launch next week](https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week)
   - [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
+  - [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)
   - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
 - Wired
+  - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/)
   - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [你让 AI 截个图，它顺手把你公司机密传上了公网](https://www.anquanke.com/post/id/316214)
