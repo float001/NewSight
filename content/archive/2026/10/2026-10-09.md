@@ -8,6 +8,8 @@
   - [想找大家取点报驾校的经验](https://2libra.com/post/questions/oaHNJ2w)
   - [暗黑 4 还是解压啊 怪不得老马也玩](https://2libra.com/post/game-discussion/qMM8SuK)
   - [诶嘿，会动了](https://2libra.com/post/forum-function/vGyEgGv)
+  - [谷歌账号被冻结求助](https://2libra.com/post/help-requests/xo422Mt)
+  - [这是一份工作上的吐槽帖](https://2libra.com/post/workplace-stories/NecwcGn)
 - 404 Media
   - ['It Is Done. Hail Satan:' City Immediately Regrets New Religious Liberty Law That Allows Prayer at City Council Meeting](https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/)
   - [Podcast: Leak Show Cops Can Break into Locked iPhones](https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/)
@@ -25,6 +27,7 @@
   - [Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison](https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NFL backs New Jersey authorities in SCOTUS petition over Kalshi](https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Securitize stock jumps over 10% after launching tokenized US equities on Solana](https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Thailand finalizes rules paving way for Bitcoin, Ether ETFs](https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137)
   - [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858)
@@ -35,6 +38,7 @@
 - Fidelis Security
   - [Risk Prioritization: How Security Teams Decide What to Fix First](https://fidelissecurity.com/threatgeek/threat-detection-response/risk-prioritization/)
 - Hacker News Frontpage
+  - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
   - [License update: AI derivation prohibited on all my art, lore, stories, comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
   - [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
   - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
@@ -42,6 +46,8 @@
   - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
   - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
   - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
+- HackerNews
+  - [UAC-0099 以 ASHVEIN RAT 攻击乌克兰政府人员，将命令隐藏在 HTML 中](http://0.0.0.0:8080/post/64756)
 - Horizon3.ai
   - [CVE-2026-102489 | Technical Details](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-102489/)
 - MIT Technology Review
@@ -108,6 +114,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」](https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位](https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业](https://www.qbitai.com/2026/10/502106.html)
