@@ -6,7 +6,9 @@
   - [workbuddy 可以拼车吗？](https://2libra.com/post/questions/0BiQy6R)
   - [【💰】我的 Muse 叫 KunKun，你的呢？](https://2libra.com/post/ai-tools/0DOWL1f)
   - [【💰】活跃度](https://2libra.com/post/forum-function/i1Lqyzh)
+  - [买了个假 ACR122U 读卡器](https://2libra.com/post/excessive-things/xFPrZgf)
   - [今天抽到 gif 图头像了，花 500 大洋](https://2libra.com/post/forum-function/yhUaSpi)
+  - [关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示](https://2libra.com/post/network-security/OLF8dwR)
   - [小金豆来一克……？](https://2libra.com/post/small-things/QgF58NC)
   - [帖子被误移入黑洞节点，请求守护者协助移动](https://2libra.com/post/community/1d6oyAg)
   - [想找大家取点报驾校的经验](https://2libra.com/post/questions/oaHNJ2w)
@@ -18,6 +20,7 @@
   - [谷歌账号被冻结求助](https://2libra.com/post/help-requests/xo422Mt)
   - [这是一份工作上的吐槽帖](https://2libra.com/post/workplace-stories/NecwcGn)
   - [这是一条怼公司总经理的吐槽贴](https://2libra.com/post/workplace-stories/tR9wTYg)
+  - [这谁做的，太缺德了 😄](https://2libra.com/post/idea/D9VJj5b)
 - 404 Media
   - ['It Is Done. Hail Satan:' City Immediately Regrets New Religious Liberty Law That Allows Prayer at City Council Meeting](https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/)
   - [Podcast: Leak Show Cops Can Break into Locked iPhones](https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/)
@@ -69,6 +72,7 @@
 - idiallo.com
   - [20 Minutes of Political Debate, Brought to You by Commercial Breaks](https://idiallo.com/byte-size/20-minutes-of-political-debate)
 - infosecurity-magazine.com
+  - [AI Training Critical as Governance Challenges Grow](https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/)
   - [Major AI Firms Pledge Data Protection Changes Following UK Privacy Watchdog Push](https://www.infosecurity-magazine.com/news/ai-firms-pledge-data-protection/)
 - MIT Technology Review
   - [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
@@ -98,6 +102,7 @@
   - [The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market](https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081)
 - The Decoder
   - [Claude can now generate animated explainer videos and live data dashboards from text prompts](https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/)
+  - [OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets](https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/)
   - [Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field](https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/)
 - The Verge
   - [Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
@@ -144,14 +149,19 @@
   - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)
 - 不安全
   - [[重要提醒] Let’s Encrypt从明年2月起将证书有效期从90天缩短到64天 最终缩短到45天](https://buaq.net/go-447177.html)
+  - [ARTEX 从 GitHub 下架](https://buaq.net/go-447229.html)
   - [Is it worth investing in StationX Certified AI-Driven Security Engineer (SX-AIE) ?](https://buaq.net/go-447199.html)
   - [revng](https://buaq.net/go-447208.html)
   - [sleigh](https://buaq.net/go-447227.html)
+  - [SpaceX 呼吁在轨卫星加强协调](https://buaq.net/go-447230.html)
   - [黑客遇到日本企业也很无奈：挂了7小时还不停地戳电源重启 就是不看勒索信](https://buaq.net/go-447215.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 天御攻防实验室
   - [黑客 Halvar Flake](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487241&idx=1&sn=3e16bb3ee1a8c0951b45568de90ff5c3)
+- 奇客Solidot–传递最新科技情报
+  - [ARTEX 从 GitHub 下架](https://www.solidot.org/story?sid=85561)
+  - [SpaceX 呼吁在轨卫星加强协调](https://www.solidot.org/story?sid=85560)
 - 小刀志
   - [从 WinCrypt 到 OpenSSL：构建 PESignAnalyzer 跨平台版本](https://xiaodaozhi.com/security/526.html)
 - 爱范儿
