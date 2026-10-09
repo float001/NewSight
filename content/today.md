@@ -18,6 +18,7 @@
 - CoinTelegraph Security
   - [Ledger investigates fund losses linked to Southeast Asian reseller, warns users](https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - darkreading
+  - [AI Scramble Drives Cybersecurity M&amp;A Boom](https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom)
   - [Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too](https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too)
   - [What We Missed: FBI Strikes Back at ShinyHunters](https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack)
 - Fidelis Security
@@ -36,10 +37,14 @@
   - [AI Changed the Economics of Cyberattacks](https://horizon3.ai/downloads/whitepapers/ai-economics-cyberattacks-exposure-management/)
 - IEEE Spectrum
   - [Master AI Chip Principles With New IEEE Design Program](https://spectrum.ieee.org/master-ai-chip-principles-ieee)
+- pluralistic.net
+  - [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-21589](https://sploitus.com/exploit?id=FBA3BACC-C6E2-5B4A-A895-1C6DA0DC7B50&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=29D79F63-DC38-57EF-8AE3-3AA792A62627&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
+  - [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
   - [Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)
   - [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
   - [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
@@ -54,6 +59,7 @@
   - [Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows](https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/)
   - [OpenAI revenue keeps surging as company seeks $30 billion in fresh capital](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/)
 - The Verge
+  - [&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)
   - [Amazon’s new Kindles appear to have a light leak problem](https://www.theverge.com/tech/1008833/amazon-kindle-light-leak)
   - [Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features](https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor)
   - [Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
@@ -61,8 +67,10 @@
   - [Google teases Fitbit Edge launch next week](https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week)
   - [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
   - [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)
+  - [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)
   - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
 - Wired
+  - [Book Publishers Are Quietly Using More AI. Staff Are Revolting](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/)
   - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/)
   - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
 - 代码审计星球
