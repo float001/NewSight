@@ -3,13 +3,17 @@
 - 2Libra
   - [10 月 30 日校双选会，想问问各位前辈有什么坑可以避开的。](https://2libra.com/post/job-hunting/tQWYrp0)
   - [Hermes 官方提供免费模型 stepfun/step-5-preview:free](https://2libra.com/post/large-models/YU8JDzh)
+  - [workbuddy 可以拼车吗？](https://2libra.com/post/questions/0BiQy6R)
   - [【💰】我的 Muse 叫 KunKun，你的呢？](https://2libra.com/post/ai-tools/0DOWL1f)
   - [【💰】活跃度](https://2libra.com/post/forum-function/i1Lqyzh)
   - [今天抽到 gif 图头像了，花 500 大洋](https://2libra.com/post/forum-function/yhUaSpi)
   - [小金豆来一克……？](https://2libra.com/post/small-things/QgF58NC)
+  - [帖子被误移入黑洞节点，请求守护者协助移动](https://2libra.com/post/community/1d6oyAg)
   - [想找大家取点报驾校的经验](https://2libra.com/post/questions/oaHNJ2w)
+  - [我给“走个面”徽章增加了佩戴活跃度加成效果](https://2libra.com/post/forum-function/E2QSE8l)
   - [暗黑 4 还是解压啊 怪不得老马也玩](https://2libra.com/post/game-discussion/qMM8SuK)
   - [有老哥懂行车记录仪么，求推荐](https://2libra.com/post/automobile/jjANOOR)
+  - [订阅 claude](https://2libra.com/post/ai-tools/vxzV3ev)
   - [诶嘿，会动了](https://2libra.com/post/forum-function/vGyEgGv)
   - [谷歌账号被冻结求助](https://2libra.com/post/help-requests/xo422Mt)
   - [这是一份工作上的吐槽帖](https://2libra.com/post/workplace-stories/NecwcGn)
@@ -24,6 +28,7 @@
 - Chainalysis Blog
   - [UK Targets Cryptomus, Heleket, TokenSpot in New Russian Sanctions](https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/)
 - CoinTelegraph
+  - [Bitcoin, Ether ETFs’ October outflows swell toward $1B](https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties](https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express](https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto projects apply for Anthropic’s new frontier AI security scanner](https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -43,6 +48,8 @@
   - [Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)
 - defend.network
   - [Flax Typhoon infrastructure seized; Cisco NX-OS RCE patches released](https://defend.network/briefings/flax-typhoon-cisco-nexus-android-firmware-malware-2026-10-09.html)
+- ElcomSoft blog
+  - [Low-Level Extraction of the HomePod mini](https://blog.elcomsoft.com/2026/10/low-level-extraction-of-the-homepod-mini/)
 - Fidelis Security
   - [Risk Prioritization: How Security Teams Decide What to Fix First](https://fidelissecurity.com/threatgeek/threat-detection-response/risk-prioritization/)
 - Hacker News Frontpage
@@ -61,6 +68,8 @@
   - [CVE-2026-102489 | Technical Details](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-102489/)
 - idiallo.com
   - [20 Minutes of Political Debate, Brought to You by Commercial Breaks](https://idiallo.com/byte-size/20-minutes-of-political-debate)
+- infosecurity-magazine.com
+  - [Major AI Firms Pledge Data Protection Changes Following UK Privacy Watchdog Push](https://www.infosecurity-magazine.com/news/ai-firms-pledge-data-protection/)
 - MIT Technology Review
   - [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
 - NVIDIA AI Blog
@@ -101,6 +110,7 @@
   - [Forza Horizon 6 is being delayed on PS5 to January 2027](https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay)
   - [I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale](https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale)
   - [ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside](https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video)
+  - [Microsoft 365 Family subscribers will finally be able to share AI benefits](https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes)
   - [Microsoft’s new Windows Search is exactly what Windows 11 needs](https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11)
   - [New York accuses TikTok of serving users ‘placebo’ safety features](https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features)
   - [Older Pixel watches are losing free cellular access to several safety features](https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending)
@@ -136,14 +146,19 @@
   - [[重要提醒] Let’s Encrypt从明年2月起将证书有效期从90天缩短到64天 最终缩短到45天](https://buaq.net/go-447177.html)
   - [Is it worth investing in StationX Certified AI-Driven Security Engineer (SX-AIE) ?](https://buaq.net/go-447199.html)
   - [revng](https://buaq.net/go-447208.html)
+  - [sleigh](https://buaq.net/go-447227.html)
   - [黑客遇到日本企业也很无奈：挂了7小时还不停地戳电源重启 就是不看勒索信](https://buaq.net/go-447215.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 天御攻防实验室
+  - [黑客 Halvar Flake](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487241&idx=1&sn=3e16bb3ee1a8c0951b45568de90ff5c3)
 - 小刀志
   - [从 WinCrypt 到 OpenSSL：构建 PESignAnalyzer 跨平台版本](https://xiaodaozhi.com/security/526.html)
 - 爱范儿
   - [全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」](https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位](https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？](https://www.ifanr.com/1683356?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业](https://www.qbitai.com/2026/10/502106.html)
+  - [字节找到了DeepSeek时强时弱的原因](https://www.qbitai.com/2026/10/502364.html)
   - [灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」](https://www.qbitai.com/2026/10/502330.html)
