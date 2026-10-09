@@ -11,6 +11,7 @@
   - [诶嘿，会动了](https://2libra.com/post/forum-function/vGyEgGv)
   - [谷歌账号被冻结求助](https://2libra.com/post/help-requests/xo422Mt)
   - [这是一份工作上的吐槽帖](https://2libra.com/post/workplace-stories/NecwcGn)
+  - [这是一条怼公司总经理的吐槽贴](https://2libra.com/post/workplace-stories/tR9wTYg)
 - 404 Media
   - ['It Is Done. Hail Satan:' City Immediately Regrets New Religious Liberty Law That Allows Prayer at City Council Meeting](https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/)
   - [Podcast: Leak Show Cops Can Break into Locked iPhones](https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/)
@@ -23,12 +24,14 @@
 - CoinTelegraph
   - [Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties](https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express](https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto projects apply for Anthropic’s new frontier AI security scanner](https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [IMF warns tokenized markets could amplify financial risks](https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison](https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NFL backs New Jersey authorities in SCOTUS petition over Kalshi](https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Securitize stock jumps over 10% after launching tokenized US equities on Solana](https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand finalizes rules paving way for Bitcoin, Ether ETFs](https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump administration outlines quantum, AI initiatives in $6B science push](https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137)
   - [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858)
@@ -43,6 +46,7 @@
   - [License update: AI derivation prohibited on all my art, lore, stories, comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
   - [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
   - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
+  - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
   - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
   - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
   - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
@@ -127,6 +131,7 @@
 - 不安全
   - [[重要提醒] Let’s Encrypt从明年2月起将证书有效期从90天缩短到64天 最终缩短到45天](https://buaq.net/go-447177.html)
   - [Is it worth investing in StationX Certified AI-Driven Security Engineer (SX-AIE) ?](https://buaq.net/go-447199.html)
+  - [revng](https://buaq.net/go-447208.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
