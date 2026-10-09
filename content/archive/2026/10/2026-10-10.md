@@ -4,12 +4,16 @@
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
 - 404 Media
   - [Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program](https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/)
+- Blog - Praetorian
+  - [Hunt, Triage, and Act on Guard Findings in Slack](https://www.praetorian.com/blog/slack-integration/)
 - CoinTelegraph
   - [Blockchain.com pursues CFTC approval for prediction markets: CNBC](https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HSBC, Ant Digital test AI-agent payments using tokenized deposits](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ledger investigates fund losses linked to Southeast Asian reseller, warns users](https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - darkreading
   - [Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too](https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too)
+  - [What We Missed: FBI Strikes Back at ShinyHunters](https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack)
 - Fidelis Security
   - [Risk-Based Vulnerability Prioritization with Fidelis Halo® CNAPP](https://fidelissecurity.com/threatgeek/cloud-security/cloud-risk-prioritization/)
 - filfre.net
@@ -20,6 +24,8 @@
   - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
 - Horizon3.ai
   - [AI Changed the Economics of Cyberattacks](https://horizon3.ai/downloads/whitepapers/ai-economics-cyberattacks-exposure-management/)
+- IEEE Spectrum
+  - [Master AI Chip Principles With New IEEE Design Program](https://spectrum.ieee.org/master-ai-chip-principles-ieee)
 - TechCrunch
   - [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
   - [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
@@ -28,10 +34,15 @@
   - [We can’t help treating AI like it’s human. But should we?](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)
 - The Block
   - [Blockchain.com seeks CFTC greenlight for prediction markets, crypto derivatives trading: CNBC](https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192)
+- The Decoder
+  - [Anthropic launches a free AI scanner for open-source projects](https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/)
+  - [OpenAI revenue keeps surging as company seeks $30 billion in fresh capital](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/)
 - The Verge
+  - [Amazon’s new Kindles appear to have a light leak problem](https://www.theverge.com/tech/1008833/amazon-kindle-light-leak)
   - [Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features](https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor)
   - [Frances Haugen hopes The Social Reckoning will inspire more whistleblowers](https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower)
   - [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
+  - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
 - Wired
   - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
 - 代码审计星球
