@@ -5,9 +5,11 @@
   - [Hermes 官方提供免费模型 stepfun/step-5-preview:free](https://2libra.com/post/large-models/YU8JDzh)
   - [【💰】我的 Muse 叫 KunKun，你的呢？](https://2libra.com/post/ai-tools/0DOWL1f)
   - [【💰】活跃度](https://2libra.com/post/forum-function/i1Lqyzh)
+  - [今天抽到 gif 图头像了，花 500 大洋](https://2libra.com/post/forum-function/yhUaSpi)
   - [小金豆来一克……？](https://2libra.com/post/small-things/QgF58NC)
   - [想找大家取点报驾校的经验](https://2libra.com/post/questions/oaHNJ2w)
   - [暗黑 4 还是解压啊 怪不得老马也玩](https://2libra.com/post/game-discussion/qMM8SuK)
+  - [有老哥懂行车记录仪么，求推荐](https://2libra.com/post/automobile/jjANOOR)
   - [诶嘿，会动了](https://2libra.com/post/forum-function/vGyEgGv)
   - [谷歌账号被冻结求助](https://2libra.com/post/help-requests/xo422Mt)
   - [这是一份工作上的吐槽帖](https://2libra.com/post/workplace-stories/NecwcGn)
@@ -39,6 +41,8 @@
 - darkreading
   - [Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift](https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift)
   - [Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)
+- defend.network
+  - [Flax Typhoon infrastructure seized; Cisco NX-OS RCE patches released](https://defend.network/briefings/flax-typhoon-cisco-nexus-android-firmware-malware-2026-10-09.html)
 - Fidelis Security
   - [Risk Prioritization: How Security Teams Decide What to Fix First](https://fidelissecurity.com/threatgeek/threat-detection-response/risk-prioritization/)
 - Hacker News Frontpage
@@ -132,8 +136,11 @@
   - [[重要提醒] Let’s Encrypt从明年2月起将证书有效期从90天缩短到64天 最终缩短到45天](https://buaq.net/go-447177.html)
   - [Is it worth investing in StationX Certified AI-Driven Security Engineer (SX-AIE) ?](https://buaq.net/go-447199.html)
   - [revng](https://buaq.net/go-447208.html)
+  - [黑客遇到日本企业也很无奈：挂了7小时还不停地戳电源重启 就是不看勒索信](https://buaq.net/go-447215.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 小刀志
+  - [从 WinCrypt 到 OpenSSL：构建 PESignAnalyzer 跨平台版本](https://xiaodaozhi.com/security/526.html)
 - 爱范儿
   - [全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」](https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位](https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=)
