@@ -83,6 +83,7 @@
 - infosecurity-magazine.com
   - [AI Training Critical as Governance Challenges Grow](https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/)
   - [Major AI Firms Pledge Data Protection Changes Following UK Privacy Watchdog Push](https://www.infosecurity-magazine.com/news/ai-firms-pledge-data-protection/)
+  - [Q3 2026 Sets New Record for Ransomware Attacks](https://www.infosecurity-magazine.com/news/q3-new-record-ransomware/)
   - [UK and Allies Warn of Cyber Threat from China’s Integrity Technology Group](https://www.infosecurity-magazine.com/news/uk-allies-threat-china-integrity/)
 - Linux Foundation Blogs
   - [How Should Enterprises Transition to the Agentic Era?](https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era)
@@ -90,6 +91,8 @@
   - [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
 - NVIDIA AI Blog
   - [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
+- shkspr.mobi
+  - [Concert Review: London Voices - Video Games Go Choral ★★★★☆](https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/)
 - simonwillison.net
   - [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/)
 - Sploitus.com Exploits RSS Feed
@@ -106,6 +109,7 @@
   - [President Trump awards Big Tech donors with nation’s highest science prizes](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/)
   - [Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)
   - [Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/)
+  - [Xona’s commercial GPS alternative is about to go live](https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/)
 - The Block
   - [Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users](https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070)
   - [JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4](https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115)
@@ -118,6 +122,7 @@
   - [Anthropic's Claude Science creates the first complete ultraviolet map of the sky](https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/)
   - [Claude can now generate animated explainer videos and live data dashboards from text prompts](https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/)
   - [OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets](https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/)
+  - [OpenAI's safety crisis keeps getting worse and the company keeps making it worse](https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/)
   - [Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field](https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/)
 - The Verge
   - [Amazon is phasing out Fire Tablets because they weren&#8217;t &#8216;giving customers what they were asking for&#8217;](https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay)
