@@ -35,6 +35,10 @@
   - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
   - [Show HN: See *almost* any carriers phone settings](https://carrierexplode.com/)
   - [You Might Want to Try Being Less Creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
+  - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+- HackerNoon
+  - [GPT 6 Astra - Will It Shake 
+Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-the-world-of-marketing?source=rss)
 - Horizon3.ai
   - [AI Changed the Economics of Cyberattacks](https://horizon3.ai/downloads/whitepapers/ai-economics-cyberattacks-exposure-management/)
 - IEEE Spectrum
@@ -52,6 +56,7 @@
   - [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
   - [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
   - [Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe](https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/)
+  - [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
   - [We can’t help treating AI like it’s human. But should we?](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)
 - The Block
   - [Blockchain.com seeks CFTC greenlight for prediction markets, crypto derivatives trading: CNBC](https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192)
@@ -63,8 +68,10 @@
 - The Verge
   - [&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)
   - [Amazon’s new Kindles appear to have a light leak problem](https://www.theverge.com/tech/1008833/amazon-kindle-light-leak)
+  - [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)
   - [Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features](https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor)
   - [Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
+  - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
   - [Frances Haugen hopes The Social Reckoning will inspire more whistleblowers](https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower)
   - [Google teases Fitbit Edge launch next week](https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week)
   - [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
