@@ -3,6 +3,9 @@
 - 2Libra
   - [Hermes 官方提供免费模型 stepfun/step-5-preview:free](https://2libra.com/post/large-models/YU8JDzh)
   - [【💰】我的 Muse 叫 KunKun，你的呢？](https://2libra.com/post/ai-tools/0DOWL1f)
+  - [【💰】活跃度](https://2libra.com/post/forum-function/i1Lqyzh)
+  - [暗黑 4 还是解压啊 怪不得老马也玩](https://2libra.com/post/game-discussion/qMM8SuK)
+  - [诶嘿，会动了](https://2libra.com/post/forum-function/vGyEgGv)
 - 404 Media
   - ['It Is Done. Hail Satan:' City Immediately Regrets New Religious Liberty Law That Allows Prayer at City Council Meeting](https://www.404media.co/it-is-done-hail-satan-city-immediately-regrets-new-religious-liberty-law-that-allows-prayer-at-city-council-meeting/)
   - [Podcast: Leak Show Cops Can Break into Locked iPhones](https://www.404media.co/podcast-leak-show-cops-can-break-into-locked-iphones/)
@@ -10,6 +13,8 @@
   - [R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing](https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/)
 - blog.jim-nielsen.com
   - [“Getting off the Modernization Treadmill”](https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/)
+- Chainalysis Blog
+  - [UK Targets Cryptomus, Heleket, TokenSpot in New Russian Sanctions](https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/)
 - CoinTelegraph
   - [Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties](https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express](https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -92,6 +97,7 @@
   - [38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/)
   - [ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud](https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/)
   - [Inside Elon Musk’s Midterm Spending Spree](https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/)
+  - [Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
   - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)
   - [Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe](https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/)
 - 代码审计星球
