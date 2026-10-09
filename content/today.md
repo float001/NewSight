@@ -12,6 +12,7 @@
   - [关于+86 账号 telegram 接码问题的解决方案](https://2libra.com/post/tech-qa/i6Zyyrl)
   - [关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示](https://2libra.com/post/network-security/OLF8dwR)
   - [在线 AI 程序整套打包出，懂的来](https://2libra.com/post/promotion/tFgNo9J)
+  - [大厂 10 元/年注册 com 域名教程超级简单，无需实名无需手机号，续费也是 10 元](https://2libra.com/post/domain-service/m72xMTZ)
   - [小金豆来一克……？](https://2libra.com/post/small-things/QgF58NC)
   - [帖子被误移入黑洞节点，请求守护者协助移动](https://2libra.com/post/community/1d6oyAg)
   - [想找大家取点报驾校的经验](https://2libra.com/post/questions/oaHNJ2w)
@@ -39,6 +40,8 @@
   - [Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties](https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express](https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto projects apply for Anthropic’s new frontier AI security scanner](https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ESMA seeks evidence tokenized collateral can be cashed out in crisis](https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [French lawmakers back stablecoin swap tax in 2027 budget bill](https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [IMF warns tokenized markets could amplify financial risks](https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison](https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +49,7 @@
   - [Securitize stock jumps over 10% after launching tokenized US equities on Solana](https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand finalizes rules paving way for Bitcoin, Ether ETFs](https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump administration outlines quantum, AI initiatives in $6B science push](https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [UK sanctions three crypto exchanges tied to Russian illicit funds](https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137)
   - [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858)
@@ -62,6 +66,7 @@
 - Hacker News Frontpage
   - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
   - [License update: AI derivation prohibited on all my art, lore, stories, comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
+  - [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
   - [OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/)
   - [Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)
   - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
@@ -105,7 +110,9 @@
   - [Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users](https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070)
   - [JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4](https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115)
   - [NFL tells Supreme Court prediction market sports contracts are gambling, not swaps](https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064)
+  - [Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto](https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131)
   - [Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says](https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066)
+  - [Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16](https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132)
   - [The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market](https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081)
 - The Decoder
   - [Anthropic's Claude Science creates the first complete ultraviolet map of the sky](https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/)
@@ -141,6 +148,7 @@
   - [30% VistaPrint Coupon & Promo Codes | October 2026](https://www.wired.com/story/vistaprint-coupon-code/)
   - [38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/)
   - [A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up](https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/)
+  - [Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise](https://www.wired.com/story/best-battery-powered-leaf-blowers/)
   - [Chewy Promo Codes: $20 Off October 2026](https://www.wired.com/story/chewy-promo-code/)
   - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
   - [Herman Miller Promo Codes: 40% Off October 2026](https://www.wired.com/story/herman-miller-promo-code/)
@@ -152,6 +160,7 @@
   - [Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts](https://www.wired.com/story/lovehoney-discount-code/)
   - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
   - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)
+  - [The Best Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac?](https://www.wired.com/story/best-mac-desktop/)
   - [Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe](https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/)
   - [TurboTax Full Service Coupons This October 2026](https://www.wired.com/story/turbotax-coupon/)
   - [Ulta Promo Codes: Up to 20% Off in October 2026](https://www.wired.com/story/ulta-coupon/)
@@ -172,12 +181,17 @@
 - 奇客Solidot–传递最新科技情报
   - [ARTEX 从 GitHub 下架](https://www.solidot.org/story?sid=85561)
   - [SpaceX 呼吁在轨卫星加强协调](https://www.solidot.org/story?sid=85560)
+- 安全客
+  - [从“翻得快”到“敢用”:太好译6S+1能成为AI翻译的行业标尺吗？](https://www.anquanke.com/post/id/316202)
 - 小刀志
   - [从 WinCrypt 到 OpenSSL：构建 PESignAnalyzer 跨平台版本](https://xiaodaozhi.com/security/526.html)
 - 爱范儿
+  - [停产一年，宝马带着 iX4 重回溜背市场，海外售价 53 万元起](https://www.ifanr.com/1683421?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」](https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [新款理想 i6 六项升级公布，旗舰配置下放，要做「全球爆款」！](https://www.ifanr.com/1683385?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位](https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？](https://www.ifanr.com/1683356?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [陶哲轩转发抵制声明，数学界和OpenAI彻底撕破脸](https://www.ifanr.com/1683401?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [直播预告 | 数据悄悄流出，行为悄悄越界？企业里的智能体，该管起来了](https://blog.nsfocus.net/%e7%9b%b4%e6%92%ad%e9%a2%84%e5%91%8a-%e6%95%b0%e6%8d%ae%e6%82%84%e6%82%84%e6%b5%81%e5%87%ba%ef%bc%8c%e8%a1%8c%e4%b8%ba%e6%82%84%e6%82%84%e8%b6%8a%e7%95%8c%ef%bc%9f%e4%bc%81%e4%b8%9a%e9%87%8c/)
   - [看得更广 查得更深 | AI资产风险发现与研判能力进阶](https://blog.nsfocus.net/%e7%9c%8b%e5%be%97%e6%9b%b4%e5%b9%bf-%e6%9f%a5%e5%be%97%e6%9b%b4%e6%b7%b1-ai%e8%b5%84%e4%ba%a7%e9%a3%8e%e9%99%a9%e5%8f%91%e7%8e%b0%e4%b8%8e%e7%a0%94%e5%88%a4%e8%83%bd%e5%8a%9b%e8%bf%9b%e9%98%b6/)
