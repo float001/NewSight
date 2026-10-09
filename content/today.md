@@ -54,6 +54,8 @@
   - [UK sanctions three crypto exchanges tied to Russian illicit funds](https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months](https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Top Hypervisor Platforms for Virtual Machine Management](https://www.cyberkendra.com/2026/10/top-hypervisor-platforms-for-virtual-machine-management.html)
 - daringfireball.net
   - [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137)
   - [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858)
@@ -69,6 +71,7 @@
 - Fidelis Security
   - [Risk Prioritization: How Security Teams Decide What to Fix First](https://fidelissecurity.com/threatgeek/threat-detection-response/risk-prioritization/)
 - Hacker News Frontpage
+  - [Court throws out killer's sentence after judge said he loved AI video of victim](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457)
   - [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
   - [License update: AI derivation prohibited on all my art, lore, stories, comics](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics)
   - [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
@@ -78,8 +81,10 @@
   - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
   - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
   - [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
+  - [US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize](https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/)
   - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
   - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
+  - [Yandex Takes a Second Data Center Hit in 48 Hours](https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277)
 - HackerNews
   - [UAC-0099 以 ASHVEIN RAT 攻击乌克兰政府人员，将命令隐藏在 HTML 中](http://0.0.0.0:8080/post/64756)
 - Horizon3.ai
@@ -91,6 +96,7 @@
   - [Major AI Firms Pledge Data Protection Changes Following UK Privacy Watchdog Push](https://www.infosecurity-magazine.com/news/ai-firms-pledge-data-protection/)
   - [Q3 2026 Sets New Record for Ransomware Attacks](https://www.infosecurity-magazine.com/news/q3-new-record-ransomware/)
   - [UK and Allies Warn of Cyber Threat from China’s Integrity Technology Group](https://www.infosecurity-magazine.com/news/uk-allies-threat-china-integrity/)
+  - [Wikimedia Says Rogue AI Agents Abused its Platforms](https://www.infosecurity-magazine.com/news/wikimedia-confirms-platforms-rogue/)
 - Linux Foundation Blogs
   - [How Should Enterprises Transition to the Agentic Era?](https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era)
 - MIT Technology Review
@@ -110,7 +116,9 @@
 - TechCrunch
   - [A startup founder who served time in prison is looking to court an untapped market: ex-cons](https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/)
   - [Anthropic changes usage policy to ban model abuse and election interference](https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/)
+  - [Automattic loses its interim CFO just weeks after boardroom shakeup](https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/)
   - [Ben Affleck is an AI nerd, and the internet is impressed](https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/)
+  - [Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss](https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/)
   - [Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/)
   - [Natura’s $99 smart ring puts AI agents on your finger](https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/)
   - [OpenAI’s math solutions aren’t meeting the field’s standards yet](https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/)
@@ -120,17 +128,21 @@
   - [Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/)
   - [Surveillance company Flock cuts staff as privacy backlash grows](https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/)
   - [TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/)
+  - [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
   - [Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/)
   - [Xona’s commercial GPS alternative is about to go live](https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/)
 - The Block
   - [Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’](https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144)
   - [Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users](https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070)
   - [JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4](https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115)
+  - [Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses](https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163)
+  - [New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky](https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154)
   - [NFL tells Supreme Court prediction market sports contracts are gambling, not swaps](https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064)
   - [Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto](https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131)
   - [Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says](https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066)
   - [Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16](https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132)
   - [The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market](https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081)
+  - [US targets $1 billion Iran-linked crypto seizure, Bessent says ‘we know where it is’](https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151)
 - The Decoder
   - [Anthropic's Claude Science creates the first complete ultraviolet map of the sky](https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/)
   - [Claude can now generate animated explainer videos and live data dashboards from text prompts](https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/)
@@ -161,6 +173,7 @@
   - [SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute](https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson)
   - [Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business](https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo)
   - [Trump administration says Microsoft &#8216;abused&#8217; worker visa program and is cutting off access](https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance)
+  - [Trump’s attempt to rename AI is looking awfully artificial](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding)
   - [US plans livestream of execution by firing squad](https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood)
   - [USA Today becomes the latest publisher to sue OpenAI](https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit)
 - Whwlsfb's Tech Blog
@@ -177,6 +190,7 @@
   - [ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud](https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/)
   - [Inside Elon Musk’s Midterm Spending Spree](https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/)
   - [Instacart Promo Code: $15 Off | October 2026](https://www.wired.com/story/instacart-promo/code/)
+  - [I’m Still Convinced the iPod Was the Perfect Gadget](https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/)
   - [Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
   - [Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts](https://www.wired.com/story/lovehoney-discount-code/)
   - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
