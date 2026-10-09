@@ -56,6 +56,7 @@
   - [Let’s Check In on Trump’s Blog](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910)
 - darkreading
   - [Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift](https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift)
+  - [Social Engineering AI Agents: The New BEC for 2026](https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026)
   - [Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)
 - defend.network
   - [Flax Typhoon infrastructure seized; Cisco NX-OS RCE patches released](https://defend.network/briefings/flax-typhoon-cisco-nexus-android-firmware-malware-2026-10-09.html)
@@ -72,6 +73,7 @@
   - [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
   - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
   - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
+  - [The Hetzner Cloud network stack – history and technical overview](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
   - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
   - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
 - HackerNews
@@ -89,12 +91,16 @@
   - [How Should Enterprises Transition to the Agentic Era?](https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era)
 - MIT Technology Review
   - [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
+  - [The Download: AI’s refusal problem and weight-loss drug side effects](https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/)
 - NVIDIA AI Blog
   - [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/)
 - shkspr.mobi
   - [Concert Review: London Voices - Video Games Go Choral ★★★★☆](https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/)
 - simonwillison.net
+  - [A new feature for my blog, built using my voice](https://simonwillison.net/2026/Oct/9/built-using-my-voice/)
   - [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/)
+- Sonar Blog
+  - [OpenAI GPT-6.1 Sol: An evaluation](https://www.sonarsource.com/blog/openai-gpt-6-1-sol-evaluation/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Path Traversal in Apache Http_Server](https://sploitus.com/exploit?id=2D1B2FFF-774C-5301-A577-A130E68C5110&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -188,6 +194,7 @@
   - [SpaceX 呼吁在轨卫星加强协调](https://www.solidot.org/story?sid=85560)
 - 安全客
   - [从“翻得快”到“敢用”:太好译6S+1能成为AI翻译的行业标尺吗？](https://www.anquanke.com/post/id/316202)
+  - [鱼缸插排被黑，一缸鱼全死了：你家的"智能"正在替黑客开门](https://www.anquanke.com/post/id/316211)
 - 小刀志
   - [从 WinCrypt 到 OpenSSL：构建 PESignAnalyzer 跨平台版本](https://xiaodaozhi.com/security/526.html)
 - 爱范儿
