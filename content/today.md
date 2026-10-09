@@ -4,6 +4,8 @@
   - [Hermes 官方提供免费模型 stepfun/step-5-preview:free](https://2libra.com/post/large-models/YU8JDzh)
   - [【💰】我的 Muse 叫 KunKun，你的呢？](https://2libra.com/post/ai-tools/0DOWL1f)
   - [【💰】活跃度](https://2libra.com/post/forum-function/i1Lqyzh)
+  - [小金豆来一克……？](https://2libra.com/post/small-things/QgF58NC)
+  - [想找大家取点报驾校的经验](https://2libra.com/post/questions/oaHNJ2w)
   - [暗黑 4 还是解压啊 怪不得老马也玩](https://2libra.com/post/game-discussion/qMM8SuK)
   - [诶嘿，会动了](https://2libra.com/post/forum-function/vGyEgGv)
 - 404 Media
@@ -39,6 +41,7 @@
   - [Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)
   - [The Deeply Impersonal Personalized Recruiter Mail](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
   - [Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months)
+  - [What should we tell our students?](https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/)
 - Horizon3.ai
   - [CVE-2026-102489 | Technical Details](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-102489/)
 - MIT Technology Review
@@ -100,7 +103,11 @@
   - [Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
   - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)
   - [Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe](https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/)
+- 不安全
+  - [[重要提醒] Let’s Encrypt从明年2月起将证书有效期从90天缩短到64天 最终缩短到45天](https://buaq.net/go-447177.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位](https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业](https://www.qbitai.com/2026/10/502106.html)
