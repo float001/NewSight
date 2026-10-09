@@ -1,12 +1,38 @@
 # 今日安全资讯（2026-10-10）
 
+- 2Libra
+  - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
 - 404 Media
   - [Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program](https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/)
+- CoinTelegraph
+  - [Blockchain.com pursues CFTC approval for prediction markets: CNBC](https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Ledger investigates fund losses linked to Southeast Asian reseller, warns users](https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- darkreading
+  - [Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too](https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too)
 - Fidelis Security
   - [Risk-Based Vulnerability Prioritization with Fidelis Halo® CNAPP](https://fidelissecurity.com/threatgeek/cloud-security/cloud-risk-prioritization/)
+- filfre.net
+  - [An Ion Storm!, Part 1: The Ascent to Gamer Paradise](https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/)
 - gilesthomas.com
   - [Fun with low-rank vocab matrices (and a bonus test loss reduction?)](https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices)
+- Hacker News Frontpage
+  - [Republican data center support collapses locally when sites are in GOP counties](https://pressaudit.org/f/community/posts/9c163c6e-53b7-46a3-b052-2e3c6954c04f)
+- Horizon3.ai
+  - [AI Changed the Economics of Cyberattacks](https://horizon3.ai/downloads/whitepapers/ai-economics-cyberattacks-exposure-management/)
+- TechCrunch
+  - [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
+  - [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
+  - [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
+  - [Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe](https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/)
+  - [We can’t help treating AI like it’s human. But should we?](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)
 - The Block
   - [Blockchain.com seeks CFTC greenlight for prediction markets, crypto derivatives trading: CNBC](https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192)
+- The Verge
+  - [Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features](https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor)
+  - [Frances Haugen hopes The Social Reckoning will inspire more whistleblowers](https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower)
+  - [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
+- Wired
+  - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
