@@ -4,11 +4,14 @@
   - [10 月 30 日校双选会，想问问各位前辈有什么坑可以避开的。](https://2libra.com/post/job-hunting/tQWYrp0)
   - [Hermes 官方提供免费模型 stepfun/step-5-preview:free](https://2libra.com/post/large-models/YU8JDzh)
   - [workbuddy 可以拼车吗？](https://2libra.com/post/questions/0BiQy6R)
+  - [【人生体验+1】做客上海交通广播：如何破解「国庆高速充电难」 📻📻📻](https://2libra.com/post/automobile/tMSrtfF)
   - [【💰】我的 Muse 叫 KunKun，你的呢？](https://2libra.com/post/ai-tools/0DOWL1f)
   - [【💰】活跃度](https://2libra.com/post/forum-function/i1Lqyzh)
   - [买了个假 ACR122U 读卡器](https://2libra.com/post/excessive-things/xFPrZgf)
   - [今天抽到 gif 图头像了，花 500 大洋](https://2libra.com/post/forum-function/yhUaSpi)
+  - [关于+86 账号 telegram 接码问题的解决方案](https://2libra.com/post/tech-qa/i6Zyyrl)
   - [关于内置后门功能的恶意软件“荐片播放器”大规模传播的风险提示](https://2libra.com/post/network-security/OLF8dwR)
+  - [在线 AI 程序整套打包出，懂的来](https://2libra.com/post/promotion/tFgNo9J)
   - [小金豆来一克……？](https://2libra.com/post/small-things/QgF58NC)
   - [帖子被误移入黑洞节点，请求守护者协助移动](https://2libra.com/post/community/1d6oyAg)
   - [想找大家取点报驾校的经验](https://2libra.com/post/questions/oaHNJ2w)
@@ -31,6 +34,7 @@
 - Chainalysis Blog
   - [UK Targets Cryptomus, Heleket, TokenSpot in New Russian Sanctions](https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/)
 - CoinTelegraph
+  - [Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations](https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, Ether ETFs’ October outflows swell toward $1B](https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties](https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express](https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -74,6 +78,9 @@
 - infosecurity-magazine.com
   - [AI Training Critical as Governance Challenges Grow](https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/)
   - [Major AI Firms Pledge Data Protection Changes Following UK Privacy Watchdog Push](https://www.infosecurity-magazine.com/news/ai-firms-pledge-data-protection/)
+  - [UK and Allies Warn of Cyber Threat from China’s Integrity Technology Group](https://www.infosecurity-magazine.com/news/uk-allies-threat-china-integrity/)
+- Linux Foundation Blogs
+  - [How Should Enterprises Transition to the Agentic Era?](https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era)
 - MIT Technology Review
   - [Roundtables: A Conversation With the Creator of AI-Designed Viruses](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/)
 - NVIDIA AI Blog
@@ -101,6 +108,7 @@
   - [Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says](https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066)
   - [The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market](https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081)
 - The Decoder
+  - [Anthropic's Claude Science creates the first complete ultraviolet map of the sky](https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/)
   - [Claude can now generate animated explainer videos and live data dashboards from text prompts](https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/)
   - [OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets](https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/)
   - [Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field](https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/)
@@ -119,6 +127,7 @@
   - [Microsoft’s new Windows Search is exactly what Windows 11 needs](https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11)
   - [New York accuses TikTok of serving users ‘placebo’ safety features](https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features)
   - [Older Pixel watches are losing free cellular access to several safety features](https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending)
+  - [OpenAI doubles down on decision to fire three AI safety researchers](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers)
   - [Paramount is making a Cyberpunk 2077 film](https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie)
   - [SpaceX announces plan to become a ‘major mobile carrier’](https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier)
   - [SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute](https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson)
@@ -131,6 +140,7 @@
 - Wired
   - [30% VistaPrint Coupon & Promo Codes | October 2026](https://www.wired.com/story/vistaprint-coupon-code/)
   - [38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/)
+  - [A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up](https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/)
   - [Chewy Promo Codes: $20 Off October 2026](https://www.wired.com/story/chewy-promo-code/)
   - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
   - [Herman Miller Promo Codes: 40% Off October 2026](https://www.wired.com/story/herman-miller-promo-code/)
@@ -168,7 +178,11 @@
   - [全球最大独立 AI 原生影视公司，要打造「AI 版 Disney」](https://www.ifanr.com/1683309?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位](https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？](https://www.ifanr.com/1683356?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [直播预告 | 数据悄悄流出，行为悄悄越界？企业里的智能体，该管起来了](https://blog.nsfocus.net/%e7%9b%b4%e6%92%ad%e9%a2%84%e5%91%8a-%e6%95%b0%e6%8d%ae%e6%82%84%e6%82%84%e6%b5%81%e5%87%ba%ef%bc%8c%e8%a1%8c%e4%b8%ba%e6%82%84%e6%82%84%e8%b6%8a%e7%95%8c%ef%bc%9f%e4%bc%81%e4%b8%9a%e9%87%8c/)
+  - [看得更广 查得更深 | AI资产风险发现与研判能力进阶](https://blog.nsfocus.net/%e7%9c%8b%e5%be%97%e6%9b%b4%e5%b9%bf-%e6%9f%a5%e5%be%97%e6%9b%b4%e6%b7%b1-ai%e8%b5%84%e4%ba%a7%e9%a3%8e%e9%99%a9%e5%8f%91%e7%8e%b0%e4%b8%8e%e7%a0%94%e5%88%a4%e8%83%bd%e5%8a%9b%e8%bf%9b%e9%98%b6/)
 - 量子位 QbitAI
   - [openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业](https://www.qbitai.com/2026/10/502106.html)
+  - [TRAE终于把Code和Work合并了](https://www.qbitai.com/2026/10/502426.html)
   - [字节找到了DeepSeek时强时弱的原因](https://www.qbitai.com/2026/10/502364.html)
   - [灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」](https://www.qbitai.com/2026/10/502330.html)
