@@ -2,9 +2,13 @@
 
 - 2Libra
   - [1024Proxy 住宅 IP CDK 免费领，AI 降智/爬虫限速的可以试试](https://2libra.com/post/promotion/wSGp3sT)
+  - [AI 的思路打开了](https://2libra.com/post/ai-applications/QuhYr4M)
+  - [claude 皮一下，真的开心死了](https://2libra.com/post/ai-tools/N2dtGjC)
+  - [【💰】 转变思路应对队友的情绪失控](https://2libra.com/post/game-discussion/WH5hReb)
   - [【💰】感觉走个面徽章有点超模了](https://2libra.com/post/forum-function/pUMCAwK)
   - [【💰】求助，关于行车记录仪](https://2libra.com/post/automobile/6vVxGlS)
   - [上三天班又可以休息一天了，我是太容易满足了吗](https://2libra.com/post/touch-fish/O-wOhbh)
+  - [上班三年心态的转变](https://2libra.com/post/workplace-stories/E1SxErG)
   - [为什么华为这家公司从不认错并且道歉 ？](https://2libra.com/post/social-observation/LT-hLCQ)
   - [今天上班的人呢](https://2libra.com/post/slacking-off/sjB1276)
   - [友友们现在上海二手房能上车不？](https://2libra.com/post/personal-life/2MUka33)
@@ -20,6 +24,7 @@
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
   - [现在的通知小弹窗用着还是有点不太顺手](https://2libra.com/post/forum-function/BMnIQmO)
   - [第一次吃到 250 活跃奖励，记录一下具体操作。](https://2libra.com/post/forum-function/6TWnptQ)
+  - [花了两三个小时，终于搞清楚了 QQ 机器人的按钮怎么用了](https://2libra.com/post/programming-languages/s_Ialxv)
   - [若批评不自由，则赞美无意义 🤐🤐🤐](https://2libra.com/post/automobile/j81_LeC)
   - [苹果明年 4 月新 App 必须适配折叠屏 iPhone Duo，有人知道这些新闻的出处在哪吗？](https://2libra.com/post/apple/9Igl7cu)
   - [赚够多少钱能让你告别工作去享受生活？](https://2libra.com/post/financial-management/ofk2_xx)
@@ -39,6 +44,7 @@
   - [HSBC, Ant Digital test AI-agent payments using tokenized deposits](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York permanently bars Celsius founder Mashinsky in $35M fraud settlement](https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds](https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tech chief says EU can fend off rogue AI risk: Report](https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US plans to seize $1B in crypto linked to Iran this week: Scott Bessent](https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ledger investigates fund losses linked to Southeast Asian reseller, warns users](https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -144,7 +150,10 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [森海 Momentum 5 真无线降噪耳机体验：升级无线传输与空间音频，它依然是那个正统 「森海味」](https://www.ifanr.com/1683383?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [这三个摄影 App， 配得上你全新的 iPhone 18 Pro](https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [这届 AI PC，太烧心了](https://www.ifanr.com/1683688?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
+  - [传统BOT防护不够用？意图分析才是未来](https://blog.nsfocus.net/%e4%bc%a0%e7%bb%9fbot%e9%98%b2%e6%8a%a4%e4%b8%8d%e5%a4%9f%e7%94%a8%ef%bc%9f%e6%84%8f%e5%9b%be%e5%88%86%e6%9e%90%e6%89%8d%e6%98%af%e6%9c%aa%e6%9d%a5/)
+  - [议程速递 | 绿盟科技集结群贤，邀您共赴驭智之约](https://blog.nsfocus.net/%e8%ae%ae%e7%a8%8b%e9%80%9f%e9%80%92-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%9b%86%e7%bb%93%e7%be%a4%e8%b4%a4%ef%bc%8c%e9%82%80%e6%82%a8%e5%85%b1%e8%b5%b4%e9%a9%ad%e6%99%ba%e4%b9%8b%e7%ba%a6/)
   - [高频业务：一种IP网段判断重叠的算法（其三）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89-2/)
   - [高频业务：一种IP网段判断重叠的算法（其二）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%ba%8c%ef%bc%89-2/)
   - [高频业务：一种IP网段判断重叠的算法（其四）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e5%9b%9b%ef%bc%89-2/)
