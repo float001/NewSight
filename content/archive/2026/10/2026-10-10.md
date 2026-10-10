@@ -67,6 +67,7 @@
 - gilesthomas.com
   - [Fun with low-rank vocab matrices (and a bonus test loss reduction?)](https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices)
 - Hacker News Frontpage
+  - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
   - [In "Musk," Alex Gibney Punctures Elon's Self-Mythology](https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology)
   - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
   - [Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad](https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/)
@@ -88,6 +89,8 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Master AI Chip Principles With New IEEE Design Program](https://spectrum.ieee.org/master-ai-chip-principles-ieee)
 - krebsonsecurity.com
   - [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)
+- Linux Foundation Blogs
+  - [Developer Experience as a Business Strategy: Lessons from the New DevEx Report](https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report)
 - pluralistic.net
   - [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/)
 - seangoedecke.com
@@ -99,6 +102,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-21589](https://sploitus.com/exploit?id=FBA3BACC-C6E2-5B4A-A895-1C6DA0DC7B50&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=29D79F63-DC38-57EF-8AE3-3AA792A62627&utm_source=rss&utm_medium=rss)
+  - [ISAssignment02 exploit](https://sploitus.com/exploit?id=2725C6F1-2CC6-5024-B546-E88C4F4B918B&utm_source=rss&utm_medium=rss)
   - [Metasploitable2-Exploit](https://sploitus.com/exploit?id=574ED600-347D-5D45-9033-ACA323586DA9&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
@@ -107,6 +111,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)
   - [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
   - [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
+  - [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)
   - [Long live the mechanical keyboard](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/)
   - [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
   - [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
@@ -141,6 +146,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
   - [The techlash has gone Hollywood](https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer)
   - [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck)
+  - [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
 - Wired
   - [Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
   - [Book Publishers Are Quietly Using More AI. Staff Are Revolting](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/)
@@ -149,6 +155,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe](https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/)
   - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
 - 不安全
+  - [Building TabDance to feel like macOS Terminal · Mainbrella](https://buaq.net/go-447523.html)
   - [displace vs replace](https://buaq.net/go-447442.html)
   - [do anybody know how to do this?](https://buaq.net/go-447444.html)
   - [EpiReal-Bench](https://buaq.net/go-447434.html)
@@ -163,6 +170,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
 - 安全客
   - [你让 AI 截个图，它顺手把你公司机密传上了公网](https://www.anquanke.com/post/id/316214)
 - 爱范儿
+  - [17.98 万元起，银河战舰 700 上市，三电机千匹马力，装进家用方盒子](https://www.ifanr.com/1683809?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [24 天估值暴涨 37 倍，这就是 AI 圈年度爽文](https://www.ifanr.com/1683674?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [华为 Mate 90 Pro Max 深度体验：Mate 系列新高峰](https://www.ifanr.com/1683673?utm_source=rss&utm_medium=rss&utm_campaign=)
