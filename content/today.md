@@ -17,6 +17,7 @@
   - [友友们现在上海二手房能上车不？](https://2libra.com/post/personal-life/2MUka33)
   - [号外，站长关注我了](https://2libra.com/post/forum-function/1yycVRT)
   - [咱们平台有没有考过摩托车 D 证的，好考不？](https://2libra.com/post/motorcycle/i-lB-o7)
+  - [如何确定是否评论过帖子？](https://2libra.com/post/community/BiOewyN)
   - [如果评论违规了应该如何修改](https://2libra.com/post/community/PAoufuf)
   - [孙哥还是牛啊，四个小时访谈持续输出，依旧神采飞扬](https://2libra.com/post/hotspot-tracking/0W5-ikK)
   - [希望这个月能正收入吧](https://2libra.com/post/forum-function/OXnBaS5)
@@ -54,6 +55,8 @@
   - [US plans to seize $1B in crypto linked to Iran this week: Scott Bessent](https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ledger investigates fund losses linked to Southeast Asian reseller, warns users](https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- construction-physics.com
+  - [Reading List 10/10/26](https://www.construction-physics.com/p/reading-list-101026)
 - darkreading
   - [AI Scramble Drives Cybersecurity M&amp;A Boom](https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom)
   - [Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too](https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too)
@@ -67,6 +70,7 @@
 - gilesthomas.com
   - [Fun with low-rank vocab matrices (and a bonus test loss reduction?)](https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices)
 - Hacker News Frontpage
+  - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
   - [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
   - [In "Musk," Alex Gibney Punctures Elon's Self-Mythology](https://www.newyorker.com/culture/the-lede/in-musk-alex-gibney-punctures-elons-self-mythology)
   - [M7.6 Earthquake in Panama](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive)
@@ -105,6 +109,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [ISAssignment02 exploit](https://sploitus.com/exploit?id=2725C6F1-2CC6-5024-B546-E88C4F4B918B&utm_source=rss&utm_medium=rss)
   - [Metasploitable2-Exploit](https://sploitus.com/exploit?id=574ED600-347D-5D45-9033-ACA323586DA9&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)
   - [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
   - [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
   - [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
@@ -126,17 +131,20 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Anthropic launches a free AI scanner for open-source projects](https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/)
   - [Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows](https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/)
   - [Few people pay for AI, but those who do spend big](https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/)
+  - [Microsoft's Decision-1 model enters the fast-growing AI decision model race](https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/)
   - [OpenAI revenue keeps surging as company seeks $30 billion in fresh capital](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/)
 - The Verge
   - [&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)
   - [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)
   - [Amazon’s new Kindles appear to have a light leak problem](https://www.theverge.com/tech/1008833/amazon-kindle-light-leak)
+  - [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet)
   - [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)
   - [Apple and LG leak shows new &#8216;tap to control&#8217; HomeKit features](https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor)
   - [Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
   - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
   - [Frances Haugen hopes The Social Reckoning will inspire more whistleblowers](https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower)
   - [Google teases Fitbit Edge launch next week](https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week)
+  - [K-pop star Sunmi loves Notion and ear cleaning videos](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview)
   - [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review)
   - [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
   - [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too)
@@ -147,6 +155,8 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [The techlash has gone Hollywood](https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer)
   - [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck)
   - [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
+- Threatninja.net
+  - [Hack The Box: Devhub Machine Walkthrough – Medium Difficulty](https://threatninja.net/hack-the-box-devhub-machine-walkthrough-medium-difficulty/)
 - Wired
   - [Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
   - [Book Publishers Are Quietly Using More AI. Staff Are Revolting](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/)
