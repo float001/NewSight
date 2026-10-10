@@ -4,19 +4,24 @@
   - [1024Proxy 住宅 IP CDK 免费领，AI 降智/爬虫限速的可以试试](https://2libra.com/post/promotion/wSGp3sT)
   - [【💰】感觉走个面徽章有点超模了](https://2libra.com/post/forum-function/pUMCAwK)
   - [【💰】求助，关于行车记录仪](https://2libra.com/post/automobile/6vVxGlS)
+  - [上三天班又可以休息一天了，我是太容易满足了吗](https://2libra.com/post/touch-fish/O-wOhbh)
   - [为什么华为这家公司从不认错并且道歉 ？](https://2libra.com/post/social-observation/LT-hLCQ)
   - [今天上班的人呢](https://2libra.com/post/slacking-off/sjB1276)
   - [友友们现在上海二手房能上车不？](https://2libra.com/post/personal-life/2MUka33)
   - [号外，站长关注我了](https://2libra.com/post/forum-function/1yycVRT)
+  - [咱们平台有没有考过摩托车 D 证的，好考不？](https://2libra.com/post/motorcycle/i-lB-o7)
   - [如果评论违规了应该如何修改](https://2libra.com/post/community/PAoufuf)
   - [孙哥还是牛啊，四个小时访谈持续输出，依旧神采飞扬](https://2libra.com/post/hotspot-tracking/0W5-ikK)
   - [希望这个月能正收入吧](https://2libra.com/post/forum-function/OXnBaS5)
   - [我的 4 个游戏上架 taptap 啦](https://2libra.com/post/personal-works/OOyzWki)
   - [有吃过到 “内容检定” 金币的么？](https://2libra.com/post/forum-function/uUNQv0x)
   - [有哪些服务接入了 2Libra OAuth？](https://2libra.com/post/forum-function/AN_EE0n)
+  - [河北省游记：保定→石家庄→河间](https://2libra.com/post/travel-logs/3XgF0zc)
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
   - [现在的通知小弹窗用着还是有点不太顺手](https://2libra.com/post/forum-function/BMnIQmO)
   - [第一次吃到 250 活跃奖励，记录一下具体操作。](https://2libra.com/post/forum-function/6TWnptQ)
+  - [若批评不自由，则赞美无意义 🤐🤐🤐](https://2libra.com/post/automobile/j81_LeC)
+  - [苹果明年 4 月新 App 必须适配折叠屏 iPhone Duo，有人知道这些新闻的出处在哪吗？](https://2libra.com/post/apple/9Igl7cu)
   - [赚够多少钱能让你告别工作去享受生活？](https://2libra.com/post/financial-management/ofk2_xx)
   - [通知小窗优化/选择上传历史图片/推广须知](https://2libra.com/post/product-updates/dVptX9m)
 - 404 Media
@@ -33,6 +38,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HSBC, Ant Digital test AI-agent payments using tokenized deposits](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York permanently bars Celsius founder Mashinsky in $35M fraud settlement](https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds](https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US plans to seize $1B in crypto linked to Iran this week: Scott Bessent](https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ledger investigates fund losses linked to Southeast Asian reseller, warns users](https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -58,6 +64,9 @@
   - [Show HN: Yeah Nah – a BS score for Australian job ads](https://yeahnah.lol/)
   - [You Might Want to Try Being Less Creative](https://blog.bawolf.com/p/you-might-want-to-try-being-less)
   - [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+- HackerNews
+  - [窃取凭据的 GitHub Actions 工作流被植入数万个仓库](http://0.0.0.0:8080/post/64762)
+  - [黑客滥用 Google Ads 和 Bing 重定向推送 Claude ClickFix 攻击](http://0.0.0.0:8080/post/64763)
 - HackerNoon
   - [GPT 6 Astra - Will It Shake 
 Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-the-world-of-marketing?source=rss)
@@ -133,6 +142,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
 - 爱范儿
   - [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [森海 Momentum 5 真无线降噪耳机体验：升级无线传输与空间音频，它依然是那个正统 「森海味」](https://www.ifanr.com/1683383?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [这三个摄影 App， 配得上你全新的 iPhone 18 Pro](https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [高频业务：一种IP网段判断重叠的算法（其三）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89-2/)
