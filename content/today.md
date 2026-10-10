@@ -2,6 +2,9 @@
 
 - 2Libra
   - [1024Proxy 住宅 IP CDK 免费领，AI 降智/爬虫限速的可以试试](https://2libra.com/post/promotion/wSGp3sT)
+  - [【💰】感觉走个面徽章有点超模了](https://2libra.com/post/forum-function/pUMCAwK)
+  - [【💰】求助，关于行车记录仪](https://2libra.com/post/automobile/6vVxGlS)
+  - [为什么华为这家公司从不认错并且道歉 ？](https://2libra.com/post/social-observation/LT-hLCQ)
   - [今天上班的人呢](https://2libra.com/post/slacking-off/sjB1276)
   - [友友们现在上海二手房能上车不？](https://2libra.com/post/personal-life/2MUka33)
   - [号外，站长关注我了](https://2libra.com/post/forum-function/1yycVRT)
@@ -9,6 +12,8 @@
   - [希望这个月能正收入吧](https://2libra.com/post/forum-function/OXnBaS5)
   - [有吃过到 “内容检定” 金币的么？](https://2libra.com/post/forum-function/uUNQv0x)
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
+  - [现在的通知小弹窗用着还是有点不太顺手](https://2libra.com/post/forum-function/BMnIQmO)
+  - [赚够多少钱能让你告别工作去享受生活？](https://2libra.com/post/financial-management/ofk2_xx)
 - 404 Media
   - [Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program](https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/)
 - Ars Technica
@@ -71,6 +76,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
   - [Batteries are now cheaper than natural gas turbines used at many data centers](https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/)
   - [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
+  - [Elon Musk intensifies attack on Ambani over Starlink India launch delay](https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/)
   - [Long live the mechanical keyboard](https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/)
   - [LumenUs helps automate tedious paperwork in times of grief](https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/)
   - [TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers](https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/)
