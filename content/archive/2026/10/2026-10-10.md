@@ -4,6 +4,7 @@
   - [1024Proxy 住宅 IP CDK 免费领，AI 降智/爬虫限速的可以试试](https://2libra.com/post/promotion/wSGp3sT)
   - [AI 的思路打开了](https://2libra.com/post/ai-applications/QuhYr4M)
   - [claude 皮一下，真的开心死了](https://2libra.com/post/ai-tools/N2dtGjC)
+  - [folo 是不是被墙了](https://2libra.com/post/open-source-tools/CJifkC5)
   - [【💰】 转变思路应对队友的情绪失控](https://2libra.com/post/game-discussion/WH5hReb)
   - [【💰】感觉走个面徽章有点超模了](https://2libra.com/post/forum-function/pUMCAwK)
   - [【💰】求助，关于行车记录仪](https://2libra.com/post/automobile/6vVxGlS)
@@ -128,6 +129,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
 - Wired
   - [Book Publishers Are Quietly Using More AI. Staff Are Revolting](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/)
+  - [Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition](https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/)
   - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/)
   - [Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe](https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/)
   - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
@@ -146,6 +148,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
 - 安全客
   - [你让 AI 截个图，它顺手把你公司机密传上了公网](https://www.anquanke.com/post/id/316214)
 - 爱范儿
+  - [24 天估值暴涨 37 倍，这就是 AI 圈年度爽文](https://www.ifanr.com/1683674?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [森海 Momentum 5 真无线降噪耳机体验：升级无线传输与空间音频，它依然是那个正统 「森海味」](https://www.ifanr.com/1683383?utm_source=rss&utm_medium=rss&utm_campaign=)
