@@ -1,7 +1,9 @@
 # 今日安全资讯（2026-10-10）
 
 - 2Libra
+  - [1024Proxy 住宅 IP CDK 免费领，AI 降智/爬虫限速的可以试试](https://2libra.com/post/promotion/wSGp3sT)
   - [今天上班的人呢](https://2libra.com/post/slacking-off/sjB1276)
+  - [号外，站长关注我了](https://2libra.com/post/forum-function/1yycVRT)
   - [希望这个月能正收入吧](https://2libra.com/post/forum-function/OXnBaS5)
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
 - 404 Media
@@ -97,6 +99,9 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/)
   - [Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe](https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/)
   - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
+- 不安全
+  - [EpiReal-Bench](https://buaq.net/go-447434.html)
+  - [Open source firmware for a cheap USB C meter (KWS-X1) that shows way more PD info than stock](https://buaq.net/go-447433.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
