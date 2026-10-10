@@ -125,3 +125,4 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
 - 爱范儿
   - [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [这三个摄影 App， 配得上你全新的 iPhone 18 Pro](https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=)
