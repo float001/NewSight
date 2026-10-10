@@ -46,6 +46,8 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Master AI Chip Principles With New IEEE Design Program](https://spectrum.ieee.org/master-ai-chip-principles-ieee)
 - pluralistic.net
   - [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/)
+- seangoedecke.com
+  - [Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/)
 - simonwillison.net
   - [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/)
 - Sploitus.com Exploits RSS Feed
