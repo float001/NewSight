@@ -11,11 +11,14 @@
   - [如果评论违规了应该如何修改](https://2libra.com/post/community/PAoufuf)
   - [孙哥还是牛啊，四个小时访谈持续输出，依旧神采飞扬](https://2libra.com/post/hotspot-tracking/0W5-ikK)
   - [希望这个月能正收入吧](https://2libra.com/post/forum-function/OXnBaS5)
+  - [我的 4 个游戏上架 taptap 啦](https://2libra.com/post/personal-works/OOyzWki)
   - [有吃过到 “内容检定” 金币的么？](https://2libra.com/post/forum-function/uUNQv0x)
   - [有哪些服务接入了 2Libra OAuth？](https://2libra.com/post/forum-function/AN_EE0n)
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
   - [现在的通知小弹窗用着还是有点不太顺手](https://2libra.com/post/forum-function/BMnIQmO)
+  - [第一次吃到 250 活跃奖励，记录一下具体操作。](https://2libra.com/post/forum-function/6TWnptQ)
   - [赚够多少钱能让你告别工作去享受生活？](https://2libra.com/post/financial-management/ofk2_xx)
+  - [通知小窗优化/选择上传历史图片/推广须知](https://2libra.com/post/product-updates/dVptX9m)
 - 404 Media
   - [Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program](https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/)
 - Ars Technica
@@ -37,6 +40,8 @@
   - [AI Scramble Drives Cybersecurity M&amp;A Boom](https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom)
   - [Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too](https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too)
   - [What We Missed: FBI Strikes Back at ShinyHunters](https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack)
+- defend.network
+  - [GitHub Actions malware spreads to 340+ repos; ShinyHunters arrests escalate; Android firmware exploits widen](https://defend.network/briefings/github-actions-credential-theft-shinyhunters-arrests-an-2026-10-10.html)
 - Fidelis Security
   - [Risk-Based Vulnerability Prioritization with Fidelis Halo® CNAPP](https://fidelissecurity.com/threatgeek/cloud-security/cloud-risk-prioritization/)
 - filfre.net
@@ -102,6 +107,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Frances Haugen hopes The Social Reckoning will inspire more whistleblowers](https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower)
   - [Google teases Fitbit Edge launch next week](https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week)
   - [Microsoft tries to spark new life into Windows](https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad)
+  - [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too)
   - [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)
   - [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)
   - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
@@ -128,3 +134,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [这三个摄影 App， 配得上你全新的 iPhone 18 Pro](https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [高频业务：一种IP网段判断重叠的算法（其三）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%b8%89%ef%bc%89-2/)
+  - [高频业务：一种IP网段判断重叠的算法（其二）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e4%ba%8c%ef%bc%89-2/)
+  - [高频业务：一种IP网段判断重叠的算法（其四）](https://blog.nsfocus.net/%e9%ab%98%e9%a2%91%e4%b8%9a%e5%8a%a1%ef%bc%9a%e4%b8%80%e7%a7%8dip%e7%bd%91%e6%ae%b5%e5%88%a4%e6%96%ad%e9%87%8d%e5%8f%a0%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%88%e5%85%b6%e5%9b%9b%ef%bc%89-2/)
