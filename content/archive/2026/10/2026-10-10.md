@@ -12,12 +12,14 @@
   - [上班三年心态的转变](https://2libra.com/post/workplace-stories/E1SxErG)
   - [为什么华为这家公司从不认错并且道歉 ？](https://2libra.com/post/social-observation/LT-hLCQ)
   - [今天上班的人呢](https://2libra.com/post/slacking-off/sjB1276)
+  - [像素勇者：横板放置肉鸽游戏](https://2libra.com/post/game-share/wTZFvK1)
   - [友友们现在上海二手房能上车不？](https://2libra.com/post/personal-life/2MUka33)
   - [号外，站长关注我了](https://2libra.com/post/forum-function/1yycVRT)
   - [咱们平台有没有考过摩托车 D 证的，好考不？](https://2libra.com/post/motorcycle/i-lB-o7)
   - [如果评论违规了应该如何修改](https://2libra.com/post/community/PAoufuf)
   - [孙哥还是牛啊，四个小时访谈持续输出，依旧神采飞扬](https://2libra.com/post/hotspot-tracking/0W5-ikK)
   - [希望这个月能正收入吧](https://2libra.com/post/forum-function/OXnBaS5)
+  - [幸福是什么？](https://2libra.com/post/personal-life/BqtGxyG)
   - [我的 4 个游戏上架 taptap 啦](https://2libra.com/post/personal-works/OOyzWki)
   - [有吃过到 “内容检定” 金币的么？](https://2libra.com/post/forum-function/uUNQv0x)
   - [有哪些服务接入了 2Libra OAuth？](https://2libra.com/post/forum-function/AN_EE0n)
@@ -32,6 +34,7 @@
   - [通知小窗优化/选择上传历史图片/推广须知](https://2libra.com/post/product-updates/dVptX9m)
 - 404 Media
   - [Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program](https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/)
+  - [Scientists Detect Record-Breaking Radio Signal from the Ancient Universe](https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/)
 - Ars Technica
   - [AI disqualification yields new Nikon Small World in Motion winner](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/)
   - [PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023](https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/)
@@ -110,8 +113,10 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Blockchain.com seeks CFTC greenlight for prediction markets, crypto derivatives trading: CNBC](https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192)
   - [Former FTX COO says Netflix’s ‘Altruists’ trailer ‘made me physically throw up’](https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208)
 - The Decoder
+  - [Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police](https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/)
   - [Anthropic launches a free AI scanner for open-source projects](https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/)
   - [Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows](https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/)
+  - [Few people pay for AI, but those who do spend big](https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/)
   - [OpenAI revenue keeps surging as company seeks $30 billion in fresh capital](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/)
 - The Verge
   - [&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)
@@ -126,7 +131,9 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too)
   - [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)
   - [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)
+  - [The director of Fjord takes the &#8216;risky position&#8217; of moderator](https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview)
   - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
+  - [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck)
 - Wired
   - [Book Publishers Are Quietly Using More AI. Staff Are Revolting](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/)
   - [Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition](https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/)
@@ -150,6 +157,7 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
 - 爱范儿
   - [24 天估值暴涨 37 倍，这就是 AI 圈年度爽文](https://www.ifanr.com/1683674?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [华为 Mate 90 Pro Max 深度体验：Mate 系列新高峰](https://www.ifanr.com/1683673?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [森海 Momentum 5 真无线降噪耳机体验：升级无线传输与空间音频，它依然是那个正统 「森海味」](https://www.ifanr.com/1683383?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [这三个摄影 App， 配得上你全新的 iPhone 18 Pro](https://www.ifanr.com/1683596?utm_source=rss&utm_medium=rss&utm_campaign=)
