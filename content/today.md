@@ -3,8 +3,11 @@
 - 2Libra
   - [1024Proxy 住宅 IP CDK 免费领，AI 降智/爬虫限速的可以试试](https://2libra.com/post/promotion/wSGp3sT)
   - [今天上班的人呢](https://2libra.com/post/slacking-off/sjB1276)
+  - [友友们现在上海二手房能上车不？](https://2libra.com/post/personal-life/2MUka33)
   - [号外，站长关注我了](https://2libra.com/post/forum-function/1yycVRT)
+  - [如果评论违规了应该如何修改](https://2libra.com/post/community/PAoufuf)
   - [希望这个月能正收入吧](https://2libra.com/post/forum-function/OXnBaS5)
+  - [有吃过到 “内容检定” 金币的么？](https://2libra.com/post/forum-function/uUNQv0x)
   - [爸妈节奏跳操小游戏](https://2libra.com/post/game-share/FAFV2Qn)
 - 404 Media
   - [Following 404 Media Investigation, Senator Demands Info About White House's License Plate Surveillance Program](https://www.404media.co/following-404-media-investigation-senator-demands-info-about-white-houses-license-plate-surveillance-program/)
@@ -100,13 +103,19 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe](https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/)
   - [The DOJ Is Weighing Perjury Charges Against Cassidy Hutchinson](https://www.wired.com/story/the-doj-is-weighing-perjury-charges-against-cassidy-hutchinson/)
 - 不安全
+  - [displace vs replace](https://buaq.net/go-447442.html)
+  - [do anybody know how to do this?](https://buaq.net/go-447444.html)
   - [EpiReal-Bench](https://buaq.net/go-447434.html)
   - [Open source firmware for a cheap USB C meter (KWS-X1) that shows way more PD info than stock](https://buaq.net/go-447433.html)
+  - [Telegram桌面版出现高危安全漏洞 点击恶意链接账号就可能被黑客劫持](https://buaq.net/go-447438.html)
+  - [加密硬件钱包Ledger遭黑客攻击 黑客改装硬件窃取助记词 已窃取超过8,000万美元](https://buaq.net/go-447437.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
+  - [displace vs replace](https://dyrnq.com/displace-vs-replace/)
   - [the input device is not a TTY](https://dyrnq.com/the-input-device-is-not-a-tty/)
 - 安全客
   - [你让 AI 截个图，它顺手把你公司机密传上了公网](https://www.anquanke.com/post/id/316214)
 - 爱范儿
+  - [为什么 ChatGPT 总爱在标题里塞色情赌博小广告？](https://www.ifanr.com/1683545?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑](https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign=)
