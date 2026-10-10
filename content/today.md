@@ -5,6 +5,7 @@
   - [AI 的思路打开了](https://2libra.com/post/ai-applications/QuhYr4M)
   - [claude 皮一下，真的开心死了](https://2libra.com/post/ai-tools/N2dtGjC)
   - [folo 是不是被墙了](https://2libra.com/post/open-source-tools/CJifkC5)
+  - [【BeanDesk 经营账本】 基于 beancount 开源本地的复式记账桌面软件，支持 AI 录账、分析](https://2libra.com/post/open-source-sharing/I1pxDdP)
   - [【💰】 转变思路应对队友的情绪失控](https://2libra.com/post/game-discussion/WH5hReb)
   - [【💰】感觉走个面徽章有点超模了](https://2libra.com/post/forum-function/pUMCAwK)
   - [【💰】求助，关于行车记录仪](https://2libra.com/post/automobile/6vVxGlS)
@@ -46,6 +47,7 @@
   - [Blockchain.com pursues CFTC approval for prediction markets: CNBC](https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HSBC, Ant Digital test AI-agent payments using tokenized deposits](https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Justin Sun says Tron’s post-quantum cryptography has gone live on testnet](https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New York permanently bars Celsius founder Mashinsky in $35M fraud settlement](https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds](https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tech chief says EU can fend off rogue AI risk: Report](https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -90,6 +92,8 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/)
 - seangoedecke.com
   - [Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/)
+- shkspr.mobi
+  - [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/)
 - simonwillison.net
   - [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/)
 - Sploitus.com Exploits RSS Feed
@@ -133,8 +137,10 @@ Up the World of Marketing?](https://hackernoon.com/gpt-6-astra-will-it-shake-up-
   - [Ohio blogger found guilty of harassment for sending Shrek nude to senator](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude)
   - [The director of Fjord takes the &#8216;risky position&#8217; of moderator](https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview)
   - [The Samsung Galaxy S26 Ultra is down to $950 after Prime Day](https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale)
+  - [The techlash has gone Hollywood](https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer)
   - [The Telo MT1 is a big truck trapped in a tiny truck’s body](https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck)
 - Wired
+  - [Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
   - [Book Publishers Are Quietly Using More AI. Staff Are Revolting](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/)
   - [Humans Watched This Supernova Explode Nearly a Millennium Ago. Now You Can See It in High Definition](https://www.wired.com/story/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/)
   - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/)
