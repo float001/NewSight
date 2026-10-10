@@ -1,11 +1,15 @@
 # 今日安全资讯（2026-10-11）
 
+- 2Libra
+  - [把鼠标移到我的头像上](https://2libra.com/post/forum-function/srZbB9X)
 - daringfireball.net
   - [Sunnny](https://sunnny.com/)
 - Hacker News Frontpage
   - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 - righto.com
   - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
+- Sploitus.com Exploits RSS Feed
+  - [Minion.InjectionLab exploit](https://sploitus.com/exploit?id=5D75833E-2F49-5621-A9BC-06173A67ABA3&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)
   - [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/)
