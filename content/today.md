@@ -43,9 +43,11 @@
   - [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)
   - [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
   - [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/)
+  - [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
 - The Block
   - [Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ](https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222)
 - The Decoder
+  - [AI agents overstate their results and remain far from autonomous research, study finds](https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/)
   - [ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server](https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/)
   - [Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario](https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/)
   - [Microsoft's Nadella bows to Trump's language diktat on "Super Intelligence" and uses it to attack OpenAI and Anthropic](https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/)
@@ -63,8 +65,12 @@
   - [How the 2026 Super El Niño and Climate Change Are Related](https://www.wired.com/story/super-el-nino-climate-change-connections/)
   - [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
   - [Inside the Muslim Manosphere Policing Women Online](https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/)
+- 不安全
+  - [Fencing and lease](https://buaq.net/go-447624.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Fencing and lease](https://dyrnq.com/fencing-and-lease/)
 - 奇客Solidot–传递最新科技情报
   - [《Squadron 42》上架 Steam 平台，预计 2027 年二季度发售](https://www.solidot.org/story?sid=85578)
 - 爱范儿
