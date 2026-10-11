@@ -6,15 +6,20 @@
 - daringfireball.net
   - [Sunnny](https://sunnny.com/)
 - Hacker News Frontpage
+  - [A minimal Rust TUI for managing GitHub repos and branches](https://github.com/jorgeandrecastro/github-workflow)
   - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
   - [Anthropic discloses 2 months old fake tip to police among new rogue AI incidents](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)
+  - [Ask HN: Why aren't Americans rising up against tipping?](https://news.ycombinator.com/item?id=50038458)
   - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
   - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
   - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
   - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
+  - [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
   - [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/workweave)
 - righto.com
   - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html)
+- simonwillison.net
+  - [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/)
 - Sploitus.com Exploits RSS Feed
   - [Minion.InjectionLab exploit](https://sploitus.com/exploit?id=5D75833E-2F49-5621-A9BC-06173A67ABA3&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -30,3 +35,5 @@
   - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出](https://www.ifanr.com/1683829?utm_source=rss&utm_medium=rss&utm_campaign=)
