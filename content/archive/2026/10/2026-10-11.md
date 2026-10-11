@@ -28,6 +28,8 @@
 - simonwillison.net
   - [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-107406](https://sploitus.com/exploit?id=88E00D99-4CD3-529F-B652-BE0CFD78CD38&utm_source=rss&utm_medium=rss)
+  - [Exploit for Incorrect Authorization in Systemd_Project Systemd](https://sploitus.com/exploit?id=9CE5C9EE-DD95-59DB-80F7-B27406D43E21&utm_source=rss&utm_medium=rss)
   - [Minion.InjectionLab exploit](https://sploitus.com/exploit?id=5D75833E-2F49-5621-A9BC-06173A67ABA3&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
@@ -37,6 +39,9 @@
 - The Block
   - [Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ](https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222)
 - The Decoder
+  - [ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server](https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/)
+  - [Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario](https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/)
+  - [Microsoft's Nadella bows to Trump's language diktat on "Super Intelligence" and uses it to attack OpenAI and Anthropic](https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/)
   - [Odyssey-3 is a new generative world model that you can try for free](https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/)
 - The Verge
   - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)
@@ -44,6 +49,7 @@
   - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
 - Wired
   - [California’s Tallest and Most Iconic Trees Are Getting Heatstroke](https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/)
+  - [How the 2026 Super El Niño and Climate Change Are Related](https://www.wired.com/story/super-el-nino-climate-change-connections/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
