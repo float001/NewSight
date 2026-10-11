@@ -2,6 +2,7 @@
 
 - Hacker News Frontpage
   - [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
+  - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 - idiallo.com
   - [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored)
 - Sploitus.com Exploits RSS Feed
@@ -10,6 +11,7 @@
   - [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
   - [Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)
   - [TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)
+  - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
