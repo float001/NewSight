@@ -7,6 +7,7 @@
   - [把鼠标移到我的头像上](https://2libra.com/post/forum-function/srZbB9X)
   - [每天一分钟，知晓天下事！2026 年 10 月 11 日](https://2libra.com/post/hotspot-tracking/4hHz75N)
   - [花了 500 块钱的 token，跑了一个这样的小站](https://2libra.com/post/personal-works/0LR1FsJ)
+  - [进击的方块巨人守城](https://2libra.com/post/game-share/6ov0wWw)
 - CoinTelegraph
   - [CFTC proposals aimed at separating prediction markets from casino gambling](https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coldcard says it’s investigating how phishing link appeared on its X account](https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -23,6 +24,7 @@
   - [Ask HN: Why aren't Americans rising up against tipping?](https://news.ycombinator.com/item?id=50038458)
   - [Don't Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
   - [Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)
+  - [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
   - [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
   - [Takeshi's Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
   - [Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300)
@@ -41,9 +43,11 @@
 - TechCrunch
   - [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
   - [Cloudflare acquires Deno to improve its Workers programming model](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)
+  - [Efferon wants to eradicate the devastating toll of pediatric sepsis](https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/)
   - [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
   - [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/)
   - [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/)
+  - [What to know about the landmark Warner Bros. Discovery sale](https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/)
 - The Block
   - [Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ](https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222)
 - The Decoder
@@ -67,6 +71,7 @@
   - [Inside the Muslim Manosphere Policing Women Online](https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/)
 - 不安全
   - [Fencing and lease](https://buaq.net/go-447624.html)
+  - [New website: estimating human cryptanalytic work](https://buaq.net/go-447627.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
