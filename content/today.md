@@ -38,4 +38,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [DDR4 内存重出江湖，PC 终于癫成我不认识的样子](https://www.ifanr.com/1683529?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出](https://www.ifanr.com/1683829?utm_source=rss&utm_medium=rss&utm_campaign=)
