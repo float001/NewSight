@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-10-11）
 
 - 2Libra
+  - [ZCode+deepseek harness 使用](https://2libra.com/post/ai-programming/AQteoQD)
   - [一天假期，更适合睡懒觉。](https://2libra.com/post/personal-life/YZQa3LC)
   - [制裁已经 8 年有余了吧，hvv 会不会已经 “习惯” 了拿低质高价的产品来糊弄消费者？8 年了，爱国情怀也被消费消耗得差不多了吧。我讨厌现在这个品牌的营销。](https://2libra.com/post/phone/fodWvpc)
   - [把鼠标移到我的头像上](https://2libra.com/post/forum-function/srZbB9X)
@@ -8,6 +9,7 @@
   - [花了 500 块钱的 token，跑了一个这样的小站](https://2libra.com/post/personal-works/0LR1FsJ)
 - CoinTelegraph
   - [CFTC proposals aimed at separating prediction markets from casino gambling](https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coldcard says it’s investigating how phishing link appeared on its X account](https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Sunnny](https://sunnny.com/)
 - defend.network
@@ -45,11 +47,14 @@
   - [Odyssey-3 is a new generative world model that you can try for free](https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/)
 - The Verge
   - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)
+  - [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
   - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
   - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
 - Wired
+  - [13 Best Gifts for Every Traveler Should Have (2026)](https://www.wired.com/story/best-gifts-for-travelers/)
   - [California’s Tallest and Most Iconic Trees Are Getting Heatstroke](https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/)
   - [How the 2026 Super El Niño and Climate Change Are Related](https://www.wired.com/story/super-el-nino-climate-change-connections/)
+  - [Inside the Muslim Manosphere Policing Women Online](https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
