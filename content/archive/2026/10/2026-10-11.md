@@ -6,6 +6,8 @@
   - [把鼠标移到我的头像上](https://2libra.com/post/forum-function/srZbB9X)
   - [每天一分钟，知晓天下事！2026 年 10 月 11 日](https://2libra.com/post/hotspot-tracking/4hHz75N)
   - [花了 500 块钱的 token，跑了一个这样的小站](https://2libra.com/post/personal-works/0LR1FsJ)
+- CoinTelegraph
+  - [CFTC proposals aimed at separating prediction markets from casino gambling](https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Sunnny](https://sunnny.com/)
 - defend.network
@@ -34,6 +36,8 @@
   - [Petra Power looks to modernize energy for data centers and defense vehicles](https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/)
 - The Block
   - [Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ](https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222)
+- The Decoder
+  - [Odyssey-3 is a new generative world model that you can try for free](https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/)
 - The Verge
   - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)
   - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
