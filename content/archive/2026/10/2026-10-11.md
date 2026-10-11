@@ -16,6 +16,7 @@
   - [Critical unpatched flaws in AhsayCBS, BIND, Apache Struts actively exploited](https://defend.network/briefings/ahsaycbs-bind-struts-critical-unpatched-exploits-2026-10-11.html)
 - Hacker News Frontpage
   - [A minimal Rust TUI for managing GitHub repos and branches](https://github.com/jorgeandrecastro/github-workflow)
+  - [AI is creating a 'human premium' for art created by people](https://www.bbc.com/news/articles/c5vgjm3gk7rzo)
   - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
   - [Anthropic discloses 2 months old fake tip to police among new rogue AI incidents](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)
   - [Ask HN: Why aren't Americans rising up against tipping?](https://news.ycombinator.com/item?id=50038458)
@@ -47,13 +48,16 @@
   - [Odyssey-3 is a new generative world model that you can try for free](https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/)
 - The Verge
   - [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)
+  - [Horror is big business](https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil)
   - [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
   - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
   - [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+  - [Why the LeapPad couldn&#8217;t survive the iPad](https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history)
 - Wired
   - [13 Best Gifts for Every Traveler Should Have (2026)](https://www.wired.com/story/best-gifts-for-travelers/)
   - [California’s Tallest and Most Iconic Trees Are Getting Heatstroke](https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/)
   - [How the 2026 Super El Niño and Climate Change Are Related](https://www.wired.com/story/super-el-nino-climate-change-connections/)
+  - [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
   - [Inside the Muslim Manosphere Policing Women Online](https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
