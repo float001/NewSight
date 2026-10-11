@@ -2,6 +2,7 @@
 
 - 2Libra
   - [一天假期，更适合睡懒觉。](https://2libra.com/post/personal-life/YZQa3LC)
+  - [制裁已经 8 年有余了吧，hvv 会不会已经 “习惯” 了拿低质高价的产品来糊弄消费者？8 年了，爱国情怀也被消费消耗得差不多了吧。我讨厌现在这个品牌的营销。](https://2libra.com/post/phone/fodWvpc)
   - [把鼠标移到我的头像上](https://2libra.com/post/forum-function/srZbB9X)
   - [每天一分钟，知晓天下事！2026 年 10 月 11 日](https://2libra.com/post/hotspot-tracking/4hHz75N)
   - [花了 500 块钱的 token，跑了一个这样的小站](https://2libra.com/post/personal-works/0LR1FsJ)
