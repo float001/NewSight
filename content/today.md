@@ -8,6 +8,8 @@
   - [花了 500 块钱的 token，跑了一个这样的小站](https://2libra.com/post/personal-works/0LR1FsJ)
 - daringfireball.net
   - [Sunnny](https://sunnny.com/)
+- defend.network
+  - [Critical unpatched flaws in AhsayCBS, BIND, Apache Struts actively exploited](https://defend.network/briefings/ahsaycbs-bind-struts-critical-unpatched-exploits-2026-10-11.html)
 - Hacker News Frontpage
   - [A minimal Rust TUI for managing GitHub repos and branches](https://github.com/jorgeandrecastro/github-workflow)
   - [AI Is Throwing a Roadside Picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
