@@ -3,7 +3,10 @@
 - 2Libra
   - [【周末家常菜】在家里吃一席地鸡火锅](https://2libra.com/post/personal-life/4Tj18Jc)
   - [【💰】skills 中文社区搜寻](https://2libra.com/post/recommendations/5ZTr8cP)
+  - [【💰】关于买手办](https://2libra.com/post/worth-buying/CqJuK5z)
   - [【💰】工资没涨，AI 先贵了——求各位教教我怎么省 token，顺便聊聊哪家便宜](https://2libra.com/post/ai-gateway/GgcuFCa)
+  - [做了一个在线使用 Claude 以及 Codex 工具](https://2libra.com/post/open-source-sharing/ue4j7Pn)
+  - [品味、毅力、专注——AI 时代的稀缺能力](https://2libra.com/post/tech-rumination/V_Z0W94)
   - [大厂云国际版，最低 50U 起丨云服务器、轻量应用服务器丨阿里腾讯华为/AWS GCP AZURE](https://2libra.com/post/promotion/dEALPqY)
   - [工作之余 vibe coding 了一个小程序](https://2libra.com/post/personal-works/76YMyDI)
   - [当以“弹窗方式”打开某个话题时，关闭弹窗，话题的颜色不会变浅灰色（被标记为已读）](https://2libra.com/post/community/VjjFQYL)
@@ -14,7 +17,9 @@
   - [这是好事还是坏事](https://2libra.com/post/tech-rumination/hwU5-pq)
   - [霸王茶姬买一送一了](https://2libra.com/post/deal-hunter/huYXKZq)
 - CoinTelegraph
+  - [DATA Network to migrate to Sui, retire own chain](https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [French lawmakers back reporting rule for crypto wallets over $112K](https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/)
@@ -68,6 +73,8 @@
 - 爱范儿
   - [早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI](https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [HexHub | 一款强大的SSH、数据库、Docker 智能体工具](https://blog.upx8.com/4779)
   - [NASA发布阿耳忒弥斯2号收集的月球数据](https://blog.upx8.com/NASA%E5%8F%91%E5%B8%83%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF2%E5%8F%B7%E6%94%B6%E9%9B%86%E7%9A%84%E6%9C%88%E7%90%83%E6%95%B0%E6%8D%AE)
   - [徐宁博士被撤销尼康显微视频竞赛冠军资格](https://blog.upx8.com/%E5%BE%90%E5%AE%81%E5%8D%9A%E5%A3%AB%E8%A2%AB%E6%92%A4%E9%94%80%E5%B0%BC%E5%BA%B7%E6%98%BE%E5%BE%AE%E8%A7%86%E9%A2%91%E7%AB%9E%E8%B5%9B%E5%86%A0%E5%86%9B%E8%B5%84%E6%A0%BC)
+  - [特朗普称考虑将大西洋或太平洋改名为“南北美洲洋”](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%80%83%E8%99%91%E5%B0%86%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%88%96%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%94%B9%E5%90%8D%E4%B8%BA-%E5%8D%97%E5%8C%97%E7%BE%8E%E6%B4%B2%E6%B4%8B)
   - [超微电脑合同工认罪 涉向中国非法转运英伟达芯片](https://blog.upx8.com/%E8%B6%85%E5%BE%AE%E7%94%B5%E8%84%91%E5%90%88%E5%90%8C%E5%B7%A5%E8%AE%A4%E7%BD%AA-%E6%B6%89%E5%90%91%E4%B8%AD%E5%9B%BD%E9%9D%9E%E6%B3%95%E8%BD%AC%E8%BF%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87)
