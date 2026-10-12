@@ -2,11 +2,15 @@
 
 - 2Libra
   - [GPT 团队版 5x 全流程教程](https://2libra.com/post/sharing-discoveries/_-1cvJm)
+  - [《Clive Barker's Hellraiser: Revival》点评：8 分](https://2libra.com/post/game-share/e3Ro2-7)
   - [【兑换码】🔥Proxy001 住宅 IP｜贵是贵点，用着不烧心｜送体验 CDK，无限流量，静态 $2.9 / 月独享](https://2libra.com/post/promotion/FGCyK6C)
   - [【周末家常菜】在家里吃一席地鸡火锅](https://2libra.com/post/personal-life/4Tj18Jc)
+  - [【家庭琐事分享】我真的服了我老爹了，年纪越大，感觉脾气越怪了！](https://2libra.com/post/family/gU2nTJS)
+  - [【西游职场 2】沙僧取经：再看《西游》职场的「站位」逻辑](https://2libra.com/post/workplace-stories/K7Yx0Mc)
   - [【💰】skills 中文社区搜寻](https://2libra.com/post/recommendations/5ZTr8cP)
   - [【💰】关于买手办](https://2libra.com/post/worth-buying/CqJuK5z)
   - [【💰】工资没涨，AI 先贵了——求各位教教我怎么省 token，顺便聊聊哪家便宜](https://2libra.com/post/ai-gateway/GgcuFCa)
+  - [今天做了一个莫奈画风的《稻香》MV](https://2libra.com/post/personal-works/UsH4iUg)
   - [你现在处于那个阶段？](https://2libra.com/post/personal-life/M_NeJqr)
   - [做了一个在线使用 Claude 以及 Codex 工具](https://2libra.com/post/open-source-sharing/ue4j7Pn)
   - [品味、毅力、专注——AI 时代的稀缺能力](https://2libra.com/post/tech-rumination/V_Z0W94)
@@ -26,10 +30,14 @@
   - [French lawmakers back reporting rule for crypto wallets over $112K](https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Global watchdog flags stablecoin risks, AI threats ahead of G20](https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kraken parent clears Dubai’s final hurdle for dirham trading rollout](https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean bank launches Bitcoin-backed business loans: Report](https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal](https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Musk encourages users to give credit card info to Grok Bot while SpaceXAI silently updates its privacy policy](https://cybernews.com/ai-news/grok-bot-credit-card-sharing-policy-update/)
   - [SIM-swap fraudster jailed for stealing $265K in crypto to fund luxury lifestyle](https://cybernews.com/news/sim-swap-crypto-crime/)
+  - [Take notes, Sony: Nintendo has “no plans” to ditch physical games](https://cybernews.com/news/nintendo-physical-games/)
   - [World’s worst password “123456” linked to breach of 8.8M Danes](https://cybernews.com/security/denmark-cpr-data-breach-weak-password/)
 - daringfireball.net
   - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/)
@@ -43,10 +51,16 @@
   - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 - idiallo.com
   - [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored)
+- IEEE Spectrum
+  - [Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots](https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/)
 - infosecurity-magazine.com
   - [Karaoke Giant Reveals Data Breach Impacting Eight Million](https://www.infosecurity-magazine.com/news/karaoke-giant-data-breach-eight/)
+  - [Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups](https://www.infosecurity-magazine.com/news/palo-alto-vpn-vulnerability-target/)
+  - [Net Closes Around ShinyHunters with Another FBI Arrest](https://www.infosecurity-magazine.com/news/net-closes-shinyhunters-another/)
 - micahflee.com
   - [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/)
+- MIT Technology Review
+  - [Mars may be a hellhole, but the moon is not far behind](https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/)
 - Sploitus.com Exploits RSS Feed
   - [continew-starter exploit](https://sploitus.com/exploit?id=025B910B-5C8C-5979-9903-3B693E3251B8&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Langflow](https://sploitus.com/exploit?id=2D996ADD-F425-5620-AD07-F6317AD75977&utm_source=rss&utm_medium=rss)
@@ -67,14 +81,20 @@
   - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
 - The Block
   - [Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’](https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246)
+  - [Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger](https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258)
   - [Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui](https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243)
   - [Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices](https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239)
   - [XRP Ledger patches decade-old bug that could have minted trillions of XRP](https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230)
+- The Decoder
+  - [Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed](https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/)
 - The Verge
   - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)
   - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The Best Gifts for the Techie in Your Life (2026)](https://www.wired.com/story/best-tech-gifts/)
+  - [They War-Gamed Dimming the Sun. It Went Even Worse Than You Think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
 - 不安全
   - [[下载]多系统安装工具Ventoy 1.1.18版发布 实验性支持SteamOS并改进Linux体验](https://buaq.net/go-447710.html)
   - [AND WE ARE BACK. October 11 Dre@d Status Update.](https://buaq.net/go-447718.html)
@@ -87,6 +107,7 @@
 - 奇客Solidot–传递最新科技情报
   - [全球汽油汽车销量首次低于五成](https://www.solidot.org/story?sid=85585)
   - [固态硬盘价格一年翻了两番](https://www.solidot.org/story?sid=85586)
+  - [美国畜牧业采用石化行业相同的策略淡化气候暖化](https://www.solidot.org/story?sid=85588)
 - 爱范儿
   - [早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI](https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
