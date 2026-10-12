@@ -26,6 +26,10 @@
   - [苦尽"甘"来](https://2libra.com/post/forum-function/N61XsrW)
   - [这是好事还是坏事](https://2libra.com/post/tech-rumination/hwU5-pq)
   - [霸王茶姬买一送一了](https://2libra.com/post/deal-hunter/huYXKZq)
+- 404 Media
+  - [AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo](https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/)
+- Ars Technica
+  - [Inside Amazon’s robotic arms race and what it means for the future of human work](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)
 - CoinTelegraph
   - [Australia proposes leverage caps for crypto-settled derivatives](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week](https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -36,6 +40,7 @@
   - [Kraken parent clears Dubai’s final hurdle for dirham trading rollout](https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean bank launches Bitcoin-backed business loans: Report](https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal](https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy adds 250 Bitcoin as holdings reach 848,250 BTC](https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Australia proposes leverage caps for crypto-settled derivatives](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -45,27 +50,40 @@
 - CyberNews
   - [Amazon Fire TV Cube hacked using 4-year-old bug: movie fans are not scared, they’re ecstatic](https://cybernews.com/security/amazon-fire-tv-cube-root-exploit-enables-full-unlock/)
   - [Apollo astronaut Charlie Duke believes UFOs are demonic, not alien](https://cybernews.com/news/apollo-charlie-duke-nasa-ufo-uap-disclosure/)
+  - [Bargain Android phones ship with preinstalled malware, and users can’t delete it](https://cybernews.com/security/android-preinstalled-malware-midnight-mimosa-ad-fraud/)
+  - [Claude Code may have found a planet hiding in NASA's data](https://cybernews.com/tech/claude-code-possible-exoplanet-found-in-nasa-data/)
   - [Dutch police take down malicious proxy network exploiting 178,000 devices](https://cybernews.com/news/police-close-malicious-proxy-network/)
   - [Hackers threaten to expose KFC data, as breach allegations circulate](https://cybernews.com/security/kfc-data-breach-ransomware-claim/)
+  - [Here’s a faster way to get rid of Flock cameras in your area](https://cybernews.com/news/flock-state-transportation-managers-contracts/)
+  - [International money-laundering gang recruited 15,000 money mules to funnel hackers’ cash](https://cybernews.com/news/money-laundering-gang-mules-hackers/)
   - [MoneyGram under threat as hackers claim data breach](https://cybernews.com/security/moneygram-data-breach-ransomware-claim/)
   - [Musk encourages users to give credit card info to Grok Bot while SpaceXAI silently updates its privacy policy](https://cybernews.com/ai-news/grok-bot-credit-card-sharing-policy-update/)
   - [Musk renames SpaceXAI following Trump's “super intelligence” demand](https://cybernews.com/news/spacexai-super-intelligence-rebrand/)
   - [SIM-swap fraudster jailed for stealing $265K in crypto to fund luxury lifestyle](https://cybernews.com/news/sim-swap-crypto-crime/)
   - [Take notes, Sony: Nintendo has “no plans” to ditch physical games](https://cybernews.com/news/nintendo-physical-games/)
+  - [US sanctions on the ICC strengthen the case for European tech sovereignty](https://cybernews.com/tech/icc-sanctions-europe/)
+  - [WhatsApp tests feature that could block users on outdated phones](https://cybernews.com/news/whatsapp-safety-feature-block-outdated-devices/)
   - [World’s worst password “123456” linked to breach of 8.8M Danes](https://cybernews.com/security/denmark-cpr-data-breach-weak-password/)
   - [Yandex bot traffic fell, but the troll farm story does not hold](https://cybernews.com/news/yandex-data-centers-bot-traffic-drop/)
+- daniel.haxx.se
+  - [The 2026 curl team](https://daniel.haxx.se/blog/2026/10/12/the-2026-curl-team/)
 - daringfireball.net
   - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
   - [numbat – Endpoint Visibility and Forensics for AI Coding Agents](https://www.darknet.org.uk/2026/10/numbat-endpoint-visibility-and-forensics-for-ai-coding-agents/)
+- darkreading
+  - [Passing the Baton: Dark Reading Names New Editor-in-Chief](https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief)
 - defend.network
   - [P7 DarkSword iOS exploits escalate; ShinyHunters arrests surge; AI agents targeted in bank breaches](https://defend.network/briefings/darksword-ios-exploit-shinyhunters-arrests-ai-threats-2026-10-12.html)
 - dfarq.homeip.net
   - [Nvidia’s first GPU: GeForce 256](https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/?utm_source=rss&utm_medium=rss&utm_campaign=nvidias-first-gpu-geforce-256)
+- Fidelis Security
+  - [What to Look for in a Cyber Deception Solution: 12 Capabilities That Matter](https://fidelissecurity.com/threatgeek/deception/what-to-look-for-in-deception-solution/)
 - Hacker News Frontpage
   - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
   - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
   - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
+  - [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
   - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
   - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
   - [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
@@ -84,8 +102,11 @@
   - [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/)
 - MIT Technology Review
   - [Mars may be a hellhole, but the moon is not far behind](https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/)
+  - [The Download: moon city problems and drone traffic controllers](https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/)
 - pluralistic.net
   - [Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)](https://pluralistic.net/2026/10/12/termination-of-transfer/)
+- Recent Commits to cve:main
+  - [Update Mon Oct 12 12:25:52 UTC 2026](https://github.com/trickest/cve/commit/7d37540b9a205a2a1c99ee632a5de9592a2642a8)
 - Sec-News 安全文摘
   - [How I Found a $90,000 Remote Code Execution Vulnerability in Google](https://govuln.com/news/url/8yN0)
 - Sploitus.com Exploits RSS Feed
@@ -102,6 +123,7 @@
   - [Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)
   - [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
   - [Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)
+  - [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)
   - [TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)
   - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
@@ -114,13 +136,18 @@
   - [Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui](https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243)
   - [Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices](https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239)
   - [XRP Ledger patches decade-old bug that could have minted trillions of XRP](https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230)
+  - [‘There’s always room for more orange’: Michael Saylor’s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC](https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275)
 - The Decoder
+  - [Anthropic's Andrej Karpathy says "the external world has seen the preview" of what AI can actually do](https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/)
   - [Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed](https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/)
 - The Verge
   - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)
+  - [CMF’s first wireless speakers look like musical milk cartons](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize)
   - [How Apple can win the smart home](https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home)
   - [Inside the mini factory where GM builds its EV future](https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla)
+  - [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)
   - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
+  - [The Fitbit Edge is for folks who don’t want to go totally screenless](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker)
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -128,14 +155,17 @@
   - [AlterMe Review: Fitness Built Around My DNA](https://www.wired.com/review/alterme-fitness-and-wellness-program/)
   - [Far-Right Election Groups Are Now Targeting Nursing Homes](https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/)
   - [Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/)
+  - [Google Fitbit Edge: Specs, Features, Price, Release Date](https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/)
   - [How Apple Puts Indigenous Languages on the iPhone Keyboard](https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/)
   - [The Best Gifts for the Techie in Your Life (2026)](https://www.wired.com/story/best-tech-gifts/)
   - [They War-Gamed Dimming the Sun. It Went Even Worse Than You Think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
 - 不安全
   - [[下载]多系统安装工具Ventoy 1.1.18版发布 实验性支持SteamOS并改进Linux体验](https://buaq.net/go-447710.html)
   - [AND WE ARE BACK. October 11 Dre@d Status Update.](https://buaq.net/go-447718.html)
+  - [Can someone remake this for modern android devices?](https://buaq.net/go-447786.html)
   - [Ghidra and IDA Server! Don't need mcp bridge just run directly the script](https://buaq.net/go-447699.html)
   - [Korg SQ-64 Custom Firmware - Phase 1: An emulator that runs stock firmware in the browser](https://buaq.net/go-447700.html)
+  - [The 2026 curl team](https://buaq.net/go-447787.html)
   - [国家互联网应急中心发布风险提示：荐片播放器内置后门 已感染70万台设备](https://buaq.net/go-447711.html)
   - [基于安卓17的LineageOS 24.0正式版发布 新增基于浏览器的刷机工具](https://buaq.net/go-447692.html)
   - [解读《关于发展新质生产力的意见》：新质生产力中的网络安全逻辑](https://buaq.net/go-447756.html)
