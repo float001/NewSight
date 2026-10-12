@@ -2,6 +2,7 @@
 
 - 2Libra
   - [GPT 团队版 5x 全流程教程](https://2libra.com/post/sharing-discoveries/_-1cvJm)
+  - [【兑换码】🔥Proxy001 住宅 IP｜贵是贵点，用着不烧心｜送体验 CDK，无限流量，静态 $2.9 / 月独享](https://2libra.com/post/promotion/FGCyK6C)
   - [【周末家常菜】在家里吃一席地鸡火锅](https://2libra.com/post/personal-life/4Tj18Jc)
   - [【💰】skills 中文社区搜寻](https://2libra.com/post/recommendations/5ZTr8cP)
   - [【💰】关于买手办](https://2libra.com/post/worth-buying/CqJuK5z)
@@ -75,6 +76,8 @@
   - [基于安卓17的LineageOS 24.0正式版发布 新增基于浏览器的刷机工具](https://buaq.net/go-447692.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [全球汽油汽车销量首次低于五成](https://www.solidot.org/story?sid=85585)
 - 爱范儿
   - [早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI](https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
