@@ -5,6 +5,7 @@
   - [【💰】skills 中文社区搜寻](https://2libra.com/post/recommendations/5ZTr8cP)
   - [【💰】工资没涨，AI 先贵了——求各位教教我怎么省 token，顺便聊聊哪家便宜](https://2libra.com/post/ai-gateway/GgcuFCa)
   - [大厂云国际版，最低 50U 起丨云服务器、轻量应用服务器丨阿里腾讯华为/AWS GCP AZURE](https://2libra.com/post/promotion/dEALPqY)
+  - [工作之余 vibe coding 了一个小程序](https://2libra.com/post/personal-works/76YMyDI)
   - [当以“弹窗方式”打开某个话题时，关闭弹窗，话题的颜色不会变浅灰色（被标记为已读）](https://2libra.com/post/community/VjjFQYL)
   - [早上坏，记上班路上半路停下来处理工作](https://2libra.com/post/office-life/45-1PZ1)
   - [第一天](https://2libra.com/post/personal-life/4DWMn7c)
@@ -13,6 +14,7 @@
   - [这是好事还是坏事](https://2libra.com/post/tech-rumination/hwU5-pq)
   - [霸王茶姬买一送一了](https://2libra.com/post/deal-hunter/huYXKZq)
 - CoinTelegraph
+  - [French lawmakers back reporting rule for crypto wallets over $112K](https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/)
@@ -45,6 +47,7 @@
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
 - The Block
+  - [Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’](https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246)
   - [Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui](https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243)
   - [Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices](https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239)
   - [XRP Ledger patches decade-old bug that could have minted trillions of XRP](https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230)
@@ -54,8 +57,11 @@
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [[下载]多系统安装工具Ventoy 1.1.18版发布 实验性支持SteamOS并改进Linux体验](https://buaq.net/go-447710.html)
+  - [AND WE ARE BACK. October 11 Dre@d Status Update.](https://buaq.net/go-447718.html)
   - [Ghidra and IDA Server! Don't need mcp bridge just run directly the script](https://buaq.net/go-447699.html)
   - [Korg SQ-64 Custom Firmware - Phase 1: An emulator that runs stock firmware in the browser](https://buaq.net/go-447700.html)
+  - [国家互联网应急中心发布风险提示：荐片播放器内置后门 已感染70万台设备](https://buaq.net/go-447711.html)
   - [基于安卓17的LineageOS 24.0正式版发布 新增基于浏览器的刷机工具](https://buaq.net/go-447692.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
