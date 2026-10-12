@@ -31,6 +31,10 @@
   - [Cops can creep on Airbnb](https://www.404media.co/cops-can-creep-on-airbnb/)
 - Ars Technica
   - [Inside Amazon’s robotic arms race and what it means for the future of human work](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)
+- ByteByteGo
+  - [How to Build Models Without Language, with Logical Intelligence](https://blog.bytebytego.com/p/how-to-build-models-without-language)
+- CERT Recently Published Vulnerability Notes
+  - [VU#162329: Multiple vulnerabilities in Thelia 2.6.0 and 2.6.1](https://kb.cert.org/vuls/id/162329)
 - CoinTelegraph
   - [Australia proposes leverage caps for crypto-settled derivatives](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week](https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -43,6 +47,7 @@
   - [Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal](https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy adds 250 Bitcoin as holdings reach 848,250 BTC](https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [XRP treasury Evernorth’s shares rise 5% at Nasdaq opening print](https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Australia proposes leverage caps for crypto-settled derivatives](https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -56,6 +61,7 @@
   - [Dutch police take down malicious proxy network exploiting 178,000 devices](https://cybernews.com/news/police-close-malicious-proxy-network/)
   - [Even chestnuts get political in the US data center wars](https://cybernews.com/news/chestnuts-data-center/)
   - [Hackers threaten to expose KFC data, as breach allegations circulate](https://cybernews.com/security/kfc-data-breach-ransomware-claim/)
+  - [Hackers turn up supermarket fridges to 50°C, threatening millions in food losses](https://cybernews.com/security/danfoss-refrigeration-hack-france-supermarkets/)
   - [Here’s a faster way to get rid of Flock cameras in your area](https://cybernews.com/news/flock-state-transportation-managers-contracts/)
   - [International money-laundering gang recruited 15,000 money mules to funnel hackers’ cash](https://cybernews.com/news/money-laundering-gang-mules-hackers/)
   - [Karaoke giant warns 8.7 million customers exposed in supplier data breach](https://cybernews.com/security/daiichi-kosho-data-breach-customers/)
@@ -84,13 +90,16 @@
   - [What to Look for in a Cyber Deception Solution: 12 Capabilities That Matter](https://fidelissecurity.com/threatgeek/deception/what-to-look-for-in-deception-solution/)
 - Hacker News Frontpage
   - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
+  - [An Unmade Film Shaped Hayao Miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
   - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
   - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
   - [Hackers activate automatic defrosting accross European supermarket fridges](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
   - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
   - [QGIS bans AI assisted contributions](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387)
+  - [Solar Panels That Plug into Your Wall Are About to Be Everywhere](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
   - [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
   - [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
+  - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
   - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 - idiallo.com
   - [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored)
@@ -127,6 +136,7 @@
   - [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
   - [Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)
   - [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)
+  - [Smart ring maker Ultrahuman to roll out biological-age model across UAE](https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/)
   - [TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/)
   - [TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)
   - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
@@ -134,6 +144,7 @@
   - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
 - The Block
   - [Bitmine adds 12,532 ETH as Tom Lee flags potential ‘largest-ever’ crypto bull market](https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296)
+  - [DeFi Development grows SOL holdings 12% as CHAD hits record highs](https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307)
   - [Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut](https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225)
   - [Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’](https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246)
   - [Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says](https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256)
@@ -152,6 +163,7 @@
   - [CMF’s first wireless speakers look like musical milk cartons](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize)
   - [How Apple can win the smart home](https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home)
   - [Inside the mini factory where GM builds its EV future](https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla)
+  - [Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be](https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on)
   - [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)
   - [No Man’s Sky is coming to the iPhone and iPad](https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date)
   - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
@@ -198,7 +210,9 @@
   - [解读《关于发展新质生产力的意见》：新质生产力中的网络安全逻辑](https://blog.nsfocus.net/%e8%a7%a3%e8%af%bb%e3%80%8a%e5%85%b3%e4%ba%8e%e5%8f%91%e5%b1%95%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b%e7%9a%84%e6%84%8f%e8%a7%81%e3%80%8b%ef%bc%9a%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b/)
 - 黑海洋
   - [HexHub | 一款强大的SSH、数据库、Docker 智能体工具](https://blog.upx8.com/4779)
+  - [Linux创始人使用Claude Code开发重大Linux内核改进](https://blog.upx8.com/Linux%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%BD%BF%E7%94%A8Claude-Code%E5%BC%80%E5%8F%91%E9%87%8D%E5%A4%A7Linux%E5%86%85%E6%A0%B8%E6%94%B9%E8%BF%9B)
   - [NASA发布阿耳忒弥斯2号收集的月球数据](https://blog.upx8.com/NASA%E5%8F%91%E5%B8%83%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF2%E5%8F%B7%E6%94%B6%E9%9B%86%E7%9A%84%E6%9C%88%E7%90%83%E6%95%B0%E6%8D%AE)
+  - [《无人深空》即将登陆 iPhone 和 iPad](https://blog.upx8.com/%E6%97%A0%E4%BA%BA%E6%B7%B1%E7%A9%BA-%E5%8D%B3%E5%B0%86%E7%99%BB%E9%99%86-iPhone-%E5%92%8C-iPad)
   - [徐宁博士被撤销尼康显微视频竞赛冠军资格](https://blog.upx8.com/%E5%BE%90%E5%AE%81%E5%8D%9A%E5%A3%AB%E8%A2%AB%E6%92%A4%E9%94%80%E5%B0%BC%E5%BA%B7%E6%98%BE%E5%BE%AE%E8%A7%86%E9%A2%91%E7%AB%9E%E8%B5%9B%E5%86%A0%E5%86%9B%E8%B5%84%E6%A0%BC)
   - [微博大V理记宣布全平台退网 否认被封号被逼迫](https://blog.upx8.com/%E5%BE%AE%E5%8D%9A%E5%A4%A7V%E7%90%86%E8%AE%B0%E5%AE%A3%E5%B8%83%E5%85%A8%E5%B9%B3%E5%8F%B0%E9%80%80%E7%BD%91-%E5%90%A6%E8%AE%A4%E8%A2%AB%E5%B0%81%E5%8F%B7%E8%A2%AB%E9%80%BC%E8%BF%AB)
   - [微软发布第三代自研AI芯片Maia 300](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E7%AC%AC%E4%B8%89%E4%BB%A3%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87Maia-300)
