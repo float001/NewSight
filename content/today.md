@@ -17,6 +17,7 @@
   - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
   - [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
   - [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
+  - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
   - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
   - [Epic Games tells employees to use AI to get Disney game done](https://www.avclub.com/epic-games-disney-ai-delay)
   - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
