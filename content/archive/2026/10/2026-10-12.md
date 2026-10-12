@@ -3,6 +3,12 @@
 - 2Libra
   - [【周末家常菜】在家里吃一席地鸡火锅](https://2libra.com/post/personal-life/4Tj18Jc)
   - [大厂云国际版，最低 50U 起丨云服务器、轻量应用服务器丨阿里腾讯华为/AWS GCP AZURE](https://2libra.com/post/promotion/dEALPqY)
+  - [早上坏，记上班路上半路停下来处理工作](https://2libra.com/post/office-life/45-1PZ1)
+  - [第一天](https://2libra.com/post/personal-life/4DWMn7c)
+  - [苦尽"甘"来](https://2libra.com/post/forum-function/N61XsrW)
+  - [这是好事还是坏事](https://2libra.com/post/tech-rumination/hwU5-pq)
+- CoinTelegraph
+  - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/)
 - Hacker News Frontpage
@@ -17,8 +23,11 @@
   - [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/)
 - Sploitus.com Exploits RSS Feed
   - [continew-starter exploit](https://sploitus.com/exploit?id=025B910B-5C8C-5979-9903-3B693E3251B8&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Langflow](https://sploitus.com/exploit?id=2D996ADD-F425-5620-AD07-F6317AD75977&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-91136](https://sploitus.com/exploit?id=F3152BE1-D453-5C09-9932-BB44CA1FCB4E&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Metabase](https://sploitus.com/exploit?id=2945D4A8-1960-5490-8FA2-05BA6A1BA91B&utm_source=rss&utm_medium=rss)
   - [Framework-DDOS-Attack-Very-advance- exploit](https://sploitus.com/exploit?id=943A1268-A103-5A55-B571-0B3D53A5CE1E&utm_source=rss&utm_medium=rss)
+  - [vuln-exploitation-risk-cti](https://sploitus.com/exploit?id=8C2D2004-5287-5708-B33C-1146C53B916F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)
   - [Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)
@@ -29,6 +38,7 @@
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
 - The Block
+  - [Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui](https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243)
   - [Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices](https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239)
   - [XRP Ledger patches decade-old bug that could have minted trillions of XRP](https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230)
 - The Verge
