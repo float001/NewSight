@@ -28,6 +28,7 @@
   - [霸王茶姬买一送一了](https://2libra.com/post/deal-hunter/huYXKZq)
 - 404 Media
   - [AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo](https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/)
+  - [Cops can creep on Airbnb](https://www.404media.co/cops-can-creep-on-airbnb/)
 - Ars Technica
   - [Inside Amazon’s robotic arms race and what it means for the future of human work](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/)
 - CoinTelegraph
@@ -53,9 +54,11 @@
   - [Bargain Android phones ship with preinstalled malware, and users can’t delete it](https://cybernews.com/security/android-preinstalled-malware-midnight-mimosa-ad-fraud/)
   - [Claude Code may have found a planet hiding in NASA's data](https://cybernews.com/tech/claude-code-possible-exoplanet-found-in-nasa-data/)
   - [Dutch police take down malicious proxy network exploiting 178,000 devices](https://cybernews.com/news/police-close-malicious-proxy-network/)
+  - [Even chestnuts get political in the US data center wars](https://cybernews.com/news/chestnuts-data-center/)
   - [Hackers threaten to expose KFC data, as breach allegations circulate](https://cybernews.com/security/kfc-data-breach-ransomware-claim/)
   - [Here’s a faster way to get rid of Flock cameras in your area](https://cybernews.com/news/flock-state-transportation-managers-contracts/)
   - [International money-laundering gang recruited 15,000 money mules to funnel hackers’ cash](https://cybernews.com/news/money-laundering-gang-mules-hackers/)
+  - [Karaoke giant warns 8.7 million customers exposed in supplier data breach](https://cybernews.com/security/daiichi-kosho-data-breach-customers/)
   - [MoneyGram under threat as hackers claim data breach](https://cybernews.com/security/moneygram-data-breach-ransomware-claim/)
   - [Musk encourages users to give credit card info to Grok Bot while SpaceXAI silently updates its privacy policy](https://cybernews.com/ai-news/grok-bot-credit-card-sharing-policy-update/)
   - [Musk renames SpaceXAI following Trump's “super intelligence” demand](https://cybernews.com/news/spacexai-super-intelligence-rebrand/)
@@ -124,11 +127,13 @@
   - [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/)
   - [Dawn Myers is making it easier to style, detangle, and care for curly hair](https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/)
   - [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/)
+  - [TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/)
   - [TechCrunch Mobility: A roadblock clears for self-driving trucks](https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/)
   - [The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/)
   - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
 - The Block
+  - [Bitmine adds 12,532 ETH as Tom Lee flags potential ‘largest-ever’ crypto bull market](https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296)
   - [Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut](https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225)
   - [Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’](https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246)
   - [Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says](https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256)
@@ -140,14 +145,18 @@
 - The Decoder
   - [Anthropic's Andrej Karpathy says "the external world has seen the preview" of what AI can actually do](https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/)
   - [Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed](https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/)
+  - [White House reverses course and restores UK AI Safety Institute's access to frontier models](https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/)
 - The Verge
   - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)
+  - [Android is the best and worst thing about Googlebooks](https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing)
   - [CMF’s first wireless speakers look like musical milk cartons](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize)
   - [How Apple can win the smart home](https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home)
   - [Inside the mini factory where GM builds its EV future](https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla)
   - [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)
+  - [No Man’s Sky is coming to the iPhone and iPad](https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date)
   - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
   - [The Fitbit Edge is for folks who don’t want to go totally screenless](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker)
+  - [The OnePlus 16 is the company’s most interesting phone in years](https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china)
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -159,10 +168,13 @@
   - [How Apple Puts Indigenous Languages on the iPhone Keyboard](https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/)
   - [The Best Gifts for the Techie in Your Life (2026)](https://www.wired.com/story/best-tech-gifts/)
   - [They War-Gamed Dimming the Sun. It Went Even Worse Than You Think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
+  - [‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation](https://www.wired.com/story/new-york-comic-con-star-trek/)
 - 不安全
+  - [512 bytes at a time: reconstructing IBM i save-file checksums](https://buaq.net/go-447789.html)
   - [[下载]多系统安装工具Ventoy 1.1.18版发布 实验性支持SteamOS并改进Linux体验](https://buaq.net/go-447710.html)
   - [AND WE ARE BACK. October 11 Dre@d Status Update.](https://buaq.net/go-447718.html)
   - [Can someone remake this for modern android devices?](https://buaq.net/go-447786.html)
+  - [D. Lgs. 179 del 2026 - Regole italiane per l'IA](https://buaq.net/go-447788.html)
   - [Ghidra and IDA Server! Don't need mcp bridge just run directly the script](https://buaq.net/go-447699.html)
   - [Korg SQ-64 Custom Firmware - Phase 1: An emulator that runs stock firmware in the browser](https://buaq.net/go-447700.html)
   - [The 2026 curl team](https://buaq.net/go-447787.html)
@@ -189,6 +201,7 @@
   - [NASA发布阿耳忒弥斯2号收集的月球数据](https://blog.upx8.com/NASA%E5%8F%91%E5%B8%83%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF2%E5%8F%B7%E6%94%B6%E9%9B%86%E7%9A%84%E6%9C%88%E7%90%83%E6%95%B0%E6%8D%AE)
   - [徐宁博士被撤销尼康显微视频竞赛冠军资格](https://blog.upx8.com/%E5%BE%90%E5%AE%81%E5%8D%9A%E5%A3%AB%E8%A2%AB%E6%92%A4%E9%94%80%E5%B0%BC%E5%BA%B7%E6%98%BE%E5%BE%AE%E8%A7%86%E9%A2%91%E7%AB%9E%E8%B5%9B%E5%86%A0%E5%86%9B%E8%B5%84%E6%A0%BC)
   - [微博大V理记宣布全平台退网 否认被封号被逼迫](https://blog.upx8.com/%E5%BE%AE%E5%8D%9A%E5%A4%A7V%E7%90%86%E8%AE%B0%E5%AE%A3%E5%B8%83%E5%85%A8%E5%B9%B3%E5%8F%B0%E9%80%80%E7%BD%91-%E5%90%A6%E8%AE%A4%E8%A2%AB%E5%B0%81%E5%8F%B7%E8%A2%AB%E9%80%BC%E8%BF%AB)
+  - [微软发布第三代自研AI芯片Maia 300](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E7%AC%AC%E4%B8%89%E4%BB%A3%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87Maia-300)
   - [本田9月在华新车销量同比下降53%](https://blog.upx8.com/%E6%9C%AC%E7%94%B09%E6%9C%88%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D53)
   - [特朗普称考虑将大西洋或太平洋改名为“南北美洲洋”](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%80%83%E8%99%91%E5%B0%86%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%88%96%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%94%B9%E5%90%8D%E4%B8%BA-%E5%8D%97%E5%8C%97%E7%BE%8E%E6%B4%B2%E6%B4%8B)
   - [超微电脑合同工认罪 涉向中国非法转运英伟达芯片](https://blog.upx8.com/%E8%B6%85%E5%BE%AE%E7%94%B5%E8%84%91%E5%90%88%E5%90%8C%E5%B7%A5%E8%AE%A4%E7%BD%AA-%E6%B6%89%E5%90%91%E4%B8%AD%E5%9B%BD%E9%9D%9E%E6%B3%95%E8%BD%AC%E8%BF%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87)
