@@ -13,6 +13,7 @@
   - [今天做了一个莫奈画风的《稻香》MV](https://2libra.com/post/personal-works/UsH4iUg)
   - [你现在处于那个阶段？](https://2libra.com/post/personal-life/M_NeJqr)
   - [做了一个在线使用 Claude 以及 Codex 工具](https://2libra.com/post/open-source-sharing/ue4j7Pn)
+  - [出大事了，就是不知道真假](https://2libra.com/post/excessive-things/XQV2nMA)
   - [品味、毅力、专注——AI 时代的稀缺能力](https://2libra.com/post/tech-rumination/V_Z0W94)
   - [大厂云国际版，最低 50U 起丨云服务器、轻量应用服务器丨阿里腾讯华为/AWS GCP AZURE](https://2libra.com/post/promotion/dEALPqY)
   - [工作之余 vibe coding 了一个小程序](https://2libra.com/post/personal-works/76YMyDI)
@@ -34,18 +35,28 @@
   - [South Korean bank launches Bitcoin-backed business loans: Report](https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal](https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Linux Desktop Hardening: 10 Security Settings Most Users Never Change](https://www.cyberkendra.com/2026/10/linux-desktop-hardening-10-security-settings-most-users-never-change.html)
 - CyberNews
+  - [Amazon Fire TV Cube hacked using 4-year-old bug: movie fans are not scared, they’re ecstatic](https://cybernews.com/security/amazon-fire-tv-cube-root-exploit-enables-full-unlock/)
+  - [Apollo astronaut Charlie Duke believes UFOs are demonic, not alien](https://cybernews.com/news/apollo-charlie-duke-nasa-ufo-uap-disclosure/)
+  - [MoneyGram under threat as hackers claim data breach](https://cybernews.com/security/moneygram-data-breach-ransomware-claim/)
   - [Musk encourages users to give credit card info to Grok Bot while SpaceXAI silently updates its privacy policy](https://cybernews.com/ai-news/grok-bot-credit-card-sharing-policy-update/)
   - [SIM-swap fraudster jailed for stealing $265K in crypto to fund luxury lifestyle](https://cybernews.com/news/sim-swap-crypto-crime/)
   - [Take notes, Sony: Nintendo has “no plans” to ditch physical games](https://cybernews.com/news/nintendo-physical-games/)
   - [World’s worst password “123456” linked to breach of 8.8M Danes](https://cybernews.com/security/denmark-cpr-data-breach-weak-password/)
+  - [Yandex bot traffic fell, but the troll farm story does not hold](https://cybernews.com/news/yandex-data-centers-bot-traffic-drop/)
 - daringfireball.net
   - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/)
 - defend.network
   - [P7 DarkSword iOS exploits escalate; ShinyHunters arrests surge; AI agents targeted in bank breaches](https://defend.network/briefings/darksword-ios-exploit-shinyhunters-arrests-ai-threats-2026-10-12.html)
+- dfarq.homeip.net
+  - [Nvidia’s first GPU: GeForce 256](https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/?utm_source=rss&utm_medium=rss&utm_campaign=nvidias-first-gpu-geforce-256)
 - Hacker News Frontpage
   - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
   - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
+  - [Deloitte falsified documents to evade tax on Abramovich's wealth](https://www.bbc.com/news/articles/c64g1l5389kvo)
+  - [Ledger confirms hidden chip in crypto wallet amid $92M theft claims](https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/)
   - [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
   - [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
   - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
@@ -61,6 +72,8 @@
   - [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/)
 - MIT Technology Review
   - [Mars may be a hellhole, but the moon is not far behind](https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/)
+- Sec-News 安全文摘
+  - [How I Found a $90,000 Remote Code Execution Vulnerability in Google](https://govuln.com/news/url/8yN0)
 - Sploitus.com Exploits RSS Feed
   - [continew-starter exploit](https://sploitus.com/exploit?id=025B910B-5C8C-5979-9903-3B693E3251B8&utm_source=rss&utm_medium=rss)
   - [Exploit for Code Injection in Langflow](https://sploitus.com/exploit?id=2D996ADD-F425-5620-AD07-F6317AD75977&utm_source=rss&utm_medium=rss)
@@ -81,6 +94,7 @@
   - [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/)
 - The Block
   - [Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’](https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246)
+  - [Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says](https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256)
   - [Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger](https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258)
   - [Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui](https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243)
   - [Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices](https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239)
@@ -89,10 +103,15 @@
   - [Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed](https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/)
 - The Verge
   - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)
+  - [Inside the mini factory where GM builds its EV future](https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla)
   - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age](https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/)
+  - [AlterMe Review: Fitness Built Around My DNA](https://www.wired.com/review/alterme-fitness-and-wellness-program/)
+  - [Far-Right Election Groups Are Now Targeting Nursing Homes](https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/)
+  - [Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer](https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/)
   - [The Best Gifts for the Techie in Your Life (2026)](https://www.wired.com/story/best-tech-gifts/)
   - [They War-Gamed Dimming the Sun. It Went Even Worse Than You Think](https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/)
 - 不安全
@@ -102,17 +121,21 @@
   - [Korg SQ-64 Custom Firmware - Phase 1: An emulator that runs stock firmware in the browser](https://buaq.net/go-447700.html)
   - [国家互联网应急中心发布风险提示：荐片播放器内置后门 已感染70万台设备](https://buaq.net/go-447711.html)
   - [基于安卓17的LineageOS 24.0正式版发布 新增基于浏览器的刷机工具](https://buaq.net/go-447692.html)
+  - [解读《关于发展新质生产力的意见》：新质生产力中的网络安全逻辑](https://buaq.net/go-447756.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [全球汽油汽车销量首次低于五成](https://www.solidot.org/story?sid=85585)
   - [固态硬盘价格一年翻了两番](https://www.solidot.org/story?sid=85586)
   - [美国畜牧业采用石化行业相同的策略淡化气候暖化](https://www.solidot.org/story?sid=85588)
+- 安全客
+  - [科技云报到：AI Agent 的“量产关”：89% 的试点倒在生产门口，谁在补位？](https://www.anquanke.com/post/id/316218)
 - 爱范儿
   - [早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI](https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [如何防范“数字员工”越权风险？绿盟科技智能体安全秋季成果重磅发布](https://blog.nsfocus.net/%e5%a6%82%e4%bd%95%e9%98%b2%e8%8c%83%e6%95%b0%e5%ad%97%e5%91%98%e5%b7%a5%e8%b6%8a%e6%9d%83%e9%a3%8e%e9%99%a9%ef%bc%9f%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%99%ba%e8%83%bd%e4%bd%93/)
   - [看得更广 查得更深 | AI资产风险发现与研判能力进阶](https://blog.nsfocus.net/%e7%9c%8b%e5%be%97%e6%9b%b4%e5%b9%bf-%e6%9f%a5%e5%be%97%e6%9b%b4%e6%b7%b1-ai%e8%b5%84%e4%ba%a7%e9%a3%8e%e9%99%a9%e5%8f%91%e7%8e%b0%e4%b8%8e%e7%a0%94%e5%88%a4%e8%83%bd%e5%8a%9b%e8%bf%9b%e9%98%b6/)
+  - [解读《关于发展新质生产力的意见》：新质生产力中的网络安全逻辑](https://blog.nsfocus.net/%e8%a7%a3%e8%af%bb%e3%80%8a%e5%85%b3%e4%ba%8e%e5%8f%91%e5%b1%95%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b%e7%9a%84%e6%84%8f%e8%a7%81%e3%80%8b%ef%bc%9a%e6%96%b0%e8%b4%a8%e7%94%9f%e4%ba%a7%e5%8a%9b/)
 - 黑海洋
   - [HexHub | 一款强大的SSH、数据库、Docker 智能体工具](https://blog.upx8.com/4779)
   - [NASA发布阿耳忒弥斯2号收集的月球数据](https://blog.upx8.com/NASA%E5%8F%91%E5%B8%83%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF2%E5%8F%B7%E6%94%B6%E9%9B%86%E7%9A%84%E6%9C%88%E7%90%83%E6%95%B0%E6%8D%AE)
