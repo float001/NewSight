@@ -5,6 +5,7 @@
   - [大厂云国际版，最低 50U 起丨云服务器、轻量应用服务器丨阿里腾讯华为/AWS GCP AZURE](https://2libra.com/post/promotion/dEALPqY)
   - [早上坏，记上班路上半路停下来处理工作](https://2libra.com/post/office-life/45-1PZ1)
   - [第一天](https://2libra.com/post/personal-life/4DWMn7c)
+  - [胖东来要求供应链上的供货商严格遵守劳动保护法](https://2libra.com/post/social-observation/LtkB4dw)
   - [苦尽"甘"来](https://2libra.com/post/forum-function/N61XsrW)
   - [这是好事还是坏事](https://2libra.com/post/tech-rumination/hwU5-pq)
 - CoinTelegraph
@@ -28,6 +29,8 @@
   - [Exploit for SQL Injection in Metabase](https://sploitus.com/exploit?id=2945D4A8-1960-5490-8FA2-05BA6A1BA91B&utm_source=rss&utm_medium=rss)
   - [Framework-DDOS-Attack-Very-advance- exploit](https://sploitus.com/exploit?id=943A1268-A103-5A55-B571-0B3D53A5CE1E&utm_source=rss&utm_medium=rss)
   - [vuln-exploitation-risk-cti](https://sploitus.com/exploit?id=8C2D2004-5287-5708-B33C-1146C53B916F&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html)
 - TechCrunch
   - [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/)
   - [Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start](https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/)
@@ -46,6 +49,8 @@
   - [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [基于安卓17的LineageOS 24.0正式版发布 新增基于浏览器的刷机工具](https://buaq.net/go-447692.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -53,3 +58,4 @@
 - 黑海洋
   - [NASA发布阿耳忒弥斯2号收集的月球数据](https://blog.upx8.com/NASA%E5%8F%91%E5%B8%83%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF2%E5%8F%B7%E6%94%B6%E9%9B%86%E7%9A%84%E6%9C%88%E7%90%83%E6%95%B0%E6%8D%AE)
   - [徐宁博士被撤销尼康显微视频竞赛冠军资格](https://blog.upx8.com/%E5%BE%90%E5%AE%81%E5%8D%9A%E5%A3%AB%E8%A2%AB%E6%92%A4%E9%94%80%E5%B0%BC%E5%BA%B7%E6%98%BE%E5%BE%AE%E8%A7%86%E9%A2%91%E7%AB%9E%E8%B5%9B%E5%86%A0%E5%86%9B%E8%B5%84%E6%A0%BC)
+  - [超微电脑合同工认罪 涉向中国非法转运英伟达芯片](https://blog.upx8.com/%E8%B6%85%E5%BE%AE%E7%94%B5%E8%84%91%E5%90%88%E5%90%8C%E5%B7%A5%E8%AE%A4%E7%BD%AA-%E6%B6%89%E5%90%91%E4%B8%AD%E5%9B%BD%E9%9D%9E%E6%B3%95%E8%BD%AC%E8%BF%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87)
