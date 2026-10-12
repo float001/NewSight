@@ -7,11 +7,13 @@
   - [【💰】skills 中文社区搜寻](https://2libra.com/post/recommendations/5ZTr8cP)
   - [【💰】关于买手办](https://2libra.com/post/worth-buying/CqJuK5z)
   - [【💰】工资没涨，AI 先贵了——求各位教教我怎么省 token，顺便聊聊哪家便宜](https://2libra.com/post/ai-gateway/GgcuFCa)
+  - [你现在处于那个阶段？](https://2libra.com/post/personal-life/M_NeJqr)
   - [做了一个在线使用 Claude 以及 Codex 工具](https://2libra.com/post/open-source-sharing/ue4j7Pn)
   - [品味、毅力、专注——AI 时代的稀缺能力](https://2libra.com/post/tech-rumination/V_Z0W94)
   - [大厂云国际版，最低 50U 起丨云服务器、轻量应用服务器丨阿里腾讯华为/AWS GCP AZURE](https://2libra.com/post/promotion/dEALPqY)
   - [工作之余 vibe coding 了一个小程序](https://2libra.com/post/personal-works/76YMyDI)
   - [当以“弹窗方式”打开某个话题时，关闭弹窗，话题的颜色不会变浅灰色（被标记为已读）](https://2libra.com/post/community/VjjFQYL)
+  - [手搓智能水杯，从面包板到洞洞板，再到 PCB](https://2libra.com/post/tech-fun/zksVJuE)
   - [早上坏，记上班路上半路停下来处理工作](https://2libra.com/post/office-life/45-1PZ1)
   - [浏览器主页被纂改可能是这个原因……](https://2libra.com/post/network-security/G8JWUX0)
   - [第一天](https://2libra.com/post/personal-life/4DWMn7c)
@@ -24,7 +26,11 @@
   - [French lawmakers back reporting rule for crypto wallets over $112K](https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Global watchdog flags stablecoin risks, AI threats ahead of G20](https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korean bank launches Bitcoin-backed business loans: Report](https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [SIM-swap fraudster jailed for stealing $265K in crypto to fund luxury lifestyle](https://cybernews.com/news/sim-swap-crypto-crime/)
+  - [World’s worst password “123456” linked to breach of 8.8M Danes](https://cybernews.com/security/denmark-cpr-data-breach-weak-password/)
 - daringfireball.net
   - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/)
 - defend.network
@@ -37,6 +43,8 @@
   - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 - idiallo.com
   - [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored)
+- infosecurity-magazine.com
+  - [Karaoke Giant Reveals Data Breach Impacting Eight Million](https://www.infosecurity-magazine.com/news/karaoke-giant-data-breach-eight/)
 - micahflee.com
   - [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/)
 - Sploitus.com Exploits RSS Feed
@@ -78,12 +86,17 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [全球汽油汽车销量首次低于五成](https://www.solidot.org/story?sid=85585)
+  - [固态硬盘价格一年翻了两番](https://www.solidot.org/story?sid=85586)
 - 爱范儿
   - [早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI](https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [如何防范“数字员工”越权风险？绿盟科技智能体安全秋季成果重磅发布](https://blog.nsfocus.net/%e5%a6%82%e4%bd%95%e9%98%b2%e8%8c%83%e6%95%b0%e5%ad%97%e5%91%98%e5%b7%a5%e8%b6%8a%e6%9d%83%e9%a3%8e%e9%99%a9%ef%bc%9f%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%99%ba%e8%83%bd%e4%bd%93/)
+  - [看得更广 查得更深 | AI资产风险发现与研判能力进阶](https://blog.nsfocus.net/%e7%9c%8b%e5%be%97%e6%9b%b4%e5%b9%bf-%e6%9f%a5%e5%be%97%e6%9b%b4%e6%b7%b1-ai%e8%b5%84%e4%ba%a7%e9%a3%8e%e9%99%a9%e5%8f%91%e7%8e%b0%e4%b8%8e%e7%a0%94%e5%88%a4%e8%83%bd%e5%8a%9b%e8%bf%9b%e9%98%b6/)
 - 黑海洋
   - [HexHub | 一款强大的SSH、数据库、Docker 智能体工具](https://blog.upx8.com/4779)
   - [NASA发布阿耳忒弥斯2号收集的月球数据](https://blog.upx8.com/NASA%E5%8F%91%E5%B8%83%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF2%E5%8F%B7%E6%94%B6%E9%9B%86%E7%9A%84%E6%9C%88%E7%90%83%E6%95%B0%E6%8D%AE)
   - [徐宁博士被撤销尼康显微视频竞赛冠军资格](https://blog.upx8.com/%E5%BE%90%E5%AE%81%E5%8D%9A%E5%A3%AB%E8%A2%AB%E6%92%A4%E9%94%80%E5%B0%BC%E5%BA%B7%E6%98%BE%E5%BE%AE%E8%A7%86%E9%A2%91%E7%AB%9E%E8%B5%9B%E5%86%A0%E5%86%9B%E8%B5%84%E6%A0%BC)
   - [微博大V理记宣布全平台退网 否认被封号被逼迫](https://blog.upx8.com/%E5%BE%AE%E5%8D%9A%E5%A4%A7V%E7%90%86%E8%AE%B0%E5%AE%A3%E5%B8%83%E5%85%A8%E5%B9%B3%E5%8F%B0%E9%80%80%E7%BD%91-%E5%90%A6%E8%AE%A4%E8%A2%AB%E5%B0%81%E5%8F%B7%E8%A2%AB%E9%80%BC%E8%BF%AB)
+  - [本田9月在华新车销量同比下降53%](https://blog.upx8.com/%E6%9C%AC%E7%94%B09%E6%9C%88%E5%9C%A8%E5%8D%8E%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D53)
   - [特朗普称考虑将大西洋或太平洋改名为“南北美洲洋”](https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%80%83%E8%99%91%E5%B0%86%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%88%96%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%94%B9%E5%90%8D%E4%B8%BA-%E5%8D%97%E5%8C%97%E7%BE%8E%E6%B4%B2%E6%B4%8B)
   - [超微电脑合同工认罪 涉向中国非法转运英伟达芯片](https://blog.upx8.com/%E8%B6%85%E5%BE%AE%E7%94%B5%E8%84%91%E5%90%88%E5%90%8C%E5%B7%A5%E8%AE%A4%E7%BD%AA-%E6%B6%89%E5%90%91%E4%B8%AD%E5%9B%BD%E9%9D%9E%E6%B3%95%E8%BD%AC%E8%BF%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87)
