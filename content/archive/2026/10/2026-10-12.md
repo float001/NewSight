@@ -6,6 +6,7 @@
   - [A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
   - [Be The Onion's Hero for Once](https://mailchi.mp/email.theonion.com/archivehunt)
   - [The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)
+  - [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
   - [YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit](https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns)
 - idiallo.com
   - [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored)
