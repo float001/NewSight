@@ -2,12 +2,16 @@
 
 - 2Libra
   - [【周末家常菜】在家里吃一席地鸡火锅](https://2libra.com/post/personal-life/4Tj18Jc)
+  - [【💰】skills 中文社区搜寻](https://2libra.com/post/recommendations/5ZTr8cP)
+  - [【💰】工资没涨，AI 先贵了——求各位教教我怎么省 token，顺便聊聊哪家便宜](https://2libra.com/post/ai-gateway/GgcuFCa)
   - [大厂云国际版，最低 50U 起丨云服务器、轻量应用服务器丨阿里腾讯华为/AWS GCP AZURE](https://2libra.com/post/promotion/dEALPqY)
+  - [当以“弹窗方式”打开某个话题时，关闭弹窗，话题的颜色不会变浅灰色（被标记为已读）](https://2libra.com/post/community/VjjFQYL)
   - [早上坏，记上班路上半路停下来处理工作](https://2libra.com/post/office-life/45-1PZ1)
   - [第一天](https://2libra.com/post/personal-life/4DWMn7c)
   - [胖东来要求供应链上的供货商严格遵守劳动保护法](https://2libra.com/post/social-observation/LtkB4dw)
   - [苦尽"甘"来](https://2libra.com/post/forum-function/N61XsrW)
   - [这是好事还是坏事](https://2libra.com/post/tech-rumination/hwU5-pq)
+  - [霸王茶姬买一送一了](https://2libra.com/post/deal-hunter/huYXKZq)
 - CoinTelegraph
   - [XRP Ledger defends emergency patch for unlimited XRP bug](https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -50,6 +54,8 @@
 - Vulners.com RSS Feed
   - [continew-starter](https://vulners.com/gitee/025B910B-5C8C-5979-9903-3B693E3251B8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [Ghidra and IDA Server! Don't need mcp bridge just run directly the script](https://buaq.net/go-447699.html)
+  - [Korg SQ-64 Custom Firmware - Phase 1: An emulator that runs stock firmware in the browser](https://buaq.net/go-447700.html)
   - [基于安卓17的LineageOS 24.0正式版发布 新增基于浏览器的刷机工具](https://buaq.net/go-447692.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
