@@ -13,6 +13,7 @@
   - [【运动打卡】第 4️⃣天，闻着桂花香](https://2libra.com/post/sports/krNnVGh)
   - [【💰】ChatGPT Dot 有什么玩法](https://2libra.com/post/ai-tools/wlzx4LR)
   - [【💰】吃到 642 金币雨。](https://2libra.com/post/forum-function/hHc7zdq)
+  - [【💰】想把自己做成知识库，和 AI 孪生](https://2libra.com/post/ai-applications/QPwl2Yv)
   - [天才程序员(Cursor)陨落！！！](https://2libra.com/post/ai-programming/hjJWKbS)
   - [小米手环 11 续航问题](https://2libra.com/post/smart-wearable/_-V_czQ)
   - [广州欢迎你](https://2libra.com/post/local-life/jecLkPK)
@@ -25,6 +26,7 @@
   - [Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks](https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance to shut down crypto mining pool services in November](https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high](https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses](https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners face widening AI financing costs as lenders scrutinize deals](https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blur is shutting down its website, so why are NFT collectors cheering?](https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs report $2.7M spending blitz on House races as midterms loom](https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -35,9 +37,13 @@
   - [South Korea moves to block 27 crypto websites, including KuCoin, MEXC](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting overhaul could make stablecoins more attractive to corporations: Tempo](https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [AI software allows police to geolocate you using a single interior image](https://cybernews.com/ai-news/raven-geolocate-interior/)
+  - [Bernie Sanders wants to ban artificial superintelligence, but that’s tricky](https://cybernews.com/ai-news/bernie-sanders-sam-altman-agi-ban/)
   - [Empire Market operator sentenced to 40 years for $430M in illicit trade](https://cybernews.com/news/empire-market-operator-decades-prison/)
   - [H&M investigates data breach after ShinyHunters claims](https://cybernews.com/security/h-m-investigates-data-breach-shinyhunters/)
+  - [Lawsuit claims Meta tricked customers into “last chance” deal on smart glasses](https://cybernews.com/news/meta-lawsuit-smart-glass-promotional-deal/)
   - [Microsoft’s adtech firm Xandr faces record fine over sensitive Grindr user data](https://cybernews.com/news/microsoft-xandr-record-fine-grindr-user-data/)
+  - [PS5 jailbreak app gives gamers Battlefield 6, Silent Hill f, and more for free](https://cybernews.com/tech/ps5-jailbreak-overdrive-app/)
 - daniel.haxx.se
   - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 - daringfireball.net
@@ -68,12 +74,18 @@
   - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
   - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
   - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
+  - [Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
   - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 - HackerNews
   - [SonicWall SMA 1000 严重漏洞修补后遭 135 次利用尝试](http://0.0.0.0:8080/post/64776)
   - [网络攻击导致法国超市冰箱停摆](http://0.0.0.0:8080/post/64777)
+- HackerNoon
+  - [Inside Seasons’ Next Phase of Growth](https://hackernoon.com/inside-seasons-next-phase-of-growth?source=rss)
+- idiallo.com
+  - [The Last Answer](https://idiallo.com/blog/the-last-answer)
 - infosecurity-magazine.com
   - [Fifth of CISOs Take Time Off to Avoid Patch Tuesday](https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/)
+  - [UK Government Announces Sweeping New AI Security Plans](https://www.infosecurity-magazine.com/news/uk-government-sweeping-ai-security/)
 - rtl-sdr.com
   - [SDR Signal Analyzer: A Windows Spectrum Analyzer for HackRF, RTL-SDR and tinySA](https://www.rtl-sdr.com/sdr-signal-analyzer-a-windows-spectrum-analyzer-for-hackrf-rtl-sdr-and-tinysa/)
   - [Turning a Wi-Fi 7 Router into a 320 Msps SDR](https://www.rtl-sdr.com/turning-a-wi-fi-7-router-into-a-320-msps-sdr/)
@@ -82,7 +94,9 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Buffer Over-read in Gnu Gzip](https://sploitus.com/exploit?id=9F653589-6D90-592C-95BA-4F6E1361DEC6&utm_source=rss&utm_medium=rss)
   - [Exploit for Expression Language Injection in Apache Struts](https://sploitus.com/exploit?id=94ACC167-077D-56A9-B6EF-F9EE7C7BD40A&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Metabase](https://sploitus.com/exploit?id=D5C45203-F522-594C-9D88-E0765A8DB593&utm_source=rss&utm_medium=rss)
   - [KGU_WebSec_DemoExploit](https://sploitus.com/exploit?id=BECBBCAE-7271-5410-B3BC-56BF27556C7F&utm_source=rss&utm_medium=rss)
+  - [pcap-phishing-analysis exploit](https://sploitus.com/exploit?id=18264B06-E7AE-525F-A11E-FA0145E525F4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
   - [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
@@ -128,6 +142,7 @@
   - [Squarespace Promo Codes: 20% Off in October 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/)
   - [What Flock Actually Costs Cities Across the Country](https://www.wired.com/story/how-much-does-flock-actually-cost-cities/)
+  - [What’s the Best Kindle of 2026 (So Far)?](https://www.wired.com/gallery/best-kindle/)
 - 不安全
   - [A slightly faster slimmer curl](https://buaq.net/go-447927.html)
   - [DOMPurify v3.4.17](https://buaq.net/go-447901.html)
@@ -144,6 +159,9 @@
   - [AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型](https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [小扎发布神秘「西瓜」模型，跑分媲美 Opus 5.5，口碑却一言难尽](https://www.ifanr.com/1683963?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能](https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [智启安全新局 共话学术前沿 | 绿盟科技与您相约第41次全国计算机安全学术交流会](https://blog.nsfocus.net/%e6%99%ba%e5%90%af%e5%ae%89%e5%85%a8%e6%96%b0%e5%b1%80-%e5%85%b1%e8%af%9d%e5%ad%a6%e6%9c%af%e5%89%8d%e6%b2%bf-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%b8%8e%e6%82%a8%e7%9b%b8%e7%ba%a6%e7%ac%ac41/)
+  - [绿盟科技登榜”2026 IDC中国金融科技中坚力量50″](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e7%99%bb%e6%a6%9c2026-idc%e4%b8%ad%e5%9b%bd%e9%87%91%e8%9e%8d%e7%a7%91%e6%8a%80%e4%b8%ad%e5%9d%9a%e5%8a%9b%e9%87%8f50/)
 - 黑海洋
   - [ANBERNIC可能被禁止在美国销售其掌机](https://blog.upx8.com/ANBERNIC%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%94%80%E5%94%AE%E5%85%B6%E6%8E%8C%E6%9C%BA)
   - [Anthropic警告：小型AI模型数月内或实现自我复制，能推理、难关停](https://blog.upx8.com/Anthropic%E8%AD%A6%E5%91%8A-%E5%B0%8F%E5%9E%8BAI%E6%A8%A1%E5%9E%8B%E6%95%B0%E6%9C%88%E5%86%85%E6%88%96%E5%AE%9E%E7%8E%B0%E8%87%AA%E6%88%91%E5%A4%8D%E5%88%B6-%E8%83%BD%E6%8E%A8%E7%90%86-%E9%9A%BE%E5%85%B3%E5%81%9C)
