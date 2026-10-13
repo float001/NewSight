@@ -3,6 +3,7 @@
 - 2Libra
   - [关于《杨修之死》的感悟](https://2libra.com/post/workplace-stories/_DSVdye)
 - 404 Media
+  - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
   - [Dubstep and BookTok, a perfect match?](https://www.404media.co/dubstep-and-booktok-a-perfect-match/)
   - [The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’](https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/)
 - Ars Technica
@@ -35,8 +36,11 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-82957](https://sploitus.com/exploit?id=901105EE-4605-58B2-A135-A14EAEA54619&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/)
+  - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/)
   - [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/)
   - [Google Play now supports private, vibe-coded apps built just for you](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
+  - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
   - [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
   - [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/)
   - [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
@@ -54,6 +58,7 @@
   - [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
   - [Hands-on with the Apple Home Collection](https://www.theverge.com/tech/1009899/apple-home-collection-hands-on)
   - [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
+  - [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
   - [Rivian spinoff Mind Robotics hires Doug Field as president](https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple)
   - [Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex](https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy)
   - [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
