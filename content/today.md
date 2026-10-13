@@ -6,6 +6,7 @@
   - [Codex CLI 更新后启动守护进程并实现开机自启动，有开发者提议应当默认关闭由用户手动开启。](https://2libra.com/post/ai-programming/ESjCx2C)
   - [Grok 今天是崩了还是疯了？](https://2libra.com/post/ai-tools/avbo030)
   - [iPhone 全程搞定：抓包 → Muse 写插件 → GitHub 推送，开屏广告消失](https://2libra.com/post/ai-programming/ZLprmOR)
+  - [L 站青春版邀请](https://2libra.com/post/invite-code/8hD5VaD)
   - [rea 不干了](https://2libra.com/post/ai-programming/Pyiduk5)
   - [Tern 这个新终端颜值好高](https://2libra.com/post/sharing-discoveries/FSkBXwp)
   - [TraeWork 升级为 TRAE 了，然后好像更拧巴了](https://2libra.com/post/ai-programming/oDEhaTO)
@@ -17,6 +18,7 @@
   - [【💰】ChatGPT Dot 有什么玩法](https://2libra.com/post/ai-tools/wlzx4LR)
   - [【💰】吃到 642 金币雨。](https://2libra.com/post/forum-function/hHc7zdq)
   - [【💰】想把自己做成知识库，和 AI 孪生](https://2libra.com/post/ai-applications/QPwl2Yv)
+  - [人类是 AI 连接器。](https://2libra.com/post/ai-trends/Y-eqk25)
   - [天才程序员(Cursor)陨落！！！](https://2libra.com/post/ai-programming/hjJWKbS)
   - [好几个熟悉的同事都离职了。](https://2libra.com/post/workplace-stories/joiQL3z)
   - [小米手环 11 续航问题](https://2libra.com/post/smart-wearable/_-V_czQ)
@@ -25,6 +27,8 @@
   - [没事分享两张我家小孩喜欢的卡片](https://2libra.com/post/parent-child/jA8jydH)
   - [绝命毒师小沃特演员 RJ 米特去世 🕯](https://2libra.com/post/hotspot-tracking/SPFJXAt)
   - [觉得法环没有魂三好玩](https://2libra.com/post/game-discussion/dcoKILi)
+- 404 Media
+  - [Tesla's 'Security Protocols' Stopped DHS From Installing a Tracking Device](https://www.404media.co/teslas-security-protocols-stopped-dhs-from-installing-a-tracking-device/)
 - Articles | InfoStealers
   - [First Physical Robbery Potentially Linked to Revolut Data Breach](https://www.infostealers.com/article/first-physical-robbery-potentially-linked-to-revolut-data-breach/)
 - Ben's Bites
@@ -64,9 +68,11 @@
   - [Microsoft’s adtech firm Xandr faces record fine over sensitive Grindr user data](https://cybernews.com/news/microsoft-xandr-record-fine-grindr-user-data/)
   - [Patch Tuesdays aren’t for everyone: 20% of cyber pros take time off to avoid them](https://cybernews.com/security/patch-tuesday-cyber-pros-stress-time-off/)
   - [PS5 jailbreak app gives gamers Battlefield 6, Silent Hill f, and more for free](https://cybernews.com/tech/ps5-jailbreak-overdrive-app/)
+  - [SerpApi Expands Beyond Search Results with New Extract API](https://cybernews.com/press-releases/serpapi-expands-beyond-search-results-with-new-extract-api/)
 - daniel.haxx.se
   - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
 - daringfireball.net
+  - [Apple HomeView](https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/)
   - [Mark Stephens, a.k.a. Robert X. Cringely, Died at 73](https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr)
 - darkreading
   - [Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack](https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack)
@@ -75,6 +81,8 @@
   - [WordPress Bricksforge & SonicWall SMA CVSS 10.0 exploits; Ledger spy chips drain wallets](https://defend.network/briefings/wordpress-bricksforge-sonicwall-sma-ledger-rce-exploit-2026-10-13.html)
 - devblogs.microsoft.com/oldnewthing
   - [C++ futures part 2: The mental model for std::promise, std::packaged_task](https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/)
+- Fox-IT International blog
+  - [Releasing the Cobalt Strike Beacon Corpus](https://blog.fox-it.com/2026/10/13/releasing-the-cobalt-strike-beacon-corpus/)
 - GuidePoint Security
   - [Hiring in the Age of Deepfakes: Protecting Your Company from Synthetic Applicants](https://www.guidepointsecurity.com/blog/deepfakes-synthetic-applicants-hiring/)
 - Hacker News Frontpage
@@ -179,12 +187,15 @@
   - [Apple makes another push into the smart home market with HomeView](https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/)
   - [Apple refreshes its Homepod mini with a new chip and $149 price tag](https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/)
   - [Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells](https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/)
+  - [Bumble agrees to a $1.3B acquisition deal as online dating faces a reset](https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/)
   - [Giraffe Bio aims its bespoke biomolecules at the looming copper shortage](https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/)
   - [India delays digital payments fee rollout amid retailer pushback](https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/)
   - [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/)
   - [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
   - [SpaceXSI bundles X Premium, Grok and Cursor into one subscription](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)
+  - [Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’](https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/)
   - [TechCrunch Disrupt 2026: Day 1](https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/)
+  - [The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between](https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/)
   - [The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/)
   - [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
 - The Block
@@ -195,6 +206,8 @@
   - [Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data](https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383)
   - [Blur to shut down frontend next month as NFT trading volume dwindles](https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363)
   - [CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen](https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358)
+  - [DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index](https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440)
+  - [Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe](https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442)
   - [StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream](https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313)
   - [Strive buys 3,311 bitcoin for $280 million in largest acquisition since January](https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430)
   - [UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin](https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409)
@@ -203,10 +216,12 @@
   - [Clearing chat history helps AI agents find better solutions](https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/)
   - [Meta's new frontier model Muse Wonder Full breaks into the AI top tier](https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/)
   - [Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots](https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/)
+  - [Western mathematicians fear AI makes them dumber while China builds an entire alliance for it](https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it/)
 - The Verge
   - [All the news from Apple&#8217;s ‘Welcome home’ event](https://www.theverge.com/tech/1008782/apple-welcome-home-event-news-announcements)
   - [Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch](https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai)
   - [Apple launches HomeView, its first smart display for the home](https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look)
+  - [Apple’s HomePod Mini 2 is available to preorder](https://www.theverge.com/gadgets/1009971/apple-homepod-mini-2-preorder-buy)
   - [Discovery Plus is getting more expensive](https://www.theverge.com/streaming/1009994/discovery-plus-price-increase)
   - [DLSS 5 gets toned down for its Hogwarts Legacy debut next month](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)
   - [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations)
@@ -256,6 +271,7 @@
   - [A slightly faster slimmer curl](https://buaq.net/go-447927.html)
   - [DOMPurify v3.4.17](https://buaq.net/go-447901.html)
   - [I made a tiny and embeddable shared library injector for Android](https://buaq.net/go-447926.html)
+  - [When LLM Gateways Go Wrong: Findings from LiteLLM](https://buaq.net/go-448056.html)
   - [供应链消息称英特尔已经在9月底提高多代CPU价格 高端CPU供货价上涨20%](https://buaq.net/go-447907.html)
   - [加密钱包Ledger在欧洲销售的硬件也遭到篡改 内置电路板和LTE模块窃取助记词](https://buaq.net/go-447906.html)
   - [密码管理器Bitwarden将从下个版本开始将应用商店版改成商业许可证 但开源版会继续提供](https://buaq.net/go-447924.html)
@@ -268,8 +284,10 @@
 - 爱范儿
   - [2026 年，日本翻盖手机终于过气了](https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型](https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刚刚，苹果 HomeView 发布！10+ 款「果家」新品，你能买到的只有一个](https://www.ifanr.com/1684070?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [小扎发布神秘「西瓜」模型，跑分媲美 Opus 5.5，口碑却一言难尽](https://www.ifanr.com/1683963?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能](https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [理想 i6 化名「Li 6」，吉利拿下福特工厂，这届巴黎车展全是中国车](https://www.ifanr.com/1684048?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [智启安全新局 共话学术前沿 | 绿盟科技与您相约第41次全国计算机安全学术交流会](https://blog.nsfocus.net/%e6%99%ba%e5%90%af%e5%ae%89%e5%85%a8%e6%96%b0%e5%b1%80-%e5%85%b1%e8%af%9d%e5%ad%a6%e6%9c%af%e5%89%8d%e6%b2%bf-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%b8%8e%e6%82%a8%e7%9b%b8%e7%ba%a6%e7%ac%ac41/)
   - [绿盟科技登榜”2026 IDC中国金融科技中坚力量50″](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e7%99%bb%e6%a6%9c2026-idc%e4%b8%ad%e5%9b%bd%e9%87%91%e8%9e%8d%e7%a7%91%e6%8a%80%e4%b8%ad%e5%9d%9a%e5%8a%9b%e9%87%8f50/)
