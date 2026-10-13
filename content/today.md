@@ -9,6 +9,7 @@
   - [rea 不干了](https://2libra.com/post/ai-programming/Pyiduk5)
   - [Tern 这个新终端颜值好高](https://2libra.com/post/sharing-discoveries/FSkBXwp)
   - [TraeWork 升级为 TRAE 了，然后好像更拧巴了](https://2libra.com/post/ai-programming/oDEhaTO)
+  - [“ 我们还是要通过各种各样的方式把这些人找到 ”！](https://2libra.com/post/social-observation/7gYMgGc)
   - [【买车=找对象】做人要有边界，不沾他人因果 🙏🙏🙏](https://2libra.com/post/automobile/kzBL8WK)
   - [【慢讯】Telegram Desktop 被曝一键窃取任意文件漏洞](https://2libra.com/post/network-security/Zz-bhII)
   - [【投票】理性分析，Pro 用户，5 小时限制、用量翻倍，大家选哪个](https://2libra.com/post/product-details/ldcTwVN)
@@ -17,6 +18,7 @@
   - [【💰】吃到 642 金币雨。](https://2libra.com/post/forum-function/hHc7zdq)
   - [【💰】想把自己做成知识库，和 AI 孪生](https://2libra.com/post/ai-applications/QPwl2Yv)
   - [天才程序员(Cursor)陨落！！！](https://2libra.com/post/ai-programming/hjJWKbS)
+  - [好几个熟悉的同事都离职了。](https://2libra.com/post/workplace-stories/joiQL3z)
   - [小米手环 11 续航问题](https://2libra.com/post/smart-wearable/_-V_czQ)
   - [广州欢迎你](https://2libra.com/post/local-life/jecLkPK)
   - [朋友们， 求推荐平价猫粮！](https://2libra.com/post/recommendations/viQj4a1)
@@ -28,6 +30,7 @@
 - Ben's Bites
   - [Zuck’s wonder...full](https://www.bensbites.com/p/zucks-wonderfull)
 - CoinTelegraph
+  - [Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus](https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks](https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance to shut down crypto mining pool services in November](https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high](https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -35,9 +38,11 @@
   - [Bitcoin miners face widening AI financing costs as lenders scrutinize deals](https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blur is shutting down its website, so why are NFT collectors cheering?](https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs report $2.7M spending blitz on House races as midterms loom](https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS](https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ENS seeks DAO approval to activate upgraded Ethereum naming system](https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FTX’s crypto mining venture is now used to advance AI](https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Is Bitcoin kidding itself about the Lightning Network?](https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis](https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MediaMarktSaturn pulls Ledger products amid tampering reports](https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Meta launches Muse Wonder AI models, challenging top rivals](https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +51,7 @@
   - [South Korea moves to block 27 crypto websites, including KuCoin, MEXC](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting overhaul could make stablecoins more attractive to corporations: Tempo](https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
+  - [Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus](https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [MediaMarktSaturn pulls Ledger products amid tampering reports](https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [AI software allows police to geolocate you using a single interior image](https://cybernews.com/ai-news/raven-geolocate-interior/)
@@ -67,6 +73,8 @@
   - [No Identity, No Recovery: Cyber Resilience Starts With IAM](https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam)
 - defend.network
   - [WordPress Bricksforge & SonicWall SMA CVSS 10.0 exploits; Ledger spy chips drain wallets](https://defend.network/briefings/wordpress-bricksforge-sonicwall-sma-ledger-rce-exploit-2026-10-13.html)
+- devblogs.microsoft.com/oldnewthing
+  - [C++ futures part 2: The mental model for std::promise, std::packaged_task](https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/)
 - GuidePoint Security
   - [Hiring in the Age of Deepfakes: Protecting Your Company from Synthetic Applicants](https://www.guidepointsecurity.com/blog/deepfakes-synthetic-applicants-hiring/)
 - Hacker News Frontpage
@@ -105,8 +113,12 @@
 - idiallo.com
   - [The Last Answer](https://idiallo.com/blog/the-last-answer)
 - infosecurity-magazine.com
+  - [Defenders Reluctant to Deploy Agentic AI as a Cybersecurity Tool](https://www.infosecurity-magazine.com/news/defenders-skeptical-agentic-ai/)
+  - [European Retail Firms Confirm Cyber Incidents](https://www.infosecurity-magazine.com/news/retail-firms-confirm-cyber/)
   - [Fifth of CISOs Take Time Off to Avoid Patch Tuesday](https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/)
   - [UK Government Announces Sweeping New AI Security Plans](https://www.infosecurity-magazine.com/news/uk-government-sweeping-ai-security/)
+- johndcook.com
+  - [Harmonic triangle](https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/)
 - NVIDIA AI Blog
   - [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
 - pluralistic.net
@@ -120,21 +132,60 @@
   - [Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★](https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/)
 - simonwillison.net
   - [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/)
+  - [Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/)
 - Sonar Blog
   - [Sonar joins OpenAI Daybreak Cyber Partner Program, deepening collaboration on agentic security](https://www.sonarsource.com/blog/sonar-joins-openai-daybreak-program/)
 - Sploitus.com Exploits RSS Feed
+  - [awesome-bugbounty-tools exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANLOMINUS-BUG-BOUNTY&utm_source=rss&utm_medium=rss)
+  - [CVE-2018-15473 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SAIT-NURI-CVE-2018-15473&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-36394 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DINHBAOUIT-CVE-2021-36394&utm_source=rss&utm_medium=rss)
+  - [CVE-2022-0185 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHENAOTIAN-CVE-2022-0185&utm_source=rss&utm_medium=rss)
+  - [cve-2023-29360 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NERO22K-CVE-2023-29360&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-54337-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-4QU4R1UM-CVE-2026-54337-POC&utm_source=rss&utm_medium=rss)
+  - [CWFF exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-D4VINCI-CWFF&utm_source=rss&utm_medium=rss)
+  - [dnstake exploit](https://sploitus.com/exploit?id=KITPLOIT:5550923684662771880&utm_source=rss&utm_medium=rss)
+  - [engine exploit](https://sploitus.com/exploit?id=KITPLOIT:5507691379189623966&utm_source=rss&utm_medium=rss)
   - [Exploit for Buffer Over-read in Gnu Gzip](https://sploitus.com/exploit?id=9F653589-6D90-592C-95BA-4F6E1361DEC6&utm_source=rss&utm_medium=rss)
   - [Exploit for Expression Language Injection in Apache Struts](https://sploitus.com/exploit?id=94ACC167-077D-56A9-B6EF-F9EE7C7BD40A&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Metabase](https://sploitus.com/exploit?id=D5C45203-F522-594C-9D88-E0765A8DB593&utm_source=rss&utm_medium=rss)
+  - [FIASSE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-FIASSE&utm_source=rss&utm_medium=rss)
+  - [Ghostcat-Tomcat-AJP-Exploit-Py3](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SI1ENCE90-GHOSTCAT-TOMCAT-AJP-EXPLOIT-PY3&utm_source=rss&utm_medium=rss)
+  - [Havoc exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HAVOCFRAMEWORK-HAVOC&utm_source=rss&utm_medium=rss)
+  - [Ingram exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JORHELP-INGRAM&utm_source=rss&utm_medium=rss)
+  - [JSRat-Py exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HOOD3DROB1N-JSRAT-PY&utm_source=rss&utm_medium=rss)
+  - [JSshell exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SHELLD3V-JSSHELL&utm_source=rss&utm_medium=rss)
   - [KGU_WebSec_DemoExploit](https://sploitus.com/exploit?id=BECBBCAE-7271-5410-B3BC-56BF27556C7F&utm_source=rss&utm_medium=rss)
+  - [macos_app_structure exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YO-YO-YO-JBO-MACOS_SANDBOX&utm_source=rss&utm_medium=rss)
+  - [misp-extractor exploit](https://sploitus.com/exploit?id=KITPLOIT:735031513167682579&utm_source=rss&utm_medium=rss)
+  - [pacmap exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-M0VI0-PACMAP&utm_source=rss&utm_medium=rss)
   - [pcap-phishing-analysis exploit](https://sploitus.com/exploit?id=18264B06-E7AE-525F-A11E-FA0145E525F4&utm_source=rss&utm_medium=rss)
+  - [PyPsPipeJack exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-E-FIN-PYPSPIPEJACK&utm_source=rss&utm_medium=rss)
+  - [RSA exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RUSTCRYPTO-RSA&utm_source=rss&utm_medium=rss)
+  - [SCREEN_KILLER exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TH3XACE-SCREEN_KILLER&utm_source=rss&utm_medium=rss)
+  - [SharpNamedPipePTH exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S3CUR3TH1SSH1T-SHARPNAMEDPIPEPTH&utm_source=rss&utm_medium=rss)
+  - [skewrun exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JVBOTELHO-SKEWRUN&utm_source=rss&utm_medium=rss)
+  - [sloppy-joe exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BRENNHILL-SLOPPY-JOE&utm_source=rss&utm_medium=rss)
+  - [spring4shell-scan exploit](https://sploitus.com/exploit?id=KITPLOIT:6278364996548285306&utm_source=rss&utm_medium=rss)
+  - [staged-DLL-Injection-SMB- exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-KASTURIXBM5-STAGED-DLL-INJECTION-SMB-&utm_source=rss&utm_medium=rss)
+  - [telfhash exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRENDMICRO-TELFHASH&utm_source=rss&utm_medium=rss)
+  - [trevorc2 exploit](https://sploitus.com/exploit?id=KITPLOIT:4814003062850607647&utm_source=rss&utm_medium=rss)
+  - [vuln-list-redhat exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AQUASECURITY-VULN-LIST-REDHAT&utm_source=rss&utm_medium=rss)
+  - [yamaha-smaf-player exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AKUSTIKRAUSCH-YAMAHA-SMAF-PLAYER&utm_source=rss&utm_medium=rss)
 - steveblank.com
   - [Subterranean Warfare – An Urgent DoW Need Without An Owner](https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/)
 - TechCrunch
   - [Amex introduces a framework to prevent AI agents from making unauthorized purchases](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)
+  - [Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands](https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/)
+  - [Apple makes another push into the smart home market with HomeView](https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/)
+  - [Apple refreshes its Homepod mini with a new chip and $149 price tag](https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/)
+  - [Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells](https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/)
   - [Giraffe Bio aims its bespoke biomolecules at the looming copper shortage](https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/)
+  - [India delays digital payments fee rollout amid retailer pushback](https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/)
   - [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/)
   - [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
+  - [SpaceXSI bundles X Premium, Grok and Cursor into one subscription](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)
+  - [TechCrunch Disrupt 2026: Day 1](https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/)
+  - [The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/)
   - [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
 - The Block
   - [Binance launches AI trading tool after 150,000-user beta](https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349)
@@ -145,6 +196,7 @@
   - [Blur to shut down frontend next month as NFT trading volume dwindles](https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363)
   - [CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen](https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358)
   - [StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream](https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313)
+  - [Strive buys 3,311 bitcoin for $280 million in largest acquisition since January](https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430)
   - [UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin](https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409)
 - The Decoder
   - [Anthropic study warns that small AI models could soon replicate across everyday devices](https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/)
@@ -155,11 +207,16 @@
   - [All the news from Apple&#8217;s ‘Welcome home’ event](https://www.theverge.com/tech/1008782/apple-welcome-home-event-news-announcements)
   - [Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch](https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai)
   - [Apple launches HomeView, its first smart display for the home](https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look)
+  - [Discovery Plus is getting more expensive](https://www.theverge.com/streaming/1009994/discovery-plus-price-increase)
+  - [DLSS 5 gets toned down for its Hogwarts Legacy debut next month](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)
   - [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations)
   - [Everything Apple launched at its &#8216;Welcome Home&#8217; event](https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup)
+  - [Getty Images is going private after failed Shutterstock merger](https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement)
   - [The new Apple Home Collection includes a video doorbell, smart lock, and more](https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced)
   - [The new Apple TV 4K has built-in microphones so you can talk to Siri AI](https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced)
   - [The Social Reckoning is flopping at the box office](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy)
+  - [Watch Apple’s reveal video for the HomeView](https://www.theverge.com/1008810/apple-homeview-reveal-video-watch)
+  - [Where to preorder the new Apple TV 4K](https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy)
 - troyhunt.com
   - [Weekly Update 525: AI Data Breach Hyperbole](https://www.troyhunt.com/weekly-update-525/)
 - Vulners.com RSS Feed
@@ -191,6 +248,7 @@
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [Squarespace Promo Codes: 20% Off in October 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [The Apple HomeView Is Like a Giant Apple Watch for the Home](https://www.wired.com/story/apple-homeview-smart-display/)
+  - [The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds](https://www.wired.com/story/new-york-comic-con-panel/)
   - [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/)
   - [What Flock Actually Costs Cities Across the Country](https://www.wired.com/story/how-much-does-flock-actually-cost-cities/)
   - [What’s the Best Kindle of 2026 (So Far)?](https://www.wired.com/gallery/best-kindle/)
