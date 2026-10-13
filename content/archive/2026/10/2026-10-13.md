@@ -3,7 +3,10 @@
 - 2Libra
   - [AI 和 打孩子](https://2libra.com/post/ai-applications/mjjpHlj)
   - [apple 礼品卡求购](https://2libra.com/post/second-hand/_DFHyXU)
+  - [Grok 今天是崩了还是疯了？](https://2libra.com/post/ai-tools/avbo030)
   - [iPhone 全程搞定：抓包 → Muse 写插件 → GitHub 推送，开屏广告消失](https://2libra.com/post/ai-programming/ZLprmOR)
+  - [【投票】理性分析，Pro 用户，5 小时限制、用量翻倍，大家选哪个](https://2libra.com/post/product-details/ldcTwVN)
+  - [【运动打卡】第 4️⃣天，闻着桂花香](https://2libra.com/post/sports/krNnVGh)
   - [【💰】吃到 642 金币雨。](https://2libra.com/post/forum-function/hHc7zdq)
   - [天才程序员(Cursor)陨落！！！](https://2libra.com/post/ai-programming/hjJWKbS)
   - [小米手环 11 续航问题](https://2libra.com/post/smart-wearable/_-V_czQ)
@@ -18,6 +21,7 @@
   - [FTX’s crypto mining venture is now used to advance AI](https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Meta launches Muse Wonder AI models, challenging top rivals](https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea moves to block 27 crypto websites, including KuCoin, MEXC](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting overhaul could make stablecoins more attractive to corporations: Tempo](https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Mark Stephens, a.k.a. Robert X. Cringely, Died at 73](https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr)
@@ -31,12 +35,14 @@
   - [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
   - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
   - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+  - [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
   - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
   - [Epic Games tells employees to use AI to get Disney game done](https://www.avclub.com/epic-games-disney-ai-delay)
   - [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
   - [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
   - [Introducing OpenFatigue](https://openfatigue.ai/)
   - [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/)
+  - [Leaving Tech](https://ryanbigg.com/2026/10/leaving-tech)
   - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
   - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
   - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
@@ -61,6 +67,8 @@
 - Wired
   - [Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him](https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/)
   - [I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine](https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/)
+- 不安全
+  - [DOMPurify v3.4.17](https://buaq.net/go-447901.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
@@ -68,4 +76,5 @@
 - 爱范儿
   - [早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能](https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [法国数百家超市遭黑客攻击 冰箱温度飙至50摄氏度引火灾](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E6%95%B0%E7%99%BE%E5%AE%B6%E8%B6%85%E5%B8%82%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-%E5%86%B0%E7%AE%B1%E6%B8%A9%E5%BA%A6%E9%A3%99%E8%87%B350%E6%91%84%E6%B0%8F%E5%BA%A6%E5%BC%95%E7%81%AB%E7%81%BE)
   - [美中期选举最大金主 马斯克捐赠2.76亿美元](https://blog.upx8.com/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%9C%80%E5%A4%A7%E9%87%91%E4%B8%BB-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8D%90%E8%B5%A02-76%E4%BA%BF%E7%BE%8E%E5%85%83)
