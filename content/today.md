@@ -1,11 +1,15 @@
 # 今日安全资讯（2026-10-13）
 
 - 2Libra
+  - [AI 和 打孩子](https://2libra.com/post/ai-applications/mjjpHlj)
+  - [apple 礼品卡求购](https://2libra.com/post/second-hand/_DFHyXU)
   - [iPhone 全程搞定：抓包 → Muse 写插件 → GitHub 推送，开屏广告消失](https://2libra.com/post/ai-programming/ZLprmOR)
   - [【💰】吃到 642 金币雨。](https://2libra.com/post/forum-function/hHc7zdq)
   - [天才程序员(Cursor)陨落！！！](https://2libra.com/post/ai-programming/hjJWKbS)
+  - [小米手环 11 续航问题](https://2libra.com/post/smart-wearable/_-V_czQ)
   - [广州欢迎你](https://2libra.com/post/local-life/jecLkPK)
   - [朋友们， 求推荐平价猫粮！](https://2libra.com/post/recommendations/viQj4a1)
+  - [觉得法环没有魂三好玩](https://2libra.com/post/game-discussion/dcoKILi)
 - CoinTelegraph
   - [Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks](https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high](https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -13,6 +17,7 @@
   - [Crypto PACs report $2.7M spending blitz on House races as midterms loom](https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FTX’s crypto mining venture is now used to advance AI](https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Meta launches Muse Wonder AI models, challenging top rivals](https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting overhaul could make stablecoins more attractive to corporations: Tempo](https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Mark Stephens, a.k.a. Robert X. Cringely, Died at 73](https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr)
@@ -42,6 +47,7 @@
   - [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
 - The Block
   - [Binance launches AI trading tool after 150,000-user beta](https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349)
+  - [Bitcoin slides below $82,000 as crypto liquidations surge past $770 million](https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374)
   - [Blur to shut down frontend next month as NFT trading volume dwindles](https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363)
   - [CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen](https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358)
   - [StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream](https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313)
@@ -61,3 +67,5 @@
   - [7分钟加密3.6PB，运维7小时没找到勒索信：日本国家级云平台被黑全过程](https://www.anquanke.com/post/id/316231)
 - 爱范儿
   - [早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能](https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [美中期选举最大金主 马斯克捐赠2.76亿美元](https://blog.upx8.com/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%9C%80%E5%A4%A7%E9%87%91%E4%B8%BB-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8D%90%E8%B5%A02-76%E4%BA%BF%E7%BE%8E%E5%85%83)
