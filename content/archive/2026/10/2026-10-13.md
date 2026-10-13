@@ -5,6 +5,7 @@
   - [apple 礼品卡求购](https://2libra.com/post/second-hand/_DFHyXU)
   - [Grok 今天是崩了还是疯了？](https://2libra.com/post/ai-tools/avbo030)
   - [iPhone 全程搞定：抓包 → Muse 写插件 → GitHub 推送，开屏广告消失](https://2libra.com/post/ai-programming/ZLprmOR)
+  - [【买车=找对象】做人要有边界，不沾他人因果 🙏🙏🙏](https://2libra.com/post/automobile/kzBL8WK)
   - [【投票】理性分析，Pro 用户，5 小时限制、用量翻倍，大家选哪个](https://2libra.com/post/product-details/ldcTwVN)
   - [【运动打卡】第 4️⃣天，闻着桂花香](https://2libra.com/post/sports/krNnVGh)
   - [【💰】吃到 642 金币雨。](https://2libra.com/post/forum-function/hHc7zdq)
@@ -46,6 +47,9 @@
   - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
   - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
   - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
+- rtl-sdr.com
+  - [SDR Signal Analyzer: A Windows Spectrum Analyzer for HackRF, RTL-SDR and tinySA](https://www.rtl-sdr.com/sdr-signal-analyzer-a-windows-spectrum-analyzer-for-hackrf-rtl-sdr-and-tinysa/)
+  - [Turning a Wi-Fi 7 Router into a 320 Msps SDR](https://www.rtl-sdr.com/turning-a-wi-fi-7-router-into-a-320-msps-sdr/)
 - simonwillison.net
   - [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/)
 - TechCrunch
@@ -69,6 +73,8 @@
   - [I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine](https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/)
 - 不安全
   - [DOMPurify v3.4.17](https://buaq.net/go-447901.html)
+  - [供应链消息称英特尔已经在9月底提高多代CPU价格 高端CPU供货价上涨20%](https://buaq.net/go-447907.html)
+  - [加密钱包Ledger在欧洲销售的硬件也遭到篡改 内置电路板和LTE模块窃取助记词](https://buaq.net/go-447906.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
@@ -76,5 +82,7 @@
 - 爱范儿
   - [早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能](https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Anthropic警告：小型AI模型数月内或实现自我复制，能推理、难关停](https://blog.upx8.com/Anthropic%E8%AD%A6%E5%91%8A-%E5%B0%8F%E5%9E%8BAI%E6%A8%A1%E5%9E%8B%E6%95%B0%E6%9C%88%E5%86%85%E6%88%96%E5%AE%9E%E7%8E%B0%E8%87%AA%E6%88%91%E5%A4%8D%E5%88%B6-%E8%83%BD%E6%8E%A8%E7%90%86-%E9%9A%BE%E5%85%B3%E5%81%9C)
+  - [尊界V800制动踏板第三方检测结果公布：符合行标](https://blog.upx8.com/%E5%B0%8A%E7%95%8CV800%E5%88%B6%E5%8A%A8%E8%B8%8F%E6%9D%BF%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83-%E7%AC%A6%E5%90%88%E8%A1%8C%E6%A0%87)
   - [法国数百家超市遭黑客攻击 冰箱温度飙至50摄氏度引火灾](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E6%95%B0%E7%99%BE%E5%AE%B6%E8%B6%85%E5%B8%82%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-%E5%86%B0%E7%AE%B1%E6%B8%A9%E5%BA%A6%E9%A3%99%E8%87%B350%E6%91%84%E6%B0%8F%E5%BA%A6%E5%BC%95%E7%81%AB%E7%81%BE)
   - [美中期选举最大金主 马斯克捐赠2.76亿美元](https://blog.upx8.com/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%9C%80%E5%A4%A7%E9%87%91%E4%B8%BB-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8D%90%E8%B5%A02-76%E4%BA%BF%E7%BE%8E%E5%85%83)
