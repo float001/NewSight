@@ -31,6 +31,7 @@
   - [Bitcoin miners face widening AI financing costs as lenders scrutinize deals](https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blur is shutting down its website, so why are NFT collectors cheering?](https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs report $2.7M spending blitz on House races as midterms loom](https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ENS seeks DAO approval to activate upgraded Ethereum naming system](https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FTX’s crypto mining venture is now used to advance AI](https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis](https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -47,7 +48,9 @@
   - [Empire Market operator sentenced to 40 years for $430M in illicit trade](https://cybernews.com/news/empire-market-operator-decades-prison/)
   - [H&M investigates data breach after ShinyHunters claims](https://cybernews.com/security/h-m-investigates-data-breach-shinyhunters/)
   - [Lawsuit claims Meta tricked customers into “last chance” deal on smart glasses](https://cybernews.com/news/meta-lawsuit-smart-glass-promotional-deal/)
+  - [Meta sees nothing wrong with Muse sexting users](https://cybernews.com/ai-news/meta-muse-sexting-users/)
   - [Microsoft’s adtech firm Xandr faces record fine over sensitive Grindr user data](https://cybernews.com/news/microsoft-xandr-record-fine-grindr-user-data/)
+  - [Patch Tuesdays aren’t for everyone: 20% of cyber pros take time off to avoid them](https://cybernews.com/security/patch-tuesday-cyber-pros-stress-time-off/)
   - [PS5 jailbreak app gives gamers Battlefield 6, Silent Hill f, and more for free](https://cybernews.com/tech/ps5-jailbreak-overdrive-app/)
 - daniel.haxx.se
   - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
@@ -65,8 +68,10 @@
   - [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
   - [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
   - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
+  - [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
   - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
   - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+  - [Character.ai Files for Bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
   - [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
   - [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
   - [Denmark set to allow return of 'physical force' in school](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)
@@ -94,9 +99,15 @@
 - infosecurity-magazine.com
   - [Fifth of CISOs Take Time Off to Avoid Patch Tuesday](https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/)
   - [UK Government Announces Sweeping New AI Security Plans](https://www.infosecurity-magazine.com/news/uk-government-sweeping-ai-security/)
+- NVIDIA AI Blog
+  - [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
+- pluralistic.net
+  - [Pluralistic: Bundestrojaner (13 Oct 2026)](https://pluralistic.net/2026/10/13/petards-r-us/)
 - rtl-sdr.com
   - [SDR Signal Analyzer: A Windows Spectrum Analyzer for HackRF, RTL-SDR and tinySA](https://www.rtl-sdr.com/sdr-signal-analyzer-a-windows-spectrum-analyzer-for-hackrf-rtl-sdr-and-tinysa/)
   - [Turning a Wi-Fi 7 Router into a 320 Msps SDR](https://www.rtl-sdr.com/turning-a-wi-fi-7-router-into-a-320-msps-sdr/)
+- shkspr.mobi
+  - [Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★](https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/)
 - simonwillison.net
   - [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/)
 - Sploitus.com Exploits RSS Feed
@@ -110,12 +121,14 @@
   - [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
 - The Block
   - [Binance launches AI trading tool after 150,000-user beta](https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349)
+  - [Binance to shut down mining pool, cloud mining and related services](https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410)
   - [Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues](https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389)
   - [Bitcoin slides below $82,000 as crypto liquidations surge past $770 million](https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374)
   - [Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data](https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383)
   - [Blur to shut down frontend next month as NFT trading volume dwindles](https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363)
   - [CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen](https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358)
   - [StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream](https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313)
+  - [UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin](https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409)
 - The Decoder
   - [Anthropic study warns that small AI models could soon replicate across everyday devices](https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/)
   - [Clearing chat history helps AI agents find better solutions](https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/)
@@ -139,6 +152,7 @@
   - [ZDR decoding in libnfs through 6.0.2 before 7613236 has an out-of-bounds write related to lib/libnfs-zdr.c with libnfs_zdr_bytes(), libnfs_zdr_string(), and libnfs_zdr_array(). The caller-supplied maxsize value is not honored.](https://vulners.com/mscve/MS:CVE-2026-108985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [20% Off Samsung Promo Code | October 2026](https://www.wired.com/story/samsung-promo-codes/)
+  - [40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)](https://www.wired.com/gallery/best-gifts-under-100/)
   - [6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)](https://www.wired.com/gallery/best-coffee-grinders-2026/)
   - [Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues](https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/)
   - [B&H Photo Promo Codes and Deals This October 2026](https://www.wired.com/story/bh-photo-coupon/)
