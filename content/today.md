@@ -5,6 +5,8 @@
 - 404 Media
   - [Dubstep and BookTok, a perfect match?](https://www.404media.co/dubstep-and-booktok-a-perfect-match/)
   - [The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’](https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/)
+- Ars Technica
+  - [The Paris Auto Show is full of interesting cars Americans can’t have](https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/)
 - CoinTelegraph
   - [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -20,13 +22,21 @@
   - [Exploit for CVE-2026-82957](https://sploitus.com/exploit?id=901105EE-4605-58B2-A135-A14EAEA54619&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Google Play now supports private, vibe-coded apps built just for you](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
+  - [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
   - [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
+  - [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
   - [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
 - The Block
   - [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463)
+- The Decoder
+  - [Gemini 4 Argon is now available worldwide as Google's most capable frontier model](https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/)
+  - [Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as "grand moralizing performance"](https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/)
 - The Verge
   - [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
   - [Hands-on with the Apple Home Collection](https://www.theverge.com/tech/1009899/apple-home-collection-hands-on)
+  - [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
+  - [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation)
+  - [The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever](https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale)
 - wheresyoured.at
   - [Annualized Enron Rate](https://www.wheresyoured.at/annualized-enron-rate/)
 - 代码审计星球
