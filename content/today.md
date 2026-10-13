@@ -1,13 +1,35 @@
 # 今日安全资讯（2026-10-14）
 
+- 2Libra
+  - [关于《杨修之死》的感悟](https://2libra.com/post/workplace-stories/_DSVdye)
+- 404 Media
+  - [Dubstep and BookTok, a perfect match?](https://www.404media.co/dubstep-and-booktok-a-perfect-match/)
+  - [The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’](https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/)
+- CoinTelegraph
+  - [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Vibetech Database Exposed 13.7M Breached Credentials](https://www.cyberkendra.com/2026/10/vibetech-database-exposed-13-7m-breached-credentials.html)
+- CyberNews
+  - [We should be able to turn off the AI, Microsoft’s Brad Smith says](https://cybernews.com/ai-news/we-should-be-able-to-turn-off-the-ai-microsofts-brad-smith-says/)
 - Google DeepMind Blog
   - [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
   - [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
+- Hacker News Frontpage
+  - [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-82957](https://sploitus.com/exploit?id=901105EE-4605-58B2-A135-A14EAEA54619&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Google Play now supports private, vibe-coded apps built just for you](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
+  - [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
+  - [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
 - The Block
   - [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463)
 - The Verge
   - [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
+  - [Hands-on with the Apple Home Collection](https://www.theverge.com/tech/1009899/apple-home-collection-hands-on)
 - wheresyoured.at
   - [Annualized Enron Rate](https://www.wheresyoured.at/annualized-enron-rate/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [一加 16 体验：收敛锐气，依然是「不出错」的旗舰](https://www.ifanr.com/1684097?utm_source=rss&utm_medium=rss&utm_campaign=)
