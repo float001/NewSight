@@ -5,6 +5,7 @@
   - [apple 礼品卡求购](https://2libra.com/post/second-hand/_DFHyXU)
   - [Grok 今天是崩了还是疯了？](https://2libra.com/post/ai-tools/avbo030)
   - [iPhone 全程搞定：抓包 → Muse 写插件 → GitHub 推送，开屏广告消失](https://2libra.com/post/ai-programming/ZLprmOR)
+  - [Tern 这个新终端颜值好高](https://2libra.com/post/sharing-discoveries/FSkBXwp)
   - [TraeWork 升级为 TRAE 了，然后好像更拧巴了](https://2libra.com/post/ai-programming/oDEhaTO)
   - [【买车=找对象】做人要有边界，不沾他人因果 🙏🙏🙏](https://2libra.com/post/automobile/kzBL8WK)
   - [【投票】理性分析，Pro 用户，5 小时限制、用量翻倍，大家选哪个](https://2libra.com/post/product-details/ldcTwVN)
@@ -16,6 +17,8 @@
   - [朋友们， 求推荐平价猫粮！](https://2libra.com/post/recommendations/viQj4a1)
   - [绝命毒师小沃特演员 RJ 米特去世 🕯](https://2libra.com/post/hotspot-tracking/SPFJXAt)
   - [觉得法环没有魂三好玩](https://2libra.com/post/game-discussion/dcoKILi)
+- Articles | InfoStealers
+  - [First Physical Robbery Potentially Linked to Revolut Data Breach](https://www.infostealers.com/article/first-physical-robbery-potentially-linked-to-revolut-data-breach/)
 - CoinTelegraph
   - [Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks](https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance to shut down crypto mining pool services in November](https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -30,6 +33,7 @@
   - [US accounting overhaul could make stablecoins more attractive to corporations: Tempo](https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Empire Market operator sentenced to 40 years for $430M in illicit trade](https://cybernews.com/news/empire-market-operator-decades-prison/)
+  - [H&M investigates data breach after ShinyHunters claims](https://cybernews.com/security/h-m-investigates-data-breach-shinyhunters/)
   - [Microsoft’s adtech firm Xandr faces record fine over sensitive Grindr user data](https://cybernews.com/news/microsoft-xandr-record-fine-grindr-user-data/)
 - daniel.haxx.se
   - [A slightly faster slimmer curl](https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/)
@@ -60,6 +64,9 @@
   - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
   - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
   - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
+- HackerNews
+  - [SonicWall SMA 1000 严重漏洞修补后遭 135 次利用尝试](http://0.0.0.0:8080/post/64776)
+  - [网络攻击导致法国超市冰箱停摆](http://0.0.0.0:8080/post/64777)
 - rtl-sdr.com
   - [SDR Signal Analyzer: A Windows Spectrum Analyzer for HackRF, RTL-SDR and tinySA](https://www.rtl-sdr.com/sdr-signal-analyzer-a-windows-spectrum-analyzer-for-hackrf-rtl-sdr-and-tinysa/)
   - [Turning a Wi-Fi 7 Router into a 320 Msps SDR](https://www.rtl-sdr.com/turning-a-wi-fi-7-router-into-a-320-msps-sdr/)
@@ -116,6 +123,7 @@
   - [2026 年，日本翻盖手机终于过气了](https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能](https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [ANBERNIC可能被禁止在美国销售其掌机](https://blog.upx8.com/ANBERNIC%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%94%80%E5%94%AE%E5%85%B6%E6%8E%8C%E6%9C%BA)
   - [Anthropic警告：小型AI模型数月内或实现自我复制，能推理、难关停](https://blog.upx8.com/Anthropic%E8%AD%A6%E5%91%8A-%E5%B0%8F%E5%9E%8BAI%E6%A8%A1%E5%9E%8B%E6%95%B0%E6%9C%88%E5%86%85%E6%88%96%E5%AE%9E%E7%8E%B0%E8%87%AA%E6%88%91%E5%A4%8D%E5%88%B6-%E8%83%BD%E6%8E%A8%E7%90%86-%E9%9A%BE%E5%85%B3%E5%81%9C)
   - [尊界V800制动踏板第三方检测结果公布：符合行标](https://blog.upx8.com/%E5%B0%8A%E7%95%8CV800%E5%88%B6%E5%8A%A8%E8%B8%8F%E6%9D%BF%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83-%E7%AC%A6%E5%90%88%E8%A1%8C%E6%A0%87)
   - [法国数百家超市遭黑客攻击 冰箱温度飙至50摄氏度引火灾](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E6%95%B0%E7%99%BE%E5%AE%B6%E8%B6%85%E5%B8%82%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-%E5%86%B0%E7%AE%B1%E6%B8%A9%E5%BA%A6%E9%A3%99%E8%87%B350%E6%91%84%E6%B0%8F%E5%BA%A6%E5%BC%95%E7%81%AB%E7%81%BE)
