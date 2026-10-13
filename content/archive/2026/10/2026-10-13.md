@@ -18,6 +18,7 @@
   - [小米手环 11 续航问题](https://2libra.com/post/smart-wearable/_-V_czQ)
   - [广州欢迎你](https://2libra.com/post/local-life/jecLkPK)
   - [朋友们， 求推荐平价猫粮！](https://2libra.com/post/recommendations/viQj4a1)
+  - [没事分享两张我家小孩喜欢的卡片](https://2libra.com/post/parent-child/jA8jydH)
   - [绝命毒师小沃特演员 RJ 米特去世 🕯](https://2libra.com/post/hotspot-tracking/SPFJXAt)
   - [觉得法环没有魂三好玩](https://2libra.com/post/game-discussion/dcoKILi)
 - Articles | InfoStealers
@@ -33,9 +34,13 @@
   - [FTX’s crypto mining venture is now used to advance AI](https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis](https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MediaMarktSaturn pulls Ledger products amid tampering reports](https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Meta launches Muse Wonder AI models, challenging top rivals](https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks](https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea moves to block 27 crypto websites, including KuCoin, MEXC](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting overhaul could make stablecoins more attractive to corporations: Tempo](https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [MediaMarktSaturn pulls Ledger products amid tampering reports](https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [AI software allows police to geolocate you using a single interior image](https://cybernews.com/ai-news/raven-geolocate-interior/)
   - [Bernie Sanders wants to ban artificial superintelligence, but that’s tricky](https://cybernews.com/ai-news/bernie-sanders-sam-altman-agi-ban/)
@@ -54,10 +59,12 @@
 - defend.network
   - [WordPress Bricksforge & SonicWall SMA CVSS 10.0 exploits; Ledger spy chips drain wallets](https://defend.network/briefings/wordpress-bricksforge-sonicwall-sma-ledger-rce-exploit-2026-10-13.html)
 - Hacker News Frontpage
+  - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
   - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
   - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
   - [AI Is a Tool. Using It Well Takes Skill.](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
   - [AI models may be capable of self-replicating without access to a datacenter](https://www.anthropic.com/research/self-replicating-ai)
+  - [AI models may soon self-replicate without access to data centers](https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/)
   - [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
   - [Breaking Bad star RJ Mitte dies aged 34](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
   - [China Overtakes U.S. For First Time as Top Spender on R&D in 2024](https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/)
@@ -73,6 +80,7 @@
   - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
   - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
   - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
+  - [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
   - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
   - [Were Software Engineers blue-collar workers all along?](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
   - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
@@ -109,12 +117,15 @@
   - [CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen](https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358)
   - [StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream](https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313)
 - The Decoder
+  - [Anthropic study warns that small AI models could soon replicate across everyday devices](https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/)
   - [Clearing chat history helps AI agents find better solutions](https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/)
   - [Meta's new frontier model Muse Wonder Full breaks into the AI top tier](https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/)
   - [Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots](https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/)
 - The Verge
   - [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations)
   - [The Social Reckoning is flopping at the box office](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy)
+- troyhunt.com
+  - [Weekly Update 525: AI Data Breach Hyperbole](https://www.troyhunt.com/weekly-update-525/)
 - Vulners.com RSS Feed
   - [Busybox: busybox: tar extraction-root escape via deferred symlink/hardlink creation bypasses cve-2026-26158 fix](https://vulners.com/mscve/MS:CVE-2026-108119?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Cups: null pointer dereference via embedded job ticket comments allows remote denial of service](https://vulners.com/mscve/MS:CVE-2026-107655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -129,6 +140,7 @@
 - Wired
   - [20% Off Samsung Promo Code | October 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)](https://www.wired.com/gallery/best-coffee-grinders-2026/)
+  - [Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues](https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/)
   - [B&H Photo Promo Codes and Deals This October 2026](https://www.wired.com/story/bh-photo-coupon/)
   - [Booking.com Promo Codes: 20% Off | October 2026](https://www.wired.com/story/booking-com-promo-code/)
   - [Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him](https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/)
@@ -152,6 +164,8 @@
   - [密码管理器Bitwarden将从下个版本开始将应用商店版改成商业许可证 但开源版会继续提供](https://buaq.net/go-447924.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [《RimWorld》将游戏引擎从 Unity 切换到 Waylith Engine](https://www.solidot.org/story?sid=85599)
 - 安全客
   - [7分钟加密3.6PB，运维7小时没找到勒索信：日本国家级云平台被黑全过程](https://www.anquanke.com/post/id/316231)
 - 爱范儿
@@ -171,4 +185,5 @@
   - [美中期选举最大金主 马斯克捐赠2.76亿美元](https://blog.upx8.com/%E7%BE%8E%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%9C%80%E5%A4%A7%E9%87%91%E4%B8%BB-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8D%90%E8%B5%A02-76%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [英伟达在华数据中心AI芯片份额降至34%](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9C%A8%E5%8D%8E%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83AI%E8%8A%AF%E7%89%87%E4%BB%BD%E9%A2%9D%E9%99%8D%E8%87%B334)
   - [造谣月之暗面创始人及员工被带走调查，两人被采取刑事措施](https://blog.upx8.com/%E9%80%A0%E8%B0%A3%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%8A%E5%91%98%E5%B7%A5%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5-%E4%B8%A4%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E6%8E%AA%E6%96%BD)
+  - [阿里千问发布N1 Pro与N1两款AI眼镜，2218元起售](https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%8F%91%E5%B8%83N1-Pro%E4%B8%8EN1%E4%B8%A4%E6%AC%BEAI%E7%9C%BC%E9%95%9C-2218%E5%85%83%E8%B5%B7%E5%94%AE)
   - [马斯克谈中国内存：一旦掌握技术，量产能力超全球其他地区之和](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E4%B8%AD%E5%9B%BD%E5%86%85%E5%AD%98-%E4%B8%80%E6%97%A6%E6%8E%8C%E6%8F%A1%E6%8A%80%E6%9C%AF-%E9%87%8F%E4%BA%A7%E8%83%BD%E5%8A%9B%E8%B6%85%E5%85%A8%E7%90%83%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA%E4%B9%8B%E5%92%8C)
