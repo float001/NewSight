@@ -17,8 +17,10 @@
   - [觉得法环没有魂三好玩](https://2libra.com/post/game-discussion/dcoKILi)
 - CoinTelegraph
   - [Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks](https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance to shut down crypto mining pool services in November](https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high](https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners face widening AI financing costs as lenders scrutinize deals](https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Blur is shutting down its website, so why are NFT collectors cheering?](https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs report $2.7M spending blitz on House races as midterms loom](https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FTX’s crypto mining venture is now used to advance AI](https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -48,16 +50,20 @@
   - [Phreak.ing – Internet Phone Switch](https://phreak.ing/)
   - [Publishers Killed the Paperback, Then Blamed Readers](https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback)
   - [Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)
+  - [Vi Hart's Big Navier-Stokes Post](https://www.patreon.com/vihart/posts/vi-harts-big-171939430)
 - rtl-sdr.com
   - [SDR Signal Analyzer: A Windows Spectrum Analyzer for HackRF, RTL-SDR and tinySA](https://www.rtl-sdr.com/sdr-signal-analyzer-a-windows-spectrum-analyzer-for-hackrf-rtl-sdr-and-tinysa/)
   - [Turning a Wi-Fi 7 Router into a 320 Msps SDR](https://www.rtl-sdr.com/turning-a-wi-fi-7-router-into-a-320-msps-sdr/)
 - simonwillison.net
   - [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Buffer Over-read in Gnu Gzip](https://sploitus.com/exploit?id=9F653589-6D90-592C-95BA-4F6E1361DEC6&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
   - [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
 - The Block
   - [Binance launches AI trading tool after 150,000-user beta](https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349)
+  - [Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues](https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389)
   - [Bitcoin slides below $82,000 as crypto liquidations surge past $770 million](https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374)
   - [Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data](https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383)
   - [Blur to shut down frontend next month as NFT trading volume dwindles](https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363)
@@ -88,6 +94,7 @@
   - [DOMPurify v3.4.17](https://buaq.net/go-447901.html)
   - [供应链消息称英特尔已经在9月底提高多代CPU价格 高端CPU供货价上涨20%](https://buaq.net/go-447907.html)
   - [加密钱包Ledger在欧洲销售的硬件也遭到篡改 内置电路板和LTE模块窃取助记词](https://buaq.net/go-447906.html)
+  - [密码管理器Bitwarden将从下个版本开始将应用商店版改成商业许可证 但开源版会继续提供](https://buaq.net/go-447924.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
