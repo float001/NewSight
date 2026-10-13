@@ -13,6 +13,7 @@
   - [小米手环 11 续航问题](https://2libra.com/post/smart-wearable/_-V_czQ)
   - [广州欢迎你](https://2libra.com/post/local-life/jecLkPK)
   - [朋友们， 求推荐平价猫粮！](https://2libra.com/post/recommendations/viQj4a1)
+  - [绝命毒师小沃特演员 RJ 米特去世 🕯](https://2libra.com/post/hotspot-tracking/SPFJXAt)
   - [觉得法环没有魂三好玩](https://2libra.com/post/game-discussion/dcoKILi)
 - CoinTelegraph
   - [Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks](https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,6 +59,7 @@
 - The Block
   - [Binance launches AI trading tool after 150,000-user beta](https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349)
   - [Bitcoin slides below $82,000 as crypto liquidations surge past $770 million](https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374)
+  - [Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data](https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383)
   - [Blur to shut down frontend next month as NFT trading volume dwindles](https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363)
   - [CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen](https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358)
   - [StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream](https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313)
@@ -69,8 +71,19 @@
   - [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations)
   - [The Social Reckoning is flopping at the box office](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy)
 - Wired
+  - [20% Off Samsung Promo Code | October 2026](https://www.wired.com/story/samsung-promo-codes/)
+  - [B&H Photo Promo Codes and Deals This October 2026](https://www.wired.com/story/bh-photo-coupon/)
+  - [Booking.com Promo Codes: 20% Off | October 2026](https://www.wired.com/story/booking-com-promo-code/)
   - [Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him](https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/)
+  - [ExpressVPN Coupons: 80% Off](https://www.wired.com/story/expressvpn-coupons/)
+  - [Google Workspace Promo Codes: 14% Off for October 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine](https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/)
+  - [Lego Promo Code | 20% Off October 2026](https://www.wired.com/story/lego-promo-code/)
+  - [Newegg Promo Codes and Coupons for October 2026](https://www.wired.com/story/newegg-promo-code/)
+  - [Nike Promo Codes and Discounts: 30% for October 2026](https://www.wired.com/story/nike-promo-code/)
+  - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
+  - [Squarespace Promo Codes: 20% Off in October 2026](https://www.wired.com/story/squarespace-promo-code/)
+  - [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/)
 - 不安全
   - [DOMPurify v3.4.17](https://buaq.net/go-447901.html)
   - [供应链消息称英特尔已经在9月底提高多代CPU价格 高端CPU供货价上涨20%](https://buaq.net/go-447907.html)
@@ -80,6 +93,7 @@
 - 安全客
   - [7分钟加密3.6PB，运维7小时没找到勒索信：日本国家级云平台被黑全过程](https://www.anquanke.com/post/id/316231)
 - 爱范儿
+  - [2026 年，日本翻盖手机终于过气了](https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能](https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Anthropic警告：小型AI模型数月内或实现自我复制，能推理、难关停](https://blog.upx8.com/Anthropic%E8%AD%A6%E5%91%8A-%E5%B0%8F%E5%9E%8BAI%E6%A8%A1%E5%9E%8B%E6%95%B0%E6%9C%88%E5%86%85%E6%88%96%E5%AE%9E%E7%8E%B0%E8%87%AA%E6%88%91%E5%A4%8D%E5%88%B6-%E8%83%BD%E6%8E%A8%E7%90%86-%E9%9A%BE%E5%85%B3%E5%81%9C)
