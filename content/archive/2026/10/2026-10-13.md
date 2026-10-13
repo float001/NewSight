@@ -3,12 +3,14 @@
 - 2Libra
   - [AI 和 打孩子](https://2libra.com/post/ai-applications/mjjpHlj)
   - [apple 礼品卡求购](https://2libra.com/post/second-hand/_DFHyXU)
+  - [Codex CLI 更新后启动守护进程并实现开机自启动，有开发者提议应当默认关闭由用户手动开启。](https://2libra.com/post/ai-programming/ESjCx2C)
   - [Grok 今天是崩了还是疯了？](https://2libra.com/post/ai-tools/avbo030)
   - [iPhone 全程搞定：抓包 → Muse 写插件 → GitHub 推送，开屏广告消失](https://2libra.com/post/ai-programming/ZLprmOR)
   - [rea 不干了](https://2libra.com/post/ai-programming/Pyiduk5)
   - [Tern 这个新终端颜值好高](https://2libra.com/post/sharing-discoveries/FSkBXwp)
   - [TraeWork 升级为 TRAE 了，然后好像更拧巴了](https://2libra.com/post/ai-programming/oDEhaTO)
   - [【买车=找对象】做人要有边界，不沾他人因果 🙏🙏🙏](https://2libra.com/post/automobile/kzBL8WK)
+  - [【慢讯】Telegram Desktop 被曝一键窃取任意文件漏洞](https://2libra.com/post/network-security/Zz-bhII)
   - [【投票】理性分析，Pro 用户，5 小时限制、用量翻倍，大家选哪个](https://2libra.com/post/product-details/ldcTwVN)
   - [【运动打卡】第 4️⃣天，闻着桂花香](https://2libra.com/post/sports/krNnVGh)
   - [【💰】ChatGPT Dot 有什么玩法](https://2libra.com/post/ai-tools/wlzx4LR)
@@ -23,6 +25,8 @@
   - [觉得法环没有魂三好玩](https://2libra.com/post/game-discussion/dcoKILi)
 - Articles | InfoStealers
   - [First Physical Robbery Potentially Linked to Revolut Data Breach](https://www.infostealers.com/article/first-physical-robbery-potentially-linked-to-revolut-data-breach/)
+- Ben's Bites
+  - [Zuck’s wonder...full](https://www.bensbites.com/p/zucks-wonderfull)
 - CoinTelegraph
   - [Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks](https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance to shut down crypto mining pool services in November](https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -38,6 +42,7 @@
   - [MediaMarktSaturn pulls Ledger products amid tampering reports](https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Meta launches Muse Wonder AI models, challenging top rivals](https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks](https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Russia clears Sberbank for crypto trading ahead of December launch](https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea moves to block 27 crypto websites, including KuCoin, MEXC](https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US accounting overhaul could make stablecoins more attractive to corporations: Tempo](https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -48,6 +53,7 @@
   - [Empire Market operator sentenced to 40 years for $430M in illicit trade](https://cybernews.com/news/empire-market-operator-decades-prison/)
   - [H&M investigates data breach after ShinyHunters claims](https://cybernews.com/security/h-m-investigates-data-breach-shinyhunters/)
   - [Lawsuit claims Meta tricked customers into “last chance” deal on smart glasses](https://cybernews.com/news/meta-lawsuit-smart-glass-promotional-deal/)
+  - [Linux creator Linus Torvalds says AI is like a “gateway drug”](https://cybernews.com/ai-news/linus-torvalds-ai/)
   - [Meta sees nothing wrong with Muse sexting users](https://cybernews.com/ai-news/meta-muse-sexting-users/)
   - [Microsoft’s adtech firm Xandr faces record fine over sensitive Grindr user data](https://cybernews.com/news/microsoft-xandr-record-fine-grindr-user-data/)
   - [Patch Tuesdays aren’t for everyone: 20% of cyber pros take time off to avoid them](https://cybernews.com/security/patch-tuesday-cyber-pros-stress-time-off/)
@@ -61,6 +67,8 @@
   - [No Identity, No Recovery: Cyber Resilience Starts With IAM](https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam)
 - defend.network
   - [WordPress Bricksforge & SonicWall SMA CVSS 10.0 exploits; Ledger spy chips drain wallets](https://defend.network/briefings/wordpress-bricksforge-sonicwall-sma-ledger-rce-exploit-2026-10-13.html)
+- GuidePoint Security
+  - [Hiring in the Age of Deepfakes: Protecting Your Company from Synthetic Applicants](https://www.guidepointsecurity.com/blog/deepfakes-synthetic-applicants-hiring/)
 - Hacker News Frontpage
   - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
   - [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
@@ -103,6 +111,8 @@
   - [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
 - pluralistic.net
   - [Pluralistic: Bundestrojaner (13 Oct 2026)](https://pluralistic.net/2026/10/13/petards-r-us/)
+- Recent Commits to cve:main
+  - [Update Tue Oct 13 12:43:26 UTC 2026](https://github.com/trickest/cve/commit/4aa48f995ff03b35350310289395778f2d119a0b)
 - rtl-sdr.com
   - [SDR Signal Analyzer: A Windows Spectrum Analyzer for HackRF, RTL-SDR and tinySA](https://www.rtl-sdr.com/sdr-signal-analyzer-a-windows-spectrum-analyzer-for-hackrf-rtl-sdr-and-tinysa/)
   - [Turning a Wi-Fi 7 Router into a 320 Msps SDR](https://www.rtl-sdr.com/turning-a-wi-fi-7-router-into-a-320-msps-sdr/)
@@ -110,13 +120,20 @@
   - [Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★](https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/)
 - simonwillison.net
   - [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/)
+- Sonar Blog
+  - [Sonar joins OpenAI Daybreak Cyber Partner Program, deepening collaboration on agentic security](https://www.sonarsource.com/blog/sonar-joins-openai-daybreak-program/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Buffer Over-read in Gnu Gzip](https://sploitus.com/exploit?id=9F653589-6D90-592C-95BA-4F6E1361DEC6&utm_source=rss&utm_medium=rss)
   - [Exploit for Expression Language Injection in Apache Struts](https://sploitus.com/exploit?id=94ACC167-077D-56A9-B6EF-F9EE7C7BD40A&utm_source=rss&utm_medium=rss)
   - [Exploit for SQL Injection in Metabase](https://sploitus.com/exploit?id=D5C45203-F522-594C-9D88-E0765A8DB593&utm_source=rss&utm_medium=rss)
   - [KGU_WebSec_DemoExploit](https://sploitus.com/exploit?id=BECBBCAE-7271-5410-B3BC-56BF27556C7F&utm_source=rss&utm_medium=rss)
   - [pcap-phishing-analysis exploit](https://sploitus.com/exploit?id=18264B06-E7AE-525F-A11E-FA0145E525F4&utm_source=rss&utm_medium=rss)
+- steveblank.com
+  - [Subterranean Warfare – An Urgent DoW Need Without An Owner](https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/)
 - TechCrunch
+  - [Amex introduces a framework to prevent AI agents from making unauthorized purchases](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)
+  - [Giraffe Bio aims its bespoke biomolecules at the looming copper shortage](https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/)
+  - [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/)
   - [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)
   - [WindBorne wins a hefty US Air Force contract for its balloon data](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/)
 - The Block
@@ -135,7 +152,13 @@
   - [Meta's new frontier model Muse Wonder Full breaks into the AI top tier](https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/)
   - [Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots](https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/)
 - The Verge
+  - [All the news from Apple&#8217;s ‘Welcome home’ event](https://www.theverge.com/tech/1008782/apple-welcome-home-event-news-announcements)
+  - [Apple announces the HomePod Mini 2, but it isn&#8217;t ready for Siri AI at launch](https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai)
+  - [Apple launches HomeView, its first smart display for the home](https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look)
   - [Elon Musk has donated over $276 million to Republican midterm efforts](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations)
+  - [Everything Apple launched at its &#8216;Welcome Home&#8217; event](https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup)
+  - [The new Apple Home Collection includes a video doorbell, smart lock, and more](https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced)
+  - [The new Apple TV 4K has built-in microphones so you can talk to Siri AI](https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced)
   - [The Social Reckoning is flopping at the box office](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy)
 - troyhunt.com
   - [Weekly Update 525: AI Data Breach Hyperbole](https://www.troyhunt.com/weekly-update-525/)
@@ -155,6 +178,7 @@
   - [40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)](https://www.wired.com/gallery/best-gifts-under-100/)
   - [6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)](https://www.wired.com/gallery/best-coffee-grinders-2026/)
   - [Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues](https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/)
+  - [Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’](https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/)
   - [B&H Photo Promo Codes and Deals This October 2026](https://www.wired.com/story/bh-photo-coupon/)
   - [Booking.com Promo Codes: 20% Off | October 2026](https://www.wired.com/story/booking-com-promo-code/)
   - [Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him](https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/)
@@ -166,6 +190,7 @@
   - [Nike Promo Codes and Discounts: 30% for October 2026](https://www.wired.com/story/nike-promo-code/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [Squarespace Promo Codes: 20% Off in October 2026](https://www.wired.com/story/squarespace-promo-code/)
+  - [The Apple HomeView Is Like a Giant Apple Watch for the Home](https://www.wired.com/story/apple-homeview-smart-display/)
   - [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/)
   - [What Flock Actually Costs Cities Across the Country](https://www.wired.com/story/how-much-does-flock-actually-cost-cities/)
   - [What’s the Best Kindle of 2026 (So Far)?](https://www.wired.com/gallery/best-kindle/)
