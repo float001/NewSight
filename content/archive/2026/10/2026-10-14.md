@@ -34,10 +34,12 @@
   - [VU#573195: Go, OpenSSL, Apple, LibreSSL, pyca, wolfSSL Name-Constraint Inconsistency in RFC 5280 Implementation](https://kb.cert.org/vuls/id/573195)
 - CoinTelegraph
   - [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fed’s Williams sees AI supply squeeze lasting beyond 2 years](https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger asks resellers to halt sales in Southeast Asia and Hong Kong](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours](https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Starknet introduces wallet privacy feature for DeFi activity](https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports](https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Meta GitHub Breach: Hackers Steal Code, Data of 1,500](https://www.cyberkendra.com/2026/10/meta-github-breach-source-code-1500-employees.html)
@@ -46,6 +48,8 @@
 - CyberNews
   - [From AI-enabled killer drones to AI-made pathogens: MI5 chief warns new era of cyber warfare](https://cybernews.com/ai-news/from-ai-enabled-killer-drones-to-ai-made-pathogens-mi5-chief-warns-of-new-cyberwarfare-era/)
   - [We should be able to turn off the AI, Microsoft’s Brad Smith says](https://cybernews.com/ai-news/we-should-be-able-to-turn-off-the-ai-microsofts-brad-smith-says/)
+- daniel.haxx.se
+  - [curl 8.23.0](https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0/)
 - darkreading
   - [North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)
   - [Ransomware Gangs Embrace Physical Threats, Family Stalking?](https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking)
@@ -69,6 +73,8 @@
   - [英国住房申诉专员调查所调查"安全事件"](http://0.0.0.0:8080/post/64782)
 - krebsonsecurity.com
   - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+- NVIDIA AI Blog
+  - [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/)
 - rtl-sdr.com
   - [BirriaSDR: 2.4 / 5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle](https://www.rtl-sdr.com/birriasdr-2-4-5-ghz-sdr-discovery-on-a-mass-produced-usb3-0-wi-fi-dongle/)
 - simonwillison.net
@@ -150,6 +156,7 @@
   - [我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！](https://www.ifanr.com/1684204?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布](https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [Anthropic请求上诉法院重审关于安全风险认定的纠纷](https://blog.upx8.com/Anthropic%E8%AF%B7%E6%B1%82%E4%B8%8A%E8%AF%89%E6%B3%95%E9%99%A2%E9%87%8D%E5%AE%A1%E5%85%B3%E4%BA%8E%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E8%AE%A4%E5%AE%9A%E7%9A%84%E7%BA%A0%E7%BA%B7)
   - [OpenAI工程师在高管会议室藏录音设备被抓](https://blog.upx8.com/OpenAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E9%AB%98%E7%AE%A1%E4%BC%9A%E8%AE%AE%E5%AE%A4%E8%97%8F%E5%BD%95%E9%9F%B3%E8%AE%BE%E5%A4%87%E8%A2%AB%E6%8A%93)
   - [SpaceXSI将旗下订阅服务捆绑成一项订阅](https://blog.upx8.com/SpaceXSI%E5%B0%86%E6%97%97%E4%B8%8B%E8%AE%A2%E9%98%85%E6%9C%8D%E5%8A%A1%E6%8D%86%E7%BB%91%E6%88%90%E4%B8%80%E9%A1%B9%E8%AE%A2%E9%98%85)
   - [全球Q3手机市场出货量创14年来同期新低](https://blog.upx8.com/%E5%85%A8%E7%90%83Q3%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%88%9B14%E5%B9%B4%E6%9D%A5%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BD%8E)
