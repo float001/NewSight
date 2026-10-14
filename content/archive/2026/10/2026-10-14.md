@@ -4,6 +4,7 @@
   - [2 站里面有没有钓鱼佬](https://2libra.com/post/fishing/f2f6iS1)
   - [AI 真好用，自己做要很复杂的功能，一句话就差不多了](https://2libra.com/post/ai-programming/5bnDlBL)
   - [gemini 4 Argon 3d 场景测试——搭建 3d 乐园](https://2libra.com/post/large-models/syFGqZy)
+  - [gpt 不降智低至 0.13 倍率](https://2libra.com/post/ai-gateway/_J3wFWH)
   - [【建议】帖子表情点击事件优化，避免自己给自己加表情。](https://2libra.com/post/forum-function/b6VL7Od)
   - [【油猴脚本】2libra 头像原样恢复](https://2libra.com/post/browser-extensions/Ax_iEIO)
   - [【读书笔记】文明的冲突与世界秩序的重建 📖📖📖](https://2libra.com/post/good-books/QSWfOkJ)
@@ -19,6 +20,7 @@
   - [关于《杨修之死》的感悟](https://2libra.com/post/workplace-stories/_DSVdye)
   - [发图片疑问？？？](https://2libra.com/post/questions/uEP6s-X)
   - [大家现在的话费是多少？](https://2libra.com/post/small-things/W1s1MUl)
+  - [头七过去，尘埃落定。 懂车帝 VS V800 刹车 事件，你支持谁？](https://2libra.com/post/automobile/QFQQNRq)
   - [拼多多百亿补贴 Macbook Air M5，晃晃悠悠下了车，并不完美。](https://2libra.com/post/worth-buying/tSoeQr4)
   - [接了个外快挣了 200 个 usdt 应该怎么变现呢](https://2libra.com/post/side-business/U4rCMDK)
   - [推特上发现了一个很美的小王子游戏](https://2libra.com/post/game-share/xmqLZ4w)
@@ -41,9 +43,12 @@
   - [Hudson Rock Partners with TRM Labs as a Launch Data Partner for Ardence, the New AI Investigation Platform](https://www.infostealers.com/article/hudson-rock-partners-with-trm-labs-as-a-launch-data-partner-for-ardence-the-new-ai-investigation-platform/)
 - CERT Recently Published Vulnerability Notes
   - [VU#157374: XSS vulnerability in Shopware 6 enables Admin Token Theft and RCE](https://kb.cert.org/vuls/id/157374)
+  - [VU#166125: Bisheng has authentication bypass vulnerabilities](https://kb.cert.org/vuls/id/166125)
   - [VU#382143: Lowcoder Query Library API contains cross-tenant authorization bypass allowing for data exfiltration](https://kb.cert.org/vuls/id/382143)
   - [VU#456950: Komodo Periphery Agent Contains an OS Command Injection Vulnerability](https://kb.cert.org/vuls/id/456950)
   - [VU#573195: Go, OpenSSL, Apple, LibreSSL, pyca, wolfSSL Name-Constraint Inconsistency in RFC 5280 Implementation](https://kb.cert.org/vuls/id/573195)
+- Chainalysis Blog
+  - [North America: Inside the Growth of Agentic Commerce](https://www.chainalysis.com/blog/north-america-crypto-adoption-2026/)
 - CoinTelegraph
   - [Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author](https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -53,8 +58,10 @@
   - [Fed’s Williams sees AI supply squeeze lasting beyond 2 years](https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion](https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger asks resellers to halt sales in Southeast Asia and Hong Kong](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours](https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Qivalis receives EMI authorization from Dutch central bank for euro stablecoin](https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case](https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Starknet introduces wallet privacy feature for DeFi activity](https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,6 +73,7 @@
 - CyberNews
   - [Ahold Delhaize reports no evidence of stolen customer data as systems are rebooted](https://cybernews.com/news/ahold-delhaize-cyberattack/)
   - [Apple launches new smart home devices, but users are busy joking about its $9 polishing cloth](https://cybernews.com/news/apple-smart-home-devices-launch-polishing-cloth/)
+  - [Apple Music ditches iconic red logo, and users are not having it](https://cybernews.com/news/apple-music-logo-change-ios-android/)
   - [Careless hacker leaves gift card fraud blueprint open: What did we learn?](https://cybernews.com/security/exposed-server-gift-card-fraud-operation-analysis/)
   - [Dutch nonprofit takes Meta to court over controversial AI glasses](https://cybernews.com/news/meta-glasses-lawsuit/)
   - [FBI arrests Saudi OpenAI engineer over covert recording device](https://cybernews.com/ai-news/openai-recording-device-found-fbi-arrest/)
@@ -76,6 +84,9 @@
   - [Hackers could steal OpenAI, Anthropic keys through LiteLLM bugs](https://cybernews.com/security/litellm-critical-vulnerabilities-found/)
   - [JPMorgan blocks outside AI agents from customer accounts](https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/)
   - [Microsoft fixes 1,400+ vulnerabilities in October, exceeding 2025’s annual total](https://cybernews.com/security/microsoft-massive-security-update-1400-vulnerabilities/)
+  - [NEW: H&M faces data leak threat as suspected breach trail leads to warehouse supplier](https://cybernews.com/security/h-m-faces-third-party-data-breach-greyorange/)
+  - [OpenAI CFO: “Don't let your own insecurities hold you back”](https://cybernews.com/ai-news/openai-cfo-ai-summit-dublin-keynote/)
+  - [OpenAI claims its AI busted a spying employee, but that might not be true](https://cybernews.com/news/openai-internal-models-employee-arrest/)
   - [Personal data stolen from Meta’s GitHub: Why was it even there?](https://cybernews.com/security/meta-hack-github-personal-data/)
   - [Revolut data breach may be linked to $800,000 robbery](https://cybernews.com/security/revolut-data-breach-crypto-robbery/)
   - [TERMS AND CONDITIONS  OF CYBERNEWS READER’S CHOICE AWARDS 2026](https://cybernews.com/terms-and-conditions-of-cybernews-readers-choice-awards-2026/)
@@ -112,6 +123,7 @@
   - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
   - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
   - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
+  - [The Aaronson Oracle](https://aaronsonoracle.com/)
   - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
   - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
 - HackerNews
@@ -128,10 +140,16 @@
   - [A generalization of the Pythagorean theorem](https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/)
 - krebsonsecurity.com
   - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+- MIT Technology Review
+  - [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [【漏洞预警】GitLab CI/CD 正则表达式编译器未授权远程代码...](https://nosec.org/home/detail/6737.html)
 - NVIDIA AI Blog
   - [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/)
+- Pen Test Partners
+  - [You don’t need a nation state to warm up a fridge](https://www.pentestpartners.com/security-blog/you-dont-need-a-nation-state-to-warm-up-a-fridge/)
+- Recent Commits to cve:main
+  - [Update Wed Oct 14 12:44:51 UTC 2026](https://github.com/trickest/cve/commit/b9cd2e1f7d8ee35ad271b55a8d08abed14a096ec)
 - rtl-sdr.com
   - [BirriaSDR: 2.4 / 5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle](https://www.rtl-sdr.com/birriasdr-2-4-5-ghz-sdr-discovery-on-a-mass-produced-usb3-0-wi-fi-dongle/)
 - shkspr.mobi
@@ -163,11 +181,14 @@
   - [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
 - The Block
   - [Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)
+  - [DriveWealth to use Ripple’s RLUSD for stablecoin settlement, cross-border payments](https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479)
   - [Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work](https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503)
   - [How Bitcoin Works](https://www.theblock.co/learn/campus/how-bitcoin-works-417659)
+  - [Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states](https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518)
   - [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463)
 - The Decoder
   - [406 scientists demand AI models be cut off from the internet immediately](https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/)
+  - [Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account](https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/)
   - [Gemini 4 Argon is now available worldwide as Google's most capable frontier model](https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/)
   - [Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as "grand moralizing performance"](https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/)
 - The Verge
@@ -232,6 +253,7 @@
   - [我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！](https://www.ifanr.com/1684204?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布](https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [纯电续航破千！比亚迪大汉 23.59 万元起，看齐全尺寸行政旗舰](https://www.ifanr.com/1684288?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果 HomeView 上手汇总：「果家」首秀小惊艳，SiriAI 很聪明](https://www.ifanr.com/1684341?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [超前剧透 | 驭智·HARNESS：以智慧安全重构攻防新秩序](https://blog.nsfocus.net/%e8%b6%85%e5%89%8d%e5%89%a7%e9%80%8f-%e9%a9%ad%e6%99%ba%c2%b7harness%ef%bc%9a%e4%bb%a5%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e9%87%8d%e6%9e%84%e6%94%bb%e9%98%b2%e6%96%b0%e7%a7%a9%e5%ba%8f/)
 - 量子位 QbitAI
