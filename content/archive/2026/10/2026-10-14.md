@@ -35,6 +35,7 @@
   - [雷总余总二人相声](https://2libra.com/post/hotspot-tracking/XotpDE0)
   - [鸿蒙原生零基础，被 GPT 生成的代码整懵后，我用 WorkBuddy 做了份三端对比教程](https://2libra.com/post/mobile-development/zAqPNbZ)
 - 404 Media
+  - [Character.ai Bankruptcy Is First AI Bubble Domino to Fall](https://www.404media.co/character-ai-bankruptcy-is-first-ai-bubble-domino-to-fall/)
   - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
   - [Dubstep and BookTok, a perfect match?](https://www.404media.co/dubstep-and-booktok-a-perfect-match/)
   - [The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’](https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/)
@@ -51,6 +52,7 @@
 - Chainalysis Blog
   - [North America: Inside the Growth of Agentic Commerce](https://www.chainalysis.com/blog/north-america-crypto-adoption-2026/)
 - CoinTelegraph
+  - [Bitcoin price dips below $82K as high oil prices spike US CPI inflation](https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author](https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Can crypto users trust the supply chain behind hardware wallets?](https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -71,6 +73,8 @@
 - CoinTelegraph Security
   - [‘Bunker mode’ won’t protect your crypto, critics say](https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [6 Limits of AI Ad-Blocking Metrics That Researchers Should Know](https://www.cyberkendra.com/2026/10/6-limits-of-ai-ad-blocking-metrics-that-researchers-should-know.html)
+  - [Low-Altitude Airspace Has an Identification Problem](https://www.cyberkendra.com/2026/10/low-altitude-airspace-has-an-identification-problem.html)
   - [Meta GitHub Breach: Hackers Steal Code, Data of 1,500](https://www.cyberkendra.com/2026/10/meta-github-breach-source-code-1500-employees.html)
   - [OpenAI Engineer Arrested Over Hidden Recording Device](https://www.cyberkendra.com/2026/10/openai-engineer-arrested-recording-device.html)
   - [Vibetech Database Exposed 13.7M Breached Credentials](https://www.cyberkendra.com/2026/10/vibetech-database-exposed-13-7m-breached-credentials.html)
@@ -120,6 +124,7 @@
   - [AI Laser Locking for Quantum Computers: How QuEra Automates It](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers)
   - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
   - [Apple: Switch to Safari (From Chrome)](https://www.apple.com/safari/switch/)
+  - [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
   - [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
   - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
   - [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)
@@ -148,6 +153,7 @@
   - [A generalization of the Pythagorean theorem](https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/)
 - krebsonsecurity.com
   - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+  - [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
 - MIT Technology Review
   - [The Download: faking blood and the future of batteries](https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/)
 - NOSEC 安全讯息平台 - 漏洞预警
@@ -172,6 +178,7 @@
   - [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/)
   - [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
   - [FBI arrests OpenAI employee accused of planting hidden recording device in conference room](https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/)
+  - [Floqer’s AI agents research sales prospects so teams don’t have to](https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/)
   - [Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads](https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/)
   - [Google Play now supports private, vibe-coded apps built just for you](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/)
   - [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/)
@@ -181,6 +188,7 @@
   - [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
   - [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/)
   - [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
+  - [Netflix to lay off 1,000 staff amid intensifying competition for user attention](https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/)
   - [Niobia takes the guesswork out of some of tech’s most expensive mistakes](https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/)
   - [NTangible bets it can predict how athletes will perform under pressure](https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/)
   - [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
@@ -188,6 +196,7 @@
   - [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
   - [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
   - [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
+  - [TechCrunch Disrupt 2026: Day 2](https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/)
 - The Block
   - [BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform](https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534)
   - [Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)
@@ -196,14 +205,19 @@
   - [How Bitcoin Works](https://www.theblock.co/learn/campus/how-bitcoin-works-417659)
   - [Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states](https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518)
   - [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463)
+  - [StarkWare launches OffMarket to let Polymarket users trade more privately](https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567)
   - [Strategy’s preferred stock financing may cost it bitcoin, K33 argues](https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543)
+  - [Strive buys $235 million in bitcoin as warrant exercises yield $369 million](https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556)
 - The Decoder
   - [406 scientists demand AI models be cut off from the internet immediately](https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/)
   - [AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap](https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/)
   - [Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account](https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/)
   - [Gemini 4 Argon is now available worldwide as Google's most capable frontier model](https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/)
   - [Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as "grand moralizing performance"](https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/)
+  - [Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs](https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/)
 - The Verge
+  - [$15 gets you Psychonauts 2, the latest Like a Dragon game, and more](https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale)
+  - [Apple&#8217;s new Find My-compatible remote will also work with your old Apple TV](https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my)
   - [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction)
   - [Epic is bringing Fortnite to Linux](https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat)
   - [Epic&#8217;s new games launcher is ‘vibe coded’](https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux)
