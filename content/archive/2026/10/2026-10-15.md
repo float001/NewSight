@@ -11,6 +11,9 @@
 - Cyber Kendra
   - [curl Patches High-Severity HTTP/2 Use-After-Free Flaw](https://www.cyberkendra.com/2026/10/curl-cve-2026-92392-http2-use-after-free.html)
 - Hacker News Frontpage
+  - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
+  - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
+  - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
   - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
@@ -37,20 +40,30 @@
   - [wapiti exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WAPITI-SCANNER-WAPITI&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)
+  - [Hiyd is a health tracker that attaches to the watch you already wear](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/)
   - [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/)
   - [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)
+  - [YouTube Music launches new labels as AI-generated music floods streaming platforms](https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/)
 - The Block
   - [Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
+  - [Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month](https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598)
   - [‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
 - The Decoder
   - [OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work](https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/)
+  - [Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it](https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/)
 - The Verge
   - [Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS](https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds)
   - [Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon](https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale)
+  - [As a TV enthusiast, I was hoping for more from the Apple TV 4K](https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features)
   - [Honey, Xbox shrunk its controller](https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing)
+  - [Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy)
   - [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)
   - [Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone](https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare)
+  - [Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more](https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale)
   - [Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod](https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod)
+  - [YouTube sticks new labels on AI-generated songs](https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label)
+- Wired
+  - [AI Came for Math. Now It’s Chasing the Rest of Science](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
