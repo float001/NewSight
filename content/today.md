@@ -19,11 +19,13 @@
   - [关于《杨修之死》的感悟](https://2libra.com/post/workplace-stories/_DSVdye)
   - [发图片疑问？？？](https://2libra.com/post/questions/uEP6s-X)
   - [大家现在的话费是多少？](https://2libra.com/post/small-things/W1s1MUl)
+  - [拼多多百亿补贴 Macbook Air M5，晃晃悠悠下了车，并不完美。](https://2libra.com/post/worth-buying/tSoeQr4)
   - [接了个外快挣了 200 个 usdt 应该怎么变现呢](https://2libra.com/post/side-business/U4rCMDK)
   - [推特上发现了一个很美的小王子游戏](https://2libra.com/post/game-share/xmqLZ4w)
   - [有没有什么好玩的推荐](https://2libra.com/post/touch-fish/2hMLpmN)
   - [求一个 v2 邀请码](https://2libra.com/post/invite-code/l3r-9Bc)
   - [没什么事，就想你们看看我的炫彩边框](https://2libra.com/post/forum-function/jKUvm2a)
+  - [看外面的月亮，和观月徽章匹配呢](https://2libra.com/post/forum-function/XS1RN07)
   - [站长紧跟时事哦](https://2libra.com/post/forum-function/ozkVprK)
   - [记录一下自己重感冒的过程](https://2libra.com/post/personal-life/BUk3G0e)
   - [这两天才理解了科目一里面“利用发动机制动减速”是怎么意思](https://2libra.com/post/motorcycle/xXreGBd)
@@ -45,6 +47,7 @@
 - CoinTelegraph
   - [Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author](https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Can crypto users trust the supply chain behind hardware wallets?](https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coins.ph says Philippine central bank license intact amid revocation claims](https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid](https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed’s Williams sees AI supply squeeze lasting beyond 2 years](https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -68,11 +71,15 @@
   - [FBI arrests Saudi OpenAI engineer over covert recording device](https://cybernews.com/ai-news/openai-recording-device-found-fbi-arrest/)
   - [From AI-enabled killer drones to AI-made pathogens: MI5 chief warns new era of cyber warfare](https://cybernews.com/ai-news/from-ai-enabled-killer-drones-to-ai-made-pathogens-mi5-chief-warns-of-new-cyberwarfare-era/)
   - [Google's developer website had a remote code execution flaw worth $90,000](https://cybernews.com/news/google-paid-90000-devsite-cookie-rce-bug/)
+  - [Google’s AI prodigy drops major warning in Dublin: “AI systems are not healthy yet”](https://cybernews.com/security/googles-ai-prodigy-drops-major-warning-in-dublin/)
   - [Hackers could disable your local supermarket fridge for just $6](https://cybernews.com/ai-news/hackers-disable-supermarket-fridge-claude-ai-costs-6-dollars/)
+  - [Hackers could steal OpenAI, Anthropic keys through LiteLLM bugs](https://cybernews.com/security/litellm-critical-vulnerabilities-found/)
   - [JPMorgan blocks outside AI agents from customer accounts](https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/)
   - [Microsoft fixes 1,400+ vulnerabilities in October, exceeding 2025’s annual total](https://cybernews.com/security/microsoft-massive-security-update-1400-vulnerabilities/)
   - [Personal data stolen from Meta’s GitHub: Why was it even there?](https://cybernews.com/security/meta-hack-github-personal-data/)
   - [Revolut data breach may be linked to $800,000 robbery](https://cybernews.com/security/revolut-data-breach-crypto-robbery/)
+  - [TERMS AND CONDITIONS  OF CYBERNEWS READER’S CHOICE AWARDS 2026](https://cybernews.com/terms-and-conditions-of-cybernews-readers-choice-awards-2026/)
+  - [Ubiquiti patches high-severity security bugs in its security appliance AI Key](https://cybernews.com/security/ubiquiti-ai-key-vulnerabilities-security-advisory/)
   - [Ukraine says their troops suddenly face restrictions over Starlink access](https://cybernews.com/news/ukraine-troops-starlink-access-restricted/)
   - [We should be able to turn off the AI, Microsoft’s Brad Smith says](https://cybernews.com/ai-news/we-should-be-able-to-turn-off-the-ai-microsofts-brad-smith-says/)
   - [Yandex data center attacks are a PR coup for Ukraine, but global cybersecurity remains volatile](https://cybernews.com/editorial/yandex-data-center-attacks/)
@@ -85,6 +92,8 @@
   - [North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)
   - [Ransomware Gangs Embrace Physical Threats, Family Stalking?](https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking)
   - [Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday](https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday)
+- Fidelis Security
+  - [Top Deception Technology Solutions to Consider in 2027](https://fidelissecurity.com/threatgeek/deception/top-deception-technology-solutions/)
 - Google DeepMind Blog
   - [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
   - [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
@@ -115,6 +124,8 @@
   - [French Supermarket Cyber-Attack Impacts More Refrigeration Controllers](https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/)
   - [Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs](https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/)
   - [Passkey Authentications Double but Adoption Remains Slow](https://www.infosecurity-magazine.com/news/passkey-authentications-double/)
+- johndcook.com
+  - [A generalization of the Pythagorean theorem](https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/)
 - krebsonsecurity.com
   - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 - NOSEC 安全讯息平台 - 漏洞预警
@@ -123,6 +134,8 @@
   - [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/)
 - rtl-sdr.com
   - [BirriaSDR: 2.4 / 5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle](https://www.rtl-sdr.com/birriasdr-2-4-5-ghz-sdr-discovery-on-a-mass-produced-usb3-0-wi-fi-dongle/)
+- shkspr.mobi
+  - [The Internet of Very Cheap Things](https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/)
 - simonwillison.net
   - [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)
 - Sploitus.com Exploits RSS Feed
@@ -150,6 +163,8 @@
   - [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
 - The Block
   - [Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)
+  - [Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work](https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503)
+  - [How Bitcoin Works](https://www.theblock.co/learn/campus/how-bitcoin-works-417659)
   - [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463)
 - The Decoder
   - [406 scientists demand AI models be cut off from the internet immediately](https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/)
@@ -232,5 +247,6 @@
   - [全球Q3手机市场出货量创14年来同期新低](https://blog.upx8.com/%E5%85%A8%E7%90%83Q3%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%88%9B14%E5%B9%B4%E6%9D%A5%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BD%8E)
   - [特斯拉因无人驾驶出租车在学区超速指控面临美监管机构调查](https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%A0%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%9C%A8%E5%AD%A6%E5%8C%BA%E8%B6%85%E9%80%9F%E6%8C%87%E6%8E%A7%E9%9D%A2%E4%B8%B4%E7%BE%8E%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%B0%83%E6%9F%A5)
   - [谷歌宣布Gemini 4 Argon模型全面上架](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83Gemini-4-Argon%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%9D%A2%E4%B8%8A%E6%9E%B6)
+  - [辣酱企业老干妈已经完成工厂智能化升级](https://blog.upx8.com/%E8%BE%A3%E9%85%B1%E4%BC%81%E4%B8%9A%E8%80%81%E5%B9%B2%E5%A6%88%E5%B7%B2%E7%BB%8F%E5%AE%8C%E6%88%90%E5%B7%A5%E5%8E%82%E6%99%BA%E8%83%BD%E5%8C%96%E5%8D%87%E7%BA%A7)
   - [韩国就极氪个人信息保护方案展开调查](https://blog.upx8.com/%E9%9F%A9%E5%9B%BD%E5%B0%B1%E6%9E%81%E6%B0%AA%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4%E6%96%B9%E6%A1%88%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5)
   - [马斯克宣称Terafab一年制造和测试10款芯片](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0Terafab%E4%B8%80%E5%B9%B4%E5%88%B6%E9%80%A0%E5%92%8C%E6%B5%8B%E8%AF%9510%E6%AC%BE%E8%8A%AF%E7%89%87)
