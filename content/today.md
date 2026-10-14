@@ -1,7 +1,16 @@
 # 今日安全资讯（2026-10-14）
 
 - 2Libra
+  - [【建议】帖子表情点击事件优化，避免自己给自己加表情。](https://2libra.com/post/forum-function/b6VL7Od)
+  - [【油猴脚本】2libra 头像原样恢复](https://2libra.com/post/browser-extensions/Ax_iEIO)
+  - [【读书笔记】文明的冲突与世界秩序的重建 📖📖📖](https://2libra.com/post/good-books/QSWfOkJ)
+  - [【💰】都听我说！评论收益最大徽章到手。](https://2libra.com/post/forum-function/--y5Mf6)
+  - [上班路上看到一辆“摩托车”帅我一脸](https://2libra.com/post/motorcycle/VRcp-wU)
   - [关于《杨修之死》的感悟](https://2libra.com/post/workplace-stories/_DSVdye)
+  - [接了个外快挣了 200 个 usdt 应该怎么变现呢](https://2libra.com/post/side-business/U4rCMDK)
+  - [求一个 v2 邀请码](https://2libra.com/post/invite-code/l3r-9Bc)
+  - [站长紧跟时事哦](https://2libra.com/post/forum-function/ozkVprK)
+  - [这两天才理解了科目一里面“利用发动机制动减速”是怎么意思](https://2libra.com/post/motorcycle/xXreGBd)
 - 404 Media
   - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
   - [Dubstep and BookTok, a perfect match?](https://www.404media.co/dubstep-and-booktok-a-perfect-match/)
@@ -55,6 +64,7 @@
   - [Helix Carbon says it can make iron cheaper by recycling blast furnace pollution](https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/)
   - [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
   - [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
+  - [Justice Department says North Koreans have infiltrated dozens of U.S. companies](https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/)
   - [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/)
   - [Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/)
   - [MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt](https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/)
@@ -93,6 +103,7 @@
   - [The 9 Best Movies to Stream This Month (October 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 不安全
   - [NTDLL-reconstruction](https://buaq.net/go-448162.html)
+  - [韩国监管机构批准屏蔽抹茶和KuCoin等27家加密货币交易所 原因都是未向监管申报](https://buaq.net/go-448167.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
