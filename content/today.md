@@ -2,27 +2,55 @@
 
 - 2Libra
   - [【文案优化】0 点查看昨天的数据，提示明天查看。](https://2libra.com/post/community/ZoJR7i1)
+  - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
 - 404 Media
   - [There’s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot](https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/)
 - CoinTelegraph
   - [Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US authorities dismantle crypto scam network that stole tens of millions](https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [curl Patches High-Severity HTTP/2 Use-After-Free Flaw](https://www.cyberkendra.com/2026/10/curl-cve-2026-92392-http2-use-after-free.html)
+- Hacker News Frontpage
+  - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
+- IEEE Spectrum
+  - [IEEE Continues Preparations for the Realignment of Its Regions](https://spectrum.ieee.org/realignment-ieee-regions)
+- johndcook.com
+  - [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/)
 - simonwillison.net
   - [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/)
+- Sploitus.com Exploits RSS Feed
+  - [CVE-2024-24576-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AYDINNYUNUS-CVE-2024-24576-EXPLOIT&utm_source=rss&utm_medium=rss)
+  - [CVE-2024-4577-RCE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GH-OST00-CVE-2024-4577-RCE&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-14172-Nuclei-Template exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ROOTHARPY-CVE-2025-14172-NUCLEI-TEMPLATE&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-29927-PoC-Exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WEBSECNL-CVE-2025-29927-POC-EXPLOIT&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-4257 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DANN3XPLO1T-CVE-2026-4257&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-43503 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LIEEHRDIANSYAH12-CVE-2026-43503&utm_source=rss&utm_medium=rss)
+  - [cyberpanel exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-USMANNASIR-CYBERPANEL&utm_source=rss&utm_medium=rss)
+  - [disclo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHAELSOO-DISCLO&utm_source=rss&utm_medium=rss)
+  - [litesploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RISWANDANS-LITESPLOIT&utm_source=rss&utm_medium=rss)
+  - [msticpy exploit](https://sploitus.com/exploit?id=KITPLOIT:564329590529561601&utm_source=rss&utm_medium=rss)
+  - [postEX exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NIKER-LIXY-POSTEX&utm_source=rss&utm_medium=rss)
+  - [rt_redirectors exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TEVORA-THREAT-RT_REDIRECTORS&utm_source=rss&utm_medium=rss)
+  - [trivy-action exploit](https://sploitus.com/exploit?id=KITPLOIT:7323577050718865961&utm_source=rss&utm_medium=rss)
+  - [wapiti exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WAPITI-SCANNER-WAPITI&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)
   - [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/)
   - [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)
 - The Block
   - [Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
+  - [‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
 - The Decoder
   - [OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work](https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/)
 - The Verge
+  - [Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS](https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds)
+  - [Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon](https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale)
   - [Honey, Xbox shrunk its controller](https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing)
   - [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)
   - [Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone](https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare)
+  - [Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod](https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
