@@ -16,6 +16,7 @@
   - [大家现在的话费是多少？](https://2libra.com/post/small-things/W1s1MUl)
   - [接了个外快挣了 200 个 usdt 应该怎么变现呢](https://2libra.com/post/side-business/U4rCMDK)
   - [推特上发现了一个很美的小王子游戏](https://2libra.com/post/game-share/xmqLZ4w)
+  - [有没有什么好玩的推荐](https://2libra.com/post/touch-fish/2hMLpmN)
   - [求一个 v2 邀请码](https://2libra.com/post/invite-code/l3r-9Bc)
   - [站长紧跟时事哦](https://2libra.com/post/forum-function/ozkVprK)
   - [记录一下自己重感冒的过程](https://2libra.com/post/personal-life/BUk3G0e)
@@ -46,9 +47,11 @@
   - [OpenAI Engineer Arrested Over Hidden Recording Device](https://www.cyberkendra.com/2026/10/openai-engineer-arrested-recording-device.html)
   - [Vibetech Database Exposed 13.7M Breached Credentials](https://www.cyberkendra.com/2026/10/vibetech-database-exposed-13-7m-breached-credentials.html)
 - CyberNews
+  - [FBI arrests Saudi OpenAI engineer over covert recording device](https://cybernews.com/ai-news/openai-recording-device-found-fbi-arrest/)
   - [From AI-enabled killer drones to AI-made pathogens: MI5 chief warns new era of cyber warfare](https://cybernews.com/ai-news/from-ai-enabled-killer-drones-to-ai-made-pathogens-mi5-chief-warns-of-new-cyberwarfare-era/)
   - [We should be able to turn off the AI, Microsoft’s Brad Smith says](https://cybernews.com/ai-news/we-should-be-able-to-turn-off-the-ai-microsofts-brad-smith-says/)
 - daniel.haxx.se
+  - [A UAF turned RCE](https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/)
   - [curl 8.23.0](https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0/)
 - darkreading
   - [North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)
@@ -60,6 +63,7 @@
   - [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
 - Hacker News Frontpage
   - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
+  - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
   - [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
   - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
   - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
@@ -153,8 +157,13 @@
   - [‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家](https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一加 16 体验：收敛锐气，依然是「不出错」的旗舰](https://www.ifanr.com/1684097?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了](https://www.ifanr.com/1684200?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了](https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！](https://www.ifanr.com/1684204?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布](https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [纯电续航破千！比亚迪大汉 23.59 万元起，看齐全尺寸行政旗舰](https://www.ifanr.com/1684288?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片](https://www.qbitai.com/2026/10/503198.html)
+  - [STEPX首款大模型原生智能体手机STEPX Neo正式发布](https://www.qbitai.com/2026/10/503201.html)
 - 黑海洋
   - [Anthropic请求上诉法院重审关于安全风险认定的纠纷](https://blog.upx8.com/Anthropic%E8%AF%B7%E6%B1%82%E4%B8%8A%E8%AF%89%E6%B3%95%E9%99%A2%E9%87%8D%E5%AE%A1%E5%85%B3%E4%BA%8E%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E8%AE%A4%E5%AE%9A%E7%9A%84%E7%BA%A0%E7%BA%B7)
   - [OpenAI工程师在高管会议室藏录音设备被抓](https://blog.upx8.com/OpenAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E9%AB%98%E7%AE%A1%E4%BC%9A%E8%AE%AE%E5%AE%A4%E8%97%8F%E5%BD%95%E9%9F%B3%E8%AE%BE%E5%A4%87%E8%A2%AB%E6%8A%93)
