@@ -5,11 +5,16 @@
   - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
 - 404 Media
   - [There’s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot](https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/)
+- Ars Technica
+  - [Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer](https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/)
 - CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US authorities dismantle crypto scam network that stole tens of millions](https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [curl Patches High-Severity HTTP/2 Use-After-Free Flaw](https://www.cyberkendra.com/2026/10/curl-cve-2026-92392-http2-use-after-free.html)
+- Emergent Minds | paddo.dev
+  - [Cheaper Per Token, Dearer Per Fix: Gemini 4 Argon vs Opus 5.5 on Real Code](https://paddo.dev/blog/gemini-4-argon/)
 - Hacker News Frontpage
   - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
   - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
@@ -39,16 +44,19 @@
   - [trivy-action exploit](https://sploitus.com/exploit?id=KITPLOIT:7323577050718865961&utm_source=rss&utm_medium=rss)
   - [wapiti exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WAPITI-SCANNER-WAPITI&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers](https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/)
   - [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)
   - [Hiyd is a health tracker that attaches to the watch you already wear](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/)
   - [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/)
   - [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)
+  - [TimeTeller puts our internal clocks at the center of personalized medicine](https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/)
   - [YouTube Music launches new labels as AI-generated music floods streaming platforms](https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/)
 - The Block
   - [Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
   - [Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month](https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598)
   - [‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
 - The Decoder
+  - [Google says self-improving AI isn't anywhere close](https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/)
   - [OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work](https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/)
   - [Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it](https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/)
 - The Verge
@@ -61,6 +69,7 @@
   - [Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone](https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare)
   - [Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more](https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale)
   - [Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod](https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod)
+  - [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)
   - [YouTube sticks new labels on AI-generated songs](https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label)
 - Wired
   - [AI Came for Math. Now It’s Chasing the Rest of Science](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
