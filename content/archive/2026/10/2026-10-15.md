@@ -9,6 +9,8 @@
   - [Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer](https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/)
   - [Schools across US protest FCC plan that could disconnect kids from Internet](https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/)
   - [Things are finally looking up for NASA's first missions to Venus in a generation](https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/)
+- Black Hills Information Security
+  - [The Threat Hunting Flywheel: Why Threat Hunting Isn’t About Finding Bad Things](https://www.blackhillsinfosec.com/threat-hunting-fly-wheel/)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Organizations join forces to fight Illinois crypto tax, after 6-month pause](https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,6 +22,9 @@
   - [The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room](https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai)
 - darkreading
   - [Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat](https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat)
+  - [Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles](https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching)
+- Der Flounder
+  - [Determining log retention periods for macOS unified logging](https://derflounder.wordpress.com/2026/10/14/determining-log-retention-periods-for-macos-unified-logging/)
 - Emergent Minds | paddo.dev
   - [Cheaper Per Token, Dearer Per Fix: Gemini 4 Argon vs Opus 5.5 on Real Code](https://paddo.dev/blog/gemini-4-argon/)
 - Hacker News Frontpage
@@ -28,6 +33,7 @@
   - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
   - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
   - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
+  - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
   - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
@@ -46,6 +52,7 @@
   - [CVE-2026-43503 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LIEEHRDIANSYAH12-CVE-2026-43503&utm_source=rss&utm_medium=rss)
   - [cyberpanel exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-USMANNASIR-CYBERPANEL&utm_source=rss&utm_medium=rss)
   - [disclo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHAELSOO-DISCLO&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Read in Polkit_Project Polkit](https://sploitus.com/exploit?id=B1D12055-E7EC-54A2-A5D7-0DDD25CD77DD&utm_source=rss&utm_medium=rss)
   - [litesploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RISWANDANS-LITESPLOIT&utm_source=rss&utm_medium=rss)
   - [msticpy exploit](https://sploitus.com/exploit?id=KITPLOIT:564329590529561601&utm_source=rss&utm_medium=rss)
   - [postEX exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NIKER-LIXY-POSTEX&utm_source=rss&utm_medium=rss)
@@ -54,10 +61,13 @@
   - [trivy-action exploit](https://sploitus.com/exploit?id=KITPLOIT:7323577050718865961&utm_source=rss&utm_medium=rss)
   - [wapiti exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WAPITI-SCANNER-WAPITI&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO](https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/)
   - [Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers](https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/)
   - [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)
+  - [CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/)
   - [Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/)
   - [Electric vehicle sales in the US are showing signs of life](https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/)
+  - [Flock CEO says its microphones detect ‘just gunshots’ — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
   - [Flock CEO: We haven’t ‘fired’ any police departments as customers](https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/)
   - [Hiyd is a health tracker that attaches to the watch you already wear](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/)
   - [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/)
@@ -77,6 +87,7 @@
   - [Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS](https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds)
   - [Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon](https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale)
   - [As a TV enthusiast, I was hoping for more from the Apple TV 4K](https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features)
+  - [Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)
   - [Honey, Xbox shrunk its controller](https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing)
   - [Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy)
   - [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)
@@ -84,6 +95,7 @@
   - [Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more](https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale)
   - [Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod](https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod)
   - [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)
+  - [The best feature of Apple’s HomeView might be its simplicity](https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature)
   - [YouTube sticks new labels on AI-generated songs](https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label)
 - Wired
   - [AI Came for Math. Now It’s Chasing the Rest of Science](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
