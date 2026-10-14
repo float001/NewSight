@@ -4,13 +4,20 @@
   - [【建议】帖子表情点击事件优化，避免自己给自己加表情。](https://2libra.com/post/forum-function/b6VL7Od)
   - [【油猴脚本】2libra 头像原样恢复](https://2libra.com/post/browser-extensions/Ax_iEIO)
   - [【读书笔记】文明的冲突与世界秩序的重建 📖📖📖](https://2libra.com/post/good-books/QSWfOkJ)
+  - [【运动打卡】第 5️⃣天，记录一下](https://2libra.com/post/small-things/Pbxp91D)
+  - [【💰】最近出来个杂交车之父](https://2libra.com/post/hotspot-tracking/yEXmVKQ)
   - [【💰】都听我说！评论收益最大徽章到手。](https://2libra.com/post/forum-function/--y5Mf6)
   - [上班路上看到一辆“摩托车”帅我一脸](https://2libra.com/post/motorcycle/VRcp-wU)
+  - [下次发帖配个自己喜欢的 🎵️，播放器好像没办法插入？](https://2libra.com/post/community/-YUDVrc)
+  - [你们多久换一次内裤？](https://2libra.com/post/personal-life/ubvKgkq)
   - [关于《杨修之死》的感悟](https://2libra.com/post/workplace-stories/_DSVdye)
+  - [大家现在的话费是多少？](https://2libra.com/post/small-things/W1s1MUl)
   - [接了个外快挣了 200 个 usdt 应该怎么变现呢](https://2libra.com/post/side-business/U4rCMDK)
+  - [推特上发现了一个很美的小王子游戏](https://2libra.com/post/game-share/xmqLZ4w)
   - [求一个 v2 邀请码](https://2libra.com/post/invite-code/l3r-9Bc)
   - [站长紧跟时事哦](https://2libra.com/post/forum-function/ozkVprK)
   - [这两天才理解了科目一里面“利用发动机制动减速”是怎么意思](https://2libra.com/post/motorcycle/xXreGBd)
+  - [雷总余总二人相声](https://2libra.com/post/hotspot-tracking/XotpDE0)
 - 404 Media
   - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
   - [Dubstep and BookTok, a perfect match?](https://www.404media.co/dubstep-and-booktok-a-perfect-match/)
@@ -23,6 +30,7 @@
   - [VU#456950: Komodo Periphery Agent Contains an OS Command Injection Vulnerability](https://kb.cert.org/vuls/id/456950)
   - [VU#573195: Go, OpenSSL, Apple, LibreSSL, pyca, wolfSSL Name-Constraint Inconsistency in RFC 5280 Implementation](https://kb.cert.org/vuls/id/573195)
 - CoinTelegraph
+  - [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger asks resellers to halt sales in Southeast Asia and Hong Kong](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -30,6 +38,7 @@
   - [Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports](https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Meta GitHub Breach: Hackers Steal Code, Data of 1,500](https://www.cyberkendra.com/2026/10/meta-github-breach-source-code-1500-employees.html)
+  - [OpenAI Engineer Arrested Over Hidden Recording Device](https://www.cyberkendra.com/2026/10/openai-engineer-arrested-recording-device.html)
   - [Vibetech Database Exposed 13.7M Breached Credentials](https://www.cyberkendra.com/2026/10/vibetech-database-exposed-13-7m-breached-credentials.html)
 - CyberNews
   - [From AI-enabled killer drones to AI-made pathogens: MI5 chief warns new era of cyber warfare](https://cybernews.com/ai-news/from-ai-enabled-killer-drones-to-ai-made-pathogens-mi5-chief-warns-of-new-cyberwarfare-era/)
@@ -50,11 +59,14 @@
   - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
 - krebsonsecurity.com
   - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
+- rtl-sdr.com
+  - [BirriaSDR: 2.4 / 5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle](https://www.rtl-sdr.com/birriasdr-2-4-5-ghz-sdr-discovery-on-a-mass-produced-usb3-0-wi-fi-dongle/)
 - simonwillison.net
   - [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-82957](https://sploitus.com/exploit?id=901105EE-4605-58B2-A135-A14EAEA54619&utm_source=rss&utm_medium=rss)
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=131683E4-EA40-5B57-A2DB-F1D0F121867C&utm_source=rss&utm_medium=rss)
+  - [漏洞库 exploit](https://sploitus.com/exploit?id=4AB48DC7-B20C-5EBF-B3E1-327F68AB0BDA&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Cambridge Heavy Industries has been quietly building a desktop fusion device](https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/)
   - [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
@@ -74,6 +86,7 @@
   - [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
   - [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
 - The Block
+  - [Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)
   - [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463)
 - The Decoder
   - [406 scientists demand AI models be cut off from the internet immediately](https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/)
@@ -94,6 +107,7 @@
   - [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
 - Vulners.com RSS Feed
   - [nuclei-templates](https://vulners.com/gitee/131683E4-EA40-5B57-A2DB-F1D0F121867C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [漏洞库](https://vulners.com/gitee/4AB48DC7-B20C-5EBF-B3E1-327F68AB0BDA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Annualized Enron Rate](https://www.wheresyoured.at/annualized-enron-rate/)
 - Wired
@@ -102,14 +116,20 @@
   - [OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)
   - [The 9 Best Movies to Stream This Month (October 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
 - 不安全
+  - [BirriaSDR: 2.4 / 5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle](https://buaq.net/go-448174.html)
   - [NTDLL-reconstruction](https://buaq.net/go-448162.html)
+  - [PocketPentester](https://buaq.net/go-448175.html)
   - [韩国监管机构批准屏蔽抹茶和KuCoin等27家加密货币交易所 原因都是未向监管申报](https://buaq.net/go-448167.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家](https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一加 16 体验：收敛锐气，依然是「不出错」的旗舰](https://www.ifanr.com/1684097?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了](https://www.ifanr.com/1684200?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！](https://www.ifanr.com/1684204?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布](https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [OpenAI工程师在高管会议室藏录音设备被抓](https://blog.upx8.com/OpenAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E9%AB%98%E7%AE%A1%E4%BC%9A%E8%AE%AE%E5%AE%A4%E8%97%8F%E5%BD%95%E9%9F%B3%E8%AE%BE%E5%A4%87%E8%A2%AB%E6%8A%93)
   - [全球Q3手机市场出货量创14年来同期新低](https://blog.upx8.com/%E5%85%A8%E7%90%83Q3%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%88%9B14%E5%B9%B4%E6%9D%A5%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BD%8E)
   - [谷歌宣布Gemini 4 Argon模型全面上架](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83Gemini-4-Argon%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%9D%A2%E4%B8%8A%E6%9E%B6)
+  - [马斯克宣称Terafab一年制造和测试10款芯片](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0Terafab%E4%B8%80%E5%B9%B4%E5%88%B6%E9%80%A0%E5%92%8C%E6%B5%8B%E8%AF%9510%E6%AC%BE%E8%8A%AF%E7%89%87)
