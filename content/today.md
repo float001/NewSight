@@ -1,12 +1,14 @@
 # 今日安全资讯（2026-10-14）
 
 - 2Libra
+  - [2 站里面有没有钓鱼佬](https://2libra.com/post/fishing/f2f6iS1)
   - [AI 真好用，自己做要很复杂的功能，一句话就差不多了](https://2libra.com/post/ai-programming/5bnDlBL)
   - [gemini 4 Argon 3d 场景测试——搭建 3d 乐园](https://2libra.com/post/large-models/syFGqZy)
   - [【建议】帖子表情点击事件优化，避免自己给自己加表情。](https://2libra.com/post/forum-function/b6VL7Od)
   - [【油猴脚本】2libra 头像原样恢复](https://2libra.com/post/browser-extensions/Ax_iEIO)
   - [【读书笔记】文明的冲突与世界秩序的重建 📖📖📖](https://2libra.com/post/good-books/QSWfOkJ)
   - [【运动打卡】第 5️⃣天，记录一下](https://2libra.com/post/small-things/Pbxp91D)
+  - [【💰】一个人运营社媒账号矩阵你们是怎么管理的？我做了一个系统，并开放了 mcp](https://2libra.com/post/indie-dev/EoDq1cB)
   - [【💰】剧荒！求推荐](https://2libra.com/post/movie-sharing/2xZQHlL)
   - [【💰】最近出来个杂交车之父](https://2libra.com/post/hotspot-tracking/yEXmVKQ)
   - [【💰】都听我说！评论收益最大徽章到手。](https://2libra.com/post/forum-function/--y5Mf6)
@@ -33,18 +35,25 @@
   - [The Creator of ‘Smutstep’ Wants You to ‘Let Your Freak Flag Fly’](https://www.404media.co/smutstep-dubstep-booktok-growl-darq-dagr/)
 - Ars Technica
   - [The Paris Auto Show is full of interesting cars Americans can’t have](https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/)
+- Articles | InfoStealers
+  - [Hudson Rock Partners with TRM Labs as a Launch Data Partner for Ardence, the New AI Investigation Platform](https://www.infostealers.com/article/hudson-rock-partners-with-trm-labs-as-a-launch-data-partner-for-ardence-the-new-ai-investigation-platform/)
 - CERT Recently Published Vulnerability Notes
   - [VU#157374: XSS vulnerability in Shopware 6 enables Admin Token Theft and RCE](https://kb.cert.org/vuls/id/157374)
   - [VU#382143: Lowcoder Query Library API contains cross-tenant authorization bypass allowing for data exfiltration](https://kb.cert.org/vuls/id/382143)
   - [VU#456950: Komodo Periphery Agent Contains an OS Command Injection Vulnerability](https://kb.cert.org/vuls/id/456950)
   - [VU#573195: Go, OpenSSL, Apple, LibreSSL, pyca, wolfSSL Name-Constraint Inconsistency in RFC 5280 Implementation](https://kb.cert.org/vuls/id/573195)
 - CoinTelegraph
+  - [Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author](https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise’s Hougan says Q3 charts point to ‘crypto spring’](https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coins.ph says Philippine central bank license intact amid revocation claims](https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid](https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed’s Williams sees AI supply squeeze lasting beyond 2 years](https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How the SEC’s lack of leadership could facilitate crypto rulemaking](https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger asks resellers to halt sales in Southeast Asia and Hong Kong](https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours](https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case](https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE](https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Starknet introduces wallet privacy feature for DeFi activity](https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports](https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -54,6 +63,7 @@
 - CyberNews
   - [Ahold Delhaize reports no evidence of stolen customer data as systems are rebooted](https://cybernews.com/news/ahold-delhaize-cyberattack/)
   - [Apple launches new smart home devices, but users are busy joking about its $9 polishing cloth](https://cybernews.com/news/apple-smart-home-devices-launch-polishing-cloth/)
+  - [Careless hacker leaves gift card fraud blueprint open: What did we learn?](https://cybernews.com/security/exposed-server-gift-card-fraud-operation-analysis/)
   - [Dutch nonprofit takes Meta to court over controversial AI glasses](https://cybernews.com/news/meta-glasses-lawsuit/)
   - [FBI arrests Saudi OpenAI engineer over covert recording device](https://cybernews.com/ai-news/openai-recording-device-found-fbi-arrest/)
   - [From AI-enabled killer drones to AI-made pathogens: MI5 chief warns new era of cyber warfare](https://cybernews.com/ai-news/from-ai-enabled-killer-drones-to-ai-made-pathogens-mi5-chief-warns-of-new-cyberwarfare-era/)
@@ -81,9 +91,15 @@
   - [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
 - Hacker News Frontpage
   - [A plea not to use uv-build](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
+  - [Agent erased full season of "The Challenge Swe": "Hundreds of days of work gone"](https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren)
+  - [AI Laser Locking for Quantum Computers: How QuEra Automates It](https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers)
   - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+  - [Apple: Switch to Safari (From Chrome)](https://www.apple.com/safari/switch/)
   - [Cyberattack halts construction of tunnel between Denmark and Germany](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24)
+  - [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)
   - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
+  - [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+  - [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
   - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
   - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
   - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
@@ -98,6 +114,7 @@
   - [Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched](https://www.infosecurity-magazine.com/news/companies-leave-critical/)
   - [French Supermarket Cyber-Attack Impacts More Refrigeration Controllers](https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/)
   - [Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs](https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/)
+  - [Passkey Authentications Double but Adoption Remains Slow](https://www.infosecurity-magazine.com/news/passkey-authentications-double/)
 - krebsonsecurity.com
   - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
 - NOSEC 安全讯息平台 - 漏洞预警
@@ -130,6 +147,7 @@
   - [Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field](https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/)
   - [Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/)
   - [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
+  - [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
 - The Block
   - [Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration](https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509)
   - [Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger](https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463)
@@ -139,6 +157,7 @@
   - [Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as "grand moralizing performance"](https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/)
 - The Verge
   - [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction)
+  - [Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting](https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability)
   - [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
   - [Hands-on with the Apple Home Collection](https://www.theverge.com/tech/1009899/apple-home-collection-hands-on)
   - [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
@@ -148,6 +167,7 @@
   - [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
   - [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation)
   - [The Nothing Headphone A are half off for the first time](https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale)
+  - [The Tesla Roadster could have stayed vaporware](https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk)
   - [The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever](https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale)
   - [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
 - Vulners.com RSS Feed
@@ -167,11 +187,13 @@
   - [Expedia Coupons: 40% Off](https://www.wired.com/story/expedia-coupon/)
   - [HBO Max Promo Code: 50% Off | October 2026](https://www.wired.com/story/max-promo-code/)
   - [I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)](https://www.wired.com/story/best-energy-drinks/)
+  - [JackRabbit MG Cargo Bike Review (2026): Compact and Powerful](https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/)
   - [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/)
   - [OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)
   - [Peacock Promo Codes: 40% Off October 2026](https://www.wired.com/story/peacock-promo-code/)
   - [Tesla’s Roadster 2 Is Late—and Entering a Different EV World](https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/)
   - [The 9 Best Movies to Stream This Month (October 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+  - [The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA](https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/)
   - [Tuft & Needle Promo Codes: 30% Off | October 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
   - [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026](https://www.wired.com/story/vimeo-promo-code/)
@@ -184,7 +206,10 @@
   - [韩国监管机构批准屏蔽抹茶和KuCoin等27家加密货币交易所 原因都是未向监管申报](https://buaq.net/go-448167.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [荷兰税务与海关总署放弃部署微软公有云，采用开源替代](https://www.solidot.org/story?sid=85611)
 - 爱范儿
+  - [Nothing Headphone (1) Pro 体验：全面晋级，当旗舰头戴也开始玩多单元](https://www.ifanr.com/1683906?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家](https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一加 16 体验：收敛锐气，依然是「不出错」的旗舰](https://www.ifanr.com/1684097?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了](https://www.ifanr.com/1684200?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -197,6 +222,7 @@
 - 量子位 QbitAI
   - [MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片](https://www.qbitai.com/2026/10/503198.html)
   - [STEPX首款大模型原生智能体手机STEPX Neo正式发布](https://www.qbitai.com/2026/10/503201.html)
+  - [抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！](https://www.qbitai.com/2026/10/503294.html)
   - [智能不出彩的「领克」，刚靠一次坠崖事故出圈了](https://www.qbitai.com/2026/10/503231.html)
 - 黑海洋
   - [Anthropic公司高管称开源AI模型风险更高](https://blog.upx8.com/Anthropic%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1%E7%A7%B0%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B%E9%A3%8E%E9%99%A9%E6%9B%B4%E9%AB%98)
