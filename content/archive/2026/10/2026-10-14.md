@@ -7,6 +7,7 @@
   - [【油猴脚本】2libra 头像原样恢复](https://2libra.com/post/browser-extensions/Ax_iEIO)
   - [【读书笔记】文明的冲突与世界秩序的重建 📖📖📖](https://2libra.com/post/good-books/QSWfOkJ)
   - [【运动打卡】第 5️⃣天，记录一下](https://2libra.com/post/small-things/Pbxp91D)
+  - [【💰】剧荒！求推荐](https://2libra.com/post/movie-sharing/2xZQHlL)
   - [【💰】最近出来个杂交车之父](https://2libra.com/post/hotspot-tracking/yEXmVKQ)
   - [【💰】都听我说！评论收益最大徽章到手。](https://2libra.com/post/forum-function/--y5Mf6)
   - [上班路上看到一辆“摩托车”帅我一脸](https://2libra.com/post/motorcycle/VRcp-wU)
@@ -20,10 +21,12 @@
   - [推特上发现了一个很美的小王子游戏](https://2libra.com/post/game-share/xmqLZ4w)
   - [有没有什么好玩的推荐](https://2libra.com/post/touch-fish/2hMLpmN)
   - [求一个 v2 邀请码](https://2libra.com/post/invite-code/l3r-9Bc)
+  - [没什么事，就想你们看看我的炫彩边框](https://2libra.com/post/forum-function/jKUvm2a)
   - [站长紧跟时事哦](https://2libra.com/post/forum-function/ozkVprK)
   - [记录一下自己重感冒的过程](https://2libra.com/post/personal-life/BUk3G0e)
   - [这两天才理解了科目一里面“利用发动机制动减速”是怎么意思](https://2libra.com/post/motorcycle/xXreGBd)
   - [雷总余总二人相声](https://2libra.com/post/hotspot-tracking/XotpDE0)
+  - [鸿蒙原生零基础，被 GPT 生成的代码整懵后，我用 WorkBuddy 做了份三端对比教程](https://2libra.com/post/mobile-development/zAqPNbZ)
 - 404 Media
   - [Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/)
   - [Dubstep and BookTok, a perfect match?](https://www.404media.co/dubstep-and-booktok-a-perfect-match/)
@@ -50,14 +53,17 @@
   - [Vibetech Database Exposed 13.7M Breached Credentials](https://www.cyberkendra.com/2026/10/vibetech-database-exposed-13-7m-breached-credentials.html)
 - CyberNews
   - [Ahold Delhaize reports no evidence of stolen customer data as systems are rebooted](https://cybernews.com/news/ahold-delhaize-cyberattack/)
+  - [Apple launches new smart home devices, but users are busy joking about its $9 polishing cloth](https://cybernews.com/news/apple-smart-home-devices-launch-polishing-cloth/)
   - [Dutch nonprofit takes Meta to court over controversial AI glasses](https://cybernews.com/news/meta-glasses-lawsuit/)
   - [FBI arrests Saudi OpenAI engineer over covert recording device](https://cybernews.com/ai-news/openai-recording-device-found-fbi-arrest/)
   - [From AI-enabled killer drones to AI-made pathogens: MI5 chief warns new era of cyber warfare](https://cybernews.com/ai-news/from-ai-enabled-killer-drones-to-ai-made-pathogens-mi5-chief-warns-of-new-cyberwarfare-era/)
   - [Google's developer website had a remote code execution flaw worth $90,000](https://cybernews.com/news/google-paid-90000-devsite-cookie-rce-bug/)
+  - [Hackers could disable your local supermarket fridge for just $6](https://cybernews.com/ai-news/hackers-disable-supermarket-fridge-claude-ai-costs-6-dollars/)
   - [JPMorgan blocks outside AI agents from customer accounts](https://cybernews.com/security/jpmorgan-chase-blocks-outside-ai-agents/)
   - [Microsoft fixes 1,400+ vulnerabilities in October, exceeding 2025’s annual total](https://cybernews.com/security/microsoft-massive-security-update-1400-vulnerabilities/)
   - [Personal data stolen from Meta’s GitHub: Why was it even there?](https://cybernews.com/security/meta-hack-github-personal-data/)
   - [Revolut data breach may be linked to $800,000 robbery](https://cybernews.com/security/revolut-data-breach-crypto-robbery/)
+  - [Ukraine says their troops suddenly face restrictions over Starlink access](https://cybernews.com/news/ukraine-troops-starlink-access-restricted/)
   - [We should be able to turn off the AI, Microsoft’s Brad Smith says](https://cybernews.com/ai-news/we-should-be-able-to-turn-off-the-ai-microsofts-brad-smith-says/)
   - [Yandex data center attacks are a PR coup for Ukraine, but global cybersecurity remains volatile](https://cybernews.com/editorial/yandex-data-center-attacks/)
   - [“Shielded from the truth:” ex-UAP chief claims US presidents are kept in the dark about UFOs](https://cybernews.com/news/jay-stratton-ufo-claims/)
@@ -80,6 +86,7 @@
   - [Is 'Attention' the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
   - [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
   - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+  - [Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
   - [The Four Colour Theorem: The first time machines mogged mathematicians](https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians)
   - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
 - HackerNews
@@ -89,6 +96,7 @@
   - [英国住房申诉专员调查所调查"安全事件"](http://0.0.0.0:8080/post/64782)
 - infosecurity-magazine.com
   - [Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched](https://www.infosecurity-magazine.com/news/companies-leave-critical/)
+  - [French Supermarket Cyber-Attack Impacts More Refrigeration Controllers](https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/)
   - [Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs](https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/)
 - krebsonsecurity.com
   - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)
@@ -143,6 +151,7 @@
   - [The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever](https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale)
   - [Xbox is officially embracing the chaos of AI-powered game ports](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration)
 - Vulners.com RSS Feed
+  - [containerd: Unpack DoS via repeated opaque whiteouts](https://vulners.com/mscve/MS:CVE-2026-95838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/131683E4-EA40-5B57-A2DB-F1D0F121867C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [漏洞库](https://vulners.com/gitee/4AB48DC7-B20C-5EBF-B3E1-327F68AB0BDA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
@@ -150,14 +159,18 @@
 - Wired
   - [An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office](https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/)
   - [Castlery Promo Codes: 15% Off for October 2026](https://www.wired.com/story/castlery-promo-code/)
+  - [Cat-Like Whiskers Help Tiny Drones Fly in the Dark](https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark/)
   - [Corsair Discount Code: Up to 50% Off for October 2026](https://www.wired.com/story/corsair-coupon/)
   - [Dell Coupon Codes: 20% Off for October 2026](https://www.wired.com/story/dell-coupon-code/)
   - [Dyson Promo Codes: 25% Off in October 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie](https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/)
   - [Expedia Coupons: 40% Off](https://www.wired.com/story/expedia-coupon/)
   - [HBO Max Promo Code: 50% Off | October 2026](https://www.wired.com/story/max-promo-code/)
+  - [I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)](https://www.wired.com/story/best-energy-drinks/)
+  - [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/)
   - [OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)
   - [Peacock Promo Codes: 40% Off October 2026](https://www.wired.com/story/peacock-promo-code/)
+  - [Tesla’s Roadster 2 Is Late—and Entering a Different EV World](https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world/)
   - [The 9 Best Movies to Stream This Month (October 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
   - [Tuft & Needle Promo Codes: 30% Off | October 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
   - [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/)
@@ -167,6 +180,7 @@
   - [BirriaSDR: 2.4 / 5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle](https://buaq.net/go-448174.html)
   - [NTDLL-reconstruction](https://buaq.net/go-448162.html)
   - [PocketPentester](https://buaq.net/go-448175.html)
+  - [超前剧透 | 驭智·HARNESS：以智慧安全重构攻防新秩序](https://buaq.net/go-448265.html)
   - [韩国监管机构批准屏蔽抹茶和KuCoin等27家加密货币交易所 原因都是未向监管申报](https://buaq.net/go-448167.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -178,11 +192,14 @@
   - [我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！](https://www.ifanr.com/1684204?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布](https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [纯电续航破千！比亚迪大汉 23.59 万元起，看齐全尺寸行政旗舰](https://www.ifanr.com/1684288?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [超前剧透 | 驭智·HARNESS：以智慧安全重构攻防新秩序](https://blog.nsfocus.net/%e8%b6%85%e5%89%8d%e5%89%a7%e9%80%8f-%e9%a9%ad%e6%99%ba%c2%b7harness%ef%bc%9a%e4%bb%a5%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e9%87%8d%e6%9e%84%e6%94%bb%e9%98%b2%e6%96%b0%e7%a7%a9%e5%ba%8f/)
 - 量子位 QbitAI
   - [MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片](https://www.qbitai.com/2026/10/503198.html)
   - [STEPX首款大模型原生智能体手机STEPX Neo正式发布](https://www.qbitai.com/2026/10/503201.html)
   - [智能不出彩的「领克」，刚靠一次坠崖事故出圈了](https://www.qbitai.com/2026/10/503231.html)
 - 黑海洋
+  - [Anthropic公司高管称开源AI模型风险更高](https://blog.upx8.com/Anthropic%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1%E7%A7%B0%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B%E9%A3%8E%E9%99%A9%E6%9B%B4%E9%AB%98)
   - [Anthropic请求上诉法院重审关于安全风险认定的纠纷](https://blog.upx8.com/Anthropic%E8%AF%B7%E6%B1%82%E4%B8%8A%E8%AF%89%E6%B3%95%E9%99%A2%E9%87%8D%E5%AE%A1%E5%85%B3%E4%BA%8E%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E8%AE%A4%E5%AE%9A%E7%9A%84%E7%BA%A0%E7%BA%B7)
   - [OpenAI工程师在高管会议室藏录音设备被抓](https://blog.upx8.com/OpenAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E9%AB%98%E7%AE%A1%E4%BC%9A%E8%AE%AE%E5%AE%A4%E8%97%8F%E5%BD%95%E9%9F%B3%E8%AE%BE%E5%A4%87%E8%A2%AB%E6%8A%93)
   - [SpaceXSI将旗下订阅服务捆绑成一项订阅](https://blog.upx8.com/SpaceXSI%E5%B0%86%E6%97%97%E4%B8%8B%E8%AE%A2%E9%98%85%E6%9C%8D%E5%8A%A1%E6%8D%86%E7%BB%91%E6%88%90%E4%B8%80%E9%A1%B9%E8%AE%A2%E9%98%85)
