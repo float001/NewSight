@@ -48,6 +48,7 @@
   - [We should be able to turn off the AI, Microsoft’s Brad Smith says](https://cybernews.com/ai-news/we-should-be-able-to-turn-off-the-ai-microsofts-brad-smith-says/)
 - darkreading
   - [North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)
+  - [Ransomware Gangs Embrace Physical Threats, Family Stalking?](https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking)
   - [Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday](https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday)
 - Google DeepMind Blog
   - [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
@@ -121,9 +122,20 @@
   - [Annualized Enron Rate](https://www.wheresyoured.at/annualized-enron-rate/)
 - Wired
   - [An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office](https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/)
+  - [Castlery Promo Codes: 15% Off for October 2026](https://www.wired.com/story/castlery-promo-code/)
+  - [Corsair Discount Code: Up to 50% Off for October 2026](https://www.wired.com/story/corsair-coupon/)
+  - [Dell Coupon Codes: 20% Off for October 2026](https://www.wired.com/story/dell-coupon-code/)
+  - [Dyson Promo Codes: 25% Off in October 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie](https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/)
+  - [Expedia Coupons: 40% Off](https://www.wired.com/story/expedia-coupon/)
+  - [HBO Max Promo Code: 50% Off | October 2026](https://www.wired.com/story/max-promo-code/)
   - [OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)
+  - [Peacock Promo Codes: 40% Off October 2026](https://www.wired.com/story/peacock-promo-code/)
   - [The 9 Best Movies to Stream This Month (October 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+  - [Tuft & Needle Promo Codes: 30% Off | October 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
+  - [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/)
+  - [Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026](https://www.wired.com/story/vimeo-promo-code/)
+  - [Walgreens Photo Coupons: Up to 70% Off This October](https://www.wired.com/story/walgreens-photo-coupon/)
 - 不安全
   - [BirriaSDR: 2.4 / 5 GHz SDR Discovery on a Mass-Produced USB3.0 Wi-Fi Dongle](https://buaq.net/go-448174.html)
   - [NTDLL-reconstruction](https://buaq.net/go-448162.html)
