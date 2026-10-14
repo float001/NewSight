@@ -7,19 +7,28 @@
   - [There’s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot](https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/)
 - Ars Technica
   - [Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer](https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/)
+  - [Schools across US protest FCC plan that could disconnect kids from Internet](https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/)
+  - [Things are finally looking up for NASA's first missions to Venus in a generation](https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Organizations join forces to fight Illinois crypto tax, after 6-month pause](https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US authorities dismantle crypto scam network that stole tens of millions](https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [curl Patches High-Severity HTTP/2 Use-After-Free Flaw](https://www.cyberkendra.com/2026/10/curl-cve-2026-92392-http2-use-after-free.html)
+- daringfireball.net
+  - [The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room](https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai)
+- darkreading
+  - [Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat](https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat)
 - Emergent Minds | paddo.dev
   - [Cheaper Per Token, Dearer Per Fix: Gemini 4 Argon vs Opus 5.5 on Real Code](https://paddo.dev/blog/gemini-4-argon/)
 - Hacker News Frontpage
+  - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
   - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
   - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
   - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
   - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
+  - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
 - IEEE Spectrum
@@ -41,11 +50,15 @@
   - [msticpy exploit](https://sploitus.com/exploit?id=KITPLOIT:564329590529561601&utm_source=rss&utm_medium=rss)
   - [postEX exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NIKER-LIXY-POSTEX&utm_source=rss&utm_medium=rss)
   - [rt_redirectors exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TEVORA-THREAT-RT_REDIRECTORS&utm_source=rss&utm_medium=rss)
+  - [SwarmHound exploit](https://sploitus.com/exploit?id=A45A9408-406F-5E62-847A-DA3C228A6E57&utm_source=rss&utm_medium=rss)
   - [trivy-action exploit](https://sploitus.com/exploit?id=KITPLOIT:7323577050718865961&utm_source=rss&utm_medium=rss)
   - [wapiti exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WAPITI-SCANNER-WAPITI&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers](https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/)
   - [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)
+  - [Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/)
+  - [Electric vehicle sales in the US are showing signs of life](https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/)
+  - [Flock CEO: We haven’t ‘fired’ any police departments as customers](https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/)
   - [Hiyd is a health tracker that attaches to the watch you already wear](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/)
   - [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/)
   - [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)
@@ -54,6 +67,7 @@
 - The Block
   - [Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
   - [Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month](https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598)
+  - [Patrick Witt exits White House crypto role as Clarity Act stalls](https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611)
   - [‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
 - The Decoder
   - [Google says self-improving AI isn't anywhere close](https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/)
@@ -73,6 +87,7 @@
   - [YouTube sticks new labels on AI-generated songs](https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label)
 - Wired
   - [AI Came for Math. Now It’s Chasing the Rest of Science](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
+  - [Trump Aides Admit the House is a Lost Cause](https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
