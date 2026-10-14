@@ -91,10 +91,14 @@
   - [Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie](https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/)
   - [OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/)
   - [The 9 Best Movies to Stream This Month (October 2026)](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+- 不安全
+  - [NTDLL-reconstruction](https://buaq.net/go-448162.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [一加 16 体验：收敛锐气，依然是「不出错」的旗舰](https://www.ifanr.com/1684097?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布](https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [OpenAI工程师在高管会议室藏录音设备被抓](https://blog.upx8.com/OpenAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9C%A8%E9%AB%98%E7%AE%A1%E4%BC%9A%E8%AE%AE%E5%AE%A4%E8%97%8F%E5%BD%95%E9%9F%B3%E8%AE%BE%E5%A4%87%E8%A2%AB%E6%8A%93)
   - [全球Q3手机市场出货量创14年来同期新低](https://blog.upx8.com/%E5%85%A8%E7%90%83Q3%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%88%9B14%E5%B9%B4%E6%9D%A5%E5%90%8C%E6%9C%9F%E6%96%B0%E4%BD%8E)
+  - [谷歌宣布Gemini 4 Argon模型全面上架](https://blog.upx8.com/%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83Gemini-4-Argon%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%9D%A2%E4%B8%8A%E6%9E%B6)
