@@ -9,7 +9,9 @@
   - [【💰】CHATGPT 代充](https://2libra.com/post/ai-tools/DLed1jY)
   - [【💰】影视资源下载](https://2libra.com/post/movie-resources/BuQ9Nr1)
   - [【💰】有没有推荐的人体工学椅](https://2libra.com/post/recommendations/G0FtCI0)
+  - [一个给孩子的口算练习的应用](https://2libra.com/post/open-source-sharing/lg1TSfg)
   - [上半年爆火的“数字员工”，似乎销声匿迹了。](https://2libra.com/post/ai-trends/mSWCerw)
+  - [今天上午大 A 怎么回事，下午还有可能 V 回来吗？](https://2libra.com/post/stock-market/g8kiX0B)
   - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
   - [修改帖子受到长度限制](https://2libra.com/post/community/MCJAdXk)
   - [关于模拟有趣](https://2libra.com/post/mental-health/u7DW-Yz)
@@ -38,13 +40,18 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Organizations join forces to fight Illinois crypto tax, after 6-month pause](https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polygon gains US payments licenses after closing Coinme deal](https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms](https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US authorities dismantle crypto scam network that stole tens of millions](https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck seeks to withdraw application for Lido staked Ether ETF](https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms](https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [curl Patches High-Severity HTTP/2 Use-After-Free Flaw](https://www.cyberkendra.com/2026/10/curl-cve-2026-92392-http2-use-after-free.html)
 - CyberNews
   - [Ivanti's three-headed zero-day exploited in wild, CISA says patch now – but one flaw has no fix](https://cybernews.com/security/ivanti-zero-day-july-cisa-patch-no-fix/)
+  - [NordLayer AI Scout brings shadow AI into one view](https://cybernews.com/partner-content/nordlayer-ai-scout-brings-shadow-ai-into-one-view/)
+  - [“The biggest gap is between daily AI use and what security can still see”: Vakaris Noreika, VP of Product Research and Development at NordLayer, on AI security](https://cybernews.com/ai-news/ai-security-interview-vakaris-noreika/)
 - daringfireball.net
   - [The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room](https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai)
 - darkreading
@@ -92,6 +99,7 @@
   - [disclo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHAELSOO-DISCLO&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass by Spoofing in Ivanti Connect_Secure](https://sploitus.com/exploit?id=22B4835E-1C82-5247-96EA-09D37ABF79BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-107081](https://sploitus.com/exploit?id=96450DE7-902A-5F9F-B133-F69238445000&utm_source=rss&utm_medium=rss)
+  - [Exploit for Injection in Microsoft](https://sploitus.com/exploit?id=E79678F4-2074-574E-8ADD-10F2A39D479F&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Polkit_Project Polkit](https://sploitus.com/exploit?id=B1D12055-E7EC-54A2-A5D7-0DDD25CD77DD&utm_source=rss&utm_medium=rss)
   - [litesploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RISWANDANS-LITESPLOIT&utm_source=rss&utm_medium=rss)
   - [msticpy exploit](https://sploitus.com/exploit?id=KITPLOIT:564329590529561601&utm_source=rss&utm_medium=rss)
@@ -171,6 +179,7 @@
   - [GTA 6 可能提前发布 PC 版本](https://www.solidot.org/story?sid=85614)
   - [苹果推出广告鼓励 Chrome 用户切换到 Safari](https://www.solidot.org/story?sid=85613)
 - 爱范儿
+  - [一台车出厂前，要过多少道关？我们在一汽-大众工厂找到了答案](https://www.ifanr.com/1684409?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作](https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 阿小信的博客
   - [AI 没能让我早点下班，反而让我有了更多干不完的活](https://blog.axiaoxin.com/post/ai-more-work/)
