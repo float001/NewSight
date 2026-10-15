@@ -1,23 +1,37 @@
 # 今日安全资讯（2026-10-16）
 
 - CoinTelegraph
+  - [Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sweden revisits digital krona as ECB advances digital euro plans](https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AdFection Attack Hid Zero-Click Spyware Inside Online Ads](https://www.cyberkendra.com/2026/10/adfection-discover-tech-candiru-spyware-ads.html)
+  - [PwnEscape Linux Kernel Flaw Lets Guests Escape to Host](https://www.cyberkendra.com/2026/10/pwnescape-linux-kernel-flaw-lets-guests-escape-to-host.html)
+  - [Skype for Business Server RCE CVE-2026-70297 Patched](https://www.cyberkendra.com/2026/10/skype-for-business-server-rce-cve-2026-70297-patched.html)
+  - [Tor Relays Hacked to Intercept SSH Connections](https://www.cyberkendra.com/2026/10/tor-relays-hacked-to-intercept-ssh-connections.html)
 - CyberNews
   - [Fake Chrome app racks up 100,000 downloads – with Google's own ads pushing it above the real thing](https://cybernews.com/security/fake-chrome-app-100000-downloads-google-ads/)
+- daniel.haxx.se
+  - [OSI approved the curl license](https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/)
 - daringfireball.net
   - [Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/)
 - Google DeepMind Blog
   - [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 - Hacker News Frontpage
+  - [Anthropic Update on Independent Evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)
   - [Market selloff, rising rates test AI data centre deal boom](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+  - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
   - [Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally](https://sygal.app)
   - [The technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
 - Horizon3.ai
   - [From Proven Attack Paths to Verified Fixes: Horizon3 and Torq Close the Remediation Loop](https://horizon3.ai/intelligence/blogs/horizon3-torq-verified-security-remediation/)
+- Sploitus.com Exploits RSS Feed
+  - [pfsense-logs-filter-xss exploit](https://sploitus.com/exploit?id=B4595EA7-8F69-5322-A729-9B09B5FCBCE3&utm_source=rss&utm_medium=rss)
+  - [pfsense-rules-if-xss exploit](https://sploitus.com/exploit?id=12D49D3C-86EC-542D-9B2D-8664AB6AC865&utm_source=rss&utm_medium=rss)
+  - [pfsense-separator-color-xss exploit](https://sploitus.com/exploit?id=91CD5D81-0A8E-523F-8E08-5C48BF6900A3&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16](https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/)
   - [SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US](https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/)
+  - [Volvo makes a bigger bet on Nvidia](https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/)
 - The Block
   - [CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat](https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686)
   - [Multiliquid, a settlement platform for tokenized assets, raises $8 million](https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693)
@@ -26,8 +40,13 @@
   - [Google wants Gemini 4 Argon to be the only AI model robots need](https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/)
   - [Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop](https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/)
 - The Verge
+  - [Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off](https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale)
   - [E Ink upgraded the screen found in most color e-readers](https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness)
+  - [Google is making inline links more prominent in AI responses](https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links)
+  - [Sony made a $5,900 gold-plated Walkman MP3 player](https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player)
+  - [Sony’s WH-1000XM6 headphones are $130 off today only](https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale)
   - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)
+  - [Volvo will use Nvidia’s tech for hands-free, point-to-point driving](https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban)
 - Vulners.com RSS Feed
   - [CVE-2026-100347](https://vulners.com/nvd/NVD:CVE-2026-100347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100350](https://vulners.com/nvd/NVD:CVE-2026-100350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
