@@ -5,6 +5,8 @@
 - 404 Media
   - [Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr](https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/)
 - Ars Technica
+  - [Hegseth’s dubious low-T screening may flag up to 25 percent of the Army](https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/)
+  - [Plex now helps sell movie theater tickets](https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/)
   - [What did the Liberty Bell sound like? Science is on the case.](https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/)
 - blog.jim-nielsen.com
   - [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/)
@@ -63,6 +65,7 @@
   - [Volvo makes a bigger bet on Nvidia](https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/)
 - The Block
   - [CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat](https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686)
+  - [Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users](https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720)
   - [Multiliquid, a settlement platform for tokenized assets, raises $8 million](https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693)
 - The Decoder
   - [Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM](https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/)
@@ -77,6 +80,8 @@
   - [Sony made a $5,900 gold-plated Walkman MP3 player](https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player)
   - [Sony’s WH-1000XM6 headphones are $130 off today only](https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale)
   - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)
+  - [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
+  - [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)
   - [Volvo will use Nvidia’s tech for hands-free, point-to-point driving](https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban)
 - Vulners.com RSS Feed
   - [Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://vulners.com/thn/THN:518562E4A673E64181C5FA29D17DFC68?utm_source=rss&utm_medium=rss&utm_campaign=rss)
