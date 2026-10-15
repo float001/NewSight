@@ -76,6 +76,7 @@
   - [Ivanti's three-headed zero-day exploited in wild, CISA says patch now – but one flaw has no fix](https://cybernews.com/security/ivanti-zero-day-july-cisa-patch-no-fix/)
   - [LibreOffice “comes to the rescue” after Microsoft retires its productivity tool](https://cybernews.com/tech/microsoft-publisher-libreoffice/)
   - [Meta responds to claims its smart glasses were capturing conversations without asking](https://cybernews.com/news/meta-smart-glasses-capture-conversations-without-prompt/)
+  - [Microsoft takes down Chinese tools behind over a billion phishing emails](https://cybernews.com/security/microsoft-china-phishing-platforms/)
   - [NordLayer AI Scout brings shadow AI into one view](https://cybernews.com/partner-content/nordlayer-ai-scout-brings-shadow-ai-into-one-view/)
   - [PS5 jailbreaks gain popularity despite legal worries](https://cybernews.com/tech/ps5-jailbreak-homebrew-legal/)
   - [Reddit cybersecurity pros fear Anthropic’s AI plan could hollow out cyber](https://cybernews.com/security/reddit-cybersecurity-anthropic-cyber-mission/)
@@ -126,6 +127,7 @@
 - infosecurity-magazine.com
   - [ICO Reprimands Met Over Third-Party Data Leak](https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/)
   - [Microsoft Disrupts Global Yam Store Network Behind One Billion Phishing Messages](https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/)
+  - [Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool](https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/)
 - johndcook.com
   - [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/)
 - paper - Last paper
@@ -161,6 +163,7 @@
   - [trivy-action exploit](https://sploitus.com/exploit?id=KITPLOIT:7323577050718865961&utm_source=rss&utm_medium=rss)
   - [wapiti exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WAPITI-SCANNER-WAPITI&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon’s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)
   - [Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO](https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/)
   - [Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers](https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/)
   - [Apate sends AI agents undercover to get scammed so they can gather fraud intelligence](https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/)
@@ -183,6 +186,8 @@
 - The Block
   - [Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities](https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623)
   - [Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
+  - [EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token](https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637)
+  - [Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets](https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644)
   - [Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month](https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598)
   - [Patrick Witt exits White House crypto role as Clarity Act stalls](https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611)
   - [‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
@@ -192,11 +197,13 @@
   - [OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work](https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/)
   - [Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it](https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/)
 - The Verge
+  - [Amazon’s always-listening Bee wearable can now help you buy stuff](https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs)
   - [Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS](https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds)
   - [Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon](https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale)
   - [As a TV enthusiast, I was hoping for more from the Apple TV 4K](https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features)
   - [Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)
   - [Honey, Xbox shrunk its controller](https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing)
+  - [Ledger’s new hardware wallet is an Android phone without the phone](https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android)
   - [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)
   - [Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy)
   - [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)
@@ -347,7 +354,9 @@
   - [美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户](https://www.solidot.org/story?sid=85616)
   - [苹果推出广告鼓励 Chrome 用户切换到 Safari](https://www.solidot.org/story?sid=85613)
 - 爱范儿
+  - [Surface Laptop Ultra 首发体验：是最强 Windows 笔记本，也是 AI 时代的全能本](https://www.ifanr.com/1684442?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一台车出厂前，要过多少道关？我们在一汽-大众工厂找到了答案](https://www.ifanr.com/1684409?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [技术没有捷径：十年 1.3 万亿研发投入，华为选择走自己的路](https://www.ifanr.com/1684477?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作](https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [独家｜库克确认苹果国行 AI，10 月底上线测试版！](https://www.ifanr.com/1684431?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 阿小信的博客
