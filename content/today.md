@@ -3,12 +3,15 @@
 - 2Libra
   - [DeepSeek 怎么又死了，深度求索到底在干嘛呢？今天的水准评价为：小南梁小作坊。一早上到大中午了还没修好呢。](https://2libra.com/post/ai-tools/4xYEhFe)
   - [DeepSeek 网页版提示服务器不可用，你们的正常吗？](https://2libra.com/post/ai-tools/f2AuNsV)
+  - [gemini4 建模能力测试](https://2libra.com/post/large-models/Yn8b8xZ)
   - [iPadOS27 的 UI 总有些让人不满意的细节](https://2libra.com/post/apple/FtnTFx5)
   - [【文案优化】0 点查看昨天的数据，提示明天查看。](https://2libra.com/post/community/ZoJR7i1)
   - [【运动打卡】第 6️⃣天，天气阴天 🌥️](https://2libra.com/post/sports/L8DnMpX)
   - [【💰】CHATGPT 代充](https://2libra.com/post/ai-tools/DLed1jY)
   - [【💰】影视资源下载](https://2libra.com/post/movie-resources/BuQ9Nr1)
+  - [【💰】快看，我头像转起来了！😄😄](https://2libra.com/post/forum-function/RaZx0a6)
   - [【💰】有没有推荐的人体工学椅](https://2libra.com/post/recommendations/G0FtCI0)
+  - [【💰】燃烧精血也要活下去，怎能命丧于此？](https://2libra.com/post/animation-sharing/CpzIWkK)
   - [一个给孩子的口算练习的应用](https://2libra.com/post/open-source-sharing/lg1TSfg)
   - [上半年爆火的“数字员工”，似乎销声匿迹了。](https://2libra.com/post/ai-trends/mSWCerw)
   - [今天上午大 A 怎么回事，下午还有可能 V 回来吗？](https://2libra.com/post/stock-market/g8kiX0B)
@@ -21,6 +24,7 @@
   - [找到了尘封已久的小主机，局域网当服务器使用](https://2libra.com/post/servers/WGbn0-g)
   - [旧衣物直接扔了还是放衣物回收箱](https://2libra.com/post/personal-life/omc9_LW)
   - [最近 WorkBuddy 模型排队很严重，属实影响使用了](https://2libra.com/post/ai-tools/7j0DGIt)
+  - [有没有试过 AI 云边？速度很快](https://2libra.com/post/networking/3voBDJz)
   - [现在才拿到混沌徽章，泪目了](https://2libra.com/post/forum-function/KkizMjU)
   - [畅想一下未来三十年是什么样子](https://2libra.com/post/questions/lGea8aC)
   - [社区的主题分类使用的什么模型？](https://2libra.com/post/community/DAtY7Hx)
@@ -56,7 +60,10 @@
   - [The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room](https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai)
 - darkreading
   - [Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat](https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat)
+  - [EU Grocers Pay a Steep Price for Unpatched Fridge Firmware](https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware)
   - [Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles](https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching)
+- defend.network
+  - [Cisco Email Gateway RCE exploited; Nextcloud backdoors; 3 phishing platforms disrupted](https://defend.network/briefings/cisco-nextcloud-phishing-platforms-north-korea-fraud-2026-10-15.html)
 - Der Flounder
   - [Determining log retention periods for macOS unified logging](https://derflounder.wordpress.com/2026/10/14/determining-log-retention-periods-for-macos-unified-logging/)
 - Emergent Minds | paddo.dev
@@ -76,6 +83,7 @@
 - HackerNews
   - [FBI 突袭德克萨斯州的朝鲜 IT 工人"笔记本农场"，多名美国公民被捕](http://0.0.0.0:8080/post/64787)
   - [Ledger 遭遇供应链攻击后，要求亚洲各地卖家暂停销售](http://0.0.0.0:8080/post/64788)
+  - [全球联合打击行动摧毁发送 10 亿条钓鱼消息的网络](http://0.0.0.0:8080/post/64789)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
   - [CVE-2026-105133 and CVE-2026-105134 | AhsayCBS Authentication Bypass and Remote Code Execution Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-105133-and-cve-2026-105134/)
@@ -158,14 +166,36 @@
   - [CVE-2026-108587 10Web Booster <= 2.34.10 - Unauthenticated Arbitrary File Upload via 'page_id' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-108587?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110911](https://vulners.com/nvd/NVD:CVE-2026-110911?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110912](https://vulners.com/nvd/NVD:CVE-2026-110912?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110923](https://vulners.com/nvd/NVD:CVE-2026-110923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110925](https://vulners.com/nvd/NVD:CVE-2026-110925?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110926](https://vulners.com/nvd/NVD:CVE-2026-110926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14572 Kirki <= 6.2.0 - Authenticated (Custom+) Stored Cross-Site Scripting via Page Builder Text Content](https://vulners.com/cve/CVE-2026-14572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14572 Kirki <= 6.2.0 - Authenticated (Custom+) Stored Cross-Site Scripting via Page Builder Text Content](https://vulners.com/cvelist/CVELIST:CVE-2026-14572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15090](https://vulners.com/nvd/NVD:CVE-2026-15090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15180](https://vulners.com/nvd/NVD:CVE-2026-15180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17001](https://vulners.com/nvd/NVD:CVE-2026-17001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17031](https://vulners.com/nvd/NVD:CVE-2026-17031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18548](https://vulners.com/nvd/NVD:CVE-2026-18548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18557](https://vulners.com/nvd/NVD:CVE-2026-18557?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18586](https://vulners.com/nvd/NVD:CVE-2026-18586?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3712 PhastPress <= 3.10 - Unauthenticated Server-Side Request Forgery via 'src' Parameter](https://vulners.com/cve/CVE-2026-3712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-3712 PhastPress <= 3.10 - Unauthenticated Server-Side Request Forgery via 'src' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-3712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58098 Heap out-of-bounds access in semop(2)](https://vulners.com/cve/CVE-2026-58098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58098 Heap out-of-bounds access in semop(2)](https://vulners.com/cvelist/CVELIST:CVE-2026-58098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58099 Memory safety bugs in kqueue copy-on-fork implementation](https://vulners.com/cve/CVE-2026-58099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58099 Memory safety bugs in kqueue copy-on-fork implementation](https://vulners.com/cvelist/CVELIST:CVE-2026-58099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58100 Memory safety bugs in kqueue copy-on-fork implementation](https://vulners.com/cve/CVE-2026-58100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-58100 Memory safety bugs in kqueue copy-on-fork implementation](https://vulners.com/cvelist/CVELIST:CVE-2026-58100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76664](https://vulners.com/nvd/NVD:CVE-2026-76664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78001](https://vulners.com/nvd/NVD:CVE-2026-78001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-78087](https://vulners.com/nvd/NVD:CVE-2026-78087?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86803](https://vulners.com/nvd/NVD:CVE-2026-86803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88043](https://vulners.com/nvd/NVD:CVE-2026-88043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93483](https://vulners.com/nvd/NVD:CVE-2026-93483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93484](https://vulners.com/nvd/NVD:CVE-2026-93484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://vulners.com/thn/THN:6443ED26B6B41A48D481EA374BC7653D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Whwlsfb's Tech Blog
+  - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/6892d31b8a9d.html)
   - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/b525fac8ea78.html)
 - Wired
   - [AI Came for Math. Now It’s Chasing the Rest of Science](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
@@ -177,6 +207,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [GTA 6 可能提前发布 PC 版本](https://www.solidot.org/story?sid=85614)
+  - [Microsoft Defender 支持 Linux 桌面](https://www.solidot.org/story?sid=85617)
+  - [美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户](https://www.solidot.org/story?sid=85616)
   - [苹果推出广告鼓励 Chrome 用户切换到 Safari](https://www.solidot.org/story?sid=85613)
 - 爱范儿
   - [一台车出厂前，要过多少道关？我们在一汽-大众工厂找到了答案](https://www.ifanr.com/1684409?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -186,4 +218,5 @@
 - 黑海洋
   - [Anthropic Q3营收暴涨46%，实现盈利](https://blog.upx8.com/Anthropic-Q3%E8%90%A5%E6%94%B6%E6%9A%B4%E6%B6%A846-%E5%AE%9E%E7%8E%B0%E7%9B%88%E5%88%A9)
   - [DeepSeek崩了：网页/API 服务中断](https://blog.upx8.com/DeepSeek%E5%B4%A9%E4%BA%86-%E7%BD%91%E9%A1%B5-API-%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD)
+  - [字节跳动洽谈采购联发科数据中心芯片](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%B4%BD%E8%B0%88%E9%87%87%E8%B4%AD%E8%81%94%E5%8F%91%E7%A7%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%8A%AF%E7%89%87)
   - [旧手机变身机器人！加州大学团队推出双足机器人PhoneBot](https://blog.upx8.com/%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%98%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9B%A2%E9%98%9F%E6%8E%A8%E5%87%BA%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BAPhoneBot)
