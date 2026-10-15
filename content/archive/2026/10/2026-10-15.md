@@ -4,6 +4,7 @@
   - [【文案优化】0 点查看昨天的数据，提示明天查看。](https://2libra.com/post/community/ZoJR7i1)
   - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
   - [在宾馆上 2Libra(2)](https://2libra.com/post/personal-life/0KfSIxP)
+  - [寻人启事之网络寻踪【讨论版】](https://2libra.com/post/questions/9yofB7o)
 - 404 Media
   - [There’s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot](https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/)
 - Ars Technica
@@ -15,6 +16,7 @@
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Organizations join forces to fight Illinois crypto tax, after 6-month pause](https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Polygon gains US payments licenses after closing Coinme deal](https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US authorities dismantle crypto scam network that stole tens of millions](https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -41,6 +43,7 @@
   - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
+  - [CVE-2026-105133 and CVE-2026-105134 | AhsayCBS Authentication Bypass and Remote Code Execution Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-105133-and-cve-2026-105134/)
 - IEEE Spectrum
   - [IEEE Continues Preparations for the Realignment of Its Regions](https://spectrum.ieee.org/realignment-ieee-regions)
 - johndcook.com
@@ -56,6 +59,7 @@
   - [CVE-2026-43503 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LIEEHRDIANSYAH12-CVE-2026-43503&utm_source=rss&utm_medium=rss)
   - [cyberpanel exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-USMANNASIR-CYBERPANEL&utm_source=rss&utm_medium=rss)
   - [disclo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHAELSOO-DISCLO&utm_source=rss&utm_medium=rss)
+  - [Exploit for Authentication Bypass by Spoofing in Ivanti Connect_Secure](https://sploitus.com/exploit?id=22B4835E-1C82-5247-96EA-09D37ABF79BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-107081](https://sploitus.com/exploit?id=96450DE7-902A-5F9F-B133-F69238445000&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Polkit_Project Polkit](https://sploitus.com/exploit?id=B1D12055-E7EC-54A2-A5D7-0DDD25CD77DD&utm_source=rss&utm_medium=rss)
   - [litesploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RISWANDANS-LITESPLOIT&utm_source=rss&utm_medium=rss)
@@ -72,13 +76,16 @@
   - [CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/)
   - [Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts](https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/)
   - [Electric vehicle sales in the US are showing signs of life](https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/)
+  - [Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’](https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/)
   - [Flock CEO says its microphones detect ‘just gunshots’ — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
   - [Flock CEO: We haven’t ‘fired’ any police departments as customers](https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/)
   - [Gudea leverages AI to help organizations prevent social media crises before they erupt](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/)
   - [Hiyd is a health tracker that attaches to the watch you already wear](https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/)
   - [Intero Biosystems wants drugmakers to test on mini human intestines, not animals](https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/)
+  - [Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026](https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/)
   - [Mosqitter is turning its mosquito traps into an AI-powered surveillance network](https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/)
   - [Prismm helps banks keep inherited money in-house](https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/)
+  - [Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/)
   - [TimeTeller puts our internal clocks at the center of personalized medicine](https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/)
   - [YouTube Music launches new labels as AI-generated music floods streaming platforms](https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/)
 - The Block
@@ -110,8 +117,14 @@
 - Wired
   - [AI Came for Math. Now It’s Chasing the Rest of Science](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
   - [Trump Aides Admit the House is a Lost Cause](https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/)
+- 不安全
+  - [CVE-2026-105133 and CVE-2026-105134 | AhsayCBS Authentication Bypass and Remote Code Execution Vulnerabilities](https://buaq.net/go-448281.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [GTA 6 可能提前发布 PC 版本](https://www.solidot.org/story?sid=85614)
   - [苹果推出广告鼓励 Chrome 用户切换到 Safari](https://www.solidot.org/story?sid=85613)
+- 爱范儿
+  - [早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作](https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [旧手机变身机器人！加州大学团队推出双足机器人PhoneBot](https://blog.upx8.com/%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%98%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9B%A2%E9%98%9F%E6%8E%A8%E5%87%BA%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BAPhoneBot)
