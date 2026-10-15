@@ -27,6 +27,7 @@
   - [我的微信负一屏也没了，太拉胯了](https://2libra.com/post/product-updates/K7hlBqw)
   - [找到了尘封已久的小主机，局域网当服务器使用](https://2libra.com/post/servers/WGbn0-g)
   - [旧衣物直接扔了还是放衣物回收箱](https://2libra.com/post/personal-life/omc9_LW)
+  - [早上 ds 崩了 下午就发补偿了](https://2libra.com/post/ai-companies/-zshR86)
   - [最近 WorkBuddy 模型排队很严重，属实影响使用了](https://2libra.com/post/ai-tools/7j0DGIt)
   - [有没有试过 AI 云边？速度很快](https://2libra.com/post/networking/3voBDJz)
   - [每日赚取零花钱中](https://2libra.com/post/slacking-off/BUFpyuY)
@@ -45,13 +46,17 @@
 - Black Hills Information Security
   - [The Threat Hunting Flywheel: Why Threat Hunting Isn’t About Finding Bad Things](https://www.blackhillsinfosec.com/threat-hunting-fly-wheel/)
 - CoinTelegraph
+  - [Babylon advances native Bitcoin lending proposal on Aave V4](https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin dips to $80.1K as KOSPI closes at its lowest since April](https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend](https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July](https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B](https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Organizations join forces to fight Illinois crypto tax, after 6-month pause](https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polygon gains US payments licenses after closing Coinme deal](https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms](https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow](https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Thailand crypto ETFs may see slow start despite new rules: CoinShares](https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US authorities dismantle crypto scam network that stole tens of millions](https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck seeks to withdraw application for Lido staked Ether ETF](https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -63,10 +68,13 @@
   - [Dutch government delivers final blow to Kyndryl’s Solvinity acquisition](https://cybernews.com/tech/dutch-government-delivers-final-blow-to-kyndryls-solvinity-acquisition/)
   - [EU privacy watchdog raises concerns over privacy risks of smart glasses](https://cybernews.com/news/eu-privacy-watchdog-smart-glasses-gdpr-risks/)
   - [European X alternative W Social denies leaking personal data to the open web](https://cybernews.com/security/w-social-data-leak/)
+  - [Every law enforcement data request crosses his desk: Microsoft’s Barbosa speaks on global data battle](https://cybernews.com/privacy/microsoft-asked-to-disclose-consumer-data/)
   - [Grok Bot catches phishing emails, but could expose users to attacks](https://cybernews.com/ai-news/grok-bot-phishing-spacexai-invite-scam/)
   - [Ivanti's three-headed zero-day exploited in wild, CISA says patch now – but one flaw has no fix](https://cybernews.com/security/ivanti-zero-day-july-cisa-patch-no-fix/)
   - [NordLayer AI Scout brings shadow AI into one view](https://cybernews.com/partner-content/nordlayer-ai-scout-brings-shadow-ai-into-one-view/)
+  - [Reddit cybersecurity pros fear Anthropic’s AI plan could hollow out cyber](https://cybernews.com/security/reddit-cybersecurity-anthropic-cyber-mission/)
   - [Security incident knocks out UK Housing Ombudsman’s case management system](https://cybernews.com/security/uk-housing-ombudsman-supplier-security-incident/)
+  - [This AI agent just botched a $150K salary negotiation with another bot](https://cybernews.com/ai-news/ai-agent-salary-negotiation-fail/)
   - [WhatsApp says you can now invite non-users to a call](https://cybernews.com/news/whatsapp-non-users-call-feature/)
   - [“The biggest gap is between daily AI use and what security can still see”: Vakaris Noreika, VP of Product Research and Development at NordLayer, on AI security](https://cybernews.com/ai-news/ai-security-interview-vakaris-noreika/)
 - daringfireball.net
@@ -89,6 +97,7 @@
   - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
   - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
   - [Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive](https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive)
+  - [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)
   - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
   - [Tiny Little Office](https://tinylittleoffice.com/)
   - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
@@ -98,15 +107,21 @@
   - [FBI 突袭德克萨斯州的朝鲜 IT 工人"笔记本农场"，多名美国公民被捕](http://0.0.0.0:8080/post/64787)
   - [Ledger 遭遇供应链攻击后，要求亚洲各地卖家暂停销售](http://0.0.0.0:8080/post/64788)
   - [全球联合打击行动摧毁发送 10 亿条钓鱼消息的网络](http://0.0.0.0:8080/post/64789)
+- HackerNoon
+  - [How to Defeat Host-Based Screen-Scraping Malware at the Windows OS Layer](https://hackernoon.com/how-to-defeat-host-based-screen-scraping-malware-at-the-windows-os-layer?source=rss)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
   - [CVE-2026-105133 and CVE-2026-105134 | AhsayCBS Authentication Bypass and Remote Code Execution Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-105133-and-cve-2026-105134/)
 - IEEE Spectrum
+  - [Compact Analog Signal Generators for Fast RF Testing](https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/)
   - [IEEE Continues Preparations for the Realignment of Its Regions](https://spectrum.ieee.org/realignment-ieee-regions)
 - infosecurity-magazine.com
   - [ICO Reprimands Met Over Third-Party Data Leak](https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/)
+  - [Microsoft Disrupts Global Yam Store Network Behind One Billion Phishing Messages](https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/)
 - johndcook.com
   - [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/)
+- paper - Last paper
+  - [BARE-AI：通过内置性能监视器实现 AI 硬件的比特翻转攻击韧性](https://paper.seebug.org/3526)
 - PwnDefend
   - [PASSKEYS ARE NOT A TRAP](https://www.pwndefend.com/2026/10/15/passkeys-are-not-a-trap/)
 - rtl-sdr.com
@@ -162,6 +177,7 @@
   - [Patrick Witt exits White House crypto role as Clarity Act stalls](https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611)
   - [‘You’re committing crime in broad daylight’: Kalshi CEO defends prediction markets amid insider trading concerns](https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601)
 - The Decoder
+  - [Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO](https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/)
   - [Google says self-improving AI isn't anywhere close](https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/)
   - [OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work](https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/)
   - [Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it](https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/)
@@ -267,8 +283,12 @@
   - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/b525fac8ea78.html)
 - Wired
   - [AI Came for Math. Now It’s Chasing the Rest of Science](https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/)
+  - [Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission](https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/)
+  - [The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
   - [Trump Aides Admit the House is a Lost Cause](https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/)
 - 不安全
+  - [BARE-AI：通过内置性能监视器实现 AI 硬件的比特翻转攻击韧性](https://buaq.net/go-448480.html)
+  - [Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise](https://buaq.net/go-448511.html)
   - [CVE-2026-105133 and CVE-2026-105134 | AhsayCBS Authentication Bypass and Remote Code Execution Vulnerabilities](https://buaq.net/go-448281.html)
   - [OnAir Adds Decoder Support for Almost Every Signal](https://buaq.net/go-448426.html)
 - 代码审计星球
@@ -282,10 +302,12 @@
 - 爱范儿
   - [一台车出厂前，要过多少道关？我们在一汽-大众工厂找到了答案](https://www.ifanr.com/1684409?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作](https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [独家｜库克确认苹果国行 AI，10 月底上线测试版！](https://www.ifanr.com/1684431?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 阿小信的博客
   - [AI 没能让我早点下班，反而让我有了更多干不完的活](https://blog.axiaoxin.com/post/ai-more-work/)
 - 黑海洋
   - [Anthropic Q3营收暴涨46%，实现盈利](https://blog.upx8.com/Anthropic-Q3%E8%90%A5%E6%94%B6%E6%9A%B4%E6%B6%A846-%E5%AE%9E%E7%8E%B0%E7%9B%88%E5%88%A9)
+  - [Apple智能将于10月底在中国发布测试版本](https://blog.upx8.com/Apple%E6%99%BA%E8%83%BD%E5%B0%86%E4%BA%8E10%E6%9C%88%E5%BA%95%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC)
   - [DeepSeek崩了：网页/API 服务中断](https://blog.upx8.com/DeepSeek%E5%B4%A9%E4%BA%86-%E7%BD%91%E9%A1%B5-API-%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD)
   - [字节跳动洽谈采购联发科数据中心芯片](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%B4%BD%E8%B0%88%E9%87%87%E8%B4%AD%E8%81%94%E5%8F%91%E7%A7%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%8A%AF%E7%89%87)
   - [旧手机变身机器人！加州大学团队推出双足机器人PhoneBot](https://blog.upx8.com/%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%98%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9B%A2%E9%98%9F%E6%8E%A8%E5%87%BA%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BAPhoneBot)
