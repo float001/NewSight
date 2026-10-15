@@ -15,6 +15,7 @@
   - [【💰】燃烧精血也要活下去，怎能命丧于此？](https://2libra.com/post/animation-sharing/CpzIWkK)
   - [一个给孩子的口算练习的应用](https://2libra.com/post/open-source-sharing/lg1TSfg)
   - [上半年爆火的“数字员工”，似乎销声匿迹了。](https://2libra.com/post/ai-trends/mSWCerw)
+  - [人生十二法则的这本书怎么样?](https://2libra.com/post/good-books/vl9UYc7)
   - [人间烟火，等我回家 😺😺😺😺](https://2libra.com/post/pet-sharing/9DyNSRo)
   - [今天上午大 A 怎么回事，下午还有可能 V 回来吗？](https://2libra.com/post/stock-market/g8kiX0B)
   - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
@@ -38,11 +39,14 @@
 - 360 Netlab Blog - 360
   - [银狐“云端生死簿”续篇：从持续生产到 Referer 时间窗变种](https://blog.netlab.360.com/yin-hu-yun-duan-sheng-si-bo-xu-pian-cong-chi-xu-sheng-chan-dao-referer-shi-jian-chuang-bian-chong/)
 - 404 Media
+  - [Data Centers Are War Targets Now](https://www.404media.co/data-centers-are-war-targets-now/)
   - [There’s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot](https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/)
 - Ars Technica
   - [Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer](https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/)
   - [Schools across US protest FCC plan that could disconnect kids from Internet](https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/)
   - [Things are finally looking up for NASA's first missions to Venus in a generation](https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/)
+- Ben's Bites
+  - [Prompt tips from Anthropic](https://www.bensbites.com/p/prompt-tips-from-anthropic)
 - Black Hills Information Security
   - [The Threat Hunting Flywheel: Why Threat Hunting Isn’t About Finding Bad Things](https://www.blackhillsinfosec.com/threat-hunting-fly-wheel/)
 - CoinTelegraph
@@ -105,12 +109,14 @@
   - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
   - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
   - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
+  - [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
   - [Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive](https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive)
   - [The cost of getting a job today](https://weli.dev/blog/the-cost-of-getting-a-job-today/)
   - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
   - [Tiny Little Office](https://tinylittleoffice.com/)
   - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
   - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
+  - [X purges 13,000 accounts linked to suspected meddling ahead of US midterms](https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234)
   - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
 - HackerNews
   - [FBI 突袭德克萨斯州的朝鲜 IT 工人"笔记本农场"，多名美国公民被捕](http://0.0.0.0:8080/post/64787)
@@ -127,15 +133,20 @@
 - infosecurity-magazine.com
   - [ICO Reprimands Met Over Third-Party Data Leak](https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/)
   - [Microsoft Disrupts Global Yam Store Network Behind One Billion Phishing Messages](https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/)
+  - [New Aoki Infostealer Targets AI Coding Assistant Credentials](https://www.infosecurity-magazine.com/news/aoki-infostealer-ai-coding/)
   - [Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool](https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/)
 - johndcook.com
   - [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/)
+- MIT Technology Review
+  - [The Download: reviving frozen pig kidneys and boosting nuclear power](https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/)
 - paper - Last paper
   - [BARE-AI：通过内置性能监视器实现 AI 硬件的比特翻转攻击韧性](https://paper.seebug.org/3526)
 - PortSwigger Blog
   - [Burp AT: What's new since Black Hat](https://portswigger.net/blog/burp-at-whats-new-since-black-hat)
 - PwnDefend
   - [PASSKEYS ARE NOT A TRAP](https://www.pwndefend.com/2026/10/15/passkeys-are-not-a-trap/)
+- Recent Commits to cve:main
+  - [Update Thu Oct 15 12:29:44 UTC 2026](https://github.com/trickest/cve/commit/16757dee04f901ba811cf5092d3ff4f261f73384)
 - rtl-sdr.com
   - [OnAir Adds Decoder Support for Almost Every Signal](https://www.rtl-sdr.com/onair-adds-decoder-support-for-almost-every-signal/)
   - [SDR– Updated to V2.2: Many New Decoders, Tools and KrakenSDR Direction Finding and Beamforming Support Added](https://www.rtl-sdr.com/sdr-updated-to-v2-2-many-new-decoders-tools-and-krakensdr-direction-finding-and-beamforming-support-added/)
@@ -187,6 +198,7 @@
   - [Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities](https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623)
   - [Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns](https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582)
   - [EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token](https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637)
+  - [Helius CEO Mert Mumtaz joins NEAR Foundation Council](https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656)
   - [Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets](https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644)
   - [Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month](https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598)
   - [Patrick Witt exits White House crypto role as Clarity Act stalls](https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611)
@@ -202,11 +214,13 @@
   - [Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon](https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale)
   - [As a TV enthusiast, I was hoping for more from the Apple TV 4K](https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features)
   - [Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)
+  - [Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays](https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch)
   - [Honey, Xbox shrunk its controller](https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing)
   - [Ledger’s new hardware wallet is an Android phone without the phone](https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android)
   - [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)
   - [Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy)
   - [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)
+  - [Quick question: Who exactly is iPhone Handoff for?](https://www.theverge.com/tech/1011338/iphone-handoff-t-mobile-work-iphone)
   - [Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone](https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare)
   - [Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more](https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale)
   - [Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod](https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod)
@@ -251,8 +265,17 @@
   - [CVE-2026-108092](https://vulners.com/nvd/NVD:CVE-2026-108092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108587 10Web Booster <= 2.34.10 - Unauthenticated Arbitrary File Upload via 'page_id' Parameter](https://vulners.com/cve/CVE-2026-108587?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108587 10Web Booster <= 2.34.10 - Unauthenticated Arbitrary File Upload via 'page_id' Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-108587?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109692 WordPress User Registration plugin <= 5.2.8 - Broken Access Control vulnerability](https://vulners.com/cve/CVE-2026-109692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109692 WordPress User Registration plugin <= 5.2.8 - Broken Access Control vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-109692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109698 WordPress Mang Board WP plugin <= 2.4.4 - SQL Injection vulnerability](https://vulners.com/cve/CVE-2026-109698?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109698 WordPress Mang Board WP plugin <= 2.4.4 - SQL Injection vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-109698?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109855 undici WebSocket client vulnerable to Denial of Service via failed HTTP/2 handshake](https://vulners.com/cve/CVE-2026-109855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109855 undici WebSocket client vulnerable to Denial of Service via failed HTTP/2 handshake](https://vulners.com/cvelist/CVELIST:CVE-2026-109855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110723](https://vulners.com/cve/CVE-2026-110723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110723](https://vulners.com/cvelist/CVELIST:CVE-2026-110723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110724](https://vulners.com/cve/CVE-2026-110724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110724](https://vulners.com/cvelist/CVELIST:CVE-2026-110724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110726](https://vulners.com/nvd/NVD:CVE-2026-110726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110911](https://vulners.com/nvd/NVD:CVE-2026-110911?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110912](https://vulners.com/nvd/NVD:CVE-2026-110912?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110923](https://vulners.com/nvd/NVD:CVE-2026-110923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -315,6 +338,10 @@
   - [CVE-2026-79829](https://vulners.com/nvd/NVD:CVE-2026-79829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-79830 HPE NonStop Kernel Level Thread Model Lib - Stack buffer overflow vulnerability](https://vulners.com/cve/CVE-2026-79830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-79830 HPE NonStop Kernel Level Thread Model Lib - Stack buffer overflow vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-79830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-79834](https://vulners.com/nvd/NVD:CVE-2026-79834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-79835](https://vulners.com/nvd/NVD:CVE-2026-79835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-79836](https://vulners.com/nvd/NVD:CVE-2026-79836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-8145](https://vulners.com/nvd/NVD:CVE-2026-8145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86803](https://vulners.com/nvd/NVD:CVE-2026-86803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88043](https://vulners.com/nvd/NVD:CVE-2026-88043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93483](https://vulners.com/nvd/NVD:CVE-2026-93483?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -327,10 +354,12 @@
   - [GNU Binutils ELF String Table elf-strtab.c _bfd_elf_strtab_delref memory corruption](https://vulners.com/mscve/MS:CVE-2026-90831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GNU Binutils ld cache.c cache_bwrite buffer overflow](https://vulners.com/mscve/MS:CVE-2026-90801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [libsndfile WAV Parsing wavlike.c wavlike_subchunk_parse uninitialized variable](https://vulners.com/mscve/MS:CVE-2026-109828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing](https://vulners.com/thn/THN:8CD8369E6004CA1E664EB30008F4FDDC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OAuthLib: Timing Attack Vulnerability in PKCE code_verifier Comparison](https://vulners.com/mscve/MS:CVE-2026-49265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OAuthLib: Unsafe JSONP callback injection in RevocationEndpoint allows arbitrary JavaScript response generation](https://vulners.com/mscve/MS:CVE-2026-49264?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation](https://vulners.com/thn/THN:6443ED26B6B41A48D481EA374BC7653D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vitess vttablet /twopcz reflected XSS](https://vulners.com/mscve/MS:CVE-2026-104252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulnerability Affecting Sick_Safetyscanners_Base CPP Driver](https://vulners.com/sick/SCA-2026-0015?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Whwlsfb's Tech Blog
   - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/6892d31b8a9d.html)
   - [Hacked by trenggalek6etar](https://blog.wanghw.cn/uncategorized/b525fac8ea78.html)
@@ -344,6 +373,7 @@
   - [BARE-AI：通过内置性能监视器实现 AI 硬件的比特翻转攻击韧性](https://buaq.net/go-448480.html)
   - [Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise](https://buaq.net/go-448511.html)
   - [CVE-2026-105133 and CVE-2026-105134 | AhsayCBS Authentication Bypass and Remote Code Execution Vulnerabilities](https://buaq.net/go-448281.html)
+  - [Legacy Tableau TD3 devices](https://buaq.net/go-448581.html)
   - [OnAir Adds Decoder Support for Almost Every Signal](https://buaq.net/go-448426.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
