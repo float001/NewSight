@@ -9,6 +9,7 @@
 - blog.jim-nielsen.com
   - [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/)
 - CoinTelegraph
+  - [Binance.US seeks $1B valuation in potential $100M funding round: Report](https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sweden revisits digital krona as ECB advances digital euro plans](https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -27,6 +28,8 @@
   - [OSI approved the curl license](https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/)
 - daringfireball.net
   - [Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/)
+- darkreading
+  - [AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too](https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks)
 - Google DeepMind Blog
   - [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 - Hacker News Frontpage
@@ -37,6 +40,8 @@
   - [Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally](https://sygal.app)
   - [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
   - [The technical actions needed to ensure the continuity of UTC](https://www.bipm.org/en/cgpm-2026/resolution-5)
+  - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+  - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
   - [Why We're Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
 - Horizon3.ai
   - [CVE-2026-104935 | Ivanti Connect Secure Authentication Bypass and Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-104935/)
@@ -48,6 +53,7 @@
   - [pfsense-rules-if-xss exploit](https://sploitus.com/exploit?id=12D49D3C-86EC-542D-9B2D-8664AB6AC865&utm_source=rss&utm_medium=rss)
   - [pfsense-separator-color-xss exploit](https://sploitus.com/exploit?id=91CD5D81-0A8E-523F-8E08-5C48BF6900A3&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)
   - [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
   - [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)
   - [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)
@@ -73,12 +79,17 @@
   - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)
   - [Volvo will use Nvidia’s tech for hands-free, point-to-point driving](https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban)
 - Vulners.com RSS Feed
+  - [Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://vulners.com/thn/THN:518562E4A673E64181C5FA29D17DFC68?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100347](https://vulners.com/nvd/NVD:CVE-2026-100347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100350](https://vulners.com/nvd/NVD:CVE-2026-100350?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100351](https://vulners.com/nvd/NVD:CVE-2026-100351?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100352](https://vulners.com/nvd/NVD:CVE-2026-100352?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102764 Improper Origin Validation in Internal Messaging Components of BeyondTrust Remote Support](https://vulners.com/cve/CVE-2026-102764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102764 Improper Origin Validation in Internal Messaging Components of BeyondTrust Remote Support](https://vulners.com/cvelist/CVELIST:CVE-2026-102764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102946 joserfc: JWS signature verification bypass via empty signatures array in jws.deserialize_json](https://vulners.com/cve/CVE-2026-102946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102946 joserfc: JWS signature verification bypass via empty signatures array in jws.deserialize_json](https://vulners.com/cvelist/CVELIST:CVE-2026-102946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103910](https://vulners.com/nvd/NVD:CVE-2026-103910?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-104198](https://vulners.com/nvd/NVD:CVE-2026-104198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104827 react/http: Unbounded HTTP Client Response Header Buffering Leads to Memory Exhaustion DoS](https://vulners.com/cve/CVE-2026-104827?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104827 react/http: Unbounded HTTP Client Response Header Buffering Leads to Memory Exhaustion DoS](https://vulners.com/cvelist/CVELIST:CVE-2026-104827?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104828 HtmlUnit Neko: Mutation XSS (mXSS) in HTMLWriterFilter - TEXTAREA/TITLE entity decode without re-encode](https://vulners.com/cve/CVE-2026-104828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -86,6 +97,8 @@
   - [CVE-2026-105474](https://vulners.com/nvd/NVD:CVE-2026-105474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105660 Unvalidated HTTP/1 request-target authority lets a client choose conn.host and conn.port in Bandit](https://vulners.com/cve/CVE-2026-105660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105660 Unvalidated HTTP/1 request-target authority lets a client choose conn.host and conn.port in Bandit](https://vulners.com/cvelist/CVELIST:CVE-2026-105660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106700](https://vulners.com/nvd/NVD:CVE-2026-106700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106708](https://vulners.com/nvd/NVD:CVE-2026-106708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108499 WordPress Knowledge Base plugin <= 3.2.0 - Broken Access Control vulnerability](https://vulners.com/cve/CVE-2026-108499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108499 WordPress Knowledge Base plugin <= 3.2.0 - Broken Access Control vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-108499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109383 undici vulnerable to TLS certificate validation bypass via dropped tls options in Agent](https://vulners.com/cve/CVE-2026-109383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
