@@ -4,6 +4,10 @@
   - [DeepSeek 网页版提示服务器不可用，你们的正常吗？](https://2libra.com/post/ai-tools/f2AuNsV)
   - [iPadOS27 的 UI 总有些让人不满意的细节](https://2libra.com/post/apple/FtnTFx5)
   - [【文案优化】0 点查看昨天的数据，提示明天查看。](https://2libra.com/post/community/ZoJR7i1)
+  - [【运动打卡】第 6️⃣天，天气阴天 🌥️](https://2libra.com/post/sports/L8DnMpX)
+  - [【💰】影视资源下载](https://2libra.com/post/movie-resources/BuQ9Nr1)
+  - [【💰】有没有推荐的人体工学椅](https://2libra.com/post/recommendations/G0FtCI0)
+  - [上半年爆火的“数字员工”，似乎销声匿迹了。](https://2libra.com/post/ai-trends/mSWCerw)
   - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
   - [在宾馆上 2Libra(2)](https://2libra.com/post/personal-life/0KfSIxP)
   - [寻人启事之网络寻踪【讨论版】](https://2libra.com/post/questions/9yofB7o)
@@ -11,6 +15,8 @@
   - [现在才拿到混沌徽章，泪目了](https://2libra.com/post/forum-function/KkizMjU)
   - [畅想一下未来三十年是什么样子](https://2libra.com/post/questions/lGea8aC)
   - [论坛有时一直转圈圈，有时刷不出来是怎么回事](https://2libra.com/post/community/BfjEsOS)
+- 360 Netlab Blog - 360
+  - [银狐“云端生死簿”续篇：从持续生产到 Referer 时间窗变种](https://blog.netlab.360.com/yin-hu-yun-duan-sheng-si-bo-xu-pian-cong-chi-xu-sheng-chan-dao-referer-shi-jian-chuang-bian-chong/)
 - 404 Media
   - [There’s Nothing Mysterious or Unusual About the Viral German Sexual Harassment Robot](https://www.404media.co/theres-nothing-mysterious-or-unusual-about-the-viral-german-sexual-harassment-robot/)
 - Ars Technica
@@ -45,6 +51,7 @@
   - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
   - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
   - [Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive](https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive)
+  - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
   - [Tiny Little Office](https://tinylittleoffice.com/)
   - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
   - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
@@ -134,5 +141,9 @@
   - [苹果推出广告鼓励 Chrome 用户切换到 Safari](https://www.solidot.org/story?sid=85613)
 - 爱范儿
   - [早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作](https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 阿小信的博客
+  - [AI 没能让我早点下班，反而让我有了更多干不完的活](https://blog.axiaoxin.com/post/ai-more-work/)
 - 黑海洋
+  - [Anthropic Q3营收暴涨46%，实现盈利](https://blog.upx8.com/Anthropic-Q3%E8%90%A5%E6%94%B6%E6%9A%B4%E6%B6%A846-%E5%AE%9E%E7%8E%B0%E7%9B%88%E5%88%A9)
+  - [DeepSeek崩了：网页/API 服务中断](https://blog.upx8.com/DeepSeek%E5%B4%A9%E4%BA%86-%E7%BD%91%E9%A1%B5-API-%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD)
   - [旧手机变身机器人！加州大学团队推出双足机器人PhoneBot](https://blog.upx8.com/%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%98%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9B%A2%E9%98%9F%E6%8E%A8%E5%87%BA%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BAPhoneBot)
