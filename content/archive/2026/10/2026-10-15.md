@@ -9,11 +9,15 @@
   - [【💰】有没有推荐的人体工学椅](https://2libra.com/post/recommendations/G0FtCI0)
   - [上半年爆火的“数字员工”，似乎销声匿迹了。](https://2libra.com/post/ai-trends/mSWCerw)
   - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
+  - [修改帖子受到长度限制](https://2libra.com/post/community/MCJAdXk)
   - [在宾馆上 2Libra(2)](https://2libra.com/post/personal-life/0KfSIxP)
   - [寻人启事之网络寻踪【讨论版】](https://2libra.com/post/questions/9yofB7o)
   - [我的微信负一屏也没了，太拉胯了](https://2libra.com/post/product-updates/K7hlBqw)
+  - [旧衣物直接扔了还是放衣物回收箱](https://2libra.com/post/personal-life/omc9_LW)
+  - [最近 WorkBuddy 模型排队很严重，属实影响使用了](https://2libra.com/post/ai-tools/7j0DGIt)
   - [现在才拿到混沌徽章，泪目了](https://2libra.com/post/forum-function/KkizMjU)
   - [畅想一下未来三十年是什么样子](https://2libra.com/post/questions/lGea8aC)
+  - [社区的主题分类使用的什么模型？](https://2libra.com/post/community/DAtY7Hx)
   - [论坛有时一直转圈圈，有时刷不出来是怎么回事](https://2libra.com/post/community/BfjEsOS)
 - 360 Netlab Blog - 360
   - [银狐“云端生死簿”续篇：从持续生产到 Referer 时间窗变种](https://blog.netlab.360.com/yin-hu-yun-duan-sheng-si-bo-xu-pian-cong-chi-xu-sheng-chan-dao-referer-shi-jian-chuang-bian-chong/)
@@ -26,6 +30,7 @@
 - Black Hills Information Security
   - [The Threat Hunting Flywheel: Why Threat Hunting Isn’t About Finding Bad Things](https://www.blackhillsinfosec.com/threat-hunting-fly-wheel/)
 - CoinTelegraph
+  - [Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July](https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Organizations join forces to fight Illinois crypto tax, after 6-month pause](https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polygon gains US payments licenses after closing Coinme deal](https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,6 +54,7 @@
   - [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
   - [Banks are now trying to offload the AI data center debt they just underwrote](https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/)
   - [Container ship sinks in Strait of Hormuz as Iran steps up attacks](https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html)
+  - [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
   - [How the Military Will Hack the Election](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election)
   - [Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive](https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive)
   - [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
@@ -56,6 +62,8 @@
   - [US report details extent of 'devastating' dating-app scams](https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress)
   - [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
   - [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
+- HackerNews
+  - [FBI 突袭德克萨斯州的朝鲜 IT 工人"笔记本农场"，多名美国公民被捕](http://0.0.0.0:8080/post/64787)
 - Horizon3.ai
   - [AhsayCBS Deep-Dive: Auth Bypass to RCE](https://horizon3.ai/attack-research/attack-blogs/ahsaycbs-cve-2026-105133-cve-2026-105134-technical-analysis/)
   - [CVE-2026-105133 and CVE-2026-105134 | AhsayCBS Authentication Bypass and Remote Code Execution Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-105133-and-cve-2026-105134/)
@@ -63,6 +71,8 @@
   - [IEEE Continues Preparations for the Realignment of Its Regions](https://spectrum.ieee.org/realignment-ieee-regions)
 - johndcook.com
   - [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/)
+- rtl-sdr.com
+  - [SDR– Updated to V2.2: Many New Decoders, Tools and KrakenSDR Direction Finding and Beamforming Support Added](https://www.rtl-sdr.com/sdr-updated-to-v2-2-many-new-decoders-tools-and-krakensdr-direction-finding-and-beamforming-support-added/)
 - simonwillison.net
   - [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/)
 - Sploitus.com Exploits RSS Feed
