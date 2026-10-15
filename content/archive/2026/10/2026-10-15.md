@@ -8,6 +8,7 @@
   - [【文案优化】0 点查看昨天的数据，提示明天查看。](https://2libra.com/post/community/ZoJR7i1)
   - [【运动打卡】第 6️⃣天，天气阴天 🌥️](https://2libra.com/post/sports/L8DnMpX)
   - [【💰】CHATGPT 代充](https://2libra.com/post/ai-tools/DLed1jY)
+  - [【💰】一个美股定投回测网站：拾年](https://2libra.com/post/personal-works/1ZFDQFd)
   - [【💰】影视资源下载](https://2libra.com/post/movie-resources/BuQ9Nr1)
   - [【💰】快看，我头像转起来了！😄😄](https://2libra.com/post/forum-function/RaZx0a6)
   - [【💰】有没有推荐的人体工学椅](https://2libra.com/post/recommendations/G0FtCI0)
@@ -18,13 +19,16 @@
   - [你目前人生经历来讲，抛开金钱不谈，你觉得人生最珍贵的东西是什么？](https://2libra.com/post/personal-life/XOXWTTd)
   - [修改帖子受到长度限制](https://2libra.com/post/community/MCJAdXk)
   - [关于模拟有趣](https://2libra.com/post/mental-health/u7DW-Yz)
+  - [刚刚微信群看到一个挺好玩的图片](https://2libra.com/post/slacking-off/K4BRT4Z)
   - [在宾馆上 2Libra(2)](https://2libra.com/post/personal-life/0KfSIxP)
   - [寻人启事之网络寻踪【讨论版】](https://2libra.com/post/questions/9yofB7o)
+  - [小程序 【幼小衔接启蒙助手 】新增注音功能](https://2libra.com/post/promotion/7rjlF_4)
   - [我的微信负一屏也没了，太拉胯了](https://2libra.com/post/product-updates/K7hlBqw)
   - [找到了尘封已久的小主机，局域网当服务器使用](https://2libra.com/post/servers/WGbn0-g)
   - [旧衣物直接扔了还是放衣物回收箱](https://2libra.com/post/personal-life/omc9_LW)
   - [最近 WorkBuddy 模型排队很严重，属实影响使用了](https://2libra.com/post/ai-tools/7j0DGIt)
   - [有没有试过 AI 云边？速度很快](https://2libra.com/post/networking/3voBDJz)
+  - [每日赚取零花钱中](https://2libra.com/post/slacking-off/BUFpyuY)
   - [现在才拿到混沌徽章，泪目了](https://2libra.com/post/forum-function/KkizMjU)
   - [畅想一下未来三十年是什么样子](https://2libra.com/post/questions/lGea8aC)
   - [社区的主题分类使用的什么模型？](https://2libra.com/post/community/DAtY7Hx)
@@ -40,6 +44,7 @@
 - Black Hills Information Security
   - [The Threat Hunting Flywheel: Why Threat Hunting Isn’t About Finding Bad Things](https://www.blackhillsinfosec.com/threat-hunting-fly-wheel/)
 - CoinTelegraph
+  - [Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend](https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July](https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Organizations join forces to fight Illinois crypto tax, after 6-month pause](https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -53,8 +58,11 @@
 - Cyber Kendra
   - [curl Patches High-Severity HTTP/2 Use-After-Free Flaw](https://www.cyberkendra.com/2026/10/curl-cve-2026-92392-http2-use-after-free.html)
 - CyberNews
+  - [Dutch government delivers final blow to Kyndryl’s Solvinity acquisition](https://cybernews.com/tech/dutch-government-delivers-final-blow-to-kyndryls-solvinity-acquisition/)
+  - [EU privacy watchdog raises concerns over privacy risks of smart glasses](https://cybernews.com/news/eu-privacy-watchdog-smart-glasses-gdpr-risks/)
   - [Ivanti's three-headed zero-day exploited in wild, CISA says patch now – but one flaw has no fix](https://cybernews.com/security/ivanti-zero-day-july-cisa-patch-no-fix/)
   - [NordLayer AI Scout brings shadow AI into one view](https://cybernews.com/partner-content/nordlayer-ai-scout-brings-shadow-ai-into-one-view/)
+  - [Security incident knocks out UK Housing Ombudsman’s case management system](https://cybernews.com/security/uk-housing-ombudsman-supplier-security-incident/)
   - [“The biggest gap is between daily AI use and what security can still see”: Vakaris Noreika, VP of Product Research and Development at NordLayer, on AI security](https://cybernews.com/ai-news/ai-security-interview-vakaris-noreika/)
 - daringfireball.net
   - [The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room](https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai)
@@ -91,6 +99,8 @@
   - [IEEE Continues Preparations for the Realignment of Its Regions](https://spectrum.ieee.org/realignment-ieee-regions)
 - johndcook.com
   - [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/)
+- PwnDefend
+  - [PASSKEYS ARE NOT A TRAP](https://www.pwndefend.com/2026/10/15/passkeys-are-not-a-trap/)
 - rtl-sdr.com
   - [OnAir Adds Decoder Support for Almost Every Signal](https://www.rtl-sdr.com/onair-adds-decoder-support-for-almost-every-signal/)
   - [SDR– Updated to V2.2: Many New Decoders, Tools and KrakenSDR Direction Finding and Beamforming Support Added](https://www.rtl-sdr.com/sdr-updated-to-v2-2-many-new-decoders-tools-and-krakensdr-direction-finding-and-beamforming-support-added/)
@@ -107,6 +117,7 @@
   - [disclo exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHAELSOO-DISCLO&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass by Spoofing in Ivanti Connect_Secure](https://sploitus.com/exploit?id=22B4835E-1C82-5247-96EA-09D37ABF79BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-107081](https://sploitus.com/exploit?id=96450DE7-902A-5F9F-B133-F69238445000&utm_source=rss&utm_medium=rss)
+  - [Exploit for Expression Language Injection in Apache Struts](https://sploitus.com/exploit?id=C98C4E23-77B9-5135-B5F2-CBFCB17227A1&utm_source=rss&utm_medium=rss)
   - [Exploit for Injection in Microsoft](https://sploitus.com/exploit?id=E79678F4-2074-574E-8ADD-10F2A39D479F&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Read in Polkit_Project Polkit](https://sploitus.com/exploit?id=B1D12055-E7EC-54A2-A5D7-0DDD25CD77DD&utm_source=rss&utm_medium=rss)
   - [litesploit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RISWANDANS-LITESPLOIT&utm_source=rss&utm_medium=rss)
@@ -208,6 +219,7 @@
 - 奇客Solidot–传递最新科技情报
   - [GTA 6 可能提前发布 PC 版本](https://www.solidot.org/story?sid=85614)
   - [Microsoft Defender 支持 Linux 桌面](https://www.solidot.org/story?sid=85617)
+  - [科学家探测到最遥远快速射电暴](https://www.solidot.org/story?sid=85619)
   - [美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户](https://www.solidot.org/story?sid=85616)
   - [苹果推出广告鼓励 Chrome 用户切换到 Safari](https://www.solidot.org/story?sid=85613)
 - 爱范儿
@@ -220,3 +232,4 @@
   - [DeepSeek崩了：网页/API 服务中断](https://blog.upx8.com/DeepSeek%E5%B4%A9%E4%BA%86-%E7%BD%91%E9%A1%B5-API-%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD)
   - [字节跳动洽谈采购联发科数据中心芯片](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%B4%BD%E8%B0%88%E9%87%87%E8%B4%AD%E8%81%94%E5%8F%91%E7%A7%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%8A%AF%E7%89%87)
   - [旧手机变身机器人！加州大学团队推出双足机器人PhoneBot](https://blog.upx8.com/%E6%97%A7%E6%89%8B%E6%9C%BA%E5%8F%98%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9B%A2%E9%98%9F%E6%8E%A8%E5%87%BA%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BAPhoneBot)
+  - [马斯克称乌克兰“星盾”受到的任何限制都并非SpaceX 的决定](https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0-%E6%98%9F%E7%9B%BE-%E5%8F%97%E5%88%B0%E7%9A%84%E4%BB%BB%E4%BD%95%E9%99%90%E5%88%B6%E9%83%BD%E5%B9%B6%E9%9D%9ESpaceX-%E7%9A%84%E5%86%B3%E5%AE%9A)
