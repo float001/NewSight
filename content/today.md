@@ -9,6 +9,7 @@
   - [【兑换码】🔥 送 CDK｜不烧心的住宅代理！规矩立得住，账算得清 Proxy001](https://2libra.com/post/promotion/a3mO96P)
   - [【运动打卡】 第 7️⃣天，今天小雨 🌧️在楼下跑步机爬坡](https://2libra.com/post/sports/o1cv48e)
   - [【💰50％】年假清零提醒！](https://2libra.com/post/office-life/Dv8iQu6)
+  - [【💰】下班了。周末愉快！最高自定义中奖概率！！](https://2libra.com/post/touch-fish/oCvlya9)
   - [【💰】你们用键盘打字的时候，落字是左手按空格还是右手按空格？](https://2libra.com/post/small-things/t1IX25f)
   - [【💰】做了个独立开发者的发布站，可以给你的官网一个 dofollow 外链](https://2libra.com/post/promotion/0Q7APoA)
   - [【💰】周五了！终于能休息两天了，感觉连续上了 2 周的班](https://2libra.com/post/touch-fish/sFSuhRE)
@@ -48,6 +49,7 @@
   - [Australia releases draft bill to adopt OECD crypto tax reporting framework](https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Balaji’s ‘Singapore of social media’ begins with a wave of bans](https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance.US seeks $1B valuation in potential $100M funding round: Report](https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant](https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B reports $78M H1 loss driven by Bitcoin impairment charge](https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -102,6 +104,8 @@
 - HackerNews
   - [Citizen Lab 追踪到半岛电视台的零点击 Candiru 间谍软件感染源于定向在线广告](http://0.0.0.0:8080/post/64791)
   - [Silent Lynx 利用 WinRAR 漏洞在 CIS 政府攻击中部署反向 Shell](http://0.0.0.0:8080/post/64790)
+- HackerNoon
+  - [How to Choose Between Online Trading Platforms](https://hackernoon.com/how-to-choose-between-online-trading-platforms?source=rss)
 - Horizon3.ai
   - [CVE-2026-104935 | Ivanti Connect Secure Authentication Bypass and Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-104935/)
   - [From Proven Attack Paths to Verified Fixes: Horizon3 and Torq Close the Remediation Loop](https://horizon3.ai/intelligence/blogs/horizon3-torq-verified-security-remediation/)
@@ -122,6 +126,7 @@
   - [pfsense-logs-filter-xss exploit](https://sploitus.com/exploit?id=B4595EA7-8F69-5322-A729-9B09B5FCBCE3&utm_source=rss&utm_medium=rss)
   - [pfsense-rules-if-xss exploit](https://sploitus.com/exploit?id=12D49D3C-86EC-542D-9B2D-8664AB6AC865&utm_source=rss&utm_medium=rss)
   - [pfsense-separator-color-xss exploit](https://sploitus.com/exploit?id=91CD5D81-0A8E-523F-8E08-5C48BF6900A3&utm_source=rss&utm_medium=rss)
+  - [Relapse-Exploit](https://sploitus.com/exploit?id=1670C88C-7B44-57B9-A903-EE891E7BD64E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)
   - [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
@@ -136,6 +141,7 @@
   - [Volvo makes a bigger bet on Nvidia](https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/)
   - [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
 - The Block
+  - [Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge](https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781)
   - [CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat](https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686)
   - [Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users](https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720)
   - [MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion](https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729)
@@ -159,6 +165,7 @@
   - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)
   - [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
   - [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk)
+  - [Time is a-changin’: say goodbye to the leap second](https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change)
   - [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)
   - [Volvo will use Nvidia’s tech for hands-free, point-to-point driving](https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban)
 - Vulners.com RSS Feed
@@ -432,6 +439,7 @@
   - [Infinite loop on empty option name in startup options parameter in PgBouncer](https://vulners.com/mscve/MS:CVE-2026-107349?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Integer overflow causes an infinite loop in message buffer growth in PgBouncer](https://vulners.com/mscve/MS:CVE-2026-107348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Lack of limit on size of parsed Range headers in net/http](https://vulners.com/mscve/MS:CVE-2026-78667?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Relapse-Exploit](https://vulners.com/gitee/1670C88C-7B44-57B9-A903-EE891E7BD64E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [TLS 1.2 session resumption in ssl crosses SNI virtual-host client-certificate trust boundaries](https://vulners.com/mscve/MS:CVE-2026-105236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [TLS 1.3 client ticket store crashed by NewSessionTicket with empty early_data extension in ssl](https://vulners.com/mscve/MS:CVE-2026-94200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [util-linux libblkid DOS extended-partition overflow produces invalid partition metadata](https://vulners.com/mscve/MS:CVE-2026-53615?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -439,8 +447,10 @@
   - [A Tesla Flying Car? I Don’t Know, Man](https://www.wired.com/story/tesla-flying-car-faa/)
   - [Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat](https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/)
   - [HP Coupon Codes and Deals October 2026](https://www.wired.com/story/hp-coupon-code/)
+  - [Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins](https://www.wired.com/review/review-jabra-enhance-select-m3/)
   - [Skechers Coupon Codes 20% Off](https://www.wired.com/story/skechers-coupon-codes/)
   - [Surfshark Promo Codes: 87% Off | October 2026](https://www.wired.com/story/surfshark-coupon/)
+  - [The New Fan’s Guide to the Unreal World of Nathan Fielder](https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/)
   - [The Tesla Roadster 2 Is Here—and It Flies](https://www.wired.com/story/tesla-roadster-2-launch/)
   - [Total Wireless Promo Codes & Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
   - [Upgrade Your Thermostat for Winter With This Ecobee Deal for $120](https://www.wired.com/story/ecobee-fall-sale-2026/)
@@ -461,6 +471,7 @@
   - [Premise and Primitive](https://dyrnq.com/premise-and-primitive/)
 - 奇客Solidot–传递最新科技情报
   - [三季度中国手机出货量下跌 15.4%](https://www.solidot.org/story?sid=85630)
+  - [人真能活到 200 岁吗？](https://www.solidot.org/story?sid=85632)
   - [动物飞行的能量成本受大气条件影响](https://www.solidot.org/story?sid=85627)
 - 爱范儿
   - [Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样](https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -476,6 +487,7 @@
 - 黑海洋
   - [Meta公司发布“美国最强”开放权重模型](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83-%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA-%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B)
   - [“出现了误判”，日本误报9.9级地震](https://blog.upx8.com/%E5%87%BA%E7%8E%B0%E4%BA%86%E8%AF%AF%E5%88%A4-%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59-9%E7%BA%A7%E5%9C%B0%E9%9C%87)
+  - [信实工业驳斥马斯克指责 称也在等待批准](https://blog.upx8.com/%E4%BF%A1%E5%AE%9E%E5%B7%A5%E4%B8%9A%E9%A9%B3%E6%96%A5%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8C%87%E8%B4%A3-%E7%A7%B0%E4%B9%9F%E5%9C%A8%E7%AD%89%E5%BE%85%E6%89%B9%E5%87%86)
   - [日本信息泄露频发因APP牵出服务器弱点 网络攻击或利用AI](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E9%A2%91%E5%8F%91%E5%9B%A0APP%E7%89%B5%E5%87%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%B1%E7%82%B9-%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%96%E5%88%A9%E7%94%A8AI)
   - [腾讯检测到来自AI智能体的非预期行为](https://blog.upx8.com/%E8%85%BE%E8%AE%AF%E6%A3%80%E6%B5%8B%E5%88%B0%E6%9D%A5%E8%87%AAAI%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A1%8C%E4%B8%BA)
   - [🖼 ✈️✈️✈️从此告别封号烦恼🎉🎉🎉](https://blog.upx8.com/%E4%BB%8E%E6%AD%A4%E5%91%8A%E5%88%AB%E5%B0%81%E5%8F%B7%E7%83%A6%E6%81%BC)
