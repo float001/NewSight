@@ -5,6 +5,8 @@
   - [workbudy 国内版被自动升级到国际版，就因为版本号比国内版高](https://2libra.com/post/ai-programming/RxZ0nfs)
 - 404 Media
   - [Behind the Blog: Doing Whatever](https://www.404media.co/behind-the-blog-doing-whatever/)
+- Ars Technica
+  - [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/)
 - CoinTelegraph
   - [Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race](https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -12,9 +14,12 @@
 - CyberNews
   - [TP-Link Tapo camera flaw lets hackers seize full control – update urged](https://cybernews.com/security/tp-link-tapo-camera-flaw-lets-hackers-seize-full-control-update-urged/)
 - daringfireball.net
+  - [How They Got Duo Support in NetNewsWire](https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html)
   - [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/)
+  - [★ Real Artists Ship, Tesla Edition](https://daringfireball.net/2026/10/real_artists_ship_tesla_edition)
 - darkreading
   - [AI Takes Control of Robotic Arm in 16 Minutes Flat](https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes)
+  - [BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs](https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs)
   - [Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform](https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield)
   - [Enterprise AI Enters Risk Management Phase as Security Concerns Rise](https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise)
 - Fidelis Security
@@ -58,6 +63,7 @@
   - [CVE-2026-61726 Tandoor Recipes: Private recipe authorization bypass via /api/step/ - read and modify another Space member's private recipe content exploit](https://sploitus.com/exploit?id=CVELIST:CVE-2026-61726&utm_source=rss&utm_medium=rss)
   - [CVE-2026-85231 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-85231&utm_source=rss&utm_medium=rss)
   - [CVE-2026-85977 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-85977&utm_source=rss&utm_medium=rss)
+  - [How-to-Exploit-HRDP](https://sploitus.com/exploit?id=70F0260E-6579-59D1-8A07-68E349E3E323&utm_source=rss&utm_medium=rss)
   - [PenX exploit](https://sploitus.com/exploit?id=48C20B85-FE21-5FEA-A0ED-5F9A815C9EE4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
@@ -69,15 +75,23 @@
   - [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
 - The Block
   - [Coinbase to power stablecoin-backed cards for Marqeta customers](https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833)
+  - [Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen](https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839)
 - The Decoder
   - [ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs](https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/)
   - [China tightens export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/)
 - The Verge
+  - [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
   - [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale)
+  - [We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
   - [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home)
 - Vulners.com RSS Feed
+  - [CVE-2026-102607](https://vulners.com/nvd/NVD:CVE-2026-102607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102608](https://vulners.com/nvd/NVD:CVE-2026-102608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102834](https://vulners.com/nvd/NVD:CVE-2026-102834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102923](https://vulners.com/nvd/NVD:CVE-2026-102923?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102941](https://vulners.com/nvd/NVD:CVE-2026-102941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108709](https://vulners.com/nvd/NVD:CVE-2026-108709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108743](https://vulners.com/nvd/NVD:CVE-2026-108743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111581](https://vulners.com/nvd/NVD:CVE-2026-111581?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111681](https://vulners.com/nvd/NVD:CVE-2026-111681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111682](https://vulners.com/nvd/NVD:CVE-2026-111682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -122,6 +136,7 @@
   - [CVE-2026-111723](https://vulners.com/nvd/NVD:CVE-2026-111723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111793](https://vulners.com/cvelist/CVELIST:CVE-2026-111793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26846](https://vulners.com/nvd/NVD:CVE-2026-26846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-30971](https://vulners.com/nvd/NVD:CVE-2026-30971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-41582](https://vulners.com/nvd/NVD:CVE-2026-41582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42269](https://vulners.com/nvd/NVD:CVE-2026-42269?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-42270](https://vulners.com/nvd/NVD:CVE-2026-42270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -141,9 +156,18 @@
   - [CVE-2026-57486](https://vulners.com/nvd/NVD:CVE-2026-57486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57487](https://vulners.com/nvd/NVD:CVE-2026-57487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57488](https://vulners.com/nvd/NVD:CVE-2026-57488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59963](https://vulners.com/nvd/NVD:CVE-2026-59963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59966](https://vulners.com/nvd/NVD:CVE-2026-59966?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59970](https://vulners.com/nvd/NVD:CVE-2026-59970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61726](https://vulners.com/nvd/NVD:CVE-2026-61726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68572](https://vulners.com/nvd/NVD:CVE-2026-68572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68573](https://vulners.com/nvd/NVD:CVE-2026-68573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68906](https://vulners.com/nvd/NVD:CVE-2026-68906?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68907](https://vulners.com/nvd/NVD:CVE-2026-68907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68908](https://vulners.com/nvd/NVD:CVE-2026-68908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69076](https://vulners.com/nvd/NVD:CVE-2026-69076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69077](https://vulners.com/nvd/NVD:CVE-2026-69077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-69080](https://vulners.com/nvd/NVD:CVE-2026-69080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77474 dcg: Exponential-time command-substitution preprocessing lets a crafted command hang dcg and bypass the guard via hook-timeout fail-open](https://vulners.com/cve/CVE-2026-77474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77630](https://vulners.com/nvd/NVD:CVE-2026-77630?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80092](https://vulners.com/nvd/NVD:CVE-2026-80092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -171,8 +195,10 @@
   - [CVE-2026-95859](https://vulners.com/nvd/NVD:CVE-2026-95859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96424](https://vulners.com/nvd/NVD:CVE-2026-96424?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96425](https://vulners.com/nvd/NVD:CVE-2026-96425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96620](https://vulners.com/nvd/NVD:CVE-2026-96620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97380 MariaDB: GRANT PROXY with empty password incorrectly checks grantor's privileges](https://vulners.com/cve/CVE-2026-97380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97380 MariaDB: GRANT PROXY with empty password incorrectly checks grantor's privileges](https://vulners.com/cvelist/CVELIST:CVE-2026-97380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [How-to-Exploit-HRDP](https://vulners.com/githubexploit/70F0260E-6579-59D1-8A07-68E349E3E323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://vulners.com/thn/THN:E7302D9164531AC912951E53B5C68FBA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Venture Capital Is Killing Itself](https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/)
