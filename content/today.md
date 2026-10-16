@@ -5,24 +5,37 @@
   - [workbudy 国内版被自动升级到国际版，就因为版本号比国内版高](https://2libra.com/post/ai-programming/RxZ0nfs)
 - 404 Media
   - [Behind the Blog: Doing Whatever](https://www.404media.co/behind-the-blog-doing-whatever/)
+- CoinTelegraph
+  - [Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race](https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Stablecoin remittances cost 84% less than traditional transfers, report finds](https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [TP-Link Tapo camera flaw lets hackers seize full control – update urged](https://cybernews.com/security/tp-link-tapo-camera-flaw-lets-hackers-seize-full-control-update-urged/)
 - daringfireball.net
   - [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/)
+- Fidelis Security
+  - [EDR Alert Checklist: The Information Security Teams Need for Faster Investigation and Response](https://fidelissecurity.com/threatgeek/endpoint-security/edr-alert-checklist-for-faster-investigation/)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
   - [/dev/null: social network for developers](https://dev-null.sh)
+  - [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/)
   - [Desire to Move Permanently to U.S. at New Low](https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx)
   - [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
+  - [Piramidal (YC W24) Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
 - IEEE Spectrum
+  - [IEEE Offers More Services to Cities That Want to Be Smarter](https://spectrum.ieee.org/ieee-smart-cities-new-services)
   - [Simulation App Speeds Up Electric Truck Battery Design](https://spectrum.ieee.org/electric-truck-battery-design-simulation)
 - TechCrunch
   - [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
   - [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
   - [In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder](https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/)
+  - [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
   - [Tressfecta wants to make hair braiding a less arduous task for hairstylists](https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/)
   - [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
+- The Block
+  - [Coinbase to power stablecoin-backed cards for Marqeta customers](https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833)
+- The Decoder
+  - [China tightens export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/)
 - The Verge
   - [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale)
 - Vulners.com RSS Feed
