@@ -5,6 +5,7 @@
   - [ai 开发求助](https://2libra.com/post/ai-programming/RC31zyN)
   - [opencode 上下文问题](https://2libra.com/post/ai-programming/h5-tzr4)
   - [Tesla Roadster 有点夸张了啊](https://2libra.com/post/automobile/JumwEVz)
+  - [workbuddy 补偿积分记得领](https://2libra.com/post/deal-hunter/OVSBl0W)
   - [【运动打卡】 第 7️⃣天，今天小雨 🌧️在楼下跑步机爬坡](https://2libra.com/post/sports/o1cv48e)
   - [【💰50％】年假清零提醒！](https://2libra.com/post/office-life/Dv8iQu6)
   - [【💰】你们用键盘打字的时候，落字是左手按空格还是右手按空格？](https://2libra.com/post/small-things/t1IX25f)
@@ -19,12 +20,14 @@
   - [时代的代价：「恩格斯停顿」再次重现 😮‍💨😮‍💨😮‍💨](https://2libra.com/post/social-observation/KQUzKGR)
   - [有的车刹车都能踩断，有的车已经实现空中平衡启停了](https://2libra.com/post/automobile/TDgG-HX)
   - [求助，考研择校，想了解一下现在的互联网](https://2libra.com/post/help-requests/TZiN_pw)
+  - [特斯拉 Roadster 会飞的视频大家看了吗？](https://2libra.com/post/automobile/jxcGFdj)
   - [现在有个转 AI 方向的机会，不知道该不该转](https://2libra.com/post/workplace-stories/ADSXXQT)
   - [越来越感觉失业范围扩大了，也可能是幸存者偏差！](https://2libra.com/post/social-observation/GlUBbEn)
   - [还有哪些有收益的徽章可以主动获得？](https://2libra.com/post/forum-function/su6qIwg)
   - [还有零支出的 AI 使用者么？](https://2libra.com/post/ai-tools/lXk3aGM)
   - [违规图【探讨版】](https://2libra.com/post/community/fHzgpp8)
   - [问问大家用 ai 定时任务一般都做什么](https://2libra.com/post/ai-applications/RxmkfrE)
+  - [😢️ 抖机灵 扣金币了](https://2libra.com/post/forum-function/r3IH4Cf)
 - 404 Media
   - [Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough](https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/)
   - [Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr](https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/)
@@ -36,6 +39,7 @@
   - [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/)
 - CoinTelegraph
   - [Australia releases draft bill to adopt OECD crypto tax reporting framework](https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Balaji’s ‘Singapore of social media’ begins with a wave of bans](https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance.US seeks $1B valuation in potential $100M funding round: Report](https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -84,11 +88,15 @@
 - Horizon3.ai
   - [CVE-2026-104935 | Ivanti Connect Secure Authentication Bypass and Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-104935/)
   - [From Proven Attack Paths to Verified Fixes: Horizon3 and Torq Close the Remediation Loop](https://horizon3.ai/intelligence/blogs/horizon3-torq-verified-security-remediation/)
+  - [Horizon3 and Pax8 Expand Partnership to Bring Autonomous Security Testing to MSPs Across Europe](https://horizon3.ai/news/press-release/horizon3-pax8-partnership-expansion-europe/)
   - [Horizon3 Promotes Ellen Sundra to Chief Customer Officer to Advance Customer Success and Security Outcomes](https://horizon3.ai/news/press-release/ellen-sundra-chief-customer-officer-horizon3/)
   - [Horizon3 Promotes Keith Poyser to General Manager, EMEA Following More Than 260% Regional Revenue Growth](https://horizon3.ai/news/press-release/keith-poyser-general-manager-emea-horizon3/)
+- idiallo.com
+  - [This video is 2 minutes long](https://idiallo.com/byte-size/two-minutes-long-video)
 - rtl-sdr.com
   - [Demod Updates: Adds Support for OpenWebRX, FT8 Decoding, CarPlay and an Android Version](https://www.rtl-sdr.com/demod-updates-adds-support-for-openwebrx-ft8-decoding-carplay-and-an-android-version/)
   - [FoxSDR Adds Airports & Navaids Plugin](https://www.rtl-sdr.com/foxsdr-adds-airports-navaids-plugin/)
+  - [LakeShark Update: Using an LR2021 LoRa Chip as an SDR for Portable P25, POCSAG and FM Reception on the ESP32-P4](https://www.rtl-sdr.com/lakeshark-update-using-an-lr2021-lora-chip-as-an-sdr-for-portable-p25-pocsag-and-fm-reception-on-the-esp32-p4/)
 - simonwillison.net
   - [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/)
 - Sploitus.com Exploits RSS Feed
@@ -102,6 +110,7 @@
   - [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)
   - [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)
   - [Bluesky wants to make it easier to buy, sell, and fundraise on the network](https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/)
+  - [Even Benchmark thinks AI is eroding the venture pact against backing rivals](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)
   - [Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16](https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/)
   - [SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US](https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/)
   - [Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/)
@@ -112,6 +121,7 @@
   - [Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users](https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720)
   - [MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion](https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729)
   - [Multiliquid, a settlement platform for tokenized assets, raises $8 million](https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693)
+  - [US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement](https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775)
 - The Decoder
   - [Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM](https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/)
   - [Google wants Gemini 4 Argon to be the only AI model robots need](https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/)
@@ -353,6 +363,7 @@
   - [Citizen Lab 追踪到半岛电视台的零点击 Candiru 间谍软件感染源于定向在线广告](https://buaq.net/go-448693.html)
   - [GitLab远程代码执行漏洞（CVE-2026-97229）通告](https://buaq.net/go-448686.html)
   - [jumpserver v5.1.0](https://buaq.net/go-448691.html)
+  - [LakeShark Update: Using an LR2021 LoRa Chip as an SDR for Portable P25, POCSAG and FM Reception on the ESP32-P4](https://buaq.net/go-448708.html)
   - [retrokit](https://buaq.net/go-448598.html)
   - [Silent Lynx 利用 WinRAR 漏洞在 CIS 政府攻击中部署反向 Shell](https://buaq.net/go-448694.html)
   - [Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)](https://buaq.net/go-448645.html)
@@ -365,6 +376,7 @@
   - [Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样](https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？](https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失](https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [特斯拉发布全新 Roadster！不开玩笑，它真的会飞](https://www.ifanr.com/1684619?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [GitLab远程代码执行漏洞（CVE-2026-97229）通告](https://blog.nsfocus.net/gitlab%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-97229%ef%bc%89%e9%80%9a%e5%91%8a/)
   - [《大模型安全网关产品安全指南》国家标准试点验证会顺利召开](https://blog.nsfocus.net/%e3%80%8a%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%ae%89%e5%85%a8%e7%bd%91%e5%85%b3%e4%ba%a7%e5%93%81%e5%ae%89%e5%85%a8%e6%8c%87%e5%8d%97%e3%80%8b%e5%9b%bd%e5%ae%b6%e6%a0%87%e5%87%86%e8%af%95%e7%82%b9%e9%aa%8c/)
