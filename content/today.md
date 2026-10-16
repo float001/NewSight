@@ -12,6 +12,7 @@
 - blog.jim-nielsen.com
   - [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/)
 - CoinTelegraph
+  - [Australia releases draft bill to adopt OECD crypto tax reporting framework](https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance.US seeks $1B valuation in potential $100M funding round: Report](https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -63,12 +64,14 @@
 - TechCrunch
   - [Amazon devices chief Panos Panay on the importance of failure and bouncing back from it](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)
   - [Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/)
+  - [And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/)
   - [Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)
   - [Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more](https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/)
   - [Bluesky wants to make it easier to buy, sell, and fundraise on the network](https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/)
   - [Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16](https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/)
   - [SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US](https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/)
   - [Volvo makes a bigger bet on Nvidia](https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/)
+  - [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
 - The Block
   - [CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat](https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686)
   - [Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users](https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720)
@@ -88,6 +91,7 @@
   - [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled)
   - [Sony made a $5,900 gold-plated Walkman MP3 player](https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player)
   - [Sony’s WH-1000XM6 headphones are $130 off today only](https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale)
+  - [Steam can now show game achievements in separate ‘sets’](https://www.theverge.com/games/1012541/valve-steam-achievement-sets)
   - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)
   - [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
   - [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)
@@ -252,6 +256,8 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样](https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？](https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Meta公司发布“美国最强”开放权重模型](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83-%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA-%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B)
+  - [日本信息泄露频发因APP牵出服务器弱点 网络攻击或利用AI](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E9%A2%91%E5%8F%91%E5%9B%A0APP%E7%89%B5%E5%87%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%B1%E7%82%B9-%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%96%E5%88%A9%E7%94%A8AI)
