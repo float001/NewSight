@@ -7,6 +7,7 @@
   - [Behind the Blog: Doing Whatever](https://www.404media.co/behind-the-blog-doing-whatever/)
 - CoinTelegraph
   - [Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race](https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin remittances cost 84% less than traditional transfers, report finds](https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [TP-Link Tapo camera flaw lets hackers seize full control – update urged](https://cybernews.com/security/tp-link-tapo-camera-flaw-lets-hackers-seize-full-control-update-urged/)
@@ -14,6 +15,8 @@
   - [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/)
 - darkreading
   - [AI Takes Control of Robotic Arm in 16 Minutes Flat](https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes)
+  - [Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform](https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield)
+  - [Enterprise AI Enters Risk Management Phase as Security Concerns Rise](https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise)
 - Fidelis Security
   - [EDR Alert Checklist: The Information Security Teams Need for Faster Investigation and Response](https://fidelissecurity.com/threatgeek/endpoint-security/edr-alert-checklist-for-faster-investigation/)
 - filfre.net
@@ -30,11 +33,38 @@
 - IEEE Spectrum
   - [IEEE Offers More Services to Cities That Want to Be Smarter](https://spectrum.ieee.org/ieee-smart-cities-new-services)
   - [Simulation App Speeds Up Electric Truck Battery Design](https://spectrum.ieee.org/electric-truck-battery-design-simulation)
+- NVISO Labs
+  - [Keystrokes in Disguise: Forensic Analysis of a Digispark HID Device](https://blog.nviso.eu/2026/10/16/keystrokes-in-disguise-forensic-analysis-of-a-digispark-hid-device/)
+- Sploitus.com Exploits RSS Feed
+  - [CVE-2026-102607 ZoneMinder: Authenticated OS Command Injection (RCE) via Export Feature exploit](https://sploitus.com/exploit?id=CVE-2026-102607&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-102607 ZoneMinder: Authenticated OS Command Injection (RCE) via Export Feature exploit](https://sploitus.com/exploit?id=CVELIST:CVE-2026-102607&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-102608 ZoneMinder: Authenticated OS Command Injection via unsanitized Monitor Name in event export (download_functions.php) exploit](https://sploitus.com/exploit?id=CVE-2026-102608&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-102608 ZoneMinder: Authenticated OS Command Injection via unsanitized Monitor Name in event export (download_functions.php) exploit](https://sploitus.com/exploit?id=CVELIST:CVE-2026-102608&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-102917 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-102917&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-107674 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-107674&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-111793 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-111793&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-17068 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-17068&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-17073 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-17073&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-17275 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-17275&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-17488 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-17488&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-17491 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-17491&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-59963 Tandoor Recipes: Private recipe file and share-link authorization bypass in recipe utility API endpoints exploit](https://sploitus.com/exploit?id=CVE-2026-59963&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-59963 Tandoor Recipes: Private recipe file and share-link authorization bypass in recipe utility API endpoints exploit](https://sploitus.com/exploit?id=CVELIST:CVE-2026-59963&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-59966 Tandoor Recipes: ReDoS (Regular Expression Denial of Service) via User-Controlled Automation Regex Patterns exploit](https://sploitus.com/exploit?id=CVE-2026-59966&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-59966 Tandoor Recipes: ReDoS (Regular Expression Denial of Service) via User-Controlled Automation Regex Patterns exploit](https://sploitus.com/exploit?id=CVELIST:CVE-2026-59966&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-59970 Tandoor Recipes: Blind SSRF via AI provider URL (api_base) exploit](https://sploitus.com/exploit?id=CVE-2026-59970&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-59970 Tandoor Recipes: Blind SSRF via AI provider URL (api_base) exploit](https://sploitus.com/exploit?id=CVELIST:CVE-2026-59970&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-61726 Tandoor Recipes: Private recipe authorization bypass via /api/step/ - read and modify another Space member's private recipe content exploit](https://sploitus.com/exploit?id=CVE-2026-61726&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-61726 Tandoor Recipes: Private recipe authorization bypass via /api/step/ - read and modify another Space member's private recipe content exploit](https://sploitus.com/exploit?id=CVELIST:CVE-2026-61726&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-85231 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-85231&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-85977 exploit](https://sploitus.com/exploit?id=NVD:CVE-2026-85977&utm_source=rss&utm_medium=rss)
+  - [PenX exploit](https://sploitus.com/exploit?id=48C20B85-FE21-5FEA-A0ED-5F9A815C9EE4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
   - [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)
   - [In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder](https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/)
   - [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+  - [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
   - [Tressfecta wants to make hair braiding a less arduous task for hairstylists](https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/)
   - [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
 - The Block
