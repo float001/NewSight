@@ -1,8 +1,10 @@
 # 今日安全资讯（2026-10-16）
 
 - 2Libra
+  - [企业微信机器人推送模式变更，社区是否考虑支持长连接推送？](https://2libra.com/post/community/dvBc4xu)
   - [在宾馆听到“啊…啊……啊……啊”会不会很尴尬](https://2libra.com/post/personal-life/sjrZnsM)
   - [工作是真不好找啊](https://2libra.com/post/job-hunting/HG0Z9Fm)
+  - [违规图【探讨版】](https://2libra.com/post/community/fHzgpp8)
 - 404 Media
   - [Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr](https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/)
 - Ars Technica
@@ -16,12 +18,15 @@
   - [Binance.US seeks $1B valuation in potential $100M funding round: Report](https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MSCI adopts index exclusion rules that could oust Strategy](https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Scammer loses $4.8M stored on tampered Ledgers: Asia Express](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sweden revisits digital krona as ECB advances digital euro plans](https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AdFection Attack Hid Zero-Click Spyware Inside Online Ads](https://www.cyberkendra.com/2026/10/adfection-discover-tech-candiru-spyware-ads.html)
   - [Closing Security Gaps by Identifying Unmanaged Devices](https://www.cyberkendra.com/2026/10/closing-security-gaps-by-identifying-unmanaged-devices.html)
+  - [CVE-2026-102764: BeyondTrust Zero-Day Exploited in Attacks](https://www.cyberkendra.com/2026/10/cve-2026-102764-beyondtrust-zero-day-exploited-in-attacks.html)
   - [Next.js Patches Two Critical Unauthenticated RCE Flaws](https://www.cyberkendra.com/2026/10/next-js-patches-two-critical-unauthenticated-rce-flaws.html)
+  - [Palo Alto Patches Exploited PAN-OS Flaw CVE-2026-0322](https://www.cyberkendra.com/2026/10/palo-alto-patches-exploited-pan-os-flaw-cve-2026-0322.html)
   - [PwnEscape Linux Kernel Flaw Lets Guests Escape to Host](https://www.cyberkendra.com/2026/10/pwnescape-linux-kernel-flaw-lets-guests-escape-to-host.html)
   - [SiteGuard WAF Flaw CVE-2026-106931 Exploited in Attacks](https://www.cyberkendra.com/2026/10/siteguard-server-edition-cve-2026-106931.html)
   - [Skype for Business Server RCE CVE-2026-70297 Patched](https://www.cyberkendra.com/2026/10/skype-for-business-server-rce-cve-2026-70297-patched.html)
@@ -141,6 +146,7 @@
   - [CVE-2026-111094](https://vulners.com/nvd/NVD:CVE-2026-111094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111095](https://vulners.com/nvd/NVD:CVE-2026-111095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111096](https://vulners.com/nvd/NVD:CVE-2026-111096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111210](https://vulners.com/nvd/NVD:CVE-2026-111210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111272](https://vulners.com/nvd/NVD:CVE-2026-111272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111273](https://vulners.com/nvd/NVD:CVE-2026-111273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111274](https://vulners.com/nvd/NVD:CVE-2026-111274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -186,6 +192,8 @@
   - [CVE-2026-111367](https://vulners.com/nvd/NVD:CVE-2026-111367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111368](https://vulners.com/nvd/NVD:CVE-2026-111368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111369](https://vulners.com/nvd/NVD:CVE-2026-111369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16754](https://vulners.com/nvd/NVD:CVE-2026-16754?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16755](https://vulners.com/nvd/NVD:CVE-2026-16755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45449](https://vulners.com/nvd/NVD:CVE-2026-45449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45450](https://vulners.com/nvd/NVD:CVE-2026-45450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45451](https://vulners.com/nvd/NVD:CVE-2026-45451?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -232,13 +240,19 @@
   - [CVE-2026-63442](https://vulners.com/nvd/NVD:CVE-2026-63442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71490](https://vulners.com/nvd/NVD:CVE-2026-71490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75505](https://vulners.com/nvd/NVD:CVE-2026-75505?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75941](https://vulners.com/nvd/NVD:CVE-2026-75941?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-84731](https://vulners.com/nvd/NVD:CVE-2026-84731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84823](https://vulners.com/nvd/NVD:CVE-2026-84823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87018 undici vulnerable to Denial of Service via TLS 1.2 certificate-changing renegotiation](https://vulners.com/cve/CVE-2026-87018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87018 undici vulnerable to Denial of Service via TLS 1.2 certificate-changing renegotiation](https://vulners.com/cvelist/CVELIST:CVE-2026-87018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88753](https://vulners.com/nvd/NVD:CVE-2026-88753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89057](https://vulners.com/nvd/NVD:CVE-2026-89057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89062](https://vulners.com/nvd/NVD:CVE-2026-89062?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92228](https://vulners.com/nvd/NVD:CVE-2026-92228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92629](https://vulners.com/nvd/NVD:CVE-2026-92629?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92707 MessagePack: Nested arrays can blow past buffer length limits](https://vulners.com/cve/CVE-2026-92707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92707 MessagePack: Nested arrays can blow past buffer length limits](https://vulners.com/cvelist/CVELIST:CVE-2026-92707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92777](https://vulners.com/nvd/NVD:CVE-2026-92777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92982](https://vulners.com/nvd/NVD:CVE-2026-92982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94134](https://vulners.com/nvd/NVD:CVE-2026-94134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94135](https://vulners.com/nvd/NVD:CVE-2026-94135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -253,11 +267,15 @@
   - [CVE-2026-97712](https://vulners.com/nvd/NVD:CVE-2026-97712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Upgrade Your Thermostat for Winter With This Ecobee Deal for $120](https://www.wired.com/story/ecobee-fall-sale-2026/)
+- 不安全
+  - [retrokit](https://buaq.net/go-448598.html)
+  - [Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)](https://buaq.net/go-448645.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样](https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？](https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失](https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [Meta公司发布“美国最强”开放权重模型](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83-%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA-%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B)
   - [日本信息泄露频发因APP牵出服务器弱点 网络攻击或利用AI](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E9%A2%91%E5%8F%91%E5%9B%A0APP%E7%89%B5%E5%87%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%B1%E7%82%B9-%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%96%E5%88%A9%E7%94%A8AI)
