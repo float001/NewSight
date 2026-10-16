@@ -12,6 +12,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin remittances cost 84% less than traditional transfers, report finds](https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Cyberattack throws US bankruptcy courts into chaos nationwide: What does it all mean?](https://cybernews.com/security/us-bankruptcy-courts-cyberattack-bae-systems/)
   - [TP-Link Tapo camera flaw lets hackers seize full control – update urged](https://cybernews.com/security/tp-link-tapo-camera-flaw-lets-hackers-seize-full-control-update-urged/)
 - daringfireball.net
   - [How They Got Duo Support in NetNewsWire](https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html)
@@ -71,6 +72,7 @@
   - [In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder](https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/)
   - [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
   - [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
+  - [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
   - [Tressfecta wants to make hair braiding a less arduous task for hairstylists](https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/)
   - [Waymo’s robotaxis are headed to Canada](https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/)
 - The Block
@@ -207,5 +209,6 @@
   - [Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’](https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/)
   - [Razer Barracuda V2 Pro Review: A Gaming Headset for the Office](https://www.wired.com/review/razer-barracuda-v2-pro/)
   - [Thank Gen Z for the ‘Girls’ Revival](https://www.wired.com/story/thank-gen-z-for-the-girls-revival/)
+  - [The Leap Second Is No More](https://www.wired.com/story/leap-second-is-abolished-bipm-says/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
