@@ -2,6 +2,8 @@
 
 - 2Libra
   - [2027 年找工作 城市推荐](https://2libra.com/post/recommendations/qxef3Nn)
+  - [ai 开发求助](https://2libra.com/post/ai-programming/RC31zyN)
+  - [opencode 上下文问题](https://2libra.com/post/ai-programming/h5-tzr4)
   - [Tesla Roadster 有点夸张了啊](https://2libra.com/post/automobile/JumwEVz)
   - [【运动打卡】 第 7️⃣天，今天小雨 🌧️在楼下跑步机爬坡](https://2libra.com/post/sports/o1cv48e)
   - [【💰50％】年假清零提醒！](https://2libra.com/post/office-life/Dv8iQu6)
@@ -16,11 +18,15 @@
   - [工作是真不好找啊](https://2libra.com/post/job-hunting/HG0Z9Fm)
   - [时代的代价：「恩格斯停顿」再次重现 😮‍💨😮‍💨😮‍💨](https://2libra.com/post/social-observation/KQUzKGR)
   - [有的车刹车都能踩断，有的车已经实现空中平衡启停了](https://2libra.com/post/automobile/TDgG-HX)
+  - [求助，考研择校，想了解一下现在的互联网](https://2libra.com/post/help-requests/TZiN_pw)
   - [现在有个转 AI 方向的机会，不知道该不该转](https://2libra.com/post/workplace-stories/ADSXXQT)
   - [越来越感觉失业范围扩大了，也可能是幸存者偏差！](https://2libra.com/post/social-observation/GlUBbEn)
+  - [还有哪些有收益的徽章可以主动获得？](https://2libra.com/post/forum-function/su6qIwg)
   - [还有零支出的 AI 使用者么？](https://2libra.com/post/ai-tools/lXk3aGM)
   - [违规图【探讨版】](https://2libra.com/post/community/fHzgpp8)
+  - [问问大家用 ai 定时任务一般都做什么](https://2libra.com/post/ai-applications/RxmkfrE)
 - 404 Media
+  - [Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough](https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/)
   - [Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr](https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/)
 - Ars Technica
   - [Hegseth’s dubious low-T screening may flag up to 25 percent of the Army](https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/)
@@ -289,6 +295,7 @@
   - [CVE-2026-97712](https://vulners.com/nvd/NVD:CVE-2026-97712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/B11DD9AC-19F7-5271-9236-65343354D9A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Tesla Flying Car? I Don’t Know, Man](https://www.wired.com/story/tesla-flying-car-faa/)
   - [The Tesla Roadster 2 Is Here—and It Flies](https://www.wired.com/story/tesla-roadster-2-launch/)
   - [Upgrade Your Thermostat for Winter With This Ecobee Deal for $120](https://www.wired.com/story/ecobee-fall-sale-2026/)
 - 不安全
