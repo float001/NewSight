@@ -9,6 +9,7 @@
   - [workbuddy 补偿积分记得领](https://2libra.com/post/deal-hunter/OVSBl0W)
   - [“你今天过得怎么样”“你喜欢的人也喜欢你吗”“你的未来一定很有前途吧”](https://2libra.com/post/social-observation/h1ZwrpT)
   - [【兑换码】🔥 送 CDK｜不烧心的住宅代理！规矩立得住，账算得清 Proxy001](https://2libra.com/post/promotion/a3mO96P)
+  - [【拼车】 iCloud 国区 2T](https://2libra.com/post/sharing/7Ftu17d)
   - [【运动打卡】 第 7️⃣天，今天小雨 🌧️在楼下跑步机爬坡](https://2libra.com/post/sports/o1cv48e)
   - [【高危风险提醒】CVE-2026-99999 关于 Linux 内核 PwnEscape 漏洞的安全提醒](https://2libra.com/post/network-security/S0ptqRY)
   - [【💰50％】年假清零提醒！](https://2libra.com/post/office-life/Dv8iQu6)
@@ -18,6 +19,7 @@
   - [【💰】周五了！终于能休息两天了，感觉连续上了 2 周的班](https://2libra.com/post/touch-fish/sFSuhRE)
   - [【💰】如何记录自己的碎碎念？](https://2libra.com/post/note-management/uegeeGd)
   - [【💰】有没有 V2EX 的大佬，求一个邀请码](https://2libra.com/post/invite-code/RPYjGZI)
+  - [【💰】终于到周末啦！！打游戏打游戏](https://2libra.com/post/slacking-off/L3UyDvG)
   - [书荒，求推荐！](https://2libra.com/post/recommendations/VPhCqew)
   - [今天这个妙笔生花是我见过最少的！](https://2libra.com/post/forum-function/fTWnk1B)
   - [企业微信机器人推送模式变更，社区是否考虑支持长连接推送？](https://2libra.com/post/community/dvBc4xu)
@@ -43,6 +45,7 @@
   - [AI安全专题周报（20261016）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-9/)
 - 404 Media
   - [Computers Made of Human Brain Tissue Identify Braille Letters In Breakthrough](https://www.404media.co/computers-made-of-human-brain-tissue-identify-braille-letters-in-breakthrough/)
+  - [Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator](https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/)
   - [Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr](https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/)
 - Ars Technica
   - [Hegseth’s dubious low-T screening may flag up to 25 percent of the Army](https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/)
@@ -57,14 +60,18 @@
   - [Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant](https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Capital B reports $78M H1 loss driven by Bitcoin impairment charge](https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins](https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Deutsche Bank prepares German crypto custody launch, eyes Asia: Report](https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ](https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Judge rejects CFTC, Gemini bid to undo $5M settlement](https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ledger’s early implant warnings deserved more action, Karpelès says](https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MSCI adopts index exclusion rules that could oust Strategy](https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI model helped itself to testnet crypto, then kept quiet about it](https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Scammer loses $4.8M stored on tampered Ledgers: Asia Express](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana’s Liu says Shanghai event postponed over registration surge](https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sweden revisits digital krona as ECB advances digital euro plans](https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Ledger’s early implant warnings deserved more action, Karpelès says](https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AdFection Attack Hid Zero-Click Spyware Inside Online Ads](https://www.cyberkendra.com/2026/10/adfection-discover-tech-candiru-spyware-ads.html)
   - [Closing Security Gaps by Identifying Unmanaged Devices](https://www.cyberkendra.com/2026/10/closing-security-gaps-by-identifying-unmanaged-devices.html)
@@ -81,8 +88,10 @@
   - [Amazon’s new wearables listen to conversations, sparking privacy concerns](https://cybernews.com/tech/amazons-bee-wearables-privacy-concerns/)
   - [Build or surrender in the AI race, Mistral CEO Arthur Mensch tells Europe](https://cybernews.com/ai-news/mistral-europe-surrender/)
   - [Burger King's app breach exposed 11M records, customers advised to be cautious](https://cybernews.com/security/burger-kings-app-data-breach/)
+  - [Claude Code's preview pane could leak your secrets](https://cybernews.com/security/claude-code-preview-pane-secret-leak-flaw/)
   - [Dragon Ball legend blasts AI for stealing Goku’s voice](https://cybernews.com/ai-news/dragon-ball-goku-ai-voice-clone/)
   - [Dutch group sues Meta after it refuses to alter its "spy glasses"](https://cybernews.com/news/meta-glasses-privacy-lawsuit/)
+  - [Eilik AI robot exposes over 8 million private chats](https://cybernews.com/privacy/eilik-ai-robot-leaks-8-million-private-chats/)
   - [Europäische X-Alternative W Social bestreitet, persönliche Daten geleakt zu haben](https://cybernews.com/de/sicherheit/w-social-datenleck/)
   - [Fake Chrome app racks up 100,000 downloads – with Google's own ads pushing it above the real thing](https://cybernews.com/security/fake-chrome-app-100000-downloads-google-ads/)
   - [Flock CEO talks progress, gunshots and firing rogue police departments](https://cybernews.com/privacy/flock-ceo-surveillance-privacy-gunshot-police-abuse/)
@@ -99,8 +108,11 @@
   - [AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too](https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks)
   - [SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape](https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape)
   - [When AI Agents Commit Breaches, Humans May Not Be Held Liable](https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable)
+  - [When Your Ransomware Negotiator Works for the Other Side](https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side)
 - defend.network
   - [PwnEscape kernel RCE, Nextcloud backdoors, ShinyHunters arrests](https://defend.network/briefings/linux-kernel-nextcloud-rce-shinyhunters-arrests-2026-10-16.html)
+- devblogs.microsoft.com/oldnewthing
+  - [C++ futures part 5: std::future and std::shared_future](https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/)
 - Google DeepMind Blog
   - [Accelerating the search for antimicrobial peptides with Google Antigravity](https://deepmind.google/blog/accelerating-antimicrobial-discovery/)
 - Hacker News Frontpage
@@ -127,6 +139,7 @@
   - [Horizon3 and Pax8 Expand Partnership to Bring Autonomous Security Testing to MSPs Across Europe](https://horizon3.ai/news/press-release/horizon3-pax8-partnership-expansion-europe/)
   - [Horizon3 Promotes Ellen Sundra to Chief Customer Officer to Advance Customer Success and Security Outcomes](https://horizon3.ai/news/press-release/ellen-sundra-chief-customer-officer-horizon3/)
   - [Horizon3 Promotes Keith Poyser to General Manager, EMEA Following More Than 260% Regional Revenue Growth](https://horizon3.ai/news/press-release/keith-poyser-general-manager-emea-horizon3/)
+  - [Meeting the ECB’s AI-Enabled Cybersecurity Supervisory Recommendations with NodeZero®](https://horizon3.ai/downloads/joint-solutions-briefs/ecb-cybersecurity-recommendations-nodezero/)
 - idiallo.com
   - [This video is 2 minutes long](https://idiallo.com/byte-size/two-minutes-long-video)
 - infosecurity-magazine.com
@@ -163,6 +176,7 @@
   - [Replit’s CEO says the future of work is the ‘self-driving company’](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/)
   - [SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US](https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/)
   - [Tesla reveals SpaceX-powered Roadster that flies and falls with style](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/)
+  - [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/)
   - [Volvo makes a bigger bet on Nvidia](https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/)
   - [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
 - The Block
@@ -170,22 +184,28 @@
   - [CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat](https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686)
   - [Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users](https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720)
   - [Google demonstrates quantum computing breakthrough as observers weigh Q-day implications](https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787)
+  - [How Ethereum Works](https://www.theblock.co/learn/ethereum/how-ethereum-works-418525)
   - [MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion](https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729)
   - [Multiliquid, a settlement platform for tokenized assets, raises $8 million](https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693)
   - [OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798)
   - [US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement](https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775)
   - [Visa Direct moves USDC prefunding into commercial production with Inyo Global](https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802)
 - The Decoder
+  - [Anthropic gives METR inside access to audit its AI models and safety practices](https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/)
   - [Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM](https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/)
   - [Google wants Gemini 4 Argon to be the only AI model robots need](https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/)
+  - [Is AI interpretability close to a breakthrough? A new essay has researchers divided](https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/)
   - [Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race](https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/)
   - [Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop](https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/)
+  - [OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year](https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/)
 - The Verge
   - [Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off](https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale)
   - [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs)
   - [E Ink upgraded the screen found in most color e-readers](https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness)
   - [Google is making inline links more prominent in AI responses](https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links)
+  - [iPhone Duo orders are already delayed into 2027](https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay)
   - [Meta and Apple team up to make Muse AI models run better on Macs](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx)
+  - [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)
   - [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled)
   - [Sony made a $5,900 gold-plated Walkman MP3 player](https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player)
   - [Sony’s WH-1000XM6 headphones are $130 off today only](https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale)
@@ -197,6 +217,7 @@
   - [The Sony Xperia 10 VI won’t be getting a promised update to Android 17](https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security)
   - [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
   - [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk)
+  - [This stretchy MagSafe storage pouch gives your phone a sizable trunk](https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage)
   - [Time is a-changin’: say goodbye to the leap second](https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change)
   - [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column)
   - [Volvo will use Nvidia’s tech for hands-free, point-to-point driving](https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban)
@@ -590,6 +611,7 @@
   - [早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失](https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [特斯拉发布全新 Roadster！不开玩笑，它真的会飞](https://www.ifanr.com/1684619?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」](https://www.ifanr.com/1684640?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地](https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [AI双轮驱动安全方案登陆亚太：绿盟科技亮相GovWare 2026](https://blog.nsfocus.net/ai%e5%8f%8c%e8%bd%ae%e9%a9%b1%e5%8a%a8%e5%ae%89%e5%85%a8%e6%96%b9%e6%a1%88%e7%99%bb%e9%99%86%e4%ba%9a%e5%a4%aa%ef%bc%9a%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%ba%ae%e7%9b%b8govware-2026/)
   - [GitLab远程代码执行漏洞（CVE-2026-97229）通告](https://blog.nsfocus.net/gitlab%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-97229%ef%bc%89%e9%80%9a%e5%91%8a/)
@@ -598,6 +620,7 @@
   - [第41次全国计算机安全学术交流会 | 绿盟科技以AI自主攻防范式，为“十五五”网络安全升级注入新动能](https://blog.nsfocus.net/%e7%ac%ac41%e6%ac%a1%e5%85%a8%e5%9b%bd%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%ae%89%e5%85%a8%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%bb%a5ai%e8%87%aa%e4%b8%bb/)
 - 黑海洋
   - [Cloudflare与OpenAI合作：优化AI信息检索体验](https://blog.upx8.com/Cloudflare%E4%B8%8EOpenAI%E5%90%88%E4%BD%9C-%E4%BC%98%E5%8C%96AI%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E4%BD%93%E9%AA%8C)
+  - [iPhone Duo预售瞬间秒杀 出货已延至明年](https://blog.upx8.com/iPhone-Duo%E9%A2%84%E5%94%AE%E7%9E%AC%E9%97%B4%E7%A7%92%E6%9D%80-%E5%87%BA%E8%B4%A7%E5%B7%B2%E5%BB%B6%E8%87%B3%E6%98%8E%E5%B9%B4)
   - [Meta公司发布“美国最强”开放权重模型](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83-%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA-%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B)
   - [“出现了误判”，日本误报9.9级地震](https://blog.upx8.com/%E5%87%BA%E7%8E%B0%E4%BA%86%E8%AF%AF%E5%88%A4-%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59-9%E7%BA%A7%E5%9C%B0%E9%9C%87)
   - [俄禁止部分中国卡车品牌投放俄罗斯市场](https://blog.upx8.com/%E4%BF%84%E7%A6%81%E6%AD%A2%E9%83%A8%E5%88%86%E4%B8%AD%E5%9B%BD%E5%8D%A1%E8%BD%A6%E5%93%81%E7%89%8C%E6%8A%95%E6%94%BE%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%82%E5%9C%BA)
