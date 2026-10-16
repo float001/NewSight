@@ -3,6 +3,7 @@
 - 2Libra
   - [2027 年找工作 城市推荐](https://2libra.com/post/recommendations/qxef3Nn)
   - [ai 开发求助](https://2libra.com/post/ai-programming/RC31zyN)
+  - [deepseek 有点太拟人了吧](https://2libra.com/post/ai-tools/APNhkZX)
   - [opencode 上下文问题](https://2libra.com/post/ai-programming/h5-tzr4)
   - [Tesla Roadster 有点夸张了啊](https://2libra.com/post/automobile/JumwEVz)
   - [workbuddy 补偿积分记得领](https://2libra.com/post/deal-hunter/OVSBl0W)
@@ -60,6 +61,7 @@
   - [MSCI adopts index exclusion rules that could oust Strategy](https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OpenAI model helped itself to testnet crypto, then kept quiet about it](https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Scammer loses $4.8M stored on tampered Ledgers: Asia Express](https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana’s Liu says Shanghai event postponed over registration surge](https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sweden revisits digital krona as ECB advances digital euro plans](https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [AdFection Attack Hid Zero-Click Spyware Inside Online Ads](https://www.cyberkendra.com/2026/10/adfection-discover-tech-candiru-spyware-ads.html)
@@ -73,11 +75,15 @@
   - [Tor Relays Hacked to Intercept SSH Connections](https://www.cyberkendra.com/2026/10/tor-relays-hacked-to-intercept-ssh-connections.html)
 - CyberNews
   - [AI pioneer Michael Jordan: super intelligence is a science fiction term](https://cybernews.com/ai-news/michael-jordan-ai/)
+  - [Al Jazeera journalists targeted by spyware through online ads](https://cybernews.com/news/al-jazeera-spyware/)
   - [Amazon’s new wearables listen to conversations, sparking privacy concerns](https://cybernews.com/tech/amazons-bee-wearables-privacy-concerns/)
+  - [Dragon Ball legend blasts AI for stealing Goku’s voice](https://cybernews.com/ai-news/dragon-ball-goku-ai-voice-clone/)
   - [Dutch group sues Meta after it refuses to alter its "spy glasses"](https://cybernews.com/news/meta-glasses-privacy-lawsuit/)
+  - [Europäische X-Alternative W Social bestreitet, persönliche Daten geleakt zu haben](https://cybernews.com/de/sicherheit/w-social-datenleck/)
   - [Fake Chrome app racks up 100,000 downloads – with Google's own ads pushing it above the real thing](https://cybernews.com/security/fake-chrome-app-100000-downloads-google-ads/)
   - [Flock CEO talks progress, gunshots and firing rogue police departments](https://cybernews.com/privacy/flock-ceo-surveillance-privacy-gunshot-police-abuse/)
   - [Pennsylvania residents reject $10,000 each to support a data center](https://cybernews.com/ai-news/pennsylvania-direct-cash-data-center/)
+  - [Sign of the times? Accenture workers can now only spend $29 on Claude per month](https://cybernews.com/ai-news/accenture-ai-spending-limits/)
   - [US tech lobbies warn Europe: breaking free will cost you billions](https://cybernews.com/privacy/europe-digital-sovereignty-us-big-tech-cada/)
 - daniel.haxx.se
   - [OSI approved the curl license](https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/)
@@ -125,6 +131,8 @@
   - [Demod Updates: Adds Support for OpenWebRX, FT8 Decoding, CarPlay and an Android Version](https://www.rtl-sdr.com/demod-updates-adds-support-for-openwebrx-ft8-decoding-carplay-and-an-android-version/)
   - [FoxSDR Adds Airports & Navaids Plugin](https://www.rtl-sdr.com/foxsdr-adds-airports-navaids-plugin/)
   - [LakeShark Update: Using an LR2021 LoRa Chip as an SDR for Portable P25, POCSAG and FM Reception on the ESP32-P4](https://www.rtl-sdr.com/lakeshark-update-using-an-lr2021-lora-chip-as-an-sdr-for-portable-p25-pocsag-and-fm-reception-on-the-esp32-p4/)
+- shkspr.mobi
+  - [Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪](https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/)
 - simonwillison.net
   - [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/)
 - Sploitus.com Exploits RSS Feed
@@ -154,7 +162,9 @@
   - [Google demonstrates quantum computing breakthrough as observers weigh Q-day implications](https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787)
   - [MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion](https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729)
   - [Multiliquid, a settlement platform for tokenized assets, raises $8 million](https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693)
+  - [OpenAI says research model spent another wallet’s testnet ETH without authorization on coding task](https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798)
   - [US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement](https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775)
+  - [Visa Direct moves USDC prefunding into commercial production with Inyo Global](https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802)
 - The Decoder
   - [Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM](https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/)
   - [Google wants Gemini 4 Argon to be the only AI model robots need](https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/)
@@ -170,7 +180,9 @@
   - [Sony made a $5,900 gold-plated Walkman MP3 player](https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player)
   - [Sony’s WH-1000XM6 headphones are $130 off today only](https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale)
   - [Steam can now show game achievements in separate ‘sets’](https://www.theverge.com/games/1012541/valve-steam-achievement-sets)
+  - [Surface Laptop Ultra review: a different kind of MacBook Pro](https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review)
   - [The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm](https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm)
+  - [The iPhone Duo is now available to preorder at $1,999](https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable)
   - [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
   - [The Tesla Roadster flew, drove upside down, and hit 60mph in under a second](https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk)
   - [Time is a-changin’: say goodbye to the leap second](https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change)
@@ -531,6 +543,7 @@
   - [人真能活到 200 岁吗？](https://www.solidot.org/story?sid=85632)
   - [动物飞行的能量成本受大气条件影响](https://www.solidot.org/story?sid=85627)
 - 爱范儿
+  - [8 年 10 亿美金，为什么《GTA VI》是今年最值得期待的游戏？](https://www.ifanr.com/1684660?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样](https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？](https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失](https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -543,8 +556,10 @@
   - [微软10月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af10%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
   - [第41次全国计算机安全学术交流会 | 绿盟科技以AI自主攻防范式，为“十五五”网络安全升级注入新动能](https://blog.nsfocus.net/%e7%ac%ac41%e6%ac%a1%e5%85%a8%e5%9b%bd%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%ae%89%e5%85%a8%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%bb%a5ai%e8%87%aa%e4%b8%bb/)
 - 黑海洋
+  - [Cloudflare与OpenAI合作：优化AI信息检索体验](https://blog.upx8.com/Cloudflare%E4%B8%8EOpenAI%E5%90%88%E4%BD%9C-%E4%BC%98%E5%8C%96AI%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E4%BD%93%E9%AA%8C)
   - [Meta公司发布“美国最强”开放权重模型](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83-%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA-%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B)
   - [“出现了误判”，日本误报9.9级地震](https://blog.upx8.com/%E5%87%BA%E7%8E%B0%E4%BA%86%E8%AF%AF%E5%88%A4-%E6%97%A5%E6%9C%AC%E8%AF%AF%E6%8A%A59-9%E7%BA%A7%E5%9C%B0%E9%9C%87)
+  - [俄禁止部分中国卡车品牌投放俄罗斯市场](https://blog.upx8.com/%E4%BF%84%E7%A6%81%E6%AD%A2%E9%83%A8%E5%88%86%E4%B8%AD%E5%9B%BD%E5%8D%A1%E8%BD%A6%E5%93%81%E7%89%8C%E6%8A%95%E6%94%BE%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%82%E5%9C%BA)
   - [信实工业驳斥马斯克指责 称也在等待批准](https://blog.upx8.com/%E4%BF%A1%E5%AE%9E%E5%B7%A5%E4%B8%9A%E9%A9%B3%E6%96%A5%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8C%87%E8%B4%A3-%E7%A7%B0%E4%B9%9F%E5%9C%A8%E7%AD%89%E5%BE%85%E6%89%B9%E5%87%86)
   - [日本信息泄露频发因APP牵出服务器弱点 网络攻击或利用AI](https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E9%A2%91%E5%8F%91%E5%9B%A0APP%E7%89%B5%E5%87%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%B1%E7%82%B9-%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%96%E5%88%A9%E7%94%A8AI)
   - [腾讯检测到来自AI智能体的非预期行为](https://blog.upx8.com/%E8%85%BE%E8%AE%AF%E6%A3%80%E6%B5%8B%E5%88%B0%E6%9D%A5%E8%87%AAAI%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A1%8C%E4%B8%BA)
