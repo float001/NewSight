@@ -2,13 +2,23 @@
 
 - 2Libra
   - [2027 年找工作 城市推荐](https://2libra.com/post/recommendations/qxef3Nn)
+  - [Tesla Roadster 有点夸张了啊](https://2libra.com/post/automobile/JumwEVz)
   - [【运动打卡】 第 7️⃣天，今天小雨 🌧️在楼下跑步机爬坡](https://2libra.com/post/sports/o1cv48e)
+  - [【💰50％】年假清零提醒！](https://2libra.com/post/office-life/Dv8iQu6)
   - [【💰】你们用键盘打字的时候，落字是左手按空格还是右手按空格？](https://2libra.com/post/small-things/t1IX25f)
+  - [【💰】有没有 V2EX 的大佬，求一个邀请码](https://2libra.com/post/invite-code/RPYjGZI)
+  - [书荒，求推荐！](https://2libra.com/post/recommendations/VPhCqew)
   - [今天这个妙笔生花是我见过最少的！](https://2libra.com/post/forum-function/fTWnk1B)
   - [企业微信机器人推送模式变更，社区是否考虑支持长连接推送？](https://2libra.com/post/community/dvBc4xu)
   - [在宾馆听到“啊…啊……啊……啊”会不会很尴尬](https://2libra.com/post/personal-life/sjrZnsM)
+  - [大家快去看看吉米的头像](https://2libra.com/post/forum-function/r0oJsvA)
+  - [头像会风车转吗](https://2libra.com/post/forum-function/yjdXebX)
   - [工作是真不好找啊](https://2libra.com/post/job-hunting/HG0Z9Fm)
+  - [时代的代价：「恩格斯停顿」再次重现 😮‍💨😮‍💨😮‍💨](https://2libra.com/post/social-observation/KQUzKGR)
+  - [有的车刹车都能踩断，有的车已经实现空中平衡启停了](https://2libra.com/post/automobile/TDgG-HX)
   - [现在有个转 AI 方向的机会，不知道该不该转](https://2libra.com/post/workplace-stories/ADSXXQT)
+  - [越来越感觉失业范围扩大了，也可能是幸存者偏差！](https://2libra.com/post/social-observation/GlUBbEn)
+  - [还有零支出的 AI 使用者么？](https://2libra.com/post/ai-tools/lXk3aGM)
   - [违规图【探讨版】](https://2libra.com/post/community/fHzgpp8)
 - 404 Media
   - [Nidal Hasan’s Public Execution Is Off, But Propagandists Are Still Using Him as a Martyr](https://www.404media.co/nidal-hasans-public-execution-is-off-but-propagandists-are-still-using-him-as-a-martyr/)
@@ -62,6 +72,9 @@
   - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
   - [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
   - [Why We're Banning AI](https://www.currentaffairs.org/news/why-were-banning-ai)
+- HackerNews
+  - [Citizen Lab 追踪到半岛电视台的零点击 Candiru 间谍软件感染源于定向在线广告](http://0.0.0.0:8080/post/64791)
+  - [Silent Lynx 利用 WinRAR 漏洞在 CIS 政府攻击中部署反向 Shell](http://0.0.0.0:8080/post/64790)
 - Horizon3.ai
   - [CVE-2026-104935 | Ivanti Connect Secure Authentication Bypass and Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-104935/)
   - [From Proven Attack Paths to Verified Fixes: Horizon3 and Torq Close the Remediation Loop](https://horizon3.ai/intelligence/blogs/horizon3-torq-verified-security-remediation/)
@@ -274,12 +287,20 @@
   - [CVE-2026-97666](https://vulners.com/nvd/NVD:CVE-2026-97666?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97667](https://vulners.com/nvd/NVD:CVE-2026-97667?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97712](https://vulners.com/nvd/NVD:CVE-2026-97712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/B11DD9AC-19F7-5271-9236-65343354D9A7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The Tesla Roadster 2 Is Here—and It Flies](https://www.wired.com/story/tesla-roadster-2-launch/)
   - [Upgrade Your Thermostat for Winter With This Ecobee Deal for $120](https://www.wired.com/story/ecobee-fall-sale-2026/)
 - 不安全
+  - [Citizen Lab 追踪到半岛电视台的零点击 Candiru 间谍软件感染源于定向在线广告](https://buaq.net/go-448693.html)
+  - [GitLab远程代码执行漏洞（CVE-2026-97229）通告](https://buaq.net/go-448686.html)
+  - [jumpserver v5.1.0](https://buaq.net/go-448691.html)
   - [retrokit](https://buaq.net/go-448598.html)
+  - [Silent Lynx 利用 WinRAR 漏洞在 CIS 政府攻击中部署反向 Shell](https://buaq.net/go-448694.html)
   - [Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)](https://buaq.net/go-448645.html)
+  - [《大模型安全网关产品安全指南》国家标准试点验证会顺利召开](https://buaq.net/go-448687.html)
+  - [微软10月安全更新多个产品高危漏洞通告](https://buaq.net/go-448685.html)
+  - [微软发文宣传Windows 11 26H2性能改进 通过消耗更多内存提高系统响应效率](https://buaq.net/go-448698.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -287,6 +308,9 @@
   - [大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？](https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失](https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
+  - [GitLab远程代码执行漏洞（CVE-2026-97229）通告](https://blog.nsfocus.net/gitlab%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-97229%ef%bc%89%e9%80%9a%e5%91%8a/)
+  - [《大模型安全网关产品安全指南》国家标准试点验证会顺利召开](https://blog.nsfocus.net/%e3%80%8a%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%ae%89%e5%85%a8%e7%bd%91%e5%85%b3%e4%ba%a7%e5%93%81%e5%ae%89%e5%85%a8%e6%8c%87%e5%8d%97%e3%80%8b%e5%9b%bd%e5%ae%b6%e6%a0%87%e5%87%86%e8%af%95%e7%82%b9%e9%aa%8c/)
+  - [微软10月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af10%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
   - [第41次全国计算机安全学术交流会 | 绿盟科技以AI自主攻防范式，为“十五五”网络安全升级注入新动能](https://blog.nsfocus.net/%e7%ac%ac41%e6%ac%a1%e5%85%a8%e5%9b%bd%e8%ae%a1%e7%ae%97%e6%9c%ba%e5%ae%89%e5%85%a8%e5%ad%a6%e6%9c%af%e4%ba%a4%e6%b5%81%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%bb%a5ai%e8%87%aa%e4%b8%bb/)
 - 黑海洋
   - [Meta公司发布“美国最强”开放权重模型](https://blog.upx8.com/Meta%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83-%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%BC%BA-%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E6%A8%A1%E5%9E%8B)
