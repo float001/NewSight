@@ -3,6 +3,9 @@
 - 2Libra
   - [0 点，社区的 ❤️和 👍 会消失。](https://2libra.com/post/community/1_GTOeY)
   - [workbudy 国内版被自动升级到国际版，就因为版本号比国内版高](https://2libra.com/post/ai-programming/RxZ0nfs)
+  - [【投票】单休、双休、单双轮休，你是哪种？](https://2libra.com/post/office-life/G4iptuR)
+  - [日历显示不正常](https://2libra.com/post/community/2VB7Wqt)
+  - [触发 bug 了获得的金币减少 50%](https://2libra.com/post/community/_Fxl_Px)
 - 404 Media
   - [Behind the Blog: Doing Whatever](https://www.404media.co/behind-the-blog-doing-whatever/)
 - Ars Technica
@@ -15,6 +18,7 @@
   - [Cyberattack throws US bankruptcy courts into chaos nationwide: What does it all mean?](https://cybernews.com/security/us-bankruptcy-courts-cyberattack-bae-systems/)
   - [TP-Link Tapo camera flaw lets hackers seize full control – update urged](https://cybernews.com/security/tp-link-tapo-camera-flaw-lets-hackers-seize-full-control-update-urged/)
 - daringfireball.net
+  - [Apple TV Started at $69 in 2015](https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/)
   - [Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’](https://developer.apple.com/news/?id=vvzx6cul)
   - [How They Got Duo Support in NetNewsWire](https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html)
   - [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/)
@@ -245,3 +249,5 @@
   - [The Leap Second Is No More](https://www.wired.com/story/leap-second-is-abolished-bipm-says/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台](https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=)
