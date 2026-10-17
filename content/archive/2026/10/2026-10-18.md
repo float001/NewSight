@@ -26,6 +26,7 @@
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
   - [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
 - Vulners.com RSS Feed
+  - [Exploit for CVE-2026-53995](https://vulners.com/githubexploit/7535094A-4B89-5656-A1DF-CAAB5D8B1F88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kioptrix-Level-1-POC](https://vulners.com/githubexploit/413AB6A9-D6A0-5437-8F07-D0C52F933DEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sy0-701](https://vulners.com/githubexploit/FCBF4AA2-360C-5570-BEF6-72C9DD6BD830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
