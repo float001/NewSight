@@ -59,9 +59,11 @@
   - [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
   - [Piramidal (YC W24) Is Hiring](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
+  - [Super Intelligence](https://www.si.gov/)
 - IEEE Spectrum
   - [IEEE Offers More Services to Cities That Want to Be Smarter](https://spectrum.ieee.org/ieee-smart-cities-new-services)
   - [Simulation App Speeds Up Electric Truck Battery Design](https://spectrum.ieee.org/electric-truck-battery-design-simulation)
+  - [This Hidden Device Could Free Up Gigawatts of Grid Power](https://spectrum.ieee.org/variable-frequency-drives)
 - NVISO Labs
   - [Keystrokes in Disguise: Forensic Analysis of a Digispark HID Device](https://blog.nviso.eu/2026/10/16/keystrokes-in-disguise-forensic-analysis-of-a-digispark-hid-device/)
 - pluralistic.net
@@ -117,9 +119,11 @@
 - The Verge
   - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
   - [Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment)
+  - [Bose makes a strong argument to tether to your phone again](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review)
   - [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
   - [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale)
   - [We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
+  - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
   - [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home)
 - Vulners.com RSS Feed
   - [Buffer Overflow vulnerability in zserge jsmn jsmn HEAD 25647e6 allows a remote attacker to cause a denial of service via the jsmn.h, jsmn_parse(), example/jsondump.c, dump() components](https://vulners.com/mscve/MS:CVE-2026-95117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
