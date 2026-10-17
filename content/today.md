@@ -4,7 +4,9 @@
   - [0 点，社区的 ❤️和 👍 会消失。](https://2libra.com/post/community/1_GTOeY)
   - [workbudy 国内版被自动升级到国际版，就因为版本号比国内版高](https://2libra.com/post/ai-programming/RxZ0nfs)
   - [【投票】单休、双休、单双轮休，你是哪种？](https://2libra.com/post/office-life/G4iptuR)
+  - [对于未来的迷茫，我算是龟男么？](https://2libra.com/post/love/8Wvzuof)
   - [日历显示不正常](https://2libra.com/post/community/2VB7Wqt)
+  - [特斯拉新车大家怎么看？](https://2libra.com/post/automobile/FA7ZrfS)
   - [触发 bug 了获得的金币减少 50%](https://2libra.com/post/community/_Fxl_Px)
 - 404 Media
   - [Behind the Blog: Doing Whatever](https://www.404media.co/behind-the-blog-doing-whatever/)
@@ -23,6 +25,7 @@
   - [How They Got Duo Support in NetNewsWire](https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html)
   - [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/)
   - [Strange Times Make for Strange Bedfellows](https://x.com/finkd/status/2110778025629347999)
+  - [The Late Charlie Munger on Elon Musk and Tesla](https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html)
   - [★ Real Artists Ship, Tesla Edition](https://daringfireball.net/2026/10/real_artists_ship_tesla_edition)
 - darkreading
   - [AI Takes Control of Robotic Arm in 16 Minutes Flat](https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes)
@@ -251,3 +254,6 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台](https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [AI失控入侵印度企业系统！机密记录遭读取竟无人察觉](https://blog.upx8.com/AI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%E5%8D%B0%E5%BA%A6%E4%BC%81%E4%B8%9A%E7%B3%BB%E7%BB%9F-%E6%9C%BA%E5%AF%86%E8%AE%B0%E5%BD%95%E9%81%AD%E8%AF%BB%E5%8F%96%E7%AB%9F%E6%97%A0%E4%BA%BA%E5%AF%9F%E8%A7%89)
+  - [美银、花旗出手限制AI Agent访问客户账户](https://blog.upx8.com/%E7%BE%8E%E9%93%B6-%E8%8A%B1%E6%97%97%E5%87%BA%E6%89%8B%E9%99%90%E5%88%B6AI-Agent%E8%AE%BF%E9%97%AE%E5%AE%A2%E6%88%B7%E8%B4%A6%E6%88%B7)
