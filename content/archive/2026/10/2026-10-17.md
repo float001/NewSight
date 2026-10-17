@@ -15,6 +15,7 @@
   - [触发 bug 了获得的金币减少 50%](https://2libra.com/post/community/_Fxl_Px)
 - 404 Media
   - [Behind the Blog: Doing Whatever](https://www.404media.co/behind-the-blog-doing-whatever/)
+  - [This Might Be the Earliest Known Spear Murder In Earth’s History](https://www.404media.co/this-might-be-the-earliest-known-spear-murder-in-earths-history/)
 - Ars Technica
   - [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/)
 - CoinTelegraph
@@ -120,6 +121,7 @@
   - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
   - [Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment)
   - [Bose makes a strong argument to tether to your phone again](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review)
+  - [SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon](https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile)
   - [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
   - [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale)
   - [We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
