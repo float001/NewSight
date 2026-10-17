@@ -11,10 +11,12 @@
 - TechCrunch
   - [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
 - The Block
+  - [CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE](https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859)
   - [Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets](https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852)
 - The Verge
   - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
+  - [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
 - Vulners.com RSS Feed
   - [Kioptrix-Level-1-POC](https://vulners.com/githubexploit/413AB6A9-D6A0-5437-8F07-D0C52F933DEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sy0-701](https://vulners.com/githubexploit/FCBF4AA2-360C-5570-BEF6-72C9DD6BD830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
