@@ -4,22 +4,26 @@
   - [0 点，社区的 ❤️和 👍 会消失。](https://2libra.com/post/community/1_GTOeY)
   - [workbudy 国内版被自动升级到国际版，就因为版本号比国内版高](https://2libra.com/post/ai-programming/RxZ0nfs)
   - [【投票】单休、双休、单双轮休，你是哪种？](https://2libra.com/post/office-life/G4iptuR)
+  - [哇, 被打赏加置顶了, 开心, 啥时候出的功能](https://2libra.com/post/forum-function/QQ_BZ95)
   - [对于未来的迷茫，我算是龟男么？](https://2libra.com/post/love/8Wvzuof)
   - [日历显示不正常](https://2libra.com/post/community/2VB7Wqt)
   - [查企业信息要收费？付费开盒](https://2libra.com/post/social-observation/wujpDZF)
   - [特斯拉新车大家怎么看？](https://2libra.com/post/automobile/FA7ZrfS)
+  - [用 Codex ＋ Obsidian，给两岁女儿做了一套学习计划和记录工具](https://2libra.com/post/small-things/7e1Wfd0)
   - [触发 bug 了获得的金币减少 50%](https://2libra.com/post/community/_Fxl_Px)
 - 404 Media
   - [Behind the Blog: Doing Whatever](https://www.404media.co/behind-the-blog-doing-whatever/)
 - Ars Technica
   - [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/)
 - CoinTelegraph
+  - [Bitget to discontinue services for some users in one-off exercise](https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race](https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin remittances cost 84% less than traditional transfers, report finds](https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Cyberattack throws US bankruptcy courts into chaos nationwide: What does it all mean?](https://cybernews.com/security/us-bankruptcy-courts-cyberattack-bae-systems/)
   - [Millions of California students' data exposed after hackers lurk in third-party testing system for months](https://cybernews.com/news/california-student-data-breach-millions-records-ets-hack/)
+  - [Ransomware gang puts 2.6TB of sensitive Maryland government data up for sale](https://cybernews.com/news/rhysida-maryland-government-data-breach/)
   - [TP-Link Tapo camera flaw lets hackers seize full control – update urged](https://cybernews.com/security/tp-link-tapo-camera-flaw-lets-hackers-seize-full-control-update-urged/)
 - daringfireball.net
   - [Apple TV Started at $69 in 2015](https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/)
