@@ -66,6 +66,8 @@
   - [Keystrokes in Disguise: Forensic Analysis of a Digispark HID Device](https://blog.nviso.eu/2026/10/16/keystrokes-in-disguise-forensic-analysis-of-a-digispark-hid-device/)
 - pluralistic.net
   - [Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)](https://pluralistic.net/2026/10/17/mercenary-spyware/)
+- shkspr.mobi
+  - [Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/)
 - simonwillison.net
   - [Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/)
 - Sploitus.com Exploits RSS Feed
@@ -332,6 +334,7 @@
   - [HTC Made Smart Glasses That Are Way More Private](https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/)
   - [Razer Barracuda V2 Pro Review: A Gaming Headset for the Office](https://www.wired.com/review/razer-barracuda-v2-pro/)
   - [Thank Gen Z for the ‘Girls’ Revival](https://www.wired.com/story/thank-gen-z-for-the-girls-revival/)
+  - [The Best LED Grow Lights for Houseplants This Winter (2026)](https://www.wired.com/story/best-led-grow-lights/)
   - [The Leap Second Is No More](https://www.wired.com/story/leap-second-is-abolished-bipm-says/)
 - 不安全
   - [frida v17.24.0](https://buaq.net/go-448945.html)
