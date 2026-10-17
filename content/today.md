@@ -113,6 +113,7 @@
   - [Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen](https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839)
 - The Decoder
   - [AI models hide mistakes in their own work reports, but one sentence in your prompt can help](https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/)
+  - [Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes](https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/)
   - [ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs](https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/)
   - [China tightens export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/)
   - [Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs](https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/)
@@ -121,12 +122,16 @@
   - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
   - [Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment)
   - [Bose makes a strong argument to tether to your phone again](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review)
+  - [Jad Abumrad loves a butterfly knife and a good springy pillow](https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview)
+  - [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale)
   - [SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon](https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile)
   - [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
   - [The new Apple TV 4K just got its first (very small) discount](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale)
   - [We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
   - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
   - [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home)
+- Threatninja.net
+  - [Hack The Box: Eloquia Machine Walkthrough – Insane Difficulty](https://threatninja.net/hack-the-box-eloquia-machine-walkthrough-insane-difficulty/)
 - Vulners.com RSS Feed
   - [Buffer Overflow vulnerability in zserge jsmn jsmn HEAD 25647e6 allows a remote attacker to cause a denial of service via the jsmn.h, jsmn_parse(), example/jsondump.c, dump() components](https://vulners.com/mscve/MS:CVE-2026-95117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100316](https://vulners.com/nvd/NVD:CVE-2026-100316?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -352,3 +357,4 @@
 - 黑海洋
   - [AI失控入侵印度企业系统！机密记录遭读取竟无人察觉](https://blog.upx8.com/AI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%E5%8D%B0%E5%BA%A6%E4%BC%81%E4%B8%9A%E7%B3%BB%E7%BB%9F-%E6%9C%BA%E5%AF%86%E8%AE%B0%E5%BD%95%E9%81%AD%E8%AF%BB%E5%8F%96%E7%AB%9F%E6%97%A0%E4%BA%BA%E5%AF%9F%E8%A7%89)
   - [美银、花旗出手限制AI Agent访问客户账户](https://blog.upx8.com/%E7%BE%8E%E9%93%B6-%E8%8A%B1%E6%97%97%E5%87%BA%E6%89%8B%E9%99%90%E5%88%B6AI-Agent%E8%AE%BF%E9%97%AE%E5%AE%A2%E6%88%B7%E8%B4%A6%E6%88%B7)
+  - [苹果 iPhone 18 Pro Max 手机刷新纪录：单周单品国内激活近 90 万台](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C-iPhone-18-Pro-Max-%E6%89%8B%E6%9C%BA%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95-%E5%8D%95%E5%91%A8%E5%8D%95%E5%93%81%E5%9B%BD%E5%86%85%E6%BF%80%E6%B4%BB%E8%BF%91-90-%E4%B8%87%E5%8F%B0)
