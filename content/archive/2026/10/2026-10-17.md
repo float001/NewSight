@@ -6,6 +6,7 @@
   - [【投票】单休、双休、单双轮休，你是哪种？](https://2libra.com/post/office-life/G4iptuR)
   - [对于未来的迷茫，我算是龟男么？](https://2libra.com/post/love/8Wvzuof)
   - [日历显示不正常](https://2libra.com/post/community/2VB7Wqt)
+  - [查企业信息要收费？付费开盒](https://2libra.com/post/social-observation/wujpDZF)
   - [特斯拉新车大家怎么看？](https://2libra.com/post/automobile/FA7ZrfS)
   - [触发 bug 了获得的金币减少 50%](https://2libra.com/post/community/_Fxl_Px)
 - 404 Media
@@ -18,6 +19,7 @@
   - [Stablecoin remittances cost 84% less than traditional transfers, report finds](https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Cyberattack throws US bankruptcy courts into chaos nationwide: What does it all mean?](https://cybernews.com/security/us-bankruptcy-courts-cyberattack-bae-systems/)
+  - [Millions of California students' data exposed after hackers lurk in third-party testing system for months](https://cybernews.com/news/california-student-data-breach-millions-records-ets-hack/)
   - [TP-Link Tapo camera flaw lets hackers seize full control – update urged](https://cybernews.com/security/tp-link-tapo-camera-flaw-lets-hackers-seize-full-control-update-urged/)
 - daringfireball.net
   - [Apple TV Started at $69 in 2015](https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/)
