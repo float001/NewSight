@@ -9,6 +9,7 @@
   - [对于未来的迷茫，我算是龟男么？](https://2libra.com/post/love/8Wvzuof)
   - [日历显示不正常](https://2libra.com/post/community/2VB7Wqt)
   - [查企业信息要收费？付费开盒](https://2libra.com/post/social-observation/wujpDZF)
+  - [牢梁终究还是变成了奥特曼的形状，1017 的 dsf4.1 怕不是把 Astra 给蒸馏秃了](https://2libra.com/post/large-models/W6LcY9e)
   - [特斯拉新车大家怎么看？](https://2libra.com/post/automobile/FA7ZrfS)
   - [用 Codex ＋ Obsidian，给两岁女儿做了一套学习计划和记录工具](https://2libra.com/post/small-things/7e1Wfd0)
   - [触发 bug 了获得的金币减少 50%](https://2libra.com/post/community/_Fxl_Px)
@@ -63,6 +64,8 @@
   - [Simulation App Speeds Up Electric Truck Battery Design](https://spectrum.ieee.org/electric-truck-battery-design-simulation)
 - NVISO Labs
   - [Keystrokes in Disguise: Forensic Analysis of a Digispark HID Device](https://blog.nviso.eu/2026/10/16/keystrokes-in-disguise-forensic-analysis-of-a-digispark-hid-device/)
+- pluralistic.net
+  - [Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)](https://pluralistic.net/2026/10/17/mercenary-spyware/)
 - simonwillison.net
   - [Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/)
 - Sploitus.com Exploits RSS Feed
@@ -107,6 +110,7 @@
   - [AI models hide mistakes in their own work reports, but one sentence in your prompt can help](https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/)
   - [ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs](https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/)
   - [China tightens export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/)
+  - [Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs](https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/)
   - [Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof](https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/)
 - The Verge
   - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
@@ -323,10 +327,15 @@
   - [Premium: Venture Capital Is Killing Itself](https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/)
 - Wired
   - [Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists](https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/)
+  - [Don’t Let a Crypto Inheritance Get Stuck on the Blockchain](https://www.wired.com/story/crypto-inheritance-how-to/)
   - [Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’](https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/)
+  - [HTC Made Smart Glasses That Are Way More Private](https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/)
   - [Razer Barracuda V2 Pro Review: A Gaming Headset for the Office](https://www.wired.com/review/razer-barracuda-v2-pro/)
   - [Thank Gen Z for the ‘Girls’ Revival](https://www.wired.com/story/thank-gen-z-for-the-girls-revival/)
   - [The Leap Second Is No More](https://www.wired.com/story/leap-second-is-abolished-bipm-says/)
+- 不安全
+  - [frida v17.24.0](https://buaq.net/go-448945.html)
+  - [StrokesPlus.net 作者复出，新版鼠标手势再上路｜Input.Observer](https://buaq.net/go-448944.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
