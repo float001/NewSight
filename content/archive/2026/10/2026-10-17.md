@@ -2,6 +2,7 @@
 
 - 2Libra
   - [0 点，社区的 ❤️和 👍 会消失。](https://2libra.com/post/community/1_GTOeY)
+  - [DeepSeek-V4.1-Flash-1017 更新](https://2libra.com/post/large-models/QQQOS33)
   - [workbudy 国内版被自动升级到国际版，就因为版本号比国内版高](https://2libra.com/post/ai-programming/RxZ0nfs)
   - [【投票】单休、双休、单双轮休，你是哪种？](https://2libra.com/post/office-life/G4iptuR)
   - [哇, 被打赏加置顶了, 开心, 啥时候出的功能](https://2libra.com/post/forum-function/QQ_BZ95)
@@ -103,6 +104,7 @@
   - [Coinbase to power stablecoin-backed cards for Marqeta customers](https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833)
   - [Strive’s bitcoin buying spree earns 27% price target hike from TD Cowen](https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839)
 - The Decoder
+  - [AI models hide mistakes in their own work reports, but one sentence in your prompt can help](https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/)
   - [ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs](https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/)
   - [China tightens export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-tightens-export-controls-on-open-weight-models-and-23-key-ai-technologies/)
   - [Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof](https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/)
