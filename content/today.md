@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-10-18）
 
+- 2Libra
+  - [好想蹭 workbuddy 白嫖积分主机 emm](https://2libra.com/post/deal-hunter/5ulaz17)
 - daringfireball.net
   - [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations)
 - Hacker News Frontpage
@@ -13,6 +15,7 @@
   - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://govuln.com/news/url/OZvW)
 - TechCrunch
   - [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
+  - [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
   - [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
   - [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
 - The Block
