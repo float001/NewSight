@@ -4,9 +4,13 @@
   - [codex 落地节点疑问 ❓](https://2libra.com/post/networking/7l1lgv8)
   - [好想蹭 workbuddy 白嫖积分主机 emm](https://2libra.com/post/deal-hunter/5ulaz17)
   - [策略抽卡自走棋游戏](https://2libra.com/post/game-share/LmQnMcY)
+- CoinTelegraph
+  - [Tether backs AIsa as strategic investor, completing seed extension round](https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Whatever You Say Bounces Off Me and Sticks to You](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/)
   - [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations)
+- defend.network
+  - [ConnectWise breach affects 173 M365 tenants; Drupal RCEs patched; BeyondTrust exploited](https://defend.network/briefings/connectwise-drupal-beyondtrust-rce-exploits-2026-10-18.html)
 - eli.thegreenplace.net
   - [Notes on the complex roots of unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
 - Hacker News Frontpage
@@ -45,6 +49,11 @@
   - [CVE-2026-111872](https://vulners.com/nvd/NVD:CVE-2026-111872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111873 itsmeravitejak Online-Examination-System AJAX Endpoint exammanger.php topicslist sql injection](https://vulners.com/cve/CVE-2026-111873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111873 itsmeravitejak Online-Examination-System AJAX Endpoint exammanger.php topicslist sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-111873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111874](https://vulners.com/nvd/NVD:CVE-2026-111874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111875](https://vulners.com/nvd/NVD:CVE-2026-111875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111876](https://vulners.com/nvd/NVD:CVE-2026-111876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111942 hrisikeshpal Blood_Bank_Management_System abs.php cross site scripting](https://vulners.com/cve/CVE-2026-111942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111942 hrisikeshpal Blood_Bank_Management_System abs.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-111942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111997](https://vulners.com/cve/CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111997](https://vulners.com/cvelist/CVELIST:CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-53995](https://vulners.com/githubexploit/7535094A-4B89-5656-A1DF-CAAB5D8B1F88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -53,6 +62,7 @@
   - [sy0-701](https://vulners.com/githubexploit/FCBF4AA2-360C-5570-BEF6-72C9DD6BD830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Aristois and REA](https://buaq.net/go-449014.html)
+  - [wifit3 v0.5.0](https://buaq.net/go-449023.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
