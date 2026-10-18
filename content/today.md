@@ -2,6 +2,7 @@
 
 - 2Libra
   - [好想蹭 workbuddy 白嫖积分主机 emm](https://2libra.com/post/deal-hunter/5ulaz17)
+  - [策略抽卡自走棋游戏](https://2libra.com/post/game-share/LmQnMcY)
 - daringfireball.net
   - [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations)
 - Hacker News Frontpage
@@ -9,8 +10,11 @@
   - [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
   - [Linux bugs fixed per release over time: >2× rise since 2026-04](https://lwn.net/Articles/1088776/)
   - [Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)](https://twitter.com/anemll/status/2111517143087067309)
+  - [Retired Penn professor arrested for blocking Uber Eats robot](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l)
 - NVIDIA AI Blog
   - [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/)
+- seangoedecke.com
+  - [Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/)
 - Sec-News 安全文摘
   - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://govuln.com/news/url/OZvW)
 - TechCrunch
