@@ -39,11 +39,15 @@
 - The Block
   - [CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE](https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859)
   - [Turkey confirms Hex founder Richard Heart’s arrest, says police seized $7.15 million and six cold wallets](https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852)
+- The Decoder
+  - [AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office](https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/)
+  - [AI agents have bad taste in long-term decisions and a new benchmark proves it](https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/)
 - The Verge
   - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
   - [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
 - Vulners.com RSS Feed
+  - [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://vulners.com/thn/THN:7C86A93F000579E53FD839A06913EEC3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111866](https://vulners.com/nvd/NVD:CVE-2026-111866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111868 datastax pulsar-jms PulsarObjectMessage.java decode deserialization](https://vulners.com/cve/CVE-2026-111868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111868 datastax pulsar-jms PulsarObjectMessage.java decode deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-111868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -59,10 +63,15 @@
   - [CVE-2026-111942 hrisikeshpal Blood_Bank_Management_System abs.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-111942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111997](https://vulners.com/cve/CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111997](https://vulners.com/cvelist/CVELIST:CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-103849](https://vulners.com/githubexploit/CDB24871-3903-5D77-9E3D-BA8196D8D6F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-53995](https://vulners.com/githubexploit/7535094A-4B89-5656-A1DF-CAAB5D8B1F88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kioptrix-Level-1-POC](https://vulners.com/githubexploit/413AB6A9-D6A0-5437-8F07-D0C52F933DEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pyre-ps5](https://vulners.com/githubexploit/D56B4ABD-4300-501D-B206-B79EC72F752F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sy0-701](https://vulners.com/githubexploit/FCBF4AA2-360C-5570-BEF6-72C9DD6BD830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Climate Change Has It In for the World’s Best Surfing](https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/)
+  - [Magnesium May Not Reach Your Brain, Despite Supplement Label Promises](https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/)
+  - [The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)](https://www.wired.com/story/best-airpods-case/)
 - 不安全
   - [Aristois and REA](https://buaq.net/go-449014.html)
   - [Dread Forum Down?](https://buaq.net/go-449027.html)
