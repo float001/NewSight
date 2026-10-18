@@ -1,10 +1,15 @@
 # 今日安全资讯（2026-10-19）
 
+- CoinTelegraph
+  - [Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest](https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)
   - [Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’](https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&leadSource=article-gifting)
   - [Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base](https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html)
   - [Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances](https://x.com/AbdulElSayed/status/2111627277578731885)
+  - [Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction](https://tomthedancingbug.com/the-inner-hive/)
+  - [Verizon Is Going to Charge $10/Month for iPhone Handoff](https://www.verizon.com/about/news/iphone-duo-verizon-offers)
+  - [WorkOS AuthKit](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
 - Hacker News Frontpage
   - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
   - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
@@ -23,11 +28,17 @@
   - [Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off](https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866)
   - [Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum](https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863)
 - The Verge
+  - [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)
   - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
   - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
   - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
 - Vulners.com RSS Feed
   - [CVE-2024-4457](https://vulners.com/nvd/NVD:CVE-2024-4457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112025](https://vulners.com/nvd/NVD:CVE-2026-112025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112026 light0011 cms UserModel.class.php sha1 weak password hash](https://vulners.com/cve/CVE-2026-112026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112026 light0011 cms UserModel.class.php sha1 weak password hash](https://vulners.com/cvelist/CVELIST:CVE-2026-112026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112027 light0011 cms Uploadify check-exists.php file_exists file information disclosure](https://vulners.com/cve/CVE-2026-112027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112027 light0011 cms Uploadify check-exists.php file_exists file information disclosure](https://vulners.com/cvelist/CVELIST:CVE-2026-112027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98818](https://vulners.com/nvd/NVD:CVE-2026-98818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98819](https://vulners.com/nvd/NVD:CVE-2026-98819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98820](https://vulners.com/nvd/NVD:CVE-2026-98820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
