@@ -4,8 +4,11 @@
   - [codex 落地节点疑问 ❓](https://2libra.com/post/networking/7l1lgv8)
   - [好想蹭 workbuddy 白嫖积分主机 emm](https://2libra.com/post/deal-hunter/5ulaz17)
   - [策略抽卡自走棋游戏](https://2libra.com/post/game-share/LmQnMcY)
+  - [补签问题](https://2libra.com/post/forum-function/jQCmKxJ)
 - CoinTelegraph
   - [Tether backs AIsa as strategic investor, completing seed extension round](https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [Elon Musk says AI and robots are the only way to fix US debt](https://cybernews.com/ai-news/musk-ai-and-robots-us-debt-fix/)
 - daringfireball.net
   - [Whatever You Say Bounces Off Me and Sticks to You](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/)
   - [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations)
@@ -62,9 +65,12 @@
   - [sy0-701](https://vulners.com/githubexploit/FCBF4AA2-360C-5570-BEF6-72C9DD6BD830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Aristois and REA](https://buaq.net/go-449014.html)
+  - [Dread Forum Down?](https://buaq.net/go-449027.html)
   - [wifit3 v0.5.0](https://buaq.net/go-449023.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
   - [PwnEscape: 揭秘Linux内核虚拟机逃逸漏洞](https://blog.upx8.com/PwnEscape-%E6%8F%AD%E7%A7%98Linux%E5%86%85%E6%A0%B8%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E)
+  - [TikTok因政治内容封禁关于马斯克的纪录片广告账号](https://blog.upx8.com/TikTok%E5%9B%A0%E6%94%BF%E6%B2%BB%E5%86%85%E5%AE%B9%E5%B0%81%E7%A6%81%E5%85%B3%E4%BA%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E5%B9%BF%E5%91%8A%E8%B4%A6%E5%8F%B7)
   - [埃隆·马斯克在限制乌克兰使用星链问题上发挥了作用](https://blog.upx8.com/%E5%9F%83%E9%9A%86-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9C%A8%E9%99%90%E5%88%B6%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BD%BF%E7%94%A8%E6%98%9F%E9%93%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E5%8F%91%E6%8C%A5%E4%BA%86%E4%BD%9C%E7%94%A8)
+  - [苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%9B%B6%E5%94%AE%E5%BA%97%E5%91%98%E5%B7%A5%E5%8A%9D%E9%80%80%E6%97%A0%E9%A2%84%E7%BA%A6%E9%A1%BE%E5%AE%A2-iPhone-Duo-%E9%A6%96%E5%8F%91%E6%97%A5%E5%9F%BA%E6%9C%AC%E4%B8%8D%E5%8D%96%E7%8E%B0%E8%B4%A7)
