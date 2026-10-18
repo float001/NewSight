@@ -7,6 +7,7 @@
   - [补签问题](https://2libra.com/post/forum-function/jQCmKxJ)
 - CoinTelegraph
   - [Chinese suspect in $75M international crime network arrested in Bangkok](https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Cysic crypto bridge halted after unauthorized mint of 10M CYS](https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether backs AIsa as strategic investor, completing seed extension round](https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [China moves to tighten controls on AI exports, citing national security risks](https://cybernews.com/ai-news/china-moves-to-tighten-controls-on-ai-exports/)
@@ -16,6 +17,8 @@
   - [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations)
 - defend.network
   - [ConnectWise breach affects 173 M365 tenants; Drupal RCEs patched; BeyondTrust exploited](https://defend.network/briefings/connectwise-drupal-beyondtrust-rce-exploits-2026-10-18.html)
+- dfarq.homeip.net
+  - [How many VICmodems Commodore sold](https://dfarq.homeip.net/how-many-vicmodems-commodore-sold/?utm_source=rss&utm_medium=rss&utm_campaign=how-many-vicmodems-commodore-sold)
 - eli.thegreenplace.net
   - [Notes on the complex roots of unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
 - Hacker News Frontpage
@@ -45,6 +48,7 @@
   - [AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office](https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/)
   - [AI agents have bad taste in long-term decisions and a new benchmark proves it](https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/)
   - [Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals](https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/)
+  - [Two German courts now hold Google liable for what its AI overviews say](https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/)
 - The Verge
   - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
@@ -68,12 +72,21 @@
   - [CVE-2026-111997](https://vulners.com/cvelist/CVELIST:CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-103849](https://vulners.com/githubexploit/CDB24871-3903-5D77-9E3D-BA8196D8D6F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-53995](https://vulners.com/githubexploit/7535094A-4B89-5656-A1DF-CAAB5D8B1F88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-58221](https://vulners.com/githubexploit/7B9F81F1-7B13-5E1D-BDDD-1FFBB43EA4ED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-80312](https://vulners.com/githubexploit/1C0B5DFA-BE96-59C7-81E5-6E1F005B6826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-80343](https://vulners.com/githubexploit/FB50BB3C-EFED-5FBC-8FF6-6A426E56EA8C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Vitejs Vite](https://vulners.com/githubexploit/5B828E2B-E29B-5908-9A35-0B8CECB5B550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for External Control of File Name or Path in Plex Media_Server](https://vulners.com/githubexploit/028016D7-AB06-5FE7-B83C-39CE22939902?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kioptrix-Level-1-POC](https://vulners.com/githubexploit/413AB6A9-D6A0-5437-8F07-D0C52F933DEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [LangFlow-Rce](https://vulners.com/githubexploit/F78E3EA3-DC40-54D7-9686-84ACC1F808B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pyre-ps5](https://vulners.com/githubexploit/D56B4ABD-4300-501D-B206-B79EC72F752F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sy0-701](https://vulners.com/githubexploit/FCBF4AA2-360C-5570-BEF6-72C9DD6BD830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)](https://www.wired.com/gallery/best-gifts-for-manly-men-2026/)
   - [Climate Change Has It In for the World’s Best Surfing](https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/)
+  - [Data Centers Have a New PR Plan: Your Kid’s Field Trip](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/)
   - [Magnesium May Not Reach Your Brain, Despite Supplement Label Promises](https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/)
+  - [OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/)
   - [The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)](https://www.wired.com/story/best-airpods-case/)
   - [Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK](https://www.wired.com/review/valerion-visionmaster-max-4k-projector/)
 - 不安全
