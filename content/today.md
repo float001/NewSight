@@ -36,6 +36,8 @@
   - [Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/)
 - Sec-News 安全文摘
   - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://govuln.com/news/url/OZvW)
+- shkspr.mobi
+  - [Una Watch TOTP - MFA on your wrist!](https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/)
 - TechCrunch
   - [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
   - [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
@@ -50,6 +52,7 @@
   - [Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals](https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/)
   - [Two German courts now hold Google liable for what its AI overviews say](https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/)
 - The Verge
+  - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
   - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
   - [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
