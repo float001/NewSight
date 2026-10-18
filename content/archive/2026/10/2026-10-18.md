@@ -6,8 +6,10 @@
   - [策略抽卡自走棋游戏](https://2libra.com/post/game-share/LmQnMcY)
   - [补签问题](https://2libra.com/post/forum-function/jQCmKxJ)
 - CoinTelegraph
+  - [Chinese suspect in $75M international crime network arrested in Bangkok](https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether backs AIsa as strategic investor, completing seed extension round](https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [China moves to tighten controls on AI exports, citing national security risks](https://cybernews.com/ai-news/china-moves-to-tighten-controls-on-ai-exports/)
   - [Elon Musk says AI and robots are the only way to fix US debt](https://cybernews.com/ai-news/musk-ai-and-robots-us-debt-fix/)
 - daringfireball.net
   - [Whatever You Say Bounces Off Me and Sticks to You](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/)
@@ -42,6 +44,7 @@
 - The Decoder
   - [AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office](https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/)
   - [AI agents have bad taste in long-term decisions and a new benchmark proves it](https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/)
+  - [Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals](https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/)
 - The Verge
   - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
@@ -72,12 +75,15 @@
   - [Climate Change Has It In for the World’s Best Surfing](https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/)
   - [Magnesium May Not Reach Your Brain, Despite Supplement Label Promises](https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/)
   - [The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)](https://www.wired.com/story/best-airpods-case/)
+  - [Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK](https://www.wired.com/review/valerion-visionmaster-max-4k-projector/)
 - 不安全
   - [Aristois and REA](https://buaq.net/go-449014.html)
   - [Dread Forum Down?](https://buaq.net/go-449027.html)
   - [wifit3 v0.5.0](https://buaq.net/go-449023.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [消费电子太无聊，连设计大师都想逃](https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [PwnEscape: 揭秘Linux内核虚拟机逃逸漏洞](https://blog.upx8.com/PwnEscape-%E6%8F%AD%E7%A7%98Linux%E5%86%85%E6%A0%B8%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E)
   - [TikTok因政治内容封禁关于马斯克的纪录片广告账号](https://blog.upx8.com/TikTok%E5%9B%A0%E6%94%BF%E6%B2%BB%E5%86%85%E5%AE%B9%E5%B0%81%E7%A6%81%E5%85%B3%E4%BA%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E5%B9%BF%E5%91%8A%E8%B4%A6%E5%8F%B7)
