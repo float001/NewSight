@@ -38,6 +38,11 @@
   - [CVE-2026-111866](https://vulners.com/nvd/NVD:CVE-2026-111866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111868 datastax pulsar-jms PulsarObjectMessage.java decode deserialization](https://vulners.com/cve/CVE-2026-111868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111868 datastax pulsar-jms PulsarObjectMessage.java decode deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-111868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111870](https://vulners.com/nvd/NVD:CVE-2026-111870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111871](https://vulners.com/nvd/NVD:CVE-2026-111871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111872](https://vulners.com/nvd/NVD:CVE-2026-111872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111873 itsmeravitejak Online-Examination-System AJAX Endpoint exammanger.php topicslist sql injection](https://vulners.com/cve/CVE-2026-111873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111873 itsmeravitejak Online-Examination-System AJAX Endpoint exammanger.php topicslist sql injection](https://vulners.com/cvelist/CVELIST:CVE-2026-111873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111997](https://vulners.com/cve/CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111997](https://vulners.com/cvelist/CVELIST:CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-53995](https://vulners.com/githubexploit/7535094A-4B89-5656-A1DF-CAAB5D8B1F88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -49,4 +54,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [PwnEscape: 揭秘Linux内核虚拟机逃逸漏洞](https://blog.upx8.com/PwnEscape-%E6%8F%AD%E7%A7%98Linux%E5%86%85%E6%A0%B8%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E)
   - [埃隆·马斯克在限制乌克兰使用星链问题上发挥了作用](https://blog.upx8.com/%E5%9F%83%E9%9A%86-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9C%A8%E9%99%90%E5%88%B6%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BD%BF%E7%94%A8%E6%98%9F%E9%93%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E5%8F%91%E6%8C%A5%E4%BA%86%E4%BD%9C%E7%94%A8)
