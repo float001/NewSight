@@ -13,8 +13,10 @@
 - Sploitus.com Exploits RSS Feed
   - [jintang exploit](https://sploitus.com/exploit?id=2C3E3639-BC3B-5928-A1F6-91D6427590BD&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
   - [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
   - [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)
+  - [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)
 - The Block
   - [Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off](https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866)
   - [Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum](https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863)
