@@ -5,9 +5,12 @@
   - [好想蹭 workbuddy 白嫖积分主机 emm](https://2libra.com/post/deal-hunter/5ulaz17)
   - [策略抽卡自走棋游戏](https://2libra.com/post/game-share/LmQnMcY)
   - [补签问题](https://2libra.com/post/forum-function/jQCmKxJ)
+  - [🏆 本周 2Libra 龙虎榜 2026-10-12 ~ 2026-10-18](https://2libra.com/post/forum-function/x1jSupe)
 - CoinTelegraph
   - [Chinese suspect in $75M international crime network arrested in Bangkok](https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cysic crypto bridge halted after unauthorized mint of 10M CYS](https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Most Americans polled oppose betting on elections: Reuters](https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether backs AIsa as strategic investor, completing seed extension round](https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [China moves to tighten controls on AI exports, citing national security risks](https://cybernews.com/ai-news/china-moves-to-tighten-controls-on-ai-exports/)
@@ -23,6 +26,7 @@
   - [Notes on the complex roots of unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/)
 - Hacker News Frontpage
   - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+  - [Gen Z Is the First Generation Dumber Than Their Parents](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
   - [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
   - [Linux bugs fixed per release over time: >2× rise since 2026-04](https://lwn.net/Articles/1088776/)
   - [Matthew Prince on why Cloudflare offers a free version and always will](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)
@@ -38,6 +42,8 @@
   - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://govuln.com/news/url/OZvW)
 - shkspr.mobi
   - [Una Watch TOTP - MFA on your wrist!](https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/)
+- Sploitus.com Exploits RSS Feed
+  - [DVWA-Vulnerability-Lab exploit](https://sploitus.com/exploit?id=B8AA2C26-5643-5F17-A419-7E19F4F1EB8B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
   - [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
@@ -50,15 +56,18 @@
   - [AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office](https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/)
   - [AI agents have bad taste in long-term decisions and a new benchmark proves it](https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/)
   - [Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals](https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/)
+  - [Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours](https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/)
   - [Four Gemini 4 Argon agents beat Minecraft without any human help](https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/)
   - [Two German courts now hold Google liable for what its AI overviews say](https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/)
 - The Verge
   - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
   - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
   - [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history)
+  - [J Mascis has nothing better to do](https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview)
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
   - [The best gadget I bought this year is a milk frother](https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget)
   - [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
+  - [Trump says Google kisses his ass](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass)
 - Vulners.com RSS Feed
   - [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://vulners.com/thn/THN:7C86A93F000579E53FD839A06913EEC3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111866](https://vulners.com/nvd/NVD:CVE-2026-111866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -122,6 +131,7 @@
   - [CVE-2026-112063 libstrophe through 0.14.0 Stack-Based Buffer Overflow via SCRAM Salt in SCRAM_Hi](https://vulners.com/cve/CVE-2026-112063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112063 libstrophe through 0.14.0 Stack-Based Buffer Overflow via SCRAM Salt in SCRAM_Hi](https://vulners.com/cvelist/CVELIST:CVE-2026-112063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-78497](https://vulners.com/nvd/NVD:CVE-2026-78497?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [DVWA-Vulnerability-Lab](https://vulners.com/gitee/B8AA2C26-5643-5F17-A419-7E19F4F1EB8B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-103849](https://vulners.com/githubexploit/CDB24871-3903-5D77-9E3D-BA8196D8D6F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-53995](https://vulners.com/githubexploit/7535094A-4B89-5656-A1DF-CAAB5D8B1F88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-58221](https://vulners.com/githubexploit/7B9F81F1-7B13-5E1D-BDDD-1FFBB43EA4ED?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -153,4 +163,5 @@
   - [PwnEscape: 揭秘Linux内核虚拟机逃逸漏洞](https://blog.upx8.com/PwnEscape-%E6%8F%AD%E7%A7%98Linux%E5%86%85%E6%A0%B8%E8%99%9A%E6%8B%9F%E6%9C%BA%E9%80%83%E9%80%B8%E6%BC%8F%E6%B4%9E)
   - [TikTok因政治内容封禁关于马斯克的纪录片广告账号](https://blog.upx8.com/TikTok%E5%9B%A0%E6%94%BF%E6%B2%BB%E5%86%85%E5%AE%B9%E5%B0%81%E7%A6%81%E5%85%B3%E4%BA%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E5%B9%BF%E5%91%8A%E8%B4%A6%E5%8F%B7)
   - [埃隆·马斯克在限制乌克兰使用星链问题上发挥了作用](https://blog.upx8.com/%E5%9F%83%E9%9A%86-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9C%A8%E9%99%90%E5%88%B6%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BD%BF%E7%94%A8%E6%98%9F%E9%93%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E5%8F%91%E6%8C%A5%E4%BA%86%E4%BD%9C%E7%94%A8)
+  - [英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BC%98%E5%8C%96-Kimi-K3-%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E9%80%9F%E5%BA%A6-%E6%8F%90%E5%8D%87-1-68-%E5%80%8D)
   - [苹果要求零售店员工劝退无预约顾客：iPhone Duo 首发日基本不卖现货](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%9B%B6%E5%94%AE%E5%BA%97%E5%91%98%E5%B7%A5%E5%8A%9D%E9%80%80%E6%97%A0%E9%A2%84%E7%BA%A6%E9%A1%BE%E5%AE%A2-iPhone-Duo-%E9%A6%96%E5%8F%91%E6%97%A5%E5%9F%BA%E6%9C%AC%E4%B8%8D%E5%8D%96%E7%8E%B0%E8%B4%A7)
