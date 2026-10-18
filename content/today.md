@@ -4,6 +4,7 @@
   - [好想蹭 workbuddy 白嫖积分主机 emm](https://2libra.com/post/deal-hunter/5ulaz17)
   - [策略抽卡自走棋游戏](https://2libra.com/post/game-share/LmQnMcY)
 - daringfireball.net
+  - [Whatever You Say Bounces Off Me and Sticks to You](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/)
   - [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations)
 - Hacker News Frontpage
   - [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
@@ -30,8 +31,16 @@
   - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
   - [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
 - Vulners.com RSS Feed
+  - [CVE-2026-111866](https://vulners.com/nvd/NVD:CVE-2026-111866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111868 datastax pulsar-jms PulsarObjectMessage.java decode deserialization](https://vulners.com/cve/CVE-2026-111868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111868 datastax pulsar-jms PulsarObjectMessage.java decode deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-111868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111997](https://vulners.com/cve/CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111997](https://vulners.com/cvelist/CVELIST:CVE-2026-111997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-53995](https://vulners.com/githubexploit/7535094A-4B89-5656-A1DF-CAAB5D8B1F88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Kioptrix-Level-1-POC](https://vulners.com/githubexploit/413AB6A9-D6A0-5437-8F07-D0C52F933DEE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pyre-ps5](https://vulners.com/githubexploit/D56B4ABD-4300-501D-B206-B79EC72F752F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sy0-701](https://vulners.com/githubexploit/FCBF4AA2-360C-5570-BEF6-72C9DD6BD830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Aristois and REA](https://buaq.net/go-449014.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
