@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-10-19）
 
 - Hacker News Frontpage
+  - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
   - [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)
   - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 - righto.com
