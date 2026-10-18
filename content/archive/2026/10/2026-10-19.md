@@ -2,6 +2,7 @@
 
 - Hacker News Frontpage
   - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
+  - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
   - [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)
   - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 - righto.com
@@ -10,11 +11,14 @@
   - [jintang exploit](https://sploitus.com/exploit?id=2C3E3639-BC3B-5928-A1F6-91D6427590BD&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
+  - [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)
 - The Block
   - [Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum](https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863)
 - The Verge
+  - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
   - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
 - Vulners.com RSS Feed
+  - [CVE-2024-4457](https://vulners.com/nvd/NVD:CVE-2024-4457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98818](https://vulners.com/nvd/NVD:CVE-2026-98818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98819](https://vulners.com/nvd/NVD:CVE-2026-98819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98820](https://vulners.com/nvd/NVD:CVE-2026-98820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -64,5 +68,6 @@
   - [CVE-2026-98867](https://vulners.com/nvd/NVD:CVE-2026-98867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98868](https://vulners.com/nvd/NVD:CVE-2026-98868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [jintang](https://vulners.com/gitee/2C3E3639-BC3B-5928-A1F6-91D6427590BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xss-test-2026](https://vulners.com/githubexploit/0370CC1D-5EC4-5767-84BF-3592CB989291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
