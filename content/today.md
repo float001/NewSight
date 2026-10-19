@@ -7,7 +7,10 @@
 - CoinTelegraph
   - [Bitcoin is rejected at $83K as US bond yields reverse higher with equities](https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal](https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Revolut secures Gibraltar crypto license to support global expansion](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC](https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Claude Code Finds XMRig Crypto Miner on Mac](https://www.cyberkendra.com/2026/10/claude-code-finds-xmrig-crypto-miner-on-mac.html)
 - CyberNews
   - [ConnectWise breach puts more than 300 companies’ secrets at risk](https://cybernews.com/security/connectwise-cloud-backup-breach-microsoft-365/)
   - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
@@ -15,13 +18,22 @@
   - [Netflix Lays Off 6 Percent of Staff](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&reflink=desktopwebshare_permalink)
   - [Time Magazine Profiles John Ternus](https://time.com/collection/best-inventions/2026/apple-iphone-duo/)
 - Hacker News Frontpage
+  - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
+  - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
   - [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
+  - [Inception "Mercury 3", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+- MIT Technology Review
+  - [“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)
 - TechCrunch
+  - [AI assistant startup Town nabs unicorn valuation four months after launch](https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/)
   - [Amazon to fund 12 small nuclear reactors at former Indiana coal plant](https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/)
   - [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/)
+  - [Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs](https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/)
 - The Block
   - [Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks](https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658)
   - [Mesh taps Visa to let users spend crypto without a separate card](https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058)
+- The Decoder
+  - [Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant](https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/)
 - Vulners.com RSS Feed
   - [CVE-2025-10149 Arbitrary Operations via SCIM Endpoints in Multiple WSO2 Products Enables User Account Takeover](https://vulners.com/cve/CVE-2025-10149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-10149 Arbitrary Operations via SCIM Endpoints in Multiple WSO2 Products Enables User Account Takeover](https://vulners.com/cvelist/CVELIST:CVE-2025-10149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
