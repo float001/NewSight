@@ -10,6 +10,8 @@
   - [Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction](https://tomthedancingbug.com/the-inner-hive/)
   - [Verizon Is Going to Charge $10/Month for iPhone Handoff](https://www.verizon.com/about/news/iphone-duo-verizon-offers)
   - [WorkOS AuthKit](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
+- Der Flounder
+  - [Exporting Managed Client data on macOS Golden Gate](https://derflounder.wordpress.com/2026/10/18/exporting-managed-client-data-on-macos-golden-gate/)
 - Hacker News Frontpage
   - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
   - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
@@ -17,6 +19,9 @@
   - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 - righto.com
   - [Inside the Intel 8087 chip: floating-point addition and subtraction](http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+- simonwillison.net
+  - [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/)
+  - [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/)
 - Sploitus.com Exploits RSS Feed
   - [jintang exploit](https://sploitus.com/exploit?id=2C3E3639-BC3B-5928-A1F6-91D6427590BD&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -91,5 +96,7 @@
   - [xss-test-2026](https://vulners.com/githubexploit/0370CC1D-5EC4-5767-84BF-3592CB989291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产](https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]ClaudeCode 2.1.30x版本风控-Anthropic的追踪中转站的技术 x2](https://key08.com/index.php/2026/10/19/3369.html)
