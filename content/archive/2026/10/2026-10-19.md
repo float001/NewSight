@@ -4,9 +4,12 @@
   - [【💰】](https://2libra.com/post/love/G4zR77b)
   - [一周时间搓一个简单的 2D RPG](https://2libra.com/post/personal-works/4Wcm81s)
   - [万般皆是命，半点不由人 🙏🙏🙏](https://2libra.com/post/midlife-support-club/WHz-E3x)
+  - [什么柚子最好吃?](https://2libra.com/post/small-things/KBZNZgg)
   - [免费或者低价好用的 tts 推荐](https://2libra.com/post/ai-tools/qzfZ46T)
   - [出一个 V2EX 的邀请码，需要的私我](https://2libra.com/post/invite-code/ANGt5ts)
+  - [发帖草稿建议增加一键清空功能。](https://2libra.com/post/community/iqsNzXP)
   - [吉米仔 收藏急需一个快捷路口](https://2libra.com/post/community/LhqlL-3)
+  - [我现在的状态，如头像](https://2libra.com/post/workplace-stories/pvShfBe)
 - CoinTelegraph
   - [Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest](https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -52,6 +55,14 @@
   - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
 - Vulners.com RSS Feed
   - [CVE-2024-4457](https://vulners.com/nvd/NVD:CVE-2024-4457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102503 Missing Authentication on /libp2p-http Ingress in Google OSS Agent Mesh (SAM)](https://vulners.com/cve/CVE-2026-102503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102503 Missing Authentication on /libp2p-http Ingress in Google OSS Agent Mesh (SAM)](https://vulners.com/cvelist/CVELIST:CVE-2026-102503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103091 Insecure Default Policy and Unrestricted OIDC Enrollment in Google OSS Agent Mesh (SAM)](https://vulners.com/cve/CVE-2026-103091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103091 Insecure Default Policy and Unrestricted OIDC Enrollment in Google OSS Agent Mesh (SAM)](https://vulners.com/cvelist/CVELIST:CVE-2026-103091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108983](https://vulners.com/nvd/NVD:CVE-2026-108983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108984](https://vulners.com/nvd/NVD:CVE-2026-108984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111441 HLL 反序列化 lenTotal/lenUsed 校验缺失导致堆越界写](https://vulners.com/cve/CVE-2026-111441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111441 HLL 反序列化 lenTotal/lenUsed 校验缺失导致堆越界写](https://vulners.com/cvelist/CVELIST:CVE-2026-111441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112025](https://vulners.com/nvd/NVD:CVE-2026-112025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112026 light0011 cms UserModel.class.php sha1 weak password hash](https://vulners.com/cve/CVE-2026-112026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112026 light0011 cms UserModel.class.php sha1 weak password hash](https://vulners.com/cvelist/CVELIST:CVE-2026-112026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -60,6 +71,15 @@
   - [CVE-2026-112030](https://vulners.com/nvd/NVD:CVE-2026-112030?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112031](https://vulners.com/nvd/NVD:CVE-2026-112031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112032](https://vulners.com/nvd/NVD:CVE-2026-112032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112037](https://vulners.com/nvd/NVD:CVE-2026-112037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112038](https://vulners.com/nvd/NVD:CVE-2026-112038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112039](https://vulners.com/nvd/NVD:CVE-2026-112039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112040](https://vulners.com/nvd/NVD:CVE-2026-112040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112041](https://vulners.com/nvd/NVD:CVE-2026-112041?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112042 diem-project diem dmWidget dmBaseLinkTag.php text cross site scripting](https://vulners.com/cve/CVE-2026-112042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112042 diem-project diem dmWidget dmBaseLinkTag.php text cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-112042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112043 calcom cal.com/cal.diy Webhook util.ts createWebhookProcedure authorization](https://vulners.com/cve/CVE-2026-112043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112043 calcom cal.com/cal.diy Webhook util.ts createWebhookProcedure authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-112043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98818](https://vulners.com/nvd/NVD:CVE-2026-98818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98819](https://vulners.com/nvd/NVD:CVE-2026-98819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98820](https://vulners.com/nvd/NVD:CVE-2026-98820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -116,9 +136,14 @@
   - [Horizon3 expands in Singapore to accelerate AI‑native proactive security across Southeast Asia](https://buaq.net/go-449132.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [minor major and patch](https://dyrnq.com/minor-major-and-patch/)
 - 爱范儿
+  - [实测 Lovart 2.0 ，设计 AI 进入个人助理时代](https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产](https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]ClaudeCode 2.1.30x版本风控-Anthropic的追踪中转站的技术 x2](https://key08.com/index.php/2026/10/19/3369.html)
+- 绿盟科技技术博客
+  - [2026 人工智能产业大会 | 绿盟科技多项智能体安全实践成果出圈](https://blog.nsfocus.net/2026-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%ba%a7%e4%b8%9a%e5%a4%a7%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%a4%9a%e9%a1%b9%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e5%ae%9e%e8%b7%b5/)
 - 黑海洋
   - [费城一名女子因阻挡配送机器人而被捕](https://blog.upx8.com/%E8%B4%B9%E5%9F%8E%E4%B8%80%E5%90%8D%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%98%BB%E6%8C%A1%E9%85%8D%E9%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%8C%E8%A2%AB%E6%8D%95)
