@@ -12,6 +12,7 @@
   - [什么柚子最好吃?](https://2libra.com/post/small-things/KBZNZgg)
   - [免费或者低价好用的 tts 推荐](https://2libra.com/post/ai-tools/qzfZ46T)
   - [出一个 V2EX 的邀请码，需要的私我](https://2libra.com/post/invite-code/ANGt5ts)
+  - [出奖品闲置[电火锅蒸锅保温杯球拍登山包净化器电动牙刷]](https://2libra.com/post/second-hand/QRmZZda)
   - [分享个投胎模拟器 plus](https://2libra.com/post/game-share/3oBUYaU)
   - [发帖草稿建议增加一键清空功能。](https://2libra.com/post/community/iqsNzXP)
   - [吉米仔 收藏急需一个快捷路口](https://2libra.com/post/community/LhqlL-3)
@@ -28,6 +29,7 @@
   - [Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest](https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea to meet crypto exchanges amid calls for tax delay](https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stocks rebound into key tech earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks](https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zoom adds ‘proof of human’ badges to show you’re not a deepfake](https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [AI executive search that keeps human judgment](https://cybernews.com/partner-content/ai-executive-search-that-keeps-human-judgment/)
@@ -41,7 +43,9 @@
   - [Interpol-led operation strikes online child abuse networks, resulting in 95 arrests](https://cybernews.com/news/interpol-operation-child-abuse-networks-arrests/)
   - [Interpol’s new campaign shows how anyone can fall victim to deepfake scams](https://cybernews.com/ai-news/interpol-deepfake-scam-campaign/)
   - [Man sold everything and moved 1,200 miles for a woman who never existed](https://cybernews.com/ai-news/tiktok-deepfake-jessica-oliveira-tricks-man/)
+  - [MapQuest now shows Flock camera locations on your route](https://cybernews.com/tech/mapquest-flock-locations/)
   - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
+  - [Secret Broadcom chip flaw lets nearby hackers take over millions of routers](https://cybernews.com/security/broadcom-wifi-flaw-millions-routers-no-password/)
   - [Your AI assistant could fall for phishing scams](https://cybernews.com/security/phishing-emails-baiting-ai-assistants/)
 - daringfireball.net
   - [Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)
@@ -78,6 +82,8 @@
 - infosecurity-magazine.com
   - [ConnectWise Shuts Off Cloud Services After ‘Unauthorized Access’ to Microsoft 365 Tenants](https://www.infosecurity-magazine.com/news/connectwise-shuts-off-cloud/)
   - [US Cybersecurity Job Postings Fall 26%, Hitting Four Year Low](https://www.infosecurity-magazine.com/news/cybersecurity-job-postings-fall/)
+- johndcook.com
+  - [A frivolous problem with a deeper lesson](https://www.johndcook.com/blog/2026/10/19/regex-backtracking/)
 - MIT Technology Review
   - [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
   - [Inside the quest to combat Arctic fires and save the planet’s frozen carbon](https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/)
@@ -109,9 +115,13 @@
   - [JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients](https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874)
   - [Revolut secures Gibraltar crypto licence to support international expansion plans](https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889)
   - [World launches World ID suite for banks, makes Zoom deepfake check generally available](https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869)
+- The Decoder
+  - [Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children](https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/)
+  - [The neocloud shakeout is coming, and Nvidia has the most to lose](https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/)
 - The Verge
   - [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)
   - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
+  - [Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms)
   - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
   - [The Maeving RM2 is high-style electric riding with a few compromises](https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs)
   - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
@@ -295,6 +305,7 @@
   - [15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)](https://www.wired.com/gallery/best-white-elephant-gifts-2026/)
   - [How the Xbox’s Disc-to-Digital Program Works](https://www.wired.com/story/xbox-disc-to-digital/)
   - [Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories](https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/)
+  - [Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’](https://www.wired.com/story/nathan-fielder-tells-us-everything/)
 - 不安全
   - [Barzakh](https://buaq.net/go-449221.html)
   - [Homeworld: Cataclysm source code](https://buaq.net/go-449122.html)
@@ -308,6 +319,10 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [minor major and patch](https://dyrnq.com/minor-major-and-patch/)
+- 安全客
+  - [3.5万次请求、翻找泄露密钥：失控AI智能体围猎高德地图，运营者却毫不知情](https://www.anquanke.com/post/id/316251)
+  - [51个AI代理，61秒植入32个后门：黑客已经把AI训练成红队主力](https://www.anquanke.com/post/id/316248)
+  - [黑客把冷柜调到50℃，数百家超市一夜报废：工控安全最扎心的一课](https://www.anquanke.com/post/id/316245)
 - 爱范儿
   - [实测 Lovart 2.0 ，设计 AI 进入个人助理时代](https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微信鸿蒙版两周年背后，你不知道的故事](https://www.ifanr.com/1684869?utm_source=rss&utm_medium=rss&utm_campaign=)
