@@ -2,6 +2,7 @@
 
 - 2Libra
   - [chatgpt? kimi? 智谱?](https://2libra.com/post/ai-tools/qURSfhw)
+  - [【功能请求】增加 pandora、badge 两类数据的汇总页面。](https://2libra.com/post/forum-function/HeBsZfo)
   - [【吐槽】项目经理需求描述不清](https://2libra.com/post/workplace-stories/YhoqcDW)
   - [【💰】](https://2libra.com/post/love/G4zR77b)
   - [【💰】双十一买点啥？🤨](https://2libra.com/post/worth-buying/vRNY581)
@@ -13,15 +14,22 @@
   - [分享个投胎模拟器 plus](https://2libra.com/post/game-share/3oBUYaU)
   - [发帖草稿建议增加一键清空功能。](https://2libra.com/post/community/iqsNzXP)
   - [吉米仔 收藏急需一个快捷路口](https://2libra.com/post/community/LhqlL-3)
+  - [周末回老家了，进山割了今年的蜂蜜，又是一年大丰收](https://2libra.com/post/personal-life/WB94ySn)
   - [我现在的状态，如头像](https://2libra.com/post/workplace-stories/pvShfBe)
+  - [潘多拉事件“混沌”，如果抽中了徽章，后续还会随机到这个事件吗](https://2libra.com/post/forum-function/3TS59fa)
   - [真方块无双](https://2libra.com/post/game-share/aAJc0zf)
 - CoinTelegraph
+  - [Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B](https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest](https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea to meet crypto exchanges amid calls for tax delay](https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zoom adds ‘proof of human’ badges to show you’re not a deepfake](https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [AI executive search that keeps human judgment](https://cybernews.com/partner-content/ai-executive-search-that-keeps-human-judgment/)
+  - [Apple tightens App Store rules to keep AI nudification apps out](https://cybernews.com/tech/apple-tightens-rules-nudification-apps/)
   - [Cybernews Readers’ Choice Awards 2026 voting is open now — help pick this year’s best tech](https://cybernews.com/news/cybernews-readers-choice-awards-2026-voting-is-open-now-help-pick-this-years-best-tech/)
+  - [Frontier settles data breach affecting 59K Connecticut residents for $625K](https://cybernews.com/news/frontier-connecticut-data-breach-settlement/)
+  - [Interpol-led operation strikes online child abuse networks, resulting in 95 arrests](https://cybernews.com/news/interpol-operation-child-abuse-networks-arrests/)
   - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
 - daringfireball.net
   - [Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)
@@ -35,6 +43,8 @@
   - [ConnectWise, BeyondTrust, Drupal: Critical exploits, M365 breach, patched RCEs](https://defend.network/briefings/connectwise-beyondtrust-drupal-critical-exploits-2026-10-19.html)
 - Der Flounder
   - [Exporting Managed Client data on macOS Golden Gate](https://derflounder.wordpress.com/2026/10/18/exporting-managed-client-data-on-macos-golden-gate/)
+- Fidelis Security
+  - [ShinyHunters Exploits Oracle PeopleSoft to Steal Sensitive Data](https://fidelissecurity.com/threatgeek/threats-and-vulnerabilities/shinyhunters-oracle-peoplesoft-attack/)
 - Hacker News Frontpage
   - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
   - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
@@ -44,6 +54,8 @@
   - [研究人员演示 OpenBSD Root 漏洞利用，串联 37 年前的共享内存缺陷](http://0.0.0.0:8080/post/64796)
 - Horizon3.ai
   - [Horizon3 expands in Singapore to accelerate AI‑native proactive security across Southeast Asia](https://horizon3.ai/news/press-release/horizon3-singapore-expansion-asean-headquarters/)
+- pluralistic.net
+  - [Pluralistic: The technopolitics of ad-tech (19 Oct 2026)](https://pluralistic.net/2026/10/19/spying-v-context/)
 - righto.com
   - [Inside the Intel 8087 chip: floating-point addition and subtraction](http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 - rtl-sdr.com
@@ -60,6 +72,7 @@
   - [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
   - [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
   - [Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’](https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/)
+  - [Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics](https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/)
   - [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)
 - The Block
   - [Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off](https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866)
@@ -182,6 +195,8 @@
   - [Homeworld: Cataclysm source code](https://buaq.net/go-449122.html)
   - [Horizon3 expands in Singapore to accelerate AI‑native proactive security across Southeast Asia](https://buaq.net/go-449132.html)
   - [invisible_playwright v0.39.0](https://buaq.net/go-449142.html)
+  - [Yac 3.0 Released: 42% Higher Throughput for Common Cache Workloads](https://buaq.net/go-449175.html)
+  - [Yac 3.0 发布：常见缓存负载吞吐提升 42%](https://buaq.net/go-449174.html)
   - [倒计时2天 | 2026 TechWorld智慧安全大会](https://buaq.net/go-449139.html)
   - [研究人员演示 OpenBSD Root 漏洞利用，串联 37 年前的共享内存缺陷](https://buaq.net/go-449143.html)
 - 代码审计星球
@@ -190,13 +205,17 @@
   - [minor major and patch](https://dyrnq.com/minor-major-and-patch/)
 - 爱范儿
   - [实测 Lovart 2.0 ，设计 AI 进入个人助理时代](https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [微信鸿蒙版两周年背后，你不知道的故事](https://www.ifanr.com/1684869?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产](https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]ClaudeCode 2.1.30x版本风控-Anthropic的追踪中转站的技术 x2](https://key08.com/index.php/2026/10/19/3369.html)
 - 绿盟科技技术博客
   - [2026 人工智能产业大会 | 绿盟科技多项智能体安全实践成果出圈](https://blog.nsfocus.net/2026-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%ba%a7%e4%b8%9a%e5%a4%a7%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%a4%9a%e9%a1%b9%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e5%ae%9e%e8%b7%b5/)
   - [倒计时2天 | 2026 TechWorld智慧安全大会](https://blog.nsfocus.net/%e5%80%92%e8%ae%a1%e6%97%b62%e5%a4%a9-2026-techworld%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e5%a4%a7%e4%bc%9a/)
+- 风雪之隅(鸟哥)
+  - [Yac 3.0 发布：常见缓存负载吞吐提升 42%](https://www.laruence.com/2026/10/19/7656.html)
 - 黑海洋
+  - [字节火山引擎推出Seedance AI剧激励计划](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%8E%A8%E5%87%BASeedance-AI%E5%89%A7%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92)
   - [微软退出 英国最大数据中心项目痛失大客户](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E9%80%80%E5%87%BA-%E8%8B%B1%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E7%97%9B%E5%A4%B1%E5%A4%A7%E5%AE%A2%E6%88%B7)
   - [美国FAA加强边境管制 禁飞未授权无人机](https://blog.upx8.com/%E7%BE%8E%E5%9B%BDFAA%E5%8A%A0%E5%BC%BA%E8%BE%B9%E5%A2%83%E7%AE%A1%E5%88%B6-%E7%A6%81%E9%A3%9E%E6%9C%AA%E6%8E%88%E6%9D%83%E6%97%A0%E4%BA%BA%E6%9C%BA)
   - [苹果严管AI深度伪造：违规应用将遭下架](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E4%B8%A5%E7%AE%A1AI%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0-%E8%BF%9D%E8%A7%84%E5%BA%94%E7%94%A8%E5%B0%86%E9%81%AD%E4%B8%8B%E6%9E%B6)
