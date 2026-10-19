@@ -37,6 +37,7 @@
   - [Inside the Intel 8087 chip: floating-point addition and subtraction](http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 - rtl-sdr.com
   - [Advanced FT8/FT4 DX Decoder: A Native FT8/FT4 Decoder Plugin for SDR++Brown on macOS](https://www.rtl-sdr.com/advanced-ft8-ft4-dx-decoder-a-native-ft8-ft4-decoder-plugin-for-sdrbrown-on-macos/)
+  - [BrowSDR Update: Multi-SDR Support, LimeSDR, and Decoders for ADS-B, AIS, ACARS, RS41, rtl_433, BLE and DMR](https://www.rtl-sdr.com/browsdr-update-multi-sdr-support-limesdr-and-decoders-for-ads-b-ais-acars-rs41-rtl_433-ble-and-dmr/)
   - [Etherbulb: An ESP32-C3 Smart Bulb That Changes Color Based on Nearby RF Signals](https://www.rtl-sdr.com/etherbulb-an-esp32-c3-smart-bulb-that-changes-color-based-on-nearby-rf-signals/)
   - [Live TEA1 Decryption Support Added to an osmo-tetra Fork](https://www.rtl-sdr.com/live-tea1-decryption-support-added-to-an-osmo-tetra-fork/)
 - simonwillison.net
@@ -66,6 +67,7 @@
   - [CVE-2026-103091 Insecure Default Policy and Unrestricted OIDC Enrollment in Google OSS Agent Mesh (SAM)](https://vulners.com/cvelist/CVELIST:CVE-2026-103091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108983](https://vulners.com/nvd/NVD:CVE-2026-108983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108984](https://vulners.com/nvd/NVD:CVE-2026-108984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111440](https://vulners.com/nvd/NVD:CVE-2026-111440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111441 HLL 反序列化 lenTotal/lenUsed 校验缺失导致堆越界写](https://vulners.com/cve/CVE-2026-111441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111441 HLL 反序列化 lenTotal/lenUsed 校验缺失导致堆越界写](https://vulners.com/cvelist/CVELIST:CVE-2026-111441?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112025](https://vulners.com/nvd/NVD:CVE-2026-112025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -85,6 +87,15 @@
   - [CVE-2026-112042 diem-project diem dmWidget dmBaseLinkTag.php text cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-112042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112043 calcom cal.com/cal.diy Webhook util.ts createWebhookProcedure authorization](https://vulners.com/cve/CVE-2026-112043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112043 calcom cal.com/cal.diy Webhook util.ts createWebhookProcedure authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-112043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112045](https://vulners.com/nvd/NVD:CVE-2026-112045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112073](https://vulners.com/nvd/NVD:CVE-2026-112073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112074](https://vulners.com/nvd/NVD:CVE-2026-112074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112075](https://vulners.com/nvd/NVD:CVE-2026-112075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112076](https://vulners.com/nvd/NVD:CVE-2026-112076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112077 radareorg radare2 HTTP Sandbox Policy rtr_http.inc.c r_core_cmd_str_pipe protection mechanism](https://vulners.com/cve/CVE-2026-112077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112077 radareorg radare2 HTTP Sandbox Policy rtr_http.inc.c r_core_cmd_str_pipe protection mechanism](https://vulners.com/cvelist/CVELIST:CVE-2026-112077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112078 RVC-Project Retrieval-based-Voice-Conversion-WebUI webui.py change_info_ code injection](https://vulners.com/cve/CVE-2026-112078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112078 RVC-Project Retrieval-based-Voice-Conversion-WebUI webui.py change_info_ code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-112078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98818](https://vulners.com/nvd/NVD:CVE-2026-98818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98819](https://vulners.com/nvd/NVD:CVE-2026-98819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98820](https://vulners.com/nvd/NVD:CVE-2026-98820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -155,5 +166,6 @@
   - [2026 人工智能产业大会 | 绿盟科技多项智能体安全实践成果出圈](https://blog.nsfocus.net/2026-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%ba%a7%e4%b8%9a%e5%a4%a7%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%a4%9a%e9%a1%b9%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e5%ae%9e%e8%b7%b5/)
   - [倒计时2天 | 2026 TechWorld智慧安全大会](https://blog.nsfocus.net/%e5%80%92%e8%ae%a1%e6%97%b62%e5%a4%a9-2026-techworld%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e5%a4%a7%e4%bc%9a/)
 - 黑海洋
+  - [美国FAA加强边境管制 禁飞未授权无人机](https://blog.upx8.com/%E7%BE%8E%E5%9B%BDFAA%E5%8A%A0%E5%BC%BA%E8%BE%B9%E5%A2%83%E7%AE%A1%E5%88%B6-%E7%A6%81%E9%A3%9E%E6%9C%AA%E6%8E%88%E6%9D%83%E6%97%A0%E4%BA%BA%E6%9C%BA)
   - [苹果严管AI深度伪造：违规应用将遭下架](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E4%B8%A5%E7%AE%A1AI%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0-%E8%BF%9D%E8%A7%84%E5%BA%94%E7%94%A8%E5%B0%86%E9%81%AD%E4%B8%8B%E6%9E%B6)
   - [费城一名女子因阻挡配送机器人而被捕](https://blog.upx8.com/%E8%B4%B9%E5%9F%8E%E4%B8%80%E5%90%8D%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%98%BB%E6%8C%A1%E9%85%8D%E9%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%8C%E8%A2%AB%E6%8D%95)
