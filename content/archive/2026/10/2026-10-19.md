@@ -21,12 +21,18 @@
   - [潘多拉事件“混沌”，如果抽中了徽章，后续还会随机到这个事件吗](https://2libra.com/post/forum-function/3TS59fa)
   - [男人不被坑的十种方式](https://2libra.com/post/social-observation/jmg7KFU)
   - [真方块无双](https://2libra.com/post/game-share/aAJc0zf)
+- 404 Media
+  - [How a Massive Chinese Crime Ring Hacked Staples to Steal Millions](https://www.404media.co/how-a-massive-chinese-crime-ring-hacked-staples-to-steal-millions/)
+- Ars Technica
+  - [Review: Lanterns is a truly unique twist on the superhero genre](https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/)
 - CoinTelegraph
   - [BingX, YouHodler added to ESMA MiCA register in latest update](https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B](https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals](https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [JPMorgan takes JPM Coin to Ethereum for institutional clients: Report](https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Made an ‘honest’ mistake with crypto taxes? New bill offers way out](https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Public companies object to OKX-ICE’s tokenized stock plan](https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest](https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea to meet crypto exchanges amid calls for tax delay](https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stocks rebound into key tech earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,6 +63,8 @@
   - [Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction](https://tomthedancingbug.com/the-inner-hive/)
   - [Verizon Is Going to Charge $10/Month for iPhone Handoff](https://www.verizon.com/about/news/iphone-duo-verizon-offers)
   - [WorkOS AuthKit](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
+- darkreading
+  - [The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience)
 - defend.network
   - [ConnectWise, BeyondTrust, Drupal: Critical exploits, M365 breach, patched RCEs](https://defend.network/briefings/connectwise-beyondtrust-drupal-critical-exploits-2026-10-19.html)
 - Der Flounder
@@ -67,6 +75,7 @@
   - [British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
   - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
   - [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)
+  - [Stripe will acquire OpenRouter for $7.5B](https://startupfortune.com/stripe-will-pay-75-billion-for-openrouter-the-ai-model-traffic-cop/)
   - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
 - HackerNews
   - [Drupal 修复严重 RCE 漏洞，警告利用代码可能很快出现](http://0.0.0.0:8080/post/64802)
@@ -84,9 +93,12 @@
   - [The Robot I Didn’t Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
 - infosecurity-magazine.com
   - [ConnectWise Shuts Off Cloud Services After ‘Unauthorized Access’ to Microsoft 365 Tenants](https://www.infosecurity-magazine.com/news/connectwise-shuts-off-cloud/)
+  - [OpenCode Breach Could Affect OpenAI, Anthropic and Google](https://www.infosecurity-magazine.com/news/opencode-breach-openai-anthropic/)
   - [US Cybersecurity Job Postings Fall 26%, Hitting Four Year Low](https://www.infosecurity-magazine.com/news/cybersecurity-job-postings-fall/)
 - johndcook.com
   - [A frivolous problem with a deeper lesson](https://www.johndcook.com/blog/2026/10/19/regex-backtracking/)
+- krebsonsecurity.com
+  - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 - MIT Technology Review
   - [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
   - [Inside the quest to combat Arctic fires and save the planet’s frozen carbon](https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/)
@@ -119,10 +131,12 @@
   - [Musk pledges to give ‘every kid in America’ one of his SpaceX shares](https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/)
   - [No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market](https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/)
 - The Block
+  - [Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens](https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018)
   - [Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off](https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866)
   - [Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum](https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863)
   - [JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients](https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874)
   - [Revolut secures Gibraltar crypto licence to support international expansion plans](https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889)
+  - [Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC](https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020)
   - [World launches World ID suite for banks, makes Zoom deepfake check generally available](https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869)
   - [‘We found room for more orange’: Michael Saylor’s Strategy buys another 267 bitcoin for $22 million](https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895)
 - The Decoder
@@ -130,9 +144,11 @@
   - [Stripe says AI agent purchases are adding up, but it won't share the numbers](https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/)
   - [The neocloud shakeout is coming, and Nvidia has the most to lose](https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/)
 - The Verge
+  - [A hacker broke into John Deere and SharkNinja with an army of AI agents](https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins)
   - [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)
   - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
   - [Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms)
+  - [It’s hard to imagine wireless headphones ever getting lighter than these](https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these)
   - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
   - [The Maeving RM2 is high-style electric riding with a few compromises](https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs)
   - [Vibe coding is turning the music gear world upside down](https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware)
@@ -358,6 +374,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [minor major and patch](https://dyrnq.com/minor-major-and-patch/)
+- 奇客Solidot–传递最新科技情报
+  - [Wine 移植到 OpenBSD](https://www.solidot.org/story?sid=85651)
 - 安全客
   - [3.5万次请求、翻找泄露密钥：失控AI智能体围猎高德地图，运营者却毫不知情](https://www.anquanke.com/post/id/316251)
   - [51个AI代理，61秒植入32个后门：黑客已经把AI训练成红队主力](https://www.anquanke.com/post/id/316248)
@@ -381,5 +399,7 @@
   - [字节火山引擎推出Seedance AI剧激励计划](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%8E%A8%E5%87%BASeedance-AI%E5%89%A7%E6%BF%80%E5%8A%B1%E8%AE%A1%E5%88%92)
   - [微软退出 英国最大数据中心项目痛失大客户](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E9%80%80%E5%87%BA-%E8%8B%B1%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E7%97%9B%E5%A4%B1%E5%A4%A7%E5%AE%A2%E6%88%B7)
   - [美国FAA加强边境管制 禁飞未授权无人机](https://blog.upx8.com/%E7%BE%8E%E5%9B%BDFAA%E5%8A%A0%E5%BC%BA%E8%BE%B9%E5%A2%83%E7%AE%A1%E5%88%B6-%E7%A6%81%E9%A3%9E%E6%9C%AA%E6%8E%88%E6%9D%83%E6%97%A0%E4%BA%BA%E6%9C%BA)
+  - [美国禁止联邦机构使用DeepSeek的产品](https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%81%94%E9%82%A6%E6%9C%BA%E6%9E%84%E4%BD%BF%E7%94%A8DeepSeek%E7%9A%84%E4%BA%A7%E5%93%81)
   - [苹果严管AI深度伪造：违规应用将遭下架](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E4%B8%A5%E7%AE%A1AI%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0-%E8%BF%9D%E8%A7%84%E5%BA%94%E7%94%A8%E5%B0%86%E9%81%AD%E4%B8%8B%E6%9E%B6)
   - [费城一名女子因阻挡配送机器人而被捕](https://blog.upx8.com/%E8%B4%B9%E5%9F%8E%E4%B8%80%E5%90%8D%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%98%BB%E6%8C%A1%E9%85%8D%E9%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%8C%E8%A2%AB%E6%8D%95)
+  - [霍尔木兹海峡漂满iPhone是假的](https://blog.upx8.com/%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%BC%82%E6%BB%A1iPhone%E6%98%AF%E5%81%87%E7%9A%84)
