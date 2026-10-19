@@ -4,6 +4,7 @@
   - [chatgpt? kimi? 智谱?](https://2libra.com/post/ai-tools/qURSfhw)
   - [【吐槽】项目经理需求描述不清](https://2libra.com/post/workplace-stories/YhoqcDW)
   - [【💰】](https://2libra.com/post/love/G4zR77b)
+  - [【💰】双十一买点啥？🤨](https://2libra.com/post/worth-buying/vRNY581)
   - [一周时间搓一个简单的 2D RPG](https://2libra.com/post/personal-works/4Wcm81s)
   - [万般皆是命，半点不由人 🙏🙏🙏](https://2libra.com/post/midlife-support-club/WHz-E3x)
   - [什么柚子最好吃?](https://2libra.com/post/small-things/KBZNZgg)
@@ -19,6 +20,9 @@
   - [Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest](https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea to meet crypto exchanges amid calls for tax delay](https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zoom adds ‘proof of human’ badges to show you’re not a deepfake](https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [Cybernews Readers’ Choice Awards 2026 voting is open now — help pick this year’s best tech](https://cybernews.com/news/cybernews-readers-choice-awards-2026-voting-is-open-now-help-pick-this-years-best-tech/)
+  - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
 - daringfireball.net
   - [Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin)
   - [Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’](https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&leadSource=article-gifting)
@@ -27,6 +31,8 @@
   - [Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction](https://tomthedancingbug.com/the-inner-hive/)
   - [Verizon Is Going to Charge $10/Month for iPhone Handoff](https://www.verizon.com/about/news/iphone-duo-verizon-offers)
   - [WorkOS AuthKit](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
+- defend.network
+  - [ConnectWise, BeyondTrust, Drupal: Critical exploits, M365 breach, patched RCEs](https://defend.network/briefings/connectwise-beyondtrust-drupal-critical-exploits-2026-10-19.html)
 - Der Flounder
   - [Exporting Managed Client data on macOS Golden Gate](https://derflounder.wordpress.com/2026/10/18/exporting-managed-client-data-on-macos-golden-gate/)
 - Hacker News Frontpage
@@ -64,12 +70,19 @@
   - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
   - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
   - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
+- troyhunt.com
+  - [Weekly Update 526: Building HIBP AI/SI First](https://www.troyhunt.com/weekly-update-526/)
 - Vulners.com RSS Feed
   - [CVE-2024-4457](https://vulners.com/nvd/NVD:CVE-2024-4457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102503 Missing Authentication on /libp2p-http Ingress in Google OSS Agent Mesh (SAM)](https://vulners.com/cve/CVE-2026-102503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102503 Missing Authentication on /libp2p-http Ingress in Google OSS Agent Mesh (SAM)](https://vulners.com/cvelist/CVELIST:CVE-2026-102503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103091 Insecure Default Policy and Unrestricted OIDC Enrollment in Google OSS Agent Mesh (SAM)](https://vulners.com/cve/CVE-2026-103091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103091 Insecure Default Policy and Unrestricted OIDC Enrollment in Google OSS Agent Mesh (SAM)](https://vulners.com/cvelist/CVELIST:CVE-2026-103091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106014](https://vulners.com/nvd/NVD:CVE-2026-106014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106028](https://vulners.com/nvd/NVD:CVE-2026-106028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106933](https://vulners.com/nvd/NVD:CVE-2026-106933?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108120](https://vulners.com/nvd/NVD:CVE-2026-108120?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108121](https://vulners.com/nvd/NVD:CVE-2026-108121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108983](https://vulners.com/nvd/NVD:CVE-2026-108983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108984](https://vulners.com/nvd/NVD:CVE-2026-108984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111440](https://vulners.com/nvd/NVD:CVE-2026-111440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -101,6 +114,16 @@
   - [CVE-2026-112077 radareorg radare2 HTTP Sandbox Policy rtr_http.inc.c r_core_cmd_str_pipe protection mechanism](https://vulners.com/cvelist/CVELIST:CVE-2026-112077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112078 RVC-Project Retrieval-based-Voice-Conversion-WebUI webui.py change_info_ code injection](https://vulners.com/cve/CVE-2026-112078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112078 RVC-Project Retrieval-based-Voice-Conversion-WebUI webui.py change_info_ code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-112078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112081](https://vulners.com/nvd/NVD:CVE-2026-112081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112082](https://vulners.com/nvd/NVD:CVE-2026-112082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112083](https://vulners.com/nvd/NVD:CVE-2026-112083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112086](https://vulners.com/nvd/NVD:CVE-2026-112086?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16487](https://vulners.com/nvd/NVD:CVE-2026-16487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76739](https://vulners.com/nvd/NVD:CVE-2026-76739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89286](https://vulners.com/nvd/NVD:CVE-2026-89286?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91046](https://vulners.com/nvd/NVD:CVE-2026-91046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91047](https://vulners.com/nvd/NVD:CVE-2026-91047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94273](https://vulners.com/nvd/NVD:CVE-2026-94273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98818](https://vulners.com/nvd/NVD:CVE-2026-98818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98819](https://vulners.com/nvd/NVD:CVE-2026-98819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98820](https://vulners.com/nvd/NVD:CVE-2026-98820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -149,8 +172,11 @@
   - [CVE-2026-98866](https://vulners.com/nvd/NVD:CVE-2026-98866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98867](https://vulners.com/nvd/NVD:CVE-2026-98867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-98868](https://vulners.com/nvd/NVD:CVE-2026-98868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-64560](https://vulners.com/githubexploit/8091B320-6EBA-543F-A29A-D4BAB4CD482D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Jenkins](https://vulners.com/githubexploit/0819E90A-4D7B-51E1-961F-F510DCB99A60?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [jintang](https://vulners.com/gitee/2C3E3639-BC3B-5928-A1F6-91D6427590BD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [network-security-work1](https://vulners.com/githubexploit/5BFB121D-1CF3-5255-8D16-47058F9E9AA3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://vulners.com/thn/THN:FE8D0B1BC1EC14DCEFB9D7F63EC5D63D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss-test-2026](https://vulners.com/githubexploit/0370CC1D-5EC4-5767-84BF-3592CB989291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Homeworld: Cataclysm source code](https://buaq.net/go-449122.html)
@@ -171,6 +197,7 @@
   - [2026 人工智能产业大会 | 绿盟科技多项智能体安全实践成果出圈](https://blog.nsfocus.net/2026-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%ba%a7%e4%b8%9a%e5%a4%a7%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%a4%9a%e9%a1%b9%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e5%ae%9e%e8%b7%b5/)
   - [倒计时2天 | 2026 TechWorld智慧安全大会](https://blog.nsfocus.net/%e5%80%92%e8%ae%a1%e6%97%b62%e5%a4%a9-2026-techworld%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e5%a4%a7%e4%bc%9a/)
 - 黑海洋
+  - [微软退出 英国最大数据中心项目痛失大客户](https://blog.upx8.com/%E5%BE%AE%E8%BD%AF%E9%80%80%E5%87%BA-%E8%8B%B1%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE%E7%97%9B%E5%A4%B1%E5%A4%A7%E5%AE%A2%E6%88%B7)
   - [美国FAA加强边境管制 禁飞未授权无人机](https://blog.upx8.com/%E7%BE%8E%E5%9B%BDFAA%E5%8A%A0%E5%BC%BA%E8%BE%B9%E5%A2%83%E7%AE%A1%E5%88%B6-%E7%A6%81%E9%A3%9E%E6%9C%AA%E6%8E%88%E6%9D%83%E6%97%A0%E4%BA%BA%E6%9C%BA)
   - [苹果严管AI深度伪造：违规应用将遭下架](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E4%B8%A5%E7%AE%A1AI%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0-%E8%BF%9D%E8%A7%84%E5%BA%94%E7%94%A8%E5%B0%86%E9%81%AD%E4%B8%8B%E6%9E%B6)
   - [费城一名女子因阻挡配送机器人而被捕](https://blog.upx8.com/%E8%B4%B9%E5%9F%8E%E4%B8%80%E5%90%8D%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%98%BB%E6%8C%A1%E9%85%8D%E9%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%8C%E8%A2%AB%E6%8D%95)
