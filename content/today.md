@@ -1,12 +1,14 @@
 # 今日安全资讯（2026-10-19）
 
 - 2Libra
+  - [【吐槽】项目经理需求描述不清](https://2libra.com/post/workplace-stories/YhoqcDW)
   - [【💰】](https://2libra.com/post/love/G4zR77b)
   - [一周时间搓一个简单的 2D RPG](https://2libra.com/post/personal-works/4Wcm81s)
   - [万般皆是命，半点不由人 🙏🙏🙏](https://2libra.com/post/midlife-support-club/WHz-E3x)
   - [什么柚子最好吃?](https://2libra.com/post/small-things/KBZNZgg)
   - [免费或者低价好用的 tts 推荐](https://2libra.com/post/ai-tools/qzfZ46T)
   - [出一个 V2EX 的邀请码，需要的私我](https://2libra.com/post/invite-code/ANGt5ts)
+  - [分享个投胎模拟器 plus](https://2libra.com/post/game-share/3oBUYaU)
   - [发帖草稿建议增加一键清空功能。](https://2libra.com/post/community/iqsNzXP)
   - [吉米仔 收藏急需一个快捷路口](https://2libra.com/post/community/LhqlL-3)
   - [我现在的状态，如头像](https://2libra.com/post/workplace-stories/pvShfBe)
@@ -27,6 +29,8 @@
   - [CFPB Opens Debanking Investigation into Nine Large National Banks](https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/)
   - [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/)
   - [The Intel 8087 chip: floating-point addition and subtraction](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+- HackerNews
+  - [研究人员演示 OpenBSD Root 漏洞利用，串联 37 年前的共享内存缺陷](http://0.0.0.0:8080/post/64796)
 - Horizon3.ai
   - [Horizon3 expands in Singapore to accelerate AI‑native proactive security across Southeast Asia](https://horizon3.ai/news/press-release/horizon3-singapore-expansion-asean-headquarters/)
 - righto.com
@@ -34,6 +38,7 @@
 - rtl-sdr.com
   - [Advanced FT8/FT4 DX Decoder: A Native FT8/FT4 Decoder Plugin for SDR++Brown on macOS](https://www.rtl-sdr.com/advanced-ft8-ft4-dx-decoder-a-native-ft8-ft4-decoder-plugin-for-sdrbrown-on-macos/)
   - [Etherbulb: An ESP32-C3 Smart Bulb That Changes Color Based on Nearby RF Signals](https://www.rtl-sdr.com/etherbulb-an-esp32-c3-smart-bulb-that-changes-color-based-on-nearby-rf-signals/)
+  - [Live TEA1 Decryption Support Added to an osmo-tetra Fork](https://www.rtl-sdr.com/live-tea1-decryption-support-added-to-an-osmo-tetra-fork/)
 - simonwillison.net
   - [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/)
   - [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/)
@@ -134,6 +139,9 @@
 - 不安全
   - [Homeworld: Cataclysm source code](https://buaq.net/go-449122.html)
   - [Horizon3 expands in Singapore to accelerate AI‑native proactive security across Southeast Asia](https://buaq.net/go-449132.html)
+  - [invisible_playwright v0.39.0](https://buaq.net/go-449142.html)
+  - [倒计时2天 | 2026 TechWorld智慧安全大会](https://buaq.net/go-449139.html)
+  - [研究人员演示 OpenBSD Root 漏洞利用，串联 37 年前的共享内存缺陷](https://buaq.net/go-449143.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
@@ -145,5 +153,7 @@
   - [[2026]ClaudeCode 2.1.30x版本风控-Anthropic的追踪中转站的技术 x2](https://key08.com/index.php/2026/10/19/3369.html)
 - 绿盟科技技术博客
   - [2026 人工智能产业大会 | 绿盟科技多项智能体安全实践成果出圈](https://blog.nsfocus.net/2026-%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%ba%a7%e4%b8%9a%e5%a4%a7%e4%bc%9a-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%a4%9a%e9%a1%b9%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e5%ae%9e%e8%b7%b5/)
+  - [倒计时2天 | 2026 TechWorld智慧安全大会](https://blog.nsfocus.net/%e5%80%92%e8%ae%a1%e6%97%b62%e5%a4%a9-2026-techworld%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e5%a4%a7%e4%bc%9a/)
 - 黑海洋
+  - [苹果严管AI深度伪造：违规应用将遭下架](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E4%B8%A5%E7%AE%A1AI%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0-%E8%BF%9D%E8%A7%84%E5%BA%94%E7%94%A8%E5%B0%86%E9%81%AD%E4%B8%8B%E6%9E%B6)
   - [费城一名女子因阻挡配送机器人而被捕](https://blog.upx8.com/%E8%B4%B9%E5%9F%8E%E4%B8%80%E5%90%8D%E5%A5%B3%E5%AD%90%E5%9B%A0%E9%98%BB%E6%8C%A1%E9%85%8D%E9%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%8C%E8%A2%AB%E6%8D%95)
