@@ -30,9 +30,11 @@
   - [AI must threaten to kill over 50 people for government to intervene, Anthropic proposes](https://cybernews.com/ai-news/anthropic-50-people/)
   - [Apple tightens App Store rules to keep AI nudification apps out](https://cybernews.com/tech/apple-tightens-rules-nudification-apps/)
   - [Cybernews Readers’ Choice Awards 2026 voting is open now — help pick this year’s best tech](https://cybernews.com/news/cybernews-readers-choice-awards-2026-voting-is-open-now-help-pick-this-years-best-tech/)
+  - [Epic Games CEO predicts AI will usher in a “golden age of gaming”](https://cybernews.com/ai-news/epic-games-ai-golden-age-gaming/)
   - [Fly brains were uploaded to AI-generated Matrix. Should we worry?](https://cybernews.com/ai-news/fly-brains-uploaded-ai-generated-matrix-simulator/)
   - [Frontier settles data breach affecting 59K Connecticut residents for $625K](https://cybernews.com/news/frontier-connecticut-data-breach-settlement/)
   - [Interpol-led operation strikes online child abuse networks, resulting in 95 arrests](https://cybernews.com/news/interpol-operation-child-abuse-networks-arrests/)
+  - [Interpol’s new campaign shows how anyone can fall victim to deepfake scams](https://cybernews.com/ai-news/interpol-deepfake-scam-campaign/)
   - [Man sold everything and moved 1,200 miles for a woman who never existed](https://cybernews.com/ai-news/tiktok-deepfake-jessica-oliveira-tricks-man/)
   - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
   - [Your AI assistant could fall for phishing scams](https://cybernews.com/security/phishing-emails-baiting-ai-assistants/)
@@ -61,8 +63,18 @@
   - [攻击者入侵 Microsoft 365 租户后，ConnectWise 暂停 Cloud Backup 服务](http://0.0.0.0:8080/post/64799)
   - [研究人员演示 OpenBSD Root 漏洞利用，串联 37 年前的共享内存缺陷](http://0.0.0.0:8080/post/64796)
   - [黑客利用 SiteGuard WAF 漏洞以管理员身份运行命令](http://0.0.0.0:8080/post/64801)
+- HackerNoon
+  - [What OpenAI’s Cursor Cutoff Means for Your Team](https://hackernoon.com/what-openais-cursor-cutoff-means-for-your-team?source=rss)
+  - [Why GPU Cloud Observability Is Harder Than It Looks](https://hackernoon.com/why-gpu-cloud-observability-is-harder-than-it-looks?source=rss)
 - Horizon3.ai
   - [Horizon3 expands in Singapore to accelerate AI‑native proactive security across Southeast Asia](https://horizon3.ai/news/press-release/horizon3-singapore-expansion-asean-headquarters/)
+- IEEE Spectrum
+  - [Edge AI for Smart Cities: From Insight to Cognitive Action](https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE)
+- infosecurity-magazine.com
+  - [US Cybersecurity Job Postings Fall 26%, Hitting Four Year Low](https://www.infosecurity-magazine.com/news/cybersecurity-job-postings-fall/)
+- MIT Technology Review
+  - [AI researchers stranded Claude on a virtual desert island. It started to “play.”](https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/)
+  - [Inside the quest to combat Arctic fires and save the planet’s frozen carbon](https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/)
 - pluralistic.net
   - [Pluralistic: The technopolitics of ad-tech (19 Oct 2026)](https://pluralistic.net/2026/10/19/spying-v-context/)
 - righto.com
@@ -72,6 +84,8 @@
   - [BrowSDR Update: Multi-SDR Support, LimeSDR, and Decoders for ADS-B, AIS, ACARS, RS41, rtl_433, BLE and DMR](https://www.rtl-sdr.com/browsdr-update-multi-sdr-support-limesdr-and-decoders-for-ads-b-ais-acars-rs41-rtl_433-ble-and-dmr/)
   - [Etherbulb: An ESP32-C3 Smart Bulb That Changes Color Based on Nearby RF Signals](https://www.rtl-sdr.com/etherbulb-an-esp32-c3-smart-bulb-that-changes-color-based-on-nearby-rf-signals/)
   - [Live TEA1 Decryption Support Added to an osmo-tetra Fork](https://www.rtl-sdr.com/live-tea1-decryption-support-added-to-an-osmo-tetra-fork/)
+- Shell is Only the Beginning
+  - [Passkeys Explained, and Choosing the Right Model](https://www.darkoperator.com/blog/2026/10/18/passkeys-explained-and-choosing-the-right-model)
 - simonwillison.net
   - [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/)
   - [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/)
@@ -220,6 +234,8 @@
   - [network-security-work1](https://vulners.com/githubexploit/5BFB121D-1CF3-5255-8D16-47058F9E9AA3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://vulners.com/thn/THN:FE8D0B1BC1EC14DCEFB9D7F63EC5D63D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss-test-2026](https://vulners.com/githubexploit/0370CC1D-5EC4-5767-84BF-3592CB989291?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)](https://www.wired.com/gallery/best-white-elephant-gifts-2026/)
 - 不安全
   - [Homeworld: Cataclysm source code](https://buaq.net/go-449122.html)
   - [Horizon3 expands in Singapore to accelerate AI‑native proactive security across Southeast Asia](https://buaq.net/go-449132.html)
@@ -235,6 +251,7 @@
 - 爱范儿
   - [实测 Lovart 2.0 ，设计 AI 进入个人助理时代](https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微信鸿蒙版两周年背后，你不知道的故事](https://www.ifanr.com/1684869?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来](https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产](https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]ClaudeCode 2.1.30x版本风控-Anthropic的追踪中转站的技术 x2](https://key08.com/index.php/2026/10/19/3369.html)
