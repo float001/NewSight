@@ -21,15 +21,20 @@
   - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
 - daringfireball.net
   - [Netflix Lays Off 6 Percent of Staff](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&reflink=desktopwebshare_permalink)
+  - [Netflix Shitcanned Film Chief Dan Lin Too](https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/)
   - [Time Magazine Profiles John Ternus](https://time.com/collection/best-inventions/2026/apple-iphone-duo/)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
   - [subfinder – Passive Subdomain Enumeration Tool](https://www.darknet.org.uk/2026/10/subfinder-passive-subdomain-enumeration-tool/)
+- darkreading
+  - [Researchers Infiltrate Microsoft Tech Support Scam Operation](https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation)
 - Hacker News Frontpage
   - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
   - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
   - [Germany's far-right AfD: half a million internal documents leaked](https://hexane.cc/)
   - [I no longer care to work on any Ruby gems so I've archived all my repositories](https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository)
   - [Inception "Mercury 3", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
+  - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+  - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
 - MIT Technology Review
   - [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
   - [“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)
@@ -46,11 +51,15 @@
   - [Tenstorrent hits $6.2B valuation to scale open-weight AI chips](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
   - [Tolan snags $30M for its AI companion that helps users navigate life](https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/)
 - The Block
+  - [BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT](https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087)
   - [Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks](https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658)
   - [Mesh taps Visa to let users spend crypto without a separate card](https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058)
 - The Decoder
   - [Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant](https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/)
   - [MiniMax M3.1 Flash shows China's AI price race has no floor in sight](https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/)
+- The Verge
+  - [CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)
+  - [The fossil fuel comeback is here](https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report)
 - Vulners.com RSS Feed
   - [CVE-2023-38375](https://vulners.com/nvd/NVD:CVE-2023-38375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-54581](https://vulners.com/nvd/NVD:CVE-2024-54581?utm_source=rss&utm_medium=rss&utm_campaign=rss)
