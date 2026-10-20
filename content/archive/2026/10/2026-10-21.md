@@ -2,26 +2,38 @@
 
 - 404 Media
   - [DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied](https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/)
+- anildash.com
+  - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
 - CoinTelegraph
   - [Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform](https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls](https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective, BDACS plan Korean won stablecoin settlement for tokenized assets](https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin transfers quadruple to $891B as US banks expand adoption: Report](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified](https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [CubeCart 6.7.4 Stored XSS](https://cxsecurity.com/issue/WLB-2026100001)
   - [PodcastGenerator 3.2.9 Stored XSS](https://cxsecurity.com/issue/WLB-2026100002)
 - Cyber Kendra
+  - [Cellebrite Advanced Unlocks Leak: Wireless iPhone Unlock](https://www.cyberkendra.com/2026/10/cellebrite-advanced-unlocks-iphone-leak.html)
   - [FortiSIEM RCE Flaw CVE-2026-106173 Gets Public PoC](https://www.cyberkendra.com/2026/10/fortisiem-rce-flaw-cve-2026-106173-gets-public-poc.html)
   - [Go Blocks Compromised eMudhra CA Keys in Emergency Update](https://www.cyberkendra.com/2026/10/go-blocks-compromised-emudhra-ca-keys-in-emergency-update.html)
+- Hacker News Frontpage
+  - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
+- pluralistic.net
+  - [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/)
 - TechCrunch
+  - [Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei](https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/)
   - [Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)
+  - [Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)
   - [Plants can speak using electricity, so this startup built an AI model to decipher their language](https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/)
   - [Streaming guide JustWatch becomes a streamer itself](https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/)
 - The Block
+  - [Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation](https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430)
   - [Ethereum staking hits record as yields fall and Solana activity grows: Bitwise](https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414)
   - [Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare](https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406)
   - [OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo](https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421)
 - The Decoder
+  - [Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time](https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/)
   - [OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran](https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/)
   - [Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs](https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/)
 - Vulners.com RSS Feed
@@ -73,5 +85,7 @@
   - [Exploit for Path Traversal in Apache Http_Server](https://vulners.com/githubexploit/0FFDCA8D-2AD7-5573-B5F6-A0110EAF7ADC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/)
+- Wired
+  - [French Government Calls Emergency Meetings With Platforms Over Protests](https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
