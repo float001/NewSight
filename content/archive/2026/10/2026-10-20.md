@@ -31,9 +31,11 @@
   - [BlackRock files for third Bitcoin ETF, still no Solana or XRP](https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PAC pours $362K into California race voters essentially decided in August](https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [JPMorgan projects Bitcoin to outperform US stocks and gold over next decade](https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kazakhstan court orders curbs on Coinbase, BingX and four others](https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Market participants weigh in on SEC’s proposed crypto regulations](https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal](https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension](https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO](https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut secures Gibraltar crypto license to support global expansion](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown](https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC](https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -45,6 +47,7 @@
   - [Claude Code Finds XMRig Crypto Miner on Mac](https://www.cyberkendra.com/2026/10/claude-code-finds-xmrig-crypto-miner-on-mac.html)
 - CyberNews
   - ["Genius or corrupt"? Musk's promise of free SpaceX shares for American kids riles up the interwebs](https://cybernews.com/news/elon-musk-spacex-shares-kids-reaction/)
+  - [Canada’s Telesat is building a Starlink rival and is ready to share it with Ukraine](https://cybernews.com/tech/telesat-starlink-alternative/)
   - [Citizens Bank data exposed: here’s what customers need to know](https://cybernews.com/security/citizens-bank-data-data-notice/)
   - [ConnectWise breach puts more than 300 companies’ secrets at risk](https://cybernews.com/security/connectwise-cloud-backup-breach-microsoft-365/)
   - [Fake AI photos of elderly couple “robbed” in France riots spark outrage](https://cybernews.com/news/ai-deepfake-elderly-france-protests-riots/)
@@ -54,6 +57,7 @@
   - [Netherlands sees the number of cybersecurity firms skyrocket amid rising threats](https://cybernews.com/security/netherlands-cybersecurity-firms-skyrocket/)
   - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
   - [Some Google Home Speakers download excessive amounts of data, the company says it's on it](https://cybernews.com/tech/google-home-speakers-download-data/)
+  - [Someone allegedly offered €100,000 to bury German AfD party email leak](https://cybernews.com/security/afd-email-datat-leak-germany/)
 - daringfireball.net
   - [Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’](https://x.com/gregjoz/status/2112212372182249831)
   - [Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170)
@@ -99,12 +103,16 @@
 - rtl-sdr.com
   - [RTL-SDR Running Directly on iPad without Jailbreak TestFlight Invitation](https://www.rtl-sdr.com/rtl-sdr-running-directly-on-ipad-without-jailbreak-testflight-invitation/)
   - [SDR++ and SDR# Plugins For: FT8 / FT4 / WSPR / FST4 / FST4W / JS8 / Q65 / CW / RTTY / JS8 / Olivia / PSK31 and PSK63](https://www.rtl-sdr.com/sdr-and-sdr-plugins-for-ft8-ft4-wspr-fst4-fst4w-js8-q65-cw-rtty-js8-olivia-psk31-and-psk63/)
+- shkspr.mobi
+  - [Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/)
 - Sploitus.com Exploits RSS Feed
   - [antSword exploit](https://sploitus.com/exploit?id=28C7328A-13ED-520B-8DE3-5254ECCC2081&utm_source=rss&utm_medium=rss)
+  - [awesome-agent-skills exploit](https://sploitus.com/exploit?id=590AD1BB-52B7-5EAD-A190-729FC7BF194B&utm_source=rss&utm_medium=rss)
   - [CkSKILLS exploit](https://sploitus.com/exploit?id=E6C8D7F5-8157-5EB1-8536-0045D86DD0D8&utm_source=rss&utm_medium=rss)
   - [CVE-2026-43284-Android-Domain-Transition exploit](https://sploitus.com/exploit?id=B4C4E399-EC45-5C4E-AE6E-FC0D496ACF71&utm_source=rss&utm_medium=rss)
   - [Startup-SBOM exploit](https://sploitus.com/exploit?id=0FCA46B1-866B-5FD2-8BC7-FB12BE6F2E34&utm_source=rss&utm_medium=rss)
   - [strix exploit](https://sploitus.com/exploit?id=8DF2E55A-7686-52DB-A229-CE7A29AC856D&utm_source=rss&utm_medium=rss)
+  - [TLPE exploit](https://sploitus.com/exploit?id=D5BA3F42-C3EC-5F46-9B8A-F4B39F5D64EE&utm_source=rss&utm_medium=rss)
   - [varmor exploit](https://sploitus.com/exploit?id=4A622F96-EFD0-5FDD-86EE-8DF364C370FB&utm_source=rss&utm_medium=rss)
   - [vulnclaw exploit](https://sploitus.com/exploit?id=1ABB4DEC-D69E-5329-BCB3-03944D77978B&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -117,9 +125,11 @@
   - [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)
   - [Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)
   - [Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
+  - [Oura adds new fitness metrics to show how workouts impact your body](https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/)
   - [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/)
   - [Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago](https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/)
   - [Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs](https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/)
+  - [Spotify launches paid podcast memberships with perks beyond bonus content](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/)
   - [Tenstorrent hits $6.2B valuation to scale open-weight AI chips](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
   - [Tolan snags $30M for its AI companion that helps users navigate life](https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/)
   - [Walmart’s Flipkart is quietly building a food delivery challenger in India](https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/)
@@ -133,12 +143,15 @@
 - The Decoder
   - [Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant](https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/)
   - [MiniMax M3.1 Flash shows China's AI price race has no floor in sight](https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/)
+  - [US bans Deepseek technology across federal civilian agencies](https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/)
 - The Verge
   - [CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)
   - [Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;](https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account)
+  - [Spotify’s new podcast memberships let you pay for extra perks](https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch)
   - [The fossil fuel comeback is here](https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report)
 - Vulners.com RSS Feed
   - [ata: libata-scsi: bound the ATA passthru sense descriptor writes](https://vulners.com/mscve/MS:CVE-2026-98545?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [awesome-agent-skills](https://vulners.com/gitee/590AD1BB-52B7-5EAD-A190-729FC7BF194B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Bluetooth: hci_core: Serialize SCO and ISO scheduling with teardown](https://vulners.com/mscve/MS:CVE-2026-98734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Bluetooth: L2CAP: validate frame length before control and FCS access](https://vulners.com/mscve/MS:CVE-2026-98457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [bpf: Fix out-of-bounds read of rtt_min in sock_ops](https://vulners.com/mscve/MS:CVE-2026-98643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -441,6 +454,7 @@
   - [Startup-SBOM](https://vulners.com/gitee/0FCA46B1-866B-5FD2-8BC7-FB12BE6F2E34?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [strix](https://vulners.com/gitee/8DF2E55A-7686-52DB-A229-CE7A29AC856D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tipc: reject invalid and unexpected GRP_ACK_MSG to prevent bc_ackers underflow](https://vulners.com/mscve/MS:CVE-2026-98550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [TLPE](https://vulners.com/gitee/D5BA3F42-C3EC-5F46-9B8A-F4B39F5D64EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tty: fix saved termios reset race](https://vulners.com/mscve/MS:CVE-2026-98750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [varmor](https://vulners.com/gitee/4A622F96-EFD0-5FDD-86EE-8DF364C370FB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vulnclaw](https://vulners.com/gitee/1ABB4DEC-D69E-5329-BCB3-03944D77978B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -477,6 +491,7 @@
   - [Whoop Promo Codes: 20% Off This October 2026](https://www.wired.com/story/whoop-promo-code/)
 - 不安全
   - [aws-pentest](https://buaq.net/go-449411.html)
+  - [NoDPI4Android](https://buaq.net/go-449497.html)
   - [Reverse-engineering Sony NW-A910 firmware: language patches, resource formats, and homebrew](https://buaq.net/go-449490.html)
   - [RTL-SDR Running Directly on iPad without Jailbreak TestFlight Invitation](https://buaq.net/go-449407.html)
   - [旧版Plex媒体服务器遭到Plex2Shell攻击 安全研究员部署的蜜罐被植入挖矿程序](https://buaq.net/go-449400.html)
@@ -494,6 +509,7 @@
 - 黑海洋
   - [剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron](https://blog.upx8.com/%E5%89%91%E6%8C%87%E8%8B%B1%E4%BC%9F%E8%BE%BECUDA%E6%8A%A4%E5%9F%8E%E6%B2%B3-%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8E%A8%E5%87%BA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7TorchNeuron)
   - [大批API账户被刷爆，OpenCode遭黑客入侵](https://blog.upx8.com/%E5%A4%A7%E6%89%B9API%E8%B4%A6%E6%88%B7%E8%A2%AB%E5%88%B7%E7%88%86-OpenCode%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5)
+  - [工信部：坚决防范不合理创新设计和未经充分研发测试验证的汽车进入市场](https://blog.upx8.com/%E5%B7%A5%E4%BF%A1%E9%83%A8-%E5%9D%9A%E5%86%B3%E9%98%B2%E8%8C%83%E4%B8%8D%E5%90%88%E7%90%86%E5%88%9B%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%92%8C%E6%9C%AA%E7%BB%8F%E5%85%85%E5%88%86%E7%A0%94%E5%8F%91%E6%B5%8B%E8%AF%95%E9%AA%8C%E8%AF%81%E7%9A%84%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%85%A5%E5%B8%82%E5%9C%BA)
   - [指违法儿童社媒禁令 澳洲起诉TikTok和脸书](https://blog.upx8.com/%E6%8C%87%E8%BF%9D%E6%B3%95%E5%84%BF%E7%AB%A5%E7%A4%BE%E5%AA%92%E7%A6%81%E4%BB%A4-%E6%BE%B3%E6%B4%B2%E8%B5%B7%E8%AF%89TikTok%E5%92%8C%E8%84%B8%E4%B9%A6)
   - [日企小糸制作所宣布关闭湖北车灯工厂](https://blog.upx8.com/%E6%97%A5%E4%BC%81%E5%B0%8F%E7%B3%B8%E5%88%B6%E4%BD%9C%E6%89%80%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E6%B9%96%E5%8C%97%E8%BD%A6%E7%81%AF%E5%B7%A5%E5%8E%82)
   - [智谱创始人曾参与涉中国情报机构争议的研究](https://blog.upx8.com/%E6%99%BA%E8%B0%B1%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E5%8F%82%E4%B8%8E%E6%B6%89%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E4%BA%89%E8%AE%AE%E7%9A%84%E7%A0%94%E7%A9%B6)
