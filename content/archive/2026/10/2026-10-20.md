@@ -2,10 +2,14 @@
 
 - 2Libra
   - [Adsense 的审核一言难尽啊](https://2libra.com/post/forum-function/oXwmlN2)
+  - [Azure 学生包规则放宽了吗？](https://2libra.com/post/servers/sGrW-1L)
+  - [☁️ 大厂云服务代理｜国内返利 20% · 国际云代充$50 起](https://2libra.com/post/promotion/Bi2LpYw)
   - [做了两款工具，一个面向家长利用心理工具管孩子，一个面向大学生学统计](https://2libra.com/post/personal-works/UjSbazR)
   - [如何宣传社区？](https://2libra.com/post/forum-function/hG8bxCq)
   - [情绪是否是周期性变化的](https://2libra.com/post/mental-health/BZ4q0_I)
   - [用 JetBrain Idea，升级过版本之后，请执行这个操作](https://2libra.com/post/tool-sharing/o36EEkv)
+  - [租房碰到一个奇葩的事情！](https://2libra.com/post/small-things/lWwG1IP)
+  - [😮️ 头像可以转圈了](https://2libra.com/post/forum-function/QilmSHk)
 - 404 Media
   - [Police Say Scammers Used AI to Clone a Sheriff’s Voice](https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/)
 - Ars Technica
@@ -51,6 +55,7 @@
 - NVIDIA AI Blog
   - [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/)
 - rtl-sdr.com
+  - [RTL-SDR Running Directly on iPad without Jailbreak TestFlight Invitation](https://www.rtl-sdr.com/rtl-sdr-running-directly-on-ipad-without-jailbreak-testflight-invitation/)
   - [SDR++ and SDR# Plugins For: FT8 / FT4 / WSPR / FST4 / FST4W / JS8 / Q65 / CW / RTTY / JS8 / Olivia / PSK31 and PSK63](https://www.rtl-sdr.com/sdr-and-sdr-plugins-for-ft8-ft4-wspr-fst4-fst4w-js8-q65-cw-rtty-js8-olivia-psk31-and-psk63/)
 - Sploitus.com Exploits RSS Feed
   - [CVE-2026-43284-Android-Domain-Transition exploit](https://sploitus.com/exploit?id=B4C4E399-EC45-5C4E-AE6E-FC0D496ACF71&utm_source=rss&utm_medium=rss)
@@ -288,16 +293,19 @@
   - [The Best Mixbook Sale for Holiday Cards (2026)](https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/)
   - [WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot](https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/)
 - 不安全
+  - [RTL-SDR Running Directly on iPad without Jailbreak TestFlight Invitation](https://buaq.net/go-449407.html)
   - [旧版Plex媒体服务器遭到Plex2Shell攻击 安全研究员部署的蜜罐被植入挖矿程序](https://buaq.net/go-449400.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [押注记忆原生，MemT 1.0 破局养成系 AI 下半场](https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁](https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义](https://www.ifanr.com/1684938?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了](https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron](https://blog.upx8.com/%E5%89%91%E6%8C%87%E8%8B%B1%E4%BC%9F%E8%BE%BECUDA%E6%8A%A4%E5%9F%8E%E6%B2%B3-%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8E%A8%E5%87%BA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7TorchNeuron)
   - [大批API账户被刷爆，OpenCode遭黑客入侵](https://blog.upx8.com/%E5%A4%A7%E6%89%B9API%E8%B4%A6%E6%88%B7%E8%A2%AB%E5%88%B7%E7%88%86-OpenCode%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5)
+  - [智谱创始人曾参与涉中国情报机构争议的研究](https://blog.upx8.com/%E6%99%BA%E8%B0%B1%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E5%8F%82%E4%B8%8E%E6%B6%89%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E4%BA%89%E8%AE%AE%E7%9A%84%E7%A0%94%E7%A9%B6)
   - [英特尔向FCC申请豁免外国机器人禁令](https://blog.upx8.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E5%90%91FCC%E7%94%B3%E8%AF%B7%E8%B1%81%E5%85%8D%E5%A4%96%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E4%BB%A4)
   - [面对禁令，TP-Link将在美国制造路由器](https://blog.upx8.com/%E9%9D%A2%E5%AF%B9%E7%A6%81%E4%BB%A4-TP-Link%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E8%B7%AF%E7%94%B1%E5%99%A8)
   - [黄仁勋会晤默茨 英伟达拟数十亿美元投资德国](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BC%9A%E6%99%A4%E9%BB%98%E8%8C%A8-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E5%BE%B7%E5%9B%BD)
