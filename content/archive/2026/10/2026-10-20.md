@@ -28,6 +28,7 @@
   - [Meta Muse exposes users' personal and business secrets when they share conversations](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/)
   - [Startup taps underwater volcano as energy source in "proof point" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 - CoinTelegraph
+  - [Agents can trade 24/7 — but Yat Siu warns you could lose access at any time](https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin is rejected at $83K as US bond yields reverse higher with equities](https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin rally could revive treasury buying, but easy-money days over](https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BlackRock files for third Bitcoin ETF, still no Solana or XRP](https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,8 +52,10 @@
   - [XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines](https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Claude Code Finds XMRig Crypto Miner on Mac](https://www.cyberkendra.com/2026/10/claude-code-finds-xmrig-crypto-miner-on-mac.html)
+  - [Google Cloud Outage: Revolut, HSBC, Lloyds Down in the UK](https://www.cyberkendra.com/2026/10/google-cloud-outage-revolut-hsbc-lloyds-down-in-the-uk.html)
 - CyberNews
   - ["Genius or corrupt"? Musk's promise of free SpaceX shares for American kids riles up the interwebs](https://cybernews.com/news/elon-musk-spacex-shares-kids-reaction/)
+  - [$500,000 worth of Nvidia RTX 5090 GPUs vanish from Brazilian airport](https://cybernews.com/tech/nvidia-graphics-card-missing-shipment/)
   - [Angeblich 100.000 Euro Schweigegeld für AfD-Datenleck geboten](https://cybernews.com/de/sicherheit/afd-email-datenleck-bestechung/)
   - [Canada’s Telesat is building a Starlink rival and is ready to share it with Ukraine](https://cybernews.com/tech/telesat-starlink-alternative/)
   - [Citizens Bank data exposed: here’s what customers need to know](https://cybernews.com/security/citizens-bank-data-data-notice/)
@@ -105,7 +108,10 @@
   - [CVE-2026-106173 Deep-Dive: FortiSIEM gRPC Path Traversal File Write RCE](https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/)
   - [Horizon3 Surpasses $100 Million ARR, Marking a Key Milestone in the Shift to Continuous, Production-Safe Autonomous Security](https://horizon3.ai/news/press-release/horizon3-surpasses-100-million-arr/)
 - infosecurity-magazine.com
+  - [Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk](https://www.infosecurity-magazine.com/news/opencode-quietly-patched-critical/)
   - [Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw](https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/)
+- matduggan.com
+  - [ClickHouse Will Let You Be Wrong at Scale](https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/)
 - MIT Technology Review
   - [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
   - [The Download: the claim shaking up AI and the internet’s agent problem](https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/)
@@ -129,6 +135,7 @@
 - Sploitus.com Exploits RSS Feed
   - [antSword exploit](https://sploitus.com/exploit?id=28C7328A-13ED-520B-8DE3-5254ECCC2081&utm_source=rss&utm_medium=rss)
   - [awesome-agent-skills exploit](https://sploitus.com/exploit?id=590AD1BB-52B7-5EAD-A190-729FC7BF194B&utm_source=rss&utm_medium=rss)
+  - [chipicopwn exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FREDERIC-CHIPICOPWN&utm_source=rss&utm_medium=rss)
   - [CkSKILLS exploit](https://sploitus.com/exploit?id=E6C8D7F5-8157-5EB1-8536-0045D86DD0D8&utm_source=rss&utm_medium=rss)
   - [CVE-2026-43284-Android-Domain-Transition exploit](https://sploitus.com/exploit?id=B4C4E399-EC45-5C4E-AE6E-FC0D496ACF71&utm_source=rss&utm_medium=rss)
   - [Startup-SBOM exploit](https://sploitus.com/exploit?id=0FCA46B1-866B-5FD2-8BC7-FB12BE6F2E34&utm_source=rss&utm_medium=rss)
@@ -152,6 +159,7 @@
   - [People are using AI to make their smart TVs dumb again](https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/)
   - [Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago](https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/)
   - [Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs](https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/)
+  - [SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation](https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/)
   - [Spotify launches paid podcast memberships with perks beyond bonus content](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/)
   - [Tenstorrent hits $6.2B valuation to scale open-weight AI chips](https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/)
   - [Tolan snags $30M for its AI companion that helps users navigate life](https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/)
@@ -161,6 +169,7 @@
   - [BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT](https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087)
   - [BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025](https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102)
   - [Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules](https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092)
+  - [Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem](https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883)
   - [Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks](https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658)
   - [Mesh taps Visa to let users spend crypto without a separate card](https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058)
   - [Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds](https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111)
