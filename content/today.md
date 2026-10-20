@@ -3,6 +3,7 @@
 - 2Libra
   - [Adsense 的审核一言难尽啊](https://2libra.com/post/forum-function/oXwmlN2)
   - [Azure 学生包规则放宽了吗？](https://2libra.com/post/servers/sGrW-1L)
+  - [Windows 邮箱客户端](https://2libra.com/post/software-tools/K8Amrs4)
   - [☁️ 大厂云服务代理｜国内返利 20% · 国际云代充$50 起](https://2libra.com/post/promotion/Bi2LpYw)
   - [【💰】新手入门 AI，OpenCode Go 怎么样？](https://2libra.com/post/ai-tools/aStNYXY)
   - [做了两款工具，一个面向家长利用心理工具管孩子，一个面向大学生学统计](https://2libra.com/post/personal-works/UjSbazR)
@@ -10,6 +11,8 @@
   - [情绪是否是周期性变化的](https://2libra.com/post/mental-health/BZ4q0_I)
   - [用 JetBrain Idea，升级过版本之后，请执行这个操作](https://2libra.com/post/tool-sharing/o36EEkv)
   - [租房碰到一个奇葩的事情！](https://2libra.com/post/small-things/lWwG1IP)
+  - [窗户密封折腾死我了.](https://2libra.com/post/small-things/P50H9sM)
+  - [这家的 vps，oss 感觉好便宜不知道会不会跑路](https://2libra.com/post/servers/oTpKpQv)
   - [😮️ 头像可以转圈了](https://2libra.com/post/forum-function/QilmSHk)
 - 404 Media
   - [Police Say Scammers Used AI to Clone a Sheriff’s Voice](https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/)
@@ -33,6 +36,7 @@
 - CyberNews
   - ["Genius or corrupt"? Musk's promise of free SpaceX shares for American kids riles up the interwebs](https://cybernews.com/news/elon-musk-spacex-shares-kids-reaction/)
   - [ConnectWise breach puts more than 300 companies’ secrets at risk](https://cybernews.com/security/connectwise-cloud-backup-breach-microsoft-365/)
+  - [Netherlands sees the number of cybersecurity firms skyrocket amid rising threats](https://cybernews.com/security/netherlands-cybersecurity-firms-skyrocket/)
   - [SafeLine Web Firewall Surpasses 700,000 Installs](https://cybernews.com/press-releases/safeline-web-firewall-surpasses-700000-installs/)
 - daringfireball.net
   - [Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’](https://x.com/gregjoz/status/2112212372182249831)
@@ -45,6 +49,8 @@
   - [subfinder – Passive Subdomain Enumeration Tool](https://www.darknet.org.uk/2026/10/subfinder-passive-subdomain-enumeration-tool/)
 - darkreading
   - [Researchers Infiltrate Microsoft Tech Support Scam Operation](https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation)
+- defend.network
+  - [WordPress, Plex, and Microsoft: Supply-chain backdoor and active cryptominer exploits](https://defend.network/briefings/wordpress-plex-microsoft-supply-chain-cryptominer-2026-10-20.html)
 - Hacker News Frontpage
   - [Europe EV sales rose 70.3% in September, 32.6% of market share](https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/)
   - [Evidence (YC S21) Is Hiring Software Engineers](https://evidence.dev/jobs)
@@ -53,6 +59,7 @@
   - [Inception "Mercury 3", 1000 tok/s diffusion LLM](https://www.inceptionlabs.ai/blog/introducing-mercury-3)
   - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
   - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
+  - [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
 - MIT Technology Review
   - [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
   - [“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)
@@ -71,6 +78,7 @@
   - [AI assistant startup Town nabs unicorn valuation four months after launch](https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/)
   - [Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/)
   - [Amazon to fund 12 small nuclear reactors at former Indiana coal plant](https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/)
+  - [Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet](https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/)
   - [Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)
   - [Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts](https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/)
   - [Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)
@@ -83,6 +91,7 @@
   - [Walmart’s Flipkart is quietly building a food delivery challenger in India](https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/)
 - The Block
   - [BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT](https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087)
+  - [BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025](https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102)
   - [Blockchain Association says Treasury’s GENIUS Act rollout needs clearer DeFi, foreign issuer rules](https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092)
   - [Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks](https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658)
   - [Mesh taps Visa to let users spend crypto without a separate card](https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058)
@@ -106,6 +115,7 @@
   - [CVE-2025-7043 Refresh Token Misuse via Validation Flaw in Multiple WSO2 Products Enables Unauthorized Resource Consumption](https://vulners.com/cvelist/CVELIST:CVE-2025-7043?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-7203 Sensitive Information Disclosure via Management Console and Product Files in Multiple WSO2 Products Allows Retrieval of Credentials](https://vulners.com/cve/CVE-2025-7203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-7203 Sensitive Information Disclosure via Management Console and Product Files in Multiple WSO2 Products Allows Retrieval of Credentials](https://vulners.com/cvelist/CVELIST:CVE-2025-7203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100737](https://vulners.com/nvd/NVD:CVE-2026-100737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102438](https://vulners.com/nvd/NVD:CVE-2026-102438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105299](https://vulners.com/nvd/NVD:CVE-2026-105299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105453](https://vulners.com/nvd/NVD:CVE-2026-105453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -156,6 +166,8 @@
   - [CVE-2026-111766](https://vulners.com/nvd/NVD:CVE-2026-111766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111862 Rank Math SEO PRO 3.0.123 - Unauthenticated Embedded Malicious Code](https://vulners.com/cve/CVE-2026-111862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111862 Rank Math SEO PRO 3.0.123 - Unauthenticated Embedded Malicious Code](https://vulners.com/cvelist/CVELIST:CVE-2026-111862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112148](https://vulners.com/cve/CVE-2026-112148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112148](https://vulners.com/cvelist/CVELIST:CVE-2026-112148?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112190 Webkul Aureus ERP composer.json insertion of sensitive information into debugging code](https://vulners.com/cve/CVE-2026-112190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112190 Webkul Aureus ERP composer.json insertion of sensitive information into debugging code](https://vulners.com/cvelist/CVELIST:CVE-2026-112190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112247](https://vulners.com/nvd/NVD:CVE-2026-112247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -220,6 +232,10 @@
   - [CVE-2026-11319](https://vulners.com/nvd/NVD:CVE-2026-11319?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113380](https://vulners.com/cve/CVE-2026-113380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113380](https://vulners.com/cvelist/CVELIST:CVE-2026-113380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113402 ArmorX Global Technology｜ArmorX Spam - Local File Inclusion](https://vulners.com/cve/CVE-2026-113402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113402 ArmorX Global Technology｜ArmorX Spam - Local File Inclusion](https://vulners.com/cvelist/CVELIST:CVE-2026-113402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113404 Uniong｜WebITR - Insecure Deserialization](https://vulners.com/cve/CVE-2026-113404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113404 Uniong｜WebITR - Insecure Deserialization](https://vulners.com/cvelist/CVELIST:CVE-2026-113404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11828 IBM MQ Buffer Overflow](https://vulners.com/cve/CVE-2026-11828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11828 IBM MQ Buffer Overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-11828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11829 IBM MQ Buffer Overflow](https://vulners.com/cve/CVE-2026-11829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -278,6 +294,10 @@
   - [CVE-2026-8355](https://vulners.com/nvd/NVD:CVE-2026-8355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86467 Apache Airflow Amazon provider: AWS auth manager: SAML login CSRF logs users into the attacker's account](https://vulners.com/cve/CVE-2026-86467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86467 Apache Airflow Amazon provider: AWS auth manager: SAML login CSRF logs users into the attacker's account](https://vulners.com/cvelist/CVELIST:CVE-2026-86467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93300](https://vulners.com/nvd/NVD:CVE-2026-93300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96902](https://vulners.com/nvd/NVD:CVE-2026-96902?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96903](https://vulners.com/nvd/NVD:CVE-2026-96903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97627](https://vulners.com/nvd/NVD:CVE-2026-97627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2017-0144](https://vulners.com/githubexploit/5772824D-7258-5357-9026-FDEAD77BFC66?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-111058](https://vulners.com/githubexploit/A461949E-561D-5090-96D7-02BE859B10CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-85254](https://vulners.com/githubexploit/81A60A51-C615-5C51-A086-4B150E18C031?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -329,6 +349,7 @@
   - [剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron](https://blog.upx8.com/%E5%89%91%E6%8C%87%E8%8B%B1%E4%BC%9F%E8%BE%BECUDA%E6%8A%A4%E5%9F%8E%E6%B2%B3-%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8E%A8%E5%87%BA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7TorchNeuron)
   - [大批API账户被刷爆，OpenCode遭黑客入侵](https://blog.upx8.com/%E5%A4%A7%E6%89%B9API%E8%B4%A6%E6%88%B7%E8%A2%AB%E5%88%B7%E7%88%86-OpenCode%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5)
   - [指违法儿童社媒禁令 澳洲起诉TikTok和脸书](https://blog.upx8.com/%E6%8C%87%E8%BF%9D%E6%B3%95%E5%84%BF%E7%AB%A5%E7%A4%BE%E5%AA%92%E7%A6%81%E4%BB%A4-%E6%BE%B3%E6%B4%B2%E8%B5%B7%E8%AF%89TikTok%E5%92%8C%E8%84%B8%E4%B9%A6)
+  - [日企小糸制作所宣布关闭湖北车灯工厂](https://blog.upx8.com/%E6%97%A5%E4%BC%81%E5%B0%8F%E7%B3%B8%E5%88%B6%E4%BD%9C%E6%89%80%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E6%B9%96%E5%8C%97%E8%BD%A6%E7%81%AF%E5%B7%A5%E5%8E%82)
   - [智谱创始人曾参与涉中国情报机构争议的研究](https://blog.upx8.com/%E6%99%BA%E8%B0%B1%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E5%8F%82%E4%B8%8E%E6%B6%89%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E4%BA%89%E8%AE%AE%E7%9A%84%E7%A0%94%E7%A9%B6)
   - [英特尔向FCC申请豁免外国机器人禁令](https://blog.upx8.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E5%90%91FCC%E7%94%B3%E8%AF%B7%E8%B1%81%E5%85%8D%E5%A4%96%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E4%BB%A4)
   - [面对禁令，TP-Link将在美国制造路由器](https://blog.upx8.com/%E9%9D%A2%E5%AF%B9%E7%A6%81%E4%BB%A4-TP-Link%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E8%B7%AF%E7%94%B1%E5%99%A8)
