@@ -20,6 +20,7 @@
   - [Injective, BDACS plan Korean won stablecoin settlement for tokenized assets](https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin transfers quadruple to $891B as US banks expand adoption: Report](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified](https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Utah AG sues Kalshi, pursues profits from prediction market company](https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [CubeCart 6.7.4 Stored XSS](https://cxsecurity.com/issue/WLB-2026100001)
   - [PodcastGenerator 3.2.9 Stored XSS](https://cxsecurity.com/issue/WLB-2026100002)
@@ -31,9 +32,19 @@
   - [PHP RCE Zero-Days CVE-2026-109618, CVE-2026-109619 Leak Early](https://www.cyberkendra.com/2026/10/php-cve-2026-109618-cve-2026-109619-rce.html)
 - darkreading
   - [Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
+  - [Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)
 - Hacker News Frontpage
   - [SimCity, but with Permits](https://permit.petercai.com/)
   - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
+- HackerNoon
+  - [AGENTS.md Is a Config File, Not a Wishlist](https://hackernoon.com/agentsmd-is-a-config-file-not-a-wishlist?source=rss)
+  - [Benchmarking NVIDIA RAPIDS on GKE: Estimated vs. Actual Spark Speedups](https://hackernoon.com/benchmarking-nvidia-rapids-on-gke-estimated-vs-actual-spark-speedups?source=rss)
+  - [Building Verifiable AI Agent Audit Logs With Signed, Hash-Chained Record](https://hackernoon.com/building-verifiable-ai-agent-audit-logs-with-signed-hash-chained-record?source=rss)
+  - [Designing Versioned, Immutable Quiz Results in Next.js](https://hackernoon.com/designing-versioned-immutable-quiz-results-in-nextjs?source=rss)
+  - [Fhenix Launches CoFHE on Ethereum and Arbitrum for Confidential Smart Contracts](https://hackernoon.com/fhenix-launches-cofhe-on-ethereum-and-arbitrum-for-confidential-smart-contracts?source=rss)
+  - [Transparency and Auditability in AI-Configured Lending](https://hackernoon.com/transparency-and-auditability-in-ai-configured-lending?source=rss)
+- Horizon3.ai
+  - [CVE-2026-101767 | Oracle E-Business Suite TCF SQL Injection and Remote Code Execution](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-101767/)
 - MIT Technology Review
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
 - pluralistic.net
@@ -42,7 +53,10 @@
   - [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)
 - Sploitus.com Exploits RSS Feed
   - [firejail exploit](https://sploitus.com/exploit?id=553626B3-12C9-524E-8B9A-830B418EC859&utm_source=rss&utm_medium=rss)
+  - [iOS安全攻防研究 exploit](https://sploitus.com/exploit?id=6193EF47-B112-5EF5-8ABF-D79CB40199E2&utm_source=rss&utm_medium=rss)
+  - [undici exploit](https://sploitus.com/exploit?id=72570FA4-A1E0-58D4-9D72-F8FE9B8D0018&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
   - [ChatGPT now lets you lock your chats](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/)
   - [Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei](https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/)
   - [Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)
@@ -72,6 +86,7 @@
   - [JustWatch now streams TV shows and movies, too](https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental)
   - [Meta pauses Muse sharing after researchers find AI chats on the web](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)
   - [Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028](https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor)
+  - [Tesla and SpaceX are discussing a possible merger, Musk says](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [The Real Jump Scare Isn’t the Attacker; It’s The Vulnerabilities You’re Focusing On](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
@@ -211,10 +226,12 @@
   - [GHSA-JQW5-W6H3-44G6 ApostropheCMS import-export: NoSQL injection via update-key value lets a crafted import match and overwrite an unidentified document](https://vulners.com/osv_ghsa/OSV:GHSA-JQW5-W6H3-44G6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-M2M5-RW3W-CWMJ ApostropheCMS: Client-side Prototype Pollution in apos.http.parseQuery leading to DOM-based XSS against authenticated users](https://vulners.com/osv_ghsa/OSV:GHSA-M2M5-RW3W-CWMJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VMXH-77CW-65J7 ApostropheCMS: Authenticated Object-Level Authorization Bypass in exist-in-locale Reveals Restricted Localized Draft Identifiers](https://vulners.com/osv_ghsa/OSV:GHSA-VMXH-77CW-65J7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [iOS安全攻防研究](https://vulners.com/gitee/6193EF47-B112-5EF5-8ABF-D79CB40199E2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18101 Malicious code in semmver (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18102 Malicious code in semveer (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18103 Malicious code in semverr (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18104 Malicious code in semvver (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [undici](https://vulners.com/gitee/72570FA4-A1E0-58D4-9D72-F8FE9B8D0018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/)
 - Wired
