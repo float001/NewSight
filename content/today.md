@@ -6,12 +6,15 @@
   - [Windows 邮箱客户端](https://2libra.com/post/software-tools/K8Amrs4)
   - [☁️ 大厂云服务代理｜国内返利 20% · 国际云代充$50 起](https://2libra.com/post/promotion/Bi2LpYw)
   - [【💰】新手入门 AI，OpenCode Go 怎么样？](https://2libra.com/post/ai-tools/aStNYXY)
+  - [【💰】来个少见的话题：大家（会）怎么选的求婚戒指](https://2libra.com/post/love/Oi8la5d)
   - [做了两款工具，一个面向家长利用心理工具管孩子，一个面向大学生学统计](https://2libra.com/post/personal-works/UjSbazR)
+  - [免费域名 DNSHE 互助[必回]](https://2libra.com/post/domain-service/MvcmzAk)
   - [如何宣传社区？](https://2libra.com/post/forum-function/hG8bxCq)
   - [情绪是否是周期性变化的](https://2libra.com/post/mental-health/BZ4q0_I)
   - [用 JetBrain Idea，升级过版本之后，请执行这个操作](https://2libra.com/post/tool-sharing/o36EEkv)
   - [租房碰到一个奇葩的事情！](https://2libra.com/post/small-things/lWwG1IP)
   - [窗户密封折腾死我了.](https://2libra.com/post/small-things/P50H9sM)
+  - [请教大家一个问题，关于抖音上的一个常用的音效，我死活搜不到，问下大家。](https://2libra.com/post/questions/It9jFve)
   - [这家的 vps，oss 感觉好便宜不知道会不会跑路](https://2libra.com/post/servers/oTpKpQv)
   - [😮️ 头像可以转圈了](https://2libra.com/post/forum-function/QilmSHk)
 - 404 Media
@@ -60,11 +63,17 @@
   - [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
   - [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
   - [Vite+ an excellent toolchain for AI agent development](https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en)
+- HackerNews
+  - [前 OpenAI 工程师因间谍设备案被羁押，沙特王室联系人浮出水面](http://0.0.0.0:8080/post/64803)
+  - [黑客利用 Plex2Shell 漏洞安装加密货币挖矿程序和 Linux 代理后门](http://0.0.0.0:8080/post/64805)
+  - [黑客利用新型 ROMULUS ClickFix 平台投递 LegionLoader 及其他恶意软件](http://0.0.0.0:8080/post/64804)
 - MIT Technology Review
   - [Making the internet better for AI agents might make it worse for everyone else](https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/)
   - [“We were looking at it wrong”: The explosive claim that’s upended the AI world](https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/)
 - NVIDIA AI Blog
   - [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/)
+- NVISO Labs
+  - [Verborgene Tastenanschläge: Forensische Analyse eines Digispark HID-Geräts](https://blog.nviso.eu/2026/10/20/verborgene-tastenanschlage-forensische-analyse-eines-digispark-hid-gerats/)
 - rtl-sdr.com
   - [RTL-SDR Running Directly on iPad without Jailbreak TestFlight Invitation](https://www.rtl-sdr.com/rtl-sdr-running-directly-on-ipad-without-jailbreak-testflight-invitation/)
   - [SDR++ and SDR# Plugins For: FT8 / FT4 / WSPR / FST4 / FST4W / JS8 / Q65 / CW / RTTY / JS8 / Olivia / PSK31 and PSK63](https://www.rtl-sdr.com/sdr-and-sdr-plugins-for-ft8-ft4-wspr-fst4-fst4w-js8-q65-cw-rtty-js8-olivia-psk31-and-psk63/)
@@ -351,6 +360,7 @@
   - [指违法儿童社媒禁令 澳洲起诉TikTok和脸书](https://blog.upx8.com/%E6%8C%87%E8%BF%9D%E6%B3%95%E5%84%BF%E7%AB%A5%E7%A4%BE%E5%AA%92%E7%A6%81%E4%BB%A4-%E6%BE%B3%E6%B4%B2%E8%B5%B7%E8%AF%89TikTok%E5%92%8C%E8%84%B8%E4%B9%A6)
   - [日企小糸制作所宣布关闭湖北车灯工厂](https://blog.upx8.com/%E6%97%A5%E4%BC%81%E5%B0%8F%E7%B3%B8%E5%88%B6%E4%BD%9C%E6%89%80%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E6%B9%96%E5%8C%97%E8%BD%A6%E7%81%AF%E5%B7%A5%E5%8E%82)
   - [智谱创始人曾参与涉中国情报机构争议的研究](https://blog.upx8.com/%E6%99%BA%E8%B0%B1%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E5%8F%82%E4%B8%8E%E6%B6%89%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E4%BA%89%E8%AE%AE%E7%9A%84%E7%A0%94%E7%A9%B6)
+  - [涉及窃取谷歌机密 美国国务院制裁五家实体](https://blog.upx8.com/%E6%B6%89%E5%8F%8A%E7%AA%83%E5%8F%96%E8%B0%B7%E6%AD%8C%E6%9C%BA%E5%AF%86-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%88%B6%E8%A3%81%E4%BA%94%E5%AE%B6%E5%AE%9E%E4%BD%93)
   - [英特尔向FCC申请豁免外国机器人禁令](https://blog.upx8.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E5%90%91FCC%E7%94%B3%E8%AF%B7%E8%B1%81%E5%85%8D%E5%A4%96%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E4%BB%A4)
   - [面对禁令，TP-Link将在美国制造路由器](https://blog.upx8.com/%E9%9D%A2%E5%AF%B9%E7%A6%81%E4%BB%A4-TP-Link%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E8%B7%AF%E7%94%B1%E5%99%A8)
   - [黄仁勋会晤默茨 英伟达拟数十亿美元投资德国](https://blog.upx8.com/%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BC%9A%E6%99%A4%E9%BB%98%E8%8C%A8-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E5%BE%B7%E5%9B%BD)
