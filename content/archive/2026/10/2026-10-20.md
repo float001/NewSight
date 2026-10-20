@@ -23,8 +23,10 @@
   - [Market participants weigh in on SEC’s proposed crypto regulations](https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal](https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Revolut secures Gibraltar crypto license to support global expansion](https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown](https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC](https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US bans DeepSeek from civilian agency IT systems](https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US Bitcoin ETFs draw $527M in biggest showing since September](https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Visa, Mesh partner to enable crypto spending at 175M merchant locations](https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Claude Code Finds XMRig Crypto Miner on Mac](https://www.cyberkendra.com/2026/10/claude-code-finds-xmrig-crypto-miner-on-mac.html)
@@ -326,6 +328,7 @@
 - 黑海洋
   - [剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron](https://blog.upx8.com/%E5%89%91%E6%8C%87%E8%8B%B1%E4%BC%9F%E8%BE%BECUDA%E6%8A%A4%E5%9F%8E%E6%B2%B3-%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%8E%A8%E5%87%BA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7TorchNeuron)
   - [大批API账户被刷爆，OpenCode遭黑客入侵](https://blog.upx8.com/%E5%A4%A7%E6%89%B9API%E8%B4%A6%E6%88%B7%E8%A2%AB%E5%88%B7%E7%88%86-OpenCode%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5)
+  - [指违法儿童社媒禁令 澳洲起诉TikTok和脸书](https://blog.upx8.com/%E6%8C%87%E8%BF%9D%E6%B3%95%E5%84%BF%E7%AB%A5%E7%A4%BE%E5%AA%92%E7%A6%81%E4%BB%A4-%E6%BE%B3%E6%B4%B2%E8%B5%B7%E8%AF%89TikTok%E5%92%8C%E8%84%B8%E4%B9%A6)
   - [智谱创始人曾参与涉中国情报机构争议的研究](https://blog.upx8.com/%E6%99%BA%E8%B0%B1%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E5%8F%82%E4%B8%8E%E6%B6%89%E4%B8%AD%E5%9B%BD%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E4%BA%89%E8%AE%AE%E7%9A%84%E7%A0%94%E7%A9%B6)
   - [英特尔向FCC申请豁免外国机器人禁令](https://blog.upx8.com/%E8%8B%B1%E7%89%B9%E5%B0%94%E5%90%91FCC%E7%94%B3%E8%AF%B7%E8%B1%81%E5%85%8D%E5%A4%96%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E4%BB%A4)
   - [面对禁令，TP-Link将在美国制造路由器](https://blog.upx8.com/%E9%9D%A2%E5%AF%B9%E7%A6%81%E4%BB%A4-TP-Link%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E8%B7%AF%E7%94%B1%E5%99%A8)
