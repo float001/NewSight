@@ -26,7 +26,10 @@
   - [社区链接被 QQ 报红拦截](https://2libra.com/post/community/cX_V6pJ)
   - [还是不能太夸 OpenCode](https://2libra.com/post/ai-tools/dqd4Wer)
 - 404 Media
+  - [Chestnuts Roasting on a Data Center](https://www.404media.co/chestnuts-roasting-on-a-data-center/)
   - [DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied](https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/)
+  - [Someone Opened a CashApp In Her Name. She Faces Years in Prison](https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/)
+  - [The Chestnut Grove Caught in the Middle of A Years-Long Data Center Fight](https://www.404media.co/west-virginia-american-chestnut-trees-data-center/)
 - anildash.com
   - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
 - Ars Technica
@@ -35,7 +38,9 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#645818: Xerj Console API Authentication Bypass Leads to Unauthorized Credential Minting](https://kb.cert.org/vuls/id/645818)
 - CoinTelegraph
+  - [5 alternatives to Ledger to store your Bitcoin](https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform](https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns](https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls](https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode](https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops](https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,11 +56,14 @@
   - [PancakeSwap TVL tops $380M as major fee overhaul heads to vote](https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Qubic restarts blockchain, opens recovery claims after $1.4M hack](https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins](https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana’s Alpenglow launches on mainnet, targets 99% faster finality](https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin transfers quadruple to $891B as US banks expand adoption: Report](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified](https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tech giants rush to block 8 eMudhra certs that could enable fake sites](https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Utah AG sues Kalshi, pursues profits from prediction market company](https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash rallies 12% as developers finalize NU7 activation height](https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns](https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [CubeCart 6.7.4 Stored XSS](https://cxsecurity.com/issue/WLB-2026100001)
   - [PodcastGenerator 3.2.9 Stored XSS](https://cxsecurity.com/issue/WLB-2026100002)
@@ -102,8 +110,12 @@
   - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
   - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
   - [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)
+  - [Most advice is right for the person giving it](https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/)
+  - [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php)
+  - [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
   - [SimCity, but with Permits](https://permit.petercai.com/)
   - [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
+  - [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35)
   - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
   - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 - HackerNews
@@ -122,6 +134,7 @@
   - [Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches](https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/)
   - [Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy](https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/)
   - [SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns](https://www.infosecurity-magazine.com/news/safepay-compromised-critical/)
+  - [Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks](https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/)
 - MIT Technology Review
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
   - [The Download: introducing the Impossible issue](https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/)
@@ -138,6 +151,8 @@
   - [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/)
   - [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
   - [NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries](https://blogs.nvidia.com/blog/open-models-europe-industry/)
+- Pen Test Partners
+  - [Printerpix and the not so private photo album](https://www.pentestpartners.com/security-blog/printerpix-and-the-not-so-private-photo-album/)
 - pluralistic.net
   - [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/)
 - PwnDefend
@@ -166,14 +181,17 @@
 - SumSec's Blog
   - [把树莓派变成家里的透明代理旁路由：Mihomo + TPROXY + DNS-only 排障记](https://sumsec.me/2026/sumpi-mihomo-side-router.html)
 - TechCrunch
+  - [AI promises productivity, but for managers, it’s mostly a headache for now, says new survey](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)
   - [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
   - [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
   - [ChatGPT now lets you lock your chats](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/)
   - [Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei](https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/)
   - [Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)
+  - [Foursquare co-founder says equity holders saw no returns from the company’s acquisition](https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/)
   - [GM to close Detroit battery assembly plant, but not for reasons you might think](https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/)
   - [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)
   - [Google is bringing a more personal version of its Gemini AI assistant to your car](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/)
+  - [Heat pump tech is 170 years old. Pascal thinks it’s time for an update.](https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/)
   - [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
   - [Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/)
   - [Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)
@@ -200,6 +218,7 @@
   - [Claude Science tackles deadly scorpion stings by designing protein binders from scratch](https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/)
   - [Deepseek open-sources the inference engine that powers its fastest and cheapest AI model](https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/)
   - [Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time](https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/)
+  - [Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days](https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/)
   - [OpenAI acquires Orchestra Bio to build AI agents that speed up drug development](https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/)
   - [OpenAI can't yet explain why its coding agents switch off misalignment monitoring](https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/)
   - [OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran](https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/)
@@ -207,10 +226,13 @@
 - The Verge
   - [A critical PHP vulnerability may take websites down today](https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress)
   - [Amazon is phasing out Fire HD tablets, but not without some big discounts first](https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale)
+  - [Blink brings 4K to its low-cost security camera lineup](https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch)
   - [I can’t get enough of the iPhone Duo’s matte inner display](https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte)
   - [JustWatch now streams TV shows and movies, too](https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental)
   - [Meta pauses Muse sharing after researchers find AI chats on the web](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)
   - [Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028](https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor)
+  - [Now Serato DJ works on your iPhone](https://www.theverge.com/tech/1015319/serato-dj-for-ios)
+  - [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems)
   - [Spotify is busting free of CarPlay with the launch of its first native car app](https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay)
   - [Tesla and SpaceX are discussing a possible merger, Musk says](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees)
   - [The iPhone Duo is a messy, expensive, good time](https://www.theverge.com/tech/1015028/iphone-duo-review)
@@ -269,6 +291,8 @@
   - [CVE-2026-107928 info leak uploading over WebSockets with GnuTLS](https://vulners.com/cvelist/CVELIST:CVE-2026-107928?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107929 local interface connection reuse mixup](https://vulners.com/cve/CVE-2026-107929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107929 local interface connection reuse mixup](https://vulners.com/cvelist/CVELIST:CVE-2026-107929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109618](https://vulners.com/ubuntucve/UB:CVE-2026-109618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109619](https://vulners.com/ubuntucve/UB:CVE-2026-109619?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111758 markdown-it: Quadratic-time rendering of a single multi-line link reference definition with default options (regression since 14.0)](https://vulners.com/cve/CVE-2026-111758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111758 markdown-it: Quadratic-time rendering of a single multi-line link reference definition with default options (regression since 14.0)](https://vulners.com/cvelist/CVELIST:CVE-2026-111758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111767 MCP TypeScript SDK: Experimental tasks were not tied to the session that created them](https://vulners.com/cve/CVE-2026-111767?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -466,6 +490,7 @@
   - [GHSA-JQW5-W6H3-44G6 ApostropheCMS import-export: NoSQL injection via update-key value lets a crafted import match and overwrite an unidentified document](https://vulners.com/osv_ghsa/OSV:GHSA-JQW5-W6H3-44G6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-M2M5-RW3W-CWMJ ApostropheCMS: Client-side Prototype Pollution in apos.http.parseQuery leading to DOM-based XSS against authenticated users](https://vulners.com/osv_ghsa/OSV:GHSA-M2M5-RW3W-CWMJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-VMXH-77CW-65J7 ApostropheCMS: Authenticated Object-Level Authorization Bypass in exist-in-locale Reveals Restricted Localized Draft Identifiers](https://vulners.com/osv_ghsa/OSV:GHSA-VMXH-77CW-65J7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands](https://vulners.com/thn/THN:33AA8A226B347C51E735C3992BA91D6C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [iOS安全攻防研究](https://vulners.com/gitee/6193EF47-B112-5EF5-8ABF-D79CB40199E2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Libarchive: libarchive: use-after-free via aliased mac metadata copy](https://vulners.com/mscve/MS:CVE-2026-17591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18101 Malicious code in semmver (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -484,6 +509,7 @@
   - [RabbitMQ: OAuth2 silent verify_none fallback for JWKS fetch](https://vulners.com/mscve/MS:CVE-2026-67404?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [read_ints in plistlib.py in Python through 3.9.1 is vulnerable to a potential DoS attack via CPU and RAM exhaustion when processing malformed Apple Property List files in binary format.](https://vulners.com/mscve/MS:CVE-2022-48564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [reverse-skill](https://vulners.com/gitee/34027E2E-71D0-5946-975F-B62CDCF44668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Vulnerabilities in libxml2 (CVE-2026-86140, CVE-2026-86141, CVE-2026-86143, CVE-2026-86144) affect AIX.](https://vulners.com/ibm/88B3ADA50DFFC3A951C2E45A24E921B6B3EED4D90C413779701DE30275790CDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [undici](https://vulners.com/gitee/72570FA4-A1E0-58D4-9D72-F8FE9B8D0018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Wheels through 4.1.1 derives its default production error-email address from the Host header of the request that starts the application. If no explicit error-email recipient is configured, a mail server is configured, and the server accepts an attacker-chosen Host, an attacker whose request triggers a cold start can direct later error emails to an address under their control for that application's lifetime. Emails disclose error and request metadata; on engines/versions where scope dumps render, they may also disclose configuration secrets and other users' session/cookie data. On the Lucee 7 engine, scope dumps fail to render, limiting disclosure to header fields. This is fixed in 4.1.2.](https://vulners.com/mscve/MS:CVE-2026-111450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bound paths are not affected; whereBetween() is bound from 4.1.2. This is fixed in 4.2.0.](https://vulners.com/mscve/MS:CVE-2026-111444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
