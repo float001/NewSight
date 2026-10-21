@@ -3,7 +3,10 @@
 - 2Libra
   - [2 站设置，终于舒服了](https://2libra.com/post/community/N-v77eG)
   - [【运动打卡】第 ⏸️ 天，开始力量训练](https://2libra.com/post/sports/QuSJkFw)
+  - [【💰】今天好冷啊](https://2libra.com/post/forum-function/704Fx4U)
+  - [【💰】领导给安排的任务太难不想干怎么办](https://2libra.com/post/office-life/_DDfeng)
   - [上班时间感觉](https://2libra.com/post/office-life/MjfcyAh)
+  - [昨晚刷到 iPhone17 标准版 512gb 降价到 7259](https://2libra.com/post/apple/NH23q8A)
   - [晚上吃了喜姐炸串，现在半夜渴醒，喝水也解不了渴](https://2libra.com/post/small-things/-D1uQal)
   - [有老哥知道如何解锁 apple watch 和耳机的海外功能么](https://2libra.com/post/apple/f9b-aTV)
 - 404 Media
@@ -48,6 +51,8 @@
   - [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)
   - [SimCity, but with Permits](https://permit.petercai.com/)
   - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
+- HackerNews
+  - [Qilin 和 INC 勒索软件组织利用 Palo Alto Networks 漏洞绕过 MFA](http://0.0.0.0:8080/post/64809)
 - HackerNoon
   - [AGENTS.md Is a Config File, Not a Wishlist](https://hackernoon.com/agentsmd-is-a-config-file-not-a-wishlist?source=rss)
   - [Benchmarking NVIDIA RAPIDS on GKE: Estimated vs. Actual Spark Speedups](https://hackernoon.com/benchmarking-nvidia-rapids-on-gke-estimated-vs-actual-spark-speedups?source=rss)
@@ -61,6 +66,8 @@
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
 - pluralistic.net
   - [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/)
+- Securelist
+  - [Operation FlashHole: Lazarus breaks security, defies control](https://securelist.com/lazarus-operation-flashhole/121541/)
 - simonwillison.net
   - [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)
   - [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/)
@@ -93,6 +100,7 @@
   - [Ethereum staking hits record as yields fall and Solana activity grows: Bitwise](https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414)
   - [JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually](https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436)
   - [Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare](https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406)
+  - [MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion](https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476)
   - [OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo](https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421)
   - [Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms](https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442)
 - The Decoder
@@ -194,6 +202,8 @@
   - [CVE-2026-113705 a2aproject a2a-rs error.rs information exposure](https://vulners.com/cvelist/CVELIST:CVE-2026-113705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113710](https://vulners.com/nvd/NVD:CVE-2026-113710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113711](https://vulners.com/nvd/NVD:CVE-2026-113711?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113743](https://vulners.com/nvd/NVD:CVE-2026-113743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113744](https://vulners.com/nvd/NVD:CVE-2026-113744?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113802](https://vulners.com/nvd/NVD:CVE-2026-113802?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113810 Stored XSS on SNS Enrollment Portal](https://vulners.com/cve/CVE-2026-113810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113810 Stored XSS on SNS Enrollment Portal](https://vulners.com/cvelist/CVELIST:CVE-2026-113810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -266,6 +276,7 @@
   - [CVE-2026-75751 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cvelist/CVELIST:CVE-2026-75751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75997 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cve/CVE-2026-75997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75997 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cvelist/CVELIST:CVE-2026-75997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82814](https://vulners.com/nvd/NVD:CVE-2026-82814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86471](https://vulners.com/nvd/NVD:CVE-2026-86471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90797](https://vulners.com/nvd/NVD:CVE-2026-90797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90798](https://vulners.com/nvd/NVD:CVE-2026-90798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -348,6 +359,7 @@
   - [MAL-2026-18102 Malicious code in semveer (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18103 Malicious code in semverr (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18104 Malicious code in semvver (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pia-web-exploitation-lab](https://vulners.com/githubexploit/6241B1AB-0DE5-5A93-A7CD-EE68E1E2C4A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [undici](https://vulners.com/gitee/72570FA4-A1E0-58D4-9D72-F8FE9B8D0018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/)
@@ -358,6 +370,8 @@
   - [sshesame](https://buaq.net/go-449675.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [lspci -D | grep -i “network\|ethernet”](https://dyrnq.com/lspci-d-grep-i-networkethernet/)
 - 安全客
   - [月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥](https://www.anquanke.com/post/id/316257)
 - 爱范儿
@@ -365,4 +379,5 @@
   - [早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并](https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [AI强势冲击数学界，菲尔兹奖得主：我原有的研究方向已不复存在](https://blog.upx8.com/AI%E5%BC%BA%E5%8A%BF%E5%86%B2%E5%87%BB%E6%95%B0%E5%AD%A6%E7%95%8C-%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB-%E6%88%91%E5%8E%9F%E6%9C%89%E7%9A%84%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%B7%B2%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8)
+  - [ChatGPT现在允许用户锁定他的聊天记录](https://blog.upx8.com/ChatGPT%E7%8E%B0%E5%9C%A8%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E9%94%81%E5%AE%9A%E4%BB%96%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
   - [TikTok员工提出了儿童安全担忧，但高管未采取行动](https://blog.upx8.com/TikTok%E5%91%98%E5%B7%A5%E6%8F%90%E5%87%BA%E4%BA%86%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7-%E4%BD%86%E9%AB%98%E7%AE%A1%E6%9C%AA%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8)
