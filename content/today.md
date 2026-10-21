@@ -3,6 +3,9 @@
 - 2Libra
   - [2 站设置，终于舒服了](https://2libra.com/post/community/N-v77eG)
   - [ai 现在已经发展到你无法想象的地步了](https://2libra.com/post/ai-trends/I2Etp7p)
+  - [Apple watch 港版功能激活](https://2libra.com/post/apple/kIpcFyn)
+  - [Cloudflare 部署了针对 php2shell 漏洞的保护措施 赛博大善人发力了](https://2libra.com/post/network-security/SRx1bFJ)
+  - [Node.js 高危漏洞](https://2libra.com/post/network-security/DAAwW8T)
   - [opencode 真的狗](https://2libra.com/post/ai-programming/tPGhIz2)
   - [PHP 核心 RCE 漏洞（CVE-2026-109618/109619）泄露](https://2libra.com/post/network-security/HNiKOdX)
   - [PHP 高危漏洞](https://2libra.com/post/network-security/Cagl3nb)
@@ -84,6 +87,7 @@
   - [Microsoft will block some USB drives from Windows](https://cybernews.com/tech/microsoft-windows-external-drives-refs/)
   - [Musk and Trump point fingers as Starlink slowdown hurts Ukraine](https://cybernews.com/news/musk-trump-starlink-ukraine/)
   - [OpenAI bugging suspect reportedly in contact with Saudi royal](https://cybernews.com/tech/openai-bugging-suspect-saudi-royal-contact/)
+  - [Orange outage strikes riot-hit France days after social media blackout calls](https://cybernews.com/security/orange-outage-france-social-media-blackout-riots/)
   - [Pink Panther and other agents of chaos](https://cybernews.com/editorial/pink-panther-france-chaos/)
   - [Proton puts most detailed Flock map on Swiss servers following takedown attempt](https://cybernews.com/tech/proton-flock-map/)
   - [Siemens software, used by Nvidia and Amazon, under active exploitation: Is your PC safe?](https://cybernews.com/security/siemens-software-malware-campaign-vulnerability/)
@@ -130,11 +134,15 @@
   - [Transparency and Auditability in AI-Configured Lending](https://hackernoon.com/transparency-and-auditability-in-ai-configured-lending?source=rss)
 - Horizon3.ai
   - [CVE-2026-101767 | Oracle E-Business Suite TCF SQL Injection and Remote Code Execution](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-101767/)
+  - [CVE-2026-109618 / CVE-2026-109619 | PHP Core Remote Code Execution Vulnerabilities (PHP2Shell)](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-109618-cve-2026-109619/)
 - infosecurity-magazine.com
   - [Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches](https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/)
+  - [New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity](https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/)
   - [Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy](https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/)
   - [SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns](https://www.infosecurity-magazine.com/news/safepay-compromised-critical/)
   - [Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks](https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/)
+- jeffgeerling.com
+  - [Upgrade your PHP installs immediately to protect against php2shell](https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/)
 - MIT Technology Review
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
   - [The Download: introducing the Impossible issue](https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/)
@@ -156,26 +164,38 @@
 - pluralistic.net
   - [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/)
 - PwnDefend
+  - [Upgrading to PHP 8.5.12](https://www.pwndefend.com/2026/10/21/upgrading-to-php-8-5-12/)
   - [Vulnerabilities in PHP (CVE-2026-109618 / CVE-2026-109619)](https://www.pwndefend.com/2026/10/21/vulnerabilities-in-php-cve-2026-109618-cve-2026-109619/)
+- Sec-News 安全文摘
+  - [php2shell by Calif Research](https://govuln.com/news/url/o2pj)
 - Securelist
   - [Operation FlashHole: Lazarus breaks security, defies control](https://securelist.com/lazarus-operation-flashhole/121541/)
 - simonwillison.net
   - [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)
   - [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/)
 - Sploitus.com Exploits RSS Feed
+  - [bileiwaf exploit](https://sploitus.com/exploit?id=49F6A50D-2D9B-53B4-AAD4-9A476E4076C4&utm_source=rss&utm_medium=rss)
   - [binary_safe exploit](https://sploitus.com/exploit?id=FF86B2C5-5BD6-5E3A-A7AA-94FAF3DF21B5&utm_source=rss&utm_medium=rss)
   - [ClawPanel - OpenClaw管理面板！ exploit](https://sploitus.com/exploit?id=D3892F6B-BD0F-5D4D-91E5-9C2C4277FB54&utm_source=rss&utm_medium=rss)
   - [cve-intel-triage exploit](https://sploitus.com/exploit?id=4F04B0C3-2F0A-5B1C-AF27-3DA7C4B8F7E9&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass by Spoofing in Beyondtrust Remote_Support](https://sploitus.com/exploit?id=9194B784-C9EC-5E27-8B84-17A3389B2CE5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=35097468-4264-5329-B138-0B12593582AA&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=3B8F9037-7B19-5EA4-BB8B-97F44DE430C0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=6CDC33EE-C9C3-5465-8E75-D8FE4E62C6D7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=8DF9EFF0-EDC6-5DE8-A0A3-B61F3D250CD1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=901F9613-8580-5F5B-B361-850DF05F4DC9&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=B9B37E64-6C61-5DFC-85FE-1B9B8C9ADA01&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=C79E97B3-7677-54CB-A38A-29809E8E6B2F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=D0485B60-0F32-5228-ABB1-22B5556D7308&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109619](https://sploitus.com/exploit?id=855421F0-0A06-5654-8520-BAD7E2318CF3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=34860858-C2D4-5F78-B7CD-2467DA98F5BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=A0E4DA59-12CE-502F-9142-5D9A4EE9B5D5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-72867](https://sploitus.com/exploit?id=D734EFEC-FFC0-5858-9CE7-E98911E2C5D5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-85315](https://sploitus.com/exploit?id=419B8369-8C34-50B6-8377-EBCA8240BCFF&utm_source=rss&utm_medium=rss)
+  - [Exploit for Observable Response Discrepancy in Gitea](https://sploitus.com/exploit?id=708F323C-F061-5701-B3AE-8A6C41EAFF48&utm_source=rss&utm_medium=rss)
   - [firejail exploit](https://sploitus.com/exploit?id=553626B3-12C9-524E-8B9A-830B418EC859&utm_source=rss&utm_medium=rss)
   - [iOS安全攻防研究 exploit](https://sploitus.com/exploit?id=6193EF47-B112-5EF5-8ABF-D79CB40199E2&utm_source=rss&utm_medium=rss)
+  - [open-ssh-user-enumeration exploit](https://sploitus.com/exploit?id=3C5E9776-3362-5566-BA8F-A95FD21E1F7B&utm_source=rss&utm_medium=rss)
   - [reverse-skill exploit](https://sploitus.com/exploit?id=34027E2E-71D0-5946-975F-B62CDCF44668&utm_source=rss&utm_medium=rss)
   - [undici exploit](https://sploitus.com/exploit?id=72570FA4-A1E0-58D4-9D72-F8FE9B8D0018&utm_source=rss&utm_medium=rss)
 - SumSec's Blog
@@ -201,6 +221,7 @@
   - [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
   - [Streaming guide JustWatch becomes a streamer itself](https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/)
 - The Block
+  - [Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds](https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508)
   - [Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms](https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524)
   - [Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation](https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430)
   - [BitGo launches innovation unit to design crypto’s next breakout application](https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502)
@@ -217,7 +238,9 @@
 - The Decoder
   - [Claude Science tackles deadly scorpion stings by designing protein binders from scratch](https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/)
   - [Deepseek open-sources the inference engine that powers its fastest and cheapest AI model](https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/)
+  - [Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait](https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/)
   - [Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time](https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/)
+  - [Mistral and Nvidia want to speed up industrial design with physics AI](https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/)
   - [Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days](https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/)
   - [OpenAI acquires Orchestra Bio to build AI agents that speed up drug development](https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/)
   - [OpenAI can't yet explain why its coding agents switch off misalignment monitoring](https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/)
@@ -242,6 +265,7 @@
   - [A use-after-free exists in Python through 3.9 via heappushpop in heapq.](https://vulners.com/mscve/MS:CVE-2022-48560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [An issue was discovered in compare_digest in Lib/hmac.py in Python through 3.9.1. Constant-time-defeating optimisations were possible in the accumulator variable in hmac.compare_digest.](https://vulners.com/mscve/MS:CVE-2022-48566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [An XML External Entity (XXE) issue was discovered in Python through 3.9.1. The plistlib module no longer accepts entity declarations in XML plist files to avoid XML vulnerabilities.](https://vulners.com/mscve/MS:CVE-2022-48565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [bileiwaf](https://vulners.com/gitee/49F6A50D-2D9B-53B4-AAD4-9A476E4076C4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [binary_safe](https://vulners.com/gitee/FF86B2C5-5BD6-5E3A-A7AA-94FAF3DF21B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Busybox: busybox: dpkg stale field_start pointer causes out-of-bounds read and status file corruption](https://vulners.com/mscve/MS:CVE-2026-88842?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Busybox: busybox: dpkg-deb extraction-root escape via per-ar-member deferred symlink flush](https://vulners.com/mscve/MS:CVE-2026-90954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -499,6 +523,7 @@
   - [MAL-2026-18104 Malicious code in semvver (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MariaDB: GRANT PROXY with empty password incorrectly checks grantor's privileges](https://vulners.com/mscve/MS:CVE-2026-97380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nfs-utils: nfs-utils: denial of service via assertion failure in fsidd](https://vulners.com/mscve/MS:CVE-2026-89098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [open-ssh-user-enumeration](https://vulners.com/gitee/3C5E9776-3362-5566-BA8F-A95FD21E1F7B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Openssh: openssh: a compressed payload can expand past the maximum packet size](https://vulners.com/mscve/MS:CVE-2026-110927?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Openssh: openssh: gssapi delegated credentials can be stored after a failed authentication](https://vulners.com/mscve/MS:CVE-2026-110924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Openssh: openssh: shared lz77 compression dictionary leaks plaintext across channels](https://vulners.com/mscve/MS:CVE-2026-110926?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -533,6 +558,7 @@
   - [OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer](https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/)
   - [She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family](https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/)
   - [The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More](https://www.wired.com/gallery/best-hearing-aids/)
+  - [‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/)
 - 不安全
   - [AI Agents Are Redefining Credential Management](https://buaq.net/go-449780.html)
   - [ARTEX](https://buaq.net/go-449784.html)
