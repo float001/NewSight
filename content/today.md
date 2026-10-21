@@ -2,12 +2,16 @@
 
 - 2Libra
   - [2 站设置，终于舒服了](https://2libra.com/post/community/N-v77eG)
+  - [PHP 核心 RCE 漏洞（CVE-2026-109618/109619）泄露](https://2libra.com/post/network-security/HNiKOdX)
+  - [PHP 高危漏洞](https://2libra.com/post/network-security/Cagl3nb)
   - [【Midalo 米搭中转站】：1024 福利， Claude/GPT/Gemini 全系 57+ 模型，注册评论 ID 即送 5$](https://2libra.com/post/promotion/jjdNU5p)
   - [【运动打卡】第 ⏸️ 天，开始力量训练](https://2libra.com/post/sports/QuSJkFw)
   - [【💰】今天好冷啊](https://2libra.com/post/forum-function/704Fx4U)
   - [【💰】领导给安排的任务太难不想干怎么办](https://2libra.com/post/office-life/_DDfeng)
   - [上班时间感觉](https://2libra.com/post/office-life/MjfcyAh)
+  - [今年双十一，哪个购物平台活动力度最大？](https://2libra.com/post/recommendations/uP0NweH)
   - [出京东 plus 送的家政 40](https://2libra.com/post/second-hand/oEL4kLS)
+  - [可恶，我还没进去拍照呢](https://2libra.com/post/social-observation/P2DWPaW)
   - [昨晚刷到 iPhone17 标准版 512gb 降价到 7259](https://2libra.com/post/apple/NH23q8A)
   - [晚上吃了喜姐炸串，现在半夜渴醒，喝水也解不了渴](https://2libra.com/post/small-things/-D1uQal)
   - [有没有大佬对 mini 主机有研究的](https://2libra.com/post/computers-accessories/6NcqFP6)
@@ -49,14 +53,19 @@
 - CyberNews
   - [France puts Meta, TikTok, other platforms on notice over riot content](https://cybernews.com/news/france-meeting-meta-tiktok-riot-content-looted-goods/)
   - [Hackers take control of school cameras, locks, and HVAC, shutting down entire Idaho school district](https://cybernews.com/news/school-district-ransomware-attack-idaho-cameras-locks-hvac/)
+  - [OpenAI bugging suspect reportedly in contact with Saudi royal](https://cybernews.com/tech/openai-bugging-suspect-saudi-royal-contact/)
+  - [US bans DeepSeek AI products from federal agencies](https://cybernews.com/tech/us-bans-deepseek-from-federal-agencies/)
 - darkreading
   - [Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
   - [Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)
+- defend.network
+  - [eMudhra CA compromise, FortiSIEM RCE PoC, PHP emergency patches](https://defend.network/briefings/emudhra-fortisiem-php-palo-alto-exploit-2026-10-21.html)
 - Google AI Blog
   - [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/)
 - Hacker News Frontpage
   - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
   - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
+  - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
   - [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)
   - [SimCity, but with Permits](https://permit.petercai.com/)
   - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
@@ -85,6 +94,7 @@
   - [ClawPanel - OpenClaw管理面板！ exploit](https://sploitus.com/exploit?id=D3892F6B-BD0F-5D4D-91E5-9C2C4277FB54&utm_source=rss&utm_medium=rss)
   - [cve-intel-triage exploit](https://sploitus.com/exploit?id=4F04B0C3-2F0A-5B1C-AF27-3DA7C4B8F7E9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=6CDC33EE-C9C3-5465-8E75-D8FE4E62C6D7&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=901F9613-8580-5F5B-B361-850DF05F4DC9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=34860858-C2D4-5F78-B7CD-2467DA98F5BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=A0E4DA59-12CE-502F-9142-5D9A4EE9B5D5&utm_source=rss&utm_medium=rss)
   - [firejail exploit](https://sploitus.com/exploit?id=553626B3-12C9-524E-8B9A-830B418EC859&utm_source=rss&utm_medium=rss)
@@ -388,10 +398,12 @@
   - [月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥](https://www.anquanke.com/post/id/316257)
 - 爱范儿
   - [三十而立，奇瑞不想只做一家汽车公司](https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？](https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [当回音壁学会了「通吃」｜Sonos Beam Ultra 体验](https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并](https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [AI强势冲击数学界，菲尔兹奖得主：我原有的研究方向已不复存在](https://blog.upx8.com/AI%E5%BC%BA%E5%8A%BF%E5%86%B2%E5%87%BB%E6%95%B0%E5%AD%A6%E7%95%8C-%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB-%E6%88%91%E5%8E%9F%E6%9C%89%E7%9A%84%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%B7%B2%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8)
   - [ChatGPT现在允许用户锁定他的聊天记录](https://blog.upx8.com/ChatGPT%E7%8E%B0%E5%9C%A8%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E9%94%81%E5%AE%9A%E4%BB%96%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
+  - [PHP核心曝严重远程代码执行漏洞，官方计划今日发布补丁](https://blog.upx8.com/PHP%E6%A0%B8%E5%BF%83%E6%9B%9D%E4%B8%A5%E9%87%8D%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E-%E5%AE%98%E6%96%B9%E8%AE%A1%E5%88%92%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83%E8%A1%A5%E4%B8%81)
   - [TikTok员工提出了儿童安全担忧，但高管未采取行动](https://blog.upx8.com/TikTok%E5%91%98%E5%B7%A5%E6%8F%90%E5%87%BA%E4%BA%86%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7-%E4%BD%86%E9%AB%98%E7%AE%A1%E6%9C%AA%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8)
   - [流媒体平台Spotify推出新的播客会员服务](https://blog.upx8.com/%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0Spotify%E6%8E%A8%E5%87%BA%E6%96%B0%E7%9A%84%E6%92%AD%E5%AE%A2%E4%BC%9A%E5%91%98%E6%9C%8D%E5%8A%A1)
