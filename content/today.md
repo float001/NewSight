@@ -24,6 +24,7 @@
   - [有老哥知道如何解锁 apple watch 和耳机的海外功能么](https://2libra.com/post/apple/f9b-aTV)
   - [每天一个“小惊喜”](https://2libra.com/post/ai-programming/c7IP1Pp)
   - [社区链接被 QQ 报红拦截](https://2libra.com/post/community/cX_V6pJ)
+  - [还是不能太夸 OpenCode](https://2libra.com/post/ai-tools/dqd4Wer)
 - 404 Media
   - [DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied](https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/)
 - anildash.com
@@ -63,6 +64,7 @@
   - [Go Blocks Compromised eMudhra CA Keys in Emergency Update](https://www.cyberkendra.com/2026/10/go-blocks-compromised-emudhra-ca-keys-in-emergency-update.html)
   - [OneDrive Copilot Update: Hero Links, 1M Sync & New AI Tools](https://www.cyberkendra.com/2026/10/onedrive-copilot-update-hero-links-1m-sync-new-ai-tools.html)
   - [PHP RCE Zero-Days CVE-2026-109618, CVE-2026-109619 Leak Early](https://www.cyberkendra.com/2026/10/php-cve-2026-109618-cve-2026-109619-rce.html)
+  - [PHP2Shell: Critical PHP Flaws Allow Remote Code Execution](https://www.cyberkendra.com/2026/10/php2shell-cve-2026-109618-cve-2026-109619.html)
 - CyberNews
   - [DHS lied about why it searched activist’s GrapheneOS phone](https://cybernews.com/news/dhs-grapheneos-phone-wipe-activist/)
   - [France puts Meta, TikTok, other platforms on notice over riot content](https://cybernews.com/news/france-meeting-meta-tiktok-riot-content-looted-goods/)
@@ -84,6 +86,9 @@
   - [eMudhra CA compromise, FortiSIEM RCE PoC, PHP emergency patches](https://defend.network/briefings/emudhra-fortisiem-php-palo-alto-exploit-2026-10-21.html)
 - Google AI Blog
   - [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/)
+- GuidePoint Security
+  - [AI Agents Are Redefining Credential Management](https://www.guidepointsecurity.com/blog/ai-agent-credential-management/)
+  - [Protecting Against AiTM Attacks: Is Your Microsoft Environment at Risk?](https://www.guidepointsecurity.com/blog/protecting-against-aitm-attacks/)
 - Hacker News Frontpage
   - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
   - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
@@ -108,6 +113,7 @@
   - [CVE-2026-101767 | Oracle E-Business Suite TCF SQL Injection and Remote Code Execution](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-101767/)
 - infosecurity-magazine.com
   - [Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches](https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/)
+  - [Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy](https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/)
   - [SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns](https://www.infosecurity-magazine.com/news/safepay-compromised-critical/)
 - MIT Technology Review
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
@@ -148,6 +154,8 @@
   - [iOS安全攻防研究 exploit](https://sploitus.com/exploit?id=6193EF47-B112-5EF5-8ABF-D79CB40199E2&utm_source=rss&utm_medium=rss)
   - [reverse-skill exploit](https://sploitus.com/exploit?id=34027E2E-71D0-5946-975F-B62CDCF44668&utm_source=rss&utm_medium=rss)
   - [undici exploit](https://sploitus.com/exploit?id=72570FA4-A1E0-58D4-9D72-F8FE9B8D0018&utm_source=rss&utm_medium=rss)
+- SumSec's Blog
+  - [把树莓派变成家里的透明代理旁路由：Mihomo + TPROXY + DNS-only 排障记](https://sumsec.me/2026/sumpi-mihomo-side-router.html)
 - TechCrunch
   - [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
   - [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/)
@@ -165,9 +173,11 @@
   - [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
   - [Streaming guide JustWatch becomes a streamer itself](https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/)
 - The Block
+  - [Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms](https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524)
   - [Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation](https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430)
   - [BitGo launches innovation unit to design crypto’s next breakout application](https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502)
   - [Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close](https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444)
+  - [Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand](https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469)
   - [Ethereum staking hits record as yields fall and Solana activity grows: Bitwise](https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414)
   - [First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act](https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470)
   - [JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually](https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436)
@@ -183,11 +193,15 @@
   - [OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran](https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/)
   - [Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs](https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/)
 - The Verge
+  - [A critical PHP vulnerability may take websites down today](https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress)
   - [Amazon is phasing out Fire HD tablets, but not without some big discounts first](https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale)
+  - [I can’t get enough of the iPhone Duo’s matte inner display](https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte)
   - [JustWatch now streams TV shows and movies, too](https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental)
   - [Meta pauses Muse sharing after researchers find AI chats on the web](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)
   - [Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028](https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor)
+  - [Spotify is busting free of CarPlay with the launch of its first native car app](https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay)
   - [Tesla and SpaceX are discussing a possible merger, Musk says](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees)
+  - [The iPhone Duo is a messy, expensive, good time](https://www.theverge.com/tech/1015028/iphone-duo-review)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [The Real Jump Scare Isn’t the Attacker; It’s The Vulnerabilities You’re Focusing On](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
@@ -472,6 +486,7 @@
   - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/)
 - Wired
   - [A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)](https://www.wired.com/story/rocco-sale-october-2026/)
+  - [Apple iPhone Duo Review: Is It Worth It?](https://www.wired.com/review/apple-iphone-duo/)
   - [Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer](https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/)
   - [Can Europe Build Data Centers Without Giving Up Its Climate Goals?](https://www.wired.com/story/europe-data-centers-climate-change/)
   - [French Government Calls Emergency Meetings With Platforms Over Protests](https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/)
@@ -480,6 +495,8 @@
   - [She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family](https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/)
   - [The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More](https://www.wired.com/gallery/best-hearing-aids/)
 - 不安全
+  - [AI Agents Are Redefining Credential Management](https://buaq.net/go-449780.html)
+  - [ARTEX](https://buaq.net/go-449784.html)
   - [enterprise-abac-gateway](https://buaq.net/go-449744.html)
   - [PHP Prepares Emergency Fixes for Two Critical Remote Code Execution Flaws](https://buaq.net/go-449765.html)
   - [sshesame](https://buaq.net/go-449675.html)
@@ -489,6 +506,7 @@
 - 博客
   - [lspci -D | grep -i “network\|ethernet”](https://dyrnq.com/lspci-d-grep-i-networkethernet/)
 - 奇客Solidot–传递最新科技情报
+  - [openEuler 在欧洲推广国产发行版](https://www.solidot.org/story?sid=85674)
   - [联合国报告警告到 2050 年全球升温可能突破 2 °C](https://www.solidot.org/story?sid=85673)
 - 安全客
   - [月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥](https://www.anquanke.com/post/id/316257)
