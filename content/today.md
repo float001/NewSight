@@ -47,6 +47,7 @@
   - [Injective, BDACS plan Korean won stablecoin settlement for tokenized assets](https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Malaysia central bank launches DLT platform for tokenized bonds](https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold](https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OCC finalizes GENIUS Act rules for stablecoin issuers and custody](https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [PancakeSwap TVL tops $380M as major fee overhaul heads to vote](https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Qubic restarts blockchain, opens recovery claims after $1.4M hack](https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins](https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -68,15 +69,20 @@
 - CyberNews
   - [DHS lied about why it searched activist’s GrapheneOS phone](https://cybernews.com/news/dhs-grapheneos-phone-wipe-activist/)
   - [France puts Meta, TikTok, other platforms on notice over riot content](https://cybernews.com/news/france-meeting-meta-tiktok-riot-content-looted-goods/)
+  - [Hackers claim they breached Disney: here’s what we found](https://cybernews.com/security/disney-data-breach-claim/)
   - [Hackers take control of school cameras, locks, and HVAC, shutting down entire Idaho school district](https://cybernews.com/news/school-district-ransomware-attack-idaho-cameras-locks-hvac/)
   - [How AI Video Generators Are Reshaping Social Media Content Creation](https://cybernews.com/partner-content/how-ai-video-generators-are-reshaping-social-media-content-creation/)
   - [Makera Connects AI Design With Desktop CNC Making](https://cybernews.com/press-releases/makera-connects-ai-design-with-desktop-cnc-making/)
   - [Microsoft will block some USB drives from Windows](https://cybernews.com/tech/microsoft-windows-external-drives-refs/)
   - [Musk and Trump point fingers as Starlink slowdown hurts Ukraine](https://cybernews.com/news/musk-trump-starlink-ukraine/)
   - [OpenAI bugging suspect reportedly in contact with Saudi royal](https://cybernews.com/tech/openai-bugging-suspect-saudi-royal-contact/)
+  - [Pink Panther and other agents of chaos](https://cybernews.com/editorial/pink-panther-france-chaos/)
+  - [Proton puts most detailed Flock map on Swiss servers following takedown attempt](https://cybernews.com/tech/proton-flock-map/)
   - [Siemens software, used by Nvidia and Amazon, under active exploitation: Is your PC safe?](https://cybernews.com/security/siemens-software-malware-campaign-vulnerability/)
   - [Spotify pulls a Netflix, asks Family plan members to verify their address](https://cybernews.com/news/spotify-family-plan-member-verification/)
+  - [The US Army is building AI agents that can hack enemy networks on their own](https://cybernews.com/ai-news/us-army-ai-agents-offensive-cyber-operations/)
   - [This AI aggregator leaked nearly 18 million files, including sex doll makers’ customer support chats](https://cybernews.com/security/302-ai-data-leak-exposed-millions-files/)
+  - [Trump briefed on secret UFO program, Ross Coulthart claims](https://cybernews.com/news/trump-uap-ufo-ross-coulthart/)
   - [US bans DeepSeek AI products from federal agencies](https://cybernews.com/tech/us-bans-deepseek-from-federal-agencies/)
   - [WordPress websites at risk from severe PHP flaws: emergency patch due soon](https://cybernews.com/security/wordpress-php-severe-rce-flaws-emergency-patches/)
 - darkreading
@@ -90,6 +96,7 @@
   - [AI Agents Are Redefining Credential Management](https://www.guidepointsecurity.com/blog/ai-agent-credential-management/)
   - [Protecting Against AiTM Attacks: Is Your Microsoft Environment at Risk?](https://www.guidepointsecurity.com/blog/protecting-against-aitm-attacks/)
 - Hacker News Frontpage
+  - [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
   - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
   - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
   - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
@@ -117,6 +124,7 @@
   - [SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns](https://www.infosecurity-magazine.com/news/safepay-compromised-critical/)
 - MIT Technology Review
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
+  - [The Download: introducing the Impossible issue](https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [PHP2Shell 代码执行漏洞影响面测绘分析与处置建议（CVE-202...](https://nosec.org/home/detail/6739.html)
   - [【已支持检测】Plex Media Server 多漏洞串联未授权远程代...](https://nosec.org/home/detail/6740.html)
@@ -145,6 +153,7 @@
   - [cve-intel-triage exploit](https://sploitus.com/exploit?id=4F04B0C3-2F0A-5B1C-AF27-3DA7C4B8F7E9&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass by Spoofing in Beyondtrust Remote_Support](https://sploitus.com/exploit?id=9194B784-C9EC-5E27-8B84-17A3389B2CE5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=6CDC33EE-C9C3-5465-8E75-D8FE4E62C6D7&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=8DF9EFF0-EDC6-5DE8-A0A3-B61F3D250CD1&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=901F9613-8580-5F5B-B361-850DF05F4DC9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=34860858-C2D4-5F78-B7CD-2467DA98F5BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=A0E4DA59-12CE-502F-9142-5D9A4EE9B5D5&utm_source=rss&utm_medium=rss)
@@ -166,6 +175,7 @@
   - [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)
   - [Google is bringing a more personal version of its Gemini AI assistant to your car](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/)
   - [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
+  - [Mach9 raises $34M after pivoting to AI CAD software](https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/)
   - [Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)
   - [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
   - [Plants can speak using electricity, so this startup built an AI model to decipher their language](https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/)
@@ -184,12 +194,14 @@
   - [Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare](https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406)
   - [MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion](https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476)
   - [OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo](https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421)
+  - [Standard Chartered signs definitive agreements to acquire Zodia Custody](https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535)
   - [Utah likens Kalshi to a ‘back-alley gambling den’ in lawsuit naming Susquehanna firms](https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442)
 - The Decoder
   - [Claude Science tackles deadly scorpion stings by designing protein binders from scratch](https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/)
   - [Deepseek open-sources the inference engine that powers its fastest and cheapest AI model](https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/)
   - [Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time](https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/)
   - [OpenAI acquires Orchestra Bio to build AI agents that speed up drug development](https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/)
+  - [OpenAI can't yet explain why its coding agents switch off misalignment monitoring](https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/)
   - [OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran](https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/)
   - [Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs](https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/)
 - The Verge
@@ -485,6 +497,7 @@
 - wheresyoured.at
   - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/)
 - Wired
+  - [A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse](https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/)
   - [A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)](https://www.wired.com/story/rocco-sale-october-2026/)
   - [Apple iPhone Duo Review: Is It Worth It?](https://www.wired.com/review/apple-iphone-duo/)
   - [Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer](https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/)
@@ -497,6 +510,7 @@
 - 不安全
   - [AI Agents Are Redefining Credential Management](https://buaq.net/go-449780.html)
   - [ARTEX](https://buaq.net/go-449784.html)
+  - [Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &#x5b;infocon yellow&#x5d;, (Wed, Oct 21st)](https://buaq.net/go-449807.html)
   - [enterprise-abac-gateway](https://buaq.net/go-449744.html)
   - [PHP Prepares Emergency Fixes for Two Critical Remote Code Execution Flaws](https://buaq.net/go-449765.html)
   - [sshesame](https://buaq.net/go-449675.html)
