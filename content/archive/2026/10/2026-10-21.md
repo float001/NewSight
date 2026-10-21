@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2 站设置，终于舒服了](https://2libra.com/post/community/N-v77eG)
+  - [ai 现在已经发展到你无法想象的地步了](https://2libra.com/post/ai-trends/I2Etp7p)
   - [opencode 真的狗](https://2libra.com/post/ai-programming/tPGhIz2)
   - [PHP 核心 RCE 漏洞（CVE-2026-109618/109619）泄露](https://2libra.com/post/network-security/HNiKOdX)
   - [PHP 高危漏洞](https://2libra.com/post/network-security/Cagl3nb)
@@ -35,18 +36,24 @@
 - CoinTelegraph
   - [Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform](https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls](https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode](https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops](https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?](https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Drift exploiter sends $109M in Ether to Tornado Cash in 2 days](https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ether ETF outflows continue, pass $1B in October so far](https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [France proposes liability for crypto exchanges offering DeFi access](https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective, BDACS plan Korean won stablecoin settlement for tokenized assets](https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Malaysia central bank launches DLT platform for tokenized bonds](https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold](https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [PancakeSwap TVL tops $380M as major fee overhaul heads to vote](https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Qubic restarts blockchain, opens recovery claims after $1.4M hack](https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins](https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin transfers quadruple to $891B as US banks expand adoption: Report](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified](https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tech giants rush to block 8 eMudhra certs that could enable fake sites](https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Utah AG sues Kalshi, pursues profits from prediction market company](https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash rallies 12% as developers finalize NU7 activation height](https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [CubeCart 6.7.4 Stored XSS](https://cxsecurity.com/issue/WLB-2026100001)
   - [PodcastGenerator 3.2.9 Stored XSS](https://cxsecurity.com/issue/WLB-2026100002)
@@ -63,8 +70,10 @@
   - [How AI Video Generators Are Reshaping Social Media Content Creation](https://cybernews.com/partner-content/how-ai-video-generators-are-reshaping-social-media-content-creation/)
   - [Makera Connects AI Design With Desktop CNC Making](https://cybernews.com/press-releases/makera-connects-ai-design-with-desktop-cnc-making/)
   - [Microsoft will block some USB drives from Windows](https://cybernews.com/tech/microsoft-windows-external-drives-refs/)
+  - [Musk and Trump point fingers as Starlink slowdown hurts Ukraine](https://cybernews.com/news/musk-trump-starlink-ukraine/)
   - [OpenAI bugging suspect reportedly in contact with Saudi royal](https://cybernews.com/tech/openai-bugging-suspect-saudi-royal-contact/)
   - [Siemens software, used by Nvidia and Amazon, under active exploitation: Is your PC safe?](https://cybernews.com/security/siemens-software-malware-campaign-vulnerability/)
+  - [Spotify pulls a Netflix, asks Family plan members to verify their address](https://cybernews.com/news/spotify-family-plan-member-verification/)
   - [This AI aggregator leaked nearly 18 million files, including sex doll makers’ customer support chats](https://cybernews.com/security/302-ai-data-leak-exposed-millions-files/)
   - [US bans DeepSeek AI products from federal agencies](https://cybernews.com/tech/us-bans-deepseek-from-federal-agencies/)
   - [WordPress websites at risk from severe PHP flaws: emergency patch due soon](https://cybernews.com/security/wordpress-php-severe-rce-flaws-emergency-patches/)
@@ -84,6 +93,7 @@
   - [SimCity, but with Permits](https://permit.petercai.com/)
   - [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
   - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
+  - [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 - HackerNews
   - [Qilin 和 INC 勒索软件组织利用 Palo Alto Networks 漏洞绕过 MFA](http://0.0.0.0:8080/post/64809)
   - [Zeabur 在两个月内遭遇第二次安全入侵后宣布关闭](http://0.0.0.0:8080/post/64811)
@@ -96,13 +106,23 @@
   - [Transparency and Auditability in AI-Configured Lending](https://hackernoon.com/transparency-and-auditability-in-ai-configured-lending?source=rss)
 - Horizon3.ai
   - [CVE-2026-101767 | Oracle E-Business Suite TCF SQL Injection and Remote Code Execution](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-101767/)
+- infosecurity-magazine.com
+  - [Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches](https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/)
+  - [SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns](https://www.infosecurity-magazine.com/news/safepay-compromised-critical/)
 - MIT Technology Review
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
 - NOSEC 安全讯息平台 - 漏洞预警
   - [PHP2Shell 代码执行漏洞影响面测绘分析与处置建议（CVE-202...](https://nosec.org/home/detail/6739.html)
   - [【已支持检测】Plex Media Server 多漏洞串联未授权远程代...](https://nosec.org/home/detail/6740.html)
 - NVIDIA AI Blog
+  - [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/)
+  - [Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/)
+  - [Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure](https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/)
   - [GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
+  - [NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data](https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/)
+  - [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/)
+  - [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/)
+  - [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
   - [NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries](https://blogs.nvidia.com/blog/open-models-europe-industry/)
 - pluralistic.net
   - [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/)
@@ -146,8 +166,10 @@
   - [Streaming guide JustWatch becomes a streamer itself](https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/)
 - The Block
   - [Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation](https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430)
+  - [BitGo launches innovation unit to design crypto’s next breakout application](https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502)
   - [Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close](https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444)
   - [Ethereum staking hits record as yields fall and Solana activity grows: Bitwise](https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414)
+  - [First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act](https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470)
   - [JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually](https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436)
   - [Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare](https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406)
   - [MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion](https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476)
@@ -450,18 +472,24 @@
   - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/)
 - Wired
   - [A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)](https://www.wired.com/story/rocco-sale-october-2026/)
+  - [Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer](https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/)
   - [Can Europe Build Data Centers Without Giving Up Its Climate Goals?](https://www.wired.com/story/europe-data-centers-climate-change/)
   - [French Government Calls Emergency Meetings With Platforms Over Protests](https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/)
+  - [Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’](https://www.wired.com/story/make-big-games-smaller/)
+  - [OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer](https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/)
   - [She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family](https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/)
   - [The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More](https://www.wired.com/gallery/best-hearing-aids/)
 - 不安全
   - [enterprise-abac-gateway](https://buaq.net/go-449744.html)
+  - [PHP Prepares Emergency Fixes for Two Critical Remote Code Execution Flaws](https://buaq.net/go-449765.html)
   - [sshesame](https://buaq.net/go-449675.html)
   - [测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷](https://buaq.net/go-449741.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [lspci -D | grep -i “network\|ethernet”](https://dyrnq.com/lspci-d-grep-i-networkethernet/)
+- 奇客Solidot–传递最新科技情报
+  - [联合国报告警告到 2050 年全球升温可能突破 2 °C](https://www.solidot.org/story?sid=85673)
 - 安全客
   - [月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥](https://www.anquanke.com/post/id/316257)
 - 爱范儿
