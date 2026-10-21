@@ -6,6 +6,7 @@
   - [PHP 核心 RCE 漏洞（CVE-2026-109618/109619）泄露](https://2libra.com/post/network-security/HNiKOdX)
   - [PHP 高危漏洞](https://2libra.com/post/network-security/Cagl3nb)
   - [【Midalo 米搭中转站】：1024 福利， Claude/GPT/Gemini 全系 57+ 模型，注册评论 ID 即送 5$](https://2libra.com/post/promotion/jjdNU5p)
+  - [【出差闲逛】柳州的螺蛳粉](https://2libra.com/post/travel-logs/5460J5E)
   - [【运动打卡】第 ⏸️ 天，开始力量训练](https://2libra.com/post/sports/QuSJkFw)
   - [【💰】claude 为什么对中国用户极度不友好](https://2libra.com/post/ai-tools/_jlzzvd)
   - [【💰】今天好冷啊](https://2libra.com/post/forum-function/704Fx4U)
@@ -64,7 +65,9 @@
   - [Microsoft will block some USB drives from Windows](https://cybernews.com/tech/microsoft-windows-external-drives-refs/)
   - [OpenAI bugging suspect reportedly in contact with Saudi royal](https://cybernews.com/tech/openai-bugging-suspect-saudi-royal-contact/)
   - [Siemens software, used by Nvidia and Amazon, under active exploitation: Is your PC safe?](https://cybernews.com/security/siemens-software-malware-campaign-vulnerability/)
+  - [This AI aggregator leaked nearly 18 million files, including sex doll makers’ customer support chats](https://cybernews.com/security/302-ai-data-leak-exposed-millions-files/)
   - [US bans DeepSeek AI products from federal agencies](https://cybernews.com/tech/us-bans-deepseek-from-federal-agencies/)
+  - [WordPress websites at risk from severe PHP flaws: emergency patch due soon](https://cybernews.com/security/wordpress-php-severe-rce-flaws-emergency-patches/)
 - darkreading
   - [Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
   - [Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)
@@ -73,11 +76,13 @@
 - Google AI Blog
   - [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/)
 - Hacker News Frontpage
+  - [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
   - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
   - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
   - [Launch HN: Alter (YC S25) – Access control for multi-user agents](https://alterauth.com/)
   - [Microagi: Accelerating Embodied AGI](https://www.microagi.ai/)
   - [SimCity, but with Permits](https://permit.petercai.com/)
+  - [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
   - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
 - HackerNews
   - [Qilin 和 INC 勒索软件组织利用 Palo Alto Networks 漏洞绕过 MFA](http://0.0.0.0:8080/post/64809)
@@ -93,6 +98,12 @@
   - [CVE-2026-101767 | Oracle E-Business Suite TCF SQL Injection and Remote Code Execution](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-101767/)
 - MIT Technology Review
   - [Astrolab’s upcoming rover will run the first LLMs on the moon](https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/)
+- NOSEC 安全讯息平台 - 漏洞预警
+  - [PHP2Shell 代码执行漏洞影响面测绘分析与处置建议（CVE-202...](https://nosec.org/home/detail/6739.html)
+  - [【已支持检测】Plex Media Server 多漏洞串联未授权远程代...](https://nosec.org/home/detail/6740.html)
+- NVIDIA AI Blog
+  - [GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/)
+  - [NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries](https://blogs.nvidia.com/blog/open-models-europe-industry/)
 - pluralistic.net
   - [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/)
 - PwnDefend
@@ -103,6 +114,7 @@
   - [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)
   - [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/)
 - Sploitus.com Exploits RSS Feed
+  - [binary_safe exploit](https://sploitus.com/exploit?id=FF86B2C5-5BD6-5E3A-A7AA-94FAF3DF21B5&utm_source=rss&utm_medium=rss)
   - [ClawPanel - OpenClaw管理面板！ exploit](https://sploitus.com/exploit?id=D3892F6B-BD0F-5D4D-91E5-9C2C4277FB54&utm_source=rss&utm_medium=rss)
   - [cve-intel-triage exploit](https://sploitus.com/exploit?id=4F04B0C3-2F0A-5B1C-AF27-3DA7C4B8F7E9&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass by Spoofing in Beyondtrust Remote_Support](https://sploitus.com/exploit?id=9194B784-C9EC-5E27-8B84-17A3389B2CE5&utm_source=rss&utm_medium=rss)
@@ -160,6 +172,7 @@
   - [A use-after-free exists in Python through 3.9 via heappushpop in heapq.](https://vulners.com/mscve/MS:CVE-2022-48560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [An issue was discovered in compare_digest in Lib/hmac.py in Python through 3.9.1. Constant-time-defeating optimisations were possible in the accumulator variable in hmac.compare_digest.](https://vulners.com/mscve/MS:CVE-2022-48566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [An XML External Entity (XXE) issue was discovered in Python through 3.9.1. The plistlib module no longer accepts entity declarations in XML plist files to avoid XML vulnerabilities.](https://vulners.com/mscve/MS:CVE-2022-48565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [binary_safe](https://vulners.com/gitee/FF86B2C5-5BD6-5E3A-A7AA-94FAF3DF21B5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Busybox: busybox: dpkg stale field_start pointer causes out-of-bounds read and status file corruption](https://vulners.com/mscve/MS:CVE-2026-88842?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Busybox: busybox: dpkg-deb extraction-root escape via per-ar-member deferred symlink flush](https://vulners.com/mscve/MS:CVE-2026-90954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Busybox: busybox: http request smuggling via pipelined requests in httpd reverse proxy](https://vulners.com/mscve/MS:CVE-2026-88829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -317,6 +330,8 @@
   - [CVE-2026-28330 SolarWinds Observability Self-Hosted Cross-Site Scripting Vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-28330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48279 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cve/CVE-2026-48279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48279 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cvelist/CVELIST:CVE-2026-48279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70387 OnePlus OxygenOS exposed dangerous method vulnerability](https://vulners.com/cve/CVE-2026-70387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70387 OnePlus OxygenOS exposed dangerous method vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-70387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75747 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cve/CVE-2026-75747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75747 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cvelist/CVELIST:CVE-2026-75747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75751 Acrobat for Edge | Out-of-bounds Write (CWE-787)](https://vulners.com/cve/CVE-2026-75751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -390,8 +405,10 @@
   - [CVE-2026-95109](https://vulners.com/nvd/NVD:CVE-2026-95109?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9825](https://vulners.com/nvd/NVD:CVE-2026-9825?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [emudhra-poc](https://vulners.com/githubexploit/850B2FC2-6C48-577E-8D4C-011B65C6F365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-88901](https://vulners.com/githubexploit/E07EEDD4-D30E-53ED-9102-A60A14C7B275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Out-of-bounds Write in Apple Ipados](https://vulners.com/githubexploit/6C418AA3-144C-5382-B487-B2B497BB079D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Path Traversal in Apache Http_Server](https://vulners.com/githubexploit/0FFDCA8D-2AD7-5573-B5F6-A0110EAF7ADC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit-Post-Exploitation](https://vulners.com/githubexploit/3058EA30-7F96-5E52-A1DF-A9116C718971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [firejail](https://vulners.com/gitee/553626B3-12C9-524E-8B9A-830B418EC859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-374F-7CHJ-9948 ApostropheCMS sanitize-html: SMIL animation namespace-prefix bypass allows javascript: URI injection (XSS)](https://vulners.com/osv_ghsa/OSV:GHSA-374F-7CHJ-9948?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-653J-G8J7-GH54 ApostropheCMS: No Attempt Throttling on Authenticated Password-Change Endpoint Enables Unlimited Current-Password Guessing](https://vulners.com/osv_ghsa/OSV:GHSA-653J-G8J7-GH54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -435,8 +452,12 @@
   - [A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)](https://www.wired.com/story/rocco-sale-october-2026/)
   - [Can Europe Build Data Centers Without Giving Up Its Climate Goals?](https://www.wired.com/story/europe-data-centers-climate-change/)
   - [French Government Calls Emergency Meetings With Platforms Over Protests](https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/)
+  - [She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family](https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/)
+  - [The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More](https://www.wired.com/gallery/best-hearing-aids/)
 - 不安全
+  - [enterprise-abac-gateway](https://buaq.net/go-449744.html)
   - [sshesame](https://buaq.net/go-449675.html)
+  - [测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷](https://buaq.net/go-449741.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
