@@ -8,7 +8,9 @@
   - [上班时间感觉](https://2libra.com/post/office-life/MjfcyAh)
   - [昨晚刷到 iPhone17 标准版 512gb 降价到 7259](https://2libra.com/post/apple/NH23q8A)
   - [晚上吃了喜姐炸串，现在半夜渴醒，喝水也解不了渴](https://2libra.com/post/small-things/-D1uQal)
+  - [有没有大佬对 mini 主机有研究的](https://2libra.com/post/computers-accessories/6NcqFP6)
   - [有老哥知道如何解锁 apple watch 和耳机的海外功能么](https://2libra.com/post/apple/f9b-aTV)
+  - [每天一个“小惊喜”](https://2libra.com/post/ai-programming/c7IP1Pp)
 - 404 Media
   - [DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied](https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/)
 - anildash.com
@@ -45,6 +47,8 @@
 - darkreading
   - [Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
   - [Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)
+- Google AI Blog
+  - [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/)
 - Hacker News Frontpage
   - [Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
   - [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/)
@@ -53,6 +57,7 @@
   - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
 - HackerNews
   - [Qilin 和 INC 勒索软件组织利用 Palo Alto Networks 漏洞绕过 MFA](http://0.0.0.0:8080/post/64809)
+  - [Zeabur 在两个月内遭遇第二次安全入侵后宣布关闭](http://0.0.0.0:8080/post/64811)
 - HackerNoon
   - [AGENTS.md Is a Config File, Not a Wishlist](https://hackernoon.com/agentsmd-is-a-config-file-not-a-wishlist?source=rss)
   - [Benchmarking NVIDIA RAPIDS on GKE: Estimated vs. Actual Spark Speedups](https://hackernoon.com/benchmarking-nvidia-rapids-on-gke-estimated-vs-actual-spark-speedups?source=rss)
@@ -73,6 +78,7 @@
   - [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/)
 - Sploitus.com Exploits RSS Feed
   - [cve-intel-triage exploit](https://sploitus.com/exploit?id=4F04B0C3-2F0A-5B1C-AF27-3DA7C4B8F7E9&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=6CDC33EE-C9C3-5465-8E75-D8FE4E62C6D7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=34860858-C2D4-5F78-B7CD-2467DA98F5BA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=A0E4DA59-12CE-502F-9142-5D9A4EE9B5D5&utm_source=rss&utm_medium=rss)
   - [firejail exploit](https://sploitus.com/exploit?id=553626B3-12C9-524E-8B9A-830B418EC859&utm_source=rss&utm_medium=rss)
@@ -376,6 +382,7 @@
   - [月下载9000万次的AI网关LiteLLM曝双漏洞：低权限账号就能偷走你所有API密钥](https://www.anquanke.com/post/id/316257)
 - 爱范儿
   - [三十而立，奇瑞不想只做一家汽车公司](https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [当回音壁学会了「通吃」｜Sonos Beam Ultra 体验](https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并](https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [AI强势冲击数学界，菲尔兹奖得主：我原有的研究方向已不复存在](https://blog.upx8.com/AI%E5%BC%BA%E5%8A%BF%E5%86%B2%E5%87%BB%E6%95%B0%E5%AD%A6%E7%95%8C-%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB-%E6%88%91%E5%8E%9F%E6%9C%89%E7%9A%84%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%B7%B2%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8)
