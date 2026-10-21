@@ -18,6 +18,7 @@
   - [Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?](https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective, BDACS plan Korean won stablecoin settlement for tokenized assets](https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Qubic restarts blockchain, opens recovery claims after $1.4M hack](https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin transfers quadruple to $891B as US banks expand adoption: Report](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified](https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Utah AG sues Kalshi, pursues profits from prediction market company](https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -30,6 +31,8 @@
   - [Go Blocks Compromised eMudhra CA Keys in Emergency Update](https://www.cyberkendra.com/2026/10/go-blocks-compromised-emudhra-ca-keys-in-emergency-update.html)
   - [OneDrive Copilot Update: Hero Links, 1M Sync & New AI Tools](https://www.cyberkendra.com/2026/10/onedrive-copilot-update-hero-links-1m-sync-new-ai-tools.html)
   - [PHP RCE Zero-Days CVE-2026-109618, CVE-2026-109619 Leak Early](https://www.cyberkendra.com/2026/10/php-cve-2026-109618-cve-2026-109619-rce.html)
+- CyberNews
+  - [France puts Meta, TikTok, other platforms on notice over riot content](https://cybernews.com/news/france-meeting-meta-tiktok-riot-content-looted-goods/)
 - darkreading
   - [Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)
   - [Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)
@@ -52,6 +55,7 @@
   - [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/)
 - simonwillison.net
   - [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)
+  - [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/)
 - Sploitus.com Exploits RSS Feed
   - [firejail exploit](https://sploitus.com/exploit?id=553626B3-12C9-524E-8B9A-830B418EC859&utm_source=rss&utm_medium=rss)
   - [iOS安全攻防研究 exploit](https://sploitus.com/exploit?id=6193EF47-B112-5EF5-8ABF-D79CB40199E2&utm_source=rss&utm_medium=rss)
