@@ -2,15 +2,18 @@
 
 - 2Libra
   - [2 站设置，终于舒服了](https://2libra.com/post/community/N-v77eG)
+  - [【Midalo 米搭中转站】：1024 福利， Claude/GPT/Gemini 全系 57+ 模型，注册评论 ID 即送 5$](https://2libra.com/post/promotion/jjdNU5p)
   - [【运动打卡】第 ⏸️ 天，开始力量训练](https://2libra.com/post/sports/QuSJkFw)
   - [【💰】今天好冷啊](https://2libra.com/post/forum-function/704Fx4U)
   - [【💰】领导给安排的任务太难不想干怎么办](https://2libra.com/post/office-life/_DDfeng)
   - [上班时间感觉](https://2libra.com/post/office-life/MjfcyAh)
+  - [出京东 plus 送的家政 40](https://2libra.com/post/second-hand/oEL4kLS)
   - [昨晚刷到 iPhone17 标准版 512gb 降价到 7259](https://2libra.com/post/apple/NH23q8A)
   - [晚上吃了喜姐炸串，现在半夜渴醒，喝水也解不了渴](https://2libra.com/post/small-things/-D1uQal)
   - [有没有大佬对 mini 主机有研究的](https://2libra.com/post/computers-accessories/6NcqFP6)
   - [有老哥知道如何解锁 apple watch 和耳机的海外功能么](https://2libra.com/post/apple/f9b-aTV)
   - [每天一个“小惊喜”](https://2libra.com/post/ai-programming/c7IP1Pp)
+  - [社区链接被 QQ 报红拦截](https://2libra.com/post/community/cX_V6pJ)
 - 404 Media
   - [DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied](https://www.404media.co/dhs-said-they-searched-man-who-wiped-grapheneos-phone-for-child-abuse-material-they-lied/)
 - anildash.com
@@ -27,10 +30,12 @@
   - [Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?](https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective, BDACS plan Korean won stablecoin settlement for tokenized assets](https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Malaysia central bank launches DLT platform for tokenized bonds](https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold](https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Qubic restarts blockchain, opens recovery claims after $1.4M hack](https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin transfers quadruple to $891B as US banks expand adoption: Report](https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified](https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tech giants rush to block 8 eMudhra certs that could enable fake sites](https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Utah AG sues Kalshi, pursues profits from prediction market company](https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [CubeCart 6.7.4 Stored XSS](https://cxsecurity.com/issue/WLB-2026100001)
@@ -389,3 +394,4 @@
   - [AI强势冲击数学界，菲尔兹奖得主：我原有的研究方向已不复存在](https://blog.upx8.com/AI%E5%BC%BA%E5%8A%BF%E5%86%B2%E5%87%BB%E6%95%B0%E5%AD%A6%E7%95%8C-%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB-%E6%88%91%E5%8E%9F%E6%9C%89%E7%9A%84%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E5%B7%B2%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8)
   - [ChatGPT现在允许用户锁定他的聊天记录](https://blog.upx8.com/ChatGPT%E7%8E%B0%E5%9C%A8%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E9%94%81%E5%AE%9A%E4%BB%96%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
   - [TikTok员工提出了儿童安全担忧，但高管未采取行动](https://blog.upx8.com/TikTok%E5%91%98%E5%B7%A5%E6%8F%90%E5%87%BA%E4%BA%86%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7-%E4%BD%86%E9%AB%98%E7%AE%A1%E6%9C%AA%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8)
+  - [流媒体平台Spotify推出新的播客会员服务](https://blog.upx8.com/%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0Spotify%E6%8E%A8%E5%87%BA%E6%96%B0%E7%9A%84%E6%92%AD%E5%AE%A2%E4%BC%9A%E5%91%98%E6%9C%8D%E5%8A%A1)
