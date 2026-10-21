@@ -5,10 +5,14 @@
 - CoinTelegraph
   - [Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking](https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tether backs Bolivian fintech bringing USDT payments to food delivery and banking](https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform](https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable](https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog opens consultations for DeFi guidance, crypto laws](https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - ['PHP2Shell' Bugs Signal Red Alert for Security Industry](https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry)
+  - [Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security](https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security)
 - GuidePoint Security
   - [Keep Calm, and Patch PHP2Shell](https://www.guidepointsecurity.com/blog/how-to-patch-php2shell/)
 - Hacker News Frontpage
@@ -28,6 +32,8 @@
   - [Linux Foundation Newsletter: October 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026)
 - Microsoft Security Blog
   - [AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/)
+- PwnDefend
+  - [How likely is mass exploitation of WP2SHELL?](https://www.pwndefend.com/2026/10/21/how-likely-is-mass-exploitation-of-wp2shell/)
 - simone.org
   - [Going Somewhere](https://simone.org/somewhere/)
 - simonwillison.net
@@ -41,21 +47,28 @@
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=8D151100-C0D0-5975-A246-F630E82E50B0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=91D36ABA-EFF0-5749-876E-55A203CF484D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=9B5F3A3D-FB75-5898-A03C-36E26E5E2467&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=AA212E85-D31E-5FED-9BD4-C7A1D7F02044&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=CBE3D6C5-6E9D-581D-9E4E-C9DE1B46A00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=D7082219-8593-5CE7-9F93-E249DBF1C020&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=FCAAC39D-5D2B-54BD-8A43-75E5E0A20263&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-97859](https://sploitus.com/exploit?id=5C5210DA-B324-5457-ACFF-DDF2181D5414&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=8E854697-ED6A-5E9C-AFD9-43C0292B632A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=EDD1CBA1-690E-5839-8A51-537D5FAFDB85&utm_source=rss&utm_medium=rss)
+  - [Exploit for Interpretation Conflict in Wordpress](https://sploitus.com/exploit?id=BC5B2E0B-4D6E-5065-9F25-303B44690F8E&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Automattic begins layoffs following board upheaval and executive departures](https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/)
   - [Blacksmith hits unicorn valuation after Sequoia leads Series C](https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/)
   - [GM is betting compute and AI will help it compete with Chinese automakers](https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/)
   - [GM is giving OnStar an AI makeover](https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/)
   - [Legal AI startup Legora raises $550M Series E at $8.8B valuation](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/)
   - [Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal](https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/)
   - [PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet](https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/)
+  - [Recursive launches Flint, a laptop coding model it says was largely built by AI](https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/)
+  - [Tesla stars Optimus robot production in California as profit falls 43%](https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/)
   - [The internet is having a very bad cybersecurity day](https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/)
   - [Waymo starts offering rides at the Las Vegas airport](https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/)
   - [While Amazon blocks AI agents, Walmart rolls out the welcome mat](https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/)
+  - [Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation](https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/)
 - The Block
   - [American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule](https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629)
   - [Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO](https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596)
@@ -99,10 +112,13 @@
   - [Exploit for CVE-2026-109618](https://vulners.com/githubexploit/CBE3D6C5-6E9D-581D-9E4E-C9DE1B46A00C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-109618](https://vulners.com/githubexploit/FCAAC39D-5D2B-54BD-8A43-75E5E0A20263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds](https://www.wired.com/story/bose-acquires-skullcandy-october-2026/)
   - [Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget](https://www.wired.com/story/eufy-security-camera-deals-october-2026/)
   - [GM Wants Your Car to Do Your Chores](https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/)
   - [Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026)](https://www.wired.com/story/ruggable-october-hosting-sale-2026/)
   - [This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good](https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/)
+  - [Trump Isn’t Even Good at TV Anymore](https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/)
+  - [‘It's the President's Fault’: The White House Blame Game Starts Early Ahead of the Midterms](https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 阿里云应急响应
