@@ -2,10 +2,12 @@
 
 - 2Libra
   - [2 站设置，终于舒服了](https://2libra.com/post/community/N-v77eG)
+  - [opencode 真的狗](https://2libra.com/post/ai-programming/tPGhIz2)
   - [PHP 核心 RCE 漏洞（CVE-2026-109618/109619）泄露](https://2libra.com/post/network-security/HNiKOdX)
   - [PHP 高危漏洞](https://2libra.com/post/network-security/Cagl3nb)
   - [【Midalo 米搭中转站】：1024 福利， Claude/GPT/Gemini 全系 57+ 模型，注册评论 ID 即送 5$](https://2libra.com/post/promotion/jjdNU5p)
   - [【运动打卡】第 ⏸️ 天，开始力量训练](https://2libra.com/post/sports/QuSJkFw)
+  - [【💰】claude 为什么对中国用户极度不友好](https://2libra.com/post/ai-tools/_jlzzvd)
   - [【💰】今天好冷啊](https://2libra.com/post/forum-function/704Fx4U)
   - [【💰】领导给安排的任务太难不想干怎么办](https://2libra.com/post/office-life/_DDfeng)
   - [上班时间感觉](https://2libra.com/post/office-life/MjfcyAh)
@@ -53,6 +55,8 @@
 - CyberNews
   - [France puts Meta, TikTok, other platforms on notice over riot content](https://cybernews.com/news/france-meeting-meta-tiktok-riot-content-looted-goods/)
   - [Hackers take control of school cameras, locks, and HVAC, shutting down entire Idaho school district](https://cybernews.com/news/school-district-ransomware-attack-idaho-cameras-locks-hvac/)
+  - [How AI Video Generators Are Reshaping Social Media Content Creation](https://cybernews.com/partner-content/how-ai-video-generators-are-reshaping-social-media-content-creation/)
+  - [Makera Connects AI Design With Desktop CNC Making](https://cybernews.com/press-releases/makera-connects-ai-design-with-desktop-cnc-making/)
   - [OpenAI bugging suspect reportedly in contact with Saudi royal](https://cybernews.com/tech/openai-bugging-suspect-saudi-royal-contact/)
   - [US bans DeepSeek AI products from federal agencies](https://cybernews.com/tech/us-bans-deepseek-from-federal-agencies/)
 - darkreading
@@ -139,6 +143,9 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [The Real Jump Scare Isn’t the Attacker; It’s The Vulnerabilities You’re Focusing On](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
+  - [A use-after-free exists in Python through 3.9 via heappushpop in heapq.](https://vulners.com/mscve/MS:CVE-2022-48560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [An issue was discovered in compare_digest in Lib/hmac.py in Python through 3.9.1. Constant-time-defeating optimisations were possible in the accumulator variable in hmac.compare_digest.](https://vulners.com/mscve/MS:CVE-2022-48566?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [An XML External Entity (XXE) issue was discovered in Python through 3.9.1. The plistlib module no longer accepts entity declarations in XML plist files to avoid XML vulnerabilities.](https://vulners.com/mscve/MS:CVE-2022-48565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2012-20002 TinyMCE Thumbnail Gallery WordPress Plugin < 1.1.0 Path Traversal via download-image.php](https://vulners.com/cve/CVE-2012-20002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2012-20002 TinyMCE Thumbnail Gallery WordPress Plugin < 1.1.0 Path Traversal via download-image.php](https://vulners.com/cvelist/CVELIST:CVE-2012-20002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2012-20003 Custom Tables WordPress Plugin < 3.4.6 Reflected XSS via iframe.php](https://vulners.com/cve/CVE-2012-20003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -382,7 +389,17 @@
   - [MAL-2026-18103 Malicious code in semverr (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MAL-2026-18104 Malicious code in semvver (PyPI)](https://vulners.com/osv_mal/OSV:MAL-2026-18104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pia-web-exploitation-lab](https://vulners.com/githubexploit/6241B1AB-0DE5-5A93-A7CD-EE68E1E2C4A3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [read_ints in plistlib.py in Python through 3.9.1 is vulnerable to a potential DoS attack via CPU and RAM exhaustion when processing malformed Apple Property List files in binary format.](https://vulners.com/mscve/MS:CVE-2022-48564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [undici](https://vulners.com/gitee/72570FA4-A1E0-58D4-9D72-F8FE9B8D0018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Wheels through 4.1.1 derives its default production error-email address from the Host header of the request that starts the application. If no explicit error-email recipient is configured, a mail server is configured, and the server accepts an attacker-chosen Host, an attacker whose request triggers a cold start can direct later error emails to an address under their control for that application's lifetime. Emails disclose error and request metadata; on engines/versions where scope dumps render, they may also disclose configuration secrets and other users' session/cookie data. On the Lucee 7 engine, scope dumps fail to render, limiting disclosure to header fields. This is fixed in 4.1.2.](https://vulners.com/mscve/MS:CVE-2026-111450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bound paths are not affected; whereBetween() is bound from 4.1.2. This is fixed in 4.2.0.](https://vulners.com/mscve/MS:CVE-2026-111444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [YAML::Syck versions before 1.36 for Perl has missing Null-Terminators which causes Out-of-Bounds Read and potential Information Disclosure](https://vulners.com/mscve/MS:CVE-2025-11683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [YAML::Syck versions before 1.38 for Perl has an out-of-bounds read](https://vulners.com/mscve/MS:CVE-2026-5089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [YAML::Syck versions before 1.47 for Perl allow a heap use-after-free via an anchor name reused as an anchors-table key in syck_hdlr_add_anchor](https://vulners.com/mscve/MS:CVE-2026-57076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [YAML::Syck versions before 1.47 for Perl allow a use-after-free and double-free via an anchor node freed while still on the parser value stack](https://vulners.com/mscve/MS:CVE-2026-13713?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [YAML::Syck versions before 1.47 for Perl allow an out-of-bounds read via a signed-char lookup-table index in syck_base64dec](https://vulners.com/mscve/MS:CVE-2026-57075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [YAML::Syck versions before 1.47 for Perl allow an out-of-bounds read via an unbounded newline scan in newline_len](https://vulners.com/mscve/MS:CVE-2026-57077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [YAML::Syck versions through 1.36 for Perl has several potential security vulnerabilities including a high-severity heap buffer overflow in the YAML emitter](https://vulners.com/mscve/MS:CVE-2026-4177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/)
 - Wired
@@ -407,3 +424,4 @@
   - [PHP核心曝严重远程代码执行漏洞，官方计划今日发布补丁](https://blog.upx8.com/PHP%E6%A0%B8%E5%BF%83%E6%9B%9D%E4%B8%A5%E9%87%8D%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E-%E5%AE%98%E6%96%B9%E8%AE%A1%E5%88%92%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83%E8%A1%A5%E4%B8%81)
   - [TikTok员工提出了儿童安全担忧，但高管未采取行动](https://blog.upx8.com/TikTok%E5%91%98%E5%B7%A5%E6%8F%90%E5%87%BA%E4%BA%86%E5%84%BF%E7%AB%A5%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7-%E4%BD%86%E9%AB%98%E7%AE%A1%E6%9C%AA%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8)
   - [流媒体平台Spotify推出新的播客会员服务](https://blog.upx8.com/%E6%B5%81%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0Spotify%E6%8E%A8%E5%87%BA%E6%96%B0%E7%9A%84%E6%92%AD%E5%AE%A2%E4%BC%9A%E5%91%98%E6%9C%8D%E5%8A%A1)
+  - [观看量下降后Netflix首要目标仍是提高盈利](https://blog.upx8.com/%E8%A7%82%E7%9C%8B%E9%87%8F%E4%B8%8B%E9%99%8D%E5%90%8ENetflix%E9%A6%96%E8%A6%81%E7%9B%AE%E6%A0%87%E4%BB%8D%E6%98%AF%E6%8F%90%E9%AB%98%E7%9B%88%E5%88%A9)
