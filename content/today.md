@@ -77,6 +77,7 @@
   - [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)
   - [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/)
 - Sploitus.com Exploits RSS Feed
+  - [ClawPanel - OpenClaw管理面板！ exploit](https://sploitus.com/exploit?id=D3892F6B-BD0F-5D4D-91E5-9C2C4277FB54&utm_source=rss&utm_medium=rss)
   - [cve-intel-triage exploit](https://sploitus.com/exploit?id=4F04B0C3-2F0A-5B1C-AF27-3DA7C4B8F7E9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=6CDC33EE-C9C3-5465-8E75-D8FE4E62C6D7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-44714](https://sploitus.com/exploit?id=34860858-C2D4-5F78-B7CD-2467DA98F5BA&utm_source=rss&utm_medium=rss)
