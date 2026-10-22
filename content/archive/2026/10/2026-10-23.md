@@ -10,6 +10,8 @@
   - [Meet the 2026 winner of Nikon's Small World photomicrography contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 - Black Hills Information Security
   - [Detection Engineering: Stop Drowning in Alerts and Start Catching Bad Guys](https://www.blackhillsinfosec.com/detection-engineering/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#763488: Memory corruption vulnerabilities in PHP](https://kb.cert.org/vuls/id/763488)
 - CoinTelegraph
   - [Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower](https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -17,6 +19,7 @@
   - [Dune launches real-time data feeds covering 200 onchain trading venues](https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express](https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Underdog taps zerohash to bring crypto deposits to prediction markets](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Winklevoss PAC moves into Texas Senate race with $81K ad buy](https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -62,11 +65,13 @@
 - TechCrunch
   - [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
   - [Arc browser sunsets December 22 as The Browser Company doubles down on Dia](https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/)
+  - [As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier](https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/)
   - [Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)
   - [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/)
   - [Elon Musk made a $1 billion investment in Skydance, report says](https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/)
   - [Former OpenAI science lead launches Warp Science to automate wet labs with robots](https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/)
   - [Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
+  - [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
   - [TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/)
   - [The secret to fast startup growth isn’t early sales, top names in tech say](https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/)
   - [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)
@@ -170,9 +175,12 @@
   - [Security Bulletin: Multiple Security Vulnerabilities in HttpClient affect IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-64607, CVE-2026-71290)](https://vulners.com/ibm/744C72989B1BF980D8DEB2C1EEAEB77C73583D4B3906DAC5B867690BD64DA895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Multiple Security Vulnerabilities in Jackson affect IBM Sterling B2B Integrator and IBM Sterling File Gateway](https://vulners.com/ibm/928D702BF6DD2ECF002392257BE4791DE2B39820FA4B31A446B80DF6B3C02CD7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Multiple Security Vulnerabilities in Netty affect IBM Sterling B2B Integrator and IBM Sterling File Gateway](https://vulners.com/ibm/EFC12E94E32D9CAECE7C92B6F5D62F4EF5471EBF1B5970AB367749B24316D954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wallarm
+  - [Stop Reviewing Your AI Agents. Start Governing Them.](https://lab.wallarm.com/stop-reviewing-your-ai-agents-start-governing-them/)
 - Wired
   - [Inside the Exclusive Nathan Fielder Interview](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/)
   - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
   - [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/)
+  - [What to Know About Shamonda Virus Following the First Reported Human Infection](https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
