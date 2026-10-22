@@ -13,10 +13,13 @@
   - [公司有猪哥怎么办](https://2libra.com/post/office-life/YaJPNnV)
   - [复联 5 咋会曝光这么多视频，B 站老多报料片段视频了](https://2libra.com/post/movie-sharing/9KceHM6)
   - [大家会按照默认自己一两年后失业来规划理财和生活吗 ？](https://2libra.com/post/workplace-stories/HKvAnPr)
+  - [广西特色小吃，大家尝过没？ 😋😋😋](https://2libra.com/post/personal-life/u1i95EF)
   - [想知道大家请假用什么理由](https://2libra.com/post/touch-fish/Gw6vugn)
   - [我的头像有没有带光环](https://2libra.com/post/forum-function/2UUMHzo)
+  - [我跟我妈的思维逻辑有很大的区别，她总是觉得我咄咄逼人](https://2libra.com/post/family/bslPxti)
   - [每日工资进度查看器（油猴脚本](https://2libra.com/post/tools-sharing/uyydAVb)
   - [没想到赚金币最快的方式是某站的邀请码。](https://2libra.com/post/forum-function/clnPIqj)
+  - [现在接个活都不太容易了，老板都自己使用 AI“开发”了！](https://2libra.com/post/outsourcing/32YRhQX)
   - [看到有人逆向的网页版小丑牌](https://2libra.com/post/reverse-engineering/CZm9tCS)
   - [短剧太精彩了，一人推荐一部你看过的优秀短剧。](https://2libra.com/post/movie-sharing/RUA4eQQ)
   - [缴得不积极，因为发得有问题。有能力的退休前已经体现在工资上了，退休后人人平等](https://2libra.com/post/social-observation/-qByM8T)
@@ -32,6 +35,7 @@
   - [No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/)
 - CoinTelegraph
   - [American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress](https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs bag another $528M, taking 3-day haul past $1B](https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking](https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -47,7 +51,10 @@
 - CyberNews
   - [EU launches probe into Booking.com over fake listings and phishing scams](https://cybernews.com/eu-launches-probe-into-booking-com/)
   - [Hackers knock Richmond schools offline, deface teachers laptops with ransom threats](https://cybernews.com/news/richmond-schools-ransomware-attack-ransom-note/)
+  - [Meta’s broken privacy promises cost it a whopping $25 billion in New Mexico](https://cybernews.com/news/meta-facebook-new-mexico-25-billions-penalty/)
+  - [Nigerian gets 8 years for phishing tax firms and stealing identities](https://cybernews.com/security/nigerian-gets-8-years-for-phishing-tax-firms-and-stealing-identities/)
   - [SafePay ransomware gang hits at least 600 organizations worldwide](https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/)
+  - [This AI aggregator leaked nearly 18 million files, including sex doll makers’ customer support chats](https://cybernews.com/security/302-ai-data-leak-exposed-millions-files/)
 - daniel.haxx.se
   - [“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)
 - daringfireball.net
@@ -62,6 +69,7 @@
 - GuidePoint Security
   - [Keep Calm, and Patch PHP2Shell](https://www.guidepointsecurity.com/blog/how-to-patch-php2shell/)
 - Hacker News Frontpage
+  - [A Markdown File Should Just Open](https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/)
   - [Anthropic's Public Benefit Charter](https://www.anthropic.com/public-benefit-charter)
   - [AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days](https://github.com/amazonlinux/amazon-linux-2023/issues/1148)
   - [Claude Duet](https://claude.com/product/claude-duet)
@@ -232,9 +240,13 @@
   - [Exploit for CVE-2026-109618](https://vulners.com/githubexploit/CBE3D6C5-6E9D-581D-9E4E-C9DE1B46A00C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-109618](https://vulners.com/githubexploit/FCAAC39D-5D2B-54BD-8A43-75E5E0A20263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/gitee/CD3DE8A6-0F23-57EC-999F-914930456CDC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/A12B0E2C-E12E-57F2-8F2D-A5AAA8F3B72D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/DCBD35CF-584B-5D53-88A8-4E5BA9451A9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/E33C9670-348A-5F73-A269-054BD64182F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [HarfBuzz 8.0.0 through 14.6.0 Out-of-Bounds Write via WebAssembly font_glyph_to_string](https://vulners.com/mscve/MS:CVE-2026-113679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [HarfBuzz 8.0.0 through 14.6.0 WebAssembly Shaper NULL Pointer Dereference DoS](https://vulners.com/mscve/MS:CVE-2026-113680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM SPSS Analytic Server is affected by a Jackson-core denial-of-service vulnerability that may cause excessive memory consumption through crafted JSON input](https://vulners.com/ibm/D1FBA5F2205D2159E8D967D397452FB77837D5425804FCB872A4CEC5ABF79E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [util-linux LIBMOUNT_FORCE_MOUNT2 allows nosuid and noexec bypass](https://vulners.com/mscve/MS:CVE-2026-53614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webscanner](https://vulners.com/gitee/F6BC7A2B-E708-5F19-BF2B-F48EBDA47301?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores](https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/)
@@ -257,5 +269,8 @@
   - [PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网](https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统](https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [首发｜我们用了一周的 iPhone Duo，这里有你关心的一切](https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
+  - [特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先](https://www.qbitai.com/2026/10/504841.html)
 - 阿里云应急响应
   - [PHP 远程代码执行漏洞通告（2026-109618 / CVE-2026-109619）](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486411&idx=1&sn=a82c5366760ca0049589f2f3c31e7148)
