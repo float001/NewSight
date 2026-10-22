@@ -54,6 +54,7 @@
   - [Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CoinDCX pledges no user losses after $16M transfers draw scrutiny](https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions](https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fireblocks disputes report of $2.5B Visa acquisition talks](https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Move over memecoins: Crypto ‘meme games’ coming, bagholders and all](https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [PHP flaw draws millions of exploit attempts, Cloudflare CEO warns](https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -95,6 +96,8 @@
   - [UAE Transitions 50% of Gov't Services to Agentic AI](https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai)
 - defend.network
   - [Critical RCE exploits: PHP, GitLab, LiteLLM under active attack](https://defend.network/briefings/php-gitlab-litellm-critical-rce-exploits-2026-10-22.html)
+- Google DeepMind Blog
+  - [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/)
 - GuidePoint Security
   - [Keep Calm, and Patch PHP2Shell](https://www.guidepointsecurity.com/blog/how-to-patch-php2shell/)
 - Hacker News Frontpage
@@ -110,6 +113,7 @@
   - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
   - [Open Source Games](https://opensourcegames.dev/)
   - [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+  - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
   - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
   - [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
   - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
@@ -151,6 +155,8 @@
 - rtl-sdr.com
   - [Mayhem Mobile: Run PortaPack Mayhem Apps on a Browser or Android with an RTL-SDR or HackRF](https://www.rtl-sdr.com/mayhem-mobile-run-portapack-mayhem-apps-on-a-browser-or-android-with-an-rtl-sdr-or-hackrf/)
   - [Mtk79ICAP: Another MT7921 Wi-Fi SDR Project with SoapySDR Support and 80 MHz Bandwidth](https://www.rtl-sdr.com/mtk79icap-another-mt7921-wi-fi-sdr-project-with-soapysdr-support-and-80-mhz-bandwidth/)
+- Sec-News 安全文摘
+  - [讲解一下这次PHP核弹级别漏洞的原理](https://govuln.com/news/url/0PEL)
 - Securelist
   - [How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia](https://securelist.com/uefi-bootkit-blackx/121539/)
 - Shell is Only the Beginning
@@ -233,6 +239,7 @@
   - [Claude Duet app is Anthropic’s bet on agents](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/)
   - [DeepSeek reportedly raises $15B days after US restrictions](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)
   - [Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack](https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/)
+  - [Fusion startup Helion is developing new semiconductors that could double output of its power plants](https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/)
   - [GM is betting compute and AI will help it compete with Chinese automakers](https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/)
   - [GM is giving OnStar an AI makeover](https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/)
   - [Legal AI startup Legora raises $550M Series E at $8.8B valuation](https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/)
@@ -270,6 +277,7 @@
   - [Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three](https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/)
   - [OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months](https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/)
   - [OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites](https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/)
+  - [Recursive shows first result of its AI-driven research process with Flint](https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/)
 - The Verge
   - [1Password lets AI agents use your passwords without seeing them](https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in)
   - [AI agents are ready to shop. Some retailers are wary.](https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse)
