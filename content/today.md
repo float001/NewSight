@@ -6,9 +6,13 @@
   - [Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower](https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Underdog taps zerohash to bring crypto deposits to prediction markets](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [BIND 9 Flaw CVE-2026-94300 Opens DNS Servers to RCE](https://www.cyberkendra.com/2026/10/bind-9-flaw-cve-2026-94300-opens-dns-servers-to-rce.html)
+  - [PHP2Shell Patch Bypass Claim Another RCE on PHP 8.5.12](https://www.cyberkendra.com/2026/10/php2shell-php-8-5-12-patch-bypass-rce-poc.html)
   - [Top 7 Best Enterprise Agent IAM Platforms for Organisations Running Thousands of AI Agents in 2026](https://www.cyberkendra.com/2026/10/top-7-best-enterprise-agent-iam-platforms-for-organisations-running-thousands-of-ai-agents-in-2026.html)
+- CyberNews
+  - [Orange denies PHP link following outage and doubles data for affected customers](https://cybernews.com/security/orange-outage-compensation-php-security-warning/)
 - Fidelis Security
   - [Building Zero Trust Across Healthcare’s Legacy and Connected Environments](https://fidelissecurity.com/threatgeek/threat-detection-response/zero-trust-in-healthcare/)
 - Hacker News Frontpage
@@ -17,6 +21,8 @@
   - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
 - idiallo.com
   - [Productivity](https://idiallo.com/byte-size/productivity-video)
+- NowSecure
+  - [Security Through Binary Patching](https://www.nowsecure.com/blog/2026/10/22/security-through-binary-patching/)
 - Pen Test Partners
   - [PHP2Shell and what the AI headlines are missing](https://www.pentestpartners.com/security-blog/php2shell-and-what-the-ai-headlines-are-missing/)
 - Sploitus.com Exploits RSS Feed
@@ -25,11 +31,29 @@
   - [reproduction01 exploit](https://sploitus.com/exploit?id=91D49513-6ED1-57FE-A11B-F05A77E02826&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/)
+  - [Elon Musk made a $1 billion investment in Skydance, report says](https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/)
   - [TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/)
   - [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)
 - The Decoder
+  - [Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine](https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/)
   - [Only 13 percent of companies see real returns from AI, Gartner survey finds](https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/)
 - Vulners.com RSS Feed
+  - [CVE-2026-104068](https://vulners.com/nvd/NVD:CVE-2026-104068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114605](https://vulners.com/nvd/NVD:CVE-2026-114605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114606](https://vulners.com/nvd/NVD:CVE-2026-114606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114607](https://vulners.com/nvd/NVD:CVE-2026-114607?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114608](https://vulners.com/nvd/NVD:CVE-2026-114608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114609 fpdf2 implicitly loads external URLs and local image paths when rendering attacker-controlled content](https://vulners.com/cvelist/CVELIST:CVE-2026-114609?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115416](https://vulners.com/nvd/NVD:CVE-2026-115416?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115502](https://vulners.com/nvd/NVD:CVE-2026-115502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115513](https://vulners.com/nvd/NVD:CVE-2026-115513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-54532 CloudPirates Open Source Helm Charts: pull_request_target workflow vulnerable to cache poisoning and OIDC token theft](https://vulners.com/cvelist/CVELIST:CVE-2026-54532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-67597](https://vulners.com/nvd/NVD:CVE-2026-67597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75507](https://vulners.com/nvd/NVD:CVE-2026-75507?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75508](https://vulners.com/nvd/NVD:CVE-2026-75508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97631](https://vulners.com/nvd/NVD:CVE-2026-97631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-107079](https://vulners.com/githubexploit/14A8A43A-4E2F-520B-A1D5-3B6C9C0DE46B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ExploitForge](https://vulners.com/githubexploit/16F71F07-4A0D-55C4-B334-A35B432B4056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nginx 开源免费 WAF 防火墙宝塔插件](https://vulners.com/gitee/EA7ABE42-1A36-54A2-A0F7-9B1142738FE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php2shell-Lab](https://vulners.com/gitee/259EF5BF-E337-5215-9F56-82F12C5B6699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [reproduction01](https://vulners.com/gitee/91D49513-6ED1-57FE-A11B-F05A77E02826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
