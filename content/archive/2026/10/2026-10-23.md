@@ -3,11 +3,18 @@
 - 2Libra
   - [【💰】你上一次去电影院和演唱会是什么时候？](https://2libra.com/post/social-observation/2Ez7pqZ)
   - [吃惊了，AI 写小说原来这么费钱啊](https://2libra.com/post/ai-applications/cu573Tw)
+- 404 Media
+  - [Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting](https://www.404media.co/texas-commission-on-environmental-quality-portal-down/)
 - Ars Technica
+  - [Disgraced eMudhra drops out of TLS business after using cert private key of 4](https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/)
   - [Meet the 2026 winner of Nikon's Small World photomicrography contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
+- Black Hills Information Security
+  - [Detection Engineering: Stop Drowning in Alerts and Start Catching Bad Guys](https://www.blackhillsinfosec.com/detection-engineering/)
 - CoinTelegraph
   - [Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower](https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Dune launches real-time data feeds covering 200 onchain trading venues](https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Underdog taps zerohash to bring crypto deposits to prediction markets](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Winklevoss PAC moves into Texas Senate race with $81K ad buy](https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -20,6 +27,8 @@
 - daringfireball.net
   - [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/)
   - [Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo)
+- darkreading
+  - [What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)
 - Fidelis Security
   - [Building Zero Trust Across Healthcare’s Legacy and Connected Environments](https://fidelissecurity.com/threatgeek/threat-detection-response/zero-trust-in-healthcare/)
 - Hacker News Frontpage
@@ -31,6 +40,7 @@
   - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
   - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
 - Horizon3.ai
+  - [CVE-2026-76268 | Splunk Enterprise Patroni REST API Missing Authentication Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-76268/)
   - [PHP2Shell Exposure Depends on More Than Whether You Use PHP](https://horizon3.ai/attack-research/attack-blogs/php2shell-exposure-exploitability/)
 - idiallo.com
   - [Productivity](https://idiallo.com/byte-size/productivity-video)
@@ -69,11 +79,14 @@
   - [Google tells Android users to update as parts of Canada adopt permanent daylight saving time](https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada)
   - [In Meta’s version of the future, I’ll have my Muse call your Muse](https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network)
   - [Mass Effect 5 trailer leaks following BioWare shutdown](https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea)
+  - [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
+  - [Meta&#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
   - [Refurbished PS5 consoles include second controller for an extra $18](https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle)
   - [Republican politicians have embraced anti-Indian racism — and it’s costing them votes](https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas)
   - [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)
   - [Teenage Engineering launched an instrument amp with a ton of built-in effects](https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp)
   - [Tesla driver using Full Self-Driving struck and killed a man crossing I-80](https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california)
+  - [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole)
 - Vulners.com RSS Feed
   - [CVE-2026-104068](https://vulners.com/nvd/NVD:CVE-2026-104068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114605](https://vulners.com/nvd/NVD:CVE-2026-114605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -145,6 +158,7 @@
   - [reproduction01](https://vulners.com/gitee/91D49513-6ED1-57FE-A11B-F05A77E02826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Inside the Exclusive Nathan Fielder Interview](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/)
+  - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
   - [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
