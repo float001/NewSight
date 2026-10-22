@@ -14,6 +14,7 @@
   - [想知道大家请假用什么理由](https://2libra.com/post/touch-fish/Gw6vugn)
   - [我的头像有没有带光环](https://2libra.com/post/forum-function/2UUMHzo)
   - [没想到赚金币最快的方式是某站的邀请码。](https://2libra.com/post/forum-function/clnPIqj)
+  - [短剧太精彩了，一人推荐一部你看过的优秀短剧。](https://2libra.com/post/movie-sharing/RUA4eQQ)
   - [腾讯出了一个青少儿 ai 社区，可以做动画 绘本。质量挺高的！](https://2libra.com/post/promotion/GOhyLIz)
   - [要是这样就好了](https://2libra.com/post/forum-function/eO7Z0Xe)
 - Ars Technica
@@ -41,6 +42,7 @@
   - ['PHP2Shell' Bugs Signal Red Alert for Security Industry](https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry)
   - [Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security](https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security)
   - [TiDB Breach Exposes Flawed Cloud Security Assumptions](https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security)
+  - [UAE Transitions 50% of Gov't Services to Agentic AI](https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai)
 - GuidePoint Security
   - [Keep Calm, and Patch PHP2Shell](https://www.guidepointsecurity.com/blog/how-to-patch-php2shell/)
 - Hacker News Frontpage
@@ -94,6 +96,8 @@
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=CBE3D6C5-6E9D-581D-9E4E-C9DE1B46A00C&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=D7082219-8593-5CE7-9F93-E249DBF1C020&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=FCAAC39D-5D2B-54BD-8A43-75E5E0A20263&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-110264](https://sploitus.com/exploit?id=8CCEC99A-03D9-5D89-A0D2-CAD1C226E86D&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-111497](https://sploitus.com/exploit?id=31686B41-5037-5341-9CDE-83A505E663AB&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-86478](https://sploitus.com/exploit?id=99C6972E-C2A1-5ED0-94AF-A163B9AB855B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-97859](https://sploitus.com/exploit?id=5C5210DA-B324-5457-ACFF-DDF2181D5414&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=4DE79199-A245-53BB-8B85-03883F5A086A&utm_source=rss&utm_medium=rss)
