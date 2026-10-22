@@ -3,6 +3,7 @@
 - 2Libra
   - [BioWare 宣布关闭了](https://2libra.com/post/game-discussion/doQaco5)
   - [《明日之丈》点评：10 分｜为了明天，燃尽自己。](https://2libra.com/post/animation-sharing/yz4Ituq)
+  - [【投票】潘多拉组合](https://2libra.com/post/forum-function/vZvuEJa)
   - [【西游职场 3】牛马取经：小时候想当孙悟空，长大后才懂白龙马 🐮🐴](https://2libra.com/post/workplace-stories/Zq_UV8k)
   - [【💰·🔒】全勤 365 天](https://2libra.com/post/invite-code/UBrHW-1)
   - [【💰】請益，大家噴香水嗎?](https://2libra.com/post/recommendations/W4qhXVx)
@@ -10,6 +11,7 @@
   - [些许补丁更新【扩展推荐优化、新增草稿清空、漏洞版本提升】](https://2libra.com/post/product-updates/y9o4Au4)
   - [全勤徽章也挺超模](https://2libra.com/post/forum-function/qPABnKI)
   - [复联 5 咋会曝光这么多视频，B 站老多报料片段视频了](https://2libra.com/post/movie-sharing/9KceHM6)
+  - [想知道大家请假用什么理由](https://2libra.com/post/touch-fish/Gw6vugn)
   - [我的头像有没有带光环](https://2libra.com/post/forum-function/2UUMHzo)
   - [没想到赚金币最快的方式是某站的邀请码。](https://2libra.com/post/forum-function/clnPIqj)
   - [腾讯出了一个青少儿 ai 社区，可以做动画 绘本。质量挺高的！](https://2libra.com/post/promotion/GOhyLIz)
@@ -72,6 +74,9 @@
   - [AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/)
 - PwnDefend
   - [How likely is mass exploitation of WP2SHELL?](https://www.pwndefend.com/2026/10/21/how-likely-is-mass-exploitation-of-wp2shell/)
+- rtl-sdr.com
+  - [Mayhem Mobile: Run PortaPack Mayhem Apps on a Browser or Android with an RTL-SDR or HackRF](https://www.rtl-sdr.com/mayhem-mobile-run-portapack-mayhem-apps-on-a-browser-or-android-with-an-rtl-sdr-or-hackrf/)
+  - [Mtk79ICAP: Another MT7921 Wi-Fi SDR Project with SoapySDR Support and 80 MHz Bandwidth](https://www.rtl-sdr.com/mtk79icap-another-mt7921-wi-fi-sdr-project-with-soapysdr-support-and-80-mhz-bandwidth/)
 - simone.org
   - [Going Somewhere](https://simone.org/somewhere/)
 - simonwillison.net
