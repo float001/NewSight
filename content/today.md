@@ -10,13 +10,16 @@
   - [三哥整的活还没人发吗？私钥泄露，开启互联网大逃杀](https://2libra.com/post/network-security/6TWDW3w)
   - [些许补丁更新【扩展推荐优化、新增草稿清空、漏洞版本提升】](https://2libra.com/post/product-updates/y9o4Au4)
   - [全勤徽章也挺超模](https://2libra.com/post/forum-function/qPABnKI)
+  - [公司有猪哥怎么办](https://2libra.com/post/office-life/YaJPNnV)
   - [复联 5 咋会曝光这么多视频，B 站老多报料片段视频了](https://2libra.com/post/movie-sharing/9KceHM6)
+  - [大家会按照默认自己一两年后失业来规划理财和生活吗 ？](https://2libra.com/post/workplace-stories/HKvAnPr)
   - [想知道大家请假用什么理由](https://2libra.com/post/touch-fish/Gw6vugn)
   - [我的头像有没有带光环](https://2libra.com/post/forum-function/2UUMHzo)
   - [没想到赚金币最快的方式是某站的邀请码。](https://2libra.com/post/forum-function/clnPIqj)
   - [短剧太精彩了，一人推荐一部你看过的优秀短剧。](https://2libra.com/post/movie-sharing/RUA4eQQ)
   - [腾讯出了一个青少儿 ai 社区，可以做动画 绘本。质量挺高的！](https://2libra.com/post/promotion/GOhyLIz)
   - [要是这样就好了](https://2libra.com/post/forum-function/eO7Z0Xe)
+  - [逆向了小丑牌为网页游戏](https://2libra.com/post/reverse-engineering/XrcTU87)
 - Ars Technica
   - [Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 - blog.jim-nielsen.com
@@ -26,6 +29,7 @@
   - [Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking](https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Move over memecoins: Crypto ‘meme games’ coming, bagholders and all](https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [PHP Foundation admits ‘structural failure’ delayed critical security fix](https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether backs Bolivian fintech bringing USDT payments to food delivery and banking](https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform](https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -36,6 +40,8 @@
   - [Node.js Patches Brotli RCE Flaw, 9 Other Vulnerabilities](https://www.cyberkendra.com/2026/10/nodejs-october-2026-security-releases-cve-2026-111497.html)
 - CyberNews
   - [Hackers knock Richmond schools offline, deface teachers laptops with ransom threats](https://cybernews.com/news/richmond-schools-ransomware-attack-ransom-note/)
+- daniel.haxx.se
+  - [“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)
 - daringfireball.net
   - [★ The iPhone Duo](https://daringfireball.net/2026/10/the_iphone_duo)
 - darkreading
@@ -79,6 +85,8 @@
 - rtl-sdr.com
   - [Mayhem Mobile: Run PortaPack Mayhem Apps on a Browser or Android with an RTL-SDR or HackRF](https://www.rtl-sdr.com/mayhem-mobile-run-portapack-mayhem-apps-on-a-browser-or-android-with-an-rtl-sdr-or-hackrf/)
   - [Mtk79ICAP: Another MT7921 Wi-Fi SDR Project with SoapySDR Support and 80 MHz Bandwidth](https://www.rtl-sdr.com/mtk79icap-another-mt7921-wi-fi-sdr-project-with-soapysdr-support-and-80-mhz-bandwidth/)
+- Securelist
+  - [How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia](https://securelist.com/uefi-bootkit-blackx/121539/)
 - simone.org
   - [Going Somewhere](https://simone.org/somewhere/)
 - simonwillison.net
@@ -112,9 +120,13 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=CD3DE8A6-0F23-57EC-999F-914930456CDC&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=D978A604-7742-520C-9956-DEC6C5E42851&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=DFB19433-C318-57FB-ADD2-A1CC808F6EB0&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E33C9670-348A-5F73-A269-054BD64182F9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E6104E8F-D14D-54D1-94C8-6B7F8450D7DC&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9696E40-7C20-5E0F-94AC-A6767BF09A7D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9A7B3F1-280C-50FD-9594-9F0D9F41457A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=EDD1CBA1-690E-5839-8A51-537D5FAFDB85&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=F49060DB-2615-57F0-A567-DD7667B49C78&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=F7AF0B3B-C2B5-5956-AFE0-74209DA09185&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=F910931D-C17E-51BD-A627-C64644AA7295&utm_source=rss&utm_medium=rss)
   - [Exploit for Interpretation Conflict in Wordpress](https://sploitus.com/exploit?id=BC5B2E0B-4D6E-5065-9F25-303B44690F8E&utm_source=rss&utm_medium=rss)
   - [penligent-recreation exploit](https://sploitus.com/exploit?id=8DB43C94-2E55-5BF1-B2AD-53D091015EA6&utm_source=rss&utm_medium=rss)
@@ -206,6 +218,8 @@
   - [Exploit for CVE-2026-109618](https://vulners.com/githubexploit/FCAAC39D-5D2B-54BD-8A43-75E5E0A20263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/gitee/CD3DE8A6-0F23-57EC-999F-914930456CDC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/DCBD35CF-584B-5D53-88A8-4E5BA9451A9D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/E33C9670-348A-5F73-A269-054BD64182F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM SPSS Analytic Server is affected by a Jackson-core denial-of-service vulnerability that may cause excessive memory consumption through crafted JSON input](https://vulners.com/ibm/D1FBA5F2205D2159E8D967D397452FB77837D5425804FCB872A4CEC5ABF79E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webscanner](https://vulners.com/gitee/F6BC7A2B-E708-5F19-BF2B-F48EBDA47301?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores](https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/)
@@ -225,6 +239,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网](https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统](https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [首发｜我们用了一周的 iPhone Duo，这里有你关心的一切](https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 阿里云应急响应
