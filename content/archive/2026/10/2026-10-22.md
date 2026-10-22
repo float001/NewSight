@@ -2,21 +2,25 @@
 
 - 2Libra
   - [BioWare 宣布关闭了](https://2libra.com/post/game-discussion/doQaco5)
+  - [PHP 请求生命周期边界漏洞技术分析（CVE-2026-109618/109619）](https://2libra.com/post/network-security/OkGMgX4)
   - [《明日之丈》点评：10 分｜为了明天，燃尽自己。](https://2libra.com/post/animation-sharing/yz4Ituq)
   - [【投票】潘多拉组合](https://2libra.com/post/forum-function/vZvuEJa)
   - [【西游职场 3】牛马取经：小时候想当孙悟空，长大后才懂白龙马 🐮🐴](https://2libra.com/post/workplace-stories/Zq_UV8k)
   - [【💰·🔒】全勤 365 天](https://2libra.com/post/invite-code/UBrHW-1)
   - [【💰】請益，大家噴香水嗎?](https://2libra.com/post/recommendations/W4qhXVx)
   - [三哥整的活还没人发吗？私钥泄露，开启互联网大逃杀](https://2libra.com/post/network-security/6TWDW3w)
+  - [亏麻了，一眼望得到头](https://2libra.com/post/financial-management/x09pQLV)
   - [些许补丁更新【扩展推荐优化、新增草稿清空、漏洞版本提升】](https://2libra.com/post/product-updates/y9o4Au4)
   - [全勤徽章也挺超模](https://2libra.com/post/forum-function/qPABnKI)
   - [公司有猪哥怎么办](https://2libra.com/post/office-life/YaJPNnV)
+  - [关于本站的一个小疑问](https://2libra.com/post/community/r2UJONo)
   - [复联 5 咋会曝光这么多视频，B 站老多报料片段视频了](https://2libra.com/post/movie-sharing/9KceHM6)
   - [大家会按照默认自己一两年后失业来规划理财和生活吗 ？](https://2libra.com/post/workplace-stories/HKvAnPr)
   - [广西特色小吃，大家尝过没？ 😋😋😋](https://2libra.com/post/personal-life/u1i95EF)
   - [想知道大家请假用什么理由](https://2libra.com/post/touch-fish/Gw6vugn)
   - [我的头像有没有带光环](https://2libra.com/post/forum-function/2UUMHzo)
   - [我跟我妈的思维逻辑有很大的区别，她总是觉得我咄咄逼人](https://2libra.com/post/family/bslPxti)
+  - [有没有发现，当一首歌能听个 100 遍，基本你就会唱了](https://2libra.com/post/music-sharing/gA83GVT)
   - [每日工资进度查看器（油猴脚本](https://2libra.com/post/tools-sharing/uyydAVb)
   - [没想到赚金币最快的方式是某站的邀请码。](https://2libra.com/post/forum-function/clnPIqj)
   - [现在接个活都不太容易了，老板都自己使用 AI“开发”了！](https://2libra.com/post/outsourcing/32YRhQX)
@@ -26,6 +30,7 @@
   - [网页电台分享 RoamDial](https://2libra.com/post/tools-sharing/wR02ynI)
   - [腾讯出了一个青少儿 ai 社区，可以做动画 绘本。质量挺高的！](https://2libra.com/post/promotion/GOhyLIz)
   - [要是这样就好了](https://2libra.com/post/forum-function/eO7Z0Xe)
+  - [输入框 bug](https://2libra.com/post/community/WO0uv3R)
   - [逆向了小丑牌为网页游戏](https://2libra.com/post/reverse-engineering/XrcTU87)
 - 90Sec - 专注于网络空间安全
   - [About the Discuz 账号审核 {Account audit} [75] category](https://forum.90sec.com/t/topic/2582)
@@ -55,6 +60,7 @@
   - [Nigerian gets 8 years for phishing tax firms and stealing identities](https://cybernews.com/security/nigerian-gets-8-years-for-phishing-tax-firms-and-stealing-identities/)
   - [SafePay ransomware gang hits at least 600 organizations worldwide](https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/)
   - [This AI aggregator leaked nearly 18 million files, including sex doll makers’ customer support chats](https://cybernews.com/security/302-ai-data-leak-exposed-millions-files/)
+  - [Users want the YouTube dislike button to be left in peace](https://cybernews.com/tech/youtube-dislike-button-backlash/)
 - daniel.haxx.se
   - [“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)
 - daringfireball.net
@@ -80,6 +86,7 @@
   - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
   - [Open Source Games](https://opensourcegames.dev/)
   - [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+  - [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
   - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
   - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
   - [What I learned from six months of being stupid on purpose](https://wvez.org/blog/learning-to-be-stupid/)
@@ -94,10 +101,16 @@
   - [Audit-Ready Isn’t Attack-Ready.](https://horizon3.ai/intelligence/blogs/audit-ready-isnt-attack-ready-financial-security/)
 - idiallo.com
   - [Can they write a function?](https://idiallo.com/blog/can-they-write-a-function)
+- infosecurity-magazine.com
+  - [Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns](https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: October 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026)
 - Microsoft Security Blog
   - [AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/)
+- MIT Technology Review
+  - [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/)
+- paper - Last paper
+  - [MAS-Guard：从单体智能体到多智能体 LLM 系统的统一防护栏](https://paper.seebug.org/3527)
 - PwnDefend
   - [How likely is mass exploitation of WP2SHELL?](https://www.pwndefend.com/2026/10/21/how-likely-is-mass-exploitation-of-wp2shell/)
 - rtl-sdr.com
@@ -132,6 +145,7 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=5FC44AA9-E2BB-5357-AFE0-055CD9407F71&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=645407DF-CCD6-5561-A0FE-6F340866CE8E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=7B123738-5F5E-54DD-9D8C-071328E9CEC0&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=8D370808-4240-5997-8DDA-1088E6825A99&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=8E854697-ED6A-5E9C-AFD9-43C0292B632A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=91D2FDFA-9ACB-52E9-AD86-7BE33A32F2BB&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=95FBC4CA-3528-5215-8D94-3633794191A1&utm_source=rss&utm_medium=rss)
@@ -145,6 +159,7 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E6104E8F-D14D-54D1-94C8-6B7F8450D7DC&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9696E40-7C20-5E0F-94AC-A6767BF09A7D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9A7B3F1-280C-50FD-9594-9F0D9F41457A&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=ED3B12DE-8D9E-57FF-B976-25232588E51D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=EDD1CBA1-690E-5839-8A51-537D5FAFDB85&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=F49060DB-2615-57F0-A567-DD7667B49C78&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=F7AF0B3B-C2B5-5956-AFE0-74209DA09185&utm_source=rss&utm_medium=rss)
@@ -182,6 +197,7 @@
   - [Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO](https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596)
   - [Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says](https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639)
 - The Decoder
+  - [Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent "Claude Duet"](https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/)
   - [Deepmind founder Hassabis shortens AGI timeline from five to two to three years](https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/)
   - [Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three](https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/)
   - [OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites](https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/)
@@ -267,8 +283,12 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网](https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？](https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统](https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [首发｜我们用了一周的 iPhone Duo，这里有你关心的一切](https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）通告](https://blog.nsfocus.net/php%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-109618-cve-2026-109619%ef%bc%89%e9%80%9a%e5%91%8a/)
+  - [绿盟科技入选“中国‘银狐’木马专项防护解决方案市场洞察”，把银狐当“攻击组织”来治理](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%85%a5%e9%80%89%e4%b8%ad%e5%9b%bd%e9%93%b6%e7%8b%90%e6%9c%a8%e9%a9%ac%e4%b8%93%e9%a1%b9%e9%98%b2%e6%8a%a4%e8%a7%a3%e5%86%b3%e6%96%b9/)
 - 量子位 QbitAI
   - [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
   - [特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先](https://www.qbitai.com/2026/10/504841.html)
