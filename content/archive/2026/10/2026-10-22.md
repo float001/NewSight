@@ -39,11 +39,14 @@
   - [333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email](https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/)
   - [UN says we're going to blow past 1.5º warming, offers a "now what?" answer](https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/)
   - [Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
+- Ben's Bites
+  - [Claude’s personal agent](https://www.bensbites.com/p/claudes-personal-agent)
 - blog.jim-nielsen.com
   - [No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/)
 - CoinTelegraph
   - [American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress](https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls](https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETF buyers are trend followers, not setters, DWF Labs says](https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs bag another $528M, taking 3-day haul past $1B](https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking](https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules](https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -68,6 +71,7 @@
   - [Hackers knock Richmond schools offline, deface teachers laptops with ransom threats](https://cybernews.com/news/richmond-schools-ransomware-attack-ransom-note/)
   - [Meta’s broken privacy promises cost it a whopping $25 billion in New Mexico](https://cybernews.com/news/meta-facebook-new-mexico-25-billions-penalty/)
   - [Nigerian gets 8 years for phishing tax firms and stealing identities](https://cybernews.com/security/nigerian-gets-8-years-for-phishing-tax-firms-and-stealing-identities/)
+  - [PHP was just the beginning: Node.js unveils dangerous flaws threatening millions of sites](https://cybernews.com/security/php-node-js-vulnerabilities-patch-exploit/)
   - [SafePay ransomware gang hits at least 600 organizations worldwide](https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/)
   - [Signal’s sneaky bug: mic and camera eavesdropping you post-call](https://cybernews.com/security/signal-bug-microphone-camera-eavesdropping/)
   - [Silicon Valley billionaires weigh exit strategies as California votes on new tax](https://cybernews.com/news/california-billionaire-tax/)
@@ -116,6 +120,8 @@
   - [Audit-Ready Isn’t Attack-Ready.](https://horizon3.ai/intelligence/blogs/audit-ready-isnt-attack-ready-financial-security/)
 - idiallo.com
   - [Can they write a function?](https://idiallo.com/blog/can-they-write-a-function)
+- IEEE Spectrum
+  - [Why Engineers Should Brave Capitol Hill](https://spectrum.ieee.org/engineers-lobbying-congress)
 - infosecurity-magazine.com
   - [Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns](https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/)
   - [Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants](https://www.infosecurity-magazine.com/news/microsoft-chinese-ai-connectwise/)
@@ -126,6 +132,7 @@
   - [AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/)
 - MIT Technology Review
   - [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/)
+  - [The Download: computing’s next leap and permafrost’s climate threat](https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/)
 - paper - Last paper
   - [MAS-Guard：从单体智能体到多智能体 LLM 系统的统一防护栏](https://paper.seebug.org/3527)
 - PwnDefend
@@ -144,6 +151,8 @@
 - simonwillison.net
   - [Panache — RTS Belle Époque pour mobile](https://simonwillison.net/2026/Oct/21/panache/)
   - [Today's PHP Security Release, and How We're Strengthening PHP Security](https://simonwillison.net/2026/Oct/21/php-security-release/)
+- Sonar Blog
+  - [How do you verify AI coding agent output from any tool, not just one?](https://www.sonarsource.com/blog/how-do-you-verify-ai-coding-agent-output/)
 - Sploitus.com Exploits RSS Feed
   - [antSword exploit](https://sploitus.com/exploit?id=2FED3701-7E59-55EA-A588-C975DEF1B684&utm_source=rss&utm_medium=rss)
   - [Exploit for Authentication Bypass by Spoofing in Ivanti Connect_Secure](https://sploitus.com/exploit?id=9F3DEB89-0084-59A9-BC72-1233DBCCDCEE&utm_source=rss&utm_medium=rss)
@@ -244,8 +253,16 @@
   - [OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months](https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/)
   - [OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites](https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/)
 - The Verge
+  - [1Password lets AI agents use your passwords without seeing them](https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in)
+  - [AI agents are ready to shop. Some retailers are wary.](https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse)
+  - [Birdbuddy’s budget feeder foiled my squirrels](https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on)
+  - [Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets](https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification)
+  - [Claude did not invent scorpion antivenom](https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom)
   - [Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox](https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield)
   - [Data centers could erase decades of air quality gains](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report)
+  - [Googlebooks just aren’t ready](https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review)
+  - [Insta360 launches a cheaper version of its wireless mics with color screens](https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen)
+  - [Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready](https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings)
   - [Star Wars Zero Company is a must-play strategy game at 20 percent off](https://www.theverge.com/gadgets/1015624/star-wars-zero-company-deal-sale)
   - [Xbox mandates a four-day return to office](https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days)
 - Vulners.com RSS Feed
@@ -377,5 +394,7 @@
 - 量子位 QbitAI
   - [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
   - [特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先](https://www.qbitai.com/2026/10/504841.html)
+- 阿小信的博客
+  - [微信公众号流量主广告费委托他人收款完整操作教程](https://blog.axiaoxin.com/post/wechat-ad-revenue-delegation/)
 - 阿里云应急响应
   - [PHP 远程代码执行漏洞通告（2026-109618 / CVE-2026-109619）](https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247486411&idx=1&sn=a82c5366760ca0049589f2f3c31e7148)
