@@ -1,14 +1,18 @@
 # 今日安全资讯（2026-10-22）
 
 - 2Libra
+  - [BioWare 宣布关闭了](https://2libra.com/post/game-discussion/doQaco5)
   - [《明日之丈》点评：10 分｜为了明天，燃尽自己。](https://2libra.com/post/animation-sharing/yz4Ituq)
   - [【西游职场 3】牛马取经：小时候想当孙悟空，长大后才懂白龙马 🐮🐴](https://2libra.com/post/workplace-stories/Zq_UV8k)
+  - [【💰·🔒】全勤 365 天](https://2libra.com/post/invite-code/UBrHW-1)
   - [【💰】請益，大家噴香水嗎?](https://2libra.com/post/recommendations/W4qhXVx)
   - [三哥整的活还没人发吗？私钥泄露，开启互联网大逃杀](https://2libra.com/post/network-security/6TWDW3w)
   - [些许补丁更新【扩展推荐优化、新增草稿清空、漏洞版本提升】](https://2libra.com/post/product-updates/y9o4Au4)
   - [全勤徽章也挺超模](https://2libra.com/post/forum-function/qPABnKI)
   - [复联 5 咋会曝光这么多视频，B 站老多报料片段视频了](https://2libra.com/post/movie-sharing/9KceHM6)
   - [我的头像有没有带光环](https://2libra.com/post/forum-function/2UUMHzo)
+  - [没想到赚金币最快的方式是某站的邀请码。](https://2libra.com/post/forum-function/clnPIqj)
+  - [腾讯出了一个青少儿 ai 社区，可以做动画 绘本。质量挺高的！](https://2libra.com/post/promotion/GOhyLIz)
   - [要是这样就好了](https://2libra.com/post/forum-function/eO7Z0Xe)
 - Ars Technica
   - [Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
@@ -25,6 +29,7 @@
   - [Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable](https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK financial watchdog opens consultations for DeFi guidance, crypto laws](https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [CVE-2026-91403: Oracle Java Emergency Fix for eMudhra CAs](https://www.cyberkendra.com/2026/10/cve-2026-91403-oracle-java-emudhra-certificates.html)
   - [Node.js Patches Brotli RCE Flaw, 9 Other Vulnerabilities](https://www.cyberkendra.com/2026/10/nodejs-october-2026-security-releases-cve-2026-111497.html)
 - CyberNews
   - [Hackers knock Richmond schools offline, deface teachers laptops with ransom threats](https://cybernews.com/news/richmond-schools-ransomware-attack-ransom-note/)
@@ -43,9 +48,11 @@
   - [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame)
   - [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware)
   - [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+  - [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/)
   - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
   - [Open Source Games](https://opensourcegames.dev/)
   - [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+  - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
   - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
   - [What I learned from six months of being stupid on purpose](https://wvez.org/blog/learning-to-be-stupid/)
 - HackerNoon
@@ -94,6 +101,7 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=B03929A6-50BF-50C1-9BD3-ABBFD9E304F3&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=C56EA4A9-4768-594E-9254-459BDFBF8FA9&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=CD3DE8A6-0F23-57EC-999F-914930456CDC&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=D978A604-7742-520C-9956-DEC6C5E42851&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=DFB19433-C318-57FB-ADD2-A1CC808F6EB0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9696E40-7C20-5E0F-94AC-A6767BF09A7D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9A7B3F1-280C-50FD-9594-9F0D9F41457A&utm_source=rss&utm_medium=rss)
@@ -195,12 +203,14 @@
   - [Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds](https://www.wired.com/story/bose-acquires-skullcandy-october-2026/)
   - [Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget](https://www.wired.com/story/eufy-security-camera-deals-october-2026/)
   - [GM Wants Your Car to Do Your Chores](https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/)
+  - [Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched](https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/)
   - [Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure](https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/)
   - [Ruggable’s Washable Rugs Are Worth It and Now on Sale (2026)](https://www.wired.com/story/ruggable-october-hosting-sale-2026/)
   - [This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good](https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/)
   - [Trump Isn’t Even Good at TV Anymore](https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/)
   - [‘It's the President's Fault’: The White House Blame Game Starts Early Ahead of the Midterms](https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/)
 - 不安全
+  - [faraday v5.25.1](https://buaq.net/go-449984.html)
   - [openhands-disclosure](https://buaq.net/go-449970.html)
   - [Strata 0.2.2 发布：新增多显卡自由分工，Gyro 推理提速最高 30%](https://buaq.net/go-449983.html)
 - 代码审计星球
