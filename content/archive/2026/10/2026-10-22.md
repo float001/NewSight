@@ -36,6 +36,8 @@
 - 90Sec - 专注于网络空间安全
   - [About the Discuz 账号审核 {Account audit} [75] category](https://forum.90sec.com/t/topic/2582)
 - Ars Technica
+  - [333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email](https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/)
+  - [UN says we're going to blow past 1.5º warming, offers a "now what?" answer](https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/)
   - [Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 - blog.jim-nielsen.com
   - [No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/)
@@ -68,6 +70,7 @@
   - [Nigerian gets 8 years for phishing tax firms and stealing identities](https://cybernews.com/security/nigerian-gets-8-years-for-phishing-tax-firms-and-stealing-identities/)
   - [SafePay ransomware gang hits at least 600 organizations worldwide](https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/)
   - [Signal’s sneaky bug: mic and camera eavesdropping you post-call](https://cybernews.com/security/signal-bug-microphone-camera-eavesdropping/)
+  - [Silicon Valley billionaires weigh exit strategies as California votes on new tax](https://cybernews.com/news/california-billionaire-tax/)
   - [SpaceX investor “disgusted” with Elon Musk over Starlink limitations in Ukraine](https://cybernews.com/tech/starlink-ross-gerber/)
   - [This AI aggregator leaked nearly 18 million files, including sex doll makers’ customer support chats](https://cybernews.com/security/302-ai-data-leak-exposed-millions-files/)
   - [Users want the YouTube dislike button to be left in peace](https://cybernews.com/tech/youtube-dislike-button-backlash/)
@@ -96,6 +99,7 @@
   - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
   - [Open Source Games](https://opensourcegames.dev/)
   - [Plex laid off the whole player team](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+  - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
   - [Show HN: The fastest browser for AI agents to run browser automation](https://ego-lite.apposters.com)
   - [The recently proposed O(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
   - [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
@@ -133,6 +137,8 @@
   - [How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia](https://securelist.com/uefi-bootkit-blackx/121539/)
 - Shell is Only the Beginning
   - [Enabling Passkeys Is Not the Same as Enforcing Them](https://www.darkoperator.com/blog/2026/10/22/enabling-passkeys-is-not-the-same-as-enforcing-them)
+- shkspr.mobi
+  - [Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆](https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/)
 - simone.org
   - [Going Somewhere](https://simone.org/somewhere/)
 - simonwillison.net
@@ -190,11 +196,14 @@
   - [Exploit for Interpretation Conflict in Wordpress](https://sploitus.com/exploit?id=BC5B2E0B-4D6E-5065-9F25-303B44690F8E&utm_source=rss&utm_medium=rss)
   - [penligent-recreation exploit](https://sploitus.com/exploit?id=8DB43C94-2E55-5BF1-B2AD-53D091015EA6&utm_source=rss&utm_medium=rss)
   - [php-cve-2026-fix exploit](https://sploitus.com/exploit?id=63C58C1E-ED4E-5223-BC8A-BE10179F45E4&utm_source=rss&utm_medium=rss)
+  - [PHP2Shell exploit](https://sploitus.com/exploit?id=7D4C1985-B827-5786-8195-8B22B84EF33E&utm_source=rss&utm_medium=rss)
   - [php2shell-cve-2026-109618-cve-2026-109619 exploit](https://sploitus.com/exploit?id=1C0FD057-CD1D-513A-8F88-559914195741&utm_source=rss&utm_medium=rss)
   - [php2shell-detector exploit](https://sploitus.com/exploit?id=186E384C-78C0-592E-81CD-43A0126F9DA7&utm_source=rss&utm_medium=rss)
+  - [php2shell-poc exploit](https://sploitus.com/exploit?id=F5DDC07F-279B-531D-AD28-47C1A5B80B95&utm_source=rss&utm_medium=rss)
   - [php2shell-remediation-guide exploit](https://sploitus.com/exploit?id=F512A831-C6B6-5E35-9BA4-F86B28EF1206&utm_source=rss&utm_medium=rss)
   - [php2shell-scanner exploit](https://sploitus.com/exploit?id=40D1F30D-46E3-5228-A0A8-22B763C95D00&utm_source=rss&utm_medium=rss)
   - [phpatchscan exploit](https://sploitus.com/exploit?id=3AFE9539-A245-5132-8101-B72E25D5A4FA&utm_source=rss&utm_medium=rss)
+  - [TL-ICScan exploit](https://sploitus.com/exploit?id=AE01AA43-AF69-55CC-AEF7-00D78E8CFE5C&utm_source=rss&utm_medium=rss)
   - [Webscanner exploit](https://sploitus.com/exploit?id=F6BC7A2B-E708-5F19-BF2B-F48EBDA47301&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)
@@ -221,11 +230,14 @@
   - [American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule](https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629)
   - [Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak](https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904)
   - [Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO](https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596)
+  - [Dune launches onchain trading data feeds as tokenized markets expand](https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889)
   - [Layer 2 Scaling Solutions](https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685)
   - [Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says](https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639)
+  - [SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users](https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916)
   - [South Korea’s crypto bill nears completion while tax debate intensifies: reports](https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880)
   - [Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1](https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885)
 - The Decoder
+  - [An AI agent in "Skynet mode" hijacks unprotected language models to launch self-sustaining cyberattacks](https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/)
   - [Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent "Claude Duet"](https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/)
   - [Deepmind founder Hassabis shortens AGI timeline from five to two to three years](https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/)
   - [Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three](https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/)
@@ -321,7 +333,9 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/E33C9670-348A-5F73-A269-054BD64182F9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HarfBuzz 8.0.0 through 14.6.0 Out-of-Bounds Write via WebAssembly font_glyph_to_string](https://vulners.com/mscve/MS:CVE-2026-113679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HarfBuzz 8.0.0 through 14.6.0 WebAssembly Shaper NULL Pointer Dereference DoS](https://vulners.com/mscve/MS:CVE-2026-113680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation](https://vulners.com/thn/THN:A1B7239BFEEF7B9D6108F1A5B09E7613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM SPSS Analytic Server is affected by a Jackson-core denial-of-service vulnerability that may cause excessive memory consumption through crafted JSON input](https://vulners.com/ibm/D1FBA5F2205D2159E8D967D397452FB77837D5425804FCB872A4CEC5ABF79E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [TL-ICScan](https://vulners.com/gitee/AE01AA43-AF69-55CC-AEF7-00D78E8CFE5C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [util-linux LIBMOUNT_FORCE_MOUNT2 allows nosuid and noexec bypass](https://vulners.com/mscve/MS:CVE-2026-53614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webscanner](https://vulners.com/gitee/F6BC7A2B-E708-5F19-BF2B-F48EBDA47301?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -345,10 +359,12 @@
 - 不安全
   - [faraday v5.25.1](https://buaq.net/go-449984.html)
   - [openhands-disclosure](https://buaq.net/go-449970.html)
+  - [php2shell-checker](https://buaq.net/go-450066.html)
   - [Strata 0.2.2 发布：新增多显卡自由分工，Gyro 推理提速最高 30%](https://buaq.net/go-449983.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了](https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网](https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？](https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统](https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=)
