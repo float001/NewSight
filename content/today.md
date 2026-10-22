@@ -13,6 +13,7 @@
 - CoinTelegraph
   - [Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower](https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals](https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Dune launches real-time data feeds covering 200 onchain trading venues](https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -44,6 +45,8 @@
   - [PHP2Shell Exposure Depends on More Than Whether You Use PHP](https://horizon3.ai/attack-research/attack-blogs/php2shell-exposure-exploitability/)
 - idiallo.com
   - [Productivity](https://idiallo.com/byte-size/productivity-video)
+- MIT Technology Review
+  - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)
 - NowSecure
   - [PHP2Shell: AI Speeds Up Exploits. Patch the Backends Behind Your Mobile Apps.](https://www.nowsecure.com/blog/2026/10/22/php2shell-ai-speeds-up-exploits-patch-the-backends-behind-your-mobile-apps/)
   - [Security Through Binary Patching](https://www.nowsecure.com/blog/2026/10/22/security-through-binary-patching/)
@@ -75,12 +78,15 @@
   - [Major US banks are locking out AI agents that log in with customer credentials](https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/)
   - [Only 13 percent of companies see real returns from AI, Gartner survey finds](https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/)
 - The Verge
+  - [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
   - [Delta can turn the iPhone Duo into your favorite folding handheld](https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update)
+  - [Fall 2026 earnings watch](https://www.theverge.com/tech/1016506/fall-2026-earnings-watch)
   - [Google tells Android users to update as parts of Canada adopt permanent daylight saving time](https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada)
   - [In Meta’s version of the future, I’ll have my Muse call your Muse](https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network)
   - [Mass Effect 5 trailer leaks following BioWare shutdown](https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea)
   - [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
   - [Meta&#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
+  - [PC shipments dropped over 20 percent in Q3 due to RAM price hikes](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram)
   - [Refurbished PS5 consoles include second controller for an extra $18](https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle)
   - [Republican politicians have embraced anti-Indian racism — and it’s costing them votes](https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas)
   - [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari)
@@ -151,11 +157,19 @@
   - [CVE-2026-75508](https://vulners.com/nvd/NVD:CVE-2026-75508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97631](https://vulners.com/nvd/NVD:CVE-2026-97631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-107079](https://vulners.com/githubexploit/14A8A43A-4E2F-520B-A1D5-3B6C9C0DE46B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/0E04E557-5466-525A-B63C-A160294EEC3A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/D49E0B0D-04A5-503C-8D30-2B00CCA53513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ExploitForge](https://vulners.com/githubexploit/16F71F07-4A0D-55C4-B334-A35B432B4056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nginx 开源免费 WAF 防火墙宝塔插件](https://vulners.com/gitee/EA7ABE42-1A36-54A2-A0F7-9B1142738FE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php2shell](https://vulners.com/githubexploit/3B8FCC8B-DA34-57A0-B07D-0F6EED47D78C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php2shell-Lab](https://vulners.com/gitee/259EF5BF-E337-5215-9F56-82F12C5B6699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [reproduction01](https://vulners.com/gitee/91D49513-6ED1-57FE-A11B-F05A77E02826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: A Security Vulnerability in Apache MINA Core affects IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-94301)](https://vulners.com/ibm/2F287AEB739CBCE6262DB487F9626B29993197EB526E2C88FD8A6E097E450AF6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Multiple Security Vulnerabilities in Apache CXF affect IBM Sterling B2B Integrator and IBM Sterling File Gateway](https://vulners.com/ibm/25B26267E4EDE09354F51E4F082FDF810230D6B087B96FB1191EAA5D3B8B6FB1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Multiple Security Vulnerabilities in Apache MINA SSHD affect IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-56624, CVE-2026-56452)](https://vulners.com/ibm/2E704A67A976B5291C430EC05B40AA3D37C160A627293E1A247855E246C48C4E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Multiple Security Vulnerabilities in HttpClient affect IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-64607, CVE-2026-71290)](https://vulners.com/ibm/744C72989B1BF980D8DEB2C1EEAEB77C73583D4B3906DAC5B867690BD64DA895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Multiple Security Vulnerabilities in Jackson affect IBM Sterling B2B Integrator and IBM Sterling File Gateway](https://vulners.com/ibm/928D702BF6DD2ECF002392257BE4791DE2B39820FA4B31A446B80DF6B3C02CD7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Multiple Security Vulnerabilities in Netty affect IBM Sterling B2B Integrator and IBM Sterling File Gateway](https://vulners.com/ibm/EFC12E94E32D9CAECE7C92B6F5D62F4EF5471EBF1B5970AB367749B24316D954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Inside the Exclusive Nathan Fielder Interview](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/)
   - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
