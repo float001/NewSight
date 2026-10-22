@@ -15,11 +15,17 @@
   - [大家会按照默认自己一两年后失业来规划理财和生活吗 ？](https://2libra.com/post/workplace-stories/HKvAnPr)
   - [想知道大家请假用什么理由](https://2libra.com/post/touch-fish/Gw6vugn)
   - [我的头像有没有带光环](https://2libra.com/post/forum-function/2UUMHzo)
+  - [每日工资进度查看器（油猴脚本](https://2libra.com/post/tools-sharing/uyydAVb)
   - [没想到赚金币最快的方式是某站的邀请码。](https://2libra.com/post/forum-function/clnPIqj)
+  - [看到有人逆向的网页版小丑牌](https://2libra.com/post/reverse-engineering/CZm9tCS)
   - [短剧太精彩了，一人推荐一部你看过的优秀短剧。](https://2libra.com/post/movie-sharing/RUA4eQQ)
+  - [缴得不积极，因为发得有问题。有能力的退休前已经体现在工资上了，退休后人人平等](https://2libra.com/post/social-observation/-qByM8T)
+  - [网页电台分享 RoamDial](https://2libra.com/post/tools-sharing/wR02ynI)
   - [腾讯出了一个青少儿 ai 社区，可以做动画 绘本。质量挺高的！](https://2libra.com/post/promotion/GOhyLIz)
   - [要是这样就好了](https://2libra.com/post/forum-function/eO7Z0Xe)
   - [逆向了小丑牌为网页游戏](https://2libra.com/post/reverse-engineering/XrcTU87)
+- 90Sec - 专注于网络空间安全
+  - [About the Discuz 账号审核 {Account audit} [75] category](https://forum.90sec.com/t/topic/2582)
 - Ars Technica
   - [Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/)
 - blog.jim-nielsen.com
@@ -39,7 +45,9 @@
   - [CVE-2026-91403: Oracle Java Emergency Fix for eMudhra CAs](https://www.cyberkendra.com/2026/10/cve-2026-91403-oracle-java-emudhra-certificates.html)
   - [Node.js Patches Brotli RCE Flaw, 9 Other Vulnerabilities](https://www.cyberkendra.com/2026/10/nodejs-october-2026-security-releases-cve-2026-111497.html)
 - CyberNews
+  - [EU launches probe into Booking.com over fake listings and phishing scams](https://cybernews.com/eu-launches-probe-into-booking-com/)
   - [Hackers knock Richmond schools offline, deface teachers laptops with ransom threats](https://cybernews.com/news/richmond-schools-ransomware-attack-ransom-note/)
+  - [SafePay ransomware gang hits at least 600 organizations worldwide](https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/)
 - daniel.haxx.se
   - [“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)
 - daringfireball.net
@@ -49,6 +57,8 @@
   - [Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security](https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security)
   - [TiDB Breach Exposes Flawed Cloud Security Assumptions](https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security)
   - [UAE Transitions 50% of Gov't Services to Agentic AI](https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai)
+- defend.network
+  - [Critical RCE exploits: PHP, GitLab, LiteLLM under active attack](https://defend.network/briefings/php-gitlab-litellm-critical-rce-exploits-2026-10-22.html)
 - GuidePoint Security
   - [Keep Calm, and Patch PHP2Shell](https://www.guidepointsecurity.com/blog/how-to-patch-php2shell/)
 - Hacker News Frontpage
@@ -106,10 +116,12 @@
   - [Exploit for CVE-2026-109618](https://sploitus.com/exploit?id=FCAAC39D-5D2B-54BD-8A43-75E5E0A20263&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-110264](https://sploitus.com/exploit?id=8CCEC99A-03D9-5D89-A0D2-CAD1C226E86D&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-111497](https://sploitus.com/exploit?id=31686B41-5037-5341-9CDE-83A505E663AB&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-114509](https://sploitus.com/exploit?id=56B2A357-DC57-5411-9397-46C27E16A352&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-86478](https://sploitus.com/exploit?id=99C6972E-C2A1-5ED0-94AF-A163B9AB855B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-97859](https://sploitus.com/exploit?id=5C5210DA-B324-5457-ACFF-DDF2181D5414&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=4DE79199-A245-53BB-8B85-03883F5A086A&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=5E237A26-D37A-54C4-8B35-B7D0EFC60344&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=5FC44AA9-E2BB-5357-AFE0-055CD9407F71&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=645407DF-CCD6-5561-A0FE-6F340866CE8E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=7B123738-5F5E-54DD-9D8C-071328E9CEC0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=8E854697-ED6A-5E9C-AFD9-43C0292B632A&utm_source=rss&utm_medium=rss)
@@ -121,6 +133,7 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=D978A604-7742-520C-9956-DEC6C5E42851&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=DFB19433-C318-57FB-ADD2-A1CC808F6EB0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E33C9670-348A-5F73-A269-054BD64182F9&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E4A4177F-C905-5823-91B6-9E3ABE2E5E7C&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E6104E8F-D14D-54D1-94C8-6B7F8450D7DC&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9696E40-7C20-5E0F-94AC-A6767BF09A7D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E9A7B3F1-280C-50FD-9594-9F0D9F41457A&utm_source=rss&utm_medium=rss)
@@ -131,7 +144,9 @@
   - [Exploit for Interpretation Conflict in Wordpress](https://sploitus.com/exploit?id=BC5B2E0B-4D6E-5065-9F25-303B44690F8E&utm_source=rss&utm_medium=rss)
   - [penligent-recreation exploit](https://sploitus.com/exploit?id=8DB43C94-2E55-5BF1-B2AD-53D091015EA6&utm_source=rss&utm_medium=rss)
   - [php2shell-cve-2026-109618-cve-2026-109619 exploit](https://sploitus.com/exploit?id=1C0FD057-CD1D-513A-8F88-559914195741&utm_source=rss&utm_medium=rss)
+  - [php2shell-detector exploit](https://sploitus.com/exploit?id=186E384C-78C0-592E-81CD-43A0126F9DA7&utm_source=rss&utm_medium=rss)
   - [php2shell-scanner exploit](https://sploitus.com/exploit?id=40D1F30D-46E3-5228-A0A8-22B763C95D00&utm_source=rss&utm_medium=rss)
+  - [phpatchscan exploit](https://sploitus.com/exploit?id=3AFE9539-A245-5132-8101-B72E25D5A4FA&utm_source=rss&utm_medium=rss)
   - [Webscanner exploit](https://sploitus.com/exploit?id=F6BC7A2B-E708-5F19-BF2B-F48EBDA47301&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Airbnb limits chores for guests, sparking backlash from hosts](https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/)
