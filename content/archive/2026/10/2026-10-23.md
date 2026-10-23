@@ -48,6 +48,7 @@
   - [VU#763488: Memory corruption vulnerabilities in PHP](https://kb.cert.org/vuls/id/763488)
 - CoinTelegraph
   - [Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower](https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness](https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin Core changes security policy as AI makes bugs easier to find](https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs bleed $635M as October slides back into the red](https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -61,6 +62,7 @@
   - [Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Malaysia, Thailand join Singapore’s cross-border stablecoin push](https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express](https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [New York AG seeks $1.37B from NovaTech founders over Ponzi scheme](https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Pentagon bans US forces from using military info to bet in prediction markets](https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Underdog taps zerohash to bring crypto deposits to prediction markets](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Was crypto self-custody ever designed for beginners?](https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -127,6 +129,7 @@
   - [Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise](https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/)
 - MIT Technology Review
   - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)
+  - [The Download: testing six tech promises and biotech’s blind spots](https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/)
 - NowSecure
   - [PHP2Shell: AI Speeds Up Exploits. Patch the Backends Behind Your Mobile Apps.](https://www.nowsecure.com/blog/2026/10/22/php2shell-ai-speeds-up-exploits-patch-the-backends-behind-your-mobile-apps/)
   - [Security Through Binary Patching](https://www.nowsecure.com/blog/2026/10/22/security-through-binary-patching/)
@@ -149,6 +152,7 @@
   - [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/)
   - [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=A9FCDC3F-2FCE-5A83-B844-2D1FCD72F04F&utm_source=rss&utm_medium=rss)
   - [Nginx 开源免费 WAF 防火墙宝塔插件 exploit](https://sploitus.com/exploit?id=EA7ABE42-1A36-54A2-A0F7-9B1142738FE2&utm_source=rss&utm_medium=rss)
   - [PHP exploit](https://sploitus.com/exploit?id=D3F0E0C5-0D7C-5796-9053-95E6E7D27543&utm_source=rss&utm_medium=rss)
   - [php2shell-Lab exploit](https://sploitus.com/exploit?id=259EF5BF-E337-5215-9F56-82F12C5B6699&utm_source=rss&utm_medium=rss)
@@ -178,6 +182,8 @@
   - [HSBC rolls out its first HKD stablecoin RedCoin to retail users](https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018)
   - [JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain](https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473)
   - [New York seeks over $1.3 billion from NovaTech founders after couple fled the US](https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453)
+  - [Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits](https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652)
+  - [Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard](https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492)
   - [South Korea to amend forex law to regulate stablecoins as payment instruments: report](https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028)
 - The Decoder
   - [Anthropic's Claude now writes code and proves it safe automatically](https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/)
@@ -187,6 +193,7 @@
   - [Only 13 percent of companies see real returns from AI, Gartner survey finds](https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/)
   - [OpenAI lowers valuation target, raises up to $30 billion](https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/)
 - The Verge
+  - [Brick’s new app blocker is designed for bedtime doomscrolling](https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch)
   - [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
   - [Delta can turn the iPhone Duo into your favorite folding handheld](https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update)
   - [Fall 2026 earnings watch](https://www.theverge.com/tech/1016506/fall-2026-earnings-watch)
@@ -195,6 +202,7 @@
   - [Mass Effect 5 trailer leaks following BioWare shutdown](https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea)
   - [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
   - [Meta&#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
+  - [Netflix can’t fire its way out of this downward spiral](https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad)
   - [No, the iPhone Duo isn’t a small phone](https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini)
   - [PC shipments dropped over 20 percent in Q3 due to RAM price hikes](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram)
   - [Refurbished PS5 consoles include second controller for an extra $18](https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle)
@@ -203,6 +211,7 @@
   - [Teenage Engineering launched an instrument amp with a ton of built-in effects](https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp)
   - [Tesla driver using Full Self-Driving struck and killed a man crossing I-80](https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california)
   - [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole)
+  - [TV OS frustrations are leading people to vibe-code](https://www.theverge.com/tech/1016116/vibe-coding-tv-os)
 - Vulners.com RSS Feed
   - [abaddon](https://vulners.com/kitploit/KITPLOIT:2496053411884109737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [acCOMplice](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NCCGROUP-ACCOMPLICE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
