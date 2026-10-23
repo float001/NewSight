@@ -2,14 +2,24 @@
 
 - 2Libra
   - [【💰】节日快乐](https://2libra.com/post/forum-function/oHQPjK0)
+- Ars Technica
+  - [Crows can evaluate visual info twice as fast as mammals](https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/)
+  - [Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)
 - CoinTelegraph
   - [SEC flags tokenization as high-risk area in 2027 market examinations](https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US senator probes Tether after reported deal with ex-Trump crypto adviser](https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review)
+- darkreading
+  - [AI Tools Are Generating Massive Attacks for Little Cost](https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost)
+- Fidelis Security
+  - [EDR Vendor Evaluation Guide: Comparing Detection, Prevention, and Response Capabilities](https://fidelissecurity.com/threatgeek/endpoint-security/edr-vendor-evaluation-guide/)
 - filfre.net
   - [An Ion Storm!, Part 2: The Return to Ground Level](https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/)
 - Hacker News Frontpage
+  - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
   - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
+  - [Time Nuts (2005)](http://leapsecond.com/time-nuts.htm)
   - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
   - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 - OpenAI Blog
@@ -20,9 +30,64 @@
   - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
 - The Block
   - [Initia halts network after security incident as attacker reportedly mints tokens](https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755)
+  - [Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser](https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785)
+- The Decoder
+  - [Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1](https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/)
+  - [Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring](https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/)
 - The Verge
+  - [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
+  - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
   - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
   - [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
+- Vulners.com RSS Feed
+  - [action-octoscan](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SYNACKTIV-OCTOSCAN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [adups-get-super-serial](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-REDNAGA-ADUPS-GET-SUPER-SERIAL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [AppArmor.d](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITLAB-RODDHJAV-APPARMOR.D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [aws-doctor](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ELC0MPA-AWS-DOCTOR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [bcm4360-wpa3](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-UNSIGNEDCHAD-BCM4360-WPA3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [C2-Blockchain](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GEEK-REPO-C2-BLOCKCHAIN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ci-supplychain-guard](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-OTSMANE-AHMED-CI-SUPPLYCHAIN-GUARD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [coalmine](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JOHNEARLE-COALMINE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cobaltstrike-sleepmask-yara](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CODEXTF2-COBALTSTRIKE-SLEEPMASK-YARA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2012-1675](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BONGBONGCO-CVE-2012-1675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2012-4792](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-WIZARDVAN-CVE-2012-4792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2014-6271](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DILITH006-CVE-2014-6271?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2018-8495-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-WHEREISR0DA-CVE-2018-8495-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-11395](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAFAELBICAS-CVE-2019-11395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-18935-memShell](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DUST-LIFE-CVE-2019-18935-MEMSHELL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-20361-EXPLOIT](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-JERRYLEWIS9-CVE-2019-20361-EXPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2019-8978](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SECKATIE-CVE-2019-8978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2020-1472](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GRUPOORUSS-CVE-2020-1472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-43617](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KOMBAT1-CVE-2021-43617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-43798](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TICOFOOKFOOK-CVE-2021-43798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2021-44228-PoC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SUNNYVALE-IT-CVE-2021-44228-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-0847](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-XNDPXS-CVE-2022-0847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-0847-Linux](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-EDSONJT81-CVE-2022-0847-LINUX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-22954_VMware_PoC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DRORDVASH-CVE-2022-22954_VMWARE_POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-30206](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-MALWAREMAN007-CVE-2022-30206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2022-39841](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-STEALTHCOPTER-CVE-2022-39841?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-0311](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CALLIGRAF0-CVE-2024-0311?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-4040](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RBIH-BOULANOUAR-CVE-2024-4040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-48384-POC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FISHYYH-CVE-2025-48384-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-54957](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ALPHABUGX-CVE-2025-54957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ephemera](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-QARAIT-EPHEMERA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploits + Shellcode + GHDB](https://vulners.com/kitploit/KITPLOIT:8855639068429079560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [fudshell](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-MACHINE1337-FUDSHELL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [gradient-untangler](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITLAB-WATTOCYBER-GRADIENT-UNTANGLER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [jarm](https://vulners.com/kitploit/KITPLOIT:6116440476189021046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [mini-diarium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FJREVOREDO-MINI-DIARIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [MS17-010](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-WORAWIT-MS17-010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [next-cve-2025-66478](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ABTONC-NEXT-CVE-2025-66478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [notRDP](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAGOWDA-NOTRDP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OFBiz-Attack](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-D0G3-8BIT-OFBIZ-ATTACK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [pkgxray](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ADAMSJACK711-UX-PKGXRAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [PX4-Autopilot](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PX4-PX4-AUTOPILOT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SonicWall](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AL1EX-SONICWALL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Striker](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-S0MD3V-STRIKER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Threat-Remediation-Scripts](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-XEPHORA-THREAT-REMEDIATION-SCRIPTS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ThrottleStop](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DEMOO1337-THROTTLESTOP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [VectorKernel](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAEM0NC0RE-VECTORKERNEL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [vulns](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-0XDEA-ADVISORIES?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/)
 - Wired
