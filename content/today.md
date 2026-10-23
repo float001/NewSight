@@ -6,8 +6,11 @@
   - [Crows can evaluate visual info twice as fast as mammals](https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/)
   - [Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)
 - CoinTelegraph
+  - [Initia halts blockchain after exploit reportedly drains over $2.6M](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC flags tokenization as high-risk area in 2027 market examinations](https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US senator probes Tether after reported deal with ex-Trump crypto adviser](https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Initia halts blockchain after exploit reportedly drains over $2.6M](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review)
 - darkreading
@@ -16,6 +19,8 @@
   - [EDR Vendor Evaluation Guide: Comparing Detection, Prevention, and Response Capabilities](https://fidelissecurity.com/threatgeek/endpoint-security/edr-vendor-evaluation-guide/)
 - filfre.net
   - [An Ion Storm!, Part 2: The Return to Ground Level](https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/)
+- gilesthomas.com
+  - [RMSNorm](https://www.gilesthomas.com/2026/10/rmsnorm)
 - Hacker News Frontpage
   - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
   - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
@@ -24,20 +29,25 @@
   - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 - OpenAI Blog
   - [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+- Sploitus.com Exploits RSS Feed
+  - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
   - [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
   - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
 - The Block
   - [Initia halts network after security incident as attacker reportedly mints tokens](https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755)
+  - [Netanyahu seeking blockchain plan to prepare for possible sanctions](https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792)
   - [Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser](https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785)
 - The Decoder
   - [Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1](https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/)
+  - [Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5](https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/)
   - [Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring](https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/)
 - The Verge
   - [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
   - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
   - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+  - [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
   - [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
 - Vulners.com RSS Feed
   - [action-octoscan](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SYNACKTIV-OCTOSCAN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -77,6 +87,7 @@
   - [jarm](https://vulners.com/kitploit/KITPLOIT:6116440476189021046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mini-diarium](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FJREVOREDO-MINI-DIARIUM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [MS17-010](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-WORAWIT-MS17-010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [network-security-lab](https://vulners.com/gitee/3196EC81-1895-5A76-9912-B5C60F2E0FB4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [next-cve-2025-66478](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ABTONC-NEXT-CVE-2025-66478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [notRDP](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAGOWDA-NOTRDP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OFBiz-Attack](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-D0G3-8BIT-OFBIZ-ATTACK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -92,5 +103,6 @@
   - [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/)
 - Wired
   - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)
+  - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
