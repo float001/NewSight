@@ -2,11 +2,14 @@
 
 - 2Libra
   - [【💰】节日快乐](https://2libra.com/post/forum-function/oHQPjK0)
+- anildash.com
+  - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
 - Ars Technica
   - [Crows can evaluate visual info twice as fast as mammals](https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/)
   - [Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)
 - CoinTelegraph
   - [Initia halts blockchain after exploit reportedly drains over $2.6M](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [IRS plans lower tax disclosure penalties, including for crypto: Forbes](https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC flags tokenization as high-risk area in 2027 market examinations](https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US senator probes Tether after reported deal with ex-Trump crypto adviser](https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -29,6 +32,8 @@
   - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 - OpenAI Blog
   - [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+- pluralistic.net
+  - [Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/)
 - simonwillison.net
   - [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
 - Sploitus.com Exploits RSS Feed
@@ -40,6 +45,7 @@
   - [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
   - [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
   - [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
+  - [VCs, Superhuman Mail founder share red flags about product market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/)
   - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
 - The Block
   - [Initia halts network after security incident as attacker reportedly mints tokens](https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755)
