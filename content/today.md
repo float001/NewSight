@@ -53,6 +53,7 @@
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bybit secures first full Dubai license for spot trading services](https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals](https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash](https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Dune launches real-time data feeds covering 200 onchain trading venues](https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum delays Glamsterdam Hoodi testnet launch over security risks](https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -97,6 +98,7 @@
   - [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251)
   - [Arc Is Sunsetting](https://arc.net/)
   - [Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)
+  - [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)
   - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
   - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
   - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
@@ -114,6 +116,7 @@
   - [Productivity](https://idiallo.com/byte-size/productivity-video)
 - infosecurity-magazine.com
   - [Attacks on Tech Firms Behind Most Third-Party Data Breach Victims](https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/)
+  - [Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise](https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/)
 - MIT Technology Review
   - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)
 - NowSecure
@@ -163,6 +166,7 @@
   - [Chainlink partners with LG CNS to drive Korean won stablecoin expansion](https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993)
   - [HSBC rolls out its first HKD stablecoin RedCoin to retail users](https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018)
   - [JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain](https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473)
+  - [New York seeks over $1.3 billion from NovaTech founders after couple fled the US](https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453)
   - [South Korea to amend forex law to regulate stablecoins as payment instruments: report](https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028)
 - The Decoder
   - [Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine](https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/)
@@ -390,12 +394,16 @@
   - [Stop Reviewing Your AI Agents. Start Governing Them.](https://lab.wallarm.com/stop-reviewing-your-ai-agents-start-governing-them/)
 - Wired
   - [8 Things to Know About the iPhone Duo](https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/)
+  - [A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married](https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/)
   - [Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap](https://www.wired.com/story/dyson-week-deals-oct-2026/)
   - [Inside the Exclusive Nathan Fielder Interview](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/)
   - [Palmer Luckey Made a Genetically Modified Military Dog Startup](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/)
+  - [Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It](https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/)
+  - [TDM Neo Hybrid Headphones Review: Two-in-One Woes](https://www.wired.com/review/tdm-neo-hybrid-headphones/)
   - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
   - [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/)
   - [The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars](https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/)
+  - [Turtle Beach Vulcan II XP Review: Clicky Compromise](https://www.wired.com/review/turtle-beach-vulcan-xp-ii/)
   - [What to Know About Shamonda Virus Following the First Reported Human Infection](https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/)
 - 不安全
   - [Deep-Live-Cam v2.8](https://buaq.net/go-450253.html)
