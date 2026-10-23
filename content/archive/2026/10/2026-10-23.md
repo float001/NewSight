@@ -90,12 +90,14 @@
   - [Musk's $1B stake at Skydance raises questions for CNN](https://cybernews.com/news/musk-cnn-skydance/)
   - [Nokia partners with Ukraine to build a Starlink alternative as Trump asks Musk to ditch limits](https://cybernews.com/tech/nokia-ukraine-starlink/)
   - [Orange denies PHP link following outage and doubles data for affected customers](https://cybernews.com/security/orange-outage-compensation-php-security-warning/)
+  - [PHP’s nightmare is far from over: new unpatched vulnerability found](https://cybernews.com/security/php2shell-attacks-php-new-vulnerabilities-found/)
   - [Quest Diagnostics confirms breach, patient data now at risk](https://cybernews.com/news/quest-diagnostics-patient-data-breach/)
   - [Russia seeks to sow chaos ahead of US midterms, lawmakers warn](https://cybernews.com/russia-seeks-to-sow-chaos-ahead-of-us-midterms/)
   - [Samsung One UI 9 update leaves some phones stuck in setup mode or with a drained battery](https://cybernews.com/tech/samsung-one-ui-9-update-bugs/)
   - [Scammer admits to fraud scheme targeting US military personnel with stolen PII](https://cybernews.com/privacy/fraud-scheme-targeting-us-military/)
 - daringfireball.net
   - [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/)
+  - [Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’](https://www.youtube.com/watch?v=bxDTWuL9GxY)
   - [Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo)
 - darkreading
   - [AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack](https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack)
@@ -142,6 +144,8 @@
   - [Security Through Binary Patching](https://www.nowsecure.com/blog/2026/10/22/security-through-binary-patching/)
 - NVIDIA AI Blog
   - [Kazakhstan Expands Compute for Its AI Future](https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/)
+- NVISO Labs
+  - [PHP2Shell Operational Guidance](https://blog.nviso.eu/2026/10/23/php2shell-operational-guidance/)
 - Pen Test Partners
   - [PHP2Shell and what the AI headlines are missing](https://www.pentestpartners.com/security-blog/php2shell-and-what-the-ai-headlines-are-missing/)
 - PortSwigger Blog
@@ -174,6 +178,7 @@
   - [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/)
   - [Elon Musk made a $1 billion investment in Skydance, report says](https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/)
   - [Former OpenAI science lead launches Warp Science to automate wet labs with robots](https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/)
+  - [Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach](https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/)
   - [Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/)
   - [Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
   - [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
@@ -222,6 +227,7 @@
   - [Teenage Engineering launched an instrument amp with a ton of built-in effects](https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp)
   - [Tesla driver using Full Self-Driving struck and killed a man crossing I-80](https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california)
   - [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole)
+  - [The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera](https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade)
   - [TV OS frustrations are leading people to vibe-code](https://www.theverge.com/tech/1016116/vibe-coding-tv-os)
 - Vulners.com RSS Feed
   - [1C-Bitrix Before and After Photos Code Execution](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -491,7 +497,9 @@
   - [Turtle Beach Vulcan II XP Review: Clicky Compromise](https://www.wired.com/review/turtle-beach-vulcan-xp-ii/)
   - [What to Know About Shamonda Virus Following the First Reported Human Infection](https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/)
 - 不安全
+  - [Android rat making/setup](https://buaq.net/go-450379.html)
   - [Deep-Live-Cam v2.8](https://buaq.net/go-450253.html)
+  - [IDA-Processor-Modules](https://buaq.net/go-450378.html)
   - [Memory-injection](https://buaq.net/go-450238.html)
   - [Mobile-Whip: A Compact Battery Powered Mini-Whip Style Active HF Antenna for Handhelds and SDRs](https://buaq.net/go-450251.html)
   - [PdfCraft，开源PDF工作台，支持压缩PDF功能](https://buaq.net/go-450252.html)
