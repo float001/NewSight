@@ -29,11 +29,17 @@
   - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
 - OpenAI Blog
   - [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+- simonwillison.net
+  - [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
 - Sploitus.com Exploits RSS Feed
   - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
+  - [project2026_20261023_php_rce_guard exploit](https://sploitus.com/exploit?id=D49A88AD-5B77-5CEB-8EBD-D86FBAE369CC&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
+  - [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
   - [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
+  - [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+  - [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
   - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
 - The Block
   - [Initia halts network after security incident as attacker reportedly mints tokens](https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755)
@@ -92,6 +98,7 @@
   - [notRDP](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAGOWDA-NOTRDP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OFBiz-Attack](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-D0G3-8BIT-OFBIZ-ATTACK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pkgxray](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ADAMSJACK711-UX-PKGXRAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [project2026_20261023_php_rce_guard](https://vulners.com/githubexploit/D49A88AD-5B77-5CEB-8EBD-D86FBAE369CC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PX4-Autopilot](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-PX4-PX4-AUTOPILOT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SonicWall](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AL1EX-SONICWALL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Striker](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-S0MD3V-STRIKER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
