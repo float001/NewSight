@@ -20,6 +20,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express](https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Pentagon bans US forces from using military info to bet in prediction markets](https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Underdog taps zerohash to bring crypto deposits to prediction markets](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Winklevoss PAC moves into Texas Senate race with $81K ad buy](https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -55,6 +56,8 @@
   - [Security Through Binary Patching](https://www.nowsecure.com/blog/2026/10/22/security-through-binary-patching/)
 - Pen Test Partners
   - [PHP2Shell and what the AI headlines are missing](https://www.pentestpartners.com/security-blog/php2shell-and-what-the-ai-headlines-are-missing/)
+- seangoedecke.com
+  - [Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 - simonwillison.net
   - [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/)
   - [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/)
@@ -70,11 +73,13 @@
   - [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/)
   - [Elon Musk made a $1 billion investment in Skydance, report says](https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/)
   - [Former OpenAI science lead launches Warp Science to automate wet labs with robots](https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/)
+  - [Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/)
   - [Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
   - [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
   - [TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements](https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/)
   - [The secret to fast startup growth isn’t early sales, top names in tech say](https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/)
   - [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)
+  - [Warhound raises $200M to engineer war dogs and arm them with Anduril gear](https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/)
 - The Block
   - [Blockchain Association pushes for crypto tax clarity as broader bill stalls](https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475)
   - [JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain](https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473)
@@ -162,6 +167,8 @@
   - [CVE-2026-75508](https://vulners.com/nvd/NVD:CVE-2026-75508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97631](https://vulners.com/nvd/NVD:CVE-2026-97631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-107079](https://vulners.com/githubexploit/14A8A43A-4E2F-520B-A1D5-3B6C9C0DE46B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-110264](https://vulners.com/githubexploit/709879D9-54E0-5344-94D9-8F403653A91A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-114101](https://vulners.com/githubexploit/61FF52EA-AE7E-516E-80F6-E36419433611?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/0E04E557-5466-525A-B63C-A160294EEC3A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/D49E0B0D-04A5-503C-8D30-2B00CCA53513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ExploitForge](https://vulners.com/githubexploit/16F71F07-4A0D-55C4-B334-A35B432B4056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -179,8 +186,11 @@
   - [Stop Reviewing Your AI Agents. Start Governing Them.](https://lab.wallarm.com/stop-reviewing-your-ai-agents-start-governing-them/)
 - Wired
   - [Inside the Exclusive Nathan Fielder Interview](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/)
+  - [Palmer Luckey Made a Genetically Modified Military Dog Startup](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/)
   - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
   - [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/)
   - [What to Know About Shamonda Virus Following the First Reported Human Infection](https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光](https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=)
