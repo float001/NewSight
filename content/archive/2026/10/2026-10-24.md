@@ -7,6 +7,7 @@
 - Ars Technica
   - [Crows can evaluate visual info twice as fast as mammals](https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/)
   - [Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)
+  - [NASA updates lander plans for Moon landings, finally solves long-festering Orion issue](https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/)
 - CoinTelegraph
   - [Initia halts blockchain after exploit reportedly drains over $2.6M](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [IRS plans lower tax disclosure penalties, including for crypto: Forbes](https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -41,6 +42,7 @@
 - Sploitus.com Exploits RSS Feed
   - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
   - [project2026_20261023_php_rce_guard exploit](https://sploitus.com/exploit?id=D49A88AD-5B77-5CEB-8EBD-D86FBAE369CC&utm_source=rss&utm_medium=rss)
+  - [Storm-Breaker exploit](https://sploitus.com/exploit?id=76B367E6-DAFC-534F-89A7-F54A132B8A07&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
   - [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
