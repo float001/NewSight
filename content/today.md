@@ -63,9 +63,11 @@
   - [New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express](https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Pentagon bans US forces from using military info to bet in prediction markets](https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Underdog taps zerohash to bring crypto deposits to prediction markets](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Was crypto self-custody ever designed for beginners?](https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Winklevoss PAC moves into Texas Senate race with $81K ad buy](https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ethereum delays Glamsterdam Hoodi testnet launch over security risks](https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [Was crypto self-custody ever designed for beginners?](https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [BIND 9 Flaw CVE-2026-94300 Opens DNS Servers to RCE](https://www.cyberkendra.com/2026/10/bind-9-flaw-cve-2026-94300-opens-dns-servers-to-rce.html)
   - [CVE-2026-109618: PHP2Shell Hits All PAN-OS Versions](https://www.cyberkendra.com/2026/10/cve-2026-109618-pan-os-panorama-php2shell.html)
@@ -74,11 +76,14 @@
   - [Top 7 Best Enterprise Agent IAM Platforms for Organisations Running Thousands of AI Agents in 2026](https://www.cyberkendra.com/2026/10/top-7-best-enterprise-agent-iam-platforms-for-organisations-running-thousands-of-ai-agents-in-2026.html)
 - CyberNews
   - [AI godfather Geoffrey Hinton says we’re toast if we’re not nice to bots](https://cybernews.com/ai-news/geoffrey-hinton-be-nice-to-ai-chatbots/)
+  - [eMudhra quits issuing trust certificates after blunder triggers Java and Python updates](https://cybernews.com/security/emudhra-quits-certificate-business-java-python-flaw/)
   - [Europol investigators identify 51 potential human trafficking victims online](https://cybernews.com/news/europol-investigators-identify-51-potential-human-trafficking-victims-online/)
   - [Fortinet says patch now, details later, but experts warn of hacks before Nov 10 disclosure](https://cybernews.com/security/fortinet-critical-flaws-patches-november-disclosure/)
   - [French lawmakers propose tagging rioters with invisible markers to track them down later](https://cybernews.com/news/invisible-markers-france/)
   - [GRU hacked Kushner’s iPhone, but the Dutch flipped a Russian spy and took a look themselves](https://cybernews.com/security/jared-kushner-hacked-iphone-gru-russia/)
   - [Morgan Stanley, Bank of America, Citi have started blocking AI agents](https://cybernews.com/ai-news/banks-blocking-ai-agents/)
+  - [Musk's $1B stake at Skydance raises questions for CNN](https://cybernews.com/news/musk-cnn-skydance/)
+  - [Nokia partners with Ukraine to build a Starlink alternative as Trump asks Musk to ditch limits](https://cybernews.com/tech/nokia-ukraine-starlink/)
   - [Orange denies PHP link following outage and doubles data for affected customers](https://cybernews.com/security/orange-outage-compensation-php-security-warning/)
   - [Quest Diagnostics confirms breach, patient data now at risk](https://cybernews.com/news/quest-diagnostics-patient-data-breach/)
   - [Russia seeks to sow chaos ahead of US midterms, lawmakers warn](https://cybernews.com/russia-seeks-to-sow-chaos-ahead-of-us-midterms/)
@@ -88,6 +93,7 @@
   - [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/)
   - [Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo)
 - darkreading
+  - [AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack](https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack)
   - [State Bank of India Suffers a Customer PII Data Leak](https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak)
   - [What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)
 - defend.network
@@ -103,6 +109,7 @@
   - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
   - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
   - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
+  - [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
   - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
 - HackerNoon
   - [MEXC Account Types Explained: A Guide to Spot, Futures, RealStocks, Fiat, and Copy Trade Accounts](https://hackernoon.com/mexc-account-types-explained-a-guide-to-spot-futures-realstocks-fiat-and-copy-trade-accounts?source=rss)
@@ -116,6 +123,7 @@
   - [Productivity](https://idiallo.com/byte-size/productivity-video)
 - infosecurity-magazine.com
   - [Attacks on Tech Firms Behind Most Third-Party Data Breach Victims](https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/)
+  - [Gaming Giant Capcom Confirms Data Breach Exposed Users’ Personal Information](https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/)
   - [Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise](https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/)
 - MIT Technology Review
   - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)
@@ -135,6 +143,8 @@
   - [Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)
 - Seebug Paper
   - [讲解一下这次PHP核弹级别漏洞的原理](https://paper.seebug.org/3528)
+- shkspr.mobi
+  - [More phishing messages via Booking.com and Novotel](https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/)
 - simonwillison.net
   - [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/)
   - [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/)
@@ -161,6 +171,7 @@
   - [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
   - [Warhound raises $200M to engineer war dogs and arm them with Anduril gear](https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/)
 - The Block
+  - [Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows](https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483)
   - [Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities](https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990)
   - [Blockchain Association pushes for crypto tax clarity as broader bill stalls](https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475)
   - [Chainlink partners with LG CNS to drive Korean won stablecoin expansion](https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993)
@@ -169,6 +180,8 @@
   - [New York seeks over $1.3 billion from NovaTech founders after couple fled the US](https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453)
   - [South Korea to amend forex law to regulate stablecoins as payment instruments: report](https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028)
 - The Decoder
+  - [Anthropic's Claude now writes code and proves it safe automatically](https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/)
+  - [Canva launches Craft, its first in-house image model](https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/)
   - [Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine](https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/)
   - [Major US banks are locking out AI agents that log in with customer credentials](https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/)
   - [Only 13 percent of companies see real returns from AI, Gartner survey finds](https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/)
@@ -356,6 +369,7 @@
   - [Network-Analysis-Tools](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AZIZALTUNTAS-NETWORK-ANALYSIS-TOOLS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [never-ending loop via server response omission](https://vulners.com/mscve/MS:CVE-2026-92387?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Nginx 开源免费 WAF 防火墙宝塔插件](https://vulners.com/gitee/EA7ABE42-1A36-54A2-A0F7-9B1142738FE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Non-constant-time mask generation and `u128` comparisons](https://vulners.com/rustsec/RUSTSEC-2026-0385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PCI: mediatek: Protect root bus removal with rescan lock](https://vulners.com/mscve/MS:CVE-2026-93819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pecli](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TE-K-PECLI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PHP](https://vulners.com/gitee/D3F0E0C5-0D7C-5796-9053-95E6E7D27543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -369,6 +383,7 @@
   - [redirect to SFTP or SCP bypasses host verification](https://vulners.com/mscve/MS:CVE-2026-86410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [RedTeam-Physical-Tools](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAVIDPROBINSKY-REDTEAM-PHYSICAL-TOOLS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [reproduction01](https://vulners.com/gitee/91D49513-6ED1-57FE-A11B-F05A77E02826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RUSTSEC-2026-0385 Non-constant-time mask generation and `u128` comparisons](https://vulners.com/osv_rustsec/OSV:RUSTSEC-2026-0385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [scsi: target: iscsi: Fix hang for aborted WRITE_PENDING commands](https://vulners.com/mscve/MS:CVE-2026-97951?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sdk](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITLAB-COSIGNET-SDK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: A Security Vulnerability in Apache MINA Core affects IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-94301)](https://vulners.com/ibm/2F287AEB739CBCE6262DB487F9626B29993197EB526E2C88FD8A6E097E450AF6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -398,6 +413,7 @@
   - [Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap](https://www.wired.com/story/dyson-week-deals-oct-2026/)
   - [Inside the Exclusive Nathan Fielder Interview](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/)
   - [Palmer Luckey Made a Genetically Modified Military Dog Startup](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/)
+  - [Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could](https://www.wired.com/review/samsung-galazy-z-flip8/)
   - [Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It](https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/)
   - [TDM Neo Hybrid Headphones Review: Two-in-One Woes](https://www.wired.com/review/tdm-neo-hybrid-headphones/)
   - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
