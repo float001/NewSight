@@ -13,24 +13,30 @@
   - [【🔒】Windows11 LTSC2024（26100.9711）X64 无更新 [精简版][3.46G](2026.10.16)](https://2libra.com/post/operating-systems/6wkij4x)
   - [不知道大家是否和我有同样的感觉](https://2libra.com/post/personal-life/7hpRw7H)
   - [今天 iPhone Duo 发售了，怎么好像没看到有人讨论？](https://2libra.com/post/apple/XTzSRgq)
+  - [全勤徽章额外获得 100 金币似乎没有触发](https://2libra.com/post/forum-function/B_I9RlA)
   - [前端岗还存在吗？](https://2libra.com/post/workplace-stories/SPPP0jr)
   - [双 11 特价甩卖-大 A 伤心地](https://2libra.com/post/stock-market/MvTdppk)
   - [双十一买的纯福狗粮 10kg 194 是好价吗](https://2libra.com/post/worth-buying/Id2Q5GV)
   - [吃惊了，AI 写小说原来这么费钱啊](https://2libra.com/post/ai-applications/cu573Tw)
   - [大家好，我是 TheShy。我入驻 2Libra 啦【狗头】](https://2libra.com/post/game-discussion/7z5bvjm)
   - [怎么面对领导的过度期待](https://2libra.com/post/workplace-stories/GtewWlV)
+  - [我好像有点讨厌别人给我分享琐碎的日常。](https://2libra.com/post/personal-life/Q7nrKT7)
   - [我想换头像，差 200 金币](https://2libra.com/post/forum-function/-OfgXIZ)
   - [星巴克「消费入座」挺好的 ☕☕☕](https://2libra.com/post/social-observation/Irt6SA8)
   - [昨晚只睡四小时不到，感觉轻飘飘](https://2libra.com/post/personal-life/BSby-P8)
   - [月亮徽章](https://2libra.com/post/forum-function/IAnEhxQ)
   - [有时候拖延症也好，昨夜黄金大跌](https://2libra.com/post/angel-investment/wCH9gZz)
+  - [有没有什么 skill 约束一下 gpt 的回答不要太啰嗦](https://2libra.com/post/prompts/JkiNkUb)
   - [有玩过金庸群侠传 2 加强版的吗？逆向了一个出来玩玩](https://2libra.com/post/reverse-engineering/PpNXCXI)
   - [有谁缴错电费吗](https://2libra.com/post/small-things/tYf_RxK)
   - [村中记-隔年搞一次，总搞不同！](https://2libra.com/post/social-observation/nP3jqov)
+  - [站内金币排名](https://2libra.com/post/forum-function/Xtwbm8V)
   - [花费 500 大洋换头像。是我的错觉吗，gif 头像显示效果比之前好了？](https://2libra.com/post/forum-function/2yU4TFl)
   - [获得新徽章-都听我说 🎙️~听我说谢谢你](https://2libra.com/post/forum-function/GJpGl0F)
   - [这个潘多拉太黑暗了，金币池获取减少了，但是评论花费没有减少](https://2libra.com/post/forum-function/BaawtCP)
   - [雷鸟搞了个 blg 不夺冠就全额退款的眼镜](https://2libra.com/post/promotion/cYjEbBr)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报（20261023）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-10/)
 - 404 Media
   - [Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting](https://www.404media.co/texas-commission-on-environmental-quality-portal-down/)
 - Ars Technica
@@ -45,6 +51,7 @@
   - [Bitcoin Core changes security policy as AI makes bugs easier to find](https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs bleed $635M as October slides back into the red](https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bybit secures first full Dubai license for spot trading services](https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals](https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Dune launches real-time data feeds covering 200 onchain trading venues](https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum delays Glamsterdam Hoodi testnet launch over security risks](https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -65,6 +72,7 @@
   - [PHP2Shell Patch Bypass Claim Another RCE on PHP 8.5.12](https://www.cyberkendra.com/2026/10/php2shell-php-8-5-12-patch-bypass-rce-poc.html)
   - [Top 7 Best Enterprise Agent IAM Platforms for Organisations Running Thousands of AI Agents in 2026](https://www.cyberkendra.com/2026/10/top-7-best-enterprise-agent-iam-platforms-for-organisations-running-thousands-of-ai-agents-in-2026.html)
 - CyberNews
+  - [AI godfather Geoffrey Hinton says we’re toast if we’re not nice to bots](https://cybernews.com/ai-news/geoffrey-hinton-be-nice-to-ai-chatbots/)
   - [Europol investigators identify 51 potential human trafficking victims online](https://cybernews.com/news/europol-investigators-identify-51-potential-human-trafficking-victims-online/)
   - [Fortinet says patch now, details later, but experts warn of hacks before Nov 10 disclosure](https://cybernews.com/security/fortinet-critical-flaws-patches-november-disclosure/)
   - [French lawmakers propose tagging rioters with invisible markers to track them down later](https://cybernews.com/news/invisible-markers-france/)
@@ -73,6 +81,7 @@
   - [Orange denies PHP link following outage and doubles data for affected customers](https://cybernews.com/security/orange-outage-compensation-php-security-warning/)
   - [Quest Diagnostics confirms breach, patient data now at risk](https://cybernews.com/news/quest-diagnostics-patient-data-breach/)
   - [Russia seeks to sow chaos ahead of US midterms, lawmakers warn](https://cybernews.com/russia-seeks-to-sow-chaos-ahead-of-us-midterms/)
+  - [Samsung One UI 9 update leaves some phones stuck in setup mode or with a drained battery](https://cybernews.com/tech/samsung-one-ui-9-update-bugs/)
   - [Scammer admits to fraud scheme targeting US military personnel with stolen PII](https://cybernews.com/privacy/fraud-scheme-targeting-us-military/)
 - daringfireball.net
   - [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/)
@@ -93,11 +102,18 @@
   - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
   - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
   - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
+- HackerNoon
+  - [MEXC Account Types Explained: A Guide to Spot, Futures, RealStocks, Fiat, and Copy Trade Accounts](https://hackernoon.com/mexc-account-types-explained-a-guide-to-spot-futures-realstocks-fiat-and-copy-trade-accounts?source=rss)
+  - [StealC Is Back, and This Time It's a RAT](https://hackernoon.com/stealc-is-back-and-this-time-its-a-rat?source=rss)
+  - [We Were Never Asked to Write Code. We Were Asked to Solve Problems.](https://hackernoon.com/we-were-never-asked-to-write-code-we-were-asked-to-solve-problems?source=rss)
+  - [Your Agent Workflow Is Mostly Code and People](https://hackernoon.com/your-agent-workflow-is-mostly-code-and-people?source=rss)
 - Horizon3.ai
   - [CVE-2026-76268 | Splunk Enterprise Patroni REST API Missing Authentication Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-76268/)
   - [PHP2Shell Exposure Depends on More Than Whether You Use PHP](https://horizon3.ai/attack-research/attack-blogs/php2shell-exposure-exploitability/)
 - idiallo.com
   - [Productivity](https://idiallo.com/byte-size/productivity-video)
+- infosecurity-magazine.com
+  - [Attacks on Tech Firms Behind Most Third-Party Data Breach Victims](https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/)
 - MIT Technology Review
   - [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/)
 - NowSecure
@@ -121,6 +137,7 @@
   - [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/)
 - Sploitus.com Exploits RSS Feed
   - [Nginx 开源免费 WAF 防火墙宝塔插件 exploit](https://sploitus.com/exploit?id=EA7ABE42-1A36-54A2-A0F7-9B1142738FE2&utm_source=rss&utm_medium=rss)
+  - [PHP exploit](https://sploitus.com/exploit?id=D3F0E0C5-0D7C-5796-9053-95E6E7D27543&utm_source=rss&utm_medium=rss)
   - [php2shell-Lab exploit](https://sploitus.com/exploit?id=259EF5BF-E337-5215-9F56-82F12C5B6699&utm_source=rss&utm_medium=rss)
   - [reproduction01 exploit](https://sploitus.com/exploit?id=91D49513-6ED1-57FE-A11B-F05A77E02826&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -146,10 +163,12 @@
   - [Chainlink partners with LG CNS to drive Korean won stablecoin expansion](https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993)
   - [HSBC rolls out its first HKD stablecoin RedCoin to retail users](https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018)
   - [JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain](https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473)
+  - [South Korea to amend forex law to regulate stablecoins as payment instruments: report](https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028)
 - The Decoder
   - [Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine](https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/)
   - [Major US banks are locking out AI agents that log in with customer credentials](https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/)
   - [Only 13 percent of companies see real returns from AI, Gartner survey finds](https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/)
+  - [OpenAI lowers valuation target, raises up to $30 billion](https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/)
 - The Verge
   - [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
   - [Delta can turn the iPhone Duo into your favorite folding handheld](https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update)
@@ -159,6 +178,7 @@
   - [Mass Effect 5 trailer leaks following BioWare shutdown](https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea)
   - [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
   - [Meta&#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
+  - [No, the iPhone Duo isn’t a small phone](https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini)
   - [PC shipments dropped over 20 percent in Q3 due to RAM price hikes](https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram)
   - [Refurbished PS5 consoles include second controller for an extra $18](https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle)
   - [Republican politicians have embraced anti-Indian racism — and it’s costing them votes](https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas)
@@ -334,6 +354,7 @@
   - [Nginx 开源免费 WAF 防火墙宝塔插件](https://vulners.com/gitee/EA7ABE42-1A36-54A2-A0F7-9B1142738FE2?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [PCI: mediatek: Protect root bus removal with rescan lock](https://vulners.com/mscve/MS:CVE-2026-93819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pecli](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-TE-K-PECLI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [PHP](https://vulners.com/gitee/D3F0E0C5-0D7C-5796-9053-95E6E7D27543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php2shell](https://vulners.com/githubexploit/3B8FCC8B-DA34-57A0-B07D-0F6EED47D78C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php2shell-Lab](https://vulners.com/gitee/259EF5BF-E337-5215-9F56-82F12C5B6699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [pinctrl: mediatek: use devm_gpiochip_add_data() for GPIO chip](https://vulners.com/mscve/MS:CVE-2026-92482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -368,6 +389,8 @@
 - Wallarm
   - [Stop Reviewing Your AI Agents. Start Governing Them.](https://lab.wallarm.com/stop-reviewing-your-ai-agents-start-governing-them/)
 - Wired
+  - [8 Things to Know About the iPhone Duo](https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/)
+  - [Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap](https://www.wired.com/story/dyson-week-deals-oct-2026/)
   - [Inside the Exclusive Nathan Fielder Interview](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/)
   - [Palmer Luckey Made a Genetically Modified Military Dog Startup](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/)
   - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
@@ -388,6 +411,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？](https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光](https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）通告](https://blog.nsfocus.net/php%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-109618-cve-2026-109619%ef%bc%89%e9%80%9a%e5%91%8a-2/)
