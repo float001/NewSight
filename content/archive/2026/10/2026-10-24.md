@@ -12,6 +12,7 @@
   - [IRS plans lower tax disclosure penalties, including for crypto: Forbes](https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SEC flags tokenization as high-risk area in 2027 market examinations](https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US senator probes Tether after reported deal with ex-Trump crypto adviser](https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report](https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Initia halts blockchain after exploit reportedly drains over $2.6M](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -36,6 +37,7 @@
   - [Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/)
 - simonwillison.net
   - [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
+  - [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/)
 - Sploitus.com Exploits RSS Feed
   - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
   - [project2026_20261023_php_rce_guard exploit](https://sploitus.com/exploit?id=D49A88AD-5B77-5CEB-8EBD-D86FBAE369CC&utm_source=rss&utm_medium=rss)
@@ -44,6 +46,7 @@
   - [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
   - [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
   - [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+  - [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
   - [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
   - [VCs, Superhuman Mail founder share red flags about product market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/)
   - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
@@ -59,8 +62,10 @@
   - [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
   - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
   - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+  - [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
   - [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
   - [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
+  - [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
 - Vulners.com RSS Feed
   - [action-octoscan](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SYNACKTIV-OCTOSCAN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [adups-get-super-serial](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-REDNAGA-ADUPS-GET-SUPER-SERIAL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
