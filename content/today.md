@@ -9,7 +9,9 @@
   - [【💰】分享一个闲鱼搜索暗语的网站，无广纯分享](https://2libra.com/post/second-hand/4GIDxhw)
   - [【🔒】Windows11 LTSC2024（26100.9711）X64 无更新 [精简版][3.46G](2026.10.16)](https://2libra.com/post/operating-systems/6wkij4x)
   - [不知道大家是否和我有同样的感觉](https://2libra.com/post/personal-life/7hpRw7H)
+  - [前端岗还存在吗？](https://2libra.com/post/workplace-stories/SPPP0jr)
   - [双 11 特价甩卖-大 A 伤心地](https://2libra.com/post/stock-market/MvTdppk)
+  - [双十一买的纯福狗粮 10kg 194 是好价吗](https://2libra.com/post/worth-buying/Id2Q5GV)
   - [吃惊了，AI 写小说原来这么费钱啊](https://2libra.com/post/ai-applications/cu573Tw)
   - [怎么面对领导的过度期待](https://2libra.com/post/workplace-stories/GtewWlV)
   - [昨晚只睡四小时不到，感觉轻飘飘](https://2libra.com/post/personal-life/BSby-P8)
@@ -62,6 +64,8 @@
 - darkreading
   - [State Bank of India Suffers a Customer PII Data Leak](https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak)
   - [What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)
+- defend.network
+  - [Arista VeloCloud zero-day exploited; Railway, Capcom breaches; LiteLLM supply chain attack](https://defend.network/briefings/arista-velocloud-railway-capcom-critical-exploits-2026-10-23.html)
 - Fidelis Security
   - [Building Zero Trust Across Healthcare’s Legacy and Connected Environments](https://fidelissecurity.com/threatgeek/threat-detection-response/zero-trust-in-healthcare/)
 - Hacker News Frontpage
@@ -87,6 +91,8 @@
   - [Kazakhstan Expands Compute for Its AI Future](https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/)
 - Pen Test Partners
   - [PHP2Shell and what the AI headlines are missing](https://www.pentestpartners.com/security-blog/php2shell-and-what-the-ai-headlines-are-missing/)
+- Product Hunt
+  - [ShogunAI](https://www.producthunt.com/products/shogunai)
 - rtl-sdr.com
   - [Mobile-Whip: A Compact Battery Powered Mini-Whip Style Active HF Antenna for Handhelds and SDRs](https://www.rtl-sdr.com/mobile-whip-a-compact-battery-powered-mini-whip-style-active-hf-antenna-for-handhelds-and-sdrs/)
   - [Testing Hubble Network’s Bluetooth-to-Satellite Link from Budapest](https://www.rtl-sdr.com/testing-hubble-networks-bluetooth-to-satellite-link-from-budapest/)
@@ -334,6 +340,7 @@
   - [PdfCraft，开源PDF工作台，支持压缩PDF功能](https://buaq.net/go-450252.html)
   - [PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）通告](https://buaq.net/go-450242.html)
   - [Switch 2 Jailbreak](https://buaq.net/go-450250.html)
+  - [Vidar-Stealer-Chrome-Injection-Malicious-JS-Targeting-Google-Reddit-Sessions-Analysis](https://buaq.net/go-450271.html)
   - [yara-rules](https://buaq.net/go-450247.html)
   - [浏览器公司宣布Arc浏览器将在2026年12月22日正式关停 用户需将数据迁移到其他浏览器](https://buaq.net/go-450246.html)
   - [趋势科技不慎将多个未修复的Linux Kernel漏洞公开 疑似发邮件时出现操作失误](https://buaq.net/go-450245.html)
