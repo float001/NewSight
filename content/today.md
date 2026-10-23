@@ -21,6 +21,7 @@
   - [花费 500 大洋换头像。是我的错觉吗，gif 头像显示效果比之前好了？](https://2libra.com/post/forum-function/2yU4TFl)
   - [获得新徽章-都听我说 🎙️~听我说谢谢你](https://2libra.com/post/forum-function/GJpGl0F)
   - [这个潘多拉太黑暗了，金币池获取减少了，但是评论花费没有减少](https://2libra.com/post/forum-function/BaawtCP)
+  - [雷鸟搞了个 blg 不夺冠就全额退款的眼镜](https://2libra.com/post/promotion/cYjEbBr)
 - 404 Media
   - [Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting](https://www.404media.co/texas-commission-on-environmental-quality-portal-down/)
 - Ars Technica
@@ -36,12 +37,15 @@
   - [Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition](https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals](https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Dune launches real-time data feeds covering 200 onchain trading venues](https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum delays Glamsterdam Hoodi testnet launch over security risks](https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures](https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express](https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Pentagon bans US forces from using military info to bet in prediction markets](https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Underdog taps zerohash to bring crypto deposits to prediction markets](https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Winklevoss PAC moves into Texas Senate race with $81K ad buy](https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Ethereum delays Glamsterdam Hoodi testnet launch over security risks](https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [BIND 9 Flaw CVE-2026-94300 Opens DNS Servers to RCE](https://www.cyberkendra.com/2026/10/bind-9-flaw-cve-2026-94300-opens-dns-servers-to-rce.html)
   - [CVE-2026-109618: PHP2Shell Hits All PAN-OS Versions](https://www.cyberkendra.com/2026/10/cve-2026-109618-pan-os-panorama-php2shell.html)
@@ -66,6 +70,7 @@
   - [Award-Winning AI Literature](https://jamesyu.org/award-winning-ai-literature/)
   - [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
   - [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+  - [Move Slow and Fix Things](https://endler.dev/2024/move-slow-and-fix-things/)
   - [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)
   - [Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)
 - Horizon3.ai
@@ -304,6 +309,7 @@
   - [Security Bulletin: Multiple Security Vulnerabilities in HttpClient affect IBM Sterling B2B Integrator and IBM Sterling File Gateway (CVE-2026-64607, CVE-2026-71290)](https://vulners.com/ibm/744C72989B1BF980D8DEB2C1EEAEB77C73583D4B3906DAC5B867690BD64DA895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Multiple Security Vulnerabilities in Jackson affect IBM Sterling B2B Integrator and IBM Sterling File Gateway](https://vulners.com/ibm/928D702BF6DD2ECF002392257BE4791DE2B39820FA4B31A446B80DF6B3C02CD7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: Multiple Security Vulnerabilities in Netty affect IBM Sterling B2B Integrator and IBM Sterling File Gateway](https://vulners.com/ibm/EFC12E94E32D9CAECE7C92B6F5D62F4EF5471EBF1B5970AB367749B24316D954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: Security vulnerability has been found in IBM Security Verify Governance Identity Manager Adapters](https://vulners.com/ibm/771B2FBEBF864606623A3A5A17E4B7ED2C85E92955E4FB4A39FDB5C0CCBE84B4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Sentinel-Queries](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-REPRISE99-SENTINEL-QUERIES?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [sightline](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NI5ARGA-SIGHTLINE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Solitude](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NCCGROUP-SOLITUDE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -337,3 +343,5 @@
   - [早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光](https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [PHP远程代码执行漏洞（CVE-2026-109618/CVE-2026-109619）通告](https://blog.nsfocus.net/php%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-109618-cve-2026-109619%ef%bc%89%e9%80%9a%e5%91%8a-2/)
+- 黑海洋
+  - [技能制造技能的skill](https://blog.upx8.com/skill)
