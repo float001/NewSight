@@ -2,8 +2,12 @@
 
 - 2Libra
   - [【💰】你上一次去电影院和演唱会是什么时候？](https://2libra.com/post/social-observation/2Ez7pqZ)
+  - [【💰】分享一个闲鱼搜索暗语的网站，无广纯分享](https://2libra.com/post/second-hand/4GIDxhw)
   - [吃惊了，AI 写小说原来这么费钱啊](https://2libra.com/post/ai-applications/cu573Tw)
+  - [昨晚只睡四小时不到，感觉轻飘飘](https://2libra.com/post/personal-life/BSby-P8)
   - [有时候拖延症也好，昨夜黄金大跌](https://2libra.com/post/angel-investment/wCH9gZz)
+  - [有玩过金庸群侠传 2 加强版的吗？逆向了一个出来玩玩](https://2libra.com/post/reverse-engineering/PpNXCXI)
+  - [有谁缴错电费吗](https://2libra.com/post/small-things/tYf_RxK)
   - [花费 500 大洋换头像。是我的错觉吗，gif 头像显示效果比之前好了？](https://2libra.com/post/forum-function/2yU4TFl)
 - 404 Media
   - [Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting](https://www.404media.co/texas-commission-on-environmental-quality-portal-down/)
@@ -27,11 +31,14 @@
   - [Winklevoss PAC moves into Texas Senate race with $81K ad buy](https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [BIND 9 Flaw CVE-2026-94300 Opens DNS Servers to RCE](https://www.cyberkendra.com/2026/10/bind-9-flaw-cve-2026-94300-opens-dns-servers-to-rce.html)
+  - [CVE-2026-109618: PHP2Shell Hits All PAN-OS Versions](https://www.cyberkendra.com/2026/10/cve-2026-109618-pan-os-panorama-php2shell.html)
+  - [Fortinet Patches AI-Found Flaws in FortiOS, FortiManager](https://www.cyberkendra.com/2026/10/fortinet-frontier-ai-fortios-patches.html)
   - [PHP2Shell Patch Bypass Claim Another RCE on PHP 8.5.12](https://www.cyberkendra.com/2026/10/php2shell-php-8-5-12-patch-bypass-rce-poc.html)
   - [Top 7 Best Enterprise Agent IAM Platforms for Organisations Running Thousands of AI Agents in 2026](https://www.cyberkendra.com/2026/10/top-7-best-enterprise-agent-iam-platforms-for-organisations-running-thousands-of-ai-agents-in-2026.html)
 - CyberNews
   - [Fortinet says patch now, details later, but experts warn of hacks before Nov 10 disclosure](https://cybernews.com/security/fortinet-critical-flaws-patches-november-disclosure/)
   - [Orange denies PHP link following outage and doubles data for affected customers](https://cybernews.com/security/orange-outage-compensation-php-security-warning/)
+  - [Quest Diagnostics confirms breach, patient data now at risk](https://cybernews.com/news/quest-diagnostics-patient-data-breach/)
 - daringfireball.net
   - [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/)
   - [Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo)
@@ -57,6 +64,8 @@
 - NowSecure
   - [PHP2Shell: AI Speeds Up Exploits. Patch the Backends Behind Your Mobile Apps.](https://www.nowsecure.com/blog/2026/10/22/php2shell-ai-speeds-up-exploits-patch-the-backends-behind-your-mobile-apps/)
   - [Security Through Binary Patching](https://www.nowsecure.com/blog/2026/10/22/security-through-binary-patching/)
+- NVIDIA AI Blog
+  - [Kazakhstan Expands Compute for Its AI Future](https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/)
 - Pen Test Partners
   - [PHP2Shell and what the AI headlines are missing](https://www.pentestpartners.com/security-blog/php2shell-and-what-the-ai-headlines-are-missing/)
 - seangoedecke.com
@@ -193,6 +202,8 @@
   - [The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data](https://www.wired.com/story/google-home-speaker-bug-oct-2026/)
   - [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/)
   - [What to Know About Shamonda Virus Following the First Reported Human Infection](https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/)
+- 不安全
+  - [Memory-injection](https://buaq.net/go-450238.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
