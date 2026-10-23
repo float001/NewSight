@@ -3,6 +3,8 @@
 - 2Libra
   - [【💰】你上一次去电影院和演唱会是什么时候？](https://2libra.com/post/social-observation/2Ez7pqZ)
   - [吃惊了，AI 写小说原来这么费钱啊](https://2libra.com/post/ai-applications/cu573Tw)
+  - [有时候拖延症也好，昨夜黄金大跌](https://2libra.com/post/angel-investment/wCH9gZz)
+  - [花费 500 大洋换头像。是我的错觉吗，gif 头像显示效果比之前好了？](https://2libra.com/post/forum-function/2yU4TFl)
 - 404 Media
   - [Portal Texas Used to ‘Rubber Stamp’ Data Centers Down After 404 Media Reporting](https://www.404media.co/texas-commission-on-environmental-quality-portal-down/)
 - Ars Technica
@@ -28,6 +30,7 @@
   - [PHP2Shell Patch Bypass Claim Another RCE on PHP 8.5.12](https://www.cyberkendra.com/2026/10/php2shell-php-8-5-12-patch-bypass-rce-poc.html)
   - [Top 7 Best Enterprise Agent IAM Platforms for Organisations Running Thousands of AI Agents in 2026](https://www.cyberkendra.com/2026/10/top-7-best-enterprise-agent-iam-platforms-for-organisations-running-thousands-of-ai-agents-in-2026.html)
 - CyberNews
+  - [Fortinet says patch now, details later, but experts warn of hacks before Nov 10 disclosure](https://cybernews.com/security/fortinet-critical-flaws-patches-november-disclosure/)
   - [Orange denies PHP link following outage and doubles data for affected customers](https://cybernews.com/security/orange-outage-compensation-php-security-warning/)
 - daringfireball.net
   - [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/)
