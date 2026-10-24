@@ -36,6 +36,7 @@
   - [RMSNorm](https://www.gilesthomas.com/2026/10/rmsnorm)
 - Hacker News Frontpage
   - [Can we replace a $150k Looker with a bucket of HTML files?](https://david.lequin.dev/blog/bi-software-is-dead/)
+  - [Elon Musk Acquires $1B Stake in CNN's Parent Company](https://symby.com/news?_cid=101605177&preferredLanguage=en)
   - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
   - [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
   - [Time Nuts (2005)](http://leapsecond.com/time-nuts.htm)
@@ -222,12 +223,16 @@
   - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)
   - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/)
 - 不安全
+  - [OpenAI宣布其前沿模型训练不再连接实时互联网 避免模型再越狱发起攻击](https://buaq.net/go-450491.html)
   - [绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可](https://buaq.net/go-450489.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [iPhone Duo 2 提前曝光：FaceID、操作按钮都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 Kimi K3.1 Pro，国模终于继续卷旗舰](https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事](https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线](https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%a1%be%e6%9d%9c%e5%a8%9f%e5%8d%9a%e5%a3%ab%e8%8e%b7%e8%af%84-2026%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e5%8d%81%e5%a4%a7%e4%ba%ba/)
+- 黑海洋
+  - [Hoistbay：免费开源的 S3 客户端，支持 CloudFront 缓存刷新](https://blog.upx8.com/Hoistbay-S3-CloudFront)
