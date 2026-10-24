@@ -11,5 +11,9 @@
   - [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
 - The Block
   - [Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’](https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606)
+  - [Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000](https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608)
+- Vulners.com RSS Feed
+  - [CVE-2026-115970 Travisun Opptrix Import Endpoint import code injection](https://vulners.com/cve/CVE-2026-115970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115970 Travisun Opptrix Import Endpoint import code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-115970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
