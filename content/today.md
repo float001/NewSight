@@ -17,6 +17,8 @@
   - [Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report](https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Initia halts blockchain after exploit reportedly drains over $2.6M](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [Hackers steal 8.3M records from crime tip platform used by schools, police nationwide](https://cybernews.com/security/navigate360-crime-tips-data-breach-nevada-schools/)
 - daringfireball.net
   - [The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review)
 - darkreading
@@ -42,6 +44,8 @@
   - [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
   - [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-102785](https://sploitus.com/exploit?id=0FA7C8EE-53B0-5A9E-B882-F46472FD8A17&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=19177B9E-7D77-50E6-811C-3A4A1862C6FA&utm_source=rss&utm_medium=rss)
   - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
   - [project2026_20261023_php_rce_guard exploit](https://sploitus.com/exploit?id=D49A88AD-5B77-5CEB-8EBD-D86FBAE369CC&utm_source=rss&utm_medium=rss)
   - [Storm-Breaker exploit](https://sploitus.com/exploit?id=76B367E6-DAFC-534F-89A7-F54A132B8A07&utm_source=rss&utm_medium=rss)
@@ -164,3 +168,5 @@
   - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事](https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=)
