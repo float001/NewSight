@@ -50,6 +50,7 @@
   - [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
   - [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/)
 - Sploitus.com Exploits RSS Feed
+  - [cve-2023-50164 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AARONM-SYSDIG-CVE-2023-50164&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-102785](https://sploitus.com/exploit?id=0FA7C8EE-53B0-5A9E-B882-F46472FD8A17&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=19177B9E-7D77-50E6-811C-3A4A1862C6FA&utm_source=rss&utm_medium=rss)
   - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
