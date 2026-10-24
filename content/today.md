@@ -1,14 +1,22 @@
 # 今日安全资讯（2026-10-25）
 
+- daringfireball.net
+  - [Tim Pan’s iPhone Duo Review](https://www.youtube.com/watch?v=8pCccpKjjos)
 - evanhahn.com
   - [List of Vim forks](https://evanhahn.com/list-of-vim-forks/)
 - Hacker News Frontpage
   - [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
   - [Dream-1](https://dreamlabs.ai/research/dream-1/)
   - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](https://www.science.org/doi/10.1126/sciadv.aeh8870)
+  - [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
+  - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
+  - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
   - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
+  - [The Goose Programming Language](https://aardappel.github.io/goose/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-114509](https://sploitus.com/exploit?id=189B5BF4-9245-5ED0-B968-3F0840FFEC8A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=74270B18-6EC7-5FD6-98F2-56C49FB65B64&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=D36985B9-C612-5784-8ED9-33DF61A3C896&utm_source=rss&utm_medium=rss)
   - [GHSA-jpc4-w9r8-43j3 exploit](https://sploitus.com/exploit?id=D9E1287A-0186-5583-BBCB-6AF58EFD79CB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
@@ -20,7 +28,11 @@
 - The Verge
   - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
 - Vulners.com RSS Feed
+  - [CVE-2026-114820](https://vulners.com/nvd/NVD:CVE-2026-114820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115970 Travisun Opptrix Import Endpoint import code injection](https://vulners.com/cve/CVE-2026-115970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115970 Travisun Opptrix Import Endpoint import code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-115970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115973](https://vulners.com/nvd/NVD:CVE-2026-115973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-114509](https://vulners.com/githubexploit/189B5BF4-9245-5ED0-B968-3F0840FFEC8A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/D36985B9-C612-5784-8ED9-33DF61A3C896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
