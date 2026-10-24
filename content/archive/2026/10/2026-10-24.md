@@ -43,6 +43,7 @@
   - [Elon Musk Acquires $1B Stake in CNN's Parent Company](https://symby.com/news?_cid=101605177&preferredLanguage=en)
   - [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
   - [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+  - [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
   - [Time Nuts (2005)](http://leapsecond.com/time-nuts.htm)
   - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
   - [Total Historian](https://www.theideasletter.org/essay/total-historian/)
@@ -80,6 +81,7 @@
 - The Decoder
   - [Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1](https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/)
   - [Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5](https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/)
+  - [Fancy harnesses make coding agents more expensive but not better, study finds](https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/)
   - [Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring](https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/)
 - The Verge
   - [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
@@ -153,6 +155,7 @@
   - [CVE-2026-115803](https://vulners.com/nvd/NVD:CVE-2026-115803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115929](https://vulners.com/nvd/NVD:CVE-2026-115929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115931](https://vulners.com/nvd/NVD:CVE-2026-115931?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115993](https://vulners.com/nvd/NVD:CVE-2026-115993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-33147](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-REDYANK-CVE-2026-33147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DavRelayUp](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DEC0NE-DAVRELAYUP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -276,9 +279,12 @@
 - wheresyoured.at
   - [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/)
 - Wired
+  - [Best Laptops (2026): My Top Recommendations After Testing Hundreds](https://www.wired.com/story/best-laptops/)
   - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)
   - [Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’](https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/)
+  - [Ray-Ban Meta Audio Review: The Best Smart Glasses](https://www.wired.com/review/ray-ban-meta-audio/)
   - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/)
+  - [The Qubitunes Soundstage Toy Is a Great Gift for Kids](https://www.wired.com/story/qubitunes-starter-kit-october-2026/)
 - 不安全
   - [Best SMM Panel for Black Hat? Vote in Reddit’s Community Poll & See Results](https://buaq.net/go-450514.html)
   - [OpenAI宣布其前沿模型训练不再连接实时互联网 避免模型再越狱发起攻击](https://buaq.net/go-450491.html)
