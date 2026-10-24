@@ -75,18 +75,22 @@
   - [reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling exploit](https://sploitus.com/exploit?id=3808E1F7-DD3F-56BC-9873-FD14F1EB8B82&utm_source=rss&utm_medium=rss)
   - [SkillSpector-NV exploit](https://sploitus.com/exploit?id=AD4C3D7F-654B-5F1E-ADD9-59AB0273B6CD&utm_source=rss&utm_medium=rss)
   - [Storm-Breaker exploit](https://sploitus.com/exploit?id=76B367E6-DAFC-534F-89A7-F54A132B8A07&utm_source=rss&utm_medium=rss)
+  - [strix exploit](https://sploitus.com/exploit?id=3A5D9447-F5E2-5D78-8123-D0834EF2D84C&utm_source=rss&utm_medium=rss)
 - steveblank.com
   - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
 - TechCrunch
   - [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
   - [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
   - [Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors](https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/)
+  - [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
   - [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
   - [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
   - [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
   - [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
   - [Startups don’t need to go viral to win customers](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/)
   - [TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/)
+  - [The Boox Palma 2 Pro finally got me to stop reading on my phone](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/)
+  - [These clever apps show off the iPhone Duo’s potential](https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/)
   - [VCs, Superhuman Mail founder share red flags about product market fit](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/)
   - [What some of Anthropic’s backers are reportedly worth before its IPO](https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/)
 - The Block
@@ -94,6 +98,7 @@
   - [Netanyahu seeking blockchain plan to prepare for possible sanctions](https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792)
   - [Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser](https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785)
 - The Decoder
+  - [AI makes junior patent attorneys instantly better but may quietly stunt their professional growth](https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/)
   - [Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1](https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/)
   - [Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5](https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/)
   - [Fancy harnesses make coding agents more expensive but not better, study finds](https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/)
@@ -110,6 +115,8 @@
   - [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
   - [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
   - [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)
+- Threatninja.net
+  - [Hack The Box: Checkpoint Machine Walkthrough Medium Difficulty](https://threatninja.net/hack-the-box-checkpoint-machine-walkthrough-medium-difficulty/)
 - Vulners.com RSS Feed
   - [1C-Bitrix Before and After Photos Code Execution](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [aad-bofs](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-KOZMER-AAD-BOFS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -262,6 +269,7 @@
   - [SonicWall](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AL1EX-SONICWALL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [st25tb_kiemul](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GENTILKIWI-ST25TB_KIEMUL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Striker](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-S0MD3V-STRIKER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [strix](https://vulners.com/gitee/3A5D9447-F5E2-5D78-8123-D0834EF2D84C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tar filter allows writing outside destination via empty-named symlink](https://vulners.com/mscve/MS:CVE-2026-114583?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Tekon SCADA Code Execution](https://vulners.com/bdu_fstec/BDU:2026-10383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Tekon SCADA Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-10382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -326,6 +334,7 @@
 - 爱范儿
   - [iPhone Duo 2 提前曝光：FaceID、操作按钮都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一位开发者让电视服用了 Claude，这是它系统发生的变化](https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [史上最快宾利！竟然是一辆 SUV？](https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 Kimi K3.1 Pro，国模终于继续卷旗舰](https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事](https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线](https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=)
