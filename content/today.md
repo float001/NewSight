@@ -3,9 +3,11 @@
 - 2Libra
   - [10.24 程序员节日](https://2libra.com/post/tech-rumination/4kyEdol)
   - [chatgpt go 一个月¥1400？怎么这么贵](https://2libra.com/post/ai-tools/V-1Gh9O)
+  - [“按时？”徽章太魔性了。](https://2libra.com/post/forum-function/DBmvWlA)
   - [【柳州漫记】一碗需要慢慢嗦的螺蛳粉](https://2libra.com/post/travel-logs/RH7lHxx)
   - [【💰】节日快乐](https://2libra.com/post/forum-function/oHQPjK0)
   - [国内如何能使用上克劳德，请大神给方法；](https://2libra.com/post/ai-tools/ue_tJrJ)
+  - [提 bug 、、、虽然今天 1024](https://2libra.com/post/community/9NBK-Ra)
   - [潘多拉事件延期，有能回本的么？](https://2libra.com/post/forum-function/ipu9uuw)
   - [码农节快乐！徽章已佩戴](https://2libra.com/post/forum-function/SBobZzx)
 - anildash.com
@@ -275,8 +277,10 @@
   - [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/)
 - Wired
   - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)
+  - [Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’](https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/)
   - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/)
 - 不安全
+  - [Best SMM Panel for Black Hat? Vote in Reddit’s Community Poll & See Results](https://buaq.net/go-450514.html)
   - [OpenAI宣布其前沿模型训练不再连接实时互联网 避免模型再越狱发起攻击](https://buaq.net/go-450491.html)
   - [绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可](https://buaq.net/go-450489.html)
 - 代码审计星球
