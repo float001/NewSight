@@ -3,6 +3,8 @@
 - daringfireball.net
   - [Marion Barry Meets the iPhone Duo](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
   - [MKBHD’s Duo Review](https://youtu.be/ESABTN4VtrA)
+  - [Nicole Nguyen’s Duo Review for the WSJ](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf)
+  - [Reuters and the WSJ on the Duo Launch](https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/)
   - [Tim Pan’s iPhone Duo Review](https://www.youtube.com/watch?v=8pCccpKjjos)
 - evanhahn.com
   - [List of Vim forks](https://evanhahn.com/list-of-vim-forks/)
