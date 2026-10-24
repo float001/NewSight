@@ -60,6 +60,7 @@
   - [Exploit for CVE-2026-110264](https://sploitus.com/exploit?id=09B36618-DE9C-5A1B-A27B-5D168F3A7A91&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=19177B9E-7D77-50E6-811C-3A4A1862C6FA&utm_source=rss&utm_medium=rss)
   - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
+  - [php2shell-audit exploit](https://sploitus.com/exploit?id=D743A147-AC04-558E-AC44-A86A48AABB08&utm_source=rss&utm_medium=rss)
   - [project2026_20261023_php_rce_guard exploit](https://sploitus.com/exploit?id=D49A88AD-5B77-5CEB-8EBD-D86FBAE369CC&utm_source=rss&utm_medium=rss)
   - [SkillSpector-NV exploit](https://sploitus.com/exploit?id=AD4C3D7F-654B-5F1E-ADD9-59AB0273B6CD&utm_source=rss&utm_medium=rss)
   - [Storm-Breaker exploit](https://sploitus.com/exploit?id=76B367E6-DAFC-534F-89A7-F54A132B8A07&utm_source=rss&utm_medium=rss)
@@ -279,20 +280,26 @@
 - wheresyoured.at
   - [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/)
 - Wired
+  - [12 Absolutely Banging Proper Watches Under $400](https://www.wired.com/story/best-watches-under-400-chosen-by-experts/)
+  - [9 Unique Apps to Try on the iPhone Duo](https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/)
   - [Best Laptops (2026): My Top Recommendations After Testing Hundreds](https://www.wired.com/story/best-laptops/)
   - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)
   - [Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’](https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/)
+  - [My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale](https://www.wired.com/story/joybird-semi-annual-sale-2026/)
   - [Ray-Ban Meta Audio Review: The Best Smart Glasses](https://www.wired.com/review/ray-ban-meta-audio/)
   - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/)
   - [The Qubitunes Soundstage Toy Is a Great Gift for Kids](https://www.wired.com/story/qubitunes-starter-kit-october-2026/)
 - 不安全
   - [Best SMM Panel for Black Hat? Vote in Reddit’s Community Poll & See Results](https://buaq.net/go-450514.html)
+  - [Java vs Rust Ghidra in REA: early benchmarks from a work-in-progress Rust port](https://buaq.net/go-450522.html)
   - [OpenAI宣布其前沿模型训练不再连接实时互联网 避免模型再越狱发起攻击](https://buaq.net/go-450491.html)
+  - [promptfoo v0.125.0](https://buaq.net/go-450525.html)
   - [绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可](https://buaq.net/go-450489.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [iPhone Duo 2 提前曝光：FaceID、操作按钮都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [一位开发者让电视服用了 Claude，这是它系统发生的变化](https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 Kimi K3.1 Pro，国模终于继续卷旗舰](https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事](https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线](https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=)
