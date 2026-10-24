@@ -2,8 +2,10 @@
 
 - 2Libra
   - [10.24 程序员节日](https://2libra.com/post/tech-rumination/4kyEdol)
+  - [1024 领取智普 5 亿 token](https://2libra.com/post/promotion/hn4dzhu)
   - [chatgpt go 一个月¥1400？怎么这么贵](https://2libra.com/post/ai-tools/V-1Gh9O)
   - [“按时？”徽章太魔性了。](https://2libra.com/post/forum-function/DBmvWlA)
+  - [【剁手党】爱粪兜 iPhone Duo 新机入手](https://2libra.com/post/phone/zkE_tlg)
   - [【柳州漫记】一碗需要慢慢嗦的螺蛳粉](https://2libra.com/post/travel-logs/RH7lHxx)
   - [【💰】节日快乐](https://2libra.com/post/forum-function/oHQPjK0)
   - [国内如何能使用上克劳德，请大神给方法；](https://2libra.com/post/ai-tools/ue_tJrJ)
@@ -24,6 +26,8 @@
   - [Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report](https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Initia halts blockchain after exploit reportedly drains over $2.6M](https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- construction-physics.com
+  - [Reading List 10/24/26](https://www.construction-physics.com/p/reading-list-102426)
 - CyberNews
   - [Hackers steal 8.3M records from crime tip platform used by schools, police nationwide](https://cybernews.com/security/navigate360-crime-tips-data-breach-nevada-schools/)
 - daringfireball.net
@@ -51,6 +55,10 @@
   - [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
 - pluralistic.net
   - [Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/)
+- Sebastian Raschka
+  - [Building Reasoning Models from the Ground Up: A Video Course](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- shkspr.mobi
+  - [Book Review: Get Ahead of Being Dead by Evie King ★★★★☆](https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/)
 - simonwillison.net
   - [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
   - [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/)
@@ -62,6 +70,7 @@
   - [network-security-lab exploit](https://sploitus.com/exploit?id=3196EC81-1895-5A76-9912-B5C60F2E0FB4&utm_source=rss&utm_medium=rss)
   - [php2shell-audit exploit](https://sploitus.com/exploit?id=D743A147-AC04-558E-AC44-A86A48AABB08&utm_source=rss&utm_medium=rss)
   - [project2026_20261023_php_rce_guard exploit](https://sploitus.com/exploit?id=D49A88AD-5B77-5CEB-8EBD-D86FBAE369CC&utm_source=rss&utm_medium=rss)
+  - [reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling exploit](https://sploitus.com/exploit?id=3808E1F7-DD3F-56BC-9873-FD14F1EB8B82&utm_source=rss&utm_medium=rss)
   - [SkillSpector-NV exploit](https://sploitus.com/exploit?id=AD4C3D7F-654B-5F1E-ADD9-59AB0273B6CD&utm_source=rss&utm_medium=rss)
   - [Storm-Breaker exploit](https://sploitus.com/exploit?id=76B367E6-DAFC-534F-89A7-F54A132B8A07&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -83,10 +92,13 @@
   - [Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1](https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/)
   - [Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5](https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/)
   - [Fancy harnesses make coding agents more expensive but not better, study finds](https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/)
+  - [OpenAI's isolated AI agents found ways to talk to each other through CPU cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
   - [Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring](https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/)
 - The Verge
   - [Elon Musk’s dangerous grip on outer space](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly)
   - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
+  - [It’s time to find a new browser](https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer)
+  - [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)
   - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
   - [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
   - [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
@@ -105,6 +117,7 @@
   - [astaroth-deobfuscator](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DODO-SEC-ASTAROTH-DEOBFUSCATOR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [aws-doctor](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-ELC0MPA-AWS-DOCTOR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [bcm4360-wpa3](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-UNSIGNEDCHAD-BCM4360-WPA3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://vulners.com/thn/THN:0F71EBE7A492D15C9A932E8296F3A142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [btrfs: protect sb_write_pointer() with invalidate lock](https://vulners.com/mscve/MS:CVE-2026-98907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [C2-Blockchain](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-GEEK-REPO-C2-BLOCKCHAIN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Centralized Printer MFP Supervision Unauthorized Access](https://vulners.com/bdu_fstec/BDU:2026-12467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -232,6 +245,7 @@
   - [ReadyScript e-commerce management system Session Management](https://vulners.com/bdu_fstec/BDU:2026-15751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ReadyScript SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-15750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [REDAAM IT-infrastructure Management System Auth Bypass](https://vulners.com/bdu_fstec/BDU:2026-10918?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling](https://vulners.com/gitee/3808E1F7-DD3F-56BC-9873-FD14F1EB8B82?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [serial: 8250_port: recognize UPIO_AU](https://vulners.com/mscve/MS:CVE-2026-98883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SharpWSUS](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NETTITUDE-SHARPWSUS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Shtab Project Access Control Unauthorized Access](https://vulners.com/bdu_fstec/BDU:2026-13480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -286,8 +300,10 @@
   - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)
   - [Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’](https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/)
   - [My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale](https://www.wired.com/story/joybird-semi-annual-sale-2026/)
+  - [New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent](https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/)
   - [Ray-Ban Meta Audio Review: The Best Smart Glasses](https://www.wired.com/review/ray-ban-meta-audio/)
   - [Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday](https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/)
+  - [The PHP Meltdown Shows How AI Makes Bugs More Exploitable](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/)
   - [The Qubitunes Soundstage Toy Is a Great Gift for Kids](https://www.wired.com/story/qubitunes-starter-kit-october-2026/)
 - 不安全
   - [Best SMM Panel for Black Hat? Vote in Reddit’s Community Poll & See Results](https://buaq.net/go-450514.html)
