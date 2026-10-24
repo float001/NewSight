@@ -3,15 +3,22 @@
 - evanhahn.com
   - [List of Vim forks](https://evanhahn.com/list-of-vim-forks/)
 - Hacker News Frontpage
+  - [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
+  - [Dream-1](https://dreamlabs.ai/research/dream-1/)
+  - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](https://www.science.org/doi/10.1126/sciadv.aeh8870)
   - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=74270B18-6EC7-5FD6-98F2-56C49FB65B64&utm_source=rss&utm_medium=rss)
   - [GHSA-jpc4-w9r8-43j3 exploit](https://sploitus.com/exploit?id=D9E1287A-0186-5583-BBCB-6AF58EFD79CB&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
   - [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
+  - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
 - The Block
   - [Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’](https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606)
   - [Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000](https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608)
+- The Verge
+  - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
 - Vulners.com RSS Feed
   - [CVE-2026-115970 Travisun Opptrix Import Endpoint import code injection](https://vulners.com/cve/CVE-2026-115970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115970 Travisun Opptrix Import Endpoint import code injection](https://vulners.com/cvelist/CVELIST:CVE-2026-115970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
