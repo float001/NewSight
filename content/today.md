@@ -2,6 +2,7 @@
 
 - 2Libra
   - [10.24 程序员节日](https://2libra.com/post/tech-rumination/4kyEdol)
+  - [chatgpt go 一个月¥1400？怎么这么贵](https://2libra.com/post/ai-tools/V-1Gh9O)
   - [【柳州漫记】一碗需要慢慢嗦的螺蛳粉](https://2libra.com/post/travel-logs/RH7lHxx)
   - [【💰】节日快乐](https://2libra.com/post/forum-function/oHQPjK0)
   - [国内如何能使用上克劳德，请大神给方法；](https://2libra.com/post/ai-tools/ue_tJrJ)
@@ -149,6 +150,7 @@
   - [domestic-system](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-CARTOSYS-DOMESTIC-SYSTEM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dr.Web ConfigD Executable Buffer Overflow DoS](https://vulners.com/bdu_fstec/BDU:2026-11940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ephemera](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-QARAIT-EPHEMERA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Server-Side Request Forgery in Plex Media_Server](https://vulners.com/githubexploit/8FEE5445-A3CA-57DF-842D-714C2DC03B96?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploits + Shellcode + GHDB](https://vulners.com/kitploit/KITPLOIT:8855639068429079560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [fudshell](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-MACHINE1337-FUDSHELL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GEO.RITM REST API Auth Bypass Info Disclosure](https://vulners.com/bdu_fstec/BDU:2026-11235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -226,5 +228,6 @@
 - 爱范儿
   - [实测 Kimi K3.1 Pro，国模终于继续卷旗舰](https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事](https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线](https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%a1%be%e6%9d%9c%e5%a8%9f%e5%8d%9a%e5%a3%ab%e8%8e%b7%e8%af%84-2026%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e5%8d%81%e5%a4%a7%e4%ba%ba/)
