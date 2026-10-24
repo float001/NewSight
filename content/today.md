@@ -28,6 +28,8 @@
   - [The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review)
 - darkreading
   - [AI Tools Are Generating Massive Attacks for Little Cost](https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost)
+- defend.network
+  - [PHP Critical RCEs Under Active Exploitation; BlackX UEFI Bootkit Targets Diplomats](https://defend.network/briefings/php-critical-rce-exploited-70-percent-websites-2026-10-24.html)
 - Fidelis Security
   - [EDR Vendor Evaluation Guide: Comparing Detection, Prevention, and Response Capabilities](https://fidelissecurity.com/threatgeek/endpoint-security/edr-vendor-evaluation-guide/)
 - filfre.net
