@@ -10,6 +10,7 @@
   - [【💰】节日快乐](https://2libra.com/post/forum-function/oHQPjK0)
   - [国内如何能使用上克劳德，请大神给方法；](https://2libra.com/post/ai-tools/ue_tJrJ)
   - [提 bug 、、、虽然今天 1024](https://2libra.com/post/community/9NBK-Ra)
+  - [方便了解各种 u 卡片的网站](https://2libra.com/post/cryptocurrency/R3WSGN0)
   - [潘多拉事件延期，有能回本的么？](https://2libra.com/post/forum-function/ipu9uuw)
   - [码农节快乐！徽章已佩戴](https://2libra.com/post/forum-function/SBobZzx)
 - anildash.com
@@ -73,6 +74,8 @@
   - [reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling exploit](https://sploitus.com/exploit?id=3808E1F7-DD3F-56BC-9873-FD14F1EB8B82&utm_source=rss&utm_medium=rss)
   - [SkillSpector-NV exploit](https://sploitus.com/exploit?id=AD4C3D7F-654B-5F1E-ADD9-59AB0273B6CD&utm_source=rss&utm_medium=rss)
   - [Storm-Breaker exploit](https://sploitus.com/exploit?id=76B367E6-DAFC-534F-89A7-F54A132B8A07&utm_source=rss&utm_medium=rss)
+- steveblank.com
+  - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
 - TechCrunch
   - [Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/)
   - [Carta and NewView partner, hoping to entice more startups to let employees sell shares early](https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/)
@@ -99,6 +102,7 @@
   - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
   - [It’s time to find a new browser](https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer)
   - [Laika has spent 20 years building up to Wildwood](https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika)
+  - [Lee Chang Dong ponders the ethics of the camera](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview)
   - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
   - [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
   - [Soundcore’s latest noise-crushing headphones are on sale for a new low price](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale)
@@ -313,6 +317,8 @@
   - [绿盟科技顾杜娟博士获评 “2026中国网络安全十大人物”，前沿研发实力获行业认可](https://buaq.net/go-450489.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Google 修改隐私条款将 Gmail 和照片数据用于个性化广告](https://www.solidot.org/story?sid=85698)
 - 爱范儿
   - [iPhone Duo 2 提前曝光：FaceID、操作按钮都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一位开发者让电视服用了 Claude，这是它系统发生的变化](https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=)
