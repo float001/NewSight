@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【AFF】AG 又放水了！GPT-6 Astra 不限量，全模型降价](https://2libra.com/post/promotion/6EVvctj)
+  - [我把个人网站做成了我的世界游戏](https://2libra.com/post/personal-works/1eGaaer)
 - daringfireball.net
   - [Marion Barry Meets the iPhone Duo](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
   - [MKBHD’s Duo Review](https://youtu.be/ESABTN4VtrA)
@@ -33,6 +34,7 @@
   - [CVE-2026-60004-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ERBERKAN-CVE-2026-60004-POC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-114509](https://sploitus.com/exploit?id=189B5BF4-9245-5ED0-B968-3F0840FFEC8A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=74270B18-6EC7-5FD6-98F2-56C49FB65B64&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=A4848C63-7BD2-53C8-BB5D-B111E4A9B251&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=AD26EB8F-34B5-55BA-956C-325AADD870F5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=D36985B9-C612-5784-8ED9-33DF61A3C896&utm_source=rss&utm_medium=rss)
   - [GHSA-jpc4-w9r8-43j3 exploit](https://sploitus.com/exploit?id=D9E1287A-0186-5583-BBCB-6AF58EFD79CB&utm_source=rss&utm_medium=rss)
