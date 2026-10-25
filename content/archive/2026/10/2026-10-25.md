@@ -22,6 +22,9 @@
   - [The Goose Programming Language](https://aardappel.github.io/goose/)
 - Hexacorn
   - [Solving practical problems with AI – Part 2 – the most popular, and most commonly used passwords for malicious archives…](https://www.hexacorn.com/blog/2026/10/24/solving-practical-problems-with-ai-part-2-the-most-popular-and-most-commonly-used-passwords-for-malicious-archives/)
+- johndcook.com
+  - [Computing polar triangles with linear algebra](https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/)
+  - [Duality in spherical trigonometry](https://www.johndcook.com/blog/2026/10/24/polar-triangle/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-114509](https://sploitus.com/exploit?id=189B5BF4-9245-5ED0-B968-3F0840FFEC8A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=74270B18-6EC7-5FD6-98F2-56C49FB65B64&utm_source=rss&utm_medium=rss)
