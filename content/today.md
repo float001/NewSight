@@ -33,6 +33,7 @@
 - Sploitus.com Exploits RSS Feed
   - [CVE-2011-2461_Magento_Patch exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EDMONDSCOMMERCE-CVE-2011-2461_MAGENTO_PATCH&utm_source=rss&utm_medium=rss)
   - [CVE-2026-60004-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ERBERKAN-CVE-2026-60004-POC&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-111497](https://sploitus.com/exploit?id=26A4DB2E-6304-5A20-8881-42867DE6DA34&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-114509](https://sploitus.com/exploit?id=189B5BF4-9245-5ED0-B968-3F0840FFEC8A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=74270B18-6EC7-5FD6-98F2-56C49FB65B64&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=A4848C63-7BD2-53C8-BB5D-B111E4A9B251&utm_source=rss&utm_medium=rss)
@@ -121,3 +122,5 @@
   - [ripgrep as a lolbin](https://buaq.net/go-450612.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
