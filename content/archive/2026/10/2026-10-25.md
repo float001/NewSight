@@ -22,6 +22,7 @@
   - [Google has officially turned these Nest thermostats back into dumb thermostats](https://www.makeuseof.com/google-nest-thermostats-unsupported/)
   - [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
   - [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
+  - [New Open-Source Cybersecurity Platform Uses AI Agents to Hunt Threats](https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c)
   - [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
   - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
   - [Steal My Bitcoin](https://stealmybitcoin.com/)
@@ -55,6 +56,7 @@
   - [Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’](https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606)
   - [Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000](https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608)
 - The Decoder
+  - [OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers](https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/)
   - [OpenMobile-2 proves open-source smartphone agents can rival proprietary models](https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/)
 - The Verge
   - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
@@ -78,6 +80,8 @@
   - [CVE-2026-115996](https://vulners.com/nvd/NVD:CVE-2026-115996?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116000](https://vulners.com/nvd/NVD:CVE-2026-116000?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116004](https://vulners.com/nvd/NVD:CVE-2026-116004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116045](https://vulners.com/nvd/NVD:CVE-2026-116045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116046](https://vulners.com/nvd/NVD:CVE-2026-116046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89284](https://vulners.com/nvd/NVD:CVE-2026-89284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DIAFAN.CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
