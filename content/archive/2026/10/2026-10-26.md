@@ -3,13 +3,23 @@
 - 2Libra
   - [有没有 淘/拼/抖/东 等家的「看起来蛮贵的其实不会很贵的」优秀男装推荐？不建议潮牌大 Logo，建议干净有质感版型好的。](https://2libra.com/post/recommendations/BlKYr1w)
 - Hacker News Frontpage
+  - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
   - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
+  - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+  - [Sabre Wulf Remastered](https://gp-64.com/swr/)
 - Sploitus.com Exploits RSS Feed
   - [Sec-Knowlege exploit](https://sploitus.com/exploit?id=BDDD598A-B0D1-5974-A834-D98707395F79&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 - Vulners.com RSS Feed
+  - [CVE-2026-115817](https://vulners.com/nvd/NVD:CVE-2026-115817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115822](https://vulners.com/nvd/NVD:CVE-2026-115822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115823](https://vulners.com/nvd/NVD:CVE-2026-115823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115824](https://vulners.com/nvd/NVD:CVE-2026-115824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115825](https://vulners.com/nvd/NVD:CVE-2026-115825?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116060](https://vulners.com/nvd/NVD:CVE-2026-116060?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Sec-Knowlege](https://vulners.com/gitee/BDDD598A-B0D1-5974-A834-D98707395F79?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
