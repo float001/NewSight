@@ -119,6 +119,7 @@
   - [ZDI-CAN-33774](https://vulners.com/githubexploit/12B7ADDC-F5FA-56BD-8A33-38E914675FA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [Looking for Cybersecurity Specialists & AI Developers — Building a Security Company With Existing Clients](https://buaq.net/go-450613.html)
+  - [mitm-proxy-ja3-ja4](https://buaq.net/go-450621.html)
   - [ripgrep as a lolbin](https://buaq.net/go-450612.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
