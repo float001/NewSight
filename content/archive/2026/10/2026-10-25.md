@@ -2,6 +2,8 @@
 
 - 2Libra
   - [【AFF】AG 又放水了！GPT-6 Astra 不限量，全模型降价](https://2libra.com/post/promotion/6EVvctj)
+  - [【💰】开发了一个追番小 app --「Kuriume」栗梅](https://2libra.com/post/open-source-sharing/41yk37L)
+  - [【💰】有没有从事电商行业的大佬，AI 的使用情况如何](https://2libra.com/post/ai-applications/2PI8_hI)
   - [一个微信免提现费的邪修，适合大额提现用。](https://2libra.com/post/deal-hunter/cHieULb)
   - [一碗隆江猪脚饭的开心 🍚🍚🍚](https://2libra.com/post/personal-life/q0sRuX4)
   - [山西麻辣拌](https://2libra.com/post/local-life/jUs8hkz)
@@ -62,6 +64,7 @@
   - [Instacart reportedly discussed selling itself with DoorDash and Uber](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/)
   - [Starlink seems to be working normally again in Ukraine](https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/)
   - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+  - [The hottest AI wearables and gadgets you should know about](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/)
   - [Will AI expose the rickety infrastructure of the internet?](https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/)
 - The Block
   - [Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’](https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606)
