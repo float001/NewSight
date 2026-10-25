@@ -7,6 +7,7 @@
   - [山西麻辣拌](https://2libra.com/post/local-life/jUs8hkz)
   - [我把个人网站做成了我的世界游戏](https://2libra.com/post/personal-works/1eGaaer)
   - [搜狗输入法 OPPO 定制版被 Play 保护机制标记为风险应用](https://2libra.com/post/android/IG2iDck)
+  - [最近好像很多人都买 PS5，大家买了吗](https://2libra.com/post/game-discussion/nc9EVv3)
 - CoinTelegraph
   - [Netanyahu floats use of blockchain as solution to potential financial sanctions](https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -54,6 +55,7 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=AD26EB8F-34B5-55BA-956C-325AADD870F5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=D36985B9-C612-5784-8ED9-33DF61A3C896&utm_source=rss&utm_medium=rss)
   - [GHSA-jpc4-w9r8-43j3 exploit](https://sploitus.com/exploit?id=D9E1287A-0186-5583-BBCB-6AF58EFD79CB&utm_source=rss&utm_medium=rss)
+  - [PasswordManageSystem exploit](https://sploitus.com/exploit?id=69548CD6-371F-5405-9B41-098F8EAB8E9B&utm_source=rss&utm_medium=rss)
   - [ZDI-CAN-33774 exploit](https://sploitus.com/exploit?id=12B7ADDC-F5FA-56BD-8A33-38E914675FA1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
@@ -74,6 +76,7 @@
 - The Verge
   - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
   - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+  - [r/opensource just banned AI, non-English speakers and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
 - Vulners.com RSS Feed
   - [1C-Bitrix Before and After Photos Code Execution](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Aquarius L311 Driver Access Control](https://vulners.com/bdu_fstec/BDU:2026-15181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -97,12 +100,14 @@
   - [CVE-2026-116046](https://vulners.com/nvd/NVD:CVE-2026-116046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116049](https://vulners.com/nvd/NVD:CVE-2026-116049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116050](https://vulners.com/nvd/NVD:CVE-2026-116050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116052](https://vulners.com/nvd/NVD:CVE-2026-116052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89284](https://vulners.com/nvd/NVD:CVE-2026-89284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DIAFAN.CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Doctor Around Telemedicine Premium Authentication Bypass Info Disclosure](https://vulners.com/bdu_fstec/BDU:2026-09689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Doctor Near Telemedicine Premium Authentication Bypass](https://vulners.com/bdu_fstec/BDU:2026-09690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dr.Web ConfigD Executable Buffer Overflow DoS](https://vulners.com/bdu_fstec/BDU:2026-11940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-111497](https://vulners.com/githubexploit/70C3A83A-AD17-58EC-AA96-568FC71E0303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-114509](https://vulners.com/githubexploit/189B5BF4-9245-5ED0-B968-3F0840FFEC8A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/AD26EB8F-34B5-55BA-956C-325AADD870F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/D36985B9-C612-5784-8ED9-33DF61A3C896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -114,6 +119,7 @@
   - [MaxPatrol EDR DoS](https://vulners.com/bdu_fstec/BDU:2026-11660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OLIMPOX Authentication Bypass](https://vulners.com/bdu_fstec/BDU:2026-09322?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OLIMPOX Authentication Bypass Info Disclosure](https://vulners.com/bdu_fstec/BDU:2026-14152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [PasswordManageSystem](https://vulners.com/gitee/69548CD6-371F-5405-9B41-098F8EAB8E9B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ReadyScript e-commerce management system File Upload](https://vulners.com/bdu_fstec/BDU:2026-15180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ReadyScript e-commerce management system File Upload](https://vulners.com/bdu_fstec/BDU:2026-15749?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ReadyScript e-commerce management system Sequence Data Compromise](https://vulners.com/bdu_fstec/BDU:2026-15752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -159,6 +165,7 @@
   - [Looking for Cybersecurity Specialists & AI Developers — Building a Security Company With Existing Clients](https://buaq.net/go-450613.html)
   - [mitm-proxy-ja3-ja4](https://buaq.net/go-450621.html)
   - [ripgrep as a lolbin](https://buaq.net/go-450612.html)
+  - [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 120](https://buaq.net/go-450648.html)
   - [撸狗有助于抵抗下一次压力](https://buaq.net/go-450637.html)
   - [服务器提供商VMISS出现安全问题 独立服务器初始密码泄露需立即更改](https://buaq.net/go-450630.html)
 - 代码审计星球
