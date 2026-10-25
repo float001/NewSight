@@ -1,16 +1,24 @@
 # 今日安全资讯（2026-10-26）
 
 - 2Libra
+  - [一个小脚本，让你每次签到多获得 100 金币](https://2libra.com/post/forum-function/R97GPqd)
   - [有没有 淘/拼/抖/东 等家的「看起来蛮贵的其实不会很贵的」优秀男装推荐？不建议潮牌大 Logo，建议干净有质感版型好的。](https://2libra.com/post/recommendations/BlKYr1w)
+- daringfireball.net
+  - [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167)
 - Hacker News Frontpage
   - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
   - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
+  - [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
+  - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+  - [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)
   - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
   - [Sabre Wulf Remastered](https://gp-64.com/swr/)
 - Sploitus.com Exploits RSS Feed
   - [Sec-Knowlege exploit](https://sploitus.com/exploit?id=BDDD598A-B0D1-5974-A834-D98707395F79&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+- The Block
+  - [CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’](https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617)
 - Vulners.com RSS Feed
   - [CVE-2026-115817](https://vulners.com/nvd/NVD:CVE-2026-115817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115822](https://vulners.com/nvd/NVD:CVE-2026-115822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
