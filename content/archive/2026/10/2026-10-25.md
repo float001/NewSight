@@ -57,6 +57,8 @@
   - [Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’](https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606)
   - [Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000](https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608)
 - The Decoder
+  - [Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027](https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/)
+  - [Anthropic says one AI agent beats many subagents now that models can handle complexity alone](https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/)
   - [Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies](https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/)
   - [OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers](https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/)
   - [OpenMobile-2 proves open-source smartphone agents can rival proprietary models](https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/)
@@ -84,6 +86,8 @@
   - [CVE-2026-116004](https://vulners.com/nvd/NVD:CVE-2026-116004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116045](https://vulners.com/nvd/NVD:CVE-2026-116045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116046](https://vulners.com/nvd/NVD:CVE-2026-116046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116049](https://vulners.com/nvd/NVD:CVE-2026-116049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116050](https://vulners.com/nvd/NVD:CVE-2026-116050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89284](https://vulners.com/nvd/NVD:CVE-2026-89284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DIAFAN.CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -93,6 +97,7 @@
   - [Exploit for CVE-2026-114509](https://vulners.com/githubexploit/189B5BF4-9245-5ED0-B968-3F0840FFEC8A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/AD26EB8F-34B5-55BA-956C-325AADD870F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/D36985B9-C612-5784-8ED9-33DF61A3C896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Server-Side Request Forgery in Lfprojects Mlflow](https://vulners.com/githubexploit/BE6B13F6-2D2B-594A-95F1-DE524270BE62?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GEO.RITM REST API Auth Bypass Info Disclosure](https://vulners.com/bdu_fstec/BDU:2026-11235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [h2 library Resource Consumption DoS](https://vulners.com/bdu_fstec/BDU:2026-11885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [IAM Proxy Component Compromise Information Disclosure](https://vulners.com/bdu_fstec/BDU:2026-15562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -130,11 +135,14 @@
   - [YouGile Project Management XSS](https://vulners.com/bdu_fstec/BDU:2026-12633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ZDI-CAN-33774](https://vulners.com/githubexploit/12B7ADDC-F5FA-56BD-8A33-38E914675FA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries](https://www.wired.com/review/hyve-smart-package-locker/)
   - [We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound](https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/)
+  - [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
 - 不安全
   - [Looking for Cybersecurity Specialists & AI Developers — Building a Security Company With Existing Clients](https://buaq.net/go-450613.html)
   - [mitm-proxy-ja3-ja4](https://buaq.net/go-450621.html)
   - [ripgrep as a lolbin](https://buaq.net/go-450612.html)
+  - [服务器提供商VMISS出现安全问题 独立服务器初始密码泄露需立即更改](https://buaq.net/go-450630.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
