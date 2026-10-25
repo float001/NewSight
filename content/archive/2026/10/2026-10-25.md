@@ -4,7 +4,10 @@
   - [【AFF】AG 又放水了！GPT-6 Astra 不限量，全模型降价](https://2libra.com/post/promotion/6EVvctj)
   - [一个微信免提现费的邪修，适合大额提现用。](https://2libra.com/post/deal-hunter/cHieULb)
   - [一碗隆江猪脚饭的开心 🍚🍚🍚](https://2libra.com/post/personal-life/q0sRuX4)
+  - [山西麻辣拌](https://2libra.com/post/local-life/jUs8hkz)
   - [我把个人网站做成了我的世界游戏](https://2libra.com/post/personal-works/1eGaaer)
+- CoinTelegraph
+  - [Netanyahu floats use of blockchain as solution to potential financial sanctions](https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Marion Barry Meets the iPhone Duo](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
   - [MKBHD’s Duo Review](https://youtu.be/ESABTN4VtrA)
@@ -20,6 +23,7 @@
   - [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
   - [Danish Government silently drops plan to dump MS Office](https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft)
   - [Dream-1](https://dreamlabs.ai/research/dream-1/)
+  - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
   - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](https://www.science.org/doi/10.1126/sciadv.aeh8870)
   - [Google has officially turned these Nest thermostats back into dumb thermostats](https://www.makeuseof.com/google-nest-thermostats-unsupported/)
   - [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
@@ -137,9 +141,11 @@
   - [YouGile Project Management XSS](https://vulners.com/bdu_fstec/BDU:2026-12633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ZDI-CAN-33774](https://vulners.com/githubexploit/12B7ADDC-F5FA-56BD-8A33-38E914675FA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola](https://www.wired.com/gallery/best-folding-phones/)
   - [Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool](https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/)
   - [Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries](https://www.wired.com/review/hyve-smart-package-locker/)
   - [Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later](https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/)
+  - [Scientists Trapped an Antimatter Particle for Months to Study Its Secrets](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/)
   - [The MacBook Pro Max Just Dropped to Its Lowest Price Ever](https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/)
   - [We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound](https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/)
   - [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
@@ -149,8 +155,11 @@
   - [Looking for Cybersecurity Specialists & AI Developers — Building a Security Company With Existing Clients](https://buaq.net/go-450613.html)
   - [mitm-proxy-ja3-ja4](https://buaq.net/go-450621.html)
   - [ripgrep as a lolbin](https://buaq.net/go-450612.html)
+  - [撸狗有助于抵抗下一次压力](https://buaq.net/go-450637.html)
   - [服务器提供商VMISS出现安全问题 独立服务器初始密码泄露需立即更改](https://buaq.net/go-450630.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [撸狗有助于抵抗下一次压力](https://www.solidot.org/story?sid=85703)
 - 爱范儿
   - [iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
