@@ -16,12 +16,14 @@
   - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
   - [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
   - [Sabre Wulf Remastered](https://gp-64.com/swr/)
+  - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
 - johndcook.com
   - [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/)
 - Sploitus.com Exploits RSS Feed
   - [Sec-Knowlege exploit](https://sploitus.com/exploit?id=BDDD598A-B0D1-5974-A834-D98707395F79&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+  - [‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
 - The Block
   - [CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’](https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617)
 - The Verge
