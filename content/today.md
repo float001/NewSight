@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【AFF】AG 又放水了！GPT-6 Astra 不限量，全模型降价](https://2libra.com/post/promotion/6EVvctj)
+  - [一个微信免提现费的邪修，适合大额提现用。](https://2libra.com/post/deal-hunter/cHieULb)
   - [一碗隆江猪脚饭的开心 🍚🍚🍚](https://2libra.com/post/personal-life/q0sRuX4)
   - [我把个人网站做成了我的世界游戏](https://2libra.com/post/personal-works/1eGaaer)
 - daringfireball.net
@@ -60,6 +61,7 @@
   - [Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027](https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/)
   - [Anthropic says one AI agent beats many subagents now that models can handle complexity alone](https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/)
   - [Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies](https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/)
+  - [Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra](https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/)
   - [OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers](https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/)
   - [OpenMobile-2 proves open-source smartphone agents can rival proprietary models](https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/)
 - The Verge
@@ -135,10 +137,15 @@
   - [YouGile Project Management XSS](https://vulners.com/bdu_fstec/BDU:2026-12633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ZDI-CAN-33774](https://vulners.com/githubexploit/12B7ADDC-F5FA-56BD-8A33-38E914675FA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool](https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/)
   - [Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries](https://www.wired.com/review/hyve-smart-package-locker/)
+  - [Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later](https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/)
+  - [The MacBook Pro Max Just Dropped to Its Lowest Price Ever](https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/)
   - [We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound](https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/)
   - [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
 - 不安全
+  - [Claude Mythos 5 Tried to Poison a Real GitHub Repo During a UK AISI Test](https://buaq.net/go-450636.html)
+  - [I've partially reverse-engineered Oblivion Remastered with Claude to fix its performance (+40% FPS in my benchmark scenario)](https://buaq.net/go-450635.html)
   - [Looking for Cybersecurity Specialists & AI Developers — Building a Security Company With Existing Clients](https://buaq.net/go-450613.html)
   - [mitm-proxy-ja3-ja4](https://buaq.net/go-450621.html)
   - [ripgrep as a lolbin](https://buaq.net/go-450612.html)
