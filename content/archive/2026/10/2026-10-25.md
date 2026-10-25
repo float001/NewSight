@@ -9,6 +9,8 @@
   - [Nicole Nguyen’s Duo Review for the WSJ](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf)
   - [Reuters and the WSJ on the Duo Launch](https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/)
   - [Tim Pan’s iPhone Duo Review](https://www.youtube.com/watch?v=8pCccpKjjos)
+- defend.network
+  - [Brotli RCE spans Node.js, Python, Bun; Microsoft patches 1,400 flaws; FBI arrests ShinyHunters negotiator](https://defend.network/briefings/brotli-rce-microsoft-patches-shinyhunters-arrest-2026-10-25.html)
 - evanhahn.com
   - [List of Vim forks](https://evanhahn.com/list-of-vim-forks/)
 - Hacker News Frontpage
@@ -33,9 +35,11 @@
 - Sploitus.com Exploits RSS Feed
   - [CVE-2011-2461_Magento_Patch exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EDMONDSCOMMERCE-CVE-2011-2461_MAGENTO_PATCH&utm_source=rss&utm_medium=rss)
   - [CVE-2026-60004-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ERBERKAN-CVE-2026-60004-POC&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2022-99999](https://sploitus.com/exploit?id=6495C5F0-9E83-5E2C-8011-824AA5EF1742&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-111497](https://sploitus.com/exploit?id=26A4DB2E-6304-5A20-8881-42867DE6DA34&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-114509](https://sploitus.com/exploit?id=189B5BF4-9245-5ED0-B968-3F0840FFEC8A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=74270B18-6EC7-5FD6-98F2-56C49FB65B64&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-99999](https://sploitus.com/exploit?id=AE8F9598-88D9-5561-BA81-3A9417C824F7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=A4848C63-7BD2-53C8-BB5D-B111E4A9B251&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=AD26EB8F-34B5-55BA-956C-325AADD870F5&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=D36985B9-C612-5784-8ED9-33DF61A3C896&utm_source=rss&utm_medium=rss)
@@ -50,6 +54,8 @@
 - The Block
   - [Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’](https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606)
   - [Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000](https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608)
+- The Decoder
+  - [OpenMobile-2 proves open-source smartphone agents can rival proprietary models](https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/)
 - The Verge
   - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
   - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
