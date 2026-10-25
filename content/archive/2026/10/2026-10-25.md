@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【AFF】AG 又放水了！GPT-6 Astra 不限量，全模型降价](https://2libra.com/post/promotion/6EVvctj)
+  - [一碗隆江猪脚饭的开心 🍚🍚🍚](https://2libra.com/post/personal-life/q0sRuX4)
   - [我把个人网站做成了我的世界游戏](https://2libra.com/post/personal-works/1eGaaer)
 - daringfireball.net
   - [Marion Barry Meets the iPhone Duo](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
@@ -56,6 +57,7 @@
   - [Argentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’](https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606)
   - [Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000](https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608)
 - The Decoder
+  - [Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies](https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/)
   - [OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers](https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/)
   - [OpenMobile-2 proves open-source smartphone agents can rival proprietary models](https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/)
 - The Verge
@@ -127,6 +129,8 @@
   - [YouGile Project Management Service Unauthorized Access](https://vulners.com/bdu_fstec/BDU:2026-12635?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [YouGile Project Management XSS](https://vulners.com/bdu_fstec/BDU:2026-12633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ZDI-CAN-33774](https://vulners.com/githubexploit/12B7ADDC-F5FA-56BD-8A33-38E914675FA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound](https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/)
 - 不安全
   - [Looking for Cybersecurity Specialists & AI Developers — Building a Security Company With Existing Clients](https://buaq.net/go-450613.html)
   - [mitm-proxy-ja3-ja4](https://buaq.net/go-450621.html)
