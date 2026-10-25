@@ -6,6 +6,7 @@
   - [一碗隆江猪脚饭的开心 🍚🍚🍚](https://2libra.com/post/personal-life/q0sRuX4)
   - [山西麻辣拌](https://2libra.com/post/local-life/jUs8hkz)
   - [我把个人网站做成了我的世界游戏](https://2libra.com/post/personal-works/1eGaaer)
+  - [搜狗输入法 OPPO 定制版被 Play 保护机制标记为风险应用](https://2libra.com/post/android/IG2iDck)
 - CoinTelegraph
   - [Netanyahu floats use of blockchain as solution to potential financial sanctions](https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -39,6 +40,8 @@
 - johndcook.com
   - [Computing polar triangles with linear algebra](https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/)
   - [Duality in spherical trigonometry](https://www.johndcook.com/blog/2026/10/24/polar-triangle/)
+- shkspr.mobi
+  - [Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪](https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/)
 - Sploitus.com Exploits RSS Feed
   - [CVE-2011-2461_Magento_Patch exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EDMONDSCOMMERCE-CVE-2011-2461_MAGENTO_PATCH&utm_source=rss&utm_medium=rss)
   - [CVE-2026-60004-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ERBERKAN-CVE-2026-60004-POC&utm_source=rss&utm_medium=rss)
@@ -147,6 +150,7 @@
   - [Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later](https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/)
   - [Scientists Trapped an Antimatter Particle for Months to Study Its Secrets](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/)
   - [The MacBook Pro Max Just Dropped to Its Lowest Price Ever](https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/)
+  - [Wallhack M-001 Review: When Fun Overrides Specs](https://www.wired.com/review/wallhack-m-001/)
   - [We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound](https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/)
   - [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
 - 不安全
@@ -163,3 +167,5 @@
   - [撸狗有助于抵抗下一次压力](https://www.solidot.org/story?sid=85703)
 - 爱范儿
   - [iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [DeepSeek Harness 破甲 网络安全红队工具（dsh-purge）](https://blog.upx8.com/DeepSeek-Harness-dsh-purge)
