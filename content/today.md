@@ -31,6 +31,7 @@
   - [Computing polar triangles with linear algebra](https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/)
   - [Duality in spherical trigonometry](https://www.johndcook.com/blog/2026/10/24/polar-triangle/)
 - Sploitus.com Exploits RSS Feed
+  - [CVE-2011-2461_Magento_Patch exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EDMONDSCOMMERCE-CVE-2011-2461_MAGENTO_PATCH&utm_source=rss&utm_medium=rss)
   - [CVE-2026-60004-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ERBERKAN-CVE-2026-60004-POC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-114509](https://sploitus.com/exploit?id=189B5BF4-9245-5ED0-B968-3F0840FFEC8A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-64560](https://sploitus.com/exploit?id=74270B18-6EC7-5FD6-98F2-56C49FB65B64&utm_source=rss&utm_medium=rss)
@@ -68,6 +69,8 @@
   - [CVE-2026-115973](https://vulners.com/nvd/NVD:CVE-2026-115973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115995](https://vulners.com/nvd/NVD:CVE-2026-115995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115996](https://vulners.com/nvd/NVD:CVE-2026-115996?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116000](https://vulners.com/nvd/NVD:CVE-2026-116000?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116004](https://vulners.com/nvd/NVD:CVE-2026-116004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89284](https://vulners.com/nvd/NVD:CVE-2026-89284?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DIAFAN.CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
