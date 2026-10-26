@@ -39,10 +39,12 @@
   - [BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein](https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Keystone says website breach exposed hardware wallet buyers’ addresses](https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Musk warns over 200 AI neoclouds face ‘guppy-level death’](https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Securitize’s tokenized stock value halves as Circle widens lead](https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin](https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy skips Bitcoin purchases, spends $205M on STRC buybacks](https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Apple Watch owner learns they can’t charge their device with a $42 charger from China](https://cybernews.com/tech/apple-watch-charger-standard-china/)
   - [Berliner Datenschutz erklärt politisches Mikrotargeting für rechtswidrig](https://cybernews.com/de/news/berliner-datenschutz-politisches-mikrotargeting-rechtswidrig/)
@@ -58,6 +60,8 @@
   - [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/)
   - [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167)
   - [Sunnny](https://sunnny.com/)
+- darkreading
+  - [10 Software Security Practices Built for the Next 250 Years](https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years)
 - defend.network
   - [Tailscale SSH, LiteLLM supply-chain, Arista VeloCloud exploits active](https://defend.network/briefings/tailscale-ssh-litellm-arista-velocloud-exploits-2026-10-26.html)
 - Hacker News Frontpage
@@ -83,6 +87,7 @@
   - [Writing Is Closer to Thought Than Code](https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code)
 - infosecurity-magazine.com
   - [Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database](https://www.infosecurity-magazine.com/news/blue-initiative-maritime/)
+  - [Linux Flaws Exposed Before Fixes as Root Exploit Goes Public](https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/)
   - [Microsoft Issues Emergency Patch Update for Critical .NET Buffer Overflow Flaw](https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/)
   - [PHP Publishes Mitigation Advice for New RCE Flaw](https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/)
 - johndcook.com
@@ -104,6 +109,8 @@
   - [Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger](https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712)
   - [CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’](https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617)
   - [Galaxy says bitcoin bear market is over; now is the time to buy and hold](https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720)
+  - [Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares](https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699)
+  - [Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase](https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729)
 - The Decoder
   - [Toyota is betting $6.4 billion a year on humanoid robots and factory automation](https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/)
   - [Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI](https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/)
@@ -221,6 +228,8 @@
   - [DELTA](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-OPENNETWORKINGFOUNDATION-DELTA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DIAFAN.CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Doctor Around Telemedicine Premium Authentication Bypass Info Disclosure](https://vulners.com/bdu_fstec/BDU:2026-09689?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Doctor Near Telemedicine Premium Authentication Bypass](https://vulners.com/bdu_fstec/BDU:2026-09690?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Dr.Web ConfigD Executable Buffer Overflow DoS](https://vulners.com/bdu_fstec/BDU:2026-11940?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ecapture](https://vulners.com/kitploit/KITPLOIT:POSTS-GITHUB-GOJUE-ECAPTURE-V252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [exe2powershell](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-YANNCAM-EXE2POWERSHELL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -244,6 +253,7 @@
   - [monsoon](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-REDTEAMPENTESTING-MONSOON?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [o365spray](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-0XZDH-O365SPRAY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [offensive-docker-vps](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AAAGUIRREP-OFFENSIVE-DOCKER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [OLIMPOX Authentication Bypass](https://vulners.com/bdu_fstec/BDU:2026-09322?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [OLIMPOX Authentication Bypass Info Disclosure](https://vulners.com/bdu_fstec/BDU:2026-14152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [openclaw](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LINTSINGHUA-DEEPAUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ReadyScript e-commerce management system File Upload](https://vulners.com/bdu_fstec/BDU:2026-15180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -255,6 +265,7 @@
   - [Resources-for-Beginner-Bug-Bounty-Hunters](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NAHAMSEC-RESOURCES-FOR-BEGINNER-BUG-BOUNTY-HUNTERS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SafeText](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-DAVIDJACOBSON-SAFETEXT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Sec-Knowlege](https://vulners.com/gitee/BDDD598A-B0D1-5974-A834-D98707395F79?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Security Bulletin: IBM App Connect Enterprise Toolkit is vulnerable to remote code execution (CVE-2026-109618, CVE-2026-109619)](https://vulners.com/ibm/9140ACF85CEACE2478B4469497BA982330A158AF7ADEE75B460A7DA19186DC53?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Shtab Project Access Control Unauthorized Access](https://vulners.com/bdu_fstec/BDU:2026-13480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [slowloris](https://vulners.com/kitploit/KITPLOIT:762571165268287138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [staekka](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-J-0-T-STAEKKA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -272,6 +283,8 @@
   - [vvdecapp reconstructCoeff Memory Use After Free](https://vulners.com/bdu_fstec/BDU:2026-15071?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vvdecapp reconstructCoeff Memory Use After Free](https://vulners.com/bdu_fstec/BDU:2026-15072?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vvdecapp reconstructCoeff Memory Use After Free](https://vulners.com/bdu_fstec/BDU:2026-15073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Webasyst Shop-Script CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-09057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Webasyst Shop-Script CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-09059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Windows Update Orchestrator Service Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-13479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Windows Update Orchestrator Service Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [XSpider PRO MaxPatrol VM Mobile Resource Consumption DoS](https://vulners.com/bdu_fstec/BDU:2026-16702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -293,7 +306,9 @@
   - [Valve Steam Frame Review: Costly and Inconsistent](https://www.wired.com/review/valve-steam-frame/)
 - 不安全
   - [hashcat v8.0.0](https://buaq.net/go-450708.html)
+  - [I modified my Nikon Z7's firmware to add a 3×3 rule-of-thirds grid](https://buaq.net/go-450797.html)
   - [ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)](https://buaq.net/go-450709.html)
+  - [need help on disk imagingg](https://buaq.net/go-450817.html)
   - [rea-rust](https://buaq.net/go-450684.html)
   - [sclock](https://buaq.net/go-450699.html)
   - [sliver v1.7.9](https://buaq.net/go-450745.html)
