@@ -5,8 +5,11 @@
 - Ars Technica
   - [Boston Dynamics employees want to block sale of robot dogs to ICE](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)
   - [Musk accuses Ukraine of violating Starlink terms with deadly drone strikes](https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/)
+- CERT Recently Published Vulnerability Notes
+  - [VU#128947: COVESA vsomeip excessive memory allocation in reliable (TCP) endpoint buffer handling](https://kb.cert.org/vuls/id/128947)
 - CoinTelegraph
   - [AI company Anthropic announces IPO, expected as early as November](https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Canada opens consultation on stablecoins, citing US GENIUS Act](https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea lawmakers mull pushing crypto tax implementation to 2029](https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -20,6 +23,7 @@
   - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
   - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
   - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+  - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
   - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
   - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
 - infosecurity-magazine.com
@@ -35,12 +39,15 @@
   - [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
   - [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
   - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
+  - [Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
 - The Block
+  - [CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell](https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790)
   - [Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer](https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787)
   - [NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
   - [Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
   - [Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
 - The Decoder
+  - [Anthropic opens its books for Wall Street, showing record revenue and mounting obligations](https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/)
   - [Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit](https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/)
   - [Researchers find six patterns that make AI text so exhausting to read](https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/)
 - The Verge
@@ -49,9 +56,14 @@
 - Vulners.com RSS Feed
   - [CVE-2013-10077](https://vulners.com/nvd/NVD:CVE-2013-10077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102649 Burrito: Unauthenticated webhooks trigger unauthorized Terraform plans when webhookSecret is unset](https://vulners.com/cvelist/CVELIST:CVE-2026-102649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-104591](https://vulners.com/nvd/NVD:CVE-2026-104591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-104592](https://vulners.com/nvd/NVD:CVE-2026-104592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-104593](https://vulners.com/nvd/NVD:CVE-2026-104593?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-104594](https://vulners.com/nvd/NVD:CVE-2026-104594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106676](https://vulners.com/nvd/NVD:CVE-2026-106676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106677](https://vulners.com/nvd/NVD:CVE-2026-106677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107091](https://vulners.com/nvd/NVD:CVE-2026-107091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110720](https://vulners.com/nvd/NVD:CVE-2026-110720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114710](https://vulners.com/nvd/NVD:CVE-2026-114710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115418](https://vulners.com/nvd/NVD:CVE-2026-115418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115597](https://vulners.com/nvd/NVD:CVE-2026-115597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -76,8 +88,15 @@
   - [CVE-2026-116395](https://vulners.com/nvd/NVD:CVE-2026-116395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116396](https://vulners.com/nvd/NVD:CVE-2026-116396?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116403](https://vulners.com/nvd/NVD:CVE-2026-116403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116467](https://vulners.com/nvd/NVD:CVE-2026-116467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116471](https://vulners.com/nvd/NVD:CVE-2026-116471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116476](https://vulners.com/circl/CIRCL:CVE-2026-116476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116476](https://vulners.com/nvd/NVD:CVE-2026-116476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116596](https://vulners.com/nvd/NVD:CVE-2026-116596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116612](https://vulners.com/nvd/NVD:CVE-2026-116612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116631](https://vulners.com/nvd/NVD:CVE-2026-116631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116632](https://vulners.com/nvd/NVD:CVE-2026-116632?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116638](https://vulners.com/nvd/NVD:CVE-2026-116638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19742](https://vulners.com/nvd/NVD:CVE-2026-19742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71455](https://vulners.com/nvd/NVD:CVE-2026-71455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71456](https://vulners.com/nvd/NVD:CVE-2026-71456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -93,7 +112,10 @@
   - [CVE-2026-82388](https://vulners.com/nvd/NVD:CVE-2026-82388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82389](https://vulners.com/nvd/NVD:CVE-2026-82389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82390](https://vulners.com/nvd/NVD:CVE-2026-82390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/FAC7104F-F0EB-52BD-91DC-06F53954891D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [php2shell_offsec](https://vulners.com/githubexploit/96C93214-21CC-5A5A-BBAA-600655668548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now](https://www.wired.com/story/apple-airtag-deal-october-2026/)
   - [Google Fitbit Edge Review: I Still Prefer the Air (2026)](https://www.wired.com/review/google-fitbit-edge/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
