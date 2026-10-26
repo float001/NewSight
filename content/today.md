@@ -2,9 +2,12 @@
 
 - 404 Media
   - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
+  - [Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job](https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/)
 - Ars Technica
   - [Boston Dynamics employees want to block sale of robot dogs to ICE](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)
   - [Musk accuses Ukraine of violating Starlink terms with deadly drone strikes](https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/)
+- ByteByteGo
+  - [Last chance to get every live course in one membership](https://blog.bytebytego.com/p/last-chance-to-get-every-live-course)
 - CERT Recently Published Vulnerability Notes
   - [VU#128947: COVESA vsomeip excessive memory allocation in reliable (TCP) endpoint buffer handling](https://kb.cert.org/vuls/id/128947)
 - CoinTelegraph
@@ -26,6 +29,7 @@
   - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
   - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
   - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
+  - [US fired over 600 missile interceptors defending Israel in three years](https://www.stephensemler.com/p/us-fired-over-600-missile-interceptors)
 - infosecurity-magazine.com
   - [CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure](https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/)
 - johndcook.com
@@ -34,6 +38,8 @@
   - [Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health](https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health)
 - simonwillison.net
   - [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=A10982E2-F473-55F2-9216-F6913857F12B&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
   - [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
@@ -48,6 +54,7 @@
   - [Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
 - The Decoder
   - [Anthropic opens its books for Wall Street, showing record revenue and mounting obligations](https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/)
+  - [GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models](https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/)
   - [Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit](https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/)
   - [Researchers find six patterns that make AI text so exhausting to read](https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/)
 - The Verge
@@ -115,7 +122,9 @@
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/FAC7104F-F0EB-52BD-91DC-06F53954891D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [php2shell_offsec](https://vulners.com/githubexploit/96C93214-21CC-5A5A-BBAA-600655668548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks](https://www.wired.com/story/anker-halloween-sale-oct-2026/)
   - [Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now](https://www.wired.com/story/apple-airtag-deal-october-2026/)
+  - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)
   - [Google Fitbit Edge Review: I Still Prefer the Air (2026)](https://www.wired.com/review/google-fitbit-edge/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
