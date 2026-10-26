@@ -12,6 +12,7 @@
   - [最近北方降温了，早上上班都不想起来](https://2libra.com/post/personal-life/IDuj6Su)
   - [有取名需求吗，我做了个根据八字取名的小程序](https://2libra.com/post/personal-works/PKqlDsE)
   - [有没有 淘/拼/抖/东 等家的「看起来蛮贵的其实不会很贵的」优秀男装推荐？不建议潮牌大 Logo，建议干净有质感版型好的。](https://2libra.com/post/recommendations/BlKYr1w)
+  - [来一起抓螃蟹 🦀 吧](https://2libra.com/post/personal-works/hKswQTc)
 - CoinTelegraph
   - [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -56,6 +57,8 @@
   - [iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
   - [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review)
   - [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Can’t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Vulners.com RSS Feed
   - [1C-Bitrix Before and After Photos Code Execution](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [aerleon](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AERLEON-AERLEON?utm_source=rss&utm_medium=rss&utm_campaign=rss)
