@@ -2,16 +2,19 @@
 
 - 2Libra
   - [GPT-plus 还有必要续吗（土区₺499,99）](https://2libra.com/post/ai-tools/kfC23Zt)
+  - [《蔚来萤火虫》点评：7 分｜购入蔚来萤火虫 100 天, 谈谈用车感受](https://2libra.com/post/personal-life/IqOEjnA)
   - [【💰】《影之刃 零》MC 評分 88 分](https://2libra.com/post/game-discussion/rh9rBvP)
   - [一个小脚本，让你每次签到多获得 100 金币](https://2libra.com/post/forum-function/R97GPqd)
   - [出昨天下午开的 88VIP](https://2libra.com/post/second-hand/0ALnEtl)
   - [原来评论数值和汉字之间会自动加空格，太细节了。](https://2libra.com/post/forum-function/eQduIWc)
+  - [大家有自己的知识库吗？都放什么东西？](https://2libra.com/post/note-management/x2Lq1Sj)
   - [宇宙终极答案-111111](https://2libra.com/post/slacking-off/WuPwntJ)
   - [最近北方降温了，早上上班都不想起来](https://2libra.com/post/personal-life/IDuj6Su)
   - [有取名需求吗，我做了个根据八字取名的小程序](https://2libra.com/post/personal-works/PKqlDsE)
   - [有没有 淘/拼/抖/东 等家的「看起来蛮贵的其实不会很贵的」优秀男装推荐？不建议潮牌大 Logo，建议干净有质感版型好的。](https://2libra.com/post/recommendations/BlKYr1w)
 - CoinTelegraph
   - [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Keystone says website breach exposed hardware wallet buyers’ addresses](https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin](https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -23,6 +26,7 @@
   - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
   - [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
   - [Apollo says AI has delivered 'zero financial payoff' outside the tech industry](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
+  - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
   - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
   - [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here)
   - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
@@ -32,8 +36,10 @@
   - [Lula wins election after final votes tallied](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
   - [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
   - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+  - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
   - [Sabre Wulf Remastered](https://gp-64.com/swr/)
   - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
+  - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
   - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
 - johndcook.com
   - [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/)
@@ -79,6 +85,11 @@
   - [CVE-2026-116102](https://vulners.com/nvd/NVD:CVE-2026-116102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116103](https://vulners.com/nvd/NVD:CVE-2026-116103?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116104](https://vulners.com/nvd/NVD:CVE-2026-116104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116109](https://vulners.com/nvd/NVD:CVE-2026-116109?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116110](https://vulners.com/nvd/NVD:CVE-2026-116110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116111](https://vulners.com/nvd/NVD:CVE-2026-116111?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116112](https://vulners.com/nvd/NVD:CVE-2026-116112?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [cxx-memory-safety-advisories](https://vulners.com/githubexploit/A391BB1F-D991-5088-99E1-0708DA128BD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DELTA](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-OPENNETWORKINGFOUNDATION-DELTA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DIAFAN.CMS SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-11903?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -140,9 +151,12 @@
   - [zen-desktop](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IRBIS-SH-ZEN-DESKTOP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zmap](https://vulners.com/kitploit/KITPLOIT:5387473293315956674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [hashcat v8.0.0](https://buaq.net/go-450708.html)
+  - [ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)](https://buaq.net/go-450709.html)
   - [rea-rust](https://buaq.net/go-450684.html)
   - [sclock](https://buaq.net/go-450699.html)
   - [Tailscale SSH 被曝安全漏洞：一台设备失守，可获得其他服务器 root 权限｜另外还有11项漏洞](https://buaq.net/go-450697.html)
+  - [喜报！微软测试在Windows 11中添加原生网络测速 不需要再跳转到浏览器](https://buaq.net/go-450704.html)
   - [真热闹！爱好者们使用eMudhra泄露证书为谷歌签发10.6万张证书 能通过CA公钥认证](https://buaq.net/go-450691.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
