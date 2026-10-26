@@ -10,6 +10,7 @@
   - [Last chance to get every live course in one membership](https://blog.bytebytego.com/p/last-chance-to-get-every-live-course)
 - CERT Recently Published Vulnerability Notes
   - [VU#128947: COVESA vsomeip excessive memory allocation in reliable (TCP) endpoint buffer handling](https://kb.cert.org/vuls/id/128947)
+  - [VU#701544: mpc-lib Hardened Derivation Fails to Protect Ancestor Isolation](https://kb.cert.org/vuls/id/701544)
 - CoinTelegraph
   - [AI company Anthropic announces IPO, expected as early as November](https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canada opens consultation on stablecoins, citing US GENIUS Act](https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -28,6 +29,7 @@
   - [Risks &amp; Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)
 - Hacker News Frontpage
   - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+  - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
   - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
   - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
   - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
@@ -186,6 +188,7 @@
   - [Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now](https://www.wired.com/story/apple-airtag-deal-october-2026/)
   - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)
   - [Google Fitbit Edge Review: I Still Prefer the Air (2026)](https://www.wired.com/review/google-fitbit-edge/)
+  - [Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’](https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/)
   - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
