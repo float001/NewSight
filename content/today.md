@@ -5,6 +5,7 @@
   - [有没有 淘/拼/抖/东 等家的「看起来蛮贵的其实不会很贵的」优秀男装推荐？不建议潮牌大 Logo，建议干净有质感版型好的。](https://2libra.com/post/recommendations/BlKYr1w)
 - CoinTelegraph
   - [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin](https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/)
   - [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167)
@@ -19,6 +20,8 @@
   - [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
   - [I made a virtual pet fruit fly that Twitch chat can interact with](https://www.twitch.tv/flytwitcher)
   - [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+  - [Lula Wins Brazilian Election](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados)
+  - [Lula wins election after final votes tallied](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
   - [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
   - [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
   - [Sabre Wulf Remastered](https://gp-64.com/swr/)
@@ -78,7 +81,11 @@
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zen-desktop](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IRBIS-SH-ZEN-DESKTOP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zmap](https://vulners.com/kitploit/KITPLOIT:5387473293315956674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [rea-rust](https://buaq.net/go-450684.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄](https://www.solidot.org/story?sid=85706)
+- 爱范儿
+  - [早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场](https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=)
