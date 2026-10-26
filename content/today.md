@@ -23,12 +23,15 @@
   - [有没有 淘/拼/抖/东 等家的「看起来蛮贵的其实不会很贵的」优秀男装推荐？不建议潮牌大 Logo，建议干净有质感版型好的。](https://2libra.com/post/recommendations/BlKYr1w)
   - [来一起抓螃蟹 🦀 吧](https://2libra.com/post/personal-works/hKswQTc)
   - [浪费 token 写了一个 找工作，练习面试的网页](https://2libra.com/post/open-source-sharing/Y0PSOeW)
+  - [清代第一艳情小说《肉蒲团》，主角未央生贪尽天下美色，最终结局有多讽刺？](https://2libra.com/post/good-books/K6AKJqg)
   - [理想中的年轻人](https://2libra.com/post/social-observation/vHc5tLW)
   - [精神状态](https://2libra.com/post/mental-health/9GwDoS7)
   - [这个动画效果怎么样](https://2libra.com/post/personal-works/zFxnaAa)
 - bunnie's blog
   - [Name that Ware, October 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-october-2026/)
   - [Winner, Name that Ware September 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-september-2026/)
+- Chainalysis Blog
+  - [War, Shutdowns, and Licensing Reshape MENA’s $443 Billion Crypto Economy](https://www.chainalysis.com/blog/middle-east-north-africa-crypto-adoption-2026/)
 - CoinTelegraph
   - [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger](https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -44,6 +47,8 @@
   - [Apple Watch owner learns they can’t charge their device with a $42 charger from China](https://cybernews.com/tech/apple-watch-charger-standard-china/)
   - [Berliner Datenschutz erklärt politisches Mikrotargeting für rechtswidrig](https://cybernews.com/de/news/berliner-datenschutz-politisches-mikrotargeting-rechtswidrig/)
   - [Chinese national extradited over alleged $36.9M crypto scam](https://cybernews.com/news/china-crypto-scam/)
+  - [Hisense faces $5 million ransom demand over alleged 19GB data theft](https://cybernews.com/security/ransomware-operator-claims-hisense-demands-5-million/)
+  - [iPhone Duo cracked screen images appear hours after purchase, but tech pros aren’t buying it](https://cybernews.com/tech/iphone-duo-broken-screen/)
   - [Mark Cuban says AI hack agents are like cockroaches](https://cybernews.com/ai-news/mark-cuban-says-ai-hack-agents-are-like-cockroaches/)
   - [Researcher hacks into “Steal My Bitcoin” server in PHP security test](https://cybernews.com/news/bitcoin-php-security/)
   - [Samsung accused of spying on users and then sharing data with 400+ partners](https://cybernews.com/privacy/samsung-smart-tv-spying-microphones-ai/)
@@ -75,23 +80,30 @@
   - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
   - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
   - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+  - [Writing Is Closer to Thought Than Code](https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code)
 - infosecurity-magazine.com
   - [Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database](https://www.infosecurity-magazine.com/news/blue-initiative-maritime/)
+  - [Microsoft Issues Emergency Patch Update for Critical .NET Buffer Overflow Flaw](https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/)
   - [PHP Publishes Mitigation Advice for New RCE Flaw](https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/)
 - johndcook.com
   - [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/)
 - Shell is Only the Beginning
   - [Passkey enrollment and account recovery, the new weak point](https://www.darkoperator.com/blog/2026/10/26/passkey-enrollment-and-account-recovery-the-new-weak-point)
+- shkspr.mobi
+  - [Theatre Review: Opera UnTouched's "The Telephone" ★★★★★](https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/)
 - Sploitus.com Exploits RSS Feed
+  - [cybersecurity-lab-reports exploit](https://sploitus.com/exploit?id=375E0D6D-F6FD-5009-AC38-AA9DD2AC59A8&utm_source=rss&utm_medium=rss)
   - [Sec-Knowlege exploit](https://sploitus.com/exploit?id=BDDD598A-B0D1-5974-A834-D98707395F79&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
   - [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
+  - [Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)](https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/)
   - [The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/)
   - [‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
 - The Block
   - [Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger](https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712)
   - [CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’](https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617)
+  - [Galaxy says bitcoin bear market is over; now is the time to buy and hold](https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720)
 - The Decoder
   - [Toyota is betting $6.4 billion a year on humanoid robots and factory automation](https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/)
   - [Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI](https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/)
@@ -274,6 +286,7 @@
   - [LG B6 OLED TV Review (2026)](https://www.wired.com/review/lg-b6/)
   - [Lykyn Review: A Mushroom Garden Worth Showing Off](https://www.wired.com/review/lykyn-automated-mushroom-grow-box/)
   - [Meet the AI Agents Trying to Be Real-Life Journalists](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
+  - [Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why](https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/)
   - [The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It](https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/)
   - [The Tragedy of Having a Wikipedia Page—and Then Losing It](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
   - [This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners](https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/)
