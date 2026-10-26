@@ -27,6 +27,8 @@
   - [理想中的年轻人](https://2libra.com/post/social-observation/vHc5tLW)
   - [精神状态](https://2libra.com/post/mental-health/9GwDoS7)
   - [这个动画效果怎么样](https://2libra.com/post/personal-works/zFxnaAa)
+- berthub.eu
+  - [De IT-onmacht van de Nederlandse overheid](https://berthub.eu/articles/posts/de-it-onmacht-van-de-nederlands-overheid/)
 - bunnie's blog
   - [Name that Ware, October 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-october-2026/)
   - [Winner, Name that Ware September 2026](https://www.bunniestudios.com/blog/2026/winner-name-that-ware-september-2026/)
@@ -42,16 +44,19 @@
   - [HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein](https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Keystone says website breach exposed hardware wallet buyers’ addresses](https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Musk warns over 200 AI neoclouds face ‘guppy-level death’](https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO](https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Securitize’s tokenized stock value halves as Circle widens lead](https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin](https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy skips Bitcoin purchases, spends $205M on STRC buybacks](https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [A tiny European country built its own encrypted messaging app as an alternative to WhatsApp](https://cybernews.com/tech/luxembourg-messaging-app/)
   - [Apple Watch owner learns they can’t charge their device with a $42 charger from China](https://cybernews.com/tech/apple-watch-charger-standard-china/)
   - [Berliner Datenschutz erklärt politisches Mikrotargeting für rechtswidrig](https://cybernews.com/de/news/berliner-datenschutz-politisches-mikrotargeting-rechtswidrig/)
   - [Chinese national extradited over alleged $36.9M crypto scam](https://cybernews.com/news/china-crypto-scam/)
   - [Hisense faces $5 million ransom demand over alleged 19GB data theft](https://cybernews.com/security/ransomware-operator-claims-hisense-demands-5-million/)
   - [iPhone Duo cracked screen images appear hours after purchase, but tech pros aren’t buying it](https://cybernews.com/tech/iphone-duo-broken-screen/)
   - [Mark Cuban says AI hack agents are like cockroaches](https://cybernews.com/ai-news/mark-cuban-says-ai-hack-agents-are-like-cockroaches/)
+  - [Pentagon UFO files reveal bizarre triangular craft – but there's a catch](https://cybernews.com/news/pentagon-ufo-files-triangular-craft/)
   - [Researcher hacks into “Steal My Bitcoin” server in PHP security test](https://cybernews.com/news/bitcoin-php-security/)
   - [Samsung accused of spying on users and then sharing data with 400+ partners](https://cybernews.com/privacy/samsung-smart-tv-spying-microphones-ai/)
   - [Tailscale zero-days spark a disclosure war before fixes land](https://cybernews.com/security/tailscale-zero-days-spark-a-disclosure-war-before-fixes-land/)
@@ -68,6 +73,7 @@
   - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
   - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
   - [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
+  - [AmiJa, a cycle-exact Amiga emulator written in Java](https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/)
   - [Apollo says AI has delivered 'zero financial payoff' outside the tech industry](https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10)
   - [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
   - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
@@ -83,10 +89,12 @@
   - [Sabre Wulf Remastered](https://gp-64.com/swr/)
   - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
   - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+  - [Vegemite is not a human right](https://www.cnn.com/2026/10/26/australia/prisoner-vegemite-rejected-judge-scli-intl)
   - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
   - [Writing Is Closer to Thought Than Code](https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code)
 - infosecurity-magazine.com
   - [Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database](https://www.infosecurity-magazine.com/news/blue-initiative-maritime/)
+  - [Gheist Attackers Stumble in Attempt to Abuse GitHub Tokens](https://www.infosecurity-magazine.com/news/gheist-attackers-abuse-stolen/)
   - [Linux Flaws Exposed Before Fixes as Root Exploit Goes Public](https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/)
   - [Microsoft Issues Emergency Patch Update for Critical .NET Buffer Overflow Flaw](https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/)
   - [PHP Publishes Mitigation Advice for New RCE Flaw](https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/)
@@ -101,6 +109,8 @@
   - [Sec-Knowlege exploit](https://sploitus.com/exploit?id=BDDD598A-B0D1-5974-A834-D98707395F79&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
+  - [Anthropic officially files for its public debut](https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/)
+  - [Apple unveils new iPad mini with OLED display and faster A20 Pro chip](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/)
   - [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
   - [Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)](https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/)
   - [The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/)
@@ -111,11 +121,14 @@
   - [Galaxy says bitcoin bear market is over; now is the time to buy and hold](https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720)
   - [Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares](https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699)
   - [Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase](https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729)
+  - [Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH](https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743)
 - The Decoder
+  - [Meta plans up to $95 billion in stock sales to fund its AI buildout](https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/)
   - [Toyota is betting $6.4 billion a year on humanoid robots and factory automation](https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/)
   - [Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI](https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/)
 - The Verge
   - [iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
+  - [Remarkable’s refurbished Paper Pro Move bundle is over $100 off](https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale)
   - [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review)
   - [The city that fought Flock](https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure)
   - [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement)
@@ -296,12 +309,14 @@
   - [zen-desktop](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IRBIS-SH-ZEN-DESKTOP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zmap](https://vulners.com/kitploit/KITPLOIT:5387473293315956674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Anthropic’s IPO Prospectus Reveals What’s Under the Hood](https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/)
   - [LG B6 OLED TV Review (2026)](https://www.wired.com/review/lg-b6/)
   - [Lykyn Review: A Mushroom Garden Worth Showing Off](https://www.wired.com/review/lykyn-automated-mushroom-grow-box/)
   - [Meet the AI Agents Trying to Be Real-Life Journalists](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
   - [Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why](https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/)
   - [The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It](https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/)
   - [The Tragedy of Having a Wikipedia Page—and Then Losing It](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
+  - [The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
   - [This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners](https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/)
   - [Valve Steam Frame Review: Costly and Inconsistent](https://www.wired.com/review/valve-steam-frame/)
 - 不安全
@@ -309,6 +324,7 @@
   - [I modified my Nikon Z7's firmware to add a 3×3 rule-of-thirds grid](https://buaq.net/go-450797.html)
   - [ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)](https://buaq.net/go-450709.html)
   - [need help on disk imagingg](https://buaq.net/go-450817.html)
+  - [nmg](https://buaq.net/go-450822.html)
   - [rea-rust](https://buaq.net/go-450684.html)
   - [sclock](https://buaq.net/go-450699.html)
   - [sliver v1.7.9](https://buaq.net/go-450745.html)
@@ -325,10 +341,15 @@
   - [科学家重现古罗马的分色玻璃](https://www.solidot.org/story?sid=85713)
 - 安全客
   - [AI自己写勒索脚本、自己挑目标、自己搞钱：俄罗斯黑客的Phantom框架，把勒索软件玩成了自动化流水线](https://www.anquanke.com/post/id/316346)
+  - [Node.js、Python、Bun全中招：一个压缩库的内存漏洞，让半个互联网"裸奔"](https://www.anquanke.com/post/id/316355)
+  - [凌晨收到GitLab安全公告，CVSS满分，我看了看自家版本号](https://www.anquanke.com/post/id/316350)
 - 爱范儿
   - [25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕](https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [《影之刃零》：第一个登上世界舞台的「中国武侠游戏」](https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [地铁里的 AI 伪人广告，正在集体霸凌人类](https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [新 iPad mini 发布：5499 元起！应有尽有，除了高刷](https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场](https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [“一底座两主线”助力水电工控系统安全联防联控——绿盟科技参与第七届水电、新能源工业控制系统安全技术交流会](https://blog.nsfocus.net/%e4%b8%80%e5%ba%95%e5%ba%a7%e4%b8%a4%e4%b8%bb%e7%ba%bf%e5%8a%a9%e5%8a%9b%e6%b0%b4%e7%94%b5%e5%b7%a5%e6%8e%a7%e7%b3%bb%e7%bb%9f%e5%ae%89%e5%85%a8%e8%81%94%e9%98%b2%e8%81%94%e6%8e%a7/)
+- 黑海洋
+  - [一文看懂 Agent Skills：从编写第一个 Skill 到理解底层架构](https://blog.upx8.com/Agent-Skills-Skill)
