@@ -2,28 +2,41 @@
 
 - 404 Media
   - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
+- Ars Technica
+  - [Boston Dynamics employees want to block sale of robot dogs to ICE](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)
+  - [Musk accuses Ukraine of violating Starlink terms with deadly drone strikes](https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/)
 - CoinTelegraph
+  - [AI company Anthropic announces IPO, expected as early as November](https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea lawmakers mull pushing crypto tax implementation to 2029](https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [7 Security Controls for Processing Untrusted PDFs in .NET Applications](https://www.cyberkendra.com/2026/10/7-security-controls-for-processing-untrusted-pdfs-in-net-applications.html)
+  - [Node2Shell Exploited in the Wild: Node.js Brotli RCE](https://www.cyberkendra.com/2026/10/node2shell-cve-2026-111497-exploited-in-the-wild.html)
 - CyberNews
   - [Google Brotli flaw leaves 90% of the cloud exposed, Wiz finds, as patching scramble continues](https://cybernews.com/security/google-brotli-broccoli2shell-vulnerability-cloud-nodejs-patches/)
 - daringfireball.net
   - [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932)
 - Hacker News Frontpage
   - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+  - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
   - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
   - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
+  - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
 - infosecurity-magazine.com
   - [CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure](https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/)
+- johndcook.com
+  - [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/)
 - Linux Foundation Blogs
   - [Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health](https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health)
+- simonwillison.net
+  - [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
 - TechCrunch
   - [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
+  - [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
   - [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
   - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
 - The Block
+  - [Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer](https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787)
   - [NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
   - [Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
   - [Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
@@ -80,5 +93,7 @@
   - [CVE-2026-82388](https://vulners.com/nvd/NVD:CVE-2026-82388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82389](https://vulners.com/nvd/NVD:CVE-2026-82389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82390](https://vulners.com/nvd/NVD:CVE-2026-82390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Google Fitbit Edge Review: I Still Prefer the Air (2026)](https://www.wired.com/review/google-fitbit-edge/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
