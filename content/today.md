@@ -6,6 +6,7 @@
   - [openAI 被风控了怎么办](https://2libra.com/post/ai-programming/SByGQjU)
   - [vibe coding 了个代理客户端](https://2libra.com/post/open-source-sharing/3wqRtOU)
   - [《蔚来萤火虫》点评：7 分｜购入蔚来萤火虫 100 天, 谈谈用车感受](https://2libra.com/post/personal-life/IqOEjnA)
+  - [【油猴脚本】金币页面增加当前页条数展示](https://2libra.com/post/forum-function/asXIaEx)
   - [【💰】《影之刃 零》MC 評分 88 分](https://2libra.com/post/game-discussion/rh9rBvP)
   - [【💰】上周请了一周假期，今天来上班非常不适应](https://2libra.com/post/workplace-stories/t0Cwa_7)
   - [【💰】冒个泡，身份升级了](https://2libra.com/post/personal-life/SSxxbQd)
@@ -23,6 +24,7 @@
   - [来一起抓螃蟹 🦀 吧](https://2libra.com/post/personal-works/hKswQTc)
   - [浪费 token 写了一个 找工作，练习面试的网页](https://2libra.com/post/open-source-sharing/Y0PSOeW)
   - [理想中的年轻人](https://2libra.com/post/social-observation/vHc5tLW)
+  - [精神状态](https://2libra.com/post/mental-health/9GwDoS7)
   - [这个动画效果怎么样](https://2libra.com/post/personal-works/zFxnaAa)
 - bunnie's blog
   - [Name that Ware, October 2026](https://www.bunniestudios.com/blog/2026/name-that-ware-october-2026/)
@@ -35,6 +37,11 @@
   - [Keystone says website breach exposed hardware wallet buyers’ addresses](https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Musk warns over 200 AI neoclouds face ‘guppy-level death’](https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin](https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [Apple Watch owner learns they can’t charge their device with a $42 charger from China](https://cybernews.com/tech/apple-watch-charger-standard-china/)
+  - [Berliner Datenschutz erklärt politisches Mikrotargeting für rechtswidrig](https://cybernews.com/de/news/berliner-datenschutz-politisches-mikrotargeting-rechtswidrig/)
+  - [Chinese national extradited over alleged $36.9M crypto scam](https://cybernews.com/news/china-crypto-scam/)
+  - [Mark Cuban says AI hack agents are like cockroaches](https://cybernews.com/ai-news/mark-cuban-says-ai-hack-agents-are-like-cockroaches/)
 - daringfireball.net
   - [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/)
   - [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167)
@@ -61,8 +68,12 @@
   - [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
   - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
   - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+- infosecurity-magazine.com
+  - [PHP Publishes Mitigation Advice for New RCE Flaw](https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/)
 - johndcook.com
   - [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/)
+- Shell is Only the Beginning
+  - [Passkey enrollment and account recovery, the new weak point](https://www.darkoperator.com/blog/2026/10/26/passkey-enrollment-and-account-recovery-the-new-weak-point)
 - Sploitus.com Exploits RSS Feed
   - [Sec-Knowlege exploit](https://sploitus.com/exploit?id=BDDD598A-B0D1-5974-A834-D98707395F79&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -72,9 +83,13 @@
   - [‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
 - The Block
   - [CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’](https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617)
+- The Decoder
+  - [Toyota is betting $6.4 billion a year on humanoid robots and factory automation](https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/)
+  - [Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI](https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/)
 - The Verge
   - [iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
   - [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review)
+  - [The city that fought Flock](https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure)
   - [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Can’t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own](https://blog.qualys.com/category/vulnerabilities-threat-research)
@@ -93,6 +108,7 @@
   - [CRM Platform Path Traversal DoS](https://vulners.com/bdu_fstec/BDU:2026-13739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CRM Platform SQL Injection](https://vulners.com/bdu_fstec/BDU:2026-13740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CRM Platform Unlimited Resource Abuse](https://vulners.com/bdu_fstec/BDU:2026-13742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101259](https://vulners.com/nvd/NVD:CVE-2026-101259?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103298](https://vulners.com/nvd/NVD:CVE-2026-103298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103299](https://vulners.com/nvd/NVD:CVE-2026-103299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103300](https://vulners.com/nvd/NVD:CVE-2026-103300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -107,8 +123,13 @@
   - [CVE-2026-107898](https://vulners.com/nvd/NVD:CVE-2026-107898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107899](https://vulners.com/nvd/NVD:CVE-2026-107899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107900](https://vulners.com/nvd/NVD:CVE-2026-107900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110376](https://vulners.com/nvd/NVD:CVE-2026-110376?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111841](https://vulners.com/nvd/NVD:CVE-2026-111841?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111974](https://vulners.com/nvd/NVD:CVE-2026-111974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112828](https://vulners.com/nvd/NVD:CVE-2026-112828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113345](https://vulners.com/nvd/NVD:CVE-2026-113345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113438](https://vulners.com/nvd/NVD:CVE-2026-113438?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115425](https://vulners.com/nvd/NVD:CVE-2026-115425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115817](https://vulners.com/nvd/NVD:CVE-2026-115817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115822](https://vulners.com/nvd/NVD:CVE-2026-115822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115823](https://vulners.com/nvd/NVD:CVE-2026-115823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -137,6 +158,21 @@
   - [CVE-2026-116224](https://vulners.com/nvd/NVD:CVE-2026-116224?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116227](https://vulners.com/nvd/NVD:CVE-2026-116227?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116228](https://vulners.com/nvd/NVD:CVE-2026-116228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116233](https://vulners.com/nvd/NVD:CVE-2026-116233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116234](https://vulners.com/nvd/NVD:CVE-2026-116234?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116235](https://vulners.com/nvd/NVD:CVE-2026-116235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116236](https://vulners.com/nvd/NVD:CVE-2026-116236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116372](https://vulners.com/nvd/NVD:CVE-2026-116372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-70388](https://vulners.com/nvd/NVD:CVE-2026-70388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82943](https://vulners.com/nvd/NVD:CVE-2026-82943?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82944](https://vulners.com/nvd/NVD:CVE-2026-82944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82945](https://vulners.com/nvd/NVD:CVE-2026-82945?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82946](https://vulners.com/nvd/NVD:CVE-2026-82946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82947](https://vulners.com/nvd/NVD:CVE-2026-82947?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95628](https://vulners.com/nvd/NVD:CVE-2026-95628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95629](https://vulners.com/nvd/NVD:CVE-2026-95629?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95663](https://vulners.com/nvd/NVD:CVE-2026-95663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95664](https://vulners.com/nvd/NVD:CVE-2026-95664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [cxx-memory-safety-advisories](https://vulners.com/githubexploit/A391BB1F-D991-5088-99E1-0708DA128BD0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DELTA](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-OPENNETWORKINGFOUNDATION-DELTA?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DesktopServicesHelper Privilege Escalation](https://vulners.com/bdu_fstec/BDU:2026-15221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -148,6 +184,7 @@
   - [Exploit for Deserialization of Untrusted Data in Cisco Secure_Firewall_Management_Center](https://vulners.com/githubexploit/7AF08437-5F08-59EE-AE2D-3D994B80DF42?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improper Neutralization of Special Elements Used in a Template Engine in Adobe Commerce](https://vulners.com/githubexploit/6D0AAA44-74B6-52F7-8FEF-03DC230D5E14?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Race Condition in Sonicwall Sma_6200_Firmware](https://vulners.com/githubexploit/EE69D1B3-D1C7-55D3-9E37-7795D7B663C4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Arm Bifrost_Gpu_Kernel_Driver](https://vulners.com/githubexploit/820A6FD1-3836-5BA0-AEED-2B21F2FC501B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GEO.RITM REST API Auth Bypass Info Disclosure](https://vulners.com/bdu_fstec/BDU:2026-11235?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ghostlock-firetv-tank](https://vulners.com/githubexploit/7553245C-F86F-5D1C-8FB3-3A79C1CF58E6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [gmailc2](https://vulners.com/kitploit/KITPLOIT:6527637289970706205?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -202,21 +239,30 @@
   - [zen-desktop](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IRBIS-SH-ZEN-DESKTOP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zmap](https://vulners.com/kitploit/KITPLOIT:5387473293315956674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Lykyn Review: A Mushroom Garden Worth Showing Off](https://www.wired.com/review/lykyn-automated-mushroom-grow-box/)
+  - [Meet the AI Agents Trying to Be Real-Life Journalists](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
+  - [The Tragedy of Having a Wikipedia Page—and Then Losing It](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
   - [This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners](https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/)
+  - [Valve Steam Frame Review: Costly and Inconsistent](https://www.wired.com/review/valve-steam-frame/)
 - 不安全
   - [hashcat v8.0.0](https://buaq.net/go-450708.html)
   - [ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)](https://buaq.net/go-450709.html)
   - [rea-rust](https://buaq.net/go-450684.html)
   - [sclock](https://buaq.net/go-450699.html)
+  - [sliver v1.7.9](https://buaq.net/go-450745.html)
   - [Tailscale SSH 被曝安全漏洞：一台设备失守，可获得其他服务器 root 权限｜另外还有11项漏洞](https://buaq.net/go-450697.html)
+  - [“一底座两主线”助力水电工控系统安全联防联控——绿盟科技参与第七届水电、新能源工业控制系统安全技术交流会](https://buaq.net/go-450747.html)
   - [喜报！微软测试在Windows 11中添加原生网络测速 不需要再跳转到浏览器](https://buaq.net/go-450704.html)
   - [真热闹！爱好者们使用eMudhra泄露证书为谷歌签发10.6万张证书 能通过CA公钥认证](https://buaq.net/go-450691.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Netflix 用户观看量下降，应用打开量下降](https://www.solidot.org/story?sid=85711)
   - [在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄](https://www.solidot.org/story?sid=85706)
   - [欧洲夏季热浪导致逾 5 万城市居民死亡](https://www.solidot.org/story?sid=85708)
 - 爱范儿
   - [《影之刃零》：第一个登上世界舞台的「中国武侠游戏」](https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [地铁里的 AI 伪人广告，正在集体霸凌人类](https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场](https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [“一底座两主线”助力水电工控系统安全联防联控——绿盟科技参与第七届水电、新能源工业控制系统安全技术交流会](https://blog.nsfocus.net/%e4%b8%80%e5%ba%95%e5%ba%a7%e4%b8%a4%e4%b8%bb%e7%ba%bf%e5%8a%a9%e5%8a%9b%e6%b0%b4%e7%94%b5%e5%b7%a5%e6%8e%a7%e7%b3%bb%e7%bb%9f%e5%ae%89%e5%85%a8%e8%81%94%e9%98%b2%e8%81%94%e6%8e%a7/)
