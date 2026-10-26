@@ -1,21 +1,84 @@
 # 今日安全资讯（2026-10-27）
 
+- 404 Media
+  - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
 - CoinTelegraph
+  - [NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea lawmakers mull pushing crypto tax implementation to 2029](https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [7 Security Controls for Processing Untrusted PDFs in .NET Applications](https://www.cyberkendra.com/2026/10/7-security-controls-for-processing-untrusted-pdfs-in-net-applications.html)
 - CyberNews
   - [Google Brotli flaw leaves 90% of the cloud exposed, Wiz finds, as patching scramble continues](https://cybernews.com/security/google-brotli-broccoli2shell-vulnerability-cloud-nodejs-patches/)
 - daringfireball.net
   - [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932)
+- Hacker News Frontpage
+  - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
+  - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+  - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
 - infosecurity-magazine.com
   - [CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure](https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/)
+- Linux Foundation Blogs
+  - [Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health](https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health)
 - TechCrunch
   - [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
   - [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
+  - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
 - The Block
   - [NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
   - [Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
+  - [Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
+- The Decoder
+  - [Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit](https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/)
+  - [Researchers find six patterns that make AI text so exhausting to read](https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/)
 - The Verge
   - [Everything old is new again with the Fitbit Edge](https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health)
   - [The Sony WH-1000XM4C bring back a beloved headphone design](https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review)
+- Vulners.com RSS Feed
+  - [CVE-2013-10077](https://vulners.com/nvd/NVD:CVE-2013-10077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102649 Burrito: Unauthenticated webhooks trigger unauthorized Terraform plans when webhookSecret is unset](https://vulners.com/cvelist/CVELIST:CVE-2026-102649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106676](https://vulners.com/nvd/NVD:CVE-2026-106676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106677](https://vulners.com/nvd/NVD:CVE-2026-106677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107091](https://vulners.com/nvd/NVD:CVE-2026-107091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114710](https://vulners.com/nvd/NVD:CVE-2026-114710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115418](https://vulners.com/nvd/NVD:CVE-2026-115418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115597](https://vulners.com/nvd/NVD:CVE-2026-115597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115598](https://vulners.com/nvd/NVD:CVE-2026-115598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115905](https://vulners.com/nvd/NVD:CVE-2026-115905?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115906](https://vulners.com/nvd/NVD:CVE-2026-115906?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115907](https://vulners.com/nvd/NVD:CVE-2026-115907?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115908](https://vulners.com/nvd/NVD:CVE-2026-115908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115909](https://vulners.com/nvd/NVD:CVE-2026-115909?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115910](https://vulners.com/nvd/NVD:CVE-2026-115910?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115911](https://vulners.com/nvd/NVD:CVE-2026-115911?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115912](https://vulners.com/nvd/NVD:CVE-2026-115912?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115913](https://vulners.com/nvd/NVD:CVE-2026-115913?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115914 vLLM DeepSeek-OCR image processing vulnerable to denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-115914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115915 vLLM: Untrusted EPS inputs can trigger denial of service or Ghostscript RCE](https://vulners.com/cvelist/CVELIST:CVE-2026-115915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115916 vLLM: Out-of-vocabulary prompt token id passes input validation and triggers a CUDA device-side assert (engine crash / DoS)](https://vulners.com/cvelist/CVELIST:CVE-2026-115916?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116370](https://vulners.com/nvd/NVD:CVE-2026-116370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116371](https://vulners.com/nvd/NVD:CVE-2026-116371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116384](https://vulners.com/nvd/NVD:CVE-2026-116384?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116385 Bdtask Garage 24 Garage Management Software Profile edit_profile cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-116385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116388](https://vulners.com/nvd/NVD:CVE-2026-116388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116395](https://vulners.com/nvd/NVD:CVE-2026-116395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116396](https://vulners.com/nvd/NVD:CVE-2026-116396?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116403](https://vulners.com/nvd/NVD:CVE-2026-116403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116596](https://vulners.com/nvd/NVD:CVE-2026-116596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116612](https://vulners.com/nvd/NVD:CVE-2026-116612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19742](https://vulners.com/nvd/NVD:CVE-2026-19742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71455](https://vulners.com/nvd/NVD:CVE-2026-71455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71456](https://vulners.com/nvd/NVD:CVE-2026-71456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72752 Routinator exits when requesting the output repeatedly](https://vulners.com/cvelist/CVELIST:CVE-2026-72752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72753 Routinator incorrectly handles delta updates](https://vulners.com/cvelist/CVELIST:CVE-2026-72753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72754 Routinator exits when parsing an incorrect or very large CRL file](https://vulners.com/cvelist/CVELIST:CVE-2026-72754?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72755 Routinator stores TA certificate in cache without validation](https://vulners.com/cvelist/CVELIST:CVE-2026-72755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72756 Routinator exits on malformed rsync URIs](https://vulners.com/cvelist/CVELIST:CVE-2026-72756?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72757 Routinator HTTP server becomes unavailable with many unclosed connections](https://vulners.com/cvelist/CVELIST:CVE-2026-72757?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-72758 Routinator may exit on malformed ranges](https://vulners.com/cvelist/CVELIST:CVE-2026-72758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81038](https://vulners.com/nvd/NVD:CVE-2026-81038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81039](https://vulners.com/nvd/NVD:CVE-2026-81039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82388](https://vulners.com/nvd/NVD:CVE-2026-82388?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82389](https://vulners.com/nvd/NVD:CVE-2026-82389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82390](https://vulners.com/nvd/NVD:CVE-2026-82390?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
