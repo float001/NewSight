@@ -32,16 +32,19 @@
 - CoinTelegraph
   - [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs break 2-week outflow streak with $301M comeback](https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong names Nasdaq-listed Solana Company a strategic enterprise](https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Keystone says website breach exposed hardware wallet buyers’ addresses](https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Musk warns over 200 AI neoclouds face ‘guppy-level death’](https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Securitize’s tokenized stock value halves as Circle widens lead](https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin](https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Apple Watch owner learns they can’t charge their device with a $42 charger from China](https://cybernews.com/tech/apple-watch-charger-standard-china/)
   - [Berliner Datenschutz erklärt politisches Mikrotargeting für rechtswidrig](https://cybernews.com/de/news/berliner-datenschutz-politisches-mikrotargeting-rechtswidrig/)
   - [Chinese national extradited over alleged $36.9M crypto scam](https://cybernews.com/news/china-crypto-scam/)
   - [Mark Cuban says AI hack agents are like cockroaches](https://cybernews.com/ai-news/mark-cuban-says-ai-hack-agents-are-like-cockroaches/)
+  - [Samsung accused of spying on users and then sharing data with 400+ partners](https://cybernews.com/privacy/samsung-smart-tv-spying-microphones-ai/)
 - daringfireball.net
   - [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/)
   - [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167)
@@ -69,6 +72,7 @@
   - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
   - [What goes into making an animated film?](https://www.disneyanimation.com/process/)
 - infosecurity-magazine.com
+  - [Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database](https://www.infosecurity-magazine.com/news/blue-initiative-maritime/)
   - [PHP Publishes Mitigation Advice for New RCE Flaw](https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/)
 - johndcook.com
   - [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/)
@@ -239,8 +243,10 @@
   - [zen-desktop](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IRBIS-SH-ZEN-DESKTOP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zmap](https://vulners.com/kitploit/KITPLOIT:5387473293315956674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [LG B6 OLED TV Review (2026)](https://www.wired.com/review/lg-b6/)
   - [Lykyn Review: A Mushroom Garden Worth Showing Off](https://www.wired.com/review/lykyn-automated-mushroom-grow-box/)
   - [Meet the AI Agents Trying to Be Real-Life Journalists](https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/)
+  - [The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It](https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/)
   - [The Tragedy of Having a Wikipedia Page—and Then Losing It](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
   - [This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners](https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/)
   - [Valve Steam Frame Review: Costly and Inconsistent](https://www.wired.com/review/valve-steam-frame/)
@@ -261,6 +267,7 @@
   - [在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄](https://www.solidot.org/story?sid=85706)
   - [欧洲夏季热浪导致逾 5 万城市居民死亡](https://www.solidot.org/story?sid=85708)
 - 爱范儿
+  - [25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕](https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [《影之刃零》：第一个登上世界舞台的「中国武侠游戏」](https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [地铁里的 AI 伪人广告，正在集体霸凌人类](https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场](https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=)
