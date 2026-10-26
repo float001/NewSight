@@ -2,18 +2,24 @@
 
 - 2Libra
   - [GPT-plus 还有必要续吗（土区₺499,99）](https://2libra.com/post/ai-tools/kfC23Zt)
+  - [openAI 被风控了怎么办](https://2libra.com/post/ai-programming/SByGQjU)
+  - [vibe coding 了个代理客户端](https://2libra.com/post/open-source-sharing/3wqRtOU)
   - [《蔚来萤火虫》点评：7 分｜购入蔚来萤火虫 100 天, 谈谈用车感受](https://2libra.com/post/personal-life/IqOEjnA)
   - [【💰】《影之刃 零》MC 評分 88 分](https://2libra.com/post/game-discussion/rh9rBvP)
   - [【💰】上周请了一周假期，今天来上班非常不适应](https://2libra.com/post/workplace-stories/t0Cwa_7)
+  - [【💰】只用来写程序，买苹果还是 windows 啊，什么配置比较好](https://2libra.com/post/ask-recommendation/UNDgEhS)
   - [一个小脚本，让你每次签到多获得 100 金币](https://2libra.com/post/forum-function/R97GPqd)
   - [出昨天下午开的 88VIP](https://2libra.com/post/second-hand/0ALnEtl)
   - [原来评论数值和汉字之间会自动加空格，太细节了。](https://2libra.com/post/forum-function/eQduIWc)
   - [大家有自己的知识库吗？都放什么东西？](https://2libra.com/post/note-management/x2Lq1Sj)
   - [宇宙终极答案-111111](https://2libra.com/post/slacking-off/WuPwntJ)
+  - [我不会后悔之前的决策，或许那个时候我正需要这样做](https://2libra.com/post/job-hunting/SNjazT2)
   - [最近北方降温了，早上上班都不想起来](https://2libra.com/post/personal-life/IDuj6Su)
   - [有取名需求吗，我做了个根据八字取名的小程序](https://2libra.com/post/personal-works/PKqlDsE)
   - [有没有 淘/拼/抖/东 等家的「看起来蛮贵的其实不会很贵的」优秀男装推荐？不建议潮牌大 Logo，建议干净有质感版型好的。](https://2libra.com/post/recommendations/BlKYr1w)
   - [来一起抓螃蟹 🦀 吧](https://2libra.com/post/personal-works/hKswQTc)
+  - [浪费 token 写了一个 找工作，练习面试的网页](https://2libra.com/post/open-source-sharing/Y0PSOeW)
+  - [理想中的年轻人](https://2libra.com/post/social-observation/vHc5tLW)
 - CoinTelegraph
   - [AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest](https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -25,6 +31,8 @@
   - [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/)
   - [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167)
   - [Sunnny](https://sunnny.com/)
+- defend.network
+  - [Tailscale SSH, LiteLLM supply-chain, Arista VeloCloud exploits active](https://defend.network/briefings/tailscale-ssh-litellm-arista-velocloud-exploits-2026-10-26.html)
 - Hacker News Frontpage
   - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
   - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)
