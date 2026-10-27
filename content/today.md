@@ -3,9 +3,12 @@
 - 2Libra
   - [2026 Spaceship & Dynadot Discount Code](https://2libra.com/post/deal-hunter/oEmoZpn)
   - [codex 只能单开？](https://2libra.com/post/ai-programming/7cYTxmo)
+  - [ios27.2,禁止摇一摇，大家更新了吗？](https://2libra.com/post/apple/tl3BBJF)
+  - [【投票】各位认为未来几年制造业在 AI Infra 和机器人哪个方向会有更稳定的发展](https://2libra.com/post/industry-inside/tQujv13)
   - [【运动打卡】第 1️⃣5️⃣天，昨天去医院检查了一下颈椎](https://2libra.com/post/sports/lA3AJuZ)
   - [想知道地推和产品宣发介绍会是个怎么流程？](https://2libra.com/post/help-requests/zFjt65D)
   - [有没有什么好用的比价、优惠券的油猴脚本](https://2libra.com/post/browser-extensions/5ZJ8x_g)
+  - [纯纯韭菜了，才用了一个半月，出新款了](https://2libra.com/post/smart-wearable/pqxYuKQ)
   - [谁有好的解决办法？](https://2libra.com/post/file-storage/1-6L-Nr)
   - [还有没注册 muse 的朋友吗，可以用下我的邀请码，双方都能获取 10 亿 Token～😄](https://2libra.com/post/invite-code/_frXanB)
 - 404 Media
@@ -34,6 +37,7 @@
 - CyberNews
   - [Google Brotli flaw leaves 90% of the cloud exposed, Wiz finds, as patching scramble continues](https://cybernews.com/security/google-brotli-broccoli2shell-vulnerability-cloud-nodejs-patches/)
   - [Hackers breach school tech giant serving 50 million students nationwide](https://cybernews.com/news/hackers-breach-school-tech-giant-serving-50-million-students-nationwide/)
+  - [Ransomware chaos hits Richmond, Oneonta school districts as cyberattacks pile up](https://cybernews.com/news/richmond-oneonta-schools-ransomware-attacks/)
 - daringfireball.net
   - [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932)
   - [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/)
@@ -45,6 +49,7 @@
   - [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
   - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
   - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+  - [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
   - [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
   - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
   - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
@@ -53,6 +58,8 @@
   - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
   - [US fired over 600 missile interceptors defending Israel in three years](https://www.stephensemler.com/p/us-fired-over-600-missile-interceptors)
   - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+- HackerNews
+  - [PHP 五天内发布第二个 Windows 安全更新，修复 Brotli 代码执行漏洞](http://0.0.0.0:8080/post/64837)
 - infosecurity-magazine.com
   - [CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure](https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/)
 - johndcook.com
@@ -62,6 +69,8 @@
 - rtl-sdr.com
   - [DAB SDR GUI: An Open-Source DAB+ Receiver for the RTL-SDR and SDRplay](https://www.rtl-sdr.com/dab-sdr-gui-an-open-source-dab-receiver-for-the-rtl-sdr-and-sdrplay/)
   - [DecSAT: A DVB-S/S2/S2X Satellite Receiver with Blind Scanning for the HackRF One](https://www.rtl-sdr.com/decsat-a-dvb-s-s2-s2x-satellite-receiver-with-blind-scanning-for-the-hackrf-one/)
+  - [Elektro-L3 Arrives at 14.5°W and Begins Testing L-Band LRIT and HRIT](https://www.rtl-sdr.com/elektro-l3-arrives-at-14-5w-and-begins-testing-l-band-lrit-and-hrit/)
+  - [rxx_lora: A Lightweight rtl_fm-Style LoRa Receiver for RTL-SDR and SDRplay, No GNU Radio Required](https://www.rtl-sdr.com/rxx_lora-a-lightweight-rtl_fm-style-lora-receiver-for-rtl-sdr-and-sdrplay-no-gnu-radio-required/)
 - simonwillison.net
   - [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
 - Sploitus.com Exploits RSS Feed
@@ -90,6 +99,7 @@
   - [NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
   - [Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
   - [Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight](https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810)
+  - [StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy](https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818)
   - [Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
 - The Decoder
   - [Anthropic opens its books for Wall Street, showing record revenue and mounting obligations](https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/)
@@ -275,6 +285,7 @@
   - [CVE-2026-86990](https://vulners.com/nvd/NVD:CVE-2026-86990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86991](https://vulners.com/nvd/NVD:CVE-2026-86991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86992](https://vulners.com/nvd/NVD:CVE-2026-86992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88781](https://vulners.com/nvd/NVD:CVE-2026-88781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97028](https://vulners.com/nvd/NVD:CVE-2026-97028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-116000](https://vulners.com/githubexploit/C6AF2BC8-649C-546B-AB5D-8F0A5C3CDEDD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-116004](https://vulners.com/githubexploit/811587BD-D24F-5F13-8E83-AD8B36E24DE8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -299,3 +310,5 @@
   - [iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜](https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？](https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [Work破甲包使用教程：用四个md文件改掉 AI 的人格](https://blog.upx8.com/Work-md-AI)
