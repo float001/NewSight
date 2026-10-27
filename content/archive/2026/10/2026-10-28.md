@@ -2,6 +2,9 @@
 
 - CoinTelegraph
   - [Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar](https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Majority of Americans want candidates who support US-based financial technology: Poll](https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Critical GoAhead Flaw Accepts Revoked mTLS Certificates](https://www.cyberkendra.com/2026/10/critical-goahead-flaw-accepts-revoked-mtls-certificates.html)
 - daringfireball.net
   - [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/)
   - [Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
@@ -18,10 +21,12 @@
   - [Apple introduces the new 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
   - [Brazil's Flavio Bolsonaro headed to US, sources say](https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/)
   - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
+  - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
   - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
   - [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
   - [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
   - [Reducibility Among Combinatorial Problems (1972) [pdf]](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
+  - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
   - [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
   - [We let our cloud agents query prod (with OIDC, not secrets)](https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/)
 - HackerNoon
@@ -37,10 +42,12 @@
 - miguelgrinberg.com
   - [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now)
 - TechCrunch
+  - [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/)
   - [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/)
   - [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)
 - The Block
   - [Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation](https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906)
+  - [CFTC sues Utah as battle over prediction market regulation intensifies](https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
   - [Crypto.com and OG.com launch US crypto perps with up to 5x leverage](https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902)
 - The Decoder
   - [Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs](https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/)
@@ -98,7 +105,10 @@
   - [CVE-2026-87897](https://vulners.com/nvd/NVD:CVE-2026-87897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks](https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/)
+  - [Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)](https://www.wired.com/story/everblog-homecal-deal-october-2026/)
   - [Early Black Friday Deals 2026](https://www.wired.com/story/black-friday-deals-10-27-2026/)
+  - [Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr](https://www.wired.com/story/motorola-razr-deal-october-2026/)
   - [Quince’s Merino Wool Tee Doesn’t Cost a Fortune](https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
