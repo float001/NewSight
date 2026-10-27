@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-10-28）
 
 - Ars Technica
+  - [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
   - [Google's Android Registered App Stores program launches Dec. 1, applications now open](https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/)
 - Blog - Praetorian
   - [php2shell in Practice: Exploitable, Conditional, and Hard to Mass-Exploit](https://www.praetorian.com/blog/php2shell/)
@@ -9,6 +10,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar](https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Majority of Americans want candidates who support US-based financial technology: Poll](https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Quantum fears already limiting Bitcoin’s growth, Stacks founder says](https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets](https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Critical GoAhead Flaw Accepts Revoked mTLS Certificates](https://www.cyberkendra.com/2026/10/critical-goahead-flaw-accepts-revoked-mtls-certificates.html)
@@ -19,6 +21,7 @@
 - darkreading
   - ['Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants](https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants)
   - [Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills](https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills)
+  - [Email Bombing, External Teams Chats Form Repeatable Access Path](https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path)
 - Emergent Minds | paddo.dev
   - [Claude Reviewing Claude: Anthropic's Code Review Process Has No Second Model](https://paddo.dev/blog/claude-reviewing-claude/)
 - Fidelis Security
@@ -29,6 +32,7 @@
   - [Brazil's Flavio Bolsonaro headed to US, sources say](https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/)
   - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
   - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
+  - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
   - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
   - [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
   - [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
@@ -55,15 +59,18 @@
   - [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/)
   - [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/)
   - [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)
+  - [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)
 - The Block
   - [Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation](https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906)
   - [CFTC sues Utah as battle over prediction market regulation intensifies](https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
   - [Crypto.com and OG.com launch US crypto perps with up to 5x leverage](https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902)
+  - [Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3](https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935)
 - The Decoder
   - [Alibaba's latest Qwen models routed some requests through company servers, researchers find](https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/)
   - [Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs](https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/)
 - The Verge
   - [Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service)
+  - [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)
   - [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)
 - Vulners.com RSS Feed
   - [CVE-2026-105489](https://vulners.com/nvd/NVD:CVE-2026-105489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
