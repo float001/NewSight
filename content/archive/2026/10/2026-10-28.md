@@ -5,21 +5,30 @@
   - [Google's Android Registered App Stores program launches Dec. 1, applications now open](https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/)
 - Blog - Praetorian
   - [php2shell in Practice: Exploitable, Conditional, and Hard to Mass-Exploit](https://www.praetorian.com/blog/php2shell/)
+- Chainalysis Blog
+  - [International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service](https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/)
 - CoinTelegraph
   - [CFTC sues Utah to block action against prediction markets](https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks](https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar](https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Majority of Americans want candidates who support US-based financial technology: Poll](https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Quantum fears already limiting Bitcoin’s growth, Stacks founder says](https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets](https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure](https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Critical GoAhead Flaw Accepts Revoked mTLS Certificates](https://www.cyberkendra.com/2026/10/critical-goahead-flaw-accepts-revoked-mtls-certificates.html)
+- CyberNews
+  - [Cornell 7 reckoning: Research finds AI deepfakes overwhelmingly target girls in schools](https://cybernews.com/editorial/cornell-7-ai-deepfake-abuse-target-girls-schools/)
 - daringfireball.net
   - [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/)
+  - [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/)
   - [Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
   - [What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks](https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/)
+  - [★ Prestructured WYSIWYG](https://daringfireball.net/2026/10/prestructured_wysiwyg)
 - darkreading
   - ['Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants](https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants)
+  - [3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability](https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability)
   - [Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills](https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills)
   - [Email Bombing, External Teams Chats Form Repeatable Access Path](https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path)
 - Emergent Minds | paddo.dev
@@ -34,6 +43,7 @@
   - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
   - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
   - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+  - [One year of Dioxus fullstack in production: the good, the painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
   - [PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch](https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/)
   - [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
   - [Reducibility Among Combinatorial Problems (1972) [pdf]](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
@@ -42,7 +52,9 @@
   - [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
   - [We let our cloud agents query prod (with OIDC, not secrets)](https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/)
 - HackerNoon
+  - [How I Use Codex and Wispr Flow to Create Custom 3D Prints](https://hackernoon.com/how-i-use-codex-and-wispr-flow-to-create-custom-3d-prints?source=rss)
   - [Meet Aviator: HackerNoon Company of the Week](https://hackernoon.com/meet-aviator-hackernoon-company-of-the-week?source=rss)
+  - [Your Customer Health Score Is Probably Astrology: Here's How to Test It](https://hackernoon.com/your-customer-health-score-is-probably-astrology-heres-how-to-test-it?source=rss)
 - IEEE Spectrum
   - [Your Robot’s Safety Functions Already Work. What If the Input Lies?](https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone)
 - infosecurity-magazine.com
@@ -56,10 +68,14 @@
 - simonwillison.net
   - [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/)
 - TechCrunch
+  - [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/)
+  - [Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/)
   - [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/)
   - [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/)
+  - [GM is embracing hybrids now](https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/)
   - [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)
   - [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)
+  - [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/)
 - The Block
   - [Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation](https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906)
   - [CFTC sues Utah as battle over prediction market regulation intensifies](https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
@@ -102,6 +118,14 @@
   - [CVE-2026-116683](https://vulners.com/nvd/NVD:CVE-2026-116683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116684 Model Context Protocol Python SDK: Server bearer-token authentication accepts tokens issued for a different resource server](https://vulners.com/cve/CVE-2026-116684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116684 Model Context Protocol Python SDK: Server bearer-token authentication accepts tokens issued for a different resource server](https://vulners.com/cvelist/CVELIST:CVE-2026-116684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116692](https://vulners.com/nvd/NVD:CVE-2026-116692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116693](https://vulners.com/nvd/NVD:CVE-2026-116693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116694](https://vulners.com/nvd/NVD:CVE-2026-116694?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116695](https://vulners.com/nvd/NVD:CVE-2026-116695?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116696](https://vulners.com/nvd/NVD:CVE-2026-116696?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116773](https://vulners.com/nvd/NVD:CVE-2026-116773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116774](https://vulners.com/nvd/NVD:CVE-2026-116774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116775](https://vulners.com/nvd/NVD:CVE-2026-116775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117512](https://vulners.com/nvd/NVD:CVE-2026-117512?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117513](https://vulners.com/nvd/NVD:CVE-2026-117513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117514](https://vulners.com/nvd/NVD:CVE-2026-117514?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -120,6 +144,7 @@
   - [CVE-2026-118180](https://vulners.com/nvd/NVD:CVE-2026-118180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16491 CVE-2026-16491 CVE Record](https://vulners.com/cve/CVE-2026-16491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16491 CVE-2026-16491 CVE Record](https://vulners.com/cvelist/CVELIST:CVE-2026-16491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-39928](https://vulners.com/nvd/NVD:CVE-2026-39928?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48360](https://vulners.com/nvd/NVD:CVE-2026-48360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48379](https://vulners.com/nvd/NVD:CVE-2026-48379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48380](https://vulners.com/nvd/NVD:CVE-2026-48380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -127,8 +152,12 @@
   - [CVE-2026-57185](https://vulners.com/nvd/NVD:CVE-2026-57185?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57189](https://vulners.com/nvd/NVD:CVE-2026-57189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57194](https://vulners.com/nvd/NVD:CVE-2026-57194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57195](https://vulners.com/nvd/NVD:CVE-2026-57195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57197](https://vulners.com/nvd/NVD:CVE-2026-57197?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57198](https://vulners.com/nvd/NVD:CVE-2026-57198?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57200](https://vulners.com/cve/CVE-2026-57200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57200](https://vulners.com/nvd/NVD:CVE-2026-57200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57200 Asterisk: ARI REST-over-WebSocket read-only bypass allows arbitrary module path load and conditional RCE](https://vulners.com/cvelist/CVELIST:CVE-2026-57200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57201](https://vulners.com/nvd/NVD:CVE-2026-57201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67400](https://vulners.com/nvd/NVD:CVE-2026-67400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77167](https://vulners.com/nvd/NVD:CVE-2026-77167?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -138,7 +167,13 @@
   - [CVE-2026-82983](https://vulners.com/nvd/NVD:CVE-2026-82983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82984](https://vulners.com/nvd/NVD:CVE-2026-82984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82986](https://vulners.com/nvd/NVD:CVE-2026-82986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-83831](https://vulners.com/nvd/NVD:CVE-2026-83831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85898](https://vulners.com/nvd/NVD:CVE-2026-85898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87897](https://vulners.com/nvd/NVD:CVE-2026-87897?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-F5M9-JFRJ-JJJ7 OpenTelemetry Python: Unbounded memory allocation in Jaeger baggage propagation](https://vulners.com/osv_ghsa/OSV:GHSA-F5M9-JFRJ-JJJ7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-MF2P-H6HF-FCWM TinyMCE Cross-Site Scripting (XSS) vulnerability using media plugin `data-mce-object` serialization](https://vulners.com/osv_ghsa/OSV:GHSA-MF2P-H6HF-FCWM?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-W4FH-QVV9-3V23 Model Context Protocol Python SDK: Server bearer-token authentication accepts tokens issued for a different resource server](https://vulners.com/osv_ghsa/OSV:GHSA-W4FH-QVV9-3V23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-X94G-W73Q-HPCW dd-trace: ReDOS in URL query string obfuscation](https://vulners.com/osv_ghsa/OSV:GHSA-X94G-W73Q-HPCW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks](https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/)
