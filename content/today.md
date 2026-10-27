@@ -1,6 +1,8 @@
 # 今日安全资讯（2026-10-27）
 
 - 2Libra
+  - [2026 Spaceship & Dynadot Discount Code](https://2libra.com/post/deal-hunter/oEmoZpn)
+  - [谁有好的解决办法？](https://2libra.com/post/file-storage/1-6L-Nr)
   - [还有没注册 muse 的朋友吗，可以用下我的邀请码，双方都能获取 10 亿 Token～😄](https://2libra.com/post/invite-code/_frXanB)
 - 404 Media
   - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
@@ -17,6 +19,7 @@
   - [AI company Anthropic announces IPO, expected as early as November](https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canada opens consultation on stablecoins, citing US GENIUS Act](https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective launches onchain futures market tracking Nvidia GPU rental costs](https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Keystone breach deepens: Hackers stole key used to verify wallets as genuine](https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple wins final US approval for national trust bank](https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea lawmakers mull pushing crypto tax implementation to 2029](https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -26,6 +29,7 @@
   - [Node2Shell Exploited in the Wild: Node.js Brotli RCE](https://www.cyberkendra.com/2026/10/node2shell-cve-2026-111497-exploited-in-the-wild.html)
 - CyberNews
   - [Google Brotli flaw leaves 90% of the cloud exposed, Wiz finds, as patching scramble continues](https://cybernews.com/security/google-brotli-broccoli2shell-vulnerability-cloud-nodejs-patches/)
+  - [Hackers breach school tech giant serving 50 million students nationwide](https://cybernews.com/news/hackers-breach-school-tech-giant-serving-50-million-students-nationwide/)
 - daringfireball.net
   - [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932)
   - [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/)
@@ -34,6 +38,7 @@
   - [Risks &amp; Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)
   - [So Many AI Security Benchmarks, But None Tell the Whole Story](https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges)
 - Hacker News Frontpage
+  - [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
   - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
   - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
   - [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
@@ -62,8 +67,10 @@
   - [ShodanX exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REVOLTSECURITIES-SHODANX&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
+  - [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/)
   - [Databricks co-founder shares his secrets for winning big enterprises customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
   - [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
+  - [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
   - [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
   - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
   - [Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
@@ -87,6 +94,9 @@
 - Vulners.com RSS Feed
   - [CVE-2013-10077](https://vulners.com/nvd/NVD:CVE-2013-10077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-44625](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FYSAC-CVE-2024-44625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-58399](https://vulners.com/nvd/NVD:CVE-2024-58399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-58400](https://vulners.com/nvd/NVD:CVE-2024-58400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-71439](https://vulners.com/nvd/NVD:CVE-2025-71439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102649 Burrito: Unauthenticated webhooks trigger unauthorized Terraform plans when webhookSecret is unset](https://vulners.com/cvelist/CVELIST:CVE-2026-102649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104591](https://vulners.com/nvd/NVD:CVE-2026-104591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104592](https://vulners.com/nvd/NVD:CVE-2026-104592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -129,7 +139,11 @@
   - [CVE-2026-116556](https://vulners.com/nvd/NVD:CVE-2026-116556?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116596](https://vulners.com/nvd/NVD:CVE-2026-116596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116602](https://vulners.com/nvd/NVD:CVE-2026-116602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116605](https://vulners.com/nvd/NVD:CVE-2026-116605?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116608](https://vulners.com/nvd/NVD:CVE-2026-116608?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116612](https://vulners.com/nvd/NVD:CVE-2026-116612?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116620](https://vulners.com/nvd/NVD:CVE-2026-116620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116623](https://vulners.com/nvd/NVD:CVE-2026-116623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116631](https://vulners.com/nvd/NVD:CVE-2026-116631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116632](https://vulners.com/nvd/NVD:CVE-2026-116632?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116638](https://vulners.com/nvd/NVD:CVE-2026-116638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -150,6 +164,7 @@
   - [CVE-2026-116814 OpenPanel before 3.0.0 Sensitive Information Exposure via Application Logs](https://vulners.com/cvelist/CVELIST:CVE-2026-116814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116815 OpenPanel before 3.0.0 Improper ClickHouse Escaping in sankey.service.ts](https://vulners.com/cve/CVE-2026-116815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116815 OpenPanel before 3.0.0 Improper ClickHouse Escaping in sankey.service.ts](https://vulners.com/cvelist/CVELIST:CVE-2026-116815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116816](https://vulners.com/nvd/NVD:CVE-2026-116816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116817 OpenPanel before 3.0.0 Missing Authentication on Worker Bull Board](https://vulners.com/cve/CVE-2026-116817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116817 OpenPanel before 3.0.0 Missing Authentication on Worker Bull Board](https://vulners.com/cvelist/CVELIST:CVE-2026-116817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116818 OpenPanel before 3.0.0 Unauthenticated ClickHouse SQL Injection via /live/visitors WebSocket](https://vulners.com/cve/CVE-2026-116818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -174,6 +189,16 @@
   - [CVE-2026-116827 YesWiki before 4.7.0 SSRF via copyUrlToLocalFile in Bazar CSV Import](https://vulners.com/cvelist/CVELIST:CVE-2026-116827?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116828 YesWiki before 4.7.0 SQL Injection via despam.php INTERVAL operand](https://vulners.com/cve/CVE-2026-116828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116828 YesWiki before 4.7.0 SQL Injection via despam.php INTERVAL operand](https://vulners.com/cvelist/CVELIST:CVE-2026-116828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116829](https://vulners.com/nvd/NVD:CVE-2026-116829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116836](https://vulners.com/nvd/NVD:CVE-2026-116836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116837](https://vulners.com/nvd/NVD:CVE-2026-116837?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116838](https://vulners.com/nvd/NVD:CVE-2026-116838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116839](https://vulners.com/nvd/NVD:CVE-2026-116839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116840](https://vulners.com/nvd/NVD:CVE-2026-116840?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116841](https://vulners.com/nvd/NVD:CVE-2026-116841?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116842](https://vulners.com/nvd/NVD:CVE-2026-116842?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116843](https://vulners.com/nvd/NVD:CVE-2026-116843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116844](https://vulners.com/nvd/NVD:CVE-2026-116844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19742](https://vulners.com/nvd/NVD:CVE-2026-19742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2270](https://vulners.com/nvd/NVD:CVE-2026-2270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71455](https://vulners.com/nvd/NVD:CVE-2026-71455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -240,6 +265,7 @@
   - [CVE-2026-86990](https://vulners.com/nvd/NVD:CVE-2026-86990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86991](https://vulners.com/nvd/NVD:CVE-2026-86991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86992](https://vulners.com/nvd/NVD:CVE-2026-86992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97028](https://vulners.com/nvd/NVD:CVE-2026-97028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-116000](https://vulners.com/githubexploit/C6AF2BC8-649C-546B-AB5D-8F0A5C3CDEDD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-116004](https://vulners.com/githubexploit/811587BD-D24F-5F13-8E83-AD8B36E24DE8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-77647](https://vulners.com/githubexploit/5ADEE920-1433-5E2E-AD72-D37252D935D6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -254,7 +280,9 @@
   - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)
 - 不安全
   - [dshield](https://buaq.net/go-450923.html)
+  - [微软称清理Windows 11预取文件不会释放多少空间 还可能拖慢应用启动速度](https://buaq.net/go-450927.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？](https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=)
