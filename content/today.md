@@ -57,8 +57,10 @@
 - CyberNews
   - [AI companies could gain wider access to Europeans’ personal data under EU plan](https://cybernews.com/news/ai-eu-data-access/)
   - [Apple says it will replace iPhone Duo units showing screen problems](https://cybernews.com/tech/apple-will-replace-iphone-duo/)
+  - [Boston Dynamics workers revolt over $1.3 million ICE robot dog deal](https://cybernews.com/news/boston-dynamics-ice-robot-dogs-deal/)
   - [Claude randomly accessed voter data in US state Georgia](https://cybernews.com/security/anthropic-claude-georgia-voter-data/)
   - [Google Brotli flaw leaves 90% of the cloud exposed, Wiz finds, as patching scramble continues](https://cybernews.com/security/google-brotli-broccoli2shell-vulnerability-cloud-nodejs-patches/)
+  - [Google’s sneaky privacy policy update pushes users to consider alternatives](https://cybernews.com/news/google-privacy-policy-update-targeted-ads/)
   - [Hackers breach school tech giant serving 50 million students nationwide](https://cybernews.com/news/hackers-breach-school-tech-giant-serving-50-million-students-nationwide/)
   - [Microsoft offers buyouts to around 60,000 employees to contain costs](https://cybernews.com/ai-news/microsoft-offers-buyouts-to-60000-employees/)
   - [PHP exploitation in full force: 32.5 million services remain vulnerable](https://cybernews.com/security/php-exploitation-32-million-servers-vulnerable/)
@@ -80,6 +82,7 @@
   - [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
   - [Microsoft Announces Type Server Protocol, Extension of Language Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
   - [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+  - [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
   - [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
   - [The Git Forge for Agent-Human Collaboration](https://entire.com/blog/the-git-forge-for-agent-human-collaboration)
   - [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
@@ -89,6 +92,8 @@
   - [PHP 五天内发布第二个 Windows 安全更新，修复 Brotli 代码执行漏洞](http://0.0.0.0:8080/post/64837)
 - infosecurity-magazine.com
   - [CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure](https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/)
+  - [Copenhagen University Breach Compromises Data on Half a Million People](https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/)
+  - [First ISC2 AI Security Certification Expected for Early 2027](https://www.infosecurity-magazine.com/news/first-isc2-ai-security/)
 - johndcook.com
   - [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/)
 - Linux Foundation Blogs
@@ -121,11 +126,13 @@
   - [Databricks co-founder shares his secrets for winning big enterprises customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
   - [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
   - [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
+  - [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)
   - [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
   - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
   - [Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
   - [X is nudging users to promote their posts with a pointing hand, and people are confused](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
 - The Block
+  - [Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower](https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838)
   - [BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins](https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642)
   - [Circle faces up to 20% revenue risk from AI agents, Mizuho says](https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826)
   - [CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell](https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790)
@@ -139,6 +146,7 @@
   - [Anthropic opens its books for Wall Street, showing record revenue and mounting obligations](https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/)
   - [GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models](https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/)
   - [Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips](https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/)
+  - [OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model](https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/)
   - [Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit](https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/)
   - [Researchers find six patterns that make AI text so exhausting to read](https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/)
 - The Verge
@@ -148,6 +156,8 @@
   - [Everything old is new again with the Fitbit Edge](https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health)
   - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
   - [The Sony WH-1000XM4C bring back a beloved headphone design](https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review)
+- Trail of Bits Blog
+  - [Backporting security fixes to stable releases](https://blog.trailofbits.com/2026/10/27/backporting-security-fixes-to-stable-releases/)
 - troyhunt.com
   - [Weekly Update 527: Cybergeddon News v. Reality](https://www.troyhunt.com/weekly-update-527/)
 - Vulners.com RSS Feed
@@ -384,6 +394,7 @@
   - [Security Bulletin: IBM InfoSphere Optim Archive Viewer is affected by a vulnerability in fast-uri (CVE-2026-84292)](https://vulners.com/ibm/29A086A511C4C403960C1162A3A24887A38FE6F3786E54C34D97EE1F426FBFA6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Security Bulletin: IBM InfoSphere Optim Archive Viewer is affected by multiple vulnerabilities in AnyIO (CVE-2026-63349, CVE-2026-63374)](https://vulners.com/ibm/75D26DBF8BAE4BFA3EA2E2F3D6D1BEF219960EEA70907BDF769F0B6538B6185E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [AI Agents Are Media’s New Favorite Audience](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/)
   - [Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks](https://www.wired.com/story/anker-halloween-sale-oct-2026/)
   - [Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now](https://www.wired.com/story/apple-airtag-deal-october-2026/)
   - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)
@@ -391,7 +402,10 @@
   - [Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’](https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/)
   - [How to Hide Your Baby From the Government](https://www.wired.com/story/the-rise-of-sovereign-babies/)
   - [I Tested Every Major AI Agent for a Day. Here’s the Best One](https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/)
+  - [Instagram Is a Streaming Service Now](https://www.wired.com/story/instagram-is-a-streaming-service-now/)
   - [Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks](https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/)
+  - [Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls](https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/)
+  - [NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How](https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/)
   - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)
 - 不安全
   - [DAB SDR GUI: An Open-Source DAB+ Receiver for the RTL-SDR and SDRplay](https://buaq.net/go-450932.html)
@@ -406,9 +420,13 @@
   - [欧盟已接受拼多多国际版TEMU的整改计划 此前因违法被罚款2亿欧元约人民币15.79亿元](https://buaq.net/go-450979.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Reddit 开源社区争议是否禁止 AI](https://www.solidot.org/story?sid=85722)
+  - [广电总局发布规定限制电视开机广告](https://www.solidot.org/story?sid=85723)
 - 爱范儿
   - [7.69 万元起，第三代秦 PLUS DM-i 上市，内饰颜值大提升！](https://www.ifanr.com/1686110?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜](https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门](https://www.ifanr.com/1686154?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0](https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了](https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=)
