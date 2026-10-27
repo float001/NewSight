@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-10-27）
 
+- 2Libra
+  - [还有没注册 muse 的朋友吗，可以用下我的邀请码，双方都能获取 10 亿 Token～😄](https://2libra.com/post/invite-code/_frXanB)
 - 404 Media
   - [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn’t Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/)
   - [Proton To ‘Re-Interview’ Staff About AI To See Who Gets To Keep Their Job](https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/)
@@ -16,6 +18,7 @@
   - [Canada opens consultation on stablecoins, citing US GENIUS Act](https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective launches onchain futures market tracking Nvidia GPU rental costs](https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ripple wins final US approval for national trust bank](https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea lawmakers mull pushing crypto tax implementation to 2029](https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US OCC calls on community banks to become payment stablecoin issuers](https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -26,8 +29,10 @@
 - daringfireball.net
   - [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932)
   - [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/)
+  - [The NYT Seemingly Does Marissa Mayer Dirty](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr)
 - darkreading
   - [Risks &amp; Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)
+  - [So Many AI Security Benchmarks, But None Tell the Whole Story](https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges)
 - Hacker News Frontpage
   - [ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems](https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/)
   - [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
@@ -48,8 +53,11 @@
 - simonwillison.net
   - [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
 - Sploitus.com Exploits RSS Feed
+  - [ciberaplicada-uc2 exploit](https://sploitus.com/exploit?id=57D7B319-69D6-53B0-99E2-3DD10BA1D629&utm_source=rss&utm_medium=rss)
   - [CVE-2024-38063-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZENZUE-CVE-2024-38063-POC&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-43621](https://sploitus.com/exploit?id=BAC70C0A-D74B-5A00-AD02-4B8D304247F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=A10982E2-F473-55F2-9216-F6913857F12B&utm_source=rss&utm_medium=rss)
+  - [mini-siem exploit](https://sploitus.com/exploit?id=B2C18AF2-1B3C-57B6-AC97-1FC1F256DB87&utm_source=rss&utm_medium=rss)
   - [packages_apps_Settings_AOSP_10_r33_CVE-2022-20360 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-726232111-PACKAGES_APPS_SETTINGS_AOSP_10_R33_CVE-2022-20360&utm_source=rss&utm_medium=rss)
   - [ShodanX exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REVOLTSECURITIES-SHODANX&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -60,6 +68,7 @@
   - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
   - [Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
 - The Block
+  - [BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins](https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642)
   - [CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell](https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790)
   - [Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer](https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787)
   - [NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
@@ -243,5 +252,9 @@
   - [Google Fitbit Edge Review: I Still Prefer the Air (2026)](https://www.wired.com/review/google-fitbit-edge/)
   - [Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’](https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/)
   - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)
+- 不安全
+  - [dshield](https://buaq.net/go-450923.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=)
