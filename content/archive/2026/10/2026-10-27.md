@@ -2,6 +2,10 @@
 
 - 2Libra
   - [2026 Spaceship & Dynadot Discount Code](https://2libra.com/post/deal-hunter/oEmoZpn)
+  - [codex 只能单开？](https://2libra.com/post/ai-programming/7cYTxmo)
+  - [【运动打卡】第 1️⃣5️⃣天，昨天去医院检查了一下颈椎](https://2libra.com/post/sports/lA3AJuZ)
+  - [想知道地推和产品宣发介绍会是个怎么流程？](https://2libra.com/post/help-requests/zFjt65D)
+  - [有没有什么好用的比价、优惠券的油猴脚本](https://2libra.com/post/browser-extensions/5ZJ8x_g)
   - [谁有好的解决办法？](https://2libra.com/post/file-storage/1-6L-Nr)
   - [还有没注册 muse 的朋友吗，可以用下我的邀请码，双方都能获取 10 亿 Token～😄](https://2libra.com/post/invite-code/_frXanB)
 - 404 Media
@@ -55,13 +59,18 @@
   - [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/)
 - Linux Foundation Blogs
   - [Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health](https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health)
+- rtl-sdr.com
+  - [DAB SDR GUI: An Open-Source DAB+ Receiver for the RTL-SDR and SDRplay](https://www.rtl-sdr.com/dab-sdr-gui-an-open-source-dab-receiver-for-the-rtl-sdr-and-sdrplay/)
+  - [DecSAT: A DVB-S/S2/S2X Satellite Receiver with Blind Scanning for the HackRF One](https://www.rtl-sdr.com/decsat-a-dvb-s-s2-s2x-satellite-receiver-with-blind-scanning-for-the-hackrf-one/)
 - simonwillison.net
   - [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
 - Sploitus.com Exploits RSS Feed
   - [ciberaplicada-uc2 exploit](https://sploitus.com/exploit?id=57D7B319-69D6-53B0-99E2-3DD10BA1D629&utm_source=rss&utm_medium=rss)
   - [CVE-2024-38063-POC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ZENZUE-CVE-2024-38063-POC&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2025-27740](https://sploitus.com/exploit?id=46102541-3DBA-5E97-98AF-051BA8B1ECD6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-43621](https://sploitus.com/exploit?id=BAC70C0A-D74B-5A00-AD02-4B8D304247F2&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=A10982E2-F473-55F2-9216-F6913857F12B&utm_source=rss&utm_medium=rss)
+  - [FastJson exploit](https://sploitus.com/exploit?id=87147C63-531D-5B30-97BE-8DD74806CF2B&utm_source=rss&utm_medium=rss)
   - [mini-siem exploit](https://sploitus.com/exploit?id=B2C18AF2-1B3C-57B6-AC97-1FC1F256DB87&utm_source=rss&utm_medium=rss)
   - [packages_apps_Settings_AOSP_10_r33_CVE-2022-20360 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-726232111-PACKAGES_APPS_SETTINGS_AOSP_10_R33_CVE-2022-20360&utm_source=rss&utm_medium=rss)
   - [ShodanX exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REVOLTSECURITIES-SHODANX&utm_source=rss&utm_medium=rss)
@@ -80,6 +89,7 @@
   - [Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer](https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787)
   - [NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
   - [Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
+  - [Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight](https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810)
   - [Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
 - The Decoder
   - [Anthropic opens its books for Wall Street, showing record revenue and mounting obligations](https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/)
@@ -279,10 +289,13 @@
   - [Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’](https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/)
   - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)
 - 不安全
+  - [DAB SDR GUI: An Open-Source DAB+ Receiver for the RTL-SDR and SDRplay](https://buaq.net/go-450932.html)
+  - [DecSAT: A DVB-S/S2/S2X Satellite Receiver with Blind Scanning for the HackRF One](https://buaq.net/go-450933.html)
   - [dshield](https://buaq.net/go-450923.html)
   - [微软称清理Windows 11预取文件不会释放多少空间 还可能拖慢应用启动速度](https://buaq.net/go-450927.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜](https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？](https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=)
