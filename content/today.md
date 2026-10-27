@@ -1,8 +1,15 @@
 # 今日安全资讯（2026-10-28）
 
+- Ars Technica
+  - [Google's Android Registered App Stores program launches Dec. 1, applications now open](https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/)
+- Blog - Praetorian
+  - [php2shell in Practice: Exploitable, Conditional, and Hard to Mass-Exploit](https://www.praetorian.com/blog/php2shell/)
 - CoinTelegraph
+  - [CFTC sues Utah to block action against prediction markets](https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar](https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Majority of Americans want candidates who support US-based financial technology: Poll](https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets](https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Critical GoAhead Flaw Accepts Revoked mTLS Certificates](https://www.cyberkendra.com/2026/10/critical-goahead-flaw-accepts-revoked-mtls-certificates.html)
 - daringfireball.net
@@ -27,6 +34,7 @@
   - [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
   - [Reducibility Among Combinatorial Problems (1972) [pdf]](https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf)
   - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
+  - [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
   - [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
   - [We let our cloud agents query prod (with OIDC, not secrets)](https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/)
 - HackerNoon
@@ -41,6 +49,8 @@
   - [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
 - miguelgrinberg.com
   - [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now)
+- simonwillison.net
+  - [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/)
 - TechCrunch
   - [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/)
   - [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/)
@@ -50,8 +60,10 @@
   - [CFTC sues Utah as battle over prediction market regulation intensifies](https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
   - [Crypto.com and OG.com launch US crypto perps with up to 5x leverage](https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902)
 - The Decoder
+  - [Alibaba's latest Qwen models routed some requests through company servers, researchers find](https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/)
   - [Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs](https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/)
 - The Verge
+  - [Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service)
   - [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)
 - Vulners.com RSS Feed
   - [CVE-2026-105489](https://vulners.com/nvd/NVD:CVE-2026-105489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -66,22 +78,39 @@
   - [CVE-2026-109089](https://vulners.com/nvd/NVD:CVE-2026-109089?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109090](https://vulners.com/nvd/NVD:CVE-2026-109090?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112353](https://vulners.com/nvd/NVD:CVE-2026-112353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112355 MembershipWorks WordPress Plugin < 6.17 Information Disclosure via WordPress REST API](https://vulners.com/cve/CVE-2026-112355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112355 MembershipWorks WordPress Plugin < 6.17 Information Disclosure via WordPress REST API](https://vulners.com/cvelist/CVELIST:CVE-2026-112355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113775](https://vulners.com/nvd/NVD:CVE-2026-113775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114595](https://vulners.com/nvd/NVD:CVE-2026-114595?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114596](https://vulners.com/nvd/NVD:CVE-2026-114596?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114597](https://vulners.com/nvd/NVD:CVE-2026-114597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114598](https://vulners.com/nvd/NVD:CVE-2026-114598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115413](https://vulners.com/nvd/NVD:CVE-2026-115413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116672](https://vulners.com/nvd/NVD:CVE-2026-116672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116673](https://vulners.com/nvd/NVD:CVE-2026-116673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116674](https://vulners.com/nvd/NVD:CVE-2026-116674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116675](https://vulners.com/nvd/NVD:CVE-2026-116675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116677 OpenWISP Controller CA CRL REST API does not scope requests to managed organizations](https://vulners.com/cve/CVE-2026-116677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116677 OpenWISP Controller CA CRL REST API does not scope requests to managed organizations](https://vulners.com/cvelist/CVELIST:CVE-2026-116677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116683](https://vulners.com/nvd/NVD:CVE-2026-116683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116684 Model Context Protocol Python SDK: Server bearer-token authentication accepts tokens issued for a different resource server](https://vulners.com/cve/CVE-2026-116684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116684 Model Context Protocol Python SDK: Server bearer-token authentication accepts tokens issued for a different resource server](https://vulners.com/cvelist/CVELIST:CVE-2026-116684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117512](https://vulners.com/nvd/NVD:CVE-2026-117512?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117513](https://vulners.com/nvd/NVD:CVE-2026-117513?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117514](https://vulners.com/nvd/NVD:CVE-2026-117514?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118131 CVE-2026-118131](https://vulners.com/cve/CVE-2026-118131?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118131 CVE-2026-118131](https://vulners.com/cvelist/CVELIST:CVE-2026-118131?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118170](https://vulners.com/nvd/NVD:CVE-2026-118170?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118171](https://vulners.com/nvd/NVD:CVE-2026-118171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118172](https://vulners.com/nvd/NVD:CVE-2026-118172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118173](https://vulners.com/nvd/NVD:CVE-2026-118173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118174](https://vulners.com/nvd/NVD:CVE-2026-118174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118175](https://vulners.com/nvd/NVD:CVE-2026-118175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118176](https://vulners.com/nvd/NVD:CVE-2026-118176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118177](https://vulners.com/nvd/NVD:CVE-2026-118177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118178](https://vulners.com/nvd/NVD:CVE-2026-118178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118179](https://vulners.com/nvd/NVD:CVE-2026-118179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118180](https://vulners.com/nvd/NVD:CVE-2026-118180?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16491 CVE-2026-16491 CVE Record](https://vulners.com/cve/CVE-2026-16491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16491 CVE-2026-16491 CVE Record](https://vulners.com/cvelist/CVELIST:CVE-2026-16491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48360](https://vulners.com/nvd/NVD:CVE-2026-48360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -106,6 +135,7 @@
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks](https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/)
+  - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)
   - [Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)](https://www.wired.com/story/everblog-homecal-deal-october-2026/)
   - [Early Black Friday Deals 2026](https://www.wired.com/story/black-friday-deals-10-27-2026/)
   - [Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr](https://www.wired.com/story/motorola-razr-deal-october-2026/)
