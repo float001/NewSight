@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2026 Spaceship & Dynadot Discount Code](https://2libra.com/post/deal-hunter/oEmoZpn)
+  - [Clash Verge Rev 五分钟基础设置笔记](https://2libra.com/post/tool-sharing/itFvxdp)
   - [codex 只能单开？](https://2libra.com/post/ai-programming/7cYTxmo)
   - [github Cansiny0320 真的恶心坏了](https://2libra.com/post/open-source-sharing/ZFRDFmW)
   - [ios27.2,禁止摇一摇，大家更新了吗？](https://2libra.com/post/apple/tl3BBJF)
@@ -40,6 +41,7 @@
 - CoinTelegraph
   - [AI company Anthropic announces IPO, expected as early as November](https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs claw back $110M after $774M exit](https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bloom bot hackers loot $953K faster than you can microwave popcorn](https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canada opens consultation on stablecoins, citing US GENIUS Act](https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective launches onchain futures market tracking Nvidia GPU rental costs](https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -59,6 +61,7 @@
   - [Google Brotli flaw leaves 90% of the cloud exposed, Wiz finds, as patching scramble continues](https://cybernews.com/security/google-brotli-broccoli2shell-vulnerability-cloud-nodejs-patches/)
   - [Hackers breach school tech giant serving 50 million students nationwide](https://cybernews.com/news/hackers-breach-school-tech-giant-serving-50-million-students-nationwide/)
   - [Microsoft offers buyouts to around 60,000 employees to contain costs](https://cybernews.com/ai-news/microsoft-offers-buyouts-to-60000-employees/)
+  - [PHP exploitation in full force: 32.5 million services remain vulnerable](https://cybernews.com/security/php-exploitation-32-million-servers-vulnerable/)
   - [Ransomware chaos hits Richmond, Oneonta school districts as cyberattacks pile up](https://cybernews.com/news/richmond-oneonta-schools-ransomware-attacks/)
   - [Test account using “Password1” caused data leak affecting thousands of people](https://cybernews.com/security/password1-caused-data-leak-affecting-thousands/)
   - [US blocks Huawei-linked surveillance chips over national security fears](https://cybernews.com/tech/us-blocks-huawei-linked-surveillance-chips/)
@@ -90,6 +93,8 @@
   - [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/)
 - Linux Foundation Blogs
   - [Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health](https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health)
+- pluralistic.net
+  - [Pluralistic: History is something you do (27 Oct 2026)](https://pluralistic.net/2026/10/27/tied-to-the-tracks/)
 - rtl-sdr.com
   - [DAB SDR GUI: An Open-Source DAB+ Receiver for the RTL-SDR and SDRplay](https://www.rtl-sdr.com/dab-sdr-gui-an-open-source-dab-receiver-for-the-rtl-sdr-and-sdrplay/)
   - [DecSAT: A DVB-S/S2/S2X Satellite Receiver with Blind Scanning for the HackRF One](https://www.rtl-sdr.com/decsat-a-dvb-s-s2-s2x-satellite-receiver-with-blind-scanning-for-the-hackrf-one/)
@@ -133,10 +138,13 @@
 - The Decoder
   - [Anthropic opens its books for Wall Street, showing record revenue and mounting obligations](https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/)
   - [GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models](https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/)
+  - [Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips](https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/)
   - [Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit](https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/)
   - [Researchers find six patterns that make AI text so exhausting to read](https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/)
 - The Verge
+  - [Acer is bringing a Predator gaming handheld to the US for the first time](https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price)
   - [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)
+  - [Data center backlash is uniting America](https://www.theverge.com/policy/1019152/data-centers-midterm-elections)
   - [Everything old is new again with the Fitbit Edge](https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health)
   - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
   - [The Sony WH-1000XM4C bring back a beloved headphone design](https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review)
@@ -184,6 +192,8 @@
   - [CVE-2024-58400](https://vulners.com/nvd/NVD:CVE-2024-58400?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71439](https://vulners.com/nvd/NVD:CVE-2025-71439?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102649 Burrito: Unauthenticated webhooks trigger unauthorized Terraform plans when webhookSecret is unset](https://vulners.com/cvelist/CVELIST:CVE-2026-102649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102789 Joomla Extension - balbooa.com - Missing Authorization Check on Editor Controller Task in Gridbox < 2.20.4.2](https://vulners.com/cve/CVE-2026-102789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102789 Joomla Extension - balbooa.com - Missing Authorization Check on Editor Controller Task in Gridbox < 2.20.4.2](https://vulners.com/cvelist/CVELIST:CVE-2026-102789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103325](https://vulners.com/nvd/NVD:CVE-2026-103325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103359](https://vulners.com/nvd/NVD:CVE-2026-103359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104591](https://vulners.com/nvd/NVD:CVE-2026-104591?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -290,8 +300,14 @@
   - [CVE-2026-116842](https://vulners.com/nvd/NVD:CVE-2026-116842?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116843](https://vulners.com/nvd/NVD:CVE-2026-116843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116844](https://vulners.com/nvd/NVD:CVE-2026-116844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117493 Multiple vulnerabilities in Sisense’s Cloud BI Platform](https://vulners.com/cve/CVE-2026-117493?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117493 Multiple vulnerabilities in Sisense’s Cloud BI Platform](https://vulners.com/cvelist/CVELIST:CVE-2026-117493?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117494 Multiple vulnerabilities in Sisense’s Cloud BI Platform](https://vulners.com/cve/CVE-2026-117494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117494 Multiple vulnerabilities in Sisense’s Cloud BI Platform](https://vulners.com/cvelist/CVELIST:CVE-2026-117494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19742](https://vulners.com/nvd/NVD:CVE-2026-19742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2270](https://vulners.com/nvd/NVD:CVE-2026-2270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65211](https://vulners.com/nvd/NVD:CVE-2026-65211?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65213](https://vulners.com/nvd/NVD:CVE-2026-65213?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71455](https://vulners.com/nvd/NVD:CVE-2026-71455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71456](https://vulners.com/nvd/NVD:CVE-2026-71456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-72752 Routinator exits when requesting the output repeatedly](https://vulners.com/cvelist/CVELIST:CVE-2026-72752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -358,6 +374,7 @@
   - [CVE-2026-86991](https://vulners.com/nvd/NVD:CVE-2026-86991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86992](https://vulners.com/nvd/NVD:CVE-2026-86992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88781](https://vulners.com/nvd/NVD:CVE-2026-88781?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92885](https://vulners.com/nvd/NVD:CVE-2026-92885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97028](https://vulners.com/nvd/NVD:CVE-2026-97028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-116000](https://vulners.com/githubexploit/C6AF2BC8-649C-546B-AB5D-8F0A5C3CDEDD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-116004](https://vulners.com/githubexploit/811587BD-D24F-5F13-8E83-AD8B36E24DE8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -372,11 +389,15 @@
   - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)
   - [Google Fitbit Edge Review: I Still Prefer the Air (2026)](https://www.wired.com/review/google-fitbit-edge/)
   - [Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’](https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/)
+  - [How to Hide Your Baby From the Government](https://www.wired.com/story/the-rise-of-sovereign-babies/)
+  - [I Tested Every Major AI Agent for a Day. Here’s the Best One](https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/)
+  - [Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks](https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/)
   - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/)
 - 不安全
   - [DAB SDR GUI: An Open-Source DAB+ Receiver for the RTL-SDR and SDRplay](https://buaq.net/go-450932.html)
   - [DecSAT: A DVB-S/S2/S2X Satellite Receiver with Blind Scanning for the HackRF One](https://buaq.net/go-450933.html)
   - [dshield](https://buaq.net/go-450923.html)
+  - [Evil_Twin_Attack](https://buaq.net/go-450997.html)
   - [Help me please](https://buaq.net/go-450962.html)
   - [MeshCentral](https://buaq.net/go-450955.html)
   - [U盘反病毒抢救数据](https://buaq.net/go-450977.html)
@@ -386,6 +407,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [7.69 万元起，第三代秦 PLUS DM-i 上市，内饰颜值大提升！](https://www.ifanr.com/1686110?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜](https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0](https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了](https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=)
