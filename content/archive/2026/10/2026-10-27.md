@@ -3,6 +3,7 @@
 - 2Libra
   - [2026 Spaceship & Dynadot Discount Code](https://2libra.com/post/deal-hunter/oEmoZpn)
   - [codex 只能单开？](https://2libra.com/post/ai-programming/7cYTxmo)
+  - [github Cansiny0320 真的恶心坏了](https://2libra.com/post/open-source-sharing/ZFRDFmW)
   - [ios27.2,禁止摇一摇，大家更新了吗？](https://2libra.com/post/apple/tl3BBJF)
   - [Jasna：把去除马赛克流水线搬上 GPU，比 Lada 快 3～4 倍，效果堪比原片](https://2libra.com/post/ai-tools/UyzmcMH)
   - [Lv.7 之后各等级还有哪些区别？](https://2libra.com/post/forum-function/X_N0z_5)
@@ -19,6 +20,8 @@
   - [想知道地推和产品宣发介绍会是个怎么流程？](https://2libra.com/post/help-requests/zFjt65D)
   - [有没有什么好用的比价、优惠券的油猴脚本](https://2libra.com/post/browser-extensions/5ZJ8x_g)
   - [梯子又陨落了](https://2libra.com/post/networking/jCWqbnQ)
+  - [用 cc 加一个 skill,把自己项目落地页的"AI 味"改了一遍](https://2libra.com/post/ai-programming/PLUusp8)
+  - [看完一个博主发的一个马驹桥流浪的视频， 看的我好绝望！](https://2libra.com/post/social-observation/PsQUjsU)
   - [纯纯韭菜了，才用了一个半月，出新款了](https://2libra.com/post/smart-wearable/pqxYuKQ)
   - [菲律宾昨晚酒店隔壁房间疑似仙人跳](https://2libra.com/post/social-observation/clO_F_c)
   - [谁有好的解决办法？](https://2libra.com/post/file-storage/1-6L-Nr)
@@ -50,7 +53,9 @@
   - [7 Security Controls for Processing Untrusted PDFs in .NET Applications](https://www.cyberkendra.com/2026/10/7-security-controls-for-processing-untrusted-pdfs-in-net-applications.html)
   - [Node2Shell Exploited in the Wild: Node.js Brotli RCE](https://www.cyberkendra.com/2026/10/node2shell-cve-2026-111497-exploited-in-the-wild.html)
 - CyberNews
+  - [AI companies could gain wider access to Europeans’ personal data under EU plan](https://cybernews.com/news/ai-eu-data-access/)
   - [Apple says it will replace iPhone Duo units showing screen problems](https://cybernews.com/tech/apple-will-replace-iphone-duo/)
+  - [Claude randomly accessed voter data in US state Georgia](https://cybernews.com/security/anthropic-claude-georgia-voter-data/)
   - [Google Brotli flaw leaves 90% of the cloud exposed, Wiz finds, as patching scramble continues](https://cybernews.com/security/google-brotli-broccoli2shell-vulnerability-cloud-nodejs-patches/)
   - [Hackers breach school tech giant serving 50 million students nationwide](https://cybernews.com/news/hackers-breach-school-tech-giant-serving-50-million-students-nationwide/)
   - [Microsoft offers buyouts to around 60,000 employees to contain costs](https://cybernews.com/ai-news/microsoft-offers-buyouts-to-60000-employees/)
@@ -374,8 +379,10 @@
   - [dshield](https://buaq.net/go-450923.html)
   - [Help me please](https://buaq.net/go-450962.html)
   - [MeshCentral](https://buaq.net/go-450955.html)
+  - [U盘反病毒抢救数据](https://buaq.net/go-450977.html)
   - [zeek v9.0.1](https://buaq.net/go-450970.html)
   - [微软称清理Windows 11预取文件不会释放多少空间 还可能拖慢应用启动速度](https://buaq.net/go-450927.html)
+  - [欧盟已接受拼多多国际版TEMU的整改计划 此前因违法被罚款2亿欧元约人民币15.79亿元](https://buaq.net/go-450979.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -385,6 +392,8 @@
   - [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [王的猜想，被 AI 一夜通关](https://www.ifanr.com/1686064?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？](https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [U盘反病毒抢救数据](https://blog.nsfocus.net/u%e7%9b%98%e5%8f%8d%e7%97%85%e6%af%92%e6%8a%a2%e6%95%91%e6%95%b0%e6%8d%ae/)
 - 黑海洋
   - [ARTEX：让 LLM 自己走完全攻击链的开源自主渗透系统（FBI严选）](https://blog.upx8.com/ARTEX-LLM)
   - [Work破甲包使用教程：用四个md文件改掉 AI 的人格](https://blog.upx8.com/Work-md-AI)
