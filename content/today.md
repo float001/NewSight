@@ -12,6 +12,7 @@
   - [【投票】各位认为未来几年制造业在 AI Infra 和机器人哪个方向会有更稳定的发展](https://2libra.com/post/industry-inside/tQujv13)
   - [【投票】用 1000 个金币补签划算吗？](https://2libra.com/post/forum-function/5hEi4lB)
   - [【运动打卡】第 1️⃣5️⃣天，昨天去医院检查了一下颈椎](https://2libra.com/post/sports/lA3AJuZ)
+  - [【💰】各位如何平衡多 agent 协同工作的工作流和并发呢](https://2libra.com/post/ai-applications/hNFHtrh)
   - [【💰】大家会跟 ai“谈心”吗，就是解答一些疑惑或者排解情绪](https://2libra.com/post/ai-emotion-guard/PeHPMMz)
   - [今天发帖只要一金币](https://2libra.com/post/forum-function/w1iChE7)
   - [今天发现一个沙雕游戏：大到离谱的斧头](https://2libra.com/post/game-share/x4OSPas)
@@ -34,6 +35,8 @@
 - Ars Technica
   - [Boston Dynamics employees want to block sale of robot dogs to ICE](https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/)
   - [Musk accuses Ukraine of violating Starlink terms with deadly drone strikes](https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/)
+- Articles | InfoStealers
+  - [FortiBleed 2.0: 75% of Breached Organizations Are Brand-New – Claim Your Ethical Disclosure](https://www.infostealers.com/article/fortibleed-2-0-75-of-breached-organizations-are-brand-new-free-lookup-tool-available/)
 - ByteByteGo
   - [Last chance to get every live course in one membership](https://blog.bytebytego.com/p/last-chance-to-get-every-live-course)
 - CERT Recently Published Vulnerability Notes
@@ -42,11 +45,13 @@
 - CoinTelegraph
   - [AI company Anthropic announces IPO, expected as early as November](https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs claw back $110M after $774M exit](https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin price analysis sees ‘strong rally’ as old coins become dormant](https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bloom bot hackers loot $953K faster than you can microwave popcorn](https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canada opens consultation on stablecoins, citing US GENIUS Act](https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Injective launches onchain futures market tracking Nvidia GPU rental costs](https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Keystone breach deepens: Hackers stole key used to verify wallets as genuine](https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence](https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal](https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [RedotPay weighs confidential US IPO filing by year-end: Bloomberg](https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple wins final US approval for national trust bank](https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -67,9 +72,11 @@
   - [Microsoft offers buyouts to around 60,000 employees to contain costs](https://cybernews.com/ai-news/microsoft-offers-buyouts-to-60000-employees/)
   - [PHP exploitation in full force: 32.5 million services remain vulnerable](https://cybernews.com/security/php-exploitation-32-million-servers-vulnerable/)
   - [Ransomware chaos hits Richmond, Oneonta school districts as cyberattacks pile up](https://cybernews.com/news/richmond-oneonta-schools-ransomware-attacks/)
+  - [Severe GoAhead flaws expose security risks for devices from Palo Alto, Siemens, and Boeing](https://cybernews.com/security/goahead-security-flaws-palo-alto-siemens-boeing/)
   - [Test account using “Password1” caused data leak affecting thousands of people](https://cybernews.com/security/password1-caused-data-leak-affecting-thousands/)
   - [Ukraine warns hackers are exploiting China-made Dahua cameras](https://cybernews.com/security/ukraine-hackers-exploiting-dahua-cameras/)
   - [US blocks Huawei-linked surveillance chips over national security fears](https://cybernews.com/tech/us-blocks-huawei-linked-surveillance-chips/)
+  - [Why the Swedish government blocked ChatGPT but chose to keep Microsoft Copilot](https://cybernews.com/ai-news/sweden-blocks-chatgpt-keeps-copilot/)
 - daringfireball.net
   - [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932)
   - [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/)
@@ -94,12 +101,16 @@
   - [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 - HackerNews
   - [PHP 五天内发布第二个 Windows 安全更新，修复 Brotli 代码执行漏洞](http://0.0.0.0:8080/post/64837)
+- Horizon3.ai
+  - [Horizon3 Announces NodeZero Integration With Palo Alto Networks Cortex XSOAR](https://horizon3.ai/news/press-release/nodezero-integration-palo-alto-networks-cortex-xsoar/)
 - infosecurity-magazine.com
+  - [Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes](https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/)
   - [CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure](https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/)
   - [Copenhagen University Breach Compromises Data on Half a Million People](https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/)
   - [First ISC2 AI Security Certification Expected for Early 2027](https://www.infosecurity-magazine.com/news/first-isc2-ai-security/)
 - johndcook.com
   - [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/)
+  - [The Exponential Time Hypothesis is False](https://www.johndcook.com/blog/2026/10/27/eth-false/)
 - Linux Foundation Blogs
   - [Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health](https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health)
 - MIT Technology Review
@@ -111,6 +122,8 @@
   - [DecSAT: A DVB-S/S2/S2X Satellite Receiver with Blind Scanning for the HackRF One](https://www.rtl-sdr.com/decsat-a-dvb-s-s2-s2x-satellite-receiver-with-blind-scanning-for-the-hackrf-one/)
   - [Elektro-L3 Arrives at 14.5°W and Begins Testing L-Band LRIT and HRIT](https://www.rtl-sdr.com/elektro-l3-arrives-at-14-5w-and-begins-testing-l-band-lrit-and-hrit/)
   - [rxx_lora: A Lightweight rtl_fm-Style LoRa Receiver for RTL-SDR and SDRplay, No GNU Radio Required](https://www.rtl-sdr.com/rxx_lora-a-lightweight-rtl_fm-style-lora-receiver-for-rtl-sdr-and-sdrplay-no-gnu-radio-required/)
+- shkspr.mobi
+  - [Book Review: You Could Do Something Amazing with Your Life [You Are Raoul Moat] - Andrew Hankinson ★★★★☆](https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-life-you-are-raoul-moat-andrew-hankinson/)
 - simonwillison.net
   - [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)
 - Sploitus.com Exploits RSS Feed
@@ -127,12 +140,16 @@
   - [Sauercloude exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CHATBOTTESISGMAILH-SAUERCLOUDE&utm_source=rss&utm_medium=rss)
   - [ShodanX exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REVOLTSECURITIES-SHODANX&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop](https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/)
   - [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
+  - [Billionaire Palmer Luckey isn’t leaving California over the wealth tax](https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/)
   - [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/)
   - [Databricks co-founder shares his secrets for winning big enterprises customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
   - [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
+  - [General Compute raises $100 million Series A, countering the neocloud disaster narrative](https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/)
   - [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
   - [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)
+  - [Opera introduces a new web standard to let users deploy AI locally in their browser](https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/)
   - [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
   - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
   - [Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
@@ -154,6 +171,7 @@
   - [Anthropic uses its IPO letter to renew its pledge that Claude will never show ads](https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/)
   - [GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models](https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/)
   - [Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips](https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/)
+  - [OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics](https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/)
   - [OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps](https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/)
   - [OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model](https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/)
   - [Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit](https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/)
@@ -163,6 +181,7 @@
   - [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)
   - [Data center backlash is uniting America](https://www.theverge.com/policy/1019152/data-centers-midterm-elections)
   - [Everything old is new again with the Fitbit Edge](https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health)
+  - [Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording](https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability)
   - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
   - [The Sony WH-1000XM4C bring back a beloved headphone design](https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review)
 - Trail of Bits Blog
@@ -473,6 +492,7 @@
   - [Evil_Twin_Attack](https://buaq.net/go-450997.html)
   - [Help me please](https://buaq.net/go-450962.html)
   - [MeshCentral](https://buaq.net/go-450955.html)
+  - [shannon v3.5.0](https://buaq.net/go-451038.html)
   - [U盘反病毒抢救数据](https://buaq.net/go-450977.html)
   - [zeek v9.0.1](https://buaq.net/go-450970.html)
   - [微软称清理Windows 11预取文件不会释放多少空间 还可能拖慢应用启动速度](https://buaq.net/go-450927.html)
