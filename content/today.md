@@ -39,6 +39,8 @@
   - [Musk accuses Ukraine of violating Starlink terms with deadly drone strikes](https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/)
 - Articles | InfoStealers
   - [FortiBleed 2.0: 75% of Breached Organizations Are Brand-New – Claim Your Ethical Disclosure](https://www.infostealers.com/article/fortibleed-2-0-75-of-breached-organizations-are-brand-new-free-lookup-tool-available/)
+- Ben's Bites
+  - [Is Anthropic the best business in the world?](https://www.bensbites.com/p/is-anthropic-the-best-business-in)
 - ByteByteGo
   - [Last chance to get every live course in one membership](https://blog.bytebytego.com/p/last-chance-to-get-every-live-course)
 - CERT Recently Published Vulnerability Notes
@@ -83,6 +85,7 @@
   - [We spoke to 100 researchers. This is the biggest threat from AI](https://cybernews.com/ai-news/ai-researchers-survey/)
   - [Why the Swedish government blocked ChatGPT but chose to keep Microsoft Copilot](https://cybernews.com/ai-news/sweden-blocks-chatgpt-keeps-copilot/)
   - [“High risk, no reward:” hackers’ attempt to extort 38 organizations in South Korea nets just $226](https://cybernews.com/news/south-korea-hacker-fail/)
+  - [“I'll probably take it.” Is Microsoft’s voluntary buyout not a bad thing after all?](https://cybernews.com/news/microsoft-voluntary-buyout-what-offers/)
 - daringfireball.net
   - [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932)
   - [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/)
@@ -116,6 +119,7 @@
   - [CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure](https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/)
   - [Copenhagen University Breach Compromises Data on Half a Million People](https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/)
   - [First ISC2 AI Security Certification Expected for Early 2027](https://www.infosecurity-magazine.com/news/first-isc2-ai-security/)
+  - [ISC2 Launches Cyber-AI Workforce Coalition to Address the Future of AI Security Jobs](https://www.infosecurity-magazine.com/news/isc2-launches-cyberai-workforce/)
 - johndcook.com
   - [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/)
   - [The Exponential Time Hypothesis is False](https://www.johndcook.com/blog/2026/10/27/eth-false/)
@@ -125,6 +129,8 @@
   - [Industrial Intelligence: The next growth opportunity for manufacturing](https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/)
 - pluralistic.net
   - [Pluralistic: History is something you do (27 Oct 2026)](https://pluralistic.net/2026/10/27/tied-to-the-tracks/)
+- PortSwigger Research
+  - [Scalable Vector Grief](https://portswigger.net/research/scalable-vector-grief)
 - rtl-sdr.com
   - [DAB SDR GUI: An Open-Source DAB+ Receiver for the RTL-SDR and SDRplay](https://www.rtl-sdr.com/dab-sdr-gui-an-open-source-dab-receiver-for-the-rtl-sdr-and-sdrplay/)
   - [DecSAT: A DVB-S/S2/S2X Satellite Receiver with Blind Scanning for the HackRF One](https://www.rtl-sdr.com/decsat-a-dvb-s-s2-s2x-satellite-receiver-with-blind-scanning-for-the-hackrf-one/)
@@ -151,28 +157,36 @@
   - [Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop](https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/)
   - [Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/)
   - [Apple rolls out iOS 27.2 with new Siri AI languages and security fixes](https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/)
+  - [Apple unveils new 14-inch MacBook Pro with M6 chip](https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/)
   - [Billionaire Palmer Luckey isn’t leaving California over the wealth tax](https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/)
   - [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/)
   - [Databricks co-founder shares his secrets for winning big enterprises customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
+  - [Ford Fathom will be the cheapest American EV capable of powering a house](https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/)
   - [Fusion startups are giving the government shares in exchange for awards. Is it worth it?](https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/)
   - [General Compute raises $100 million Series A, countering the neocloud disaster narrative](https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/)
   - [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
   - [Japan internet giant GMO says hackers posted stolen customer data](https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/)
+  - [Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace](https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/)
   - [Nvidia backs Indian startup helping companies run AI models with fewer GPUs](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)
   - [Opera introduces a new web standard to let users deploy AI locally in their browser](https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/)
   - [SpaceX locks in $40B GPU financing deal with Apollo](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
   - [This startup’s self-driving excavators help dig up $600M in new funding](https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/)
   - [Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
+  - [US government says hackers are now exploiting critical PHP web bugs](https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/)
   - [X is nudging users to promote their posts with a pointing hand, and people are confused](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
 - The Block
   - [Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower](https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838)
+  - [Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business](https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858)
   - [BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins](https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642)
   - [Circle faces up to 20% revenue risk from AI agents, Mizuho says](https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826)
+  - [Crypto Market Structure Explained](https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489)
   - [CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell](https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790)
+  - [Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback](https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860)
   - [Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer](https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787)
   - [NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket](https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764)
   - [Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle](https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750)
   - [Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight](https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810)
+  - [Ripple, BNY explore using the XRP Ledger to finance approved invoices](https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891)
   - [StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy](https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818)
   - [Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders](https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775)
   - [Zcash co-founder proposes ending grants subsidy, citing $125 million treasury](https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847)
@@ -551,6 +565,8 @@
   - [Evil_Twin_Attack](https://buaq.net/go-450997.html)
   - [Help me please](https://buaq.net/go-450962.html)
   - [MeshCentral](https://buaq.net/go-450955.html)
+  - [PrologWinDbg](https://buaq.net/go-451080.html)
+  - [Scalable Vector Grief](https://buaq.net/go-451079.html)
   - [shannon v3.5.0](https://buaq.net/go-451038.html)
   - [U盘反病毒抢救数据](https://buaq.net/go-450977.html)
   - [zeek v9.0.1](https://buaq.net/go-450970.html)
