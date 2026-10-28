@@ -20,6 +20,7 @@
 - Google DeepMind Blog
   - [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)
 - Hacker News Frontpage
+  - [Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache](https://twitter.com/coolerwave/status/2114088769112477849)
   - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
   - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
   - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
@@ -31,6 +32,7 @@
 - TechCrunch
   - [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
   - [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
+  - [Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme](https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/)
   - [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
   - [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
   - [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
@@ -69,10 +71,15 @@
   - [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/)
   - [Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
   - [Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw](https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/)
+  - [The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal](https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/)
   - [The Inside Story of Why Apple Finally Brought a Touch Display to the Mac](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/)
   - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
   - [This Is What the GOP’s Final Midterms Push Looks Like](https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [从“能接入”到“可管控”， 瑞数信息如何管理Agent生命周期安全？](https://www.anquanke.com/post/id/316362)
 - 爱范儿
   - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一](https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说](https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=)
