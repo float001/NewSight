@@ -1,5 +1,10 @@
 # 今日安全资讯（2026-10-28）
 
+- 2Libra
+  - [[不出所料] iMac M6 ＆ MacBook Pro M6](https://2libra.com/post/apple/JcH460V)
+  - [【投票】你会定期更新电脑系统么？](https://2libra.com/post/operating-systems/2-U7Y2U)
+  - [新徽章到手](https://2libra.com/post/forum-function/naslD1P)
+  - [跑步回来,做杯咖啡先](https://2libra.com/post/personal-life/t2MnHGC)
 - Ars Technica
   - [Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip](https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/)
   - [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
@@ -11,6 +16,7 @@
   - [International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service](https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/)
 - CoinTelegraph
   - [CFTC sues Utah to block action against prediction markets](https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Discord is making public chats searchable on Google: How to opt out](https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks](https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar](https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -69,6 +75,8 @@
   - [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
 - miguelgrinberg.com
   - [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now)
+- rtl-sdr.com
+  - [Muxwright: A Multi-Standard Radio and TV Test Transmitter for the PlutoSDR](https://www.rtl-sdr.com/muxwright-a-multi-standard-radio-and-tv-test-transmitter-for-the-plutosdr/)
 - simonwillison.net
   - [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/)
 - TechCrunch
@@ -244,3 +252,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来](https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告](https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果终于对「摇一摇」广告动手了！](https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign=)
