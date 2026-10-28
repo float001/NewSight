@@ -30,9 +30,18 @@
   - [Claude for Legal now verifies sources automatically, then hands the file to a lawyer](https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/)
   - [Google opens Android development to third-party AI agents and unveils new Gemini APIs](https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/)
   - [OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform](https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/)
+- The Verge
+  - [Brendan Carr plans to let prisons jam cellphone signals](https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming)
+  - [Here’s where to preorder the new MacBook Pros](https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date)
+  - [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)
+  - [Surprise: The Google Xreal glasses debut at a Meta-beating $1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)
+- Vulners.com RSS Feed
+  - [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://vulners.com/thn/THN:AF6F9BCE10CF50451243AD3AB1B1770A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/)
 - Wired
+  - [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/)
   - [The Inside Story of Why Apple Finally Brought a Touch Display to the Mac](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/)
+  - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
