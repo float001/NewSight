@@ -15,6 +15,7 @@
   - [新徽章到手](https://2libra.com/post/forum-function/naslD1P)
   - [日落计数器 🌇🌇🌇](https://2libra.com/post/personal-life/B8QtenS)
   - [真不知道 codex 每天在更新什么](https://2libra.com/post/ai-programming/9CjGy2D)
+  - [给大家看个好看的](https://2libra.com/post/forum-function/6pDVv73)
   - [职场中 大伙都是怎么应付不专业的同事的？](https://2libra.com/post/workplace-stories/gJj0q6p)
   - [跑步回来,做杯咖啡先](https://2libra.com/post/personal-life/t2MnHGC)
   - [金币升降机](https://2libra.com/post/forum-function/bImLEd1)
@@ -28,8 +29,10 @@
 - Chainalysis Blog
   - [International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service](https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/)
 - CoinTelegraph
+  - [Bitcoin ETF inflows climb to $176M as sentiment edges higher](https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bithumb discloses data leak after internal system breach: Report](https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC sues Utah to block action against prediction markets](https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coinbase denies systems breach, says vendor exposed customer data](https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Discord is making public chats searchable on Google: How to opt out](https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks](https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -43,6 +46,7 @@
   - [Critical GoAhead Flaw Accepts Revoked mTLS Certificates](https://www.cyberkendra.com/2026/10/critical-goahead-flaw-accepts-revoked-mtls-certificates.html)
 - CyberNews
   - [Cornell 7 reckoning: Research finds AI deepfakes overwhelmingly target girls in schools](https://cybernews.com/editorial/cornell-7-ai-deepfake-abuse-target-girls-schools/)
+  - [I took this $1,300 exoskeleton to turn myself into a cyborg with good knees](https://cybernews.com/tech/dnsys-z1-exoskeleton-review/)
 - daringfireball.net
   - [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/)
   - [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/)
@@ -389,12 +393,15 @@
 - 不安全
   - [edk2-security](https://buaq.net/go-451239.html)
   - [ILSpy v11.2](https://buaq.net/go-451225.html)
+  - [iStat Menus 7.5 新增「Astronomy（天文学）」功能](https://buaq.net/go-451243.html)
+  - [OpenShell v0.1.6](https://buaq.net/go-451245.html)
   - [svg-sanitizer](https://buaq.net/go-451205.html)
   - [黑客透露日本GMO攻击细节 有人发现漏洞并上报但始终未得到回应 于是将漏洞报告给黑客](https://buaq.net/go-451235.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [2025 年二氧化碳浓度创新高](https://www.solidot.org/story?sid=85728)
+  - [Swift 天文台预计于 11 月 2 日重返大气层](https://www.solidot.org/story?sid=85730)
 - 爱范儿
   - [Rokid Glasses 2：想每天戴的 AI 眼镜](https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来](https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=)
