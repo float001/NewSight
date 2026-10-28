@@ -52,6 +52,7 @@
   - [3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability](https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability)
   - [Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills](https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills)
   - [Email Bombing, External Teams Chats Form Repeatable Access Path](https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path)
+  - [Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature](https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature)
 - Emergent Minds | paddo.dev
   - [Claude Reviewing Claude: Anthropic's Code Review Process Has No Second Model](https://paddo.dev/blog/claude-reviewing-claude/)
 - Fidelis Security
@@ -91,6 +92,7 @@
   - [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now)
 - rtl-sdr.com
   - [Muxwright: A Multi-Standard Radio and TV Test Transmitter for the PlutoSDR](https://www.rtl-sdr.com/muxwright-a-multi-standard-radio-and-tv-test-transmitter-for-the-plutosdr/)
+  - [OrbitNight: A Free Browser-Based Satellite Pass Viewer with Antenna Rotator Control via Web Serial](https://www.rtl-sdr.com/orbitnight-a-free-browser-based-satellite-pass-viewer-with-antenna-rotator-control-via-web-serial/)
   - [sdrtop Update: Wi-Fi Airtime Tools, POCSAG Pager Decoder and Native Airspy R2 Support](https://www.rtl-sdr.com/sdrtop-update-wi-fi-airtime-tools-pocsag-pager-decoder-and-native-airspy-r2-support/)
 - simonwillison.net
   - [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/)
@@ -103,6 +105,7 @@
   - [GM is embracing hybrids now](https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/)
   - [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)
   - [Guidewire buys Hyperexponential for $1.7B in cash](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/)
+  - [Jio shares surge 21% in market debut after blockbuster India IPO](https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/)
   - [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)
   - [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)
   - [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)
@@ -377,6 +380,7 @@
   - [Peacock Promo Codes: 40% Off October 2026](https://www.wired.com/story/peacock-promo-code/)
   - [Quince’s Merino Wool Tee Doesn’t Cost a Fortune](https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/)
 - 不安全
+  - [ILSpy v11.2](https://buaq.net/go-451225.html)
   - [svg-sanitizer](https://buaq.net/go-451205.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
