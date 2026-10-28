@@ -48,6 +48,7 @@
   - [Quantum fears already limiting Bitcoin’s growth, Stacks founder says](https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets](https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’](https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut](https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure](https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Critical GoAhead Flaw Accepts Revoked mTLS Certificates](https://www.cyberkendra.com/2026/10/critical-goahead-flaw-accepts-revoked-mtls-certificates.html)
@@ -55,10 +56,12 @@
   - [Can Claude Code really detect hidden cameras in hotel rooms?](https://cybernews.com/privacy/claude-code-hidden-cameras-hotel-rooms-ai-trick/)
   - [Cornell 7 reckoning: Research finds AI deepfakes overwhelmingly target girls in schools](https://cybernews.com/editorial/cornell-7-ai-deepfake-abuse-target-girls-schools/)
   - [Discord makes public communities searchable, users immediately look for a way to opt out](https://cybernews.com/tech/discord-public-communities-searchable-online/)
+  - [Exclusive: Political deepfakes target Democrats more than Republicans ahead of midterms](https://cybernews.com/ai-news/political-deepfakes-2026-midterms/)
   - [Firefox brings back Bad Luck Brian and other meme legends to resist big tech](https://cybernews.com/tech/firefox-meme-campaign/)
   - [Free AI models suddenly look much worse: leaderboard update delivers a massive rankings hit](https://cybernews.com/ai-news/artificial-analysis-leaderboard-update-open-weight-ai-ranking-hit/)
   - [I took this $1,300 exoskeleton to turn myself into a cyborg with good knees](https://cybernews.com/tech/dnsys-z1-exoskeleton-review/)
   - [iJustine accused of “engagement bait” after tone deaf comment about iPhone Duo](https://cybernews.com/tech/ijustine-gurman-iphone-duo/)
+  - [Ruthless scammers force victim to write 45 pages of fake confessions during terrifying motel isolation](https://cybernews.com/news/voice-phishing-kora-scam-motel/)
   - [Scale AI reported to European authorities over alleged privacy violations](https://cybernews.com/ai-news/scale-ai-reported-over-privacy-violations/)
   - [Security vulnerability at Bitonic allows unauthorized access to customer accounts](https://cybernews.com/security/bitonic-incident-pdf-vulnerability-theft/)
   - [Texas accuses OpenAI of putting profits ahead of user safety](https://cybernews.com/ai-news/texas-paxton-openai-chatgpt-safety-lawsuit/)
@@ -114,6 +117,8 @@
   - [OpenAI Compaction Flaw Exposed AI Reasoning to Researchers](https://www.infosecurity-magazine.com/news/openai-compaction-flaw-ai/)
 - jeffgeerling.com
   - [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
+- johndcook.com
+  - [The Unbalanced Group Theorem](https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/)
 - miguelgrinberg.com
   - [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now)
 - paper - Last paper
@@ -156,6 +161,7 @@
   - [AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense](https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/)
   - [Alibaba's latest Qwen models routed some requests through company servers, researchers find](https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/)
   - [Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs](https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/)
+  - [With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic](https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/)
 - The Verge
   - [Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service)
   - [Here’s why the iPhone Duo’s hinge could be cracking the screen](https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge)
@@ -404,6 +410,7 @@
   - [20% Off Samsung Promo Code | October 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [30% VistaPrint Coupon & Promo Codes | October 2026](https://www.wired.com/story/vistaprint-coupon-code/)
   - [AI Emergency Alerts Are Coming. Humans Might Not Be Ready](https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/)
+  - [Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family](https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/)
   - [Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks](https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/)
   - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)
   - [Apple AirPods Max 2 Are $100 Off Ahead of Black Friday](https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/)
