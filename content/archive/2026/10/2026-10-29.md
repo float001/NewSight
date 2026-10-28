@@ -5,9 +5,13 @@
   - [每人贡献一条你用过好用的提示词，我的是“***，我遇到的是什么常见问题的变体，有哪些解法”，看看你们的！](https://2libra.com/post/prompts/jI41f-z)
 - Articles | InfoStealers
   - [38,628 Crypto Orders. 10,139 IPs. What Wagyu’s Alleged Leak Means for Monero Privacy.](https://www.infostealers.com/article/38628-crypto-orders-10139-ips-what-wagyus-alleged-leak-means-for-monero-privacy/)
+- Chainalysis Blog
+  - [Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud](https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/)
 - CoinTelegraph
   - [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Phantom launches Kalshi-powered prediction markets for US users](https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sam Bankman-Fried wrote to actor portraying him in Netflix series](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Didier Stevens
   - [Quickpost: Uranium Glass](https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/)
 - Google DeepMind Blog
@@ -19,19 +23,25 @@
 - simonwillison.net
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
 - TechCrunch
+  - [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
   - [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
   - [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
   - [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
+  - [Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents](https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/)
   - [Reddit is the latest platform to embrace the ‘For You’ feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/)
   - [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
 - The Block
   - [Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook](https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011)
 - The Decoder
   - [Claude for Legal now verifies sources automatically, then hands the file to a lawyer](https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/)
+  - [Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board](https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/)
   - [Google opens Android development to third-party AI agents and unveils new Gemini APIs](https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/)
   - [OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform](https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/)
 - The Verge
   - [Brendan Carr plans to let prisons jam cellphone signals](https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming)
+  - [Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech](https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream)
+  - [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)
+  - [Hands-on with the new OLED iPad Mini](https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell)
   - [Here’s where to preorder the new MacBook Pros](https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date)
   - [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)
   - [Surprise: The Google Xreal glasses debut at a Meta-beating $1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)
@@ -41,7 +51,10 @@
   - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/)
 - Wired
   - [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/)
+  - [Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
   - [The Inside Story of Why Apple Finally Brought a Touch Display to the Mac](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/)
   - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
