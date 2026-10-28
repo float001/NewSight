@@ -12,6 +12,7 @@
   - [真不知道 codex 每天在更新什么](https://2libra.com/post/ai-programming/9CjGy2D)
   - [职场中 大伙都是怎么应付不专业的同事的？](https://2libra.com/post/workplace-stories/gJj0q6p)
   - [跑步回来,做杯咖啡先](https://2libra.com/post/personal-life/t2MnHGC)
+  - [金币升降机](https://2libra.com/post/forum-function/bImLEd1)
 - Ars Technica
   - [Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip](https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/)
   - [Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)
@@ -22,6 +23,7 @@
 - Chainalysis Blog
   - [International Law Enforcement Seizes Domain of Virtualine Bulletproof Hosting Service](https://www.chainalysis.com/blog/virtualine-bulletproof-hosting-seizure-october-2026/)
 - CoinTelegraph
+  - [Bithumb discloses data leak after internal system breach: Report](https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC sues Utah to block action against prediction markets](https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Discord is making public chats searchable on Google: How to opt out](https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -105,6 +107,7 @@
   - [Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation](https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906)
   - [CFTC sues Utah as battle over prediction market regulation intensifies](https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
   - [Crypto.com and OG.com launch US crypto perps with up to 5x leverage](https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902)
+  - [Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal](https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962)
   - [Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3](https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935)
 - The Decoder
   - [Alibaba's latest Qwen models routed some requests through company servers, researchers find](https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/)
@@ -307,9 +310,12 @@
   - [Early Black Friday Deals 2026](https://www.wired.com/story/black-friday-deals-10-27-2026/)
   - [Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr](https://www.wired.com/story/motorola-razr-deal-october-2026/)
   - [Quince’s Merino Wool Tee Doesn’t Cost a Fortune](https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/)
+- 不安全
+  - [svg-sanitizer](https://buaq.net/go-451205.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [Rokid Glasses 2：想每天戴的 AI 眼镜](https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来](https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告](https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果终于对「摇一摇」广告动手了！](https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign=)
