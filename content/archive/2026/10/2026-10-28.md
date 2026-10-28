@@ -3,15 +3,18 @@
 - 2Libra
   - [[不出所料] iMac M6 ＆ MacBook Pro M6](https://2libra.com/post/apple/JcH460V)
   - [【吐槽】职场小登有点看不懂现在领导的操作了](https://2libra.com/post/office-life/3ouZ4Sq)
+  - [【投票】AI 订阅提问 🙋](https://2libra.com/post/ai-tools/Wk8NwsI)
   - [【投票】你会定期更新电脑系统么？](https://2libra.com/post/operating-systems/2-U7Y2U)
   - [【竞猜·💰】忽冷忽热多少能拍下？](https://2libra.com/post/slacking-off/krpV9CP)
   - [【运动打卡】第 1️⃣6️⃣天，今天身轻如燕](https://2libra.com/post/sports/o-KQ-V0)
   - [【💰】AI 了两个小程序和小说如何推广](https://2libra.com/post/brainstorming/C98ROuL)
+  - [【💰】请大家帮我评估一下这台电脑要出售的话可以挂多少钱？](https://2libra.com/post/computers-accessories/TWI4KUx)
   - [【🔒】新增徽章《忽冷忽热》，限时竞拍可得](https://2libra.com/post/product-updates/ATEJpyc)
   - [【🔒】第一次用竞拍，拍个 L 站的邀请码吧](https://2libra.com/post/invite-code/J9ei2N8)
   - [不购买 API 获取天气的办法](https://2libra.com/post/sharing-discoveries/0xxf2L7)
   - [你们那里现在多少度,你现在穿秋衣秋裤吗?](https://2libra.com/post/personal-life/8a6SEqn)
   - [屏蔽功能的逻辑是什么？](https://2libra.com/post/community/GNmlE7P)
+  - [戒烟](https://2libra.com/post/health-consultation/ALhYerA)
   - [新徽章到手](https://2libra.com/post/forum-function/naslD1P)
   - [日落计数器 🌇🌇🌇](https://2libra.com/post/personal-life/B8QtenS)
   - [真不知道 codex 每天在更新什么](https://2libra.com/post/ai-programming/9CjGy2D)
@@ -47,6 +50,9 @@
 - CyberNews
   - [Cornell 7 reckoning: Research finds AI deepfakes overwhelmingly target girls in schools](https://cybernews.com/editorial/cornell-7-ai-deepfake-abuse-target-girls-schools/)
   - [I took this $1,300 exoskeleton to turn myself into a cyborg with good knees](https://cybernews.com/tech/dnsys-z1-exoskeleton-review/)
+  - [Scale AI reported to European authorities over alleged privacy violations](https://cybernews.com/ai-news/scale-ai-reported-over-privacy-violations/)
+  - [Security vulnerability at Bitonic allows unauthorized access to customer accounts](https://cybernews.com/security/bitonic-incident-pdf-vulnerability-theft/)
+  - [Texas accuses OpenAI of putting profits ahead of user safety](https://cybernews.com/ai-news/texas-paxton-openai-chatgpt-safety-lawsuit/)
 - daringfireball.net
   - [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/)
   - [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/)
@@ -62,8 +68,11 @@
   - [Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature](https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature)
 - Emergent Minds | paddo.dev
   - [Claude Reviewing Claude: Anthropic's Code Review Process Has No Second Model](https://paddo.dev/blog/claude-reviewing-claude/)
+  - [Crafting the System: Microsoft's 60,000 Buyouts and the Developer Existential Crisis](https://paddo.dev/blog/the-next-chapter/)
 - Fidelis Security
   - [Zero Trust for Federal Agencies: Securing Mission-Critical Systems](https://fidelissecurity.com/threatgeek/threat-detection-response/federal-zero-trust-strategy/)
+- GuidePoint Security
+  - [What Happens Next: Turn Cloud Security Assessment Findings Into Action](https://www.guidepointsecurity.com/blog/cloud-security-assessment-findings/)
 - Hacker News Frontpage
   - [A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There](https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/)
   - [Apple introduces the new 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
@@ -376,6 +385,7 @@
 - Wired
   - [20% Off Samsung Promo Code | October 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [30% VistaPrint Coupon & Promo Codes | October 2026](https://www.wired.com/story/vistaprint-coupon-code/)
+  - [AI Emergency Alerts Are Coming. Humans Might Not Be Ready](https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/)
   - [Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks](https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/)
   - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)
   - [Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)](https://www.wired.com/story/everblog-homecal-deal-october-2026/)
@@ -402,6 +412,7 @@
 - 奇客Solidot–传递最新科技情报
   - [2025 年二氧化碳浓度创新高](https://www.solidot.org/story?sid=85728)
   - [Swift 天文台预计于 11 月 2 日重返大气层](https://www.solidot.org/story?sid=85730)
+  - [尼安德特人发生了什么？](https://www.solidot.org/story?sid=85731)
 - 爱范儿
   - [Rokid Glasses 2：想每天戴的 AI 眼镜](https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来](https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=)
