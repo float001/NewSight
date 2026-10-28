@@ -2,11 +2,14 @@
 
 - 2Libra
   - [[不出所料] iMac M6 ＆ MacBook Pro M6](https://2libra.com/post/apple/JcH460V)
+  - [【吐槽】职场小登有点看不懂现在领导的操作了](https://2libra.com/post/office-life/3ouZ4Sq)
   - [【投票】你会定期更新电脑系统么？](https://2libra.com/post/operating-systems/2-U7Y2U)
   - [【竞猜·💰】忽冷忽热多少能拍下？](https://2libra.com/post/slacking-off/krpV9CP)
   - [【运动打卡】第 1️⃣6️⃣天，今天身轻如燕](https://2libra.com/post/sports/o-KQ-V0)
   - [【💰】AI 了两个小程序和小说如何推广](https://2libra.com/post/brainstorming/C98ROuL)
   - [【🔒】新增徽章《忽冷忽热》，限时竞拍可得](https://2libra.com/post/product-updates/ATEJpyc)
+  - [【🔒】第一次用竞拍，拍个 L 站的邀请码吧](https://2libra.com/post/invite-code/J9ei2N8)
+  - [不购买 API 获取天气的办法](https://2libra.com/post/sharing-discoveries/0xxf2L7)
   - [你们那里现在多少度,你现在穿秋衣秋裤吗?](https://2libra.com/post/personal-life/8a6SEqn)
   - [屏蔽功能的逻辑是什么？](https://2libra.com/post/community/GNmlE7P)
   - [新徽章到手](https://2libra.com/post/forum-function/naslD1P)
@@ -90,6 +93,8 @@
   - [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/)
 - miguelgrinberg.com
   - [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now)
+- Product Hunt
+  - [WebAI by Opera](https://www.producthunt.com/products/opera)
 - rtl-sdr.com
   - [Muxwright: A Multi-Standard Radio and TV Test Transmitter for the PlutoSDR](https://www.rtl-sdr.com/muxwright-a-multi-standard-radio-and-tv-test-transmitter-for-the-plutosdr/)
   - [OrbitNight: A Free Browser-Based Satellite Pass Viewer with Antenna Rotator Control via Web Serial](https://www.rtl-sdr.com/orbitnight-a-free-browser-based-satellite-pass-viewer-with-antenna-rotator-control-via-web-serial/)
@@ -125,6 +130,8 @@
   - [Here’s why the iPhone Duo’s hinge could be cracking the screen](https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge)
   - [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)
   - [VisionQuest is what happens when AI really goes rogue](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Can’t Patch Node.js Yet? Build a Stopgap with the Controls You Own](https://blog.qualys.com/category/vulnerabilities-threat-research)
 - Vulners.com RSS Feed
   - [1C-Bitrix Before and After Photos Code Execution](https://vulners.com/bdu_fstec/BDU:2026-10201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Aquarius L311 Driver Access Control](https://vulners.com/bdu_fstec/BDU:2026-15181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -380,10 +387,14 @@
   - [Peacock Promo Codes: 40% Off October 2026](https://www.wired.com/story/peacock-promo-code/)
   - [Quince’s Merino Wool Tee Doesn’t Cost a Fortune](https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/)
 - 不安全
+  - [edk2-security](https://buaq.net/go-451239.html)
   - [ILSpy v11.2](https://buaq.net/go-451225.html)
   - [svg-sanitizer](https://buaq.net/go-451205.html)
+  - [黑客透露日本GMO攻击细节 有人发现漏洞并上报但始终未得到回应 于是将漏洞报告给黑客](https://buaq.net/go-451235.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [2025 年二氧化碳浓度创新高](https://www.solidot.org/story?sid=85728)
 - 爱范儿
   - [Rokid Glasses 2：想每天戴的 AI 眼镜](https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来](https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=)
