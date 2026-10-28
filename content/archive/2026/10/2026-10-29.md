@@ -11,6 +11,7 @@
   - [Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud](https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/)
 - CoinTelegraph
   - [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Canadian ‘crypto king’ case to go to jury as criminal trial winds down](https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Phantom launches Kalshi-powered prediction markets for US users](https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sam Bankman-Fried wrote to actor portraying him in Netflix series](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -19,6 +20,7 @@
 - Google DeepMind Blog
   - [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)
 - Hacker News Frontpage
+  - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
   - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
   - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
   - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
@@ -31,7 +33,11 @@
   - [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
   - [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
   - [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
+  - [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
   - [Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents](https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/)
+  - [Microsoft hits 10 quarters of record- breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)
+  - [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
+  - [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
   - [Reddit is the latest platform to embrace the ‘For You’ feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/)
   - [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
 - The Block
@@ -42,6 +48,8 @@
   - [Google opens Android development to third-party AI agents and unveils new Gemini APIs](https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/)
   - [OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform](https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/)
 - The Verge
+  - [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak)
+  - [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key)
   - [Apple charges $14,549 for a fully specced touchscreen MacBook Pro](https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced)
   - [Brendan Carr plans to let prisons jam cellphone signals](https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming)
   - [Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech](https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream)
@@ -51,6 +59,7 @@
   - [Here’s where to preorder the new MacBook Pros](https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date)
   - [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)
   - [Microsoft reveals strong cloud growth amid financial reporting overhaul](https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027)
+  - [Readwise is taking on Kindle and Kobo for ebook supremacy](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store)
   - [Surprise: The Google Xreal glasses debut at a Meta-beating $1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)
 - Vulners.com RSS Feed
   - [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://vulners.com/thn/THN:AF6F9BCE10CF50451243AD3AB1B1770A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
