@@ -5,6 +5,8 @@
   - [每人贡献一条你用过好用的提示词，我的是“***，我遇到的是什么常见问题的变体，有哪些解法”，看看你们的！](https://2libra.com/post/prompts/jI41f-z)
 - Articles | InfoStealers
   - [38,628 Crypto Orders. 10,139 IPs. What Wagyu’s Alleged Leak Means for Monero Privacy.](https://www.infostealers.com/article/38628-crypto-orders-10139-ips-what-wagyus-alleged-leak-means-for-monero-privacy/)
+- Black Hills Information Security
+  - [John Strand's 11 Core Skills: For SOC Analysts](https://www.blackhillsinfosec.com/soc-core-skills/)
 - Chainalysis Blog
   - [Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud](https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/)
 - CoinTelegraph
@@ -20,6 +22,8 @@
   - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
   - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
   - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
+- MIT Technology Review
+  - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
 - simonwillison.net
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
 - TechCrunch
@@ -38,12 +42,15 @@
   - [Google opens Android development to third-party AI agents and unveils new Gemini APIs](https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/)
   - [OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform](https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/)
 - The Verge
+  - [Apple charges $14,549 for a fully specced touchscreen MacBook Pro](https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced)
   - [Brendan Carr plans to let prisons jam cellphone signals](https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming)
   - [Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech](https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream)
   - [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)
+  - [Google says its investments in AI are driving more searches](https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026)
   - [Hands-on with the new OLED iPad Mini](https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell)
   - [Here’s where to preorder the new MacBook Pros](https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date)
   - [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)
+  - [Microsoft reveals strong cloud growth amid financial reporting overhaul](https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027)
   - [Surprise: The Google Xreal glasses debut at a Meta-beating $1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)
 - Vulners.com RSS Feed
   - [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://vulners.com/thn/THN:AF6F9BCE10CF50451243AD3AB1B1770A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -52,8 +59,10 @@
 - Wired
   - [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/)
   - [Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
+  - [Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw](https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/)
   - [The Inside Story of Why Apple Finally Brought a Touch Display to the Mac](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/)
   - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
+  - [This Is What the GOP’s Final Midterms Push Looks Like](https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
