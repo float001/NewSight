@@ -63,6 +63,7 @@
 - CyberNews
   - [AI sees the human race as “sheeple” who care about pleasing the masses over facts](https://cybernews.com/ai-news/what-ai-thinks-about-humans/)
   - [Can Claude Code really detect hidden cameras in hotel rooms?](https://cybernews.com/privacy/claude-code-hidden-cameras-hotel-rooms-ai-trick/)
+  - [China-linked hackers exploit PHP2Shell to breach US government network](https://cybernews.com/security/china-linked-hackers-exploit-php2shell-breach-us-government/)
   - [Cornell 7 reckoning: Research finds AI deepfakes overwhelmingly target girls in schools](https://cybernews.com/editorial/cornell-7-ai-deepfake-abuse-target-girls-schools/)
   - [Discord makes public communities searchable, users immediately look for a way to opt out](https://cybernews.com/tech/discord-public-communities-searchable-online/)
   - [Exclusive: Political deepfakes target Democrats more than Republicans ahead of midterms](https://cybernews.com/ai-news/political-deepfakes-2026-midterms/)
@@ -70,6 +71,7 @@
   - [Free AI models suddenly look much worse: leaderboard update delivers a massive rankings hit](https://cybernews.com/ai-news/artificial-analysis-leaderboard-update-open-weight-ai-ranking-hit/)
   - [I took this $1,300 exoskeleton to turn myself into a cyborg with good knees](https://cybernews.com/tech/dnsys-z1-exoskeleton-review/)
   - [iJustine accused of “engagement bait” after tone deaf comment about iPhone Duo](https://cybernews.com/tech/ijustine-gurman-iphone-duo/)
+  - [Microsoft and Epic Games want AI to build games, just not copy theirs](https://cybernews.com/news/microsoft-epic-games-ai-copyright/)
   - [PureVPN Makes Data Exposure Easier to Understand With a Free Scan](https://cybernews.com/partner-content/purevpn-makes-data-exposure-easier-to-understand-with-a-free-scan/)
   - [Russia desperate to camouflage its data centers to protect them from Ukraine’s drones](https://cybernews.com/news/russia-data-centers/)
   - [Ruthless scammers force victim to write 45 pages of fake confessions during terrifying motel isolation](https://cybernews.com/news/voice-phishing-kora-scam-motel/)
@@ -81,12 +83,14 @@
   - [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/)
   - [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/)
   - [Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+  - [Guessing the Name: MacBook Studio?](https://www.macrumors.com/2026/10/28/macbook-studio/)
   - [Siri AI Expands to More Languages in OS 27.2](https://nr.apple.com/Du9G9W8Nq1)
   - [What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks](https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/)
   - [★ Prestructured WYSIWYG](https://daringfireball.net/2026/10/prestructured_wysiwyg)
 - darkreading
   - ['Aokigahara' Stealer Targets 'Developer Keyrings' &amp; AI Assistants](https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants)
   - [3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability](https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability)
+  - [Attacker Relentlessly Scans for Credentials by Impersonating AI Bots](https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials)
   - [Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills](https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills)
   - [Email Bombing, External Teams Chats Form Repeatable Access Path](https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path)
   - [Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature](https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature)
@@ -99,9 +103,11 @@
   - [What Happens Next: Turn Cloud Security Assessment Findings Into Action](https://www.guidepointsecurity.com/blog/cloud-security-assessment-findings/)
 - Hacker News Frontpage
   - [A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There](https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/)
+  - [An architectural comparison of Obsidian Canvas and Heptabase](https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase)
   - [Apple introduces the new 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
   - [Brazil's Flavio Bolsonaro headed to US, sources say](https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/)
   - [Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)
+  - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
   - [Discord will soon let anyone find public server messages through Google](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
   - [Emacs Turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
   - [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/)
@@ -158,6 +164,7 @@
   - [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
 - TechCrunch
   - [7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open](https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/)
+  - [Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices](https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/)
   - [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/)
   - [Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/)
   - [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/)
@@ -173,11 +180,15 @@
   - [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)
   - [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)
   - [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)
+  - [TikTok expands into restaurant guides with ‘Must Eat’ feature](https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/)
   - [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/)
+  - [Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/)
   - [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/)
 - The Block
+  - [Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid](https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977)
   - [Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation](https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906)
   - [CFTC sues Utah as battle over prediction market regulation intensifies](https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922)
+  - [Crypto braces for potential shift in congressional oversight after midterms](https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949)
   - [Crypto.com and OG.com launch US crypto perps with up to 5x leverage](https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902)
   - [Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal](https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962)
   - [Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin](https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969)
@@ -458,6 +469,7 @@
   - [Pornhub Stars Want to Teach You How to Make Dinner](https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/)
   - [Quince’s Merino Wool Tee Doesn’t Cost a Fortune](https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/)
   - [Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA](https://www.wired.com/story/portland-fermentation-festival-stinkfest/)
+  - [Senators Demand to Know if Dr. Oz Collaborated With Election Denial Groups](https://www.wired.com/story/senators-demand-to-know-if-dr-oz-collaborated-with-election-denial-groups/)
   - [The Men Spending $50,000 Just to Reserve a Tesla Roadster](https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/)
   - [What’s the Best Kindle of 2026 (So Far)?](https://www.wired.com/gallery/best-kindle/)
 - 不安全
@@ -473,6 +485,7 @@
 - 奇客Solidot–传递最新科技情报
   - [2025 年二氧化碳浓度创新高](https://www.solidot.org/story?sid=85728)
   - [Swift 天文台预计于 11 月 2 日重返大气层](https://www.solidot.org/story?sid=85730)
+  - [加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税](https://www.solidot.org/story?sid=85736)
   - [尼安德特人发生了什么？](https://www.solidot.org/story?sid=85731)
 - 爱范儿
   - [iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配？](https://www.ifanr.com/1686397?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -481,6 +494,7 @@
   - [实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」](https://www.ifanr.com/1686281?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告](https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果终于对「摇一摇」广告动手了！](https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [补齐短板！理想 i6 上市23.98 万元起，等等党赢麻了](https://www.ifanr.com/1686458?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [这机器人从嘴里钻进人体，居然是来救命的](https://www.ifanr.com/1686368?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [精彩回顾 | 绿盟科技2026 TechWorld智慧安全大会高光时刻](https://blog.nsfocus.net/%e7%b2%be%e5%bd%a9%e5%9b%9e%e9%a1%be-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%802026-techworld%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e5%a4%a7%e4%bc%9a%e9%ab%98%e5%85%89%e6%97%b6%e5%88%bb/)
