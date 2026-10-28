@@ -53,6 +53,7 @@
 - Cyber Kendra
   - [Critical GoAhead Flaw Accepts Revoked mTLS Certificates](https://www.cyberkendra.com/2026/10/critical-goahead-flaw-accepts-revoked-mtls-certificates.html)
 - CyberNews
+  - [AI sees the human race as “sheeple” who care about pleasing the masses over facts](https://cybernews.com/ai-news/what-ai-thinks-about-humans/)
   - [Can Claude Code really detect hidden cameras in hotel rooms?](https://cybernews.com/privacy/claude-code-hidden-cameras-hotel-rooms-ai-trick/)
   - [Cornell 7 reckoning: Research finds AI deepfakes overwhelmingly target girls in schools](https://cybernews.com/editorial/cornell-7-ai-deepfake-abuse-target-girls-schools/)
   - [Discord makes public communities searchable, users immediately look for a way to opt out](https://cybernews.com/tech/discord-public-communities-searchable-online/)
@@ -61,10 +62,13 @@
   - [Free AI models suddenly look much worse: leaderboard update delivers a massive rankings hit](https://cybernews.com/ai-news/artificial-analysis-leaderboard-update-open-weight-ai-ranking-hit/)
   - [I took this $1,300 exoskeleton to turn myself into a cyborg with good knees](https://cybernews.com/tech/dnsys-z1-exoskeleton-review/)
   - [iJustine accused of “engagement bait” after tone deaf comment about iPhone Duo](https://cybernews.com/tech/ijustine-gurman-iphone-duo/)
+  - [PureVPN Makes Data Exposure Easier to Understand With a Free Scan](https://cybernews.com/partner-content/purevpn-makes-data-exposure-easier-to-understand-with-a-free-scan/)
+  - [Russia desperate to camouflage its data centers to protect them from Ukraine’s drones](https://cybernews.com/news/russia-data-centers/)
   - [Ruthless scammers force victim to write 45 pages of fake confessions during terrifying motel isolation](https://cybernews.com/news/voice-phishing-kora-scam-motel/)
   - [Scale AI reported to European authorities over alleged privacy violations](https://cybernews.com/ai-news/scale-ai-reported-over-privacy-violations/)
   - [Security vulnerability at Bitonic allows unauthorized access to customer accounts](https://cybernews.com/security/bitonic-incident-pdf-vulnerability-theft/)
   - [Texas accuses OpenAI of putting profits ahead of user safety](https://cybernews.com/ai-news/texas-paxton-openai-chatgpt-safety-lawsuit/)
+  - [We think we've seen tech revolutions before. This expert says we're dead wrong](https://cybernews.com/editorial/tech-revolutions-we-are-dead-wrong/)
 - daringfireball.net
   - [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/)
   - [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/)
@@ -100,6 +104,7 @@
   - [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
   - [Spain train crash: 'At least 10 dead' in high-speed collision](https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l)
   - [Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
+  - [Two high-speed trains collide near Toledo, Spain](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash)
   - [US President says he will ban the term 'artificial intelligence'](https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/)
   - [Vicious Cycles: Theses on a philosophy of news](https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/)
   - [We let our cloud agents query prod (with OIDC, not secrets)](https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/)
@@ -133,9 +138,12 @@
   - [sdrtop Update: Wi-Fi Airtime Tools, POCSAG Pager Decoder and Native Airspy R2 Support](https://www.rtl-sdr.com/sdrtop-update-wi-fi-airtime-tools-pocsag-pager-decoder-and-native-airspy-r2-support/)
 - Securelist
   - [Millions of security cameras at risk: DoS vulnerability in Intelbras devices](https://securelist.com/intelbras-camera-vulnerability/121131/)
+- shkspr.mobi
+  - [Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪](https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/)
 - simonwillison.net
   - [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/)
 - TechCrunch
+  - [7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open](https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/)
   - [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/)
   - [Discord is making its public communities more searchable, and people have concerns](https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/)
   - [Disruptive raises $10B fund to make big bets on at least 10 companies](https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/)
@@ -145,6 +153,7 @@
   - [Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/)
   - [Guidewire buys Hyperexponential for $1.7B in cash](https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/)
   - [Jio shares surge 21% in market debut after blockbuster India IPO](https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/)
+  - [Kodiak lands first commercial deal to supply driverless trucks for public highways](https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/)
   - [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)
   - [Re:Build, which spun out Slate Auto, raises $2.1B](https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/)
   - [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/)
@@ -156,6 +165,7 @@
   - [Crypto.com and OG.com launch US crypto perps with up to 5x leverage](https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902)
   - [Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal](https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962)
   - [Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin](https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969)
+  - [Ripple expects $900 million annualized product revenue run rate as institutional business expands](https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920)
   - [Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3](https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935)
 - The Decoder
   - [AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense](https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/)
@@ -411,6 +421,7 @@
   - [30% VistaPrint Coupon & Promo Codes | October 2026](https://www.wired.com/story/vistaprint-coupon-code/)
   - [AI Emergency Alerts Are Coming. Humans Might Not Be Ready](https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/)
   - [Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family](https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/)
+  - [Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories](https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/)
   - [Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks](https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/)
   - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)
   - [Apple AirPods Max 2 Are $100 Off Ahead of Black Friday](https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/)
@@ -432,6 +443,7 @@
   - [Quince’s Merino Wool Tee Doesn’t Cost a Fortune](https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/)
   - [Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA](https://www.wired.com/story/portland-fermentation-festival-stinkfest/)
   - [The Men Spending $50,000 Just to Reserve a Tesla Roadster](https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/)
+  - [What’s the Best Kindle of 2026 (So Far)?](https://www.wired.com/gallery/best-kindle/)
 - 不安全
   - [edk2-security](https://buaq.net/go-451239.html)
   - [ILSpy v11.2](https://buaq.net/go-451225.html)
@@ -446,6 +458,7 @@
   - [Swift 天文台预计于 11 月 2 日重返大气层](https://www.solidot.org/story?sid=85730)
   - [尼安德特人发生了什么？](https://www.solidot.org/story?sid=85731)
 - 爱范儿
+  - [iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配？](https://www.ifanr.com/1686397?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Rokid Glasses 2：想每天戴的 AI 眼镜](https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来](https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」](https://www.ifanr.com/1686281?utm_source=rss&utm_medium=rss&utm_campaign=)
