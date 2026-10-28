@@ -15,9 +15,11 @@
   - [你们那里现在多少度,你现在穿秋衣秋裤吗?](https://2libra.com/post/personal-life/8a6SEqn)
   - [屏蔽功能的逻辑是什么？](https://2libra.com/post/community/GNmlE7P)
   - [戒烟](https://2libra.com/post/health-consultation/ALhYerA)
+  - [推荐一个好用的 win/mac 工具吧 winshun](https://2libra.com/post/tools-sharing/TFNlwNq)
   - [新徽章到手](https://2libra.com/post/forum-function/naslD1P)
   - [日落计数器 🌇🌇🌇](https://2libra.com/post/personal-life/B8QtenS)
   - [真不知道 codex 每天在更新什么](https://2libra.com/post/ai-programming/9CjGy2D)
+  - [竞拍新增角逐图显示/忽冷忽热徽章支持手动输入经纬度](https://2libra.com/post/product-updates/qnJzR2i)
   - [给大家看个好看的](https://2libra.com/post/forum-function/6pDVv73)
   - [职场中 大伙都是怎么应付不专业的同事的？](https://2libra.com/post/workplace-stories/gJj0q6p)
   - [跑步回来,做杯咖啡先](https://2libra.com/post/personal-life/t2MnHGC)
@@ -54,6 +56,7 @@
   - [Cornell 7 reckoning: Research finds AI deepfakes overwhelmingly target girls in schools](https://cybernews.com/editorial/cornell-7-ai-deepfake-abuse-target-girls-schools/)
   - [Discord makes public communities searchable, users immediately look for a way to opt out](https://cybernews.com/tech/discord-public-communities-searchable-online/)
   - [Firefox brings back Bad Luck Brian and other meme legends to resist big tech](https://cybernews.com/tech/firefox-meme-campaign/)
+  - [Free AI models suddenly look much worse: leaderboard update delivers a massive rankings hit](https://cybernews.com/ai-news/artificial-analysis-leaderboard-update-open-weight-ai-ranking-hit/)
   - [I took this $1,300 exoskeleton to turn myself into a cyborg with good knees](https://cybernews.com/tech/dnsys-z1-exoskeleton-review/)
   - [iJustine accused of “engagement bait” after tone deaf comment about iPhone Duo](https://cybernews.com/tech/ijustine-gurman-iphone-duo/)
   - [Scale AI reported to European authorities over alleged privacy violations](https://cybernews.com/ai-news/scale-ai-reported-over-privacy-violations/)
@@ -115,6 +118,8 @@
   - [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now)
 - paper - Last paper
   - [攻击者离场之后：面向 LLM 智能体的跨会话残留攻击基准评测](https://paper.seebug.org/3530)
+- pluralistic.net
+  - [Pluralistic: Agents vs ecommerce (28 Oct 2026)](https://pluralistic.net/2026/10/28/principle-agent-problem/)
 - Product Hunt
   - [WebAI by Opera](https://www.producthunt.com/products/opera)
 - rtl-sdr.com
@@ -148,6 +153,7 @@
   - [Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin](https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969)
   - [Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3](https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935)
 - The Decoder
+  - [AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense](https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/)
   - [Alibaba's latest Qwen models routed some requests through company servers, researchers find](https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/)
   - [Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs](https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/)
 - The Verge
@@ -400,6 +406,7 @@
   - [AI Emergency Alerts Are Coming. Humans Might Not Be Ready](https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/)
   - [Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks](https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/)
   - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)
+  - [Apple AirPods Max 2 Are $100 Off Ahead of Black Friday](https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/)
   - [Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)](https://www.wired.com/story/everblog-homecal-deal-october-2026/)
   - [Disney Plus Discount Codes: 52% Off October 2026](https://www.wired.com/story/disney-plus-discounts/)
   - [Dyson Promo Codes: 25% Off in October 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
@@ -407,13 +414,16 @@
   - [Google Workspace Promo Codes: 14% Off for October 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
   - [LG Promo Codes and Coupons for October 2026](https://www.wired.com/story/lg-promo-code/)
+  - [Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed](https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/)
   - [Motorola Deal: Get a Free Smartwatch and Earbuds When You Buy a Razr](https://www.wired.com/story/motorola-razr-deal-october-2026/)
   - [Nike Promo Codes and Discounts: 30% for October 2026](https://www.wired.com/story/nike-promo-code/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [Paramount+ Coupon Codes and Deals for 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
   - [Peacock Promo Codes: 40% Off October 2026](https://www.wired.com/story/peacock-promo-code/)
   - [Please Let the Internet Die](https://www.wired.com/story/let-the-internet-die/)
+  - [Pornhub Stars Want to Teach You How to Make Dinner](https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/)
   - [Quince’s Merino Wool Tee Doesn’t Cost a Fortune](https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave/)
+  - [Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA](https://www.wired.com/story/portland-fermentation-festival-stinkfest/)
   - [The Men Spending $50,000 Just to Reserve a Tesla Roadster](https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/)
 - 不安全
   - [edk2-security](https://buaq.net/go-451239.html)
@@ -434,5 +444,6 @@
   - [实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」](https://www.ifanr.com/1686281?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告](https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果终于对「摇一摇」广告动手了！](https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [这机器人从嘴里钻进人体，居然是来救命的](https://www.ifanr.com/1686368?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [精彩回顾 | 绿盟科技2026 TechWorld智慧安全大会高光时刻](https://blog.nsfocus.net/%e7%b2%be%e5%bd%a9%e5%9b%9e%e9%a1%be-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%802026-techworld%e6%99%ba%e6%85%a7%e5%ae%89%e5%85%a8%e5%a4%a7%e4%bc%9a%e9%ab%98%e5%85%89%e6%97%b6%e5%88%bb/)
