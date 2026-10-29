@@ -29,6 +29,7 @@
   - [South Africa Leads Sub-Saharan Africa’s 13.4% Crypto Growth](https://www.chainalysis.com/blog/sub-saharan-africa-crypto-adoption-2026/)
   - [Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud](https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/)
 - CoinTelegraph
+  - [Bitcoin ETFs add $137M, pushing October back into the green](https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canadian ‘crypto king’ case to go to jury as criminal trial winds down](https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -36,8 +37,14 @@
   - [Sam Bankman-Fried wrote to actor portraying him in Netflix series](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Your fridge could one day stake Ether, launch memecoins: CFTC chair](https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [UK privacy watchdog reprimands police over victim’s exposed address](https://cybernews.com/privacy/uk-police-exposed-victim-address-to-abuser/)
+- darkreading
+  - [Cyber Vulnerabilities Besiege Italy, Absent Clear Cause](https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy)
 - defend.network
   - [Volt Typhoon dismantled; PHP RCE active; Microsoft patches 1,400+ flaws](https://defend.network/briefings/volt-typhoon-php-critical-rce-microsoft-patches-2026-10-29.html)
+- Dhole Moments
+  - [Your Cryptography Conspiracy Theory Is Wrong](https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/)
 - Didier Stevens
   - [Quickpost: Uranium Glass](https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/)
 - Google DeepMind Blog
@@ -134,9 +141,13 @@
   - [谷歌宣布开放第三方安卓应用商店注册 通过审核可一键安装并提供应用自动更新等](https://buaq.net/go-451394.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Valve 无意对 AI Slop 和克隆游戏采取行动](https://www.solidot.org/story?sid=85741)
+  - [美银建议客户不要与 AI 助手共享银行账号密码](https://www.solidot.org/story?sid=85742)
 - 安全客
   - [从“能接入”到“可管控”， 瑞数信息如何管理Agent生命周期安全？](https://www.anquanke.com/post/id/316362)
 - 爱范儿
+  - [7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴](https://www.ifanr.com/1686636?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [不认字的 AI，却很会说话](https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一](https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=)
