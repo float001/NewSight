@@ -11,6 +11,7 @@
   - [【💰】我也 vibe coding 了两个小程序，给点意见](https://2libra.com/post/vibe-coding/1DYINje)
   - [【💰】有没有通过 AI 开发游戏的大佬哦，请教几个问题（概率拉满，大佬们快来评论呀）](https://2libra.com/post/ai-programming/ghHbQEz)
   - [中奖了新徽章《忽冷忽热》, 分享下喜悦~](https://2libra.com/post/small-things/RA2rimc)
+  - [今日烦躁](https://2libra.com/post/small-things/NhIxcSL)
   - [借鉴古人注疏经书的体例，先从《庄子》内七篇打个样例](https://2libra.com/post/personal-works/vWqucnG)
   - [全面 AI 编程之后，从据理力争到念头通达。](https://2libra.com/post/ai-programming/7WHtdp8)
   - [关于墨雪飘影图床等服务被入侵说明](https://2libra.com/post/network-security/SDX0VgB)
@@ -38,6 +39,7 @@
   - [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Your fridge could one day stake Ether, launch memecoins: CFTC chair](https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Nefilim and Hive ransomware affiliate sentenced to 70 months in prison](https://cybernews.com/security/nefilim-and-hive-ransomware-affiliate-sentenced/)
   - [UK privacy watchdog reprimands police over victim’s exposed address](https://cybernews.com/privacy/uk-police-exposed-victim-address-to-abuser/)
 - darkreading
   - [Cyber Vulnerabilities Besiege Italy, Absent Clear Cause](https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy)
@@ -47,6 +49,8 @@
   - [Your Cryptography Conspiracy Theory Is Wrong](https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/)
 - Didier Stevens
   - [Quickpost: Uranium Glass](https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/)
+- Emergent Minds | paddo.dev
+  - [Persistence Is a Numbers Game: 150 Startups, One Collapse, and the One That Worked](https://paddo.dev/blog/persistence-is-a-numbers-game/)
 - Google DeepMind Blog
   - [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)
 - Hacker News Frontpage
@@ -57,6 +61,8 @@
   - [New York Times adds more AI features to its Cooking app. Users aren't thrilled](https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/)
   - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
   - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
+- infosecurity-magazine.com
+  - [MR ROBOT Malware-as-a-Service Targets Indian Bank Customers](https://www.infosecurity-magazine.com/news/robot-malware-indian-bank-customers/)
 - MIT Technology Review
   - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
 - rtl-sdr.com
@@ -66,6 +72,8 @@
   - [SimTX: A Multiplayer Shortwave Radio Simulator with Realistic Propagation and rtl_tcp Support](https://www.rtl-sdr.com/simtx-a-multiplayer-shortwave-radio-simulator-with-realistic-propagation-and-rtl_tcp-support/)
   - [SPECTER: Leaking Data from Air-Gapped Computers by Toggling USB Power States](https://www.rtl-sdr.com/specter-leaking-data-from-air-gapped-computers-by-toggling-usb-power-states/)
   - [Thermal Noise Communication: Sending Data Without a Carrier Signal, with an RTL-SDR as the Receiver](https://www.rtl-sdr.com/thermal-noise-communication-sending-data-without-a-carrier-signal-with-an-rtl-sdr-as-the-receiver/)
+- Sec-News 安全文摘
+  - [The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!](https://govuln.com/news/url/v8K6)
 - simonwillison.net
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
   - [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
@@ -114,6 +122,7 @@
 - wheresyoured.at
   - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/)
 - Wired
+  - [Astronomers Discover a Possible New Dwarf Planet in Our Solar System](https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/)
   - [Bluesky Is Blocking Links to a Major Leak of DHS Employee Records](https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/)
   - [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/)
   - [Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
