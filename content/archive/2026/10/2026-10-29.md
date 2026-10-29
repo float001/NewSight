@@ -36,6 +36,7 @@
   - [South Africa Leads Sub-Saharan Africa’s 13.4% Crypto Growth](https://www.chainalysis.com/blog/sub-saharan-africa-crypto-adoption-2026/)
   - [Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud](https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/)
 - CoinTelegraph
+  - [Bank of England opens consultation on tokenized collateral for clearing](https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs add $137M, pushing October back into the green](https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin long-term resistance in focus as analysis sees selling risk above $85K](https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,14 +52,20 @@
   - [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Unlimit founder backs Phase blockchain with $45M as mainnet launches](https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Your fridge could one day stake Ether, launch memecoins: CFTC chair](https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [WordPress 7.1.4 Fixes 22 Flaws Including Update-Process RCE](https://www.cyberkendra.com/2026/10/wordpress-7-1-4-security-update-22-vulnerabilities.html)
 - CyberNews
   - [42 million docs left unsecured: local complaints exposed personal data for years](https://cybernews.com/security/local-complaints-database-exposed-personal-data/)
+  - [ChatGPT told laid-off Amazon engineer to stop taking life-saving drugs and lie to doctors](https://cybernews.com/ai-news/chatgpt-advice-death-epilepsy/)
   - [First OpenAI, now Anthropic: Unreleased AI models uncover hundreds of security flaws](https://cybernews.com/ai-news/unreleased-ai-models-security-flaws-patching-race/)
+  - [Hidden Chrome extensions racked up 13M+ installs, hijacking user searches for profit](https://cybernews.com/security/millions-of-chrome-users-installed-extensions-hijacking-searches/)
   - [International crackdown takes bulletproof hosting provider offline, exposing data on more than 3,000 customers](https://cybernews.com/security/international-crackdown-takes-bulletproof-hosting-provider-offline/)
   - [Massive breach hits DHS: 41,000 employees, including undercover agents, exposed](https://cybernews.com/security/massive-breach-hits-dhs-41000-employees-exposed/)
   - [Nefilim and Hive ransomware affiliate sentenced to 70 months in prison](https://cybernews.com/security/nefilim-and-hive-ransomware-affiliate-sentenced/)
   - [Sam Altman is “chronically disappointed” with Gen Z, says it doesn’t want to try new things](https://cybernews.com/ai-news/sam-altman-gen-z/)
+  - [Telegram warning: Hackers could run code through Android calls](https://cybernews.com/security/telegram-calls-vulnerability-android-breach/)
   - [Touchscreen MacBook Pro is here, and users hate it](https://cybernews.com/tech/touchscreen-macbook-pro-apple-reactions/)
+  - [Trump Phone teardown: $750 for a gold-painted Chinese phone with missing flag stripes](https://cybernews.com/tech/trump-phone-teardown/)
   - [UK privacy watchdog reprimands police over victim’s exposed address](https://cybernews.com/privacy/uk-police-exposed-victim-address-to-abuser/)
   - [X has started tracking what you share. But you can do something about it](https://cybernews.com/privacy/twitter-tracks-copied-links/)
   - [“We ain’t done” – crypto scammer steals $13 million in Bitcoin, brags on Signal](https://cybernews.com/news/crypto-scammer-bitcoin-discord-miami/)
@@ -78,19 +85,25 @@
 - Hacker News Frontpage
   - [An Urgent Message on Artificial Intelligence from the Kogui People](https://sonidoselva.com/perspectiva-kogui)
   - [Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache](https://twitter.com/coolerwave/status/2114088769112477849)
+  - [DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart)
   - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+  - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn)
   - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
   - [MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)
+  - [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)
   - [New York Times adds more AI features to its Cooking app. Users aren't thrilled](https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/)
   - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
   - [Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
   - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
   - [Show HN: UK Farming Simulator](https://butterbean.farm/)
   - [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
+- Horizon3.ai
+  - [Why Old Vulnerability Management Habits Keep Rising from the Grave](https://horizon3.ai/intelligence/blogs/old-vulnerability-management-habits-ctem/)
 - infosecurity-magazine.com
   - [CREST Urges Whole-Ecosystem Approach to Financial Cyber Resilience](https://www.infosecurity-magazine.com/news/crest-financial-cyber-resilience/)
   - [ICO Reprimands Staffordshire Police After Domestic Abuse Breach](https://www.infosecurity-magazine.com/news/ico-reprimand-staffordshire-police/)
   - [MR ROBOT Malware-as-a-Service Targets Indian Bank Customers](https://www.infosecurity-magazine.com/news/robot-malware-indian-bank-customers/)
+  - [NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries](https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/)
   - [NIST Publishes Guidance to Meet Federal Post-Quantum Deadlines](https://www.infosecurity-magazine.com/news/nist-guidance-post-quantum/)
   - [Online Scam Volumes Double to Overtake Phishing](https://www.infosecurity-magazine.com/news/online-scam-volumes-double/)
 - MIT Technology Review
@@ -111,9 +124,11 @@
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
   - [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=6854C6B5-0F5C-5F26-B4EF-B42BD296BCAE&utm_source=rss&utm_medium=rss)
   - [Exploit for Unchecked Return Value in Google Brotli](https://sploitus.com/exploit?id=C5BA3E51-6F07-592F-A032-25EB33308187&utm_source=rss&utm_medium=rss)
   - [mRemoteNG exploit](https://sploitus.com/exploit?id=40065BF7-101E-54E9-9460-3889CD8E55C3&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy](https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/)
   - [Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions](https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/)
   - [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
   - [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
@@ -130,12 +145,15 @@
   - [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
   - [Reddit is the latest platform to embrace the ‘For You’ feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/)
   - [Upwind raises $400M after walking away from Datadog acquisition offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/)
+  - [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/)
   - [Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages](https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/)
   - [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
 - The Block
   - [Curve Finance launches on Stellar in first native deployment outside EVM ecosystem](https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121)
+  - [HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US](https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132)
   - [Polygon adds Solana to payment stack linking bank accounts, crypto and payouts](https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115)
   - [Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook](https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011)
+  - [Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood](https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131)
   - [Utah files criminal charges against Kalshi, executives over alleged illegal gambling](https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104)
 - The Decoder
   - [Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times](https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/)
@@ -166,6 +184,8 @@
   - [Microsoft reveals strong cloud growth amid financial reporting overhaul](https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027)
   - [Readwise is taking on Kindle and Kobo for ebook supremacy](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store)
   - [Surprise: The Google Xreal glasses debut at a Meta-beating $1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)
+  - [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)
+  - [There’s one week left to preorder the Ocarina of Time remake for $10 off](https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale)
   - [This $149 digital candle uses AI to accurately simulate a flickering flame](https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame)
 - Vulners.com RSS Feed
   - [kkRepo](https://vulners.com/gitee/0621A5C7-9867-5E98-92B5-6BA4C7E173D1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -192,6 +212,7 @@
   - [The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal](https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/)
   - [The Inside Story of Why Apple Finally Brought a Touch Display to the Mac](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/)
   - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
+  - [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/)
   - [This Is What the GOP’s Final Midterms Push Looks Like](https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/)
 - 不安全
   - [[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 command injection in the Executer program activation path (7.2)](https://buaq.net/go-451471.html)
@@ -224,6 +245,7 @@
 - 安全客
   - [从“能接入”到“可管控”， 瑞数信息如何管理Agent生命周期安全？](https://www.anquanke.com/post/id/316362)
 - 爱范儿
+  - [13.98 万元起！小鹏 MONA L05 正式上市，大五座 SUV 市场的卷王来了](https://www.ifanr.com/1686761?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴](https://www.ifanr.com/1686636?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [不认字的 AI，却很会说话](https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=)
