@@ -10,6 +10,7 @@
 - Articles | InfoStealers
   - [Polymarket Breach Alert: Wallet-Draining Code Found in a Third-Party Script](https://www.infostealers.com/article/polymarket-breach-alert-wallet-draining-code-found-in-a-third-party-script/)
 - CoinTelegraph
+  - [Binance investigates potential multibillion-dollar hack](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [KuCoin suspends services in Russia and Belarus](https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -26,10 +27,12 @@
   - [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/)
   - [Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT)
 - darkreading
+  - [Anthropic-Themed Phishing Emails Bypass Top Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools)
   - [Claude Model Builds Exploits Across Major Browsers &amp; OSes](https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses)
 - Hacker News Frontpage
   - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
   - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
+  - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
   - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
   - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
   - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
@@ -37,14 +40,18 @@
   - [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
   - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
   - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
+  - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2018-17463](https://sploitus.com/exploit?id=AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-78829](https://sploitus.com/exploit?id=1FAD72BC-AFFB-52E8-B935-E343D769A457&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-92424](https://sploitus.com/exploit?id=58C9C9E0-5B48-5915-B7FA-72D602505548&utm_source=rss&utm_medium=rss)
   - [qemu-nvme-escape exploit](https://sploitus.com/exploit?id=77D8B172-E6C6-568F-AD6F-23C7AEF4DC80&utm_source=rss&utm_medium=rss)
   - [SQL-e-XSS-em-APIs exploit](https://sploitus.com/exploit?id=4B5CEDBA-EDDD-5963-996E-BDF6DBE646E5&utm_source=rss&utm_medium=rss)
+  - [src-hunting-plus exploit](https://sploitus.com/exploit?id=92FF5419-CEFC-5FA7-8C88-9D2BD1ACF1BC&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon reported booming cloud revenue but otherwise missed expectations](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/)
   - [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
+  - [Elon Musk is ‘truly a genius,’ says Vladimir Putin](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/)
   - [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
   - [Fan fiction site Archive of Our Own could be offline for up to 4 weeks](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/)
   - [GM reaches $220M settlement over selling drivers’ private data](https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/)
@@ -57,6 +64,7 @@
   - [U.S. investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
   - [Where was my invite to the — wait, what? Airbnb had a gala?](https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/)
 - The Block
+  - [Binance investigating hack as suspicious outflows reach up to $5.8 billion](https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171)
   - [Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised](https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158)
   - [Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends](https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141)
 - The Decoder
@@ -78,6 +86,7 @@
   - [CVE-2026-102260 Nomad vulnerable to cross-namespace information disclosure in multiple endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-102260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107347 Nomad dispatch payload writes can escape the allocation directory through symlinks](https://vulners.com/cvelist/CVELIST:CVE-2026-107347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2018-17463](https://vulners.com/githubexploit/AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [src-hunting-plus](https://vulners.com/gitee/92FF5419-CEFC-5FA7-8C88-9D2BD1ACF1BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
   - [Go Minimal—the Ridge Wallet is 20 Percent Off Right Now](https://www.wired.com/story/ridge-wallet-deal-october-2026/)
