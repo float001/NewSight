@@ -3,9 +3,17 @@
 - 2Libra
   - [Apple 真是会屎上雕花](https://2libra.com/post/apple/JjeS5Lr)
   - [【竞猜】忽冷忽热-猜猜今天我在哪(纬度)](https://2libra.com/post/personal-life/LuLppzR)
+  - [【转载】GitHub 解封指南——This account is flagged](https://2libra.com/post/tool-sharing/LeyPbAU)
   - [【💰】几个月没来 2libra，我都错过了什么徽章](https://2libra.com/post/questions/0VmkCtw)
+  - [【💰】国产安卓去广告工具 Github 4.4k stars android-ad-cleaner](https://2libra.com/post/open-source-sharing/ovIyW32)
+  - [【💰】大 A 又绿了，今年还剩两个月，大家今年股票都亏了多少？](https://2libra.com/post/stock-market/sgT2a79)
+  - [【💰】我也 vibe coding 了两个小程序，给点意见](https://2libra.com/post/vibe-coding/1DYINje)
   - [【💰】有没有通过 AI 开发游戏的大佬哦，请教几个问题（概率拉满，大佬们快来评论呀）](https://2libra.com/post/ai-programming/ghHbQEz)
+  - [中奖了新徽章《忽冷忽热》, 分享下喜悦~](https://2libra.com/post/small-things/RA2rimc)
+  - [关于墨雪飘影图床等服务被入侵说明](https://2libra.com/post/network-security/SDX0VgB)
+  - [发帖时正文一键排版提示词做了优化](https://2libra.com/post/product-updates/ZfXY32Q)
   - [如何通过支付宝签约呢](https://2libra.com/post/website-construction/YDnHr9R)
+  - [早上的事](https://2libra.com/post/small-things/bUNztTM)
   - [每人贡献一条你用过好用的提示词，我的是“***，我遇到的是什么常见问题的变体，有哪些解法”，看看你们的！](https://2libra.com/post/prompts/jI41f-z)
 - Articles | InfoStealers
   - [38,628 Crypto Orders. 10,139 IPs. What Wagyu’s Alleged Leak Means for Monero Privacy.](https://www.infostealers.com/article/38628-crypto-orders-10139-ips-what-wagyus-alleged-leak-means-for-monero-privacy/)
@@ -37,6 +45,8 @@
   - [An Unofficial Bilingual English and Chinese User Guide for SDRplay’s SDRconnect Software](https://www.rtl-sdr.com/an-unofficial-bilingual-english-and-chinese-user-guide-for-sdrplays-sdrconnect-software/)
   - [FalconSDR: An Open-Source RTL-SDR Scanner and Recorder with Automatic Whisper Transcription](https://www.rtl-sdr.com/falconsdr-an-open-source-rtl-sdr-scanner-and-recorder-with-automatic-whisper-transcription/)
   - [OrcSDR Update: SSTV, ACARS and Offline Maps Come to the Standalone ESP32-P4 RTL-SDR App](https://www.rtl-sdr.com/orcsdr-update-sstv-acars-and-offline-maps-come-to-the-standalone-esp32-p4-rtl-sdr-app/)
+  - [SimTX: A Multiplayer Shortwave Radio Simulator with Realistic Propagation and rtl_tcp Support](https://www.rtl-sdr.com/simtx-a-multiplayer-shortwave-radio-simulator-with-realistic-propagation-and-rtl_tcp-support/)
+  - [Thermal Noise Communication: Sending Data Without a Carrier Signal, with an RTL-SDR as the Receiver](https://www.rtl-sdr.com/thermal-noise-communication-sending-data-without-a-carrier-signal-with-an-rtl-sdr-as-the-receiver/)
 - simonwillison.net
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
   - [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
@@ -66,6 +76,7 @@
 - The Verge
   - [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak)
   - [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key)
+  - [Anduril now says its BlueChip laptop will meet Buy American standards at launch](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
   - [Apple charges $14,549 for a fully specced touchscreen MacBook Pro](https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced)
   - [Brendan Carr plans to let prisons jam cellphone signals](https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming)
   - [Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech](https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream)
