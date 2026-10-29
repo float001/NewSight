@@ -35,8 +35,10 @@
   - [Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud](https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/)
 - CoinTelegraph
   - [Bitcoin ETFs add $137M, pushing October back into the green](https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin long-term resistance in focus as analysis sees selling risk above $85K](https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Canadian ‘crypto king’ case to go to jury as criminal trial winds down](https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ECB President Christine Lagarde to step down in February 2027](https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Phantom launches Kalshi-powered prediction markets for US users](https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sam Bankman-Fried wrote to actor portraying him in Netflix series](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -72,11 +74,14 @@
   - [New York Times adds more AI features to its Cooking app. Users aren't thrilled](https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/)
   - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
   - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
+  - [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
 - infosecurity-magazine.com
+  - [ICO Reprimands Staffordshire Police After Domestic Abuse Breach](https://www.infosecurity-magazine.com/news/ico-reprimand-staffordshire-police/)
   - [MR ROBOT Malware-as-a-Service Targets Indian Bank Customers](https://www.infosecurity-magazine.com/news/robot-malware-indian-bank-customers/)
   - [NIST Publishes Guidance to Meet Federal Post-Quantum Deadlines](https://www.infosecurity-magazine.com/news/nist-guidance-post-quantum/)
 - MIT Technology Review
   - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
+  - [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
 - rtl-sdr.com
   - [An Unofficial Bilingual English and Chinese User Guide for SDRplay’s SDRconnect Software](https://www.rtl-sdr.com/an-unofficial-bilingual-english-and-chinese-user-guide-for-sdrplays-sdrconnect-software/)
   - [FalconSDR: An Open-Source RTL-SDR Scanner and Recorder with Automatic Whisper Transcription](https://www.rtl-sdr.com/falconsdr-an-open-source-rtl-sdr-scanner-and-recorder-with-automatic-whisper-transcription/)
@@ -108,12 +113,14 @@
   - [Upwind raises $400M after walking away from Datadog acquisition offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/)
   - [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
 - The Block
+  - [Curve Finance launches on Stellar in first native deployment outside EVM ecosystem](https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121)
   - [Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook](https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011)
   - [Utah files criminal charges against Kalshi, executives over alleged illegal gambling](https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104)
 - The Decoder
   - [Claude for Legal now verifies sources automatically, then hands the file to a lawyer](https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/)
   - [Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board](https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/)
   - [Google opens Android development to third-party AI agents and unveils new Gemini APIs](https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/)
+  - [Google's AI search problem finally shows up in the earnings report, some investors believe](https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/)
   - [OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform](https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/)
 - The Verge
   - [A hacker stole more than 40,000 DHS employee records](https://www.theverge.com/tech/1021528/ice-cbp-data-leak)
@@ -132,13 +139,18 @@
   - [Readwise is taking on Kindle and Kobo for ebook supremacy](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store)
   - [Surprise: The Google Xreal glasses debut at a Meta-beating $1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)
 - Vulners.com RSS Feed
+  - [kkRepo](https://vulners.com/gitee/0621A5C7-9867-5E98-92B5-6BA4C7E173D1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mRemoteNG](https://vulners.com/gitee/40065BF7-101E-54E9-9460-3889CD8E55C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://vulners.com/thn/THN:AF6F9BCE10CF50451243AD3AB1B1770A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/)
 - Wired
+  - [A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards](https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/)
+  - [An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/)
   - [Astronomers Discover a Possible New Dwarf Planet in Our Solar System](https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/)
   - [Bluesky Is Blocking Links to a Major Leak of DHS Employee Records](https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/)
+  - [Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy](https://www.wired.com/review/review-hisense-ur8/)
+  - [I Did Push-Ups With Snap’s Chunky AR Glasses](https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/)
   - [I Gave My Blood to the AI Death Clock](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/)
   - [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/)
   - [Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization](https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/)
@@ -182,6 +194,7 @@
   - [7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴](https://www.ifanr.com/1686636?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [不认字的 AI，却很会说话](https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [为什么新模型发布，都要先做一个游戏？](https://www.ifanr.com/1686650?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一](https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法](https://www.ifanr.com/1686343?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时](https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=)
