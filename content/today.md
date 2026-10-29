@@ -15,6 +15,7 @@
   - [关于墨雪飘影图床等服务被入侵说明](https://2libra.com/post/network-security/SDX0VgB)
   - [发帖时正文一键排版提示词做了优化](https://2libra.com/post/product-updates/ZfXY32Q)
   - [如何通过支付宝签约呢](https://2libra.com/post/website-construction/YDnHr9R)
+  - [日签到拿到 1 金币，是什么原因？](https://2libra.com/post/forum-function/xQuX2X7)
   - [早上的事](https://2libra.com/post/small-things/bUNztTM)
   - [每人贡献一条你用过好用的提示词，我的是“***，我遇到的是什么常见问题的变体，有哪些解法”，看看你们的！](https://2libra.com/post/prompts/jI41f-z)
 - Articles | InfoStealers
