@@ -2,6 +2,9 @@
 
 - 2Libra
   - [Apple 真是会屎上雕花](https://2libra.com/post/apple/JjeS5Lr)
+  - [【竞猜】忽冷忽热-猜猜今天我在哪(纬度)](https://2libra.com/post/personal-life/LuLppzR)
+  - [【💰】几个月没来 2libra，我都错过了什么徽章](https://2libra.com/post/questions/0VmkCtw)
+  - [【💰】有没有通过 AI 开发游戏的大佬哦，请教几个问题（概率拉满，大佬们快来评论呀）](https://2libra.com/post/ai-programming/ghHbQEz)
   - [如何通过支付宝签约呢](https://2libra.com/post/website-construction/YDnHr9R)
   - [每人贡献一条你用过好用的提示词，我的是“***，我遇到的是什么常见问题的变体，有哪些解法”，看看你们的！](https://2libra.com/post/prompts/jI41f-z)
 - Articles | InfoStealers
@@ -31,11 +34,14 @@
 - MIT Technology Review
   - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
 - rtl-sdr.com
+  - [An Unofficial Bilingual English and Chinese User Guide for SDRplay’s SDRconnect Software](https://www.rtl-sdr.com/an-unofficial-bilingual-english-and-chinese-user-guide-for-sdrplays-sdrconnect-software/)
   - [FalconSDR: An Open-Source RTL-SDR Scanner and Recorder with Automatic Whisper Transcription](https://www.rtl-sdr.com/falconsdr-an-open-source-rtl-sdr-scanner-and-recorder-with-automatic-whisper-transcription/)
   - [OrcSDR Update: SSTV, ACARS and Offline Maps Come to the Standalone ESP32-P4 RTL-SDR App](https://www.rtl-sdr.com/orcsdr-update-sstv-acars-and-offline-maps-come-to-the-standalone-esp32-p4-rtl-sdr-app/)
 - simonwillison.net
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
   - [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
+- Sploitus.com Exploits RSS Feed
+  - [mRemoteNG exploit](https://sploitus.com/exploit?id=40065BF7-101E-54E9-9460-3889CD8E55C3&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
   - [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
@@ -72,6 +78,7 @@
   - [Readwise is taking on Kindle and Kobo for ebook supremacy](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store)
   - [Surprise: The Google Xreal glasses debut at a Meta-beating $1,099](https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date)
 - Vulners.com RSS Feed
+  - [mRemoteNG](https://vulners.com/gitee/40065BF7-101E-54E9-9460-3889CD8E55C3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://vulners.com/thn/THN:AF6F9BCE10CF50451243AD3AB1B1770A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/)
@@ -83,6 +90,12 @@
   - [The Inside Story of Why Apple Finally Brought a Touch Display to the Mac](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/)
   - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
   - [This Is What the GOP’s Final Midterms Push Looks Like](https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/)
+- 不安全
+  - [An Unofficial Bilingual English and Chinese User Guide for SDRplay’s SDRconnect Software](https://buaq.net/go-451441.html)
+  - [esp8266-injection-example](https://buaq.net/go-451444.html)
+  - [Ex-SOC analyst moving toward pentesting: is TryHackMe Pre-Security worth it, or should I change path?](https://buaq.net/go-451440.html)
+  - [Juno for Splunk: Find Threats Hidden in Logs | Uptycs](https://buaq.net/go-451396.html)
+  - [谷歌宣布开放第三方安卓应用商店注册 通过审核可一键安装并提供应用自动更新等](https://buaq.net/go-451394.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
