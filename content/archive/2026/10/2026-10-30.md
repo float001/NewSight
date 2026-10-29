@@ -17,6 +17,7 @@
   - [Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2](https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket suspended trading amid reports of user funds being drained](https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Public companies double share of blockchain revenue since 2022: Report](https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tampered Ledger reported in Singapore a month before news broke: Asia Express](https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Accenture Claude Agent Exposed DOD Credentials: Report](https://www.cyberkendra.com/2026/10/accenture-claude-agent-dod-network-credentials.html)
   - [CitySourced Data Exposure Leaks 42M Civic Records](https://www.cyberkendra.com/2026/10/citysourced-data-exposure-leaks-42m-civic-records.html)
@@ -31,18 +32,28 @@
   - [Claude Model Builds Exploits Across Major Browsers &amp; OSes](https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses)
 - Hacker News Frontpage
   - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
+  - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
   - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
   - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
   - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
   - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
   - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
+  - [Open-weight AI models can exploit the patch gap](https://epoch.ai/publications/open-weight-models-patch-gap)
   - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+  - [Should a medical diagnosis reshape the past? (2025)](https://chengela.substack.com/p/should-a-medical-diagnosis-reshape)
   - [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
   - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
+  - [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
   - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
   - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+- InfoSec Write-ups - Medium
+  - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
+- simonwillison.net
+  - [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
 - Sploitus.com Exploits RSS Feed
+  - [CVE-2024-7808 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEUNKNOWNSOUL-CVE-2024-7808&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2018-17463](https://sploitus.com/exploit?id=AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-112621](https://sploitus.com/exploit?id=E686FF9E-7568-5482-8499-6DCD9EF557F3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-78829](https://sploitus.com/exploit?id=1FAD72BC-AFFB-52E8-B935-E343D769A457&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-92424](https://sploitus.com/exploit?id=58C9C9E0-5B48-5915-B7FA-72D602505548&utm_source=rss&utm_medium=rss)
   - [qemu-nvme-escape exploit](https://sploitus.com/exploit?id=77D8B172-E6C6-568F-AD6F-23C7AEF4DC80&utm_source=rss&utm_medium=rss)
@@ -51,6 +62,7 @@
 - TechCrunch
   - [Amazon reported booming cloud revenue but otherwise missed expectations](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/)
   - [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
+  - [Binance pauses withdrawals as hackers suspected of stealing billions in crypto](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/)
   - [Elon Musk is ‘truly a genius,’ says Vladimir Putin](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/)
   - [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
   - [Fan fiction site Archive of Our Own could be offline for up to 4 weeks](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/)
@@ -78,6 +90,7 @@
   - [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
   - [Patrick Stewart has died at age 86](https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death)
   - [Reddit will force everyone to log in](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings)
+  - [Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’](https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic)
   - [Rivian’s R2 is officially its best-selling vehicle](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
   - [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
   - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
@@ -86,6 +99,7 @@
   - [CVE-2026-102260 Nomad vulnerable to cross-namespace information disclosure in multiple endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-102260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107347 Nomad dispatch payload writes can escape the allocation directory through symlinks](https://vulners.com/cvelist/CVELIST:CVE-2026-107347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2018-17463](https://vulners.com/githubexploit/AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-112621](https://vulners.com/githubexploit/E686FF9E-7568-5482-8499-6DCD9EF557F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [src-hunting-plus](https://vulners.com/gitee/92FF5419-CEFC-5FA7-8C88-9D2BD1ACF1BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
