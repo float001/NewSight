@@ -10,6 +10,7 @@
   - [【💰】我也 vibe coding 了两个小程序，给点意见](https://2libra.com/post/vibe-coding/1DYINje)
   - [【💰】有没有通过 AI 开发游戏的大佬哦，请教几个问题（概率拉满，大佬们快来评论呀）](https://2libra.com/post/ai-programming/ghHbQEz)
   - [中奖了新徽章《忽冷忽热》, 分享下喜悦~](https://2libra.com/post/small-things/RA2rimc)
+  - [全面 AI 编程之后，从据理力争到念头通达。](https://2libra.com/post/ai-programming/7WHtdp8)
   - [关于墨雪飘影图床等服务被入侵说明](https://2libra.com/post/network-security/SDX0VgB)
   - [发帖时正文一键排版提示词做了优化](https://2libra.com/post/product-updates/ZfXY32Q)
   - [如何通过支付宝签约呢](https://2libra.com/post/website-construction/YDnHr9R)
@@ -27,6 +28,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Phantom launches Kalshi-powered prediction markets for US users](https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sam Bankman-Fried wrote to actor portraying him in Netflix series](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Didier Stevens
   - [Quickpost: Uranium Glass](https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/)
 - Google DeepMind Blog
@@ -46,6 +48,7 @@
   - [FalconSDR: An Open-Source RTL-SDR Scanner and Recorder with Automatic Whisper Transcription](https://www.rtl-sdr.com/falconsdr-an-open-source-rtl-sdr-scanner-and-recorder-with-automatic-whisper-transcription/)
   - [OrcSDR Update: SSTV, ACARS and Offline Maps Come to the Standalone ESP32-P4 RTL-SDR App](https://www.rtl-sdr.com/orcsdr-update-sstv-acars-and-offline-maps-come-to-the-standalone-esp32-p4-rtl-sdr-app/)
   - [SimTX: A Multiplayer Shortwave Radio Simulator with Realistic Propagation and rtl_tcp Support](https://www.rtl-sdr.com/simtx-a-multiplayer-shortwave-radio-simulator-with-realistic-propagation-and-rtl_tcp-support/)
+  - [SPECTER: Leaking Data from Air-Gapped Computers by Toggling USB Power States](https://www.rtl-sdr.com/specter-leaking-data-from-air-gapped-computers-by-toggling-usb-power-states/)
   - [Thermal Noise Communication: Sending Data Without a Carrier Signal, with an RTL-SDR as the Receiver](https://www.rtl-sdr.com/thermal-noise-communication-sending-data-without-a-carrier-signal-with-an-rtl-sdr-as-the-receiver/)
 - simonwillison.net
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
@@ -94,6 +97,7 @@
 - wheresyoured.at
   - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/)
 - Wired
+  - [Bluesky Is Blocking Links to a Major Leak of DHS Employee Records](https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/)
   - [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/)
   - [Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
   - [Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw](https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/)
@@ -114,6 +118,7 @@
 - 爱范儿
   - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一](https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法](https://www.ifanr.com/1686343?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时](https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？](https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说](https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=)
