@@ -8,33 +8,56 @@
 - Articles | InfoStealers
   - [Polymarket Breach Alert: Wallet-Draining Code Found in a Third-Party Script](https://www.infostealers.com/article/polymarket-breach-alert-wallet-draining-code-found-in-a-third-party-script/)
 - CoinTelegraph
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [KuCoin suspends services in Russia and Belarus](https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2](https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Polymarket suspended trading amid reports of user funds being drained](https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Public companies double share of blockchain revenue since 2022: Report](https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [CitySourced Data Exposure Leaks 42M Civic Records](https://www.cyberkendra.com/2026/10/citysourced-data-exposure-leaks-42m-civic-records.html)
   - [Critical Linux Kernel TCP Flaw CVE-2026-98432 Still Unpatched on Ubuntu and RHEL](https://www.cyberkendra.com/2026/10/cve-2026-98432-linux-kernel-tcp-flaw-ubuntu-rhel.html)
+  - [Polymarket Hack: Third-Party Script Drains User Wallets](https://www.cyberkendra.com/2026/10/polymarket-hack-debugbear-script-drains-wallets.html)
   - [Researcher Breaks Microsoft Edge Without AI, Logic Bugs Only](https://www.cyberkendra.com/2026/10/orange-tsai-microsoft-edge-logic-bug-sandbox-escape.html)
+- daringfireball.net
+  - [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/)
+  - [Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT)
 - darkreading
   - [Claude Model Builds Exploits Across Major Browsers &amp; OSes](https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses)
 - Hacker News Frontpage
   - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
   - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
+  - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
+  - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+  - [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
   - [Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards](https://github.com/phpclaw-php/phpclaw-monorepo)
+  - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2018-17463](https://sploitus.com/exploit?id=AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-92424](https://sploitus.com/exploit?id=58C9C9E0-5B48-5915-B7FA-72D602505548&utm_source=rss&utm_medium=rss)
   - [qemu-nvme-escape exploit](https://sploitus.com/exploit?id=77D8B172-E6C6-568F-AD6F-23C7AEF4DC80&utm_source=rss&utm_medium=rss)
+  - [SQL-e-XSS-em-APIs exploit](https://sploitus.com/exploit?id=4B5CEDBA-EDDD-5963-996E-BDF6DBE646E5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
   - [Granola crunches up a dictation feature to compete with Wispr](https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/)
+  - [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/)
+  - [OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)
   - [SuperMe raises $20M for its network of AI expert profiles](https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/)
+  - [The R2 SUV is already Rivian’s best-selling vehicle](https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/)
   - [U.S. investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
+  - [Where was my invite to the — wait, what? Airbnb had a gala?](https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/)
 - The Block
   - [Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised](https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158)
+- The Decoder
+  - [Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds](https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/)
+  - [OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up](https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/)
 - The Verge
   - [Apple’s new laptop supports one of the coolest features for color pros](https://www.theverge.com/1022347/apple-macbook-supports-new-cmf)
   - [Data centers could send US climate pollution skyrocketing](https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas)
+  - [GM to pay $220 million to resolve claims it sold driving habits data](https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit)
   - [Ikea&#8217;s colorful donut-shaped smart lamp is $20 off](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)
   - [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
+  - [Rivian’s R2 is officially its best-selling vehicle](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
   - [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
   - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
   - [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)
@@ -45,6 +68,8 @@
 - Wired
   - [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
   - [Go Minimal—the Ridge Wallet is 20 Percent Off Right Now](https://www.wired.com/story/ridge-wallet-deal-october-2026/)
+  - [Nothing Headphones Sale: Stylish and Up to 41% Off](https://www.wired.com/story/nothing-cmf-deals-october-2026/)
+  - [Polymarket Halted International Trading After Hackers Drained Accounts](https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
