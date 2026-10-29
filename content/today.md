@@ -27,8 +27,11 @@
   - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
 - MIT Technology Review
   - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
+- rtl-sdr.com
+  - [OrcSDR Update: SSTV, ACARS and Offline Maps Come to the Standalone ESP32-P4 RTL-SDR App](https://www.rtl-sdr.com/orcsdr-update-sstv-acars-and-offline-maps-come-to-the-standalone-esp32-p4-rtl-sdr-app/)
 - simonwillison.net
   - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
+  - [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
 - TechCrunch
   - [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
   - [Apple launches its new touchscreen MacBook Pro](https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/)
@@ -41,6 +44,7 @@
   - [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
   - [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
   - [Reddit is the latest platform to embrace the ‘For You’ feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/)
+  - [Upwind raises $400M after walking away from Datadog acquisition offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/)
   - [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
 - The Block
   - [Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook](https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011)
@@ -82,4 +86,6 @@
 - 爱范儿
   - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一](https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时](https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？](https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说](https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=)
