@@ -46,6 +46,7 @@
   - [Your fridge could one day stake Ether, launch memecoins: CFTC chair](https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [First OpenAI, now Anthropic: Unreleased AI models uncover hundreds of security flaws](https://cybernews.com/ai-news/unreleased-ai-models-security-flaws-patching-race/)
+  - [International crackdown takes bulletproof hosting provider offline, exposing data on more than 3,000 customers](https://cybernews.com/security/international-crackdown-takes-bulletproof-hosting-provider-offline/)
   - [Massive breach hits DHS: 41,000 employees, including undercover agents, exposed](https://cybernews.com/security/massive-breach-hits-dhs-41000-employees-exposed/)
   - [Nefilim and Hive ransomware affiliate sentenced to 70 months in prison](https://cybernews.com/security/nefilim-and-hive-ransomware-affiliate-sentenced/)
   - [Sam Altman is “chronically disappointed” with Gen Z, says it doesn’t want to try new things](https://cybernews.com/ai-news/sam-altman-gen-z/)
@@ -67,6 +68,7 @@
 - Google DeepMind Blog
   - [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)
 - Hacker News Frontpage
+  - [An Urgent Message on Artificial Intelligence from the Kogui People](https://sonidoselva.com/perspectiva-kogui)
   - [Claude Code found 145K photos I deleted from my iPhone sitting in a hidden cache](https://twitter.com/coolerwave/status/2114088769112477849)
   - [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
   - [Mac Studio M5 Ultra 512GB Officially Released](https://www.apple.com/shop/buy-mac/mac-studio)
@@ -74,11 +76,13 @@
   - [New York Times adds more AI features to its Cooking app. Users aren't thrilled](https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/)
   - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
   - [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)
+  - [Show HN: UK Farming Simulator](https://butterbean.farm/)
   - [The US added a record 20.2 GWh of battery storage in just 3 months](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/)
 - infosecurity-magazine.com
   - [ICO Reprimands Staffordshire Police After Domestic Abuse Breach](https://www.infosecurity-magazine.com/news/ico-reprimand-staffordshire-police/)
   - [MR ROBOT Malware-as-a-Service Targets Indian Bank Customers](https://www.infosecurity-magazine.com/news/robot-malware-indian-bank-customers/)
   - [NIST Publishes Guidance to Meet Federal Post-Quantum Deadlines](https://www.infosecurity-magazine.com/news/nist-guidance-post-quantum/)
+  - [Online Scam Volumes Double to Overtake Phishing](https://www.infosecurity-magazine.com/news/online-scam-volumes-double/)
 - MIT Technology Review
   - [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
   - [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
@@ -129,6 +133,7 @@
   - [Anduril now says its BlueChip laptop will meet Buy American standards at launch](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
   - [Apple charges $14,549 for a fully specced touchscreen MacBook Pro](https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced)
   - [Brendan Carr plans to let prisons jam cellphone signals](https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming)
+  - [DoorDash is acquiring Instacart for around $17 billion](https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement)
   - [Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech](https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream)
   - [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)
   - [Google says its investments in AI are driving more searches](https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026)
@@ -185,6 +190,8 @@
   - [谷歌宣布开放第三方安卓应用商店注册 通过审核可一键安装并提供应用自动更新等](https://buaq.net/go-451394.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 嘶吼
+  - [GEEKCON2026 上海：黑客在阳光下排雷，谁在黑夜里装睡？](https://www.4hou.com/posts/q5xp)
 - 奇客Solidot–传递最新科技情报
   - [Valve 无意对 AI Slop 和克隆游戏采取行动](https://www.solidot.org/story?sid=85741)
   - [美银建议客户不要与 AI 助手共享银行账号密码](https://www.solidot.org/story?sid=85742)
