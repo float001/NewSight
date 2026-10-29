@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Apple 真是会屎上雕花](https://2libra.com/post/apple/JjeS5Lr)
+  - [《ThinkRail》点评：3 分｜体验了下 JetBrains 的 ThinkRail](https://2libra.com/post/tool-sharing/cqrloBn)
   - [【竞猜】忽冷忽热-猜猜今天我在哪(纬度)](https://2libra.com/post/personal-life/LuLppzR)
   - [【转载】GitHub 解封指南——This account is flagged](https://2libra.com/post/tool-sharing/LeyPbAU)
   - [【💰】几个月没来 2libra，我都错过了什么徽章](https://2libra.com/post/questions/0VmkCtw)
@@ -17,12 +18,15 @@
   - [如何通过支付宝签约呢](https://2libra.com/post/website-construction/YDnHr9R)
   - [日签到拿到 1 金币，是什么原因？](https://2libra.com/post/forum-function/xQuX2X7)
   - [早上的事](https://2libra.com/post/small-things/bUNztTM)
+  - [有没有带隐形眼镜的](https://2libra.com/post/health-consultation/qYka69k)
   - [每人贡献一条你用过好用的提示词，我的是“***，我遇到的是什么常见问题的变体，有哪些解法”，看看你们的！](https://2libra.com/post/prompts/jI41f-z)
+  - [隔壁站看到的 OpenAI 送福利了，订阅用户可以领 API 额度，plus 除外。](https://2libra.com/post/sharing-discoveries/isurBDK)
 - Articles | InfoStealers
   - [38,628 Crypto Orders. 10,139 IPs. What Wagyu’s Alleged Leak Means for Monero Privacy.](https://www.infostealers.com/article/38628-crypto-orders-10139-ips-what-wagyus-alleged-leak-means-for-monero-privacy/)
 - Black Hills Information Security
   - [John Strand's 11 Core Skills: For SOC Analysts](https://www.blackhillsinfosec.com/soc-core-skills/)
 - Chainalysis Blog
+  - [South Africa Leads Sub-Saharan Africa’s 13.4% Crypto Growth](https://www.chainalysis.com/blog/sub-saharan-africa-crypto-adoption-2026/)
   - [Treasury Sanctions Russians, North Koreans supporting DPRK IT Worker Fraud](https://www.chainalysis.com/blog/ofac-sanctions-dprk-it-worker-fraud/)
 - CoinTelegraph
   - [Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings](https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -32,6 +36,8 @@
   - [Sam Bankman-Fried wrote to actor portraying him in Netflix series](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Your fridge could one day stake Ether, launch memecoins: CFTC chair](https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- defend.network
+  - [Volt Typhoon dismantled; PHP RCE active; Microsoft patches 1,400+ flaws](https://defend.network/briefings/volt-typhoon-php-critical-rce-microsoft-patches-2026-10-29.html)
 - Didier Stevens
   - [Quickpost: Uranium Glass](https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/)
 - Google DeepMind Blog
@@ -74,6 +80,7 @@
   - [Xreal Aura is a new wired headset powered by Android XR](https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/)
 - The Block
   - [Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook](https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011)
+  - [Utah files criminal charges against Kalshi, executives over alleged illegal gambling](https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104)
 - The Decoder
   - [Claude for Legal now verifies sources automatically, then hands the file to a lawyer](https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/)
   - [Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board](https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/)
@@ -116,11 +123,14 @@
   - [[0day-rubbish] NUUO Crystal Server 3.19.0.85 unauthenticated upload.php PHP web-root write with fastcgi execution into server-side code execution as the web service account (9.8 Critical)](https://buaq.net/go-451468.html)
   - [[0day-rubbish] Raritan PX3 PDU G4 firmware 4.3.14 command injection in the ping and traceroute diagnostics through an inverted hostname-validation return check (8.8)](https://buaq.net/go-451467.html)
   - [An Unofficial Bilingual English and Chinese User Guide for SDRplay’s SDRconnect Software](https://buaq.net/go-451441.html)
+  - [Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)](https://buaq.net/go-451492.html)
   - [esp8266-injection-example](https://buaq.net/go-451444.html)
   - [Ex-SOC analyst moving toward pentesting: is TryHackMe Pre-Security worth it, or should I change path?](https://buaq.net/go-451440.html)
+  - [IDAChef](https://buaq.net/go-451482.html)
   - [Juno for Splunk: Find Threats Hidden in Logs | Uptycs](https://buaq.net/go-451396.html)
   - [Re: CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)](https://buaq.net/go-451472.html)
   - [测试你的 Mac 安全性：苹果最新 macOS 27.2 系统仍然信任私钥已泄露的 eMudhra 证书](https://buaq.net/go-451451.html)
+  - [苹果推出首款触摸屏MacBook Pro 其他人真的可以对你的屏幕指指点点了](https://buaq.net/go-451485.html)
   - [谷歌宣布开放第三方安卓应用商店注册 通过审核可一键安装并提供应用自动更新等](https://buaq.net/go-451394.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -128,6 +138,7 @@
   - [从“能接入”到“可管控”， 瑞数信息如何管理Agent生命周期安全？](https://www.anquanke.com/post/id/316362)
 - 爱范儿
   - [iPad mini 首发上手：体验无可替代，刀法无人能及](https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [不认字的 AI，却很会说话](https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一](https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法](https://www.ifanr.com/1686343?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时](https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=)
