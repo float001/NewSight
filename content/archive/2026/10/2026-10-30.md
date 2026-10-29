@@ -4,7 +4,9 @@
   - [Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'](https://www.404media.co/archive-of-our-own-ao3-down-maintenance/)
   - [Podcast: Flock CEO Says the Backlash Isn’t Real](https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/)
 - Ars Technica
+  - [Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine](https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/)
   - [Report: Trump did nothing with intel that China planted spy close to Nvidia CEO](https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/)
+  - [Windows 11 gets right-click menu improvements as PC revenue slides](https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/)
 - Articles | InfoStealers
   - [Polymarket Breach Alert: Wallet-Draining Code Found in a Third-Party Script](https://www.infostealers.com/article/polymarket-breach-alert-wallet-draining-code-found-in-a-third-party-script/)
 - CoinTelegraph
@@ -15,6 +17,7 @@
   - [Polymarket suspended trading amid reports of user funds being drained](https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Public companies double share of blockchain revenue since 2022: Report](https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Accenture Claude Agent Exposed DOD Credentials: Report](https://www.cyberkendra.com/2026/10/accenture-claude-agent-dod-network-credentials.html)
   - [CitySourced Data Exposure Leaks 42M Civic Records](https://www.cyberkendra.com/2026/10/citysourced-data-exposure-leaks-42m-civic-records.html)
   - [Critical Linux Kernel TCP Flaw CVE-2026-98432 Still Unpatched on Ubuntu and RHEL](https://www.cyberkendra.com/2026/10/cve-2026-98432-linux-kernel-tcp-flaw-ubuntu-rhel.html)
   - [Polymarket Hack: Third-Party Script Drains User Wallets](https://www.cyberkendra.com/2026/10/polymarket-hack-debugbear-script-drains-wallets.html)
@@ -26,7 +29,9 @@
   - [Claude Model Builds Exploits Across Major Browsers &amp; OSes](https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses)
 - Hacker News Frontpage
   - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
+  - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
   - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
+  - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
   - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
   - [Patrick Stewart Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
   - [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
@@ -34,20 +39,26 @@
   - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2018-17463](https://sploitus.com/exploit?id=AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-78829](https://sploitus.com/exploit?id=1FAD72BC-AFFB-52E8-B935-E343D769A457&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-92424](https://sploitus.com/exploit?id=58C9C9E0-5B48-5915-B7FA-72D602505548&utm_source=rss&utm_medium=rss)
   - [qemu-nvme-escape exploit](https://sploitus.com/exploit?id=77D8B172-E6C6-568F-AD6F-23C7AEF4DC80&utm_source=rss&utm_medium=rss)
   - [SQL-e-XSS-em-APIs exploit](https://sploitus.com/exploit?id=4B5CEDBA-EDDD-5963-996E-BDF6DBE646E5&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
   - [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
+  - [Fan fiction site Archive of Our Own could be offline for up to 4 weeks](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/)
+  - [GM reaches $220M settlement over selling drivers’ private data](https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/)
   - [Granola crunches up a dictation feature to compete with Wispr](https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/)
   - [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/)
   - [OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)
+  - [Rivian expands joint venture with VW to include AI assistant](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/)
   - [SuperMe raises $20M for its network of AI expert profiles](https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/)
   - [The R2 SUV is already Rivian’s best-selling vehicle](https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/)
   - [U.S. investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
   - [Where was my invite to the — wait, what? Airbnb had a gala?](https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/)
 - The Block
   - [Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised](https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158)
+  - [Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends](https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141)
 - The Decoder
   - [Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds](https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/)
   - [OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up](https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/)
@@ -57,6 +68,8 @@
   - [GM to pay $220 million to resolve claims it sold driving habits data](https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit)
   - [Ikea&#8217;s colorful donut-shaped smart lamp is $20 off](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)
   - [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
+  - [Patrick Stewart has died at age 86](https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death)
+  - [Reddit will force everyone to log in](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings)
   - [Rivian’s R2 is officially its best-selling vehicle](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
   - [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
   - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
@@ -70,6 +83,7 @@
   - [Go Minimal—the Ridge Wallet is 20 Percent Off Right Now](https://www.wired.com/story/ridge-wallet-deal-october-2026/)
   - [Nothing Headphones Sale: Stylish and Up to 41% Off](https://www.wired.com/story/nothing-cmf-deals-october-2026/)
   - [Polymarket Halted International Trading After Hackers Drained Accounts](https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/)
+  - [What to Know About China’s Top-Secret Spaceplane](https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
