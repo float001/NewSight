@@ -10,6 +10,7 @@
   - [【💰】我也 vibe coding 了两个小程序，给点意见](https://2libra.com/post/vibe-coding/1DYINje)
   - [【💰】有没有通过 AI 开发游戏的大佬哦，请教几个问题（概率拉满，大佬们快来评论呀）](https://2libra.com/post/ai-programming/ghHbQEz)
   - [中奖了新徽章《忽冷忽热》, 分享下喜悦~](https://2libra.com/post/small-things/RA2rimc)
+  - [借鉴古人注疏经书的体例，先从《庄子》内七篇打个样例](https://2libra.com/post/personal-works/vWqucnG)
   - [全面 AI 编程之后，从据理力争到念头通达。](https://2libra.com/post/ai-programming/7WHtdp8)
   - [关于墨雪飘影图床等服务被入侵说明](https://2libra.com/post/network-security/SDX0VgB)
   - [发帖时正文一键排版提示词做了优化](https://2libra.com/post/product-updates/ZfXY32Q)
@@ -29,6 +30,7 @@
   - [Phantom launches Kalshi-powered prediction markets for US users](https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sam Bankman-Fried wrote to actor portraying him in Netflix series](https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tampered Ledger wallets cost Singapore users $2.7M: Police](https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Your fridge could one day stake Ether, launch memecoins: CFTC chair](https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Didier Stevens
   - [Quickpost: Uranium Glass](https://blog.didierstevens.com/2026/10/28/quickpost-uranium-glass/)
 - Google DeepMind Blog
@@ -106,10 +108,18 @@
   - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
   - [This Is What the GOP’s Final Midterms Push Looks Like](https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/)
 - 不安全
+  - [[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 command injection in the Executer program activation path (7.2)](https://buaq.net/go-451471.html)
+  - [[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 IPsec tunnel address command injection through the route-management shell commands (7.2)](https://buaq.net/go-451470.html)
+  - [[0day-rubbish] Moxa MAR-2000 firmware FWR_MAR2000_V1.0_Build_15010909 scenario ping condition command injection through the auto-executing ping thread (7.2)](https://buaq.net/go-451469.html)
+  - [[0day-rubbish] NETGEAR RAX120 V1.2.5.18 authenticated SOAP InstallApp OS command injection to root-configured web-stack execution (6.8 Medium; conditionally 7.2 High with management exposure)](https://buaq.net/go-451466.html)
+  - [[0day-rubbish] NUUO Crystal Server 3.19.0.85 unauthenticated upload.php PHP web-root write with fastcgi execution into server-side code execution as the web service account (9.8 Critical)](https://buaq.net/go-451468.html)
+  - [[0day-rubbish] Raritan PX3 PDU G4 firmware 4.3.14 command injection in the ping and traceroute diagnostics through an inverted hostname-validation return check (8.8)](https://buaq.net/go-451467.html)
   - [An Unofficial Bilingual English and Chinese User Guide for SDRplay’s SDRconnect Software](https://buaq.net/go-451441.html)
   - [esp8266-injection-example](https://buaq.net/go-451444.html)
   - [Ex-SOC analyst moving toward pentesting: is TryHackMe Pre-Security worth it, or should I change path?](https://buaq.net/go-451440.html)
   - [Juno for Splunk: Find Threats Hidden in Logs | Uptycs](https://buaq.net/go-451396.html)
+  - [Re: CVE-2026-109618: PHP-CGI Pointer Underflow → Remote Code Execution (CVSS 9.2)](https://buaq.net/go-451472.html)
+  - [测试你的 Mac 安全性：苹果最新 macOS 27.2 系统仍然信任私钥已泄露的 eMudhra 证书](https://buaq.net/go-451451.html)
   - [谷歌宣布开放第三方安卓应用商店注册 通过审核可一键安装并提供应用自动更新等](https://buaq.net/go-451394.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -122,3 +132,5 @@
   - [早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时](https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？](https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说](https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [群晖NAS遭大规模L0CK3D勒索病毒攻击](https://blog.upx8.com/%E7%BE%A4%E6%99%96NAS%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1L0CK3D%E5%8B%92%E7%B4%A2%E7%97%85%E6%AF%92%E6%94%BB%E5%87%BB)
