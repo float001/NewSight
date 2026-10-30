@@ -3,8 +3,10 @@
 - 404 Media
   - [Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
   - [Scientists Analyzed Thousands of Psychedelic Trips. They Found Something Disturbing](https://www.404media.co/fireside-project-psychedelic-support-line-study/)
+  - [‘Wake Up Call:’ Fanfiction Writers and Readers React to AO3 Outage](https://www.404media.co/ao3-down-outage-reactions/)
 - Ars Technica
   - [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+  - [Rare meteorite from Mars gives us a view into its ancient crust](https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/)
 - CoinTelegraph
   - [As it happened: Binance’s record $6.3B crypto hack](https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase leads crypto stock selloff following $6.3B Binance hack](https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -24,6 +26,8 @@
   - [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
 - HackerNoon
   - [Proof of Usefulness Hackathon Final Winners Announced 🎉](https://hackernoon.com/proof-of-usefulness-hackathon-final-winners-announced?source=rss)
+- NowSecure
+  - [Certificate Pinning for Mobile Apps: Lessons from the eMudhra CA Incident](https://www.nowsecure.com/blog/2026/10/30/certificate-pinning-for-mobile-apps-lessons-from-the-emudhra-ca-incident/)
 - NVISO Labs
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 1 – Introduction and Concept](https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/)
 - TechCrunch
@@ -35,15 +39,20 @@
   - [Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist](https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221)
 - The Decoder
   - [Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web](https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/)
+  - [Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft](https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/)
   - [OpenAI sets new behavioral guidelines for AI models that have already proven hard to control](https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/)
 - The Verge
+  - [Google&#8217;s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)
   - [Rivian’s autonomy gamble faces its first real test](https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026)
   - [Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru](https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru)
   - [The delightfully messy state of Apple gadgets](https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets)
   - [Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts](https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale)
+- Vulners.com RSS Feed
+  - [Exploit for CVE-2026-92744](https://vulners.com/githubexploit/CA816CA3-2780-5898-8B44-7B2FD4C940EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
+  - [【开放申请】企业可自查PHP2Shell漏洞了！](https://www.anquanke.com/post/id/316392)
   - [代理 IP 不等于恶意用户：注册与登录风控中的 IP 情报分层设计](https://www.anquanke.com/post/id/316383)
 - 莿鸟栖草堂
   - [旁观者：支持龙芯，text 模式看完整 HTTP](https://www.cnxct.com/%e6%97%81%e8%a7%82%e8%80%85%ef%bc%9a%e6%94%af%e6%8c%81%e9%be%99%e8%8a%af%ef%bc%8ctext-%e6%a8%a1%e5%bc%8f%e7%9c%8b%e5%ae%8c%e6%95%b4-http/)
