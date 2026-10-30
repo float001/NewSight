@@ -15,9 +15,13 @@
   - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
   - [有没有家里在客厅放大长书桌或者是升降桌替代茶几的，进来说说有什么坑](https://2libra.com/post/questions/Q_8akiU)
   - [没怎么用过国外的 AI Agent，TRAE 这个功能对标的是啥？](https://2libra.com/post/ai-tools/m3tnT-U)
+  - [祝大家周末愉快，抽一个人送 200 金币。](https://2libra.com/post/slacking-off/xHV3Muv)
   - [这两天运气不错啊，看来潘多拉还是不能赌下次刷新](https://2libra.com/post/forum-function/40_pP01)
+  - [鉴于潘多拉魔盒和补签成本太高了（1000 一次）没感受到啥正反馈](https://2libra.com/post/forum-function/YfwVoOl)
   - [面对傲慢者的呐喊：胡塞武装的生命力 💪💪💪](https://2libra.com/post/social-observation/L_xKbkW)
   - [鹬蚌相争啊，防 rea 的项目来了](https://2libra.com/post/open-source-sharing/bh9WVhL)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报（20261030）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-11/)
 - 404 Media
   - [Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'](https://www.404media.co/archive-of-our-own-ao3-down-maintenance/)
   - [Podcast: Flock CEO Says the Backlash Isn’t Real](https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/)
@@ -27,6 +31,8 @@
   - [Windows 11 gets right-click menu improvements as PC revenue slides](https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/)
 - Articles | InfoStealers
   - [Polymarket Breach Alert: Wallet-Draining Code Found in a Third-Party Script](https://www.infostealers.com/article/polymarket-breach-alert-wallet-draining-code-found-in-a-third-party-script/)
+- Chainalysis Blog
+  - [Binance Exploit: Latest Findings and Response](https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/)
 - CoinTelegraph
   - [Binance hack could accelerate shift to DEXs: Standard Chartered](https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO](https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -42,6 +48,8 @@
   - [Public companies double share of blockchain revenue since 2022: Report](https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity](https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tampered Ledger reported in Singapore a month before news broke: Asia Express](https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack](https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trezor warns CryptoBilis buyers to move funds over suspected implant](https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Accenture Claude Agent Exposed DOD Credentials: Report](https://www.cyberkendra.com/2026/10/accenture-claude-agent-dod-network-credentials.html)
   - [CitySourced Data Exposure Leaks 42M Civic Records](https://www.cyberkendra.com/2026/10/citysourced-data-exposure-leaks-42m-civic-records.html)
@@ -49,11 +57,15 @@
   - [Polymarket Hack: Third-Party Script Drains User Wallets](https://www.cyberkendra.com/2026/10/polymarket-hack-debugbear-script-drains-wallets.html)
   - [Researcher Breaks Microsoft Edge Without AI, Logic Bugs Only](https://www.cyberkendra.com/2026/10/orange-tsai-microsoft-edge-logic-bug-sandbox-escape.html)
 - CyberNews
+  - [A French content creator builds a map that can track police movements worldwide](https://cybernews.com/tech/cortege-protest-app/)
   - [Binance hack: North Korean hackers blamed for $6.3B theft](https://cybernews.com/security/binance-hack-north-korean-hackers-blamed-for-6-3b-theft/)
   - [Columbia University to pay $16.1M to settle cyberattack lawsuit](https://cybernews.com/security/columbia-university-cyberattack-lawsuit-settlement/)
   - [Finland launches criminal probe into land clearance for Google data centre](https://cybernews.com/tech/finland-launches-criminal-probe-into-land-clearance-for-google-data-centre/)
   - [French privacy watchdog fines FNAC €7M for tracking app users without consent](https://cybernews.com/privacy/french-privacy-watchdog-fines-fnac/)
   - [Google suffers its worst value crash in history amid AI bubble burst fears](https://cybernews.com/news/google-500b-stock-crash/)
+  - [Hacker attack hits Sony’s internet provider,  exposing millions of records](https://cybernews.com/security/sony-so-net-data-breach-millions-records/)
+  - [Nvidia CEO targeted by alleged Chinese spy](https://cybernews.com/ai-news/nvidia-ceo-targeted-chinese-spy/)
+  - [Reddit CEO shares major platform updates in new shareholder letter: Rollout starts outside the US](https://cybernews.com/news/reddit-mandatory-log-in/)
   - [UK social media ban could mean more users must prove their age online](https://cybernews.com/tech/uk-social-media-ban-ofcom-report/)
 - daringfireball.net
   - [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/)
@@ -72,6 +84,7 @@
   - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
   - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
   - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
+  - [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
   - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
   - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
   - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
@@ -90,6 +103,10 @@
 - PwnDefend
   - [Are we getting better at Cyber?](https://www.pwndefend.com/2026/10/30/are-we-getting-better-at-cyber/)
   - [PHP2Shell activity update](https://www.pwndefend.com/2026/10/30/php2shell-activity-update/)
+- Securelist
+  - [Filter generation in practice: from algorithms to LLMs](https://securelist.com/practical-filter-generation/121697/)
+- Seebug Paper
+  - [基于证据锚定的大语言模型辅助 Android 移动取证报告](https://paper.seebug.org/3531)
 - simonwillison.net
   - [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
 - Sploitus.com Exploits RSS Feed
@@ -163,6 +180,7 @@
   - [src-hunting-plus](https://vulners.com/gitee/92FF5419-CEFC-5FA7-8C88-9D2BD1ACF1BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
+  - [Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials](https://www.wired.com/story/gifts-for-friends/)
   - [Go Minimal—the Ridge Wallet is 20 Percent Off Right Now](https://www.wired.com/story/ridge-wallet-deal-october-2026/)
   - [Nothing Headphones Sale: Stylish and Up to 41% Off](https://www.wired.com/story/nothing-cmf-deals-october-2026/)
   - [Polymarket Halted International Trading After Hackers Drained Accounts](https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/)
@@ -173,6 +191,8 @@
   - [应对AI抓取和造成的访问量暴跌：知名论坛Reddit宣布将强制登录浏览](https://buaq.net/go-451743.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 先知技术社区
+  - [先知社区新版本升级公告](https://xz.aliyun.com/news/93072)
 - 奇客Solidot–传递最新科技情报
   - [Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元](https://www.solidot.org/story?sid=85752)
   - [Reddit 将强制要求所有用户登录](https://www.solidot.org/story?sid=85753)
@@ -181,11 +201,17 @@
 - 爱范儿
   - [CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳](https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令](https://www.ifanr.com/1686874?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [「史上最强」的 iPad mini，为什么还是 60Hz 屏幕？](https://www.ifanr.com/1686901?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了](https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱](https://www.ifanr.com/1686855?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜](https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [2026 TechWorld·上海站成功举办，绿盟科技上海研究院正式落地](https://blog.nsfocus.net/2026-techworld%c2%b7%e4%b8%8a%e6%b5%b7%e7%ab%99%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e%ef%bc%8c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%b8%8a%e6%b5%b7%e7%a0%94%e7%a9%b6%e9%99%a2%e6%ad%a3%e5%bc%8f%e8%90%bd/)
+  - [绿盟科技联合电科金仓发布一体化信创方案，打造自主可控、智能高效的安全防护体系](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e8%81%94%e5%90%88%e7%94%b5%e7%a7%91%e9%87%91%e4%bb%93%e5%8f%91%e5%b8%83%e4%b8%80%e4%bd%93%e5%8c%96%e4%bf%a1%e5%88%9b%e6%96%b9%e6%a1%88%ef%bc%8c%e6%89%93%e9%80%a0/)
 - 量子位 QbitAI
   - [买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配](https://www.qbitai.com/2026/10/506569.html)
+- 风雪之隅(鸟哥)
+  - [聊聊Realsee Space HDR](https://www.laruence.com/2026/10/30/7736.html)
 - 黑海洋
   - [Bluesky屏蔽指向泄露的DHS员工数据的链接](https://blog.upx8.com/Bluesky%E5%B1%8F%E8%94%BD%E6%8C%87%E5%90%91%E6%B3%84%E9%9C%B2%E7%9A%84DHS%E5%91%98%E5%B7%A5%E6%95%B0%E6%8D%AE%E7%9A%84%E9%93%BE%E6%8E%A5)
   - [封缄笔记：写完，封起来，只寄给一个人](https://blog.upx8.com/10906)
