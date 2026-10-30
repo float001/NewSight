@@ -5,6 +5,7 @@
   - [忽冷忽热徽章空降成功，从此你的天气由你做主！](https://2libra.com/post/forum-function/ozwOSoE)
   - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
   - [有没有家里在客厅放大长书桌或者是升降桌替代茶几的，进来说说有什么坑](https://2libra.com/post/questions/Q_8akiU)
+  - [没怎么用过国外的 AI Agent，TRAE 这个功能对标的是啥？](https://2libra.com/post/ai-tools/m3tnT-U)
   - [这两天运气不错啊，看来潘多拉还是不能赌下次刷新](https://2libra.com/post/forum-function/40_pP01)
   - [鹬蚌相争啊，防 rea 的项目来了](https://2libra.com/post/open-source-sharing/bh9WVhL)
 - 404 Media
@@ -17,6 +18,7 @@
 - Articles | InfoStealers
   - [Polymarket Breach Alert: Wallet-Draining Code Found in a Third-Party Script](https://www.infostealers.com/article/polymarket-breach-alert-wallet-draining-code-found-in-a-third-party-script/)
 - CoinTelegraph
+  - [Binance hack could accelerate shift to DEXs: Standard Chartered](https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hack may involve private key ‘misuse,’ not theft: Blockaid CEO](https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides](https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance investigates potential multibillion-dollar hack](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -140,5 +142,6 @@
 - 量子位 QbitAI
   - [买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配](https://www.qbitai.com/2026/10/506569.html)
 - 黑海洋
+  - [Bluesky屏蔽指向泄露的DHS员工数据的链接](https://blog.upx8.com/Bluesky%E5%B1%8F%E8%94%BD%E6%8C%87%E5%90%91%E6%B3%84%E9%9C%B2%E7%9A%84DHS%E5%91%98%E5%B7%A5%E6%95%B0%E6%8D%AE%E7%9A%84%E9%93%BE%E6%8E%A5)
   - [封缄笔记：写完，封起来，只寄给一个人](https://blog.upx8.com/10906)
   - [赵长鹏称币安可能遭遇史上最大规模加密货币盗窃案](https://blog.upx8.com/%E8%B5%B5%E9%95%BF%E9%B9%8F%E7%A7%B0%E5%B8%81%E5%AE%89%E5%8F%AF%E8%83%BD%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9B%97%E7%AA%83%E6%A1%88)
