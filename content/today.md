@@ -7,6 +7,8 @@
 - Ars Technica
   - [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
   - [Rare meteorite from Mars gives us a view into its ancient crust](https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/)
+- Chainalysis Blog
+  - [Chainalysis Security Incident Information](https://www.chainalysis.com/blog/security-incident-october-30/)
 - CoinTelegraph
   - [As it happened: Binance’s record $6.3B crypto hack](https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase leads crypto stock selloff following $6.3B Binance hack](https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -16,6 +18,7 @@
   - [GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/)
   - [Patrick Stewart Dies at 86](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/)
   - [The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/)
+  - [★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max)
 - darkreading
   - [Devs Hit by Trojanized Claude Code Extension for Cursor](https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor)
 - filfre.net
@@ -40,11 +43,18 @@
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 1 – Introduction and Concept](https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/)
 - TechCrunch
   - [AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
+  - [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
+  - [Applebee’s exposed customers’ personal data after leaving database password in app](https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/)
+  - [Cracks are emerging in the AI spending boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)
   - [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)
+  - [Intel’s stock crashes, knocking $12B from government’s stake](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/)
+  - [Last-minute Halloween costumes for tech nerds](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/)
   - [Satlyt takes another step toward turning satellites into space data centers](https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/)
   - [Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)
   - [Zest’s new AI agent finds restaurants and books reservations over text](https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/)
 - The Block
+  - [Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion](https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225)
+  - [President Trump says they’re looking into Binance hack as calls grow for crypto rules](https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236)
   - [Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist](https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221)
 - The Decoder
   - [A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making](https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/)
@@ -114,6 +124,7 @@
   - [Exploit for CVE-2026-92744](https://vulners.com/githubexploit/CA816CA3-2780-5898-8B44-7B2FD4C940EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)
+  - [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
