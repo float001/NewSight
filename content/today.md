@@ -3,7 +3,9 @@
 - 2Libra
   - ["招募行动"潘多拉事件，着实是我完不成的 KPI。](https://2libra.com/post/forum-function/BZiJdHe)
   - [【投票·💰】你们在用词选择上会用“offer“，还是其它中文词](https://2libra.com/post/social-observation/AF4ENfp)
+  - [【💰】一人推荐一首颅内高潮的歌](https://2libra.com/post/music-sharing/HqZhSJe)
   - [【🔒】周五愉快！竞拍一个癫影邮箱邀请。](https://2libra.com/post/invite-code/r54lfVU)
+  - [为什么 2 站的网络总是连接不上？](https://2libra.com/post/questions/lP7JNw7)
   - [忽冷忽热徽章空降成功，从此你的天气由你做主！](https://2libra.com/post/forum-function/ozwOSoE)
   - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
   - [有没有家里在客厅放大长书桌或者是升降桌替代茶几的，进来说说有什么坑](https://2libra.com/post/questions/Q_8akiU)
@@ -28,8 +30,10 @@
   - [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [KuCoin suspends services in Russia and Belarus](https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2](https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [North Korea linked to $6.3B Binance hack by crypto investigators](https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket suspended trading amid reports of user funds being drained](https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Public companies double share of blockchain revenue since 2022: Report](https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity](https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tampered Ledger reported in Singapore a month before news broke: Asia Express](https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Accenture Claude Agent Exposed DOD Credentials: Report](https://www.cyberkendra.com/2026/10/accenture-claude-agent-dod-network-credentials.html)
