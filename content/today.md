@@ -2,6 +2,8 @@
 
 - 2Libra
   - ["招募行动"潘多拉事件，着实是我完不成的 KPI。](https://2libra.com/post/forum-function/BZiJdHe)
+  - [【投票·💰】你们在用词选择上会用“offer“，还是其它中文词](https://2libra.com/post/social-observation/AF4ENfp)
+  - [【🔒】周五愉快！竞拍一个癫影邮箱邀请。](https://2libra.com/post/invite-code/r54lfVU)
   - [忽冷忽热徽章空降成功，从此你的天气由你做主！](https://2libra.com/post/forum-function/ozwOSoE)
   - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
   - [有没有家里在客厅放大长书桌或者是升降桌替代茶几的，进来说说有什么坑](https://2libra.com/post/questions/Q_8akiU)
@@ -138,6 +140,7 @@
 - 爱范儿
   - [CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳](https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了](https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱](https://www.ifanr.com/1686855?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜](https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配](https://www.qbitai.com/2026/10/506569.html)
