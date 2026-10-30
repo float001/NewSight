@@ -1,7 +1,11 @@
 # 今日安全资讯（2026-10-30）
 
 - 2Libra
+  - ["招募行动"潘多拉事件，着实是我完不成的 KPI。](https://2libra.com/post/forum-function/BZiJdHe)
+  - [忽冷忽热徽章空降成功，从此你的天气由你做主！](https://2libra.com/post/forum-function/ozwOSoE)
+  - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
   - [这两天运气不错啊，看来潘多拉还是不能赌下次刷新](https://2libra.com/post/forum-function/40_pP01)
+  - [鹬蚌相争啊，防 rea 的项目来了](https://2libra.com/post/open-source-sharing/bh9WVhL)
 - 404 Media
   - [Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'](https://www.404media.co/archive-of-our-own-ao3-down-maintenance/)
   - [Podcast: Flock CEO Says the Backlash Isn’t Real](https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/)
@@ -86,6 +90,7 @@
   - [The R2 SUV is already Rivian’s best-selling vehicle](https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/)
   - [U.S. investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
   - [Where was my invite to the — wait, what? Airbnb had a gala?](https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/)
+  - [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
 - The Block
   - [Binance investigating hack as suspicious outflows reach up to $5.8 billion](https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171)
   - [Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised](https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158)
