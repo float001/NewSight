@@ -23,6 +23,7 @@
   - [鹬蚌相争啊，防 rea 的项目来了](https://2libra.com/post/open-source-sharing/bh9WVhL)
 - 360 Netlab Blog - 360
   - [AI安全专题周报（20261030）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-11/)
+  - [金融行业网络安全监测月报(202610)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202610/)
 - 404 Media
   - [Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'](https://www.404media.co/archive-of-our-own-ao3-down-maintenance/)
   - [Podcast: Flock CEO Says the Backlash Isn’t Real](https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/)
@@ -40,6 +41,7 @@
   - [Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides](https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury](https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance investigates potential multibillion-dollar hack](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack](https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [KuCoin suspends services in Russia and Belarus](https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -52,6 +54,7 @@
   - [Tampered Ledger reported in Singapore a month before news broke: Asia Express](https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack](https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor warns CryptoBilis buyers to move funds over suspected implant](https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash grants group offers $124M compromise as governance backlash grows](https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Accenture Claude Agent Exposed DOD Credentials: Report](https://www.cyberkendra.com/2026/10/accenture-claude-agent-dod-network-credentials.html)
   - [CitySourced Data Exposure Leaks 42M Civic Records](https://www.cyberkendra.com/2026/10/citysourced-data-exposure-leaks-42m-civic-records.html)
@@ -89,6 +92,7 @@
   - [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
   - [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
   - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+  - [Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]](https://www.youtube.com/watch?v=MENoB3Rex28)
   - [For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)
   - [Hermes and REA and GLM 5.3 = Reverse engineering TikTok app for less than $20](https://www.scraping.club/p/tiktok-scraping-metadata)
   - [IgE disruptor for food allergy with Claude-enabled antibody design [pdf]](https://divergencelabs.com/publications/ige-preprint.pdf)
@@ -103,6 +107,9 @@
   - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 - InfoSec Write-ups - Medium
   - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
+- infosecurity-magazine.com
+  - [Binance Hit by Record-Breaking $6.3bn Hack in Largest Cryptocurrency Heist in History](https://www.infosecurity-magazine.com/news/binance-record-hack-crypto-heist/)
+  - [Chinese Actor Compromises US Government Network Via Chained PHP2Shell Exploit](https://www.infosecurity-magazine.com/news/chinese-us-government-chained-php2/)
 - PwnDefend
   - [Are we getting better at Cyber?](https://www.pwndefend.com/2026/10/30/are-we-getting-better-at-cyber/)
   - [PHP2Shell activity update](https://www.pwndefend.com/2026/10/30/php2shell-activity-update/)
@@ -161,6 +168,7 @@
   - [OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up](https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/)
 - The Verge
   - [Apple’s new laptop supports one of the coolest features for color pros](https://www.theverge.com/1022347/apple-macbook-supports-new-cmf)
+  - [Binance hackers stole $6.3 billion in record-breaking crypto heist](https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist)
   - [Data centers could send US climate pollution skyrocketing](https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas)
   - [GM to pay $220 million to resolve claims it sold driving habits data](https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit)
   - [Ikea&#8217;s colorful donut-shaped smart lamp is $20 off](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)
@@ -171,6 +179,7 @@
   - [Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’](https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic)
   - [Rivian’s R2 is officially its best-selling vehicle](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
   - [The director of Obsession put a new horror short on YouTube](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear)
+  - [The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen](https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal)
   - [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
   - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
   - [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
@@ -235,12 +244,14 @@
   - [Male Insecurity Over Penis Size Is a Booming Business](https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/)
   - [Nothing Headphones Sale: Stylish and Up to 41% Off](https://www.wired.com/story/nothing-cmf-deals-october-2026/)
   - [Polymarket Halted International Trading After Hackers Drained Accounts](https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/)
+  - [The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)
   - [The Best Handheld Translators for Work and Travel (2026)](https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/)
   - [What to Know About China’s Top-Secret Spaceplane](https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/)
 - 不安全
   - [[更新] ChatGPT Pro订阅Codex额度将翻倍 从5x/10x/25x翻倍到10x/20x/50x](https://buaq.net/go-451719.html)
   - [WhatPatchguardProtects](https://buaq.net/go-451739.html)
   - [应对AI抓取和造成的访问量暴跌：知名论坛Reddit宣布将强制登录浏览](https://buaq.net/go-451743.html)
+  - [金融行业网络安全监测月报(202610)](https://buaq.net/go-451792.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 先知技术社区
