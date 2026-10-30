@@ -3,9 +3,11 @@
 - 2Libra
   - ["招募行动"潘多拉事件，着实是我完不成的 KPI。](https://2libra.com/post/forum-function/BZiJdHe)
   - [【投票·💰】你们在用词选择上会用“offer“，还是其它中文词](https://2libra.com/post/social-observation/AF4ENfp)
+  - [【投票】红果短剧 APP 的吸引力调查](https://2libra.com/post/movie-sharing/12ZUs9s)
   - [【💰】一人推荐一首颅内高潮的歌](https://2libra.com/post/music-sharing/HqZhSJe)
   - [【🔒】周五愉快！竞拍一个癫影邮箱邀请。](https://2libra.com/post/invite-code/r54lfVU)
   - [为什么 2 站的网络总是连接不上？](https://2libra.com/post/questions/lP7JNw7)
+  - [关于买房](https://2libra.com/post/personal-life/u7p0EWt)
   - [忽冷忽热徽章空降成功，从此你的天气由你做主！](https://2libra.com/post/forum-function/ozwOSoE)
   - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
   - [有没有家里在客厅放大长书桌或者是升降桌替代茶几的，进来说说有什么坑](https://2libra.com/post/questions/Q_8akiU)
@@ -41,12 +43,22 @@
   - [Critical Linux Kernel TCP Flaw CVE-2026-98432 Still Unpatched on Ubuntu and RHEL](https://www.cyberkendra.com/2026/10/cve-2026-98432-linux-kernel-tcp-flaw-ubuntu-rhel.html)
   - [Polymarket Hack: Third-Party Script Drains User Wallets](https://www.cyberkendra.com/2026/10/polymarket-hack-debugbear-script-drains-wallets.html)
   - [Researcher Breaks Microsoft Edge Without AI, Logic Bugs Only](https://www.cyberkendra.com/2026/10/orange-tsai-microsoft-edge-logic-bug-sandbox-escape.html)
+- CyberNews
+  - [Binance hack: North Korean hackers blamed for $6.3B theft](https://cybernews.com/security/binance-hack-north-korean-hackers-blamed-for-6-3b-theft/)
+  - [Columbia University to pay $16.1M to settle cyberattack lawsuit](https://cybernews.com/security/columbia-university-cyberattack-lawsuit-settlement/)
+  - [French privacy watchdog fines FNAC €7M for tracking app users without consent](https://cybernews.com/privacy/french-privacy-watchdog-fines-fnac/)
+  - [Google suffers its worst value crash in history amid AI bubble burst fears](https://cybernews.com/news/google-500b-stock-crash/)
+  - [UK social media ban could mean more users must prove their age online](https://cybernews.com/tech/uk-social-media-ban-ofcom-report/)
 - daringfireball.net
   - [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/)
   - [Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT)
 - darkreading
   - [Anthropic-Themed Phishing Emails Bypass Top Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools)
   - [Claude Model Builds Exploits Across Major Browsers &amp; OSes](https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses)
+- Data Breach
+  - [Hacker leaks data on more than 40,000 Homeland Security employees](https://securityaffairs.com/202103/data-breach/hacker-leaks-data-on-more-than-40000-homeland-security-employees.html)
+- defend.network
+  - [Linux kernel, PHP, Cisco, GitLab critical flaws under active exploitation](https://defend.network/briefings/linux-php-cisco-gitlab-critical-exploits-2026-10-30.html)
 - Hacker News Frontpage
   - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
   - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
@@ -100,6 +112,7 @@
   - [SuperMe raises $20M for its network of AI expert profiles](https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/)
   - [The R2 SUV is already Rivian’s best-selling vehicle](https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/)
   - [U.S. investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
+  - [Waymo taps Toyota to supply robotaxis for Japan and the U.K.](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/)
   - [Where was my invite to the — wait, what? Airbnb had a gala?](https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/)
   - [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
 - The Block
@@ -139,8 +152,12 @@
   - [Nothing Headphones Sale: Stylish and Up to 41% Off](https://www.wired.com/story/nothing-cmf-deals-october-2026/)
   - [Polymarket Halted International Trading After Hackers Drained Accounts](https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/)
   - [What to Know About China’s Top-Secret Spaceplane](https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/)
+- 不安全
+  - [[更新] ChatGPT Pro订阅Codex额度将翻倍 从5x/10x/25x翻倍到10x/20x/50x](https://buaq.net/go-451719.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [币安多达 30 亿美元数字货币被盗](https://www.solidot.org/story?sid=85749)
 - 爱范儿
   - [CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳](https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了](https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=)
