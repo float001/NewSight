@@ -25,6 +25,7 @@
   - [AI安全专题周报（20261030）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-11/)
   - [金融行业网络安全监测月报(202610)](https://blog.netlab.360.com/jin-rong-xing-ye-wang-luo-an-quan-jian-ce-yue-bao-202610/)
 - 404 Media
+  - [Apple Is Entering Its Slop Era](https://www.404media.co/apple-is-entering-its-slop-era/)
   - [Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'](https://www.404media.co/archive-of-our-own-ao3-down-maintenance/)
   - [Podcast: Flock CEO Says the Backlash Isn’t Real](https://www.404media.co/podcast-flock-ceo-says-the-backlash-isnt-real/)
 - Ars Technica
@@ -41,6 +42,7 @@
   - [Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides](https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury](https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance investigates potential multibillion-dollar hack](https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance says it holds $5B in matching tokens to cover hack losses](https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack](https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -117,6 +119,8 @@
   - [Filter generation in practice: from algorithms to LLMs](https://securelist.com/practical-filter-generation/121697/)
 - Seebug Paper
   - [基于证据锚定的大语言模型辅助 Android 移动取证报告](https://paper.seebug.org/3531)
+- shkspr.mobi
+  - [Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆](https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/)
 - simonwillison.net
   - [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
 - Sploitus.com Exploits RSS Feed
@@ -137,11 +141,13 @@
   - [SQL-e-XSS-em-APIs exploit](https://sploitus.com/exploit?id=4B5CEDBA-EDDD-5963-996E-BDF6DBE646E5&utm_source=rss&utm_medium=rss)
   - [src-hunting-plus exploit](https://sploitus.com/exploit?id=92FF5419-CEFC-5FA7-8C88-9D2BD1ACF1BC&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/)
   - [Amazon reported booming cloud revenue but otherwise missed expectations](https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/)
   - [Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’](https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/)
   - [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
   - [AWS will be a $1T business, Jassy says. But first, it will spend big.](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
   - [Binance pauses withdrawals as hackers suspected of stealing billions in crypto](https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/)
+  - [Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
   - [Elon Musk is ‘truly a genius,’ says Vladimir Putin](https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/)
   - [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
   - [Fan fiction site Archive of Our Own could be offline for up to 4 weeks](https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/)
@@ -165,6 +171,7 @@
   - [Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis](https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196)
 - The Decoder
   - [Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds](https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/)
+  - [Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours](https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/)
   - [OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up](https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/)
 - The Verge
   - [Apple’s new laptop supports one of the coolest features for color pros](https://www.theverge.com/1022347/apple-macbook-supports-new-cmf)
@@ -178,7 +185,10 @@
   - [Reddit will force everyone to log in](https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings)
   - [Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’](https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic)
   - [Rivian’s R2 is officially its best-selling vehicle](https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software)
+  - [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)
+  - [The Apple Pencil turned the Duo into my new favorite notebook](https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on)
   - [The director of Obsession put a new horror short on YouTube](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear)
+  - [The HomeView and Echo Show 16 could be the family computers I’ve been asking for](https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer)
   - [The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen](https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal)
   - [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
   - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
@@ -249,6 +259,8 @@
   - [What to Know About China’s Top-Secret Spaceplane](https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/)
 - 不安全
   - [[更新] ChatGPT Pro订阅Codex额度将翻倍 从5x/10x/25x翻倍到10x/20x/50x](https://buaq.net/go-451719.html)
+  - [Binance hit by largest-ever crypto theft, with $6.3 billion stolen](https://buaq.net/go-451811.html)
+  - [bla](https://buaq.net/go-451814.html)
   - [WhatPatchguardProtects](https://buaq.net/go-451739.html)
   - [应对AI抓取和造成的访问量暴跌：知名论坛Reddit宣布将强制登录浏览](https://buaq.net/go-451743.html)
   - [金融行业网络安全监测月报(202610)](https://buaq.net/go-451792.html)
@@ -268,6 +280,7 @@
   - [刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了](https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱](https://www.ifanr.com/1686855?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜](https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [汽车工业的下一条流水线，开始由 AI 来安排](https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [2026 TechWorld·上海站成功举办，绿盟科技上海研究院正式落地](https://blog.nsfocus.net/2026-techworld%c2%b7%e4%b8%8a%e6%b5%b7%e7%ab%99%e6%88%90%e5%8a%9f%e4%b8%be%e5%8a%9e%ef%bc%8c%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e4%b8%8a%e6%b5%b7%e7%a0%94%e7%a9%b6%e9%99%a2%e6%ad%a3%e5%bc%8f%e8%90%bd/)
   - [绿盟科技联合电科金仓发布一体化信创方案，打造自主可控、智能高效的安全防护体系](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e8%81%94%e5%90%88%e7%94%b5%e7%a7%91%e9%87%91%e4%bb%93%e5%8f%91%e5%b8%83%e4%b8%80%e4%bd%93%e5%8c%96%e4%bf%a1%e5%88%9b%e6%96%b9%e6%a1%88%ef%bc%8c%e6%89%93%e9%80%a0/)
