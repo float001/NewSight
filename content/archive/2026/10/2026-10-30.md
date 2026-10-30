@@ -4,6 +4,7 @@
   - ["招募行动"潘多拉事件，着实是我完不成的 KPI。](https://2libra.com/post/forum-function/BZiJdHe)
   - [忽冷忽热徽章空降成功，从此你的天气由你做主！](https://2libra.com/post/forum-function/ozwOSoE)
   - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
+  - [有没有家里在客厅放大长书桌或者是升降桌替代茶几的，进来说说有什么坑](https://2libra.com/post/questions/Q_8akiU)
   - [这两天运气不错啊，看来潘多拉还是不能赌下次刷新](https://2libra.com/post/forum-function/40_pP01)
   - [鹬蚌相争啊，防 rea 的项目来了](https://2libra.com/post/open-source-sharing/bh9WVhL)
 - 404 Media
@@ -62,12 +63,14 @@
 - Sploitus.com Exploits RSS Feed
   - [8hw3.github.io exploit](https://sploitus.com/exploit?id=55005F07-EE14-5CCA-92F0-CEB3B3F13C08&utm_source=rss&utm_medium=rss)
   - [CVE-2024-7808 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-THEUNKNOWNSOUL-CVE-2024-7808&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-4611-PoC exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-X6VRN-CVE-2025-4611-POC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2018-17463](https://sploitus.com/exploit?id=AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-112621](https://sploitus.com/exploit?id=E686FF9E-7568-5482-8499-6DCD9EF557F3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-78829](https://sploitus.com/exploit?id=1FAD72BC-AFFB-52E8-B935-E343D769A457&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-92424](https://sploitus.com/exploit?id=58C9C9E0-5B48-5915-B7FA-72D602505548&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=3CA4F814-DA78-54DA-A927-DDE8DD320D25&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=D9CC5DA6-09D1-5687-822D-D9AF1481776C&utm_source=rss&utm_medium=rss)
+  - [Log4Shell-Attack exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PINARALTINOK-LOG4SHELL-ATTACK&utm_source=rss&utm_medium=rss)
   - [pillow-uaf-research exploit](https://sploitus.com/exploit?id=9AB17B96-7757-5D0C-BCCC-8653A3784F0E&utm_source=rss&utm_medium=rss)
   - [qemu-nvme-escape exploit](https://sploitus.com/exploit?id=77D8B172-E6C6-568F-AD6F-23C7AEF4DC80&utm_source=rss&utm_medium=rss)
   - [SQL-e-XSS-em-APIs exploit](https://sploitus.com/exploit?id=4B5CEDBA-EDDD-5963-996E-BDF6DBE646E5&utm_source=rss&utm_medium=rss)
@@ -93,6 +96,7 @@
   - [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
 - The Block
   - [Binance investigating hack as suspicious outflows reach up to $5.8 billion](https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171)
+  - [Bitcoin slides below $77,000, BNB drops amid Binance hack](https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183)
   - [Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised](https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158)
   - [Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends](https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141)
 - The Decoder
@@ -116,6 +120,8 @@
 - Vulners.com RSS Feed
   - [CVE-2026-102260 Nomad vulnerable to cross-namespace information disclosure in multiple endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-102260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107347 Nomad dispatch payload writes can escape the allocation directory through symlinks](https://vulners.com/cvelist/CVELIST:CVE-2026-107347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-74912 GPU DDK - Fix for CVE-2026-49746 prevents the mapping of graphics buffers > 4GB](https://vulners.com/cvelist/CVELIST:CVE-2026-74912?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-74915 GPU DDK - OOB write in UntwiddlePOTSquare64bpp](https://vulners.com/cvelist/CVELIST:CVE-2026-74915?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2018-17463](https://vulners.com/githubexploit/AF07D7B9-0AAF-5F61-BDBC-D03C92FAA490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-112621](https://vulners.com/githubexploit/E686FF9E-7568-5482-8499-6DCD9EF557F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [src-hunting-plus](https://vulners.com/gitee/92FF5419-CEFC-5FA7-8C88-9D2BD1ACF1BC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -128,6 +134,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳](https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了](https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜](https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
