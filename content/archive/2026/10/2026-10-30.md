@@ -2,6 +2,7 @@
 
 - 2Libra
   - ["招募行动"潘多拉事件，着实是我完不成的 KPI。](https://2libra.com/post/forum-function/BZiJdHe)
+  - [【喜提徽章】这个「硅基认可」含金量如何？ 🏅🏅🏅](https://2libra.com/post/forum-function/Y-gqD6O)
   - [【投票·💰】你们在用词选择上会用“offer“，还是其它中文词](https://2libra.com/post/social-observation/AF4ENfp)
   - [【投票】红果短剧 APP 的吸引力调查](https://2libra.com/post/movie-sharing/12ZUs9s)
   - [【💰】一人推荐一首颅内高潮的歌](https://2libra.com/post/music-sharing/HqZhSJe)
@@ -9,10 +10,12 @@
   - [为什么 2 站的网络总是连接不上？](https://2libra.com/post/questions/lP7JNw7)
   - [关于买房](https://2libra.com/post/personal-life/u7p0EWt)
   - [忽冷忽热徽章空降成功，从此你的天气由你做主！](https://2libra.com/post/forum-function/ozwOSoE)
+  - [拿了驾照但是不敢上路，陪驾该怎么找？](https://2libra.com/post/small-things/INPV9Br)
   - [昨晚开玩了影之刃零](https://2libra.com/post/game-discussion/2xDdhv1)
   - [有没有家里在客厅放大长书桌或者是升降桌替代茶几的，进来说说有什么坑](https://2libra.com/post/questions/Q_8akiU)
   - [没怎么用过国外的 AI Agent，TRAE 这个功能对标的是啥？](https://2libra.com/post/ai-tools/m3tnT-U)
   - [这两天运气不错啊，看来潘多拉还是不能赌下次刷新](https://2libra.com/post/forum-function/40_pP01)
+  - [面对傲慢者的呐喊：胡塞武装的生命力 💪💪💪](https://2libra.com/post/social-observation/L_xKbkW)
   - [鹬蚌相争啊，防 rea 的项目来了](https://2libra.com/post/open-source-sharing/bh9WVhL)
 - 404 Media
   - [Massive Fanfic Site Archive of Our Own Says It’s Going Down for 'Up to 4 Weeks'](https://www.404media.co/archive-of-our-own-ao3-down-maintenance/)
@@ -31,6 +34,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps](https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [KuCoin suspends services in Russia and Belarus](https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Live updates: Binance $6.3B hack linked to North Korea’s TraderTraitor](https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2](https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea linked to $6.3B Binance hack by crypto investigators](https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket suspended trading amid reports of user funds being drained](https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +50,7 @@
 - CyberNews
   - [Binance hack: North Korean hackers blamed for $6.3B theft](https://cybernews.com/security/binance-hack-north-korean-hackers-blamed-for-6-3b-theft/)
   - [Columbia University to pay $16.1M to settle cyberattack lawsuit](https://cybernews.com/security/columbia-university-cyberattack-lawsuit-settlement/)
+  - [Finland launches criminal probe into land clearance for Google data centre](https://cybernews.com/tech/finland-launches-criminal-probe-into-land-clearance-for-google-data-centre/)
   - [French privacy watchdog fines FNAC €7M for tracking app users without consent](https://cybernews.com/privacy/french-privacy-watchdog-fines-fnac/)
   - [Google suffers its worst value crash in history amid AI bubble burst fears](https://cybernews.com/news/google-500b-stock-crash/)
   - [UK social media ban could mean more users must prove their age online](https://cybernews.com/tech/uk-social-media-ban-ofcom-report/)
@@ -54,6 +59,7 @@
   - [Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT)
 - darkreading
   - [Anthropic-Themed Phishing Emails Bypass Top Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools)
+  - [As Russia's Cyberwar Evolves, Belarus Steps Forward](https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward)
   - [Claude Model Builds Exploits Across Major Browsers &amp; OSes](https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses)
 - Data Breach
   - [Hacker leaks data on more than 40,000 Homeland Security employees](https://securityaffairs.com/202103/data-breach/hacker-leaks-data-on-more-than-40000-homeland-security-employees.html)
@@ -78,6 +84,8 @@
   - [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
 - InfoSec Write-ups - Medium
   - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
+- PwnDefend
+  - [PHP2Shell activity update](https://www.pwndefend.com/2026/10/30/php2shell-activity-update/)
 - simonwillison.net
   - [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
 - Sploitus.com Exploits RSS Feed
@@ -154,12 +162,15 @@
   - [What to Know About China’s Top-Secret Spaceplane](https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/)
 - 不安全
   - [[更新] ChatGPT Pro订阅Codex额度将翻倍 从5x/10x/25x翻倍到10x/20x/50x](https://buaq.net/go-451719.html)
+  - [WhatPatchguardProtects](https://buaq.net/go-451739.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [币安多达 30 亿美元数字货币被盗](https://www.solidot.org/story?sid=85749)
+  - [海鸟在长途飞行中会经历时差反应](https://www.solidot.org/story?sid=85751)
 - 爱范儿
   - [CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳](https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令](https://www.ifanr.com/1686874?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了](https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱](https://www.ifanr.com/1686855?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜](https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=)
