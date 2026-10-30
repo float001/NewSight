@@ -2,15 +2,25 @@
 
 - 404 Media
   - [Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
+  - [Scientists Analyzed Thousands of Psychedelic Trips. They Found Something Disturbing](https://www.404media.co/fireside-project-psychedelic-support-line-study/)
+- Ars Technica
+  - [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
 - CoinTelegraph
   - [As it happened: Binance’s record $6.3B crypto hack](https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coinbase leads crypto stock selloff following $6.3B Binance hack](https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem](https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Recap: How Binance’s record $6.3B hack unfolded](https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/)
   - [Patrick Stewart Dies at 86](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/)
+  - [The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
   - [A Working Nintendo in ~1GB of Qwen Weights](https://github.com/dbreunig/nesformer)
+  - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
+  - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+  - [US Army practices digging temporary battlefield graves](https://www.armytimes.com/news/your-army/2026/10/26/army-practices-digging-temporary-battlefield-graves/)
   - [US tech stocks see sharp falls over AI cost fears](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo)
 - HackerNoon
   - [Proof of Usefulness Hackathon Final Winners Announced 🎉](https://hackernoon.com/proof-of-usefulness-hackathon-final-winners-announced?source=rss)
@@ -18,12 +28,22 @@
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 1 – Introduction and Concept](https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/)
 - TechCrunch
   - [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)
+  - [Satlyt takes another step toward turning satellites into space data centers](https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/)
   - [Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)
+  - [Zest’s new AI agent finds restaurants and books reservations over text](https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/)
 - The Block
   - [Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist](https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221)
+- The Decoder
+  - [Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web](https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/)
+  - [OpenAI sets new behavioral guidelines for AI models that have already proven hard to control](https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/)
 - The Verge
+  - [Rivian’s autonomy gamble faces its first real test](https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026)
+  - [Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru](https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru)
+  - [The delightfully messy state of Apple gadgets](https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets)
   - [Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts](https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [代理 IP 不等于恶意用户：注册与登录风控中的 IP 情报分层设计](https://www.anquanke.com/post/id/316383)
 - 莿鸟栖草堂
   - [旁观者：支持龙芯，text 模式看完整 HTTP](https://www.cnxct.com/%e6%97%81%e8%a7%82%e8%80%85%ef%bc%9a%e6%94%af%e6%8c%81%e9%be%99%e8%8a%af%ef%bc%8ctext-%e6%a8%a1%e5%bc%8f%e7%9c%8b%e5%ae%8c%e6%95%b4-http/)
