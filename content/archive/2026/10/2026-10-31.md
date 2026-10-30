@@ -31,6 +31,7 @@
 - NVISO Labs
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 1 – Introduction and Concept](https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/)
 - TechCrunch
+  - [AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
   - [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)
   - [Satlyt takes another step toward turning satellites into space data centers](https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/)
   - [Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)
@@ -38,6 +39,7 @@
 - The Block
   - [Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist](https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221)
 - The Decoder
+  - [A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making](https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/)
   - [Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web](https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/)
   - [Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft](https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/)
   - [OpenAI sets new behavioral guidelines for AI models that have already proven hard to control](https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/)
