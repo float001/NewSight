@@ -2,6 +2,7 @@
 
 - 2Libra
   - ["招募行动"潘多拉事件，着实是我完不成的 KPI。](https://2libra.com/post/forum-function/BZiJdHe)
+  - [【反馈】普通账号关注超 99 人后的错误提示优化](https://2libra.com/post/community/4N4xLnQ)
   - [【喜提徽章】这个「硅基认可」含金量如何？ 🏅🏅🏅](https://2libra.com/post/forum-function/Y-gqD6O)
   - [【投票·💰】你们在用词选择上会用“offer“，还是其它中文词](https://2libra.com/post/social-observation/AF4ENfp)
   - [【投票】红果短剧 APP 的吸引力调查](https://2libra.com/post/movie-sharing/12ZUs9s)
@@ -65,6 +66,8 @@
   - [Hacker leaks data on more than 40,000 Homeland Security employees](https://securityaffairs.com/202103/data-breach/hacker-leaks-data-on-more-than-40000-homeland-security-employees.html)
 - defend.network
   - [Linux kernel, PHP, Cisco, GitLab critical flaws under active exploitation](https://defend.network/briefings/linux-php-cisco-gitlab-critical-exploits-2026-10-30.html)
+- Emergent Minds | paddo.dev
+  - [Find Your Buddy: The Billion-Dollar Company Starts With Two People](https://paddo.dev/blog/find-your-buddy/)
 - Hacker News Frontpage
   - [16colo.rs – ANSI/ASCII art archive](https://16colo.rs/)
   - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
@@ -85,6 +88,7 @@
 - InfoSec Write-ups - Medium
   - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - PwnDefend
+  - [Are we getting better at Cyber?](https://www.pwndefend.com/2026/10/30/are-we-getting-better-at-cyber/)
   - [PHP2Shell activity update](https://www.pwndefend.com/2026/10/30/php2shell-activity-update/)
 - simonwillison.net
   - [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
@@ -126,8 +130,10 @@
 - The Block
   - [Binance investigating hack as suspicious outflows reach up to $5.8 billion](https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171)
   - [Bitcoin slides below $77,000, BNB drops amid Binance hack](https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183)
+  - [Coinbase Q3 net income jumps 66% as prediction markets gain traction](https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189)
   - [Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised](https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158)
   - [Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends](https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141)
+  - [Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis](https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196)
 - The Decoder
   - [Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds](https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/)
   - [OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up](https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/)
@@ -145,6 +151,7 @@
   - [The director of Obsession put a new horror short on YouTube](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear)
   - [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
   - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
+  - [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
   - [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)
 - Vulners.com RSS Feed
   - [CVE-2026-102260 Nomad vulnerable to cross-namespace information disclosure in multiple endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-102260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -163,9 +170,12 @@
 - 不安全
   - [[更新] ChatGPT Pro订阅Codex额度将翻倍 从5x/10x/25x翻倍到10x/20x/50x](https://buaq.net/go-451719.html)
   - [WhatPatchguardProtects](https://buaq.net/go-451739.html)
+  - [应对AI抓取和造成的访问量暴跌：知名论坛Reddit宣布将强制登录浏览](https://buaq.net/go-451743.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元](https://www.solidot.org/story?sid=85752)
+  - [Reddit 将强制要求所有用户登录](https://www.solidot.org/story?sid=85753)
   - [币安多达 30 亿美元数字货币被盗](https://www.solidot.org/story?sid=85749)
   - [海鸟在长途飞行中会经历时差反应](https://www.solidot.org/story?sid=85751)
 - 爱范儿
