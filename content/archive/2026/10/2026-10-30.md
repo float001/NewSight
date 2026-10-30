@@ -80,6 +80,7 @@
   - [Nvidia CEO targeted by alleged Chinese spy](https://cybernews.com/ai-news/nvidia-ceo-targeted-chinese-spy/)
   - [Proton users cancel subscriptions following CEO Andy Yen’s “loser thinking” remarks](https://cybernews.com/ai-news/proton-cancel-subscriptions/)
   - [Reddit CEO shares major platform updates in new shareholder letter: Rollout starts outside the US](https://cybernews.com/news/reddit-mandatory-log-in/)
+  - [UFO disclosure rocked as Kelly Chase alleges drugging and deception](https://cybernews.com/news/ufo-disclosure-kelly-chase-allegations/)
   - [UK social media ban could mean more users must prove their age online](https://cybernews.com/tech/uk-social-media-ban-ofcom-report/)
 - daringfireball.net
   - [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/)
@@ -88,6 +89,7 @@
   - [Anthropic-Themed Phishing Emails Bypass Top Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools)
   - [As Russia's Cyberwar Evolves, Belarus Steps Forward](https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward)
   - [Claude Model Builds Exploits Across Major Browsers &amp; OSes](https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses)
+  - [Undead Software Projects Continue to Raise Security Risks](https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks)
 - Data Breach
   - [Hacker leaks data on more than 40,000 Homeland Security employees](https://securityaffairs.com/202103/data-breach/hacker-leaks-data-on-more-than-40000-homeland-security-employees.html)
 - defend.network
@@ -183,6 +185,7 @@
   - [Coinbase Q3 net income jumps 66% as prediction markets gain traction](https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189)
   - [Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised](https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158)
   - [Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends](https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141)
+  - [Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say](https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214)
   - [Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis](https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196)
 - The Decoder
   - [Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds](https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/)
@@ -206,12 +209,18 @@
   - [The director of Obsession put a new horror short on YouTube](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear)
   - [The HomeView and Echo Show 16 could be the family computers I’ve been asking for](https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer)
   - [The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen](https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal)
+  - [This electric screwdriver uses a camera and AI to figure out what bit you need](https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter)
   - [This open-source project lets you sync Withings data to other apps without a subscription](https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free)
   - [Utah charges Kalshi and its CEO with illegally promoting online gambling](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges)
   - [Waymo’s next robotaxi is a purpose-built Toyota bZ4X](https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x)
   - [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
   - [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)
+- Threatninja.net
+  - [Dark Embargo — Technical Analysis of a PHP 8.4 Vulnerability](https://threatninja.net/dark-embargo-technical-analysis-of-a-php-8-4-vulnerability/)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Operationalizing CISA AA26-194A: Automating Cisco Router Security Assessments with Qualys Policy Audit](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
+  - [CVE-2026-100355 Campfire vulnerable to SSRF via incomplete private-network denylist in the link-unfurl guard](https://vulners.com/cvelist/CVELIST:CVE-2026-100355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102260 Nomad vulnerable to cross-namespace information disclosure in multiple endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-102260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107347 Nomad dispatch payload writes can escape the allocation directory through symlinks](https://vulners.com/cvelist/CVELIST:CVE-2026-107347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119186](https://vulners.com/debiancve/DEBIANCVE:CVE-2026-119186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -267,6 +276,7 @@
   - [Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms](https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/)
   - [Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials](https://www.wired.com/story/gifts-for-friends/)
   - [Go Minimal—the Ridge Wallet is 20 Percent Off Right Now](https://www.wired.com/story/ridge-wallet-deal-october-2026/)
+  - [I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job](https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/)
   - [It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme](https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/)
   - [Male Insecurity Over Penis Size Is a Booming Business](https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/)
   - [Mattress Deals: Save Over $600 Before Black Friday 2026](https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/)
@@ -311,5 +321,6 @@
   - [聊聊Realsee Space HDR](https://www.laruence.com/2026/10/30/7736.html)
 - 黑海洋
   - [Bluesky屏蔽指向泄露的DHS员工数据的链接](https://blog.upx8.com/Bluesky%E5%B1%8F%E8%94%BD%E6%8C%87%E5%90%91%E6%B3%84%E9%9C%B2%E7%9A%84DHS%E5%91%98%E5%B7%A5%E6%95%B0%E6%8D%AE%E7%9A%84%E9%93%BE%E6%8E%A5)
+  - [Cursor Claude Code VS Code 扩展被植入后门](https://blog.upx8.com/Cursor-Claude-Code-VS-Code-%E6%89%A9%E5%B1%95%E8%A2%AB%E6%A4%8D%E5%85%A5%E5%90%8E%E9%97%A8)
   - [封缄笔记：写完，封起来，只寄给一个人](https://blog.upx8.com/10906)
   - [赵长鹏称币安可能遭遇史上最大规模加密货币盗窃案](https://blog.upx8.com/%E8%B5%B5%E9%95%BF%E9%B9%8F%E7%A7%B0%E5%B8%81%E5%AE%89%E5%8F%AF%E8%83%BD%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9B%97%E7%AA%83%E6%A1%88)
