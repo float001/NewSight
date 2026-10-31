@@ -90,6 +90,7 @@
   - [A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making](https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/)
   - [Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web](https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/)
   - [Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft](https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/)
+  - [OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite](https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/)
   - [OpenAI sets new behavioral guidelines for AI models that have already proven hard to control](https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/)
 - The Verge
   - [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)
@@ -191,8 +192,10 @@
   - [LLM-VulnMining](https://vulners.com/gitee/380190EF-6B1F-58F7-87BA-64B8F4CEC276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)
+  - [Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out](https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/)
   - [Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)](https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/)
   - [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)
+  - [Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee](https://www.wired.com/review/keurig-alta-brewer/)
   - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
 - 不安全
   - [Apple 智能 11 月 4 日登陆中国，iPhone 15 Pro 起可用，部分功能接入千问，新版 Siri AI 缺席](https://buaq.net/go-451938.html)
@@ -218,4 +221,5 @@
 - 莿鸟栖草堂
   - [旁观者：支持龙芯，text 模式看完整 HTTP](https://www.cnxct.com/%e6%97%81%e8%a7%82%e8%80%85%ef%bc%9a%e6%94%af%e6%8c%81%e9%be%99%e8%8a%af%ef%bc%8ctext-%e6%a8%a1%e5%bc%8f%e7%9c%8b%e5%ae%8c%e6%95%b4-http/)
 - 黑海洋
+  - [RSSHub 公共实例整理与自建教程](https://blog.upx8.com/RSSHub)
   - [workbuddy一键完成所有任务（多账户）](https://blog.upx8.com/workbuddy)
