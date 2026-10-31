@@ -6,6 +6,7 @@
   - [借不戒不烟什么的，只是还没有威胁到性命](https://2libra.com/post/small-things/vMMS_K9)
   - [心力憔悴，家人生病住院，而我只能继续上班挣钱，因为家里只有我一个人挣钱，请问这种情况下我该如何做呢](https://2libra.com/post/midlife-support-club/412v2AU)
   - [潘多拉的有效期不都是 24 小时吗](https://2libra.com/post/community/GOUjJgh)
+  - [特么的，还是来 2 站让人心情愉悦](https://2libra.com/post/social-observation/pNo_yHa)
 - 404 Media
   - [Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
   - [Scientists Analyzed Thousands of Psychedelic Trips. They Found Something Disturbing](https://www.404media.co/fireside-project-psychedelic-support-line-study/)
@@ -59,6 +60,7 @@
 - NVISO Labs
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 1 – Introduction and Concept](https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=AFEB1B02-16FD-5B8A-B5D6-CC80BCAC9773&utm_source=rss&utm_medium=rss)
   - [LLM-VulnMining exploit](https://sploitus.com/exploit?id=380190EF-6B1F-58F7-87BA-64B8F4CEC276&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
@@ -165,6 +167,7 @@
   - [CVE-2026-78403](https://vulners.com/nvd/NVD:CVE-2026-78403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95673](https://vulners.com/nvd/NVD:CVE-2026-95673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-92744](https://vulners.com/githubexploit/CA816CA3-2780-5898-8B44-7B2FD4C940EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/AFEB1B02-16FD-5B8A-B5D6-CC80BCAC9773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [LLM-VulnMining](https://vulners.com/gitee/380190EF-6B1F-58F7-87BA-64B8F4CEC276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)
@@ -181,6 +184,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [DuckDB vs Polars](https://dyrnq.com/duckdb-vs-polars/)
+  - [Solstice](https://dyrnq.com/solstice/)
 - 安全客
   - [【开放申请】企业可自查PHP2Shell漏洞了！](https://www.anquanke.com/post/id/316392)
   - [代理 IP 不等于恶意用户：注册与登录风控中的 IP 情报分层设计](https://www.anquanke.com/post/id/316383)
