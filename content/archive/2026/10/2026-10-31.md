@@ -26,6 +26,7 @@
   - [Chainalysis Security Incident Information](https://www.chainalysis.com/blog/security-incident-october-30/)
 - CoinTelegraph
   - [As it happened: Binance’s record $6.3B crypto hack](https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin turns 18: Has the original rebel grown up?](https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Blockchain investigator Chainalysis hit by cybersecurity incident](https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase leads crypto stock selloff following $6.3B Binance hack](https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem](https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -110,6 +111,7 @@
   - [OpenAI sets new behavioral guidelines for AI models that have already proven hard to control](https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/)
 - The Verge
   - [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)
+  - [Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders](https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale)
   - [Exclusive details about Akai’s MPC Sample Key](https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive)
   - [Google&#8217;s satellite AI server transmits its first response to Earth](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission)
   - [Here’s why you can&#8217;t shake those unhinged political texts](https://www.theverge.com/policy/1023899/political-texts-midterm-elections)
@@ -119,7 +121,10 @@
   - [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)
   - [The delightfully messy state of Apple gadgets](https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets)
   - [Touchscreens everywhere!](https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer)
+  - [Vic Mensa can’t live without the Voice Memos app](https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview)
   - [Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts](https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale)
+- Threatninja.net
+  - [Hack The Box:MakeSense Machine Walkthrough Medium Difficulity](https://threatninja.net/hack-the-boxmakesense-machine-walkthrough-medium-difficulity/)
 - Vulners.com RSS Feed
   - [CVE-2025-11455](https://vulners.com/nvd/NVD:CVE-2025-11455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-9462](https://vulners.com/nvd/NVD:CVE-2025-9462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -234,6 +239,7 @@
 - 不安全
   - [Apple 智能 11 月 4 日登陆中国，iPhone 15 Pro 起可用，部分功能接入千问，新版 Siri AI 缺席](https://buaq.net/go-451938.html)
   - [Calling fellow devs and IT professionals!](https://buaq.net/go-451967.html)
+  - [Cloud Exposure Index 2026: 484,142 open buckets mapped](https://buaq.net/go-452006.html)
   - [Malware Analysis - Decompiling JavaScript .jsc](https://buaq.net/go-451959.html)
   - [SimpleSvm AMD-V hypervisor — stability audit: 19 fixes applied (6 BSODs, 3 leaks, 2 correctness bugs, 2 dead-code blocks, 6 barriers, 4 optimizations)](https://buaq.net/go-451863.html)
   - [thingsboard v4.4.0.2](https://buaq.net/go-451957.html)
