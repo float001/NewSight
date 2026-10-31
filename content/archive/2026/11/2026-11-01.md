@@ -15,6 +15,8 @@
   - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
 - HackerNoon
   - [The AI-Bubble Scorecard](https://hackernoon.com/the-ai-bubble-scorecard?source=rss)
+- Sploitus.com Exploits RSS Feed
+  - [网站WAF exploit](https://sploitus.com/exploit?id=10758DB7-00A8-5CE4-A4EC-77C1BA3273F5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
   - [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
@@ -41,5 +43,7 @@
   - [CVE-2026-120208](https://vulners.com/nvd/NVD:CVE-2026-120208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120209](https://vulners.com/nvd/NVD:CVE-2026-120209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120210](https://vulners.com/nvd/NVD:CVE-2026-120210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ti-a-ti-cveexploitchecker](https://vulners.com/githubexploit/7A33A9DA-783A-5F8D-BF5F-8CEEF47DB146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [网站WAF](https://vulners.com/gitee/10758DB7-00A8-5CE4-A4EC-77C1BA3273F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
