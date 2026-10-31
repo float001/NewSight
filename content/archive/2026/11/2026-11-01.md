@@ -4,6 +4,7 @@
   - [The Role of Anomaly Detection in XDR: Enhancing Threat Visibility and Response](https://fidelissecurity.com/threatgeek/xdr-security/detecting-anomalies-using-xdr-platform/)
 - Hacker News Frontpage
   - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
+  - [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)
   - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
   - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
   - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
