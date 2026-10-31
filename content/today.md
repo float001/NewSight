@@ -9,6 +9,7 @@
   - [心力憔悴，家人生病住院，而我只能继续上班挣钱，因为家里只有我一个人挣钱，请问这种情况下我该如何做呢](https://2libra.com/post/midlife-support-club/412v2AU)
   - [潘多拉的有效期不都是 24 小时吗](https://2libra.com/post/community/GOUjJgh)
   - [特么的，还是来 2 站让人心情愉悦](https://2libra.com/post/social-observation/pNo_yHa)
+  - [百鬼图鉴](https://2libra.com/post/personal-works/kie-5_A)
 - 404 Media
   - [Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
   - [Scientists Analyzed Thousands of Psychedelic Trips. They Found Something Disturbing](https://www.404media.co/fireside-project-psychedelic-support-line-study/)
@@ -36,6 +37,8 @@
   - [Devs Hit by Trojanized Claude Code Extension for Cursor](https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor)
 - Didier Stevens
   - [Quickpost: Ghost USB-C](https://blog.didierstevens.com/2026/10/31/quickpost-ghost-usb-c/)
+- Emergent Minds | paddo.dev
+  - [Amazon Admits Its AI Metrics Were Flawed. It Kept Them Anyway.](https://paddo.dev/blog/amazon-metrics-were-flawed/)
 - filfre.net
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
@@ -99,7 +102,17 @@
   - [The delightfully messy state of Apple gadgets](https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets)
   - [Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts](https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale)
 - Vulners.com RSS Feed
+  - [CVE-2025-11455](https://vulners.com/nvd/NVD:CVE-2025-11455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-9462](https://vulners.com/nvd/NVD:CVE-2025-9462?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103898](https://vulners.com/nvd/NVD:CVE-2026-103898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103962](https://vulners.com/nvd/NVD:CVE-2026-103962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103997](https://vulners.com/nvd/NVD:CVE-2026-103997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-104012](https://vulners.com/nvd/NVD:CVE-2026-104012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107759](https://vulners.com/nvd/NVD:CVE-2026-107759?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110023](https://vulners.com/nvd/NVD:CVE-2026-110023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111070](https://vulners.com/nvd/NVD:CVE-2026-111070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111578](https://vulners.com/nvd/NVD:CVE-2026-111578?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111592](https://vulners.com/nvd/NVD:CVE-2026-111592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115828](https://vulners.com/nvd/NVD:CVE-2026-115828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115829](https://vulners.com/nvd/NVD:CVE-2026-115829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115830](https://vulners.com/nvd/NVD:CVE-2026-115830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -118,8 +131,12 @@
   - [CVE-2026-116250](https://vulners.com/nvd/NVD:CVE-2026-116250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116251](https://vulners.com/nvd/NVD:CVE-2026-116251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116252](https://vulners.com/nvd/NVD:CVE-2026-116252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116512](https://vulners.com/nvd/NVD:CVE-2026-116512?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116535](https://vulners.com/nvd/NVD:CVE-2026-116535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116755](https://vulners.com/nvd/NVD:CVE-2026-116755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118057](https://vulners.com/nvd/NVD:CVE-2026-118057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118938](https://vulners.com/nvd/NVD:CVE-2026-118938?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119096](https://vulners.com/nvd/NVD:CVE-2026-119096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119328](https://vulners.com/nvd/NVD:CVE-2026-119328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119329](https://vulners.com/nvd/NVD:CVE-2026-119329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119330](https://vulners.com/nvd/NVD:CVE-2026-119330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -132,6 +149,7 @@
   - [CVE-2026-119337](https://vulners.com/nvd/NVD:CVE-2026-119337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119337 RAGFlow: OpenAI-compatible agent completion bypasses private canvas authorization](https://vulners.com/cvelist/CVELIST:CVE-2026-119337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119730](https://vulners.com/nvd/NVD:CVE-2026-119730?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120070](https://vulners.com/nvd/NVD:CVE-2026-120070?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16760](https://vulners.com/nvd/NVD:CVE-2026-16760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55098](https://vulners.com/nvd/NVD:CVE-2026-55098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55098 Arc: DuckDB I/O aliases bypass database RBAC after CVE-2026-47735](https://vulners.com/cvelist/CVELIST:CVE-2026-55098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -178,6 +196,8 @@
   - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
 - 不安全
   - [Apple 智能 11 月 4 日登陆中国，iPhone 15 Pro 起可用，部分功能接入千问，新版 Siri AI 缺席](https://buaq.net/go-451938.html)
+  - [Calling fellow devs and IT professionals!](https://buaq.net/go-451967.html)
+  - [Malware Analysis - Decompiling JavaScript .jsc](https://buaq.net/go-451959.html)
   - [SimpleSvm AMD-V hypervisor — stability audit: 19 fixes applied (6 BSODs, 3 leaks, 2 correctness bugs, 2 dead-code blocks, 6 barriers, 4 optimizations)](https://buaq.net/go-451863.html)
   - [thingsboard v4.4.0.2](https://buaq.net/go-451957.html)
   - [Vanadium v156.0.8078.79.0](https://buaq.net/go-451936.html)
@@ -197,3 +217,5 @@
   - [早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」](https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 莿鸟栖草堂
   - [旁观者：支持龙芯，text 模式看完整 HTTP](https://www.cnxct.com/%e6%97%81%e8%a7%82%e8%80%85%ef%bc%9a%e6%94%af%e6%8c%81%e9%be%99%e8%8a%af%ef%bc%8ctext-%e6%a8%a1%e5%bc%8f%e7%9c%8b%e5%ae%8c%e6%95%b4-http/)
+- 黑海洋
+  - [workbuddy一键完成所有任务（多账户）](https://blog.upx8.com/workbuddy)
