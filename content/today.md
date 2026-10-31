@@ -6,15 +6,19 @@
   - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
   - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
   - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
+  - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+  - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
   - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
 - HackerNoon
   - [The AI-Bubble Scorecard](https://hackernoon.com/the-ai-bubble-scorecard?source=rss)
 - TechCrunch
   - [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
 - The Decoder
+  - [Anthropic's watermark rollout leaves a loophole on two older Claude models](https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/)
   - [OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits](https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/)
 - The Verge
   - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
+  - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
 - Vulners.com RSS Feed
   - [CVE-2026-102212](https://vulners.com/nvd/NVD:CVE-2026-102212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120199](https://vulners.com/nvd/NVD:CVE-2026-120199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
