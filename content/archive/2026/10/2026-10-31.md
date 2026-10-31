@@ -62,6 +62,7 @@
   - [Google’s first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)
   - [Intel’s stock crashes, knocking $12B from government’s stake](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/)
   - [Last-minute Halloween costumes for tech nerds](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/)
+  - [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/)
   - [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/)
   - [Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune](https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/)
   - [Satlyt takes another step toward turning satellites into space data centers](https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/)
@@ -169,6 +170,7 @@
   - [代理 IP 不等于恶意用户：注册与登录风控中的 IP 情报分层设计](https://www.anquanke.com/post/id/316383)
 - 爱范儿
   - [iPhone 国行 AI 真的来了，千问成为 Siri 新搭档](https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等](https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」](https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 莿鸟栖草堂
   - [旁观者：支持龙芯，text 模式看完整 HTTP](https://www.cnxct.com/%e6%97%81%e8%a7%82%e8%80%85%ef%bc%9a%e6%94%af%e6%8c%81%e9%be%99%e8%8a%af%ef%bc%8ctext-%e6%a8%a1%e5%bc%8f%e7%9c%8b%e5%ae%8c%e6%95%b4-http/)
