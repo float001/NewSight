@@ -2,6 +2,8 @@
 
 - 2Libra
   - [【💰】本来想自己做个小 app 练习一下，结果](https://2libra.com/post/tech-rumination/ibir5yn)
+  - [万恶的大小周](https://2libra.com/post/workplace-stories/G-17jLt)
+  - [借不戒不烟什么的，只是还没有威胁到性命](https://2libra.com/post/small-things/vMMS_K9)
   - [心力憔悴，家人生病住院，而我只能继续上班挣钱，因为家里只有我一个人挣钱，请问这种情况下我该如何做呢](https://2libra.com/post/midlife-support-club/412v2AU)
 - 404 Media
   - [Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
@@ -55,6 +57,8 @@
   - [Certificate Pinning for Mobile Apps: Lessons from the eMudhra CA Incident](https://www.nowsecure.com/blog/2026/10/30/certificate-pinning-for-mobile-apps-lessons-from-the-emudhra-ca-incident/)
 - NVISO Labs
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 1 – Introduction and Concept](https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/)
+- Sploitus.com Exploits RSS Feed
+  - [LLM-VulnMining exploit](https://sploitus.com/exploit?id=380190EF-6B1F-58F7-87BA-64B8F4CEC276&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)
   - [Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
@@ -159,12 +163,14 @@
   - [CVE-2026-78403](https://vulners.com/nvd/NVD:CVE-2026-78403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95673](https://vulners.com/nvd/NVD:CVE-2026-95673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-92744](https://vulners.com/githubexploit/CA816CA3-2780-5898-8B44-7B2FD4C940EB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [LLM-VulnMining](https://vulners.com/gitee/380190EF-6B1F-58F7-87BA-64B8F4CEC276?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)
   - [Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)](https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/)
   - [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)
 - 不安全
   - [SimpleSvm AMD-V hypervisor — stability audit: 19 fixes applied (6 BSODs, 3 leaks, 2 correctness bugs, 2 dead-code blocks, 6 barriers, 4 optimizations)](https://buaq.net/go-451863.html)
+  - [Vanadium v156.0.8078.79.0](https://buaq.net/go-451936.html)
   - [weblogchecker](https://buaq.net/go-451927.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
