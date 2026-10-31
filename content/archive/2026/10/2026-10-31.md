@@ -30,6 +30,8 @@
   - [Coinbase leads crypto stock selloff following $6.3B Binance hack](https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem](https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Recap: How Binance’s record $6.3B hack unfolded](https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- construction-physics.com
+  - [Reading List 10/31/26](https://www.construction-physics.com/p/reading-list-103126)
 - daringfireball.net
   - [GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/)
   - [Patrick Stewart Dies at 86](https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/)
@@ -70,6 +72,8 @@
   - [Certificate Pinning for Mobile Apps: Lessons from the eMudhra CA Incident](https://www.nowsecure.com/blog/2026/10/30/certificate-pinning-for-mobile-apps-lessons-from-the-emudhra-ca-incident/)
 - NVISO Labs
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 1 – Introduction and Concept](https://blog.nviso.eu/2026/10/30/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-1-introduction-and-concept/)
+- shkspr.mobi
+  - [Gig Review: The Witcher in Concert ★★★★☆](https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=AFEB1B02-16FD-5B8A-B5D6-CC80BCAC9773&utm_source=rss&utm_medium=rss)
   - [LLM-VulnMining exploit](https://sploitus.com/exploit?id=380190EF-6B1F-58F7-87BA-64B8F4CEC276&utm_source=rss&utm_medium=rss)
@@ -172,6 +176,7 @@
   - [CVE-2026-120114](https://vulners.com/nvd/NVD:CVE-2026-120114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120194](https://vulners.com/nvd/NVD:CVE-2026-120194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120194 Json-glib: json-glib: infinite loop in json_path_query() with negative jsonpath slice step](https://vulners.com/cvelist/CVELIST:CVE-2026-120194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15272](https://vulners.com/nvd/NVD:CVE-2026-15272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16760](https://vulners.com/nvd/NVD:CVE-2026-16760?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55098](https://vulners.com/nvd/NVD:CVE-2026-55098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-55098 Arc: DuckDB I/O aliases bypass database RBAC after CVE-2026-47735](https://vulners.com/cvelist/CVELIST:CVE-2026-55098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -236,6 +241,8 @@
 - 博客
   - [DuckDB vs Polars](https://dyrnq.com/duckdb-vs-polars/)
   - [Solstice](https://dyrnq.com/solstice/)
+- 奇客Solidot–传递最新科技情报
+  - [黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币](https://www.solidot.org/story?sid=85761)
 - 安全客
   - [【开放申请】企业可自查PHP2Shell漏洞了！](https://www.anquanke.com/post/id/316392)
   - [代理 IP 不等于恶意用户：注册与登录风控中的 IP 情报分层设计](https://www.anquanke.com/post/id/316383)
