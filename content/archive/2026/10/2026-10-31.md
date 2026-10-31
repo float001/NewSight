@@ -5,6 +5,7 @@
   - [万恶的大小周](https://2libra.com/post/workplace-stories/G-17jLt)
   - [借不戒不烟什么的，只是还没有威胁到性命](https://2libra.com/post/small-things/vMMS_K9)
   - [心力憔悴，家人生病住院，而我只能继续上班挣钱，因为家里只有我一个人挣钱，请问这种情况下我该如何做呢](https://2libra.com/post/midlife-support-club/412v2AU)
+  - [潘多拉的有效期不都是 24 小时吗](https://2libra.com/post/community/GOUjJgh)
 - 404 Media
   - [Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
   - [Scientists Analyzed Thousands of Psychedelic Trips. They Found Something Disturbing](https://www.404media.co/fireside-project-psychedelic-support-line-study/)
