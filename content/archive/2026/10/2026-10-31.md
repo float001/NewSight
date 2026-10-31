@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】本来想自己做个小 app 练习一下，结果](https://2libra.com/post/tech-rumination/ibir5yn)
+  - [心力憔悴，家人生病住院，而我只能继续上班挣钱，因为家里只有我一个人挣钱，请问这种情况下我该如何做呢](https://2libra.com/post/midlife-support-club/412v2AU)
 - 404 Media
   - [Proton’s CEO Cancels AI ‘Re-Interviews’](https://www.404media.co/protons-ceo-cancels-ai-re-interviews/)
   - [Scientists Analyzed Thousands of Psychedelic Trips. They Found Something Disturbing](https://www.404media.co/fireside-project-psychedelic-support-line-study/)
@@ -107,6 +108,7 @@
   - [CVE-2026-116250](https://vulners.com/nvd/NVD:CVE-2026-116250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116251](https://vulners.com/nvd/NVD:CVE-2026-116251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116252](https://vulners.com/nvd/NVD:CVE-2026-116252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116755](https://vulners.com/nvd/NVD:CVE-2026-116755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118938](https://vulners.com/nvd/NVD:CVE-2026-118938?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119328](https://vulners.com/nvd/NVD:CVE-2026-119328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119329](https://vulners.com/nvd/NVD:CVE-2026-119329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -163,6 +165,7 @@
   - [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/)
 - 不安全
   - [SimpleSvm AMD-V hypervisor — stability audit: 19 fixes applied (6 BSODs, 3 leaks, 2 correctness bugs, 2 dead-code blocks, 6 barriers, 4 optimizations)](https://buaq.net/go-451863.html)
+  - [weblogchecker](https://buaq.net/go-451927.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
