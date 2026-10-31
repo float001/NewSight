@@ -1,8 +1,11 @@
 # 今日安全资讯（2026-11-01）
 
+- Fidelis Security
+  - [The Role of Anomaly Detection in XDR: Enhancing Threat Visibility and Response](https://fidelissecurity.com/threatgeek/xdr-security/detecting-anomalies-using-xdr-platform/)
 - Hacker News Frontpage
   - [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
   - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
+  - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
   - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
 - HackerNoon
   - [The AI-Bubble Scorecard](https://hackernoon.com/the-ai-bubble-scorecard?source=rss)
@@ -14,5 +17,17 @@
   - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
 - Vulners.com RSS Feed
   - [CVE-2026-102212](https://vulners.com/nvd/NVD:CVE-2026-102212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120199](https://vulners.com/nvd/NVD:CVE-2026-120199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120200](https://vulners.com/nvd/NVD:CVE-2026-120200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120201](https://vulners.com/nvd/NVD:CVE-2026-120201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120202](https://vulners.com/nvd/NVD:CVE-2026-120202?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120203](https://vulners.com/nvd/NVD:CVE-2026-120203?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120204](https://vulners.com/nvd/NVD:CVE-2026-120204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120205](https://vulners.com/nvd/NVD:CVE-2026-120205?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120206](https://vulners.com/nvd/NVD:CVE-2026-120206?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120207](https://vulners.com/nvd/NVD:CVE-2026-120207?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120208](https://vulners.com/nvd/NVD:CVE-2026-120208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120209](https://vulners.com/nvd/NVD:CVE-2026-120209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120210](https://vulners.com/nvd/NVD:CVE-2026-120210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
