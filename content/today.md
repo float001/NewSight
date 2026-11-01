@@ -1,4 +1,17 @@
 # 今日安全资讯（2026-11-02）
 
+- 2Libra
+  - [戒掉所有短视频第四天](https://2libra.com/post/personal-life/i8oLNjw)
+- Hacker News Frontpage
+  - [Alleged Mythos Class Anthropic Checkpoint Leak](https://huggingface.co/burner22/numbat)
+  - [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)
+- simonwillison.net
+  - [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/)
+- TechCrunch
+  - [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
+- The Block
+  - [Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259)
+- The Verge
+  - [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
