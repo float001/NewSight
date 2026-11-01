@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-01）
 
 - 2Libra
+  - [我做了一个赛博乞讨网站](https://2libra.com/post/personal-works/h-5bDqT)
   - [连签 365 天，获得“全勤”徽章](https://2libra.com/post/personal-life/GXyVQQO)
 - Didier Stevens
   - [Overview of Content Published in October](https://blog.didierstevens.com/2026/11/01/overview-of-content-published-in-october-12/)
@@ -24,6 +25,8 @@
   - [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Deserialization of Untrusted Data in Rockwellautomation Factorytalk_Assetcentre](https://sploitus.com/exploit?id=FB432986-F934-5576-B3E7-8CE48A411A95&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Php](https://sploitus.com/exploit?id=BE96A21D-9A13-5BE4-9A01-AB7AFAC89EB3&utm_source=rss&utm_medium=rss)
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
   - [网站WAF exploit](https://sploitus.com/exploit?id=10758DB7-00A8-5CE4-A4EC-77C1BA3273F5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
@@ -59,4 +62,6 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
+  - [Clearcam：不换摄像头，给现有 RTSP 监控加上本地 AI](https://blog.upx8.com/Clearcam-RTSP-AI)
+  - [免费版 WAF 规则不够用？Worker 自动拉黑扫描 IP 方案](https://blog.upx8.com/WAF-Worker-IP)
   - [币安：已补回90%被盗资产 计划周日恢复提现](https://blog.upx8.com/%E5%B8%81%E5%AE%89-%E5%B7%B2%E8%A1%A5%E5%9B%9E90-%E8%A2%AB%E7%9B%97%E8%B5%84%E4%BA%A7-%E8%AE%A1%E5%88%92%E5%91%A8%E6%97%A5%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0)
