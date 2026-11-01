@@ -17,5 +17,6 @@
 - The Verge
   - [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
   - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
+  - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
