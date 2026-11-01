@@ -2,6 +2,8 @@
 
 - 2Libra
   - [连签 365 天，获得“全勤”徽章](https://2libra.com/post/personal-life/GXyVQQO)
+- Didier Stevens
+  - [Overview of Content Published in October](https://blog.didierstevens.com/2026/11/01/overview-of-content-published-in-october-12/)
 - Fidelis Security
   - [The Role of Anomaly Detection in XDR: Enhancing Threat Visibility and Response](https://fidelissecurity.com/threatgeek/xdr-security/detecting-anomalies-using-xdr-platform/)
 - Hacker News Frontpage
@@ -13,8 +15,13 @@
   - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
   - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
   - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
+  - [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
 - HackerNoon
   - [The AI-Bubble Scorecard](https://hackernoon.com/the-ai-bubble-scorecard?source=rss)
+- seangoedecke.com
+  - [Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/)
+- simonwillison.net
+  - [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
 - Sploitus.com Exploits RSS Feed
   - [网站WAF exploit](https://sploitus.com/exploit?id=10758DB7-00A8-5CE4-A4EC-77C1BA3273F5&utm_source=rss&utm_medium=rss)
 - TechCrunch
