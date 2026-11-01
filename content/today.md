@@ -71,8 +71,10 @@
   - [ti-a-ti-cveexploitchecker](https://vulners.com/githubexploit/7A33A9DA-783A-5F8D-BF5F-8CEEF47DB146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [网站WAF](https://vulners.com/gitee/10758DB7-00A8-5CE4-A4EC-77C1BA3273F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating](https://www.wired.com/story/the-best-travel-mugs/)
   - [A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look](https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/)
   - [Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch](https://www.wired.com/story/best-chromebooks/)
+  - [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
 - 不安全
   - [Adult bots viewing my IG story, or someone paying to survailence and collect my posts?](https://buaq.net/go-452092.html)
   - [OneNote File Extraction, (Sun, Nov 1st)](https://buaq.net/go-452090.html)
