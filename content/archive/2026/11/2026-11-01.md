@@ -28,6 +28,7 @@
 - TechCrunch
   - [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
   - [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
+  - [Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)
   - [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
   - [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
 - The Decoder
@@ -40,6 +41,7 @@
 - Vulners.com RSS Feed
   - [CVE-2026-102212](https://vulners.com/nvd/NVD:CVE-2026-102212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115946](https://vulners.com/nvd/NVD:CVE-2026-115946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120192](https://vulners.com/nvd/NVD:CVE-2026-120192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120199](https://vulners.com/nvd/NVD:CVE-2026-120199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120200](https://vulners.com/nvd/NVD:CVE-2026-120200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120201](https://vulners.com/nvd/NVD:CVE-2026-120201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
