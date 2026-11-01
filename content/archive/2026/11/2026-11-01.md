@@ -7,6 +7,7 @@
   - [有哪些东西是花小钱办大事？](https://2libra.com/post/worth-buying/4aaFYk5)
   - [连签 365 天，获得“全勤”徽章](https://2libra.com/post/personal-life/GXyVQQO)
 - CoinTelegraph
+  - [Binance says phase one of withdrawals opens after $6.3B hack](https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FBI blames North Korea for record $6.3B Binance hack](https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - defend.network
   - [Ivanti Connect Secure chained RCE under active exploitation; Chainalysis breached](https://defend.network/briefings/ivanti-connect-secure-chainalysis-breach-ddos-surge-2026-11-01.html)
@@ -44,6 +45,7 @@
 - The Decoder
   - [Anthropic's watermark rollout leaves a loophole on two older Claude models](https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/)
   - [OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits](https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/)
+  - [OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing](https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/)
 - The Verge
   - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
   - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
@@ -68,6 +70,12 @@
   - [CVE-2026-120210](https://vulners.com/nvd/NVD:CVE-2026-120210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ti-a-ti-cveexploitchecker](https://vulners.com/githubexploit/7A33A9DA-783A-5F8D-BF5F-8CEEF47DB146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [网站WAF](https://vulners.com/gitee/10758DB7-00A8-5CE4-A4EC-77C1BA3273F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look](https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/)
+  - [Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch](https://www.wired.com/story/best-chromebooks/)
+- 不安全
+  - [Adult bots viewing my IG story, or someone paying to survailence and collect my posts?](https://buaq.net/go-452092.html)
+  - [OneNote File Extraction, (Sun, Nov 1st)](https://buaq.net/go-452090.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 黑海洋
