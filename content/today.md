@@ -1,8 +1,12 @@
 # 今日安全资讯（2026-11-01）
 
 - 2Libra
+  - [太疯狂，说句实话，AI 照现在这样进度发展下去，人类不出 2 个月，就即将步入 2027 年！](https://2libra.com/post/ai-trends/gfK7LS2)
   - [我做了一个赛博乞讨网站](https://2libra.com/post/personal-works/h-5bDqT)
+  - [有哪些东西是花小钱办大事？](https://2libra.com/post/worth-buying/4aaFYk5)
   - [连签 365 天，获得“全勤”徽章](https://2libra.com/post/personal-life/GXyVQQO)
+- CoinTelegraph
+  - [FBI blames North Korea for record $6.3B Binance hack](https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - defend.network
   - [Ivanti Connect Secure chained RCE under active exploitation; Chainalysis breached](https://defend.network/briefings/ivanti-connect-secure-chainalysis-breach-ddos-surge-2026-11-01.html)
 - Didier Stevens
@@ -43,6 +47,8 @@
   - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
   - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
   - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
+- troyhunt.com
+  - [Weekly Update 528: Reading AI-generated Code & the Economics of Solar](https://www.troyhunt.com/weekly-update-528/)
 - Vulners.com RSS Feed
   - [CVE-2026-102212](https://vulners.com/nvd/NVD:CVE-2026-102212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115946](https://vulners.com/nvd/NVD:CVE-2026-115946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
