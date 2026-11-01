@@ -4,6 +4,7 @@
   - [戒掉所有短视频第四天](https://2libra.com/post/personal-life/i8oLNjw)
 - Hacker News Frontpage
   - [Alleged Mythos Class Anthropic Checkpoint Leak](https://huggingface.co/burner22/numbat)
+  - [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
   - [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)
 - simonwillison.net
   - [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/)
@@ -13,5 +14,6 @@
   - [Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259)
 - The Verge
   - [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
+  - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
