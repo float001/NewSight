@@ -6,8 +6,10 @@
   - [我做了一个赛博乞讨网站](https://2libra.com/post/personal-works/h-5bDqT)
   - [有哪些东西是花小钱办大事？](https://2libra.com/post/worth-buying/4aaFYk5)
   - [连签 365 天，获得“全勤”徽章](https://2libra.com/post/personal-life/GXyVQQO)
+  - [🏆 本周 2Libra 龙虎榜 2026-10-26 ~ 2026-11-01](https://2libra.com/post/forum-function/7-FFhyx)
 - CoinTelegraph
   - [Binance says phase one of withdrawals opens after $6.3B hack](https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [DeepSeek developing AI agent requiring less human input: Report](https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FBI blames North Korea for record $6.3B Binance hack](https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - defend.network
   - [Ivanti Connect Secure chained RCE under active exploitation; Chainalysis breached](https://defend.network/briefings/ivanti-connect-secure-chainalysis-breach-ddos-surge-2026-11-01.html)
@@ -23,7 +25,9 @@
   - [Common Desktop Environment available now as open-source](https://sourceforge.net/projects/cdesktopenv/)
   - [Enlightenment 0.28 Released with Many Improvements](https://www.phoronix.com/news/Enlightenment-0.28)
   - [I post trained a model on Demoscenes](https://datavorous.com/writing/demoscener/)
+  - [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)
   - [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+  - [The "Moon Trees"](https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html)
   - [The Duty of a Scholar](https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html)
   - [What is a light-day? The milestone Voyager 1 is closing in on](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/)
   - [When Electric Cars Were for Women](https://spectrum.ieee.org/early-electric-vehicles)
@@ -74,6 +78,7 @@
   - [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
   - [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
   - [Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)
+  - [Here’s what ‘renoa’ — the first new fiber in 25 years — feels like](https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/)
   - [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
   - [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
 - The Decoder
@@ -85,6 +90,7 @@
 - The Verge
   - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
   - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
+  - [HomePod Mini 2 first look: Three things I love and one disappointment](https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker)
   - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
   - [New Zelda and GTA represent a games industry that no longer exists](https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists)
   - [Prop 45 in California could be hiding a loophole for data centers](https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy)
@@ -124,9 +130,14 @@
   - [OneNote File Extraction, (Sun, Nov 1st)](https://buaq.net/go-452090.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [NCT6797](https://dyrnq.com/nct6797/)
 - 奇客Solidot–传递最新科技情报
   - [NASA 征询拯救哈勃望远镜的方案](https://www.solidot.org/story?sid=85765)
   - [数据中心抵消了过去 15 年美国的减排努力](https://www.solidot.org/story?sid=85766)
+- 量子位 QbitAI
+  - [Claude紧急叫停！暗改Harness禁止逆向游戏](https://www.qbitai.com/2026/11/507038.html)
+  - [三年前布局，今年爆火丨西湖大学成立新中心](https://www.qbitai.com/2026/11/507076.html)
 - 黑海洋
   - [Clearcam：不换摄像头，给现有 RTSP 监控加上本地 AI](https://blog.upx8.com/Clearcam-RTSP-AI)
   - [免费版 WAF 规则不够用？Worker 自动拉黑扫描 IP 方案](https://blog.upx8.com/WAF-Worker-IP)
