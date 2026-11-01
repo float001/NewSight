@@ -13,6 +13,8 @@
   - [Ivanti Connect Secure chained RCE under active exploitation; Chainalysis breached](https://defend.network/briefings/ivanti-connect-secure-chainalysis-breach-ddos-surge-2026-11-01.html)
 - Didier Stevens
   - [Overview of Content Published in October](https://blog.didierstevens.com/2026/11/01/overview-of-content-published-in-october-12/)
+- Emergent Minds | paddo.dev
+  - [OpenAI Doubled, Anthropic Renamed: The $200 AI Plan War](https://paddo.dev/blog/openai-doubled-anthropic-renamed/)
 - Fidelis Security
   - [The Role of Anomaly Detection in XDR: Enhancing Threat Visibility and Response](https://fidelissecurity.com/threatgeek/xdr-security/detecting-anomalies-using-xdr-platform/)
 - Hacker News Frontpage
@@ -32,8 +34,38 @@
 - simonwillison.net
   - [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
 - Sploitus.com Exploits RSS Feed
+  - [aDLL exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-IDEASLOCAS-ADLL&utm_source=rss&utm_medium=rss)
+  - [binbloom exploit](https://sploitus.com/exploit?id=KITPLOIT:2047152494113973875&utm_source=rss&utm_medium=rss)
+  - [BloodHound exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RNB-TEAM-LOGHOUND&utm_source=rss&utm_medium=rss)
+  - [BSCP-EXAM-GUIDE-BY-N3OARI-2026 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-N3OARI-BSCP-EXAM-GUIDE-BY-N3OARI-2026&utm_source=rss&utm_medium=rss)
+  - [commando-vm exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MANDIANT-COMMANDO-VM&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-45878 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CAN0I0EVER0ENTER-CVE-2023-45878&utm_source=rss&utm_medium=rss)
+  - [CVE-2023-46197 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RANDOMROBBIEBF-CVE-2023-46197&utm_source=rss&utm_medium=rss)
+  - [CVE-2025-55182-exp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SPRITUALKB-CVE-2025-55182-EXP&utm_source=rss&utm_medium=rss)
+  - [DLLHijackHunter exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GHOSTVECTORACADEMY-DLLHIJACKHUNTER&utm_source=rss&utm_medium=rss)
+  - [domestic-system exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CARTOSYS-DOMESTIC-SYSTEM&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Rockwellautomation Factorytalk_Assetcentre](https://sploitus.com/exploit?id=FB432986-F934-5576-B3E7-8CE48A411A95&utm_source=rss&utm_medium=rss)
   - [Exploit for OS Command Injection in Php](https://sploitus.com/exploit?id=BE96A21D-9A13-5BE4-9A01-AB7AFAC89EB3&utm_source=rss&utm_medium=rss)
+  - [exploitarium](https://sploitus.com/exploit?id=KITPLOIT:POSTS-GITHUB-HORKIMHAB-POC-CVE-COLLECTION-BE3583F186554D37599F23CAE8D630C881CC12274092EE8B3C98DCF8C1065129&utm_source=rss&utm_medium=rss)
+  - [FUSE exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-WSP-LAB-FUSE&utm_source=rss&utm_medium=rss)
+  - [JoySafety exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-JOYSAFETY-JOYSAFETY&utm_source=rss&utm_medium=rss)
+  - [lst2x64dbg exploit](https://sploitus.com/exploit?id=KITPLOIT:1409513012941702413&utm_source=rss&utm_medium=rss)
+  - [mwebfp exploit](https://sploitus.com/exploit?id=KITPLOIT:6830944286797382810&utm_source=rss&utm_medium=rss)
+  - [NamedPipePTH exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-S3CUR3TH1SSH1T-NAMEDPIPEPTH&utm_source=rss&utm_medium=rss)
+  - [numasec exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FRANCESCOSTABILE-NUMASEC&utm_source=rss&utm_medium=rss)
+  - [Prober exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITLAB-ISNIC-PROBER&utm_source=rss&utm_medium=rss)
+  - [project-rvbbit exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BUTER-CHKALOVA-PROJECT-RVBBIT&utm_source=rss&utm_medium=rss)
+  - [ProxyLogon exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HAUSEC-PROXYLOGON&utm_source=rss&utm_medium=rss)
+  - [PurplePanda exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CARLOSPOLOP-PURPLEPANDA&utm_source=rss&utm_medium=rss)
+  - [Refloow-Geo-Forensics exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-REFLOOW-REFLOOW-GEO-FORENSICS&utm_source=rss&utm_medium=rss)
+  - [ReproducingCVEs_Akshath_Nagulapally exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AKSHATH-NAGULAPALLY-REPRODUCINGCVES_AKSHATH_NAGULAPALLY&utm_source=rss&utm_medium=rss)
+  - [rizin-notebook exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-INDALOK-RIZIN-NOTEBOOK&utm_source=rss&utm_medium=rss)
+  - [sentinel-mcp exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITLAB-REYJESUSQ-SENTINEL-MCP&utm_source=rss&utm_medium=rss)
+  - [SharpEDRChecker exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PWNDEXTER-SHARPEDRCHECKER&utm_source=rss&utm_medium=rss)
+  - [socid-extractor exploit](https://sploitus.com/exploit?id=KITPLOIT:5042848353854435846&utm_source=rss&utm_medium=rss)
+  - [sops exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-GETSOPS-SOPS&utm_source=rss&utm_medium=rss)
+  - [Tiny-XSS-Payloads exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TERJANQ-TINY-XSS-PAYLOADS&utm_source=rss&utm_medium=rss)
+  - [upx exploit](https://sploitus.com/exploit?id=KITPLOIT:2011729406040869697&utm_source=rss&utm_medium=rss)
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
   - [网站WAF exploit](https://sploitus.com/exploit?id=10758DB7-00A8-5CE4-A4EC-77C1BA3273F5&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -44,6 +76,7 @@
   - [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
 - The Decoder
   - [Anthropic's watermark rollout leaves a loophole on two older Claude models](https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/)
+  - [Google wants video AI to understand what people need as they work](https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/)
   - [OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits](https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/)
   - [OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing](https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/)
 - The Verge
@@ -72,14 +105,21 @@
   - [网站WAF](https://vulners.com/gitee/10758DB7-00A8-5CE4-A4EC-77C1BA3273F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating](https://www.wired.com/story/the-best-travel-mugs/)
+  - [8 Best Space Heaters (2026): Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
   - [A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look](https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/)
   - [Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch](https://www.wired.com/story/best-chromebooks/)
   - [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
+  - [Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500](https://www.wired.com/story/lenovo-loq-15-best-deal/)
+  - [The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App](https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/)
+  - [There’s a Free Video Editor Inside Google Drive That Anyone Can Use](https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/)
 - 不安全
   - [Adult bots viewing my IG story, or someone paying to survailence and collect my posts?](https://buaq.net/go-452092.html)
   - [OneNote File Extraction, (Sun, Nov 1st)](https://buaq.net/go-452090.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [NASA 征询拯救哈勃望远镜的方案](https://www.solidot.org/story?sid=85765)
+  - [数据中心抵消了过去 15 年美国的减排努力](https://www.solidot.org/story?sid=85766)
 - 黑海洋
   - [Clearcam：不换摄像头，给现有 RTSP 监控加上本地 AI](https://blog.upx8.com/Clearcam-RTSP-AI)
   - [免费版 WAF 规则不够用？Worker 自动拉黑扫描 IP 方案](https://blog.upx8.com/WAF-Worker-IP)
