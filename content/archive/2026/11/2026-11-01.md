@@ -31,6 +31,8 @@
   - [The AI-Bubble Scorecard](https://hackernoon.com/the-ai-bubble-scorecard?source=rss)
 - seangoedecke.com
   - [Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/)
+- shkspr.mobi
+  - [10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/)
 - simonwillison.net
   - [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
 - Sploitus.com Exploits RSS Feed
@@ -76,6 +78,7 @@
   - [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
 - The Decoder
   - [Anthropic's watermark rollout leaves a loophole on two older Claude models](https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/)
+  - [Chinese AI models are politically complex, not just government mouthpieces, study finds](https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/)
   - [Google wants video AI to understand what people need as they work](https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/)
   - [OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits](https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/)
   - [OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing](https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/)
@@ -83,6 +86,8 @@
   - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
   - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
   - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
+  - [New Zelda and GTA represent a games industry that no longer exists](https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists)
+  - [Prop 45 in California could be hiding a loophole for data centers](https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy)
 - troyhunt.com
   - [Weekly Update 528: Reading AI-generated Code & the Economics of Solar](https://www.troyhunt.com/weekly-update-528/)
 - Vulners.com RSS Feed
@@ -101,6 +106,7 @@
   - [CVE-2026-120208](https://vulners.com/nvd/NVD:CVE-2026-120208?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120209](https://vulners.com/nvd/NVD:CVE-2026-120209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120210](https://vulners.com/nvd/NVD:CVE-2026-120210?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120226](https://vulners.com/nvd/NVD:CVE-2026-120226?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ti-a-ti-cveexploitchecker](https://vulners.com/githubexploit/7A33A9DA-783A-5F8D-BF5F-8CEEF47DB146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [网站WAF](https://vulners.com/gitee/10758DB7-00A8-5CE4-A4EC-77C1BA3273F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -110,6 +116,7 @@
   - [Best Chromebooks and Googlebooks (2026): Laptops With a Google Touch](https://www.wired.com/story/best-chromebooks/)
   - [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
   - [Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500](https://www.wired.com/story/lenovo-loq-15-best-deal/)
+  - [The 30 Best Gifts for Star Wars Fans (2026)](https://www.wired.com/gallery/best-star-wars-gifts/)
   - [The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App](https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/)
   - [There’s a Free Video Editor Inside Google Drive That Anyone Can Use](https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/)
 - 不安全
