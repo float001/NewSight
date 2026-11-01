@@ -23,6 +23,7 @@
 - simonwillison.net
   - [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Rockwellautomation Factorytalk_Assetcentre](https://sploitus.com/exploit?id=FB432986-F934-5576-B3E7-8CE48A411A95&utm_source=rss&utm_medium=rss)
   - [网站WAF exploit](https://sploitus.com/exploit?id=10758DB7-00A8-5CE4-A4EC-77C1BA3273F5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
@@ -38,6 +39,7 @@
   - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
 - Vulners.com RSS Feed
   - [CVE-2026-102212](https://vulners.com/nvd/NVD:CVE-2026-102212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115946](https://vulners.com/nvd/NVD:CVE-2026-115946?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120199](https://vulners.com/nvd/NVD:CVE-2026-120199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120200](https://vulners.com/nvd/NVD:CVE-2026-120200?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120201](https://vulners.com/nvd/NVD:CVE-2026-120201?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -54,3 +56,5 @@
   - [网站WAF](https://vulners.com/gitee/10758DB7-00A8-5CE4-A4EC-77C1BA3273F5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [币安：已补回90%被盗资产 计划周日恢复提现](https://blog.upx8.com/%E5%B8%81%E5%AE%89-%E5%B7%B2%E8%A1%A5%E5%9B%9E90-%E8%A2%AB%E7%9B%97%E8%B5%84%E4%BA%A7-%E8%AE%A1%E5%88%92%E5%91%A8%E6%97%A5%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0)
