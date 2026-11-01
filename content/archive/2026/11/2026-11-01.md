@@ -3,6 +3,8 @@
 - 2Libra
   - [我做了一个赛博乞讨网站](https://2libra.com/post/personal-works/h-5bDqT)
   - [连签 365 天，获得“全勤”徽章](https://2libra.com/post/personal-life/GXyVQQO)
+- defend.network
+  - [Ivanti Connect Secure chained RCE under active exploitation; Chainalysis breached](https://defend.network/briefings/ivanti-connect-secure-chainalysis-breach-ddos-surge-2026-11-01.html)
 - Didier Stevens
   - [Overview of Content Published in October](https://blog.didierstevens.com/2026/11/01/overview-of-content-published-in-october-12/)
 - Fidelis Security
@@ -64,4 +66,6 @@
 - 黑海洋
   - [Clearcam：不换摄像头，给现有 RTSP 监控加上本地 AI](https://blog.upx8.com/Clearcam-RTSP-AI)
   - [免费版 WAF 规则不够用？Worker 自动拉黑扫描 IP 方案](https://blog.upx8.com/WAF-Worker-IP)
+  - [前端高可用实战：扛住 DDoS / CC，应对域名与 IP 被封的多入口容灾方案](https://blog.upx8.com/DDoS-CC-IP)
+  - [域名 / IP 被墙了怎么办？前端多入口容灾的完整落地方案](https://blog.upx8.com/IP)
   - [币安：已补回90%被盗资产 计划周日恢复提现](https://blog.upx8.com/%E5%B8%81%E5%AE%89-%E5%B7%B2%E8%A1%A5%E5%9B%9E90-%E8%A2%AB%E7%9B%97%E8%B5%84%E4%BA%A7-%E8%AE%A1%E5%88%92%E5%91%A8%E6%97%A5%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0)
