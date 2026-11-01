@@ -6,6 +6,7 @@
   - [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
 - Hacker News Frontpage
   - [Alleged Mythos Class Anthropic Checkpoint Leak](https://huggingface.co/burner22/numbat)
+  - [Apple captures 50% of consumer revenue of the top half of the S&P 500](https://asymco.com/2026/11/01/the-last-consumer-company/)
   - [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
   - [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
   - [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)
@@ -16,6 +17,7 @@
 - TechCrunch
   - [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
   - [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
+  - [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
 - The Block
   - [Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259)
   - [North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst](https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257)
@@ -23,5 +25,6 @@
   - [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
   - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
   - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
+  - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
