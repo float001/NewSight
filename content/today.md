@@ -9,31 +9,46 @@
   - [Third person dies of bird flu since virus started jumping to livestock](https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/)
 - ByteByteGo
   - [How Nvidia's New Nemotron Model Works](https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works)
+- Chainalysis Blog
+  - [Disrupting the Mercado Bitcoin Attack: How Chainalysis Led the Freeze of Nearly $10M in Stolen Funds](https://www.chainalysis.com/blog/chainalysis-response-mercado-bitcoin/)
 - CoinTelegraph
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Animoca Brands clears final hurdle for Abu Dhabi fund management](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase hit with 50% price target cut as post-earnings rout deepens](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto investigators flag suspected $106M theft, $786K Solana bot drain](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin wallets keep moving funds after $46M hack](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [New Jersey drops Coinbase staking order ahead of crypto’s midterm test](https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [[Sponsor] OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem)
+- darkreading
+  - [$6.3B Binance Hack Shows the Need to Test Attack Paths](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
 - Didier Stevens
   - [Quickpost: Rad Pro](https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/)
 - Google AI Blog
   - [The latest AI news we announced in October 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)
 - Hacker News Frontpage
+  - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
   - [BYD sold more EVs last month than the US did all quarter, topping 300,000](https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/)
   - [Grokipedia offers lessons in how AI can help Wikipedia](https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/)
   - [Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal](https://fotojockovic.com/vhs)
   - [Show HN: Warsaw in voxels – an interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
   - [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
+  - [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+- HackerNoon
+  - [Music Through Your Cheekbones: How Bone-Conduction Headphones Work and Why They Sound Different](https://hackernoon.com/music-through-your-cheekbones-how-bone-conduction-headphones-work-and-why-they-sound-different?source=rss)
+  - [Your AI Agent's Memory Needs Two Clocks](https://hackernoon.com/your-ai-agents-memory-needs-two-clocks?source=rss)
+  - [Your AI Assistant Is Waiting Around - An AI Agent Goes to Work](https://hackernoon.com/your-ai-assistant-is-waiting-around-an-ai-agent-goes-to-work?source=rss)
 - Sploitus.com Exploits RSS Feed
   - [berrybus-waf exploit](https://sploitus.com/exploit?id=A23C0FB4-6814-5A80-A4CA-C447DE9BBAE4&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=007F9ECF-7849-5227-A5FB-9B88EE44CC71&utm_source=rss&utm_medium=rss)
   - [K-killer exploit](https://sploitus.com/exploit?id=842DCCC6-8280-5896-987B-ECE35FCF9B54&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
+  - [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
   - [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
   - [Germany says lawmakers’ iPhones may have been hacked with spyware](https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/)
   - [In one of the largest deals in tech history, Marvell buys Lumentum for $115B](https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/)
@@ -45,6 +60,7 @@
 - The Block
   - [Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack](https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321)
   - [DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says](https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331)
+  - [Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports](https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344)
   - [Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach](https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333)
 - The Decoder
   - [AI elites might hoard intelligence like mercantilists hoarded gold](https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/)
@@ -53,6 +69,7 @@
   - [SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product](https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/)
 - The Verge
   - [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
+  - [Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around](https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints)
   - [Apple set an iPhone sales record even without a new standard iPhone](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings)
   - [Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028](https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay)
   - [Ford promises not to sell your driving habits to data brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers)
@@ -115,6 +132,7 @@
   - [CVE-2026-99241 ntfs: take invalidate_lock in ntfs_filemap_page_mkwrite()](https://vulners.com/cvelist/CVELIST:CVE-2026-99241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-99242](https://vulners.com/nvd/NVD:CVE-2026-99242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-99242 ntfs: fix race between fallocate and mmap reads](https://vulners.com/cvelist/CVELIST:CVE-2026-99242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/E36004E5-A58E-58F6-8914-FB1BC80E6279?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/817B1E64-1B6D-5559-98B4-1B3B56A7D52C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [K-killer](https://vulners.com/gitee/842DCCC6-8280-5896-987B-ECE35FCF9B54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
