@@ -35,10 +35,13 @@
   - [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials](https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX draws $445M in net inflows as Binance outflows exceed $7B](https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
 - defend.network
@@ -52,8 +55,13 @@
   - [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
 - HackerNews
   - [Alpine Linux 在遭遇 RCE 攻击未遂后重建 GitLab](http://0.0.0.0:8080/post/64858)
+- HackerNoon
+  - [Sellvia in 2026: The Tech Behind Its Digital Stores, Built-In Ads, and Orders](https://hackernoon.com/sellvia-in-2026-the-tech-behind-its-digital-stores-built-in-ads-and-orders?source=rss)
+  - [Turning Product Info into Video Ads: Our Experience with Vizard Agent](https://hackernoon.com/turning-product-info-into-video-ads-our-experience-with-vizard-agent?source=rss)
+  - [When AI Works Perfectly, What Happens to Human Life?](https://hackernoon.com/when-ai-works-perfectly-what-happens-to-human-life?source=rss)
 - infosecurity-magazine.com
   - [Chainalysis Warns Customers After “Offensive Agentic” Security Incident](https://www.infosecurity-magazine.com/news/chainalysis-customers-offensive/)
+  - [FBI Attributes Binance Heist to North Korea’s TraderTraitor](https://www.infosecurity-magazine.com/news/fbi-attributes-binance-north/)
 - johndcook.com
   - [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/)
 - MIT Technology Review
@@ -73,11 +81,14 @@
   - [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
   - [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
   - [Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)
+  - [Ford launches a ‘privacy promise’ and explains how and why it uses customer data](https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/)
   - [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
 - The Block
   - [Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259)
   - [North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst](https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257)
   - [Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack](https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270)
+- The Decoder
+  - [OpenAI prepares lobbying blitz for a post-midterm Washington](https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/)
 - The Verge
   - [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
   - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
@@ -86,14 +97,18 @@
   - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
 - Vulners.com RSS Feed
   - [CVE-2024-5617](https://vulners.com/nvd/NVD:CVE-2024-5617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-7075](https://vulners.com/nvd/NVD:CVE-2024-7075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-11969](https://vulners.com/nvd/NVD:CVE-2025-11969?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-13647](https://vulners.com/nvd/NVD:CVE-2025-13647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101178](https://vulners.com/nvd/NVD:CVE-2026-101178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101184](https://vulners.com/nvd/NVD:CVE-2026-101184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103310](https://vulners.com/nvd/NVD:CVE-2026-103310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118871](https://vulners.com/nvd/NVD:CVE-2026-118871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120345](https://vulners.com/nvd/NVD:CVE-2026-120345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120347](https://vulners.com/nvd/NVD:CVE-2026-120347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120348](https://vulners.com/nvd/NVD:CVE-2026-120348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18199](https://vulners.com/nvd/NVD:CVE-2026-18199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18800](https://vulners.com/nvd/NVD:CVE-2026-18800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82898 Apache Wicket: A cross-origin listener invocation stopped by a login wall is replayed after the user signs in](https://vulners.com/cvelist/CVELIST:CVE-2026-82898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98260](https://vulners.com/githubexploit/D4A86761-C70A-579E-86A2-2520FA9FBF2A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/9393DAB9-6D35-5565-8D38-648440F92F89?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -105,6 +120,8 @@
   - [消息称英伟达RTX 5080 24GB版最快12月上市 或接替中国市场现有高端型号](https://buaq.net/go-452170.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 先知技术社区
+  - [双倍积分和稿费的活动通知](https://xz.aliyun.com/news/93091)
 - 奇客Solidot–传递最新科技情报
   - [Linux 7.4-rc1 释出](https://www.solidot.org/story?sid=85770)
   - [Stack Overflow 表示它还活着](https://www.solidot.org/story?sid=85769)
