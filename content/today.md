@@ -11,6 +11,7 @@
 - CoinTelegraph
   - [Animoca Brands clears final hurdle for Abu Dhabi fund management](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coinbase hit with 50% price target cut as post-earnings rout deepens](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin wallets keep moving funds after $46M hack](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Google AI Blog
   - [The latest AI news we announced in October 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)
@@ -34,6 +35,7 @@
 - The Block
   - [Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack](https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321)
   - [DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says](https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331)
+  - [Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach](https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333)
 - The Decoder
   - [AI elites might hoard intelligence like mercantilists hoarded gold](https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/)
   - [Anthropic grows revenue twelvefold but posts $23 billion loss](https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/)
@@ -43,6 +45,7 @@
   - [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
   - [Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028](https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay)
   - [Ford promises not to sell your driving habits to data brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers)
+  - [One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet](https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down)
   - [Squarespace is laying off 19 percent of employees](https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent)
   - [The Apple Watch Ultra 4 is $100 off, matching its best price to date](https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale)
   - [Why Peacock is making a huge bet on YouTube](https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv)
@@ -56,6 +59,7 @@
   - [CVE-2026-114408](https://vulners.com/nvd/NVD:CVE-2026-114408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115653](https://vulners.com/nvd/NVD:CVE-2026-115653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115654](https://vulners.com/nvd/NVD:CVE-2026-115654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116769 Authentication bypass in Secure Access Servers](https://vulners.com/cvelist/CVELIST:CVE-2026-116769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120500](https://vulners.com/nvd/NVD:CVE-2026-120500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120501](https://vulners.com/nvd/NVD:CVE-2026-120501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16306](https://vulners.com/nvd/NVD:CVE-2026-16306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -66,7 +70,11 @@
   - [CVE-2026-77879](https://vulners.com/nvd/NVD:CVE-2026-77879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77880](https://vulners.com/nvd/NVD:CVE-2026-77880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77881](https://vulners.com/nvd/NVD:CVE-2026-77881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86365](https://vulners.com/cvelist/CVELIST:CVE-2026-86365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88809](https://vulners.com/nvd/NVD:CVE-2026-88809?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91896](https://vulners.com/cve/CVE-2026-91896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91896](https://vulners.com/cvelist/CVELIST:CVE-2026-91896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91901](https://vulners.com/cvelist/CVELIST:CVE-2026-91901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94290](https://vulners.com/nvd/NVD:CVE-2026-94290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-99217](https://vulners.com/nvd/NVD:CVE-2026-99217?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-99218](https://vulners.com/nvd/NVD:CVE-2026-99218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -101,6 +109,7 @@
   - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)
   - [Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes](https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/)
   - [Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/)
+  - [Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal](https://www.wired.com/story/dyson-vacuum-deals-nov-2026/)
   - [Best Early Black Friday Espresso Machine Deals (2026)](https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
