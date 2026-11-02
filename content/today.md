@@ -2,6 +2,7 @@
 
 - 2Libra
   - [codex 权限](https://2libra.com/post/ai-programming/vmUHFNW)
+  - [Deepseek flash 有点儿拉啊](https://2libra.com/post/ai-programming/1QtoXva)
   - [Test](https://2libra.com/post/slacking-off/5MEpyaO)
   - [vibe coding 新作, 一个支持在线搜书的 app](https://2libra.com/post/personal-works/hofp7nf)
   - [Zooproxy 免费送优质住宅 & 静态 ISP 代理｜限时福利活动开启 🎃](https://2libra.com/post/promotion/RpdjnHX)
@@ -27,19 +28,24 @@
   - [我已经陷入：懊悔昨天，今天内耗，开始计划明天的死循环](https://2libra.com/post/personal-life/HUyNAEi)
   - [我让 ai 给我修改站点，他给我来了个大变样](https://2libra.com/post/personal-works/vG4qJTN)
   - [戒掉所有短视频第四天](https://2libra.com/post/personal-life/i8oLNjw)
+  - [有没有体验过邮轮旅游的 2 友来分享一下](https://2libra.com/post/travel-tips/abxgW_o)
   - [有没有电陶炉推荐](https://2libra.com/post/recommendations/J2K8hJK)
   - [潘多拉能中最新的【忽冷忽热】徽章](https://2libra.com/post/forum-function/Lq5dp9e)
   - [腾讯王卡周年庆开始了](https://2libra.com/post/deal-hunter/jLI-eZT)
 - CoinTelegraph
   - [$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest](https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [AI agent disputes head to ‘Internet Court’ — and a jury of AI agents](https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis](https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance taps half its SAFU Bitcoin holdings, releases reserve proof](https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FATF targets crypto hubs in review of money laundering controls](https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?](https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials](https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX draws $445M in net inflows as Binance outflows exceed $7B](https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy spends triple its weekly Bitcoin outlay on STRC buybacks](https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -48,6 +54,8 @@
   - [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
+- darkreading
+  - [PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia](https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia)
 - defend.network
   - [FBI confirms $6.3B Binance heist; critical LXD/MicroCloud flaw; Polymarket $2.7M theft](https://defend.network/briefings/binance-lxd-microcloud-polymarket-breach-2026-11-02.html)
 - Hacker News Frontpage
@@ -65,12 +73,15 @@
   - [Turning Product Info into Video Ads: Our Experience with Vizard Agent](https://hackernoon.com/turning-product-info-into-video-ads-our-experience-with-vizard-agent?source=rss)
   - [When AI Works Perfectly, What Happens to Human Life?](https://hackernoon.com/when-ai-works-perfectly-what-happens-to-human-life?source=rss)
 - infosecurity-magazine.com
+  - [Bitter Deploys PapRAT in Asian Cyber-Espionage Campaign](https://www.infosecurity-magazine.com/news/paprat-bitter-cyberespionage/)
   - [Chainalysis Warns Customers After “Offensive Agentic” Security Incident](https://www.infosecurity-magazine.com/news/chainalysis-customers-offensive/)
   - [FBI Attributes Binance Heist to North Korea’s TraderTraitor](https://www.infosecurity-magazine.com/news/fbi-attributes-binance-north/)
 - johndcook.com
   - [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/)
 - MIT Technology Review
+  - [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
   - [The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
+  - [The Download: the agentic web arrives and the drive for safer roads](https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/)
 - pluralistic.net
   - [Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/)
 - rtl-sdr.com
@@ -82,13 +93,16 @@
 - simonwillison.net
   - [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/)
   - [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/)
+  - [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=9393DAB9-6D35-5565-8D38-648440F92F89&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big](https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/)
   - [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
   - [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
   - [Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)
   - [Ford launches a ‘privacy promise’ and explains how and why it uses customer data](https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/)
+  - [OpenAI is finally merging ChatGPT’s chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)
   - [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
 - The Block
   - [Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259)
@@ -152,6 +166,7 @@
   - [OpenAI重写大模型法则，第一条：忠于人类！！](https://www.qbitai.com/2026/11/507225.html)
   - [从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信](https://www.qbitai.com/2026/11/507260.html)
   - [央视严选「中国AI创业十骏」：唯一AI制药公司是清华系](https://www.qbitai.com/2026/11/507150.html)
+  - [顶级AI翻车的活儿，被这个新出的免费国产AI接住了！](https://www.qbitai.com/2026/11/507277.html)
 - 黑海洋
   - [币安恢复提现后遭遇小高峰：净流出36.4亿美元](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0%E5%90%8E%E9%81%AD%E9%81%87%E5%B0%8F%E9%AB%98%E5%B3%B0-%E5%87%80%E6%B5%81%E5%87%BA36-4%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [给编码 Agent 装一张嘴：DSH 语音 AI 女友的端到端实现](https://blog.upx8.com/Agent-DSH-AI)
