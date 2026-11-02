@@ -2,18 +2,21 @@
 
 - 2Libra
   - [codex 权限](https://2libra.com/post/ai-programming/vmUHFNW)
+  - [Test](https://2libra.com/post/slacking-off/5MEpyaO)
   - [vibe coding 新作, 一个支持在线搜书的 app](https://2libra.com/post/personal-works/hofp7nf)
   - [Zooproxy 免费送优质住宅 & 静态 ISP 代理｜限时福利活动开启 🎃](https://2libra.com/post/promotion/RpdjnHX)
   - [【投票·💰】有没要用过索爱 SOAIY 蓝牙耳机的？](https://2libra.com/post/earphones/3MdYopI)
   - [【投票·💰】认真只玩过刀剑-诛仙-英雄联盟-黑神话，现在 只狼-影之刃零 二选一](https://2libra.com/post/game-discussion/cx2hYSr)
   - [【虾兵蟹将】小龙虾蟹粉拌面 🍜🍜🍜](https://2libra.com/post/personal-life/TGWaD_U)
   - [【运动打卡】第 2️⃣0️⃣天，温度骤降大家注意穿衣保暖](https://2libra.com/post/sports/D2YfQ7s)
+  - [【💰】GPT Chat 和 Work 额度合并，plus 不能无限聊天了，大家有什么好的平替吗](https://2libra.com/post/ai-tools/EoFzi9Z)
   - [【💰】又搓了张缝纫桌, 一些碎碎念](https://2libra.com/post/personal-works/lc-it8V)
   - [【💰】想激情下单个电瓶车解锁坐骑成就，哪些选项比较重要](https://2libra.com/post/recommendations/AFN6dWs)
   - [【💰】樊登读书会怎么样，有用过的朋友讲解一下吗](https://2libra.com/post/questions/Bx7fflV)
   - [【💰】随想](https://2libra.com/post/social-observation/wgPqrPd)
   - [东拉西扯](https://2libra.com/post/slacking-off/fJCTsw4)
   - [今年双十一你们买了什么，感觉优惠力度如何](https://2libra.com/post/worth-buying/khOonVP)
+  - [兄弟们这辈子买过的最贵的东西是什么？](https://2libra.com/post/hotspot-tracking/enbE-RP)
   - [出差结束，今日归。](https://2libra.com/post/personal-life/kIDVHeX)
   - [后续黄金的走势如何？](https://2libra.com/post/angel-investment/SySsU5R)
   - [周一，又是想骂人的一天（负面情绪，慎点）](https://2libra.com/post/workplace-stories/QQRZCwn)
@@ -30,6 +33,7 @@
 - CoinTelegraph
   - [$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest](https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX draws $445M in net inflows as Binance outflows exceed $7B](https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -48,12 +52,18 @@
   - [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
 - HackerNews
   - [Alpine Linux 在遭遇 RCE 攻击未遂后重建 GitLab](http://0.0.0.0:8080/post/64858)
+- infosecurity-magazine.com
+  - [Chainalysis Warns Customers After “Offensive Agentic” Security Incident](https://www.infosecurity-magazine.com/news/chainalysis-customers-offensive/)
 - johndcook.com
   - [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/)
+- MIT Technology Review
+  - [The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
 - pluralistic.net
   - [Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/)
 - rtl-sdr.com
   - [NightDX: Automated Overnight Shortwave DX Listening with an Airspy HF+](https://www.rtl-sdr.com/nightdx-automated-overnight-shortwave-dx-listening-with-an-airspy-hf/)
+- Shell is Only the Beginning
+  - [Phishing-resistant MFA where it matters most, and finding the privileged identities your role report misses](https://www.darkoperator.com/blog/2026/11/2/cwdl3e3gk4d6uiyor7ack9sdzvqvjj)
 - simonwillison.net
   - [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/)
   - [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/)
@@ -90,6 +100,7 @@
   - [nxc-vulnscan](https://vulners.com/githubexploit/92DFBF9F-09CA-5282-B4AA-933E9593DB1C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [150+ 款正版软件爆降：PixPin / Typora / UPDF / Bandizip 等……](https://buaq.net/go-452167.html)
+  - [TotK Recomp – 在 Windows 上原生运行《塞尔达传说：王国之泪》，不需要模拟器！](https://buaq.net/go-452226.html)
   - [消息称AMD计划在11月再次上调显卡套料价格 原因是GDDR6显存成本持续上涨](https://buaq.net/go-452171.html)
   - [消息称英伟达RTX 5080 24GB版最快12月上市 或接替中国市场现有高端型号](https://buaq.net/go-452170.html)
 - 代码审计星球
