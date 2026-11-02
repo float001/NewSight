@@ -6,22 +6,32 @@
   - [Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker](https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/)
 - Ars Technica
   - [Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights](https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/)
+  - [Third person dies of bird flu since virus started jumping to livestock](https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/)
 - ByteByteGo
   - [How Nvidia's New Nemotron Model Works](https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works)
 - CoinTelegraph
+  - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Animoca Brands clears final hurdle for Abu Dhabi fund management](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase hit with 50% price target cut as post-earnings rout deepens](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto investigators flag suspected $106M theft, $786K Solana bot drain](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin wallets keep moving funds after $46M hack](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- Didier Stevens
+  - [Quickpost: Rad Pro](https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/)
 - Google AI Blog
   - [The latest AI news we announced in October 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)
 - Hacker News Frontpage
+  - [BYD sold more EVs last month than the US did all quarter, topping 300,000](https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/)
   - [Grokipedia offers lessons in how AI can help Wikipedia](https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/)
   - [Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal](https://fotojockovic.com/vhs)
   - [Show HN: Warsaw in voxels – an interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
   - [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
 - Sploitus.com Exploits RSS Feed
   - [berrybus-waf exploit](https://sploitus.com/exploit?id=A23C0FB4-6814-5A80-A4CA-C447DE9BBAE4&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=007F9ECF-7849-5227-A5FB-9B88EE44CC71&utm_source=rss&utm_medium=rss)
+  - [K-killer exploit](https://sploitus.com/exploit?id=842DCCC6-8280-5896-987B-ECE35FCF9B54&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
   - [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
@@ -43,6 +53,7 @@
   - [SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product](https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/)
 - The Verge
   - [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
+  - [Apple set an iPhone sales record even without a new standard iPhone](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings)
   - [Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028](https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay)
   - [Ford promises not to sell your driving habits to data brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers)
   - [One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet](https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down)
@@ -105,11 +116,13 @@
   - [CVE-2026-99242](https://vulners.com/nvd/NVD:CVE-2026-99242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-99242 ntfs: fix race between fallocate and mmap reads](https://vulners.com/cvelist/CVELIST:CVE-2026-99242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/817B1E64-1B6D-5559-98B4-1B3B56A7D52C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [K-killer](https://vulners.com/gitee/842DCCC6-8280-5896-987B-ECE35FCF9B54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)
   - [Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes](https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/)
   - [Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/)
   - [Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal](https://www.wired.com/story/dyson-vacuum-deals-nov-2026/)
   - [Best Early Black Friday Espresso Machine Deals (2026)](https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/)
+  - [How to Save $25 on Burga’s Phone Accessories With This Sale](https://www.wired.com/story/burga-sale-november-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
