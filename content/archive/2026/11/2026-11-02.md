@@ -35,12 +35,14 @@
   - [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?](https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials](https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX draws $445M in net inflows as Binance outflows exceed $7B](https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?](https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Trezor lifts password ceiling after Coldcard’s $100M wallet thefts](https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
@@ -89,12 +91,15 @@
   - [Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack](https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270)
 - The Decoder
   - [OpenAI prepares lobbying blitz for a post-midterm Washington](https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/)
+  - [Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal](https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/)
 - The Verge
   - [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
   - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
   - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
   - [Jackery made its portable power stations even smaller](https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate)
   - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
+- Trail of Bits Blog
+  - [Backporting security fixes at scale with Codex](https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/)
 - Vulners.com RSS Feed
   - [CVE-2024-5617](https://vulners.com/nvd/NVD:CVE-2024-5617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-7075](https://vulners.com/nvd/NVD:CVE-2024-7075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -113,6 +118,8 @@
   - [Exploit for CVE-2026-98260](https://vulners.com/githubexploit/D4A86761-C70A-579E-86A2-2520FA9FBF2A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/9393DAB9-6D35-5565-8D38-648440F92F89?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nxc-vulnscan](https://vulners.com/githubexploit/92DFBF9F-09CA-5282-B4AA-933E9593DB1C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Want to Sign With a Hollywood Agent? Start Making Fun of AI](https://www.wired.com/story/comedians-making-fun-of-ai/)
 - 不安全
   - [150+ 款正版软件爆降：PixPin / Typora / UPDF / Bandizip 等……](https://buaq.net/go-452167.html)
   - [TotK Recomp – 在 Windows 上原生运行《塞尔达传说：王国之泪》，不需要模拟器！](https://buaq.net/go-452226.html)
@@ -125,6 +132,7 @@
 - 奇客Solidot–传递最新科技情报
   - [Linux 7.4-rc1 释出](https://www.solidot.org/story?sid=85770)
   - [Stack Overflow 表示它还活着](https://www.solidot.org/story?sid=85769)
+  - [鸟类遗传多样性显著下降](https://www.solidot.org/story?sid=85774)
 - 爱范儿
   - [500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？](https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [ChatGPT 正在偷偷给你画像，用这段提示词让它交出来](https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=)
