@@ -18,6 +18,7 @@
   - [带小孩有感，打工人应该多晒晒太阳，多去公园逛逛](https://2libra.com/post/personal-life/84Ad86W)
   - [广州地区出京东家政 2 小时𝟰𝟬](https://2libra.com/post/second-hand/JAuCkio)
   - [开心，忽冷忽热徽章到手~](https://2libra.com/post/forum-function/6JEkNbg)
+  - [我让 ai 给我修改站点，他给我来了个大变样](https://2libra.com/post/personal-works/vG4qJTN)
   - [戒掉所有短视频第四天](https://2libra.com/post/personal-life/i8oLNjw)
   - [有没有电陶炉推荐](https://2libra.com/post/recommendations/J2K8hJK)
   - [潘多拉能中最新的【忽冷忽热】徽章](https://2libra.com/post/forum-function/Lq5dp9e)
@@ -30,6 +31,8 @@
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
+- defend.network
+  - [FBI confirms $6.3B Binance heist; critical LXD/MicroCloud flaw; Polymarket $2.7M theft](https://defend.network/briefings/binance-lxd-microcloud-polymarket-breach-2026-11-02.html)
 - Hacker News Frontpage
   - [Alleged Mythos Class Anthropic Checkpoint Leak](https://huggingface.co/burner22/numbat)
   - [Apple captures 50% of consumer revenue of the top half of the S&P 500](https://asymco.com/2026/11/01/the-last-consumer-company/)
@@ -62,7 +65,13 @@
   - [Jackery made its portable power stations even smaller](https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate)
   - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
 - Vulners.com RSS Feed
+  - [CVE-2024-5617](https://vulners.com/nvd/NVD:CVE-2024-5617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-11969](https://vulners.com/nvd/NVD:CVE-2025-11969?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120345](https://vulners.com/nvd/NVD:CVE-2026-120345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120347](https://vulners.com/nvd/NVD:CVE-2026-120347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120348](https://vulners.com/nvd/NVD:CVE-2026-120348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82898 Apache Wicket: A cross-origin listener invocation stopped by a login wall is replayed after the user signs in](https://vulners.com/cvelist/CVELIST:CVE-2026-82898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-98260](https://vulners.com/githubexploit/D4A86761-C70A-579E-86A2-2520FA9FBF2A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nxc-vulnscan](https://vulners.com/githubexploit/92DFBF9F-09CA-5282-B4AA-933E9593DB1C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [150+ 款正版软件爆降：PixPin / Typora / UPDF / Bandizip 等……](https://buaq.net/go-452167.html)
@@ -70,11 +79,14 @@
   - [消息称英伟达RTX 5080 24GB版最快12月上市 或接替中国市场现有高端型号](https://buaq.net/go-452170.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Stack Overflow 表示它还活着](https://www.solidot.org/story?sid=85769)
 - 爱范儿
   - [一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了](https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力](https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光](https://www.qbitai.com/2026/11/507082.html)
+  - [央视严选「中国AI创业十骏」：唯一AI制药公司是清华系](https://www.qbitai.com/2026/11/507150.html)
 - 黑海洋
   - [币安恢复提现后遭遇小高峰：净流出36.4亿美元](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0%E5%90%8E%E9%81%AD%E9%81%87%E5%B0%8F%E9%AB%98%E5%B3%B0-%E5%87%80%E6%B5%81%E5%87%BA36-4%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [给编码 Agent 装一张嘴：DSH 语音 AI 女友的端到端实现](https://blog.upx8.com/Agent-DSH-AI)
