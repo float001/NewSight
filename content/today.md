@@ -1,13 +1,16 @@
 # 今日安全资讯（2026-11-02）
 
 - 2Libra
+  - [【虾兵蟹将】小龙虾蟹粉拌面 🍜🍜🍜](https://2libra.com/post/personal-life/TGWaD_U)
   - [【💰】又搓了张缝纫桌, 一些碎碎念](https://2libra.com/post/personal-works/lc-it8V)
   - [【💰】想激情下单个电瓶车解锁坐骑成就，哪些选项比较重要](https://2libra.com/post/recommendations/AFN6dWs)
   - [东拉西扯](https://2libra.com/post/slacking-off/fJCTsw4)
   - [今年双十一你们买了什么，感觉优惠力度如何](https://2libra.com/post/worth-buying/khOonVP)
   - [出差结束，今日归。](https://2libra.com/post/personal-life/kIDVHeX)
+  - [带小孩有感，打工人应该多晒晒太阳，多去公园逛逛](https://2libra.com/post/personal-life/84Ad86W)
   - [开心，忽冷忽热徽章到手~](https://2libra.com/post/forum-function/6JEkNbg)
   - [戒掉所有短视频第四天](https://2libra.com/post/personal-life/i8oLNjw)
+  - [有没有电陶炉推荐](https://2libra.com/post/recommendations/J2K8hJK)
   - [潘多拉能中最新的【忽冷忽热】徽章](https://2libra.com/post/forum-function/Lq5dp9e)
 - CoinTelegraph
   - [$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest](https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -40,6 +43,11 @@
   - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
 - Vulners.com RSS Feed
   - [CVE-2026-82898 Apache Wicket: A cross-origin listener invocation stopped by a login wall is replayed after the user signs in](https://vulners.com/cvelist/CVELIST:CVE-2026-82898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nxc-vulnscan](https://vulners.com/githubexploit/92DFBF9F-09CA-5282-B4AA-933E9593DB1C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [150+ 款正版软件爆降：PixPin / Typora / UPDF / Bandizip 等……](https://buaq.net/go-452167.html)
+  - [消息称AMD计划在11月再次上调显卡套料价格 原因是GDDR6显存成本持续上涨](https://buaq.net/go-452171.html)
+  - [消息称英伟达RTX 5080 24GB版最快12月上市 或接替中国市场现有高端型号](https://buaq.net/go-452170.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
