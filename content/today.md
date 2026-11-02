@@ -32,9 +32,11 @@
   - [腾讯王卡周年庆开始了](https://2libra.com/post/deal-hunter/jLI-eZT)
 - CoinTelegraph
   - [$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest](https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis](https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC heads into US midterm showdown: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [FATF targets crypto hubs in review of money laundering controls](https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?](https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials](https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX draws $445M in net inflows as Binance outflows exceed $7B](https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -53,6 +55,7 @@
   - [Apple captures 50% of consumer revenue of the top half of the S&P 500](https://asymco.com/2026/11/01/the-last-consumer-company/)
   - [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
   - [Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
+  - [Private Jet plane crashes in Florida](https://www.cbc.ca/news/world/florida-plane-crash-9.7404996)
   - [Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)
   - [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
 - HackerNews
@@ -74,6 +77,8 @@
   - [NightDX: Automated Overnight Shortwave DX Listening with an Airspy HF+](https://www.rtl-sdr.com/nightdx-automated-overnight-shortwave-dx-listening-with-an-airspy-hf/)
 - Shell is Only the Beginning
   - [Phishing-resistant MFA where it matters most, and finding the privileged identities your role report misses](https://www.darkoperator.com/blog/2026/11/2/cwdl3e3gk4d6uiyor7ack9sdzvqvjj)
+- shkspr.mobi
+  - [Lorem Ipsum Dot Gov Dot UK](https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/)
 - simonwillison.net
   - [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/)
   - [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/)
@@ -97,14 +102,17 @@
   - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
   - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
   - [Jackery made its portable power stations even smaller](https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate)
+  - [More European supermarkets are getting their freezers hacked](https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack)
   - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
 - Trail of Bits Blog
   - [Backporting security fixes at scale with Codex](https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/)
 - Vulners.com RSS Feed
   - [CVE-2024-5617](https://vulners.com/nvd/NVD:CVE-2024-5617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-7075](https://vulners.com/nvd/NVD:CVE-2024-7075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-9517](https://vulners.com/nvd/NVD:CVE-2024-9517?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-11969](https://vulners.com/nvd/NVD:CVE-2025-11969?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-13647](https://vulners.com/nvd/NVD:CVE-2025-13647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100140](https://vulners.com/nvd/NVD:CVE-2026-100140?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101178](https://vulners.com/nvd/NVD:CVE-2026-101178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101184](https://vulners.com/nvd/NVD:CVE-2026-101184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103310](https://vulners.com/nvd/NVD:CVE-2026-103310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
