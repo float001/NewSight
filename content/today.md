@@ -14,6 +14,7 @@
   - [周一，又是想骂人的一天（负面情绪，慎点）](https://2libra.com/post/workplace-stories/QQRZCwn)
   - [好想再试试手动挡的汽车](https://2libra.com/post/automobile/AVMU5-L)
   - [带小孩有感，打工人应该多晒晒太阳，多去公园逛逛](https://2libra.com/post/personal-life/84Ad86W)
+  - [广州地区出京东家政 2 小时𝟰𝟬](https://2libra.com/post/second-hand/JAuCkio)
   - [开心，忽冷忽热徽章到手~](https://2libra.com/post/forum-function/6JEkNbg)
   - [戒掉所有短视频第四天](https://2libra.com/post/personal-life/i8oLNjw)
   - [有没有电陶炉推荐](https://2libra.com/post/recommendations/J2K8hJK)
@@ -35,20 +36,25 @@
   - [Alpine Linux 在遭遇 RCE 攻击未遂后重建 GitLab](http://0.0.0.0:8080/post/64858)
 - johndcook.com
   - [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/)
+- rtl-sdr.com
+  - [NightDX: Automated Overnight Shortwave DX Listening with an Airspy HF+](https://www.rtl-sdr.com/nightdx-automated-overnight-shortwave-dx-listening-with-an-airspy-hf/)
 - simonwillison.net
   - [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/)
   - [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/)
 - TechCrunch
   - [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/)
   - [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
+  - [Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)
   - [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
 - The Block
   - [Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259)
   - [North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst](https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257)
+  - [Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack](https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270)
 - The Verge
   - [A fully playable version of Portal prequel F-Stop leaked](https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak)
   - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
   - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)
+  - [Jackery made its portable power stations even smaller](https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate)
   - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
 - Vulners.com RSS Feed
   - [CVE-2026-82898 Apache Wicket: A cross-origin listener invocation stopped by a login wall is replayed after the user signs in](https://vulners.com/cvelist/CVELIST:CVE-2026-82898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -62,5 +68,8 @@
 - 爱范儿
   - [一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了](https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力](https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光](https://www.qbitai.com/2026/11/507082.html)
 - 黑海洋
   - [币安恢复提现后遭遇小高峰：净流出36.4亿美元](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0%E5%90%8E%E9%81%AD%E9%81%87%E5%B0%8F%E9%AB%98%E5%B3%B0-%E5%87%80%E6%B5%81%E5%87%BA36-4%E4%BA%BF%E7%BE%8E%E5%85%83)
+  - [给编码 Agent 装一张嘴：DSH 语音 AI 女友的端到端实现](https://blog.upx8.com/Agent-DSH-AI)
