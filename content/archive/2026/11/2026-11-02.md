@@ -31,7 +31,11 @@
   - [有没有体验过邮轮旅游的 2 友来分享一下](https://2libra.com/post/travel-tips/abxgW_o)
   - [有没有电陶炉推荐](https://2libra.com/post/recommendations/J2K8hJK)
   - [潘多拉能中最新的【忽冷忽热】徽章](https://2libra.com/post/forum-function/Lq5dp9e)
+  - [烦死了 github 总是打不开](https://2libra.com/post/networking/mK8wSjA)
   - [腾讯王卡周年庆开始了](https://2libra.com/post/deal-hunter/jLI-eZT)
+  - [💰【AI 随想】技术之上的观察和沉思](https://2libra.com/post/ai-trends/y93e5IC)
+- 404 Media
+  - [Reaping and sowing, CEO edition](https://www.404media.co/reaping-and-sowing-ceo-edition/)
 - CoinTelegraph
   - [$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest](https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [AI agent disputes head to ‘Internet Court’ — and a jury of AI agents](https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -55,6 +59,7 @@
 - daringfireball.net
   - [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
 - darkreading
+  - [Microsoft's AI Risk Report Misses This Key Detail](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss)
   - [PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia](https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia)
 - defend.network
   - [FBI confirms $6.3B Binance heist; critical LXD/MicroCloud flaw; Polymarket $2.7M theft](https://defend.network/briefings/binance-lxd-microcloud-polymarket-breach-2026-11-02.html)
@@ -73,11 +78,13 @@
   - [Turning Product Info into Video Ads: Our Experience with Vizard Agent](https://hackernoon.com/turning-product-info-into-video-ads-our-experience-with-vizard-agent?source=rss)
   - [When AI Works Perfectly, What Happens to Human Life?](https://hackernoon.com/when-ai-works-perfectly-what-happens-to-human-life?source=rss)
 - infosecurity-magazine.com
+  - [Armadin Tests Find 88% of Severe Flaws Outside Vendor Advisories](https://www.infosecurity-magazine.com/news/armadin-severe-exposures-missed/)
   - [Bitter Deploys PapRAT in Asian Cyber-Espionage Campaign](https://www.infosecurity-magazine.com/news/paprat-bitter-cyberespionage/)
   - [Chainalysis Warns Customers After “Offensive Agentic” Security Incident](https://www.infosecurity-magazine.com/news/chainalysis-customers-offensive/)
   - [FBI Attributes Binance Heist to North Korea’s TraderTraitor](https://www.infosecurity-magazine.com/news/fbi-attributes-binance-north/)
 - johndcook.com
   - [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/)
+  - [Making peace with the projective plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/)
 - MIT Technology Review
   - [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
   - [The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
@@ -102,12 +109,17 @@
   - [Binance resumes withdrawals following $6.3 billion breach](https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/)
   - [Borrowed reading: stories from our extended colleagues](https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/)
   - [Ford launches a ‘privacy promise’ and explains how and why it uses customer data](https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/)
+  - [Ninja’s first-ever microwave just replaced two of my kitchen appliances at once](https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/)
+  - [Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ growth](https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/)
+  - [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)
   - [OpenAI is finally merging ChatGPT’s chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)
   - [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/)
 - The Block
   - [Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259)
+  - [Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction](https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307)
   - [North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst](https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257)
   - [Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack](https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270)
+  - [Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy](https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312)
 - The Decoder
   - [OpenAI prepares lobbying blitz for a post-midterm Washington](https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/)
   - [Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal](https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/)
@@ -118,6 +130,7 @@
   - [Jackery made its portable power stations even smaller](https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate)
   - [More European supermarkets are getting their freezers hacked](https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack)
   - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
+  - [YouTuber Druski is going to make exclusive content for Netflix](https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal)
 - Trail of Bits Blog
   - [Backporting security fixes at scale with Codex](https://blog.trailofbits.com/2026/11/02/backporting-security-fixes-at-scale-with-codex/)
 - Vulners.com RSS Feed
@@ -129,18 +142,34 @@
   - [CVE-2026-100140](https://vulners.com/nvd/NVD:CVE-2026-100140?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101178](https://vulners.com/nvd/NVD:CVE-2026-101178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101184](https://vulners.com/nvd/NVD:CVE-2026-101184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102801](https://vulners.com/nvd/NVD:CVE-2026-102801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102802](https://vulners.com/nvd/NVD:CVE-2026-102802?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103310](https://vulners.com/nvd/NVD:CVE-2026-103310?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103419](https://vulners.com/nvd/NVD:CVE-2026-103419?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-103420](https://vulners.com/nvd/NVD:CVE-2026-103420?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-105600](https://vulners.com/nvd/NVD:CVE-2026-105600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-105601](https://vulners.com/nvd/NVD:CVE-2026-105601?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-105602](https://vulners.com/nvd/NVD:CVE-2026-105602?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109083](https://vulners.com/nvd/NVD:CVE-2026-109083?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110535](https://vulners.com/nvd/NVD:CVE-2026-110535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111959](https://vulners.com/nvd/NVD:CVE-2026-111959?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113511](https://vulners.com/nvd/NVD:CVE-2026-113511?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113687](https://vulners.com/nvd/NVD:CVE-2026-113687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114364](https://vulners.com/nvd/NVD:CVE-2026-114364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118871](https://vulners.com/nvd/NVD:CVE-2026-118871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120345](https://vulners.com/nvd/NVD:CVE-2026-120345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120347](https://vulners.com/nvd/NVD:CVE-2026-120347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120348](https://vulners.com/nvd/NVD:CVE-2026-120348?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120463](https://vulners.com/nvd/NVD:CVE-2026-120463?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18199](https://vulners.com/nvd/NVD:CVE-2026-18199?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18800](https://vulners.com/nvd/NVD:CVE-2026-18800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-74993](https://vulners.com/nvd/NVD:CVE-2026-74993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82898 Apache Wicket: A cross-origin listener invocation stopped by a login wall is replayed after the user signs in](https://vulners.com/cvelist/CVELIST:CVE-2026-82898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98260](https://vulners.com/githubexploit/D4A86761-C70A-579E-86A2-2520FA9FBF2A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/9393DAB9-6D35-5565-8D38-648440F92F89?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nxc-vulnscan](https://vulners.com/githubexploit/92DFBF9F-09CA-5282-B4AA-933E9593DB1C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers](https://www.wired.com/story/mustard-made-sale-october-2026/)
   - [Want to Sign With a Hollywood Agent? Start Making Fun of AI](https://www.wired.com/story/comedians-making-fun-of-ai/)
 - 不安全
   - [150+ 款正版软件爆降：PixPin / Typora / UPDF / Bandizip 等……](https://buaq.net/go-452167.html)
@@ -168,5 +197,6 @@
   - [央视严选「中国AI创业十骏」：唯一AI制药公司是清华系](https://www.qbitai.com/2026/11/507150.html)
   - [顶级AI翻车的活儿，被这个新出的免费国产AI接住了！](https://www.qbitai.com/2026/11/507277.html)
 - 黑海洋
+  - [字节跳动旗下红果收紧中小短剧保底补贴](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8B%E7%BA%A2%E6%9E%9C%E6%94%B6%E7%B4%A7%E4%B8%AD%E5%B0%8F%E7%9F%AD%E5%89%A7%E4%BF%9D%E5%BA%95%E8%A1%A5%E8%B4%B4)
   - [币安恢复提现后遭遇小高峰：净流出36.4亿美元](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0%E5%90%8E%E9%81%AD%E9%81%87%E5%B0%8F%E9%AB%98%E5%B3%B0-%E5%87%80%E6%B5%81%E5%87%BA36-4%E4%BA%BF%E7%BE%8E%E5%85%83)
   - [给编码 Agent 装一张嘴：DSH 语音 AI 女友的端到端实现](https://blog.upx8.com/Agent-DSH-AI)
