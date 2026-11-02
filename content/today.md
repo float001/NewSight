@@ -4,6 +4,10 @@
   - [Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker](https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/)
 - ByteByteGo
   - [How Nvidia's New Nemotron Model Works](https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works)
+- CoinTelegraph
+  - [Animoca Brands clears final hurdle for Abu Dhabi fund management](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Google AI Blog
+  - [The latest AI news we announced in October 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)
 - Hacker News Frontpage
   - [Grokipedia offers lessons in how AI can help Wikipedia](https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/)
   - [Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal](https://fotojockovic.com/vhs)
@@ -11,12 +15,15 @@
 - TechCrunch
   - [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
   - [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
+  - [In one of the largest deals in tech history, Marvell buys Lumentum for $115B](https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/)
+  - [Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers](https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/)
   - [SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
 - The Block
   - [Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack](https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321)
 - The Decoder
   - [Anthropic grows revenue twelvefold but posts $23 billion loss](https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/)
 - The Verge
+  - [Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028](https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay)
   - [Squarespace is laying off 19 percent of employees](https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent)
   - [Why Peacock is making a huge bet on YouTube](https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv)
 - Vulners.com RSS Feed
@@ -69,6 +76,7 @@
   - [CVE-2026-99242 ntfs: fix race between fallocate and mmap reads](https://vulners.com/cvelist/CVELIST:CVE-2026-99242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/817B1E64-1B6D-5559-98B4-1B3B56A7D52C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)
   - [Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes](https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/)
   - [Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/)
 - 代码审计星球
