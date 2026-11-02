@@ -1,11 +1,17 @@
 # 今日安全资讯（2026-11-02）
 
 - 2Libra
+  - [【💰】又搓了张缝纫桌, 一些碎碎念](https://2libra.com/post/personal-works/lc-it8V)
+  - [【💰】想激情下单个电瓶车解锁坐骑成就，哪些选项比较重要](https://2libra.com/post/recommendations/AFN6dWs)
+  - [东拉西扯](https://2libra.com/post/slacking-off/fJCTsw4)
   - [今年双十一你们买了什么，感觉优惠力度如何](https://2libra.com/post/worth-buying/khOonVP)
   - [出差结束，今日归。](https://2libra.com/post/personal-life/kIDVHeX)
+  - [开心，忽冷忽热徽章到手~](https://2libra.com/post/forum-function/6JEkNbg)
   - [戒掉所有短视频第四天](https://2libra.com/post/personal-life/i8oLNjw)
+  - [潘多拉能中最新的【忽冷忽热】徽章](https://2libra.com/post/forum-function/Lq5dp9e)
 - CoinTelegraph
   - [$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest](https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
 - Hacker News Frontpage
@@ -37,6 +43,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了](https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力](https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [币安恢复提现后遭遇小高峰：净流出36.4亿美元](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0%E5%90%8E%E9%81%AD%E9%81%87%E5%B0%8F%E9%AB%98%E5%B3%B0-%E5%87%80%E6%B5%81%E5%87%BA36-4%E4%BA%BF%E7%BE%8E%E5%85%83)
