@@ -4,6 +4,7 @@
   - [vibe coding 新作, 一个支持在线搜书的 app](https://2libra.com/post/personal-works/hofp7nf)
   - [Zooproxy 免费送优质住宅 & 静态 ISP 代理｜限时福利活动开启 🎃](https://2libra.com/post/promotion/RpdjnHX)
   - [【投票·💰】有没要用过索爱 SOAIY 蓝牙耳机的？](https://2libra.com/post/earphones/3MdYopI)
+  - [【投票·💰】认真只玩过刀剑-诛仙-英雄联盟-黑神话，现在 只狼-影之刃零 二选一](https://2libra.com/post/game-discussion/cx2hYSr)
   - [【虾兵蟹将】小龙虾蟹粉拌面 🍜🍜🍜](https://2libra.com/post/personal-life/TGWaD_U)
   - [【运动打卡】第 2️⃣0️⃣天，温度骤降大家注意穿衣保暖](https://2libra.com/post/sports/D2YfQ7s)
   - [【💰】又搓了张缝纫桌, 一些碎碎念](https://2libra.com/post/personal-works/lc-it8V)
@@ -13,6 +14,7 @@
   - [东拉西扯](https://2libra.com/post/slacking-off/fJCTsw4)
   - [今年双十一你们买了什么，感觉优惠力度如何](https://2libra.com/post/worth-buying/khOonVP)
   - [出差结束，今日归。](https://2libra.com/post/personal-life/kIDVHeX)
+  - [后续黄金的走势如何？](https://2libra.com/post/angel-investment/SySsU5R)
   - [周一，又是想骂人的一天（负面情绪，慎点）](https://2libra.com/post/workplace-stories/QQRZCwn)
   - [好想再试试手动挡的汽车](https://2libra.com/post/automobile/AVMU5-L)
   - [带小孩有感，打工人应该多晒晒太阳，多去公园逛逛](https://2libra.com/post/personal-life/84Ad86W)
@@ -25,6 +27,7 @@
   - [腾讯王卡周年庆开始了](https://2libra.com/post/deal-hunter/jLI-eZT)
 - CoinTelegraph
   - [$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest](https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs sink into October outflows with $643M exit after Binance hack](https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCPay Server warns of hot wallet thefts running on outdated software](https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [THORChain halts swaps after block reorg bug, slowing Binance hackers](https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -80,12 +83,18 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Linux 7.4-rc1 释出](https://www.solidot.org/story?sid=85770)
   - [Stack Overflow 表示它还活着](https://www.solidot.org/story?sid=85769)
 - 爱范儿
+  - [500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？](https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [ChatGPT 正在偷偷给你画像，用这段提示词让它交出来](https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了](https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力](https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」](https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光](https://www.qbitai.com/2026/11/507082.html)
+  - [OpenAI重写大模型法则，第一条：忠于人类！！](https://www.qbitai.com/2026/11/507225.html)
+  - [从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信](https://www.qbitai.com/2026/11/507260.html)
   - [央视严选「中国AI创业十骏」：唯一AI制药公司是清华系](https://www.qbitai.com/2026/11/507150.html)
 - 黑海洋
   - [币安恢复提现后遭遇小高峰：净流出36.4亿美元](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0%E5%90%8E%E9%81%AD%E9%81%87%E5%B0%8F%E9%AB%98%E5%B3%B0-%E5%87%80%E6%B5%81%E5%87%BA36-4%E4%BA%BF%E7%BE%8E%E5%85%83)
