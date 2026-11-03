@@ -2,17 +2,22 @@
 
 - Ars Technica
   - [Google dismantles botnet secretly running on 1.3 million Android TV boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
+- buttondown.com/hillelwayne
+  - [New Article, Annual LFP Charity Discount](https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/)
 - ByteByteGo
   - [How Netflix Uses AI Agents for Performance Engineering](https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance)
 - CoinTelegraph
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
 - Fidelis Security
   - [Detection is Only the Beginning: Future of XDR in the Era of AI](https://fidelissecurity.com/threatgeek/xdr-security/future-of-xdr-agentic-ai-soc/)
 - Google DeepMind Blog
   - [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
 - Hacker News Frontpage
   - [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
+  - [I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
   - [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
   - [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
 - HackerNoon
@@ -26,23 +31,49 @@
 - TechCrunch
   - [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
   - [CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off](https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/)
+  - [Ferrari’s controversial Luce EV is sold out for 2027](https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/)
   - [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
+  - [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/)
   - [Rivian spinout Also was working on an e-moto project in Kenya — until it walked away](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
 - The Block
   - [Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
+  - [Prediction markets bet on Democratic sweep of House, Senate in midterm elections](https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461)
 - The Decoder
   - [AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence](https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/)
 - The Verge
+  - [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
   - [Google is entirely disabling Search in schools that don&#8217;t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
+  - [Google’s Gemini-powered Home Speaker is already on sale for 20 percent off](https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale)
+  - [Indie games are missing launch dates because Steam is backed up](https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates)
   - [Moft’s new origami case adds a kickstand and grip to the iPhone Duo](https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo)
   - [Netflix will show you themed recommendations through a new ‘AI Discover’ tab](https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations)
+  - [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)
+  - [Reddit is adding more ads](https://www.theverge.com/tech/1025602/reddit-search-ads-test)
   - [The Xbox Nano has a hidden cloud secret](https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity)
   - [Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM](https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance)
   - [Xbox’s smallest-ever controller is surprisingly comfortable](https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on)
 - Vulners.com RSS Feed
+  - [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://vulners.com/thn/THN:CA8186C7072948EB228A3BC12391D13B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116845](https://vulners.com/nvd/NVD:CVE-2026-116845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119672 mongofiles may disclose GridFS content to standard output through a stored filename](https://vulners.com/cvelist/CVELIST:CVE-2026-119672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119673 mongofiles may write outside the working directory through a symlink](https://vulners.com/cvelist/CVELIST:CVE-2026-119673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119675 mongorestore may bypass collection guards through a system.buckets prefix](https://vulners.com/cvelist/CVELIST:CVE-2026-119675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121263](https://vulners.com/nvd/NVD:CVE-2026-121263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121624](https://vulners.com/nvd/NVD:CVE-2026-121624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121625](https://vulners.com/nvd/NVD:CVE-2026-121625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121626](https://vulners.com/nvd/NVD:CVE-2026-121626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121627](https://vulners.com/nvd/NVD:CVE-2026-121627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121628](https://vulners.com/nvd/NVD:CVE-2026-121628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44265](https://vulners.com/nvd/NVD:CVE-2026-44265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44266](https://vulners.com/nvd/NVD:CVE-2026-44266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44267](https://vulners.com/nvd/NVD:CVE-2026-44267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63418](https://vulners.com/nvd/NVD:CVE-2026-63418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63418 Monitoring Plugins check_icmp: -H argument count overflow leads in setuid-root binary](https://vulners.com/cve/CVE-2026-63418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63418 Monitoring Plugins check_icmp: -H argument count overflow leads in setuid-root binary](https://vulners.com/cvelist/CVELIST:CVE-2026-63418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63436](https://vulners.com/nvd/NVD:CVE-2026-63436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63492](https://vulners.com/nvd/NVD:CVE-2026-63492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63494](https://vulners.com/nvd/NVD:CVE-2026-63494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63499](https://vulners.com/nvd/NVD:CVE-2026-63499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Running Dry](https://www.wheresyoured.at/running-dry/)
 - 代码审计星球
