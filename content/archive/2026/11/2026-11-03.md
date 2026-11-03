@@ -21,6 +21,7 @@
 - CoinTelegraph
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Animoca Brands clears final hurdle for Abu Dhabi fund management](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation](https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase hit with 50% price target cut as post-earnings rout deepens](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto investigators flag suspected $106M theft, $786K Solana bot drain](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,10 +59,14 @@
   - [Music Through Your Cheekbones: How Bone-Conduction Headphones Work and Why They Sound Different](https://hackernoon.com/music-through-your-cheekbones-how-bone-conduction-headphones-work-and-why-they-sound-different?source=rss)
   - [Your AI Agent's Memory Needs Two Clocks](https://hackernoon.com/your-ai-agents-memory-needs-two-clocks?source=rss)
   - [Your AI Assistant Is Waiting Around - An AI Agent Goes to Work](https://hackernoon.com/your-ai-assistant-is-waiting-around-an-ai-agent-goes-to-work?source=rss)
+- Horizon3.ai
+  - [AI-Powered Penetration Testing: How Autonomous Offensive Security Works](https://horizon3.ai/downloads/whitepapers/ai-powered-penetration-testing-sans-spotlight/)
 - idiallo.com
   - [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child)
 - krebsonsecurity.com
   - [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
+- MIT Technology Review
+  - [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)
 - rtl-sdr.com
   - [dec406: Decoding Second-Generation COSPAS-SARSAT 406 MHz Distress Beacons with an RTL-SDR](https://www.rtl-sdr.com/dec406-decoding-second-generation-cospas-sarsat-406-mhz-distress-beacons-with-an-rtl-sdr/)
   - [Router CSI Toolkit: Capturing 80 MHz Wi-Fi Channel State Information from a GL-MT6000 Router](https://www.rtl-sdr.com/router-csi-toolkit-capturing-80-mhz-wi-fi-channel-state-information-from-a-gl-mt6000-router/)
@@ -182,6 +187,7 @@
 - 爱范儿
   - [乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学](https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头](https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果的一切都在变贵，全怪 AI](https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
   - [模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义](https://www.qbitai.com/2026/11/507367.html)
