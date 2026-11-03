@@ -20,6 +20,7 @@
 - 404 Media
   - [Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried It With 2,000 Takedown Notices in a Single Day](https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/)
   - [Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker](https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/)
+  - [World of Warcraft: Forever Is Already Overrun with AI Slop](https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/)
 - anildash.com
   - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
 - Ars Technica
@@ -44,17 +45,21 @@
   - [France postpones 2027 budget vote, crypto exit-tax proposals scrapped](https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin wallets keep moving funds after $46M hack](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Moscow Exchange to launch Bitcoin, Ether and USDT trading in December](https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NEAR token sinks 7% as proposal to cut annual token issuance passes](https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey drops Coinbase staking order ahead of crypto’s midterm test](https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea denies role in $6.3B Binance hack, points finger at US](https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea urges exchanges to boost cold storage after Binance hack](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Suspected EU crypto theft estimate rises to $133M: ZachXBT](https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [What’s at stake for crypto as the US votes in the 2026 midterms?](https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Suspected EU crypto theft estimate rises to $133M: ZachXBT](https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Amazon cancels multiple Nvidia DGX Spark AI PC orders](https://cybernews.com/tech/amazon-account-cancelled-nvidia-ai-pc-orders/)
   - [Certified Android TV maker Videostrong backdoored its own devices, criminals monetized 1.3M devices](https://cybernews.com/security/videostrong-android-tv-box-backdoor-botnet-dismantled-by-google/)
   - [Democrats plan UFO disclosure committee as Trump trust wanes](https://cybernews.com/news/democrats-republicans-uap-midterm-elections/)
+  - [Elon Musk mocks Sam Altman over claim PCs are wasting precious RAM](https://cybernews.com/tech/altman-musk-dram-data-center-reddit/)
   - [Explainer: Could hackers get inside my fridge?](https://cybernews.com/security/explainer-could-hackers-get-inside-my-fridge/)
   - [FBI points finger at North Korea for $6B Binance attack](https://cybernews.com/security/fbi-blames-north-korea-binance-hack/)
   - [GM settles claims over sharing drivers’ location and behavior data with insurers](https://cybernews.com/privacy/gm-settle-data-sharing/)
@@ -74,6 +79,7 @@
   - [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/)
 - darkreading
   - [$6.3B Binance Hack Shows the Need to Test Attack Paths](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
+  - [3AM Affiliate Embraces AI-Like Loops in European School Attack](https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack)
 - defend.network
   - [Google dismantles 1.3M Android botnet; critical Langflow RCE; Microsoft patches 1,400 flaws](https://defend.network/briefings/google-android-botnet-1-3m-devices-langflow-rce-2026-11-03.html)
 - Didier Stevens
@@ -109,6 +115,7 @@
 - idiallo.com
   - [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child)
 - infosecurity-magazine.com
+  - [Cyber-Attack on Refrigeration Systems Hits Supermarkets Across Europe](https://www.infosecurity-magazine.com/news/cyber-refrigeration-supermarkets/)
   - [LLMJacking is Costing Some Businesses Up to $1m, Warns Google](https://www.infosecurity-magazine.com/news/llmjacking-cost-business-1m-warns/)
   - [NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure](https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/)
   - [Police and Tech Firms Team Up to Dismantle XCPE Botnet](https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/)
@@ -153,6 +160,7 @@
   - [Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers](https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/)
   - [Snap settles lawsuit accusing platform of fueling teen depression and eating disorders](https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/)
   - [SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
+  - [Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/)
   - [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
   - [Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them](https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/)
   - [Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)
@@ -162,6 +170,7 @@
   - [Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack](https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321)
   - [Consensys launches cross-ledger settlement and routing stack for institutional networks](https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375)
   - [DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says](https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331)
+  - [Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps](https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399)
   - [Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports](https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344)
   - [Liquid Network restores full bitcoin backing following $320 million exploit](https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387)
   - [Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach](https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333)
@@ -177,13 +186,18 @@
   - [Nvidia pushes cloud customers to cut back on China business](https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/)
   - [SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product](https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/)
 - The Verge
+  - [Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’](https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music)
   - [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
+  - [Apple is restricting dating apps and romanceable chatbots to over 18s](https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion)
   - [Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around](https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints)
   - [Apple set an iPhone sales record even without a new standard iPhone](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings)
   - [Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028](https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay)
+  - [Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing](https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend)
   - [Ford promises not to sell your driving habits to data brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers)
   - [One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet](https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down)
+  - [Peak Design expands its collection of wireless charging accessories](https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi)
   - [Squarespace is laying off 19 percent of employees](https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent)
+  - [The 2026 iPad Mini is a terrific tiny tablet — for a big price](https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review)
   - [The Apple Watch Ultra 4 is $100 off, matching its best price to date](https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale)
   - [Why Peacock is making a huge bet on YouTube](https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv)
   - [Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure](https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments)
@@ -254,6 +268,7 @@
   - [Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past](https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/)
   - [Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes](https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/)
   - [Apple AirPods 5 Review: Better Than Before but Not Quite Pro](https://www.wired.com/review/apple-airpods-5/)
+  - [Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?](https://www.wired.com/review/ipad-mini-2026/)
   - [Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/)
   - [AT&T Promo Codes: $50 Off This November 2026](https://www.wired.com/story/att-promo-code/)
   - [Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal](https://www.wired.com/story/dyson-vacuum-deals-nov-2026/)
@@ -268,6 +283,7 @@
   - [NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact](https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/)
   - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It](https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/)
+  - [Roli Has Fallen Apart—and Left Customers Holding the Bag](https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/)
   - [The Endlessly Meme-able Steve Kornacki Is Not a Meme Person](https://www.wired.com/story/steve-kornacki-user-behavior/)
   - [The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes](https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/)
   - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
@@ -301,4 +317,5 @@
   - [GitHub GH001 报错：意外推送超大文件，完整清理仓库历史、删除大文件教程](https://blog.axiaoxin.com/post/gh001-git-lfs-undo-large-push/)
   - [不想枯燥学编程？这 10 个游戏化学习网站值得收藏](https://blog.axiaoxin.com/post/gamified-programming-learning-websites/)
 - 黑海洋
+  - [GPU-UNLOCK：显卡 AI 加速支持与 Win/Linux 上手](https://blog.upx8.com/GPU-UNLOCK-AI-Win-Linux)
   - [俄罗斯在袭击发生后允许使用外国数据中心](https://blog.upx8.com/%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A8%E8%A2%AD%E5%87%BB%E5%8F%91%E7%94%9F%E5%90%8E%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8%E5%A4%96%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
