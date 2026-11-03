@@ -4,6 +4,7 @@
   - [今天是幸运日](https://2libra.com/post/forum-function/0x2cnXa)
   - [分享白嫖免费 muse 活动 bot 免费领账号+刷 310 亿 token（带 aff）](https://2libra.com/post/promotion/nyl3Kvf)
   - [大鲸鱼又死了吗？](https://2libra.com/post/questions/HGVC0ns)
+  - [恭喜你！等级从 Lv.9 升级到 Lv.10！看看有多少人是这个满级的级别？](https://2libra.com/post/forum-function/595HOCV)
   - [有没有推荐的男装店铺](https://2libra.com/post/worth-buying/KoTpizx)
   - [用 ai 做心理咨询](https://2libra.com/post/ai-emotion-guard/PefKcuI)
 - 404 Media
@@ -25,6 +26,7 @@
   - [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase hit with 50% price target cut as post-earnings rout deepens](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto investigators flag suspected $106M theft, $786K Solana bot drain](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto.com to withdraw Hong Kong consumer app citing regulatory changes](https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin wallets keep moving funds after $46M hack](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey drops Coinbase staking order ahead of crypto’s midterm test](https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -73,6 +75,9 @@
 - seangoedecke.com
   - [Audience capture](https://seangoedecke.com/audience-capture/)
   - [LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)
+- simonwillison.net
+  - [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/)
+  - [October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter/)
 - Sploitus.com Exploits RSS Feed
   - [berrybus-waf exploit](https://sploitus.com/exploit?id=A23C0FB4-6814-5A80-A4CA-C447DE9BBAE4&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=172C6DA3-C12A-51C4-B4EF-105D15874F1F&utm_source=rss&utm_medium=rss)
@@ -175,13 +180,23 @@
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/817B1E64-1B6D-5559-98B4-1B3B56A7D52C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [K-killer](https://vulners.com/gitee/842DCCC6-8280-5896-987B-ECE35FCF9B54?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [20% Off Brooks Promo Code | November 2026](https://www.wired.com/story/brooks-promo-code/)
+  - [30% Off Canon Promo Codes | November 2026](https://www.wired.com/story/canon-promo-code/)
   - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)
   - [Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes](https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/)
   - [Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/)
+  - [AT&T Promo Codes: $50 Off This November 2026](https://www.wired.com/story/att-promo-code/)
   - [Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal](https://www.wired.com/story/dyson-vacuum-deals-nov-2026/)
   - [Best Early Black Friday Espresso Machine Deals (2026)](https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/)
+  - [Chewy Promo Codes: $20 Off November 2026](https://www.wired.com/story/chewy-promo-code/)
+  - [Dell Coupon Codes: 20% Off for November 2026](https://www.wired.com/story/dell-coupon-code/)
+  - [eBay Coupons: 20% Off in November 2026](https://www.wired.com/story/ebay-coupon-code/)
+  - [Hotels.com Coupon Codes for November 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [How to Save $25 on Burga’s Phone Accessories With This Sale](https://www.wired.com/story/burga-sale-november-2026/)
+  - [KitchenAid Promo Codes: Save Up to 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+  - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
   - [The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes](https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/)
+  - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -190,6 +205,7 @@
   - [苹果的一切都在变贵，全怪 AI](https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
+  - [小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”](https://www.qbitai.com/2026/11/507396.html)
   - [模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义](https://www.qbitai.com/2026/11/507367.html)
 - 阿小信的博客
   - [GitHub GH001 报错：意外推送超大文件，完整清理仓库历史、删除大文件教程](https://blog.axiaoxin.com/post/gh001-git-lfs-undo-large-push/)
