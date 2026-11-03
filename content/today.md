@@ -26,6 +26,7 @@
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [[Sponsor] OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem)
+  - [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/)
 - darkreading
   - [$6.3B Binance Hack Shows the Need to Test Attack Paths](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
 - Didier Stevens
@@ -39,6 +40,7 @@
   - [Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
   - [BYD sold more EVs last month than the US did all quarter, topping 300,000](https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/)
   - [Grokipedia offers lessons in how AI can help Wikipedia](https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/)
+  - [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
   - [Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal](https://fotojockovic.com/vhs)
   - [Show HN: Warsaw in voxels – an interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
   - [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
@@ -54,6 +56,7 @@
   - [LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)
 - Sploitus.com Exploits RSS Feed
   - [berrybus-waf exploit](https://sploitus.com/exploit?id=A23C0FB4-6814-5A80-A4CA-C447DE9BBAE4&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=172C6DA3-C12A-51C4-B4EF-105D15874F1F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=007F9ECF-7849-5227-A5FB-9B88EE44CC71&utm_source=rss&utm_medium=rss)
   - [K-killer exploit](https://sploitus.com/exploit?id=842DCCC6-8280-5896-987B-ECE35FCF9B54&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -102,6 +105,7 @@
   - [CVE-2026-116769 Authentication bypass in Secure Access Servers](https://vulners.com/cvelist/CVELIST:CVE-2026-116769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120500](https://vulners.com/nvd/NVD:CVE-2026-120500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120501](https://vulners.com/nvd/NVD:CVE-2026-120501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120830](https://vulners.com/nvd/NVD:CVE-2026-120830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16306](https://vulners.com/nvd/NVD:CVE-2026-16306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2102](https://vulners.com/nvd/NVD:CVE-2026-2102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77876](https://vulners.com/nvd/NVD:CVE-2026-77876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -157,3 +161,5 @@
   - [The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes](https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头](https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=)
