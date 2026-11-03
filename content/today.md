@@ -6,12 +6,15 @@
   - [分享白嫖免费 muse 活动 bot 免费领账号+刷 310 亿 token（带 aff）](https://2libra.com/post/promotion/nyl3Kvf)
   - [发现空调制热真 JB 恶心的啊](https://2libra.com/post/small-things/yjvbXYb)
   - [大鲸鱼又死了吗？](https://2libra.com/post/questions/HGVC0ns)
+  - [徽章可以佩戴多个，每多一个槽位需要金币购买如何](https://2libra.com/post/forum-function/gg5tvh9)
   - [恭喜你！等级从 Lv.9 升级到 Lv.10！看看有多少人是这个满级的级别？](https://2libra.com/post/forum-function/595HOCV)
   - [有没有推荐的男装店铺](https://2libra.com/post/worth-buying/KoTpizx)
   - [用 ai 做心理咨询](https://2libra.com/post/ai-emotion-guard/PefKcuI)
   - [看到 V 站老哥测试让 AI 骂自己，我也试了一下](https://2libra.com/post/prompts/VPb5Ju7)
+  - [荣耀的手机怎么样啊](https://2libra.com/post/ask-recommendation/bTwEKge)
   - [评论折叠展开的优化小建议](https://2libra.com/post/forum-function/KObyrFR)
 - 404 Media
+  - [Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried It With 2,000 Takedown Notices in a Single Day](https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/)
   - [Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker](https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/)
 - anildash.com
   - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
@@ -26,6 +29,7 @@
 - CoinTelegraph
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Animoca Brands clears final hurdle for Abu Dhabi fund management](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ARK buys $17M in Coinbase, Circle shares while trimming Bullish](https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation](https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June](https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -37,10 +41,13 @@
   - [New Jersey drops Coinbase staking order ahead of crypto’s midterm test](https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korea denies role in $6.3B Binance hack, points finger at US](https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea urges exchanges to boost cold storage after Binance hack](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Suspected EU crypto theft estimate rises to $133M: ZachXBT](https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [Suspected EU crypto theft estimate rises to $133M: ZachXBT](https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [FBI points finger at North Korea for $6B Binance attack](https://cybernews.com/security/fbi-blames-north-korea-binance-hack/)
+  - [GM settles claims over sharing drivers’ location and behavior data with insurers](https://cybernews.com/privacy/gm-settle-data-sharing/)
   - [The UK’s spy agency struggles to locate thousands of USB sticks](https://cybernews.com/security/gchq-lost-thousands-usb/)
 - daringfireball.net
   - [[Sponsor] OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem)
@@ -117,6 +124,7 @@
 - The Block
   - [Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower](https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352)
   - [Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack](https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321)
+  - [Consensys launches cross-ledger settlement and routing stack for institutional networks](https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375)
   - [DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says](https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331)
   - [Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports](https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344)
   - [Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach](https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333)
@@ -217,6 +225,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Enlightenment 0.28.0 释出，初步支持 BSD](https://www.solidot.org/story?sid=85783)
   - [Tor Browser 16.0 释出](https://www.solidot.org/story?sid=85781)
   - [全球加速发展核电](https://www.solidot.org/story?sid=85782)
   - [北欧将可能出现 40°C 高温](https://www.solidot.org/story?sid=85779)
