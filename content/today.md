@@ -2,6 +2,7 @@
 
 - 2Libra
   - [muse 相关问题](https://2libra.com/post/store-management/rUNkAUR)
+  - [【竞猜·💰】2026 英雄联盟全球总决赛 - 淘汰赛 IG 对战 TES](https://2libra.com/post/game-discussion/hCO_X3C)
   - [今天是幸运日](https://2libra.com/post/forum-function/0x2cnXa)
   - [出 88vip 芒果/优酷年会员 2 选一](https://2libra.com/post/second-hand/i0pBLot)
   - [分享白嫖免费 muse 活动 bot 免费领账号+刷 310 亿 token（带 aff）](https://2libra.com/post/promotion/nyl3Kvf)
@@ -37,6 +38,7 @@
   - [Coinbase hit with 50% price target cut as post-earnings rout deepens](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto investigators flag suspected $106M theft, $786K Solana bot drain](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto.com to withdraw Hong Kong consumer app citing regulatory changes](https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [France postpones 2027 budget vote, crypto exit-tax proposals scrapped](https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin wallets keep moving funds after $46M hack](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey drops Coinbase staking order ahead of crypto’s midterm test](https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -47,6 +49,8 @@
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Suspected EU crypto theft estimate rises to $133M: ZachXBT](https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Certified Android TV maker Videostrong backdoored its own devices, criminals monetized 1.3M devices](https://cybernews.com/security/videostrong-android-tv-box-backdoor-botnet-dismantled-by-google/)
+  - [Explainer: Could hackers get inside my fridge?](https://cybernews.com/security/explainer-could-hackers-get-inside-my-fridge/)
   - [FBI points finger at North Korea for $6B Binance attack](https://cybernews.com/security/fbi-blames-north-korea-binance-hack/)
   - [GM settles claims over sharing drivers’ location and behavior data with insurers](https://cybernews.com/privacy/gm-settle-data-sharing/)
   - [Hacker groups claim 23TB Rosstat breach exposes Russia’s hidden war loss data](https://cybernews.com/security/rosstat-russia-hack-war-casualty-figures/)
@@ -54,6 +58,7 @@
   - [OpenAI quadruples bug bounty rewards amid AI-enabled hacking fears](https://cybernews.com/ai-news/openai-increases-bug-bounty-rewards/)
   - [Proton issues an apology, says its AI use will never come at the expense of security](https://cybernews.com/ai-news/proton-apology-ai/)
   - [The UK’s spy agency struggles to locate thousands of USB sticks](https://cybernews.com/security/gchq-lost-thousands-usb/)
+  - [Who’s behind the wave of refrigerator hacks that hit Europe over the weekend?](https://cybernews.com/security/europe-supermarket-refrigerator-hacks/)
 - daniel.haxx.se
   - [Scrutinize our assessments](https://daniel.haxx.se/blog/2026/11/03/scrutinize-our-assessments/)
 - daringfireball.net
@@ -66,6 +71,8 @@
 - Didier Stevens
   - [Quickpost: Banana Equivalent Dose](https://blog.didierstevens.com/2026/11/03/quickpost-banana-equivalent-dose/)
   - [Quickpost: Rad Pro](https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/)
+- ElcomSoft blog
+  - [iOS Acquisition Troubleshooting: Where The Logs Are?](https://blog.elcomsoft.com/2026/11/ios-acquisition-troubleshooting-where-the-logs-are/)
 - Emergent Minds | paddo.dev
   - [Someone to Blame: SaaS Moats From the Buyer's Chair](https://paddo.dev/blog/someone-to-blame/)
 - Google AI Blog
@@ -83,15 +90,20 @@
   - [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
   - [The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
 - HackerNoon
+  - [ModelSeal: Verifying AI Model Files With SHA-256 and Arweave](https://hackernoon.com/modelseal-verifying-ai-model-files-with-sha-256-and-arweave?source=rss)
   - [Music Through Your Cheekbones: How Bone-Conduction Headphones Work and Why They Sound Different](https://hackernoon.com/music-through-your-cheekbones-how-bone-conduction-headphones-work-and-why-they-sound-different?source=rss)
   - [Your AI Agent's Memory Needs Two Clocks](https://hackernoon.com/your-ai-agents-memory-needs-two-clocks?source=rss)
   - [Your AI Assistant Is Waiting Around - An AI Agent Goes to Work](https://hackernoon.com/your-ai-assistant-is-waiting-around-an-ai-agent-goes-to-work?source=rss)
+  - [Your New MTTR Shortcut — Introducing Related Threat Context](https://hackernoon.com/your-new-mttr-shortcut-introducing-related-threat-context?source=rss)
 - Horizon3.ai
   - [AI-Powered Penetration Testing: How Autonomous Offensive Security Works](https://horizon3.ai/downloads/whitepapers/ai-powered-penetration-testing-sans-spotlight/)
 - idiallo.com
   - [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child)
 - infosecurity-magazine.com
+  - [LLMJacking is Costing Some Businesses Up to $1m, Warns Google](https://www.infosecurity-magazine.com/news/llmjacking-cost-business-1m-warns/)
   - [Police and Tech Firms Team Up to Dismantle XCPE Botnet](https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/)
+- johndcook.com
+  - [From a graphics hack to the projective plane](https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/)
 - krebsonsecurity.com
   - [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 - MIT Technology Review
@@ -144,6 +156,7 @@
   - [AI elites might hoard intelligence like mercantilists hoarded gold](https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/)
   - [Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs](https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/)
   - [Anthropic grows revenue twelvefold but posts $23 billion loss](https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/)
+  - [Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security](https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/)
   - [Goldman Sachs pulls AI coding tools from traders and bankers](https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/)
   - [SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product](https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/)
 - The Verge
@@ -219,6 +232,7 @@
   - [20% Off Brooks Promo Code | November 2026](https://www.wired.com/story/brooks-promo-code/)
   - [30% Off Canon Promo Codes | November 2026](https://www.wired.com/story/canon-promo-code/)
   - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)
+  - [Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past](https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/)
   - [Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes](https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/)
   - [Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/)
   - [AT&T Promo Codes: $50 Off This November 2026](https://www.wired.com/story/att-promo-code/)
@@ -230,14 +244,20 @@
   - [Hotels.com Coupon Codes for November 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [How to Save $25 on Burga’s Phone Accessories With This Sale](https://www.wired.com/story/burga-sale-november-2026/)
   - [KitchenAid Promo Codes: Save Up to 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+  - [NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact](https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/)
   - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It](https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/)
+  - [The Endlessly Meme-able Steve Kornacki Is Not a Meme Person](https://www.wired.com/story/steve-kornacki-user-behavior/)
   - [The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes](https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/)
   - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
+  - [White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More](https://www.wired.com/story/best-white-noise-machines/)
+  - [‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers](https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/)
 - 不安全
   - [Claude API公测消息线程功能 长对话无需反复上传历史 首词延迟可降低35%](https://buaq.net/go-452446.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Two-factor authentication code principles](https://dyrnq.com/two-factor-authentication-code-principles/)
 - 奇客Solidot–传递最新科技情报
   - [Enlightenment 0.28.0 释出，初步支持 BSD](https://www.solidot.org/story?sid=85783)
   - [Tor Browser 16.0 释出](https://www.solidot.org/story?sid=85781)
@@ -248,6 +268,8 @@
   - [乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学](https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头](https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果的一切都在变贵，全怪 AI](https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [关于新型僵尸网络VeilDHT大范围传播的风险提示](https://blog.nsfocus.net/%e5%85%b3%e4%ba%8e%e6%96%b0%e5%9e%8b%e5%83%b5%e5%b0%b8%e7%bd%91%e7%bb%9cveildht%e5%a4%a7%e8%8c%83%e5%9b%b4%e4%bc%a0%e6%92%ad%e7%9a%84%e9%a3%8e%e9%99%a9%e6%8f%90%e7%a4%ba/)
 - 量子位 QbitAI
   - [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
   - [小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”](https://www.qbitai.com/2026/11/507396.html)
@@ -256,3 +278,5 @@
 - 阿小信的博客
   - [GitHub GH001 报错：意外推送超大文件，完整清理仓库历史、删除大文件教程](https://blog.axiaoxin.com/post/gh001-git-lfs-undo-large-push/)
   - [不想枯燥学编程？这 10 个游戏化学习网站值得收藏](https://blog.axiaoxin.com/post/gamified-programming-learning-websites/)
+- 黑海洋
+  - [俄罗斯在袭击发生后允许使用外国数据中心](https://blog.upx8.com/%E4%BF%84%E7%BD%97%E6%96%AF%E5%9C%A8%E8%A2%AD%E5%87%BB%E5%8F%91%E7%94%9F%E5%90%8E%E5%85%81%E8%AE%B8%E4%BD%BF%E7%94%A8%E5%A4%96%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
