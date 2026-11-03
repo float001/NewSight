@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-03）
 
 - 2Libra
+  - [muse 相关问题](https://2libra.com/post/store-management/rUNkAUR)
   - [今天是幸运日](https://2libra.com/post/forum-function/0x2cnXa)
   - [出 88vip 芒果/优酷年会员 2 选一](https://2libra.com/post/second-hand/i0pBLot)
   - [分享白嫖免费 muse 活动 bot 免费领账号+刷 310 亿 token（带 aff）](https://2libra.com/post/promotion/nyl3Kvf)
@@ -48,7 +49,13 @@
 - CyberNews
   - [FBI points finger at North Korea for $6B Binance attack](https://cybernews.com/security/fbi-blames-north-korea-binance-hack/)
   - [GM settles claims over sharing drivers’ location and behavior data with insurers](https://cybernews.com/privacy/gm-settle-data-sharing/)
+  - [Hacker groups claim 23TB Rosstat breach exposes Russia’s hidden war loss data](https://cybernews.com/security/rosstat-russia-hack-war-casualty-figures/)
+  - [Microsoft is testing a new PC recovery option](https://cybernews.com/tech/microsoft-windows-11-cloud-rebuild/)
+  - [OpenAI quadruples bug bounty rewards amid AI-enabled hacking fears](https://cybernews.com/ai-news/openai-increases-bug-bounty-rewards/)
+  - [Proton issues an apology, says its AI use will never come at the expense of security](https://cybernews.com/ai-news/proton-apology-ai/)
   - [The UK’s spy agency struggles to locate thousands of USB sticks](https://cybernews.com/security/gchq-lost-thousands-usb/)
+- daniel.haxx.se
+  - [Scrutinize our assessments](https://daniel.haxx.se/blog/2026/11/03/scrutinize-our-assessments/)
 - daringfireball.net
   - [[Sponsor] OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem)
   - [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/)
@@ -83,6 +90,8 @@
   - [AI-Powered Penetration Testing: How Autonomous Offensive Security Works](https://horizon3.ai/downloads/whitepapers/ai-powered-penetration-testing-sans-spotlight/)
 - idiallo.com
   - [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child)
+- infosecurity-magazine.com
+  - [Police and Tech Firms Team Up to Dismantle XCPE Botnet](https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/)
 - krebsonsecurity.com
   - [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 - MIT Technology Review
@@ -95,6 +104,8 @@
 - seangoedecke.com
   - [Audience capture](https://seangoedecke.com/audience-capture/)
   - [LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)
+- Securelist
+  - [MLEP in KICS for Networks 5.0: how machine learning helps track network behavior of OT devices](https://securelist.com/tr/machine-learning-event-processor-in-kics-for-networks/121794/)
 - simonwillison.net
   - [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/)
   - [October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter/)
@@ -128,8 +139,10 @@
   - [DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says](https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331)
   - [Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports](https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344)
   - [Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach](https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333)
+  - [NEAR governance approves proposal to cut token issuance ceiling to 1.6%](https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378)
 - The Decoder
   - [AI elites might hoard intelligence like mercantilists hoarded gold](https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/)
+  - [Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs](https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/)
   - [Anthropic grows revenue twelvefold but posts $23 billion loss](https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/)
   - [Goldman Sachs pulls AI coding tools from traders and bankers](https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/)
   - [SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product](https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/)
@@ -218,6 +231,7 @@
   - [How to Save $25 on Burga’s Phone Accessories With This Sale](https://www.wired.com/story/burga-sale-november-2026/)
   - [KitchenAid Promo Codes: Save Up to 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
   - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
+  - [Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It](https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/)
   - [The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes](https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/)
   - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
 - 不安全
