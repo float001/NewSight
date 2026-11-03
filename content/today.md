@@ -9,6 +9,7 @@
   - [发现空调制热真 JB 恶心的啊](https://2libra.com/post/small-things/yjvbXYb)
   - [大鲸鱼又死了吗？](https://2libra.com/post/questions/HGVC0ns)
   - [徽章可以佩戴多个，每多一个槽位需要金币购买如何](https://2libra.com/post/forum-function/gg5tvh9)
+  - [心悦中转站｜全时段鹈鹕巡检护航・模型保真 欢迎各位大佬实测打假](https://2libra.com/post/transfer-station/Rw94VDs)
   - [恭喜你！等级从 Lv.9 升级到 Lv.10！看看有多少人是这个满级的级别？](https://2libra.com/post/forum-function/595HOCV)
   - [有没有推荐的男装店铺](https://2libra.com/post/worth-buying/KoTpizx)
   - [用 ai 做心理咨询](https://2libra.com/post/ai-emotion-guard/PefKcuI)
@@ -33,6 +34,7 @@
   - [Animoca Brands clears final hurdle for Abu Dhabi fund management](https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ARK buys $17M in Coinbase, Circle shares while trimming Bullish](https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation](https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance’s net inflows turn positive at $2.3B as withdrawals expand](https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally](https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June](https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase hit with 50% price target cut as post-earnings rout deepens](https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -54,8 +56,10 @@
   - [FBI points finger at North Korea for $6B Binance attack](https://cybernews.com/security/fbi-blames-north-korea-binance-hack/)
   - [GM settles claims over sharing drivers’ location and behavior data with insurers](https://cybernews.com/privacy/gm-settle-data-sharing/)
   - [Hacker groups claim 23TB Rosstat breach exposes Russia’s hidden war loss data](https://cybernews.com/security/rosstat-russia-hack-war-casualty-figures/)
+  - [Hackers send fake nuclear attack alerts in Ukraine and Russia](https://cybernews.com/security/air-alert-apps-ukraine-russia-hacked/)
   - [Microsoft is testing a new PC recovery option](https://cybernews.com/tech/microsoft-windows-11-cloud-rebuild/)
   - [OpenAI quadruples bug bounty rewards amid AI-enabled hacking fears](https://cybernews.com/ai-news/openai-increases-bug-bounty-rewards/)
+  - [Prada makes a statement with a hand-drawn Christmas campaign](https://cybernews.com/ai-news/prada-christmas-ad-campaign/)
   - [Proton issues an apology, says its AI use will never come at the expense of security](https://cybernews.com/ai-news/proton-apology-ai/)
   - [The UK’s spy agency struggles to locate thousands of USB sticks](https://cybernews.com/security/gchq-lost-thousands-usb/)
   - [Who’s behind the wave of refrigerator hacks that hit Europe over the weekend?](https://cybernews.com/security/europe-supermarket-refrigerator-hacks/)
@@ -84,6 +88,7 @@
   - [Grokipedia offers lessons in how AI can help Wikipedia](https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/)
   - [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
   - [Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)](https://www.keepingup.com/benchmarks/net-worth/age-30-33)
+  - [Sam Altman's Case Against Your RAM Is Efficient. That's the Problem](https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/)
   - [Show HN: ReBirth 338 in Browser](https://margeux.com/rb338.html)
   - [Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal](https://fotojockovic.com/vhs)
   - [Show HN: Warsaw in voxels – an interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
@@ -101,6 +106,7 @@
   - [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child)
 - infosecurity-magazine.com
   - [LLMJacking is Costing Some Businesses Up to $1m, Warns Google](https://www.infosecurity-magazine.com/news/llmjacking-cost-business-1m-warns/)
+  - [NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure](https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/)
   - [Police and Tech Firms Team Up to Dismantle XCPE Botnet](https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/)
 - johndcook.com
   - [From a graphics hack to the projective plane](https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/)
@@ -150,6 +156,7 @@
   - [Consensys launches cross-ledger settlement and routing stack for institutional networks](https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375)
   - [DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says](https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331)
   - [Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports](https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344)
+  - [Liquid Network restores full bitcoin backing following $320 million exploit](https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387)
   - [Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach](https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333)
   - [NEAR governance approves proposal to cut token issuance ceiling to 1.6%](https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378)
 - The Decoder
@@ -158,6 +165,7 @@
   - [Anthropic grows revenue twelvefold but posts $23 billion loss](https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/)
   - [Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security](https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/)
   - [Goldman Sachs pulls AI coding tools from traders and bankers](https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/)
+  - [Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market](https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/)
   - [SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product](https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/)
 - The Verge
   - [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
@@ -170,6 +178,8 @@
   - [The Apple Watch Ultra 4 is $100 off, matching its best price to date](https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale)
   - [Why Peacock is making a huge bet on YouTube](https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv)
   - [Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure](https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments)
+- Trail of Bits Blog
+  - [The cryptography behind electronic voting (and why paper ballots are still essential)](https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/)
 - Vulners.com RSS Feed
   - [berrybus-waf](https://vulners.com/gitee/A23C0FB4-6814-5A80-A4CA-C447DE9BBAE4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104080](https://vulners.com/nvd/NVD:CVE-2026-104080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -234,6 +244,7 @@
   - [A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress](https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/)
   - [Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past](https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/)
   - [Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes](https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/)
+  - [Apple AirPods 5 Review: Better Than Before but Not Quite Pro](https://www.wired.com/review/apple-airpods-5/)
   - [Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/)
   - [AT&T Promo Codes: $50 Off This November 2026](https://www.wired.com/story/att-promo-code/)
   - [Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal](https://www.wired.com/story/dyson-vacuum-deals-nov-2026/)
@@ -243,6 +254,7 @@
   - [eBay Coupons: 20% Off in November 2026](https://www.wired.com/story/ebay-coupon-code/)
   - [Hotels.com Coupon Codes for November 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [How to Save $25 on Burga’s Phone Accessories With This Sale](https://www.wired.com/story/burga-sale-november-2026/)
+  - [ICE Is Inspiring Latinos to Vote in Historic Numbers](https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/)
   - [KitchenAid Promo Codes: Save Up to 20%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
   - [NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact](https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/)
   - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
@@ -273,6 +285,7 @@
 - 量子位 QbitAI
   - [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
   - [小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”](https://www.qbitai.com/2026/11/507396.html)
+  - [模型谁都买得到，拉开差距的是AI生产力系统](https://www.qbitai.com/2026/11/507448.html)
   - [模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义](https://www.qbitai.com/2026/11/507367.html)
   - [苹果被曝的新产品，中国央企8个月前已装进公共卫生间](https://www.qbitai.com/2026/11/507410.html)
 - 阿小信的博客
