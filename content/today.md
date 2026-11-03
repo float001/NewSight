@@ -11,6 +11,7 @@
 - CoinTelegraph
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC clears stock perpetual futures for trading on US exchanges](https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom](https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms: Prediction markets favor Democrats in key crypto races](https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -18,6 +19,8 @@
   - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
 - daringfireball.net
   - [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/)
+- darkreading
+  - [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
 - Fidelis Security
   - [Detection is Only the Beginning: Future of XDR in the Era of AI](https://fidelissecurity.com/threatgeek/xdr-security/future-of-xdr-agentic-ai-soc/)
 - Google DeepMind Blog
@@ -46,7 +49,9 @@
 - TechCrunch
   - [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
   - [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
+  - [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
   - [CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off](https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/)
+  - [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
   - [Ferrari’s controversial Luce EV is sold out for 2027](https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/)
   - [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
   - [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
@@ -60,6 +65,7 @@
   - [CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack](https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458)
   - [Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
   - [Prediction markets bet on Democratic sweep of House, Senate in midterm elections](https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461)
+  - [SEC division views Canton Coin as digital commodity in no-action letter](https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492)
 - The Decoder
   - [AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence](https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/)
   - [OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week](https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/)
@@ -67,6 +73,7 @@
 - The Verge
   - [Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)
   - [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
+  - [Canva is announcing changes and layoffs affecting 22 percent of its staff](https://www.theverge.com/tech/1025971/canva-changes-layoffs)
   - [Don’t be fooled by the fake hair on these famous baldies](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)
   - [Google is entirely disabling Search in schools that don&#8217;t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
   - [Google’s Gemini-powered Home Speaker is already on sale for 20 percent off](https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale)
@@ -77,19 +84,44 @@
   - [Netflix will show you themed recommendations through a new ‘AI Discover’ tab](https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations)
   - [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)
   - [Reddit is adding more ads](https://www.theverge.com/tech/1025602/reddit-search-ads-test)
+  - [Sonos adds new Presets and prepares for the 27voice AI beta](https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access)
   - [The Pixel Buds Pro 2 have returned to their lowest price to date](https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale)
   - [The Xbox Nano has a hidden cloud secret](https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity)
   - [This Election Day, remember which party ran against EVs and tethered us all to the gas pump](https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms)
+  - [Valve is making changes to deal with a ‘significant increase’ in Steam game submissions](https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions)
   - [Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM](https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance)
   - [Xbox’s smallest-ever controller is surprisingly comfortable](https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on)
   - [You can’t hit a wrong note when playing along with songs on Casio’s new keyboard](https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology)
 - Vulners.com RSS Feed
   - [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://vulners.com/thn/THN:CA8186C7072948EB228A3BC12391D13B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108324 Tanium addressed a denial of service vulnerability in Tanium Client.](https://vulners.com/cvelist/CVELIST:CVE-2026-108324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108327 Tanium addressed a path traversal vulnerability in Tanium Data Service.](https://vulners.com/cvelist/CVELIST:CVE-2026-108327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112354](https://vulners.com/nvd/NVD:CVE-2026-112354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115541](https://vulners.com/nvd/NVD:CVE-2026-115541?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116646 Tanium addressed an uncontrolled resource consumption vulnerability in Threat Response.](https://vulners.com/cvelist/CVELIST:CVE-2026-116646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116648 Tanium addressed an improper output sanitization vulnerability in Discover.](https://vulners.com/cvelist/CVELIST:CVE-2026-116648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116651 Tanium addressed an unauthorized code execution vulnerability in Threat Response.](https://vulners.com/cvelist/CVELIST:CVE-2026-116651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116652 Tanium addressed a business logic error in Threat Response.](https://vulners.com/cvelist/CVELIST:CVE-2026-116652?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116653 Tanium addressed an improper input validation vulnerability in Threat Response.](https://vulners.com/cvelist/CVELIST:CVE-2026-116653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116654 Tanium addressed an improper input validation vulnerability in Threat Response.](https://vulners.com/cvelist/CVELIST:CVE-2026-116654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116663 Tanium addressed an improper access controls vulnerability in Enforce.](https://vulners.com/cvelist/CVELIST:CVE-2026-116663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116664 Tanium addressed an improper access controls vulnerability in Discover.](https://vulners.com/cvelist/CVELIST:CVE-2026-116664?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116665 Tanium addressed an information disclosure vulnerability in Discover.](https://vulners.com/cvelist/CVELIST:CVE-2026-116665?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116667 Tanium addressed an improper access controls vulnerability in Discover.](https://vulners.com/cvelist/CVELIST:CVE-2026-116667?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116669 Tanium addressed an improper access controls vulnerability in Discover.](https://vulners.com/cvelist/CVELIST:CVE-2026-116669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116845](https://vulners.com/nvd/NVD:CVE-2026-116845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118865](https://vulners.com/nvd/NVD:CVE-2026-118865?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119084](https://vulners.com/nvd/NVD:CVE-2026-119084?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119672 mongofiles may disclose GridFS content to standard output through a stored filename](https://vulners.com/cvelist/CVELIST:CVE-2026-119672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119673 mongofiles may write outside the working directory through a symlink](https://vulners.com/cvelist/CVELIST:CVE-2026-119673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119675 mongorestore may bypass collection guards through a system.buckets prefix](https://vulners.com/cvelist/CVELIST:CVE-2026-119675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120775 Tanium addressed a heap-based buffer overflow vulnerability in Deploy.](https://vulners.com/cvelist/CVELIST:CVE-2026-120775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121263](https://vulners.com/nvd/NVD:CVE-2026-121263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121520 Malicious client could set xattr value outside of BuildKit state directory](https://vulners.com/cvelist/CVELIST:CVE-2026-121520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121522 Possible panic from Git source resolver](https://vulners.com/cve/CVE-2026-121522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121522 Possible panic from Git source resolver](https://vulners.com/cvelist/CVELIST:CVE-2026-121522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121535 miroslavpejic85 MiroTalk P2P Room Action server.js checkPassword excessive authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-121535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121565 Tanium addressed an improper certificate validation vulnerability in multiple products](https://vulners.com/cvelist/CVELIST:CVE-2026-121565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121624](https://vulners.com/nvd/NVD:CVE-2026-121624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121625](https://vulners.com/nvd/NVD:CVE-2026-121625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121626](https://vulners.com/nvd/NVD:CVE-2026-121626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -159,6 +191,7 @@
 - Wired
   - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
   - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
+  - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
