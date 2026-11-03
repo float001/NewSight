@@ -3,10 +3,12 @@
 - 2Libra
   - [今天是幸运日](https://2libra.com/post/forum-function/0x2cnXa)
   - [分享白嫖免费 muse 活动 bot 免费领账号+刷 310 亿 token（带 aff）](https://2libra.com/post/promotion/nyl3Kvf)
+  - [发现空调制热真 JB 恶心的啊](https://2libra.com/post/small-things/yjvbXYb)
   - [大鲸鱼又死了吗？](https://2libra.com/post/questions/HGVC0ns)
   - [恭喜你！等级从 Lv.9 升级到 Lv.10！看看有多少人是这个满级的级别？](https://2libra.com/post/forum-function/595HOCV)
   - [有没有推荐的男装店铺](https://2libra.com/post/worth-buying/KoTpizx)
   - [用 ai 做心理咨询](https://2libra.com/post/ai-emotion-guard/PefKcuI)
+  - [评论折叠展开的优化小建议](https://2libra.com/post/forum-function/KObyrFR)
 - 404 Media
   - [Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker](https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/)
 - anildash.com
@@ -34,11 +36,16 @@
   - [South Korea urges exchanges to boost cold storage after Binance hack](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [FBI points finger at North Korea for $6B Binance attack](https://cybernews.com/security/fbi-blames-north-korea-binance-hack/)
+  - [The UK’s spy agency struggles to locate thousands of USB sticks](https://cybernews.com/security/gchq-lost-thousands-usb/)
 - daringfireball.net
   - [[Sponsor] OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem)
   - [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/)
 - darkreading
   - [$6.3B Binance Hack Shows the Need to Test Attack Paths](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
+- defend.network
+  - [Google dismantles 1.3M Android botnet; critical Langflow RCE; Microsoft patches 1,400 flaws](https://defend.network/briefings/google-android-botnet-1-3m-devices-langflow-rce-2026-11-03.html)
 - Didier Stevens
   - [Quickpost: Banana Equivalent Dose](https://blog.didierstevens.com/2026/11/03/quickpost-banana-equivalent-dose/)
   - [Quickpost: Rad Pro](https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/)
@@ -53,6 +60,7 @@
   - [Grokipedia offers lessons in how AI can help Wikipedia](https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/)
   - [Intel stock collapse worsens as $3.5T chip rout spreads](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
   - [Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)](https://www.keepingup.com/benchmarks/net-worth/age-30-33)
+  - [Show HN: ReBirth 338 in Browser](https://margeux.com/rb338.html)
   - [Show HN: VHS Camera – Run your camera or videos through a simulated VHS signal](https://fotojockovic.com/vhs)
   - [Show HN: Warsaw in voxels – an interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)
   - [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/)
@@ -69,6 +77,8 @@
   - [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
 - MIT Technology Review
   - [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)
+- NVIDIA AI Blog
+  - [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/)
 - rtl-sdr.com
   - [dec406: Decoding Second-Generation COSPAS-SARSAT 406 MHz Distress Beacons with an RTL-SDR](https://www.rtl-sdr.com/dec406-decoding-second-generation-cospas-sarsat-406-mhz-distress-beacons-with-an-rtl-sdr/)
   - [Router CSI Toolkit: Capturing 80 MHz Wi-Fi Channel State Information from a GL-MT6000 Router](https://www.rtl-sdr.com/router-csi-toolkit-capturing-80-mhz-wi-fi-channel-state-information-from-a-gl-mt6000-router/)
@@ -199,6 +209,8 @@
   - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [北欧将可能出现 40°C 高温](https://www.solidot.org/story?sid=85779)
 - 爱范儿
   - [乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学](https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头](https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -207,6 +219,7 @@
   - [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
   - [小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”](https://www.qbitai.com/2026/11/507396.html)
   - [模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义](https://www.qbitai.com/2026/11/507367.html)
+  - [苹果被曝的新产品，中国央企8个月前已装进公共卫生间](https://www.qbitai.com/2026/11/507410.html)
 - 阿小信的博客
   - [GitHub GH001 报错：意外推送超大文件，完整清理仓库历史、删除大文件教程](https://blog.axiaoxin.com/post/gh001-git-lfs-undo-large-push/)
   - [不想枯燥学编程？这 10 个游戏化学习网站值得收藏](https://blog.axiaoxin.com/post/gamified-programming-learning-websites/)
