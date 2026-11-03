@@ -5,6 +5,7 @@
 - 404 Media
   - [Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker](https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/)
 - Ars Technica
+  - ["At Home in Space" opens, caps Air and Space Museum renovation](https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/)
   - [Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights](https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/)
   - [Third person dies of bird flu since virus started jumping to livestock](https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/)
 - ByteByteGo
@@ -20,6 +21,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin wallets keep moving funds after $46M hack](https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [New Jersey drops Coinbase staking order ahead of crypto’s midterm test](https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [North Korea denies role in $6.3B Binance hack, points finger at US](https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [AI poses greater threat to Bitcoin than quantum computing, Swan founder says](https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -27,7 +29,10 @@
 - darkreading
   - [$6.3B Binance Hack Shows the Need to Test Attack Paths](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
 - Didier Stevens
+  - [Quickpost: Banana Equivalent Dose](https://blog.didierstevens.com/2026/11/03/quickpost-banana-equivalent-dose/)
   - [Quickpost: Rad Pro](https://blog.didierstevens.com/2026/11/02/quickpost-rad-pro/)
+- Emergent Minds | paddo.dev
+  - [Someone to Blame: SaaS Moats From the Buyer's Chair](https://paddo.dev/blog/someone-to-blame/)
 - Google AI Blog
   - [The latest AI news we announced in October 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/)
 - Hacker News Frontpage
@@ -42,6 +47,11 @@
   - [Music Through Your Cheekbones: How Bone-Conduction Headphones Work and Why They Sound Different](https://hackernoon.com/music-through-your-cheekbones-how-bone-conduction-headphones-work-and-why-they-sound-different?source=rss)
   - [Your AI Agent's Memory Needs Two Clocks](https://hackernoon.com/your-ai-agents-memory-needs-two-clocks?source=rss)
   - [Your AI Assistant Is Waiting Around - An AI Agent Goes to Work](https://hackernoon.com/your-ai-assistant-is-waiting-around-an-ai-agent-goes-to-work?source=rss)
+- idiallo.com
+  - [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child)
+- seangoedecke.com
+  - [Audience capture](https://seangoedecke.com/audience-capture/)
+  - [LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)
 - Sploitus.com Exploits RSS Feed
   - [berrybus-waf exploit](https://sploitus.com/exploit?id=A23C0FB4-6814-5A80-A4CA-C447DE9BBAE4&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=007F9ECF-7849-5227-A5FB-9B88EE44CC71&utm_source=rss&utm_medium=rss)
@@ -49,6 +59,7 @@
 - TechCrunch
   - [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
   - [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
+  - [Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve](https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/)
   - [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
   - [Germany says lawmakers’ iPhones may have been hacked with spyware](https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/)
   - [In one of the largest deals in tech history, Marvell buys Lumentum for $115B](https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/)
@@ -56,6 +67,7 @@
   - [Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers](https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/)
   - [Snap settles lawsuit accusing platform of fueling teen depression and eating disorders](https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/)
   - [SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
+  - [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
   - [Web host Squarespace lays off 19% of its employees](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/)
 - The Block
   - [Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack](https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321)
@@ -142,5 +154,6 @@
   - [Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal](https://www.wired.com/story/dyson-vacuum-deals-nov-2026/)
   - [Best Early Black Friday Espresso Machine Deals (2026)](https://www.wired.com/story/early-black-friday-coffee-espresso-deals-2026/)
   - [How to Save $25 on Burga’s Phone Accessories With This Sale](https://www.wired.com/story/burga-sale-november-2026/)
+  - [The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes](https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
