@@ -6,11 +6,16 @@
   - [New Article, Annual LFP Charity Discount](https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/)
 - ByteByteGo
   - [How Netflix Uses AI Agents for Performance Engineering](https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance)
+- Chainalysis Blog
+  - [DPRK Hackers Perfected Their Fake Interview Playbook Over Dozens of Attacks Before Binance](https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/)
 - CoinTelegraph
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US midterms: Prediction markets favor Democrats in key crypto races](https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
+- daringfireball.net
+  - [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/)
 - Fidelis Security
   - [Detection is Only the Beginning: Future of XDR in the Era of AI](https://fidelissecurity.com/threatgeek/xdr-security/future-of-xdr-agentic-ai-soc/)
 - Google DeepMind Blog
@@ -18,7 +23,9 @@
 - Hacker News Frontpage
   - [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
   - [I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
+  - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
   - [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
+  - [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one)
   - [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
 - HackerNoon
   - [Athena Raises $2.5 Million From a16z Speedrun to End the Billable Hour in Real Estate Law](https://hackernoon.com/athena-raises-$25-million-from-a16z-speedrun-to-end-the-billable-hour-in-real-estate-law?source=rss)
@@ -29,17 +36,21 @@
 - NVIDIA AI Blog
   - [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)
 - TechCrunch
+  - [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
   - [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
   - [CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off](https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/)
   - [Ferrari’s controversial Luce EV is sold out for 2027](https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/)
   - [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
   - [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/)
+  - [Reddit tests ads in search results as traffic declines and growth concerns mount](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/)
+  - [Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist](https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/)
   - [Rivian spinout Also was working on an e-moto project in Kenya — until it walked away](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
 - The Block
   - [Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
   - [Prediction markets bet on Democratic sweep of House, Senate in midterm elections](https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461)
 - The Decoder
   - [AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence](https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/)
+  - [Rapid LLM development is outrunning the research meant to explain it, study finds](https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/)
 - The Verge
   - [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
   - [Google is entirely disabling Search in schools that don&#8217;t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
@@ -50,8 +61,10 @@
   - [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)
   - [Reddit is adding more ads](https://www.theverge.com/tech/1025602/reddit-search-ads-test)
   - [The Xbox Nano has a hidden cloud secret](https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity)
+  - [This Election Day, remember which party ran against EVs and tethered us all to the gas pump](https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms)
   - [Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM](https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance)
   - [Xbox’s smallest-ever controller is surprisingly comfortable](https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on)
+  - [You can’t hit a wrong note when playing along with songs on Casio’s new keyboard](https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology)
 - Vulners.com RSS Feed
   - [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://vulners.com/thn/THN:CA8186C7072948EB228A3BC12391D13B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116845](https://vulners.com/nvd/NVD:CVE-2026-116845?utm_source=rss&utm_medium=rss&utm_campaign=rss)
