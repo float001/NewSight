@@ -18,6 +18,7 @@
   - [荣耀的手机怎么样啊](https://2libra.com/post/ask-recommendation/bTwEKge)
   - [评论折叠展开的优化小建议](https://2libra.com/post/forum-function/KObyrFR)
 - 404 Media
+  - [America Votes: 'CEKEVPATIVG EDELDOA'](https://www.404media.co/america-votes-cekevpativg-edeldoa/)
   - [Vibe Coded AO3 Clone Site Down After Fanfic Authors Buried It With 2,000 Takedown Notices in a Single Day](https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/)
   - [Voting in 2026 Is Getting an AI Slop 'I Voted' Sticker](https://www.404media.co/voting-in-2026-is-getting-an-ai-slop-i-voted-sticker/)
   - [World of Warcraft: Forever Is Already Overrun with AI Slop](https://www.404media.co/world-of-warcraft-forever-is-already-overrun-with-ai-slop/)
@@ -66,10 +67,13 @@
   - [Hacker groups claim 23TB Rosstat breach exposes Russia’s hidden war loss data](https://cybernews.com/security/rosstat-russia-hack-war-casualty-figures/)
   - [Hackers send fake nuclear attack alerts in Ukraine and Russia](https://cybernews.com/security/air-alert-apps-ukraine-russia-hacked/)
   - [Microsoft is testing a new PC recovery option](https://cybernews.com/tech/microsoft-windows-11-cloud-rebuild/)
+  - [Mysterious iPhone malware puts German politicians on alert](https://cybernews.com/security/mysterious-iphone-malware-puts-german-politicians-on-alert/)
   - [OpenAI quadruples bug bounty rewards amid AI-enabled hacking fears](https://cybernews.com/ai-news/openai-increases-bug-bounty-rewards/)
   - [Prada makes a statement with a hand-drawn Christmas campaign](https://cybernews.com/ai-news/prada-christmas-ad-campaign/)
   - [Proton issues an apology, says its AI use will never come at the expense of security](https://cybernews.com/ai-news/proton-apology-ai/)
+  - [Schulen in sechs Bundesländern erhalten Zugriff auf deutsche Cloud-Lösung](https://cybernews.com/de/tech/sovereign-cloud-schulen-deutschland/)
   - [Six German states can now choose a sovereign cloud in schools](https://cybernews.com/tech/german-schools-sovereign-cloud/)
+  - [Stop counting stolen passwords: Here’s what really brings organizations to their knees](https://cybernews.com/security/infostealers-threat-organizations-stolen-credentials/)
   - [The UK’s spy agency struggles to locate thousands of USB sticks](https://cybernews.com/security/gchq-lost-thousands-usb/)
   - [Who’s behind the wave of refrigerator hacks that hit Europe over the weekend?](https://cybernews.com/security/europe-supermarket-refrigerator-hacks/)
 - daniel.haxx.se
@@ -77,6 +81,9 @@
 - daringfireball.net
   - [[Sponsor] OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=rssitem)
   - [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/)
+  - [Apple’s Analyst Calls Have Been Scripted for Decades](https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/)
+  - [Apple’s New iPhone Release Schedule Seems to Pay Off](https://x.com/asymco/status/2117379158087278697)
+  - [Chance Miller Reviews the New A20 Pro iPad Mini](https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/)
 - darkreading
   - [$6.3B Binance Hack Shows the Need to Test Attack Paths](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)
   - [3AM Affiliate Embraces AI-Like Loops in European School Attack](https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack)
@@ -116,11 +123,13 @@
   - [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child)
 - infosecurity-magazine.com
   - [Cyber-Attack on Refrigeration Systems Hits Supermarkets Across Europe](https://www.infosecurity-magazine.com/news/cyber-refrigeration-supermarkets/)
+  - [Hackers Exploit BTCPay Server Flaw to Steal Cryptocurrency](https://www.infosecurity-magazine.com/news/btcpay-server-flaw-cryptocurrency/)
   - [LLMJacking is Costing Some Businesses Up to $1m, Warns Google](https://www.infosecurity-magazine.com/news/llmjacking-cost-business-1m-warns/)
   - [NCSC Chief Warns of Imminent AI Ransomware Threat to UK Critical Infrastructure](https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/)
   - [Police and Tech Firms Team Up to Dismantle XCPE Botnet](https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/)
 - johndcook.com
   - [Euclidean, Spherical, and Projective Geometry](https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/)
+  - [Fraction comparison trick revisited](https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/)
   - [From a graphics hack to the projective plane](https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/)
 - krebsonsecurity.com
   - [Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/)
@@ -128,6 +137,8 @@
   - [Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/)
 - NVIDIA AI Blog
   - [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/)
+- pluralistic.net
+  - [Pluralistic: Separable (03 Nov 2026)](https://pluralistic.net/2026/11/03/nobody-is-home/)
 - rtl-sdr.com
   - [dec406: Decoding Second-Generation COSPAS-SARSAT 406 MHz Distress Beacons with an RTL-SDR](https://www.rtl-sdr.com/dec406-decoding-second-generation-cospas-sarsat-406-mhz-distress-beacons-with-an-rtl-sdr/)
   - [Router CSI Toolkit: Capturing 80 MHz Wi-Fi Channel State Information from a GL-MT6000 Router](https://www.rtl-sdr.com/router-csi-toolkit-capturing-80-mhz-wi-fi-channel-state-information-from-a-gl-mt6000-router/)
@@ -146,6 +157,7 @@
   - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=172C6DA3-C12A-51C4-B4EF-105D15874F1F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98432](https://sploitus.com/exploit?id=007F9ECF-7849-5227-A5FB-9B88EE44CC71&utm_source=rss&utm_medium=rss)
   - [K-killer exploit](https://sploitus.com/exploit?id=842DCCC6-8280-5896-987B-ECE35FCF9B54&utm_source=rss&utm_medium=rss)
+  - [react2shell_poc exploit](https://sploitus.com/exploit?id=9E0F9B52-1CA7-585D-AB0F-8B6404A8ABD4&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
   - [Anthropic warns that it’s very close to RSI capability, aka self-building AI](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
@@ -160,6 +172,7 @@
   - [Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers](https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/)
   - [Snap settles lawsuit accusing platform of fueling teen depression and eating disorders](https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/)
   - [SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/)
+  - [The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4](https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/)
   - [Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/)
   - [Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)
   - [Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them](https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/)
@@ -184,8 +197,10 @@
   - [Goldman Sachs pulls AI coding tools from traders and bankers](https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/)
   - [Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market](https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/)
   - [Nvidia pushes cloud customers to cut back on China business](https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/)
+  - [OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom](https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/)
   - [SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product](https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/)
 - The Verge
+  - [A truck-sized NASA space telescope is about to crash to Earth](https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth)
   - [Adobe’s Premiere mobile app is adding licensed music from ‘leading artists’](https://www.theverge.com/tech/1025160/adobe-umg-wmg-premiere-mobile-licensed-music)
   - [Anthropic clamps down on Claude’s AI video game clones](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones)
   - [Apple is restricting dating apps and romanceable chatbots to over 18s](https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion)
@@ -195,6 +210,7 @@
   - [Bambu&#8217;s nine-nozzle H3C foretells the future of 3D printing](https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend)
   - [Ford promises not to sell your driving habits to data brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers)
   - [One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet](https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down)
+  - [OpenAI is quietly renaming data centers ‘compute campuses’](https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses)
   - [Peak Design expands its collection of wireless charging accessories](https://www.theverge.com/tech/1024484/peak-design-wireless-travel-battery-charging-charger-station-qi)
   - [Squarespace is laying off 19 percent of employees](https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent)
   - [The 2026 iPad Mini is a terrific tiny tablet — for a big price](https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review)
@@ -213,8 +229,11 @@
   - [CVE-2026-115653](https://vulners.com/nvd/NVD:CVE-2026-115653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115654](https://vulners.com/nvd/NVD:CVE-2026-115654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116769 Authentication bypass in Secure Access Servers](https://vulners.com/cvelist/CVELIST:CVE-2026-116769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119179](https://vulners.com/nvd/NVD:CVE-2026-119179?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119742](https://vulners.com/nvd/NVD:CVE-2026-119742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120500](https://vulners.com/nvd/NVD:CVE-2026-120500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120501](https://vulners.com/nvd/NVD:CVE-2026-120501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120572](https://vulners.com/nvd/NVD:CVE-2026-120572?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120830](https://vulners.com/nvd/NVD:CVE-2026-120830?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16306](https://vulners.com/nvd/NVD:CVE-2026-16306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-2102](https://vulners.com/nvd/NVD:CVE-2026-2102?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -224,8 +243,13 @@
   - [CVE-2026-77879](https://vulners.com/nvd/NVD:CVE-2026-77879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77880](https://vulners.com/nvd/NVD:CVE-2026-77880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77881](https://vulners.com/nvd/NVD:CVE-2026-77881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85032](https://vulners.com/nvd/NVD:CVE-2026-85032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85033](https://vulners.com/nvd/NVD:CVE-2026-85033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85034](https://vulners.com/nvd/NVD:CVE-2026-85034?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85035](https://vulners.com/nvd/NVD:CVE-2026-85035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86365](https://vulners.com/cvelist/CVELIST:CVE-2026-86365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88809](https://vulners.com/nvd/NVD:CVE-2026-88809?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89295](https://vulners.com/nvd/NVD:CVE-2026-89295?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91896](https://vulners.com/cve/CVE-2026-91896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91896](https://vulners.com/cvelist/CVELIST:CVE-2026-91896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91901](https://vulners.com/cvelist/CVELIST:CVE-2026-91901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -276,6 +300,7 @@
   - [Chewy Promo Codes: $20 Off November 2026](https://www.wired.com/story/chewy-promo-code/)
   - [Dell Coupon Codes: 20% Off for November 2026](https://www.wired.com/story/dell-coupon-code/)
   - [eBay Coupons: 20% Off in November 2026](https://www.wired.com/story/ebay-coupon-code/)
+  - [Here's Why You Shouldn't Use AI to Vote](https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/)
   - [Hotels.com Coupon Codes for November 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [How to Save $25 on Burga’s Phone Accessories With This Sale](https://www.wired.com/story/burga-sale-november-2026/)
   - [ICE Is Inspiring Latinos to Vote in Historic Numbers](https://www.wired.com/story/ice-is-inspiring-latinos-to-vote-in-historic-numbers/)
