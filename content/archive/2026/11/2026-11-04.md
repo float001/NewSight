@@ -11,6 +11,7 @@
 - CoinTelegraph
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC clears stock perpetual futures for trading on US exchanges](https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom](https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms: Prediction markets favor Democrats in key crypto races](https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -29,7 +30,11 @@
   - [Pratt parsing is a black box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
   - [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one)
   - [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)
+  - [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+  - [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
   - [Subvocal raised $1.3M. A developer recreated it with AirPods in 9 minutes](https://github.com/joeblau/subvox)
+  - [The AI Boom May Be Sowing Seeds of Another Financial Crisis](https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight)
+  - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
 - HackerNoon
   - [Athena Raises $2.5 Million From a16z Speedrun to End the Billable Hour in Real Estate Law](https://hackernoon.com/athena-raises-$25-million-from-a16z-speedrun-to-end-the-billable-hour-in-real-estate-law?source=rss)
   - [Meet Rise: HackerNoon Company of the Week](https://hackernoon.com/meet-rise-hackernoon-company-of-the-week?source=rss)
@@ -44,11 +49,13 @@
   - [CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off](https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/)
   - [Ferrari’s controversial Luce EV is sold out for 2027](https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/)
   - [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
+  - [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
   - [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/)
   - [Orbital Matter 3D printed the first rigid beam in the vacuum of space](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/)
   - [Reddit tests ads in search results as traffic declines and growth concerns mount](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/)
   - [Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist](https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/)
   - [Rivian spinout Also was working on an e-moto project in Kenya — until it walked away](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
+  - [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
 - The Block
   - [CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack](https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458)
   - [Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
@@ -63,6 +70,7 @@
   - [Don’t be fooled by the fake hair on these famous baldies](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)
   - [Google is entirely disabling Search in schools that don&#8217;t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
   - [Google’s Gemini-powered Home Speaker is already on sale for 20 percent off](https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale)
+  - [Here’s what it’s like to use Audio Intelligence on the Apple Watch](https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch)
   - [Indie games are missing launch dates because Steam is backed up](https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates)
   - [iPhone 18 rumors suggest a bigger battery, higher price next year](https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery)
   - [Moft’s new origami case adds a kickstand and grip to the iPhone Duo](https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo)
@@ -148,6 +156,9 @@
   - [CVE-2026-95777](https://vulners.com/nvd/NVD:CVE-2026-95777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Running Dry](https://www.wheresyoured.at/running-dry/)
+- Wired
+  - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
+  - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
