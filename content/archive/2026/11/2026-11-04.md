@@ -9,8 +9,10 @@
   - [【💰】今年的冬天会很冷吗？](https://2libra.com/post/social-observation/SOmnvHD)
   - [双十一优惠已经结束了么？](https://2libra.com/post/deal-hunter/vjNKQsf)
   - [我感觉金币池的灌水检测好像有点问题，过于敏感了](https://2libra.com/post/community/XZR3smz)
+  - [满血中转站，量大管饱，稳定号池不降智，欢迎各位老板以及企业团队接入，支持 Claude、GPT、Gemini、DeepSeek、grok 等模型](https://2libra.com/post/transfer-station/goTmNja)
   - [潘多拉开的这个风车好搞笑啊](https://2libra.com/post/forum-function/V1ye1a2)
   - [物理学骗我？](https://2libra.com/post/tech-fun/0MJJVEr)
+  - [用远程桌面软件，怎么检查安全性？](https://2libra.com/post/remote-access/vM2lr6t)
 - Ars Technica
   - [Google dismantles botnet secretly running on 1.3 million Android TV boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
 - buttondown.com/hillelwayne
@@ -24,6 +26,7 @@
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC clears stock perpetual futures for trading on US exchanges](https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats claim control of the US Senate](https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum dev targets 2028 for quantum resistance, a year early](https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom](https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms election 2026 live: Mark Warner retains Virginia Senate seat](https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -79,6 +82,7 @@
   - [Exploit for CVE-2026-119977](https://sploitus.com/exploit?id=A72A8D78-62B6-5036-AC22-7E5CF4E7551F&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E0957986-BE64-5DBE-B01B-242763DC0B3F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FB58CBA4-D0F5-5BCB-AF8D-26E0337B3529&utm_source=rss&utm_medium=rss)
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
   - [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
