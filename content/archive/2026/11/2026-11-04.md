@@ -16,6 +16,7 @@
   - [好玩的翻译](https://2libra.com/post/sharing-discoveries/u6hCx_m)
   - [我感觉金币池的灌水检测好像有点问题，过于敏感了](https://2libra.com/post/community/XZR3smz)
   - [把 deepseek 的思考贴给 kimi，让 kimi 评价大肥鱼的水平怎么样](https://2libra.com/post/large-models/D36lyXr)
+  - [李佳琦双十一卖 token 卖了两万亿 token，顺便出个中转站域名](https://2libra.com/post/domain-service/ApU5gFv)
   - [求助一下，我有一个某为 P20 想解锁 Root， 目前是不是只能上 某宝 解了？](https://2libra.com/post/interaction/g3laSAn)
   - [满血中转站，量大管饱，稳定号池不降智，欢迎各位老板以及企业团队接入，支持 Claude、GPT、Gemini、DeepSeek、grok 等模型](https://2libra.com/post/transfer-station/goTmNja)
   - [潘多拉开的这个风车好搞笑啊](https://2libra.com/post/forum-function/V1ye1a2)
@@ -31,8 +32,10 @@
   - [DPRK Hackers Perfected Their Fake Interview Playbook Over Dozens of Attacks Before Binance](https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/)
 - CoinTelegraph
   - [1inch lawyer sees agencies driving US crypto regulation as midterms unfold](https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance hackers move 81% of stolen Solana, route funds via THORChain](https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress](https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’](https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC clears stock perpetual futures for trading on US exchanges](https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats claim control of the US Senate](https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats win US House to secure control of Congress in midterms](https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -48,8 +51,14 @@
 - Cyber Kendra
   - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
 - CyberNews
+  - [Apps built on Lovable AI expose passport details and 200,000 chat messages](https://cybernews.com/security/lovable-ai-apps-expose-personal-information/)
+  - [Attackers exploit just 0.5% of disclosed vulnerabilities, but they know which ones to pick](https://cybernews.com/security/attackers-exploit-few-disclosed-vulnerabilities/)
   - [Binance hackers used fake job interview in $6.3 billion attack](https://cybernews.com/crypto/binance-heist-fake-job-interview/)
+  - [Google says schools can disable its AI tools, but Search is tied to the decision](https://cybernews.com/tech/google-search-ai-schools/)
+  - [OccupySaaS: laid-off engineers use AI to build open-source alternatives to everything](https://cybernews.com/ai-news/occupysaas-open-source/)
+  - [Russian hackers claim responsibility for attacks on European refrigeration systems](https://cybernews.com/security/russian-hackers-hacked-european-refrigeration-systems/)
   - [Snap settles teen harm lawsuit over Snapchat’s addictive features](https://cybernews.com/news/snap-settles-teen-harm-lawsuit/)
+  - [“I’m rage quitting” – Asmongold claims Republicans ‘sold out’ after Democrat win](https://cybernews.com/news/asmongold-midterms-rant-ragebaiting-democrats-republicans/)
 - daringfireball.net
   - [Apple Begins Opening Siri AI to Developers](https://developer.apple.com/news/?id=gdk2umrf)
   - [iPad Mini (A20 Pro) Review Roundup](https://www.techmeme.com/261103/p15#a261103p15)
@@ -87,6 +96,8 @@
   - [South Korea Wants Stablecoins Written Into Its Forex Law Within The Year](https://hackernoon.com/south-korea-wants-stablecoins-written-into-its-forex-law-within-the-year?source=rss)
 - idiallo.com
   - [Goodhart's Law, but We Already Spent All Our Money](https://idiallo.com/blog/we-spent-all-our-money-goodharts-law)
+- infosecurity-magazine.com
+  - [Fake Interview of Software Engineer Led to Binance Mega-Heist](https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/)
 - Microsoft Security Blog
   - [Fake-download campaign uses trojanized installers to deliver monetization payloads](https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/)
 - NVIDIA AI Blog
@@ -95,6 +106,7 @@
   - [Backtrail Pro: An Open-Source App for Discontinued goTenna Mesh Radios and Meshtastic](https://www.rtl-sdr.com/backtrail-pro-an-open-source-app-for-discontinued-gotenna-mesh-radios-and-meshtastic/)
   - [Frugal Radio: Testing the Discovery Dish on Inmarsat AERO with JAERO and InmarScope](https://www.rtl-sdr.com/frugal-radio-testing-the-discovery-dish-on-inmarsat-aero-with-jaero-and-inmarscope/)
   - [RS41 and M20 Android Decoder: A Standalone Radiosonde Decoder Android App for RTL-SDR](https://www.rtl-sdr.com/rs41-and-m20-android-decoder-a-standalone-radiosonde-decoder-android-app-for-rtl-sdr/)
+  - [VMA Radio Lab: DecSAT Extended into a Multi-SDR Receiver with DVB-T/T2, DAB+ and Analog PAL TV](https://www.rtl-sdr.com/vma-radio-lab-decsat-extended-into-a-multi-sdr-receiver-with-dvb-t-t2-dab-and-analog-pal-tv/)
 - Sploitus.com Exploits RSS Feed
   - [AI-SafeGuard exploit](https://sploitus.com/exploit?id=EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-119977](https://sploitus.com/exploit?id=A72A8D78-62B6-5036-AC22-7E5CF4E7551F&utm_source=rss&utm_medium=rss)
@@ -125,6 +137,7 @@
   - [Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake](https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495)
   - [French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says](https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607)
   - [Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
+  - [Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service](https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633)
   - [Prediction markets bet on Democratic sweep of House, Senate in midterm elections](https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461)
   - [SEC division views Canton Coin as digital commodity in no-action letter](https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492)
   - [South Korea’s ruling party formally proposes deferral of crypto income tax](https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580)
@@ -157,6 +170,8 @@
   - [Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM](https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance)
   - [Xbox’s smallest-ever controller is surprisingly comfortable](https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on)
   - [You can’t hit a wrong note when playing along with songs on Casio’s new keyboard](https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [AI-SafeGuard](https://vulners.com/gitee/EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://vulners.com/thn/THN:CA8186C7072948EB228A3BC12391D13B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -321,6 +336,7 @@
   - [Running Dry](https://www.wheresyoured.at/running-dry/)
 - Wired
   - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
+  - [Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why](https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/)
   - [Democrats Sweep Republicans in Nearly Every Race That Matters](https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/)
   - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
@@ -344,6 +360,7 @@
   - [奥运赛事首次来到非洲，AI 也学着「入乡随俗」](https://www.ifanr.com/1687242?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了](https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷](https://www.ifanr.com/1687549?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [拓竹给 3D 打印机装了 9 个头，这次真能打印万物了？](https://www.ifanr.com/1687646?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token](https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [连夜实测 iPhone 国行 AI，亮点和槽点都在这了](https://www.ifanr.com/1687585?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
