@@ -18,6 +18,9 @@
 - Cyber Kendra
   - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
 - daringfireball.net
+  - [Apple Begins Opening Siri AI to Developers](https://developer.apple.com/news/?id=gdk2umrf)
+  - [iPad Mini (A20 Pro) Review Roundup](https://www.techmeme.com/261103/p15#a261103p15)
+  - [MKBHD on the New A20 Pro iPad Mini](https://www.youtube.com/watch?v=g6Die8gVFn0)
   - [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/)
 - darkreading
   - [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
@@ -46,6 +49,8 @@
   - [Fake-download campaign uses trojanized installers to deliver monetization payloads](https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/)
 - NVIDIA AI Blog
   - [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E0957986-BE64-5DBE-B01B-242763DC0B3F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
   - [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
@@ -83,6 +88,7 @@
   - [Moft’s new origami case adds a kickstand and grip to the iPhone Duo](https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo)
   - [Netflix will show you themed recommendations through a new ‘AI Discover’ tab](https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations)
   - [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search)
+  - [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)
   - [Reddit is adding more ads](https://www.theverge.com/tech/1025602/reddit-search-ads-test)
   - [Sonos adds new Presets and prepares for the 27voice AI beta](https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access)
   - [The Pixel Buds Pro 2 have returned to their lowest price to date](https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale)
