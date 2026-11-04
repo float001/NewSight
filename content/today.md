@@ -49,6 +49,7 @@
   - [Democrats claim control of the US Senate](https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats win US House to secure control of Congress in midterms](https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum dev targets 2028 for quantum resistance, a year early](https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [France backs reporting for self-custodied crypto worth 100K euros or more](https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure](https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom](https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -62,10 +63,12 @@
   - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
 - CyberNews
   - [AI got the US midterms terribly wrong, but voters listened anyway](https://cybernews.com/ai-news/midterms-republicans-democrats-ai-ballots/)
+  - [Apple’s Lockdown Mode faces fresh scrutiny after iPhone jailbreak video](https://cybernews.com/tech/apple-lockdown-mode-iphone-jailbreak/)
   - [Apps built on Lovable AI expose passport details and 200,000 chat messages](https://cybernews.com/security/lovable-ai-apps-expose-personal-information/)
   - [Attackers exploit just 0.5% of disclosed vulnerabilities, but they know which ones to pick](https://cybernews.com/security/attackers-exploit-few-disclosed-vulnerabilities/)
   - [Binance hackers used fake job interview in $6.3 billion attack](https://cybernews.com/crypto/binance-heist-fake-job-interview/)
   - [Google says schools can disable its AI tools, but Search is tied to the decision](https://cybernews.com/tech/google-search-ai-schools/)
+  - [Hackers crank France’s blood storage temperatures to 110°C](https://cybernews.com/security/frances-blood-storage-breach-temperatures-rise/)
   - [Landlords put AI behind Ring cameras to monitor guests: count visitors, detect parties, and other house rule violations](https://cybernews.com/privacy/landlords-add-ai-apps-to-ring-doorbells-monitor-tenants-guests/)
   - [OccupySaaS: laid-off engineers use AI to build open-source alternatives to everything](https://cybernews.com/ai-news/occupysaas-open-source/)
   - [Revolut drops Claude in favor of a Chinese self-hosted model, cuts coding costs by 90%](https://cybernews.com/ai-news/revolut-chinese-models/)
@@ -96,6 +99,7 @@
   - [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
   - [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
   - [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
+  - [I got banned from Lobsters for writing like an LLM](https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/)
   - [I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
   - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
   - [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)
@@ -116,11 +120,14 @@
   - [Goodhart's Law, but We Already Spent All Our Money](https://idiallo.com/blog/we-spent-all-our-money-goodharts-law)
 - infosecurity-magazine.com
   - [3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise](https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/)
+  - [APT29 Watering Holes Target Unpatched iPhones and Android Devices](https://www.infosecurity-magazine.com/news/apt29-watering-holes-iphones/)
   - [Fake Interview of Software Engineer Led to Binance Mega-Heist](https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/)
   - [France Blood Service Cyber-Attack Sends Blood Storage Temperatures to 110°C](https://www.infosecurity-magazine.com/news/france-blood-service-cyberattack/)
   - [Police Seize 100+ Servers After Four-Year Investment Fraud Probe](https://www.infosecurity-magazine.com/news/police-100-servers-fouryear/)
 - Microsoft Security Blog
   - [Fake-download campaign uses trojanized installers to deliver monetization payloads](https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/)
+- MIT Technology Review
+  - [The Download: blended meat, restored sight, and the agentic web](https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/)
 - NVIDIA AI Blog
   - [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)
 - NVISO Labs
@@ -137,6 +144,7 @@
 - Sploitus.com Exploits RSS Feed
   - [AI-SafeGuard exploit](https://sploitus.com/exploit?id=EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-119977](https://sploitus.com/exploit?id=A72A8D78-62B6-5036-AC22-7E5CF4E7551F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=0CA771F0-8DFF-5A5A-9ED8-14F0A4893AB0&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E0957986-BE64-5DBE-B01B-242763DC0B3F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FB58CBA4-D0F5-5BCB-AF8D-26E0337B3529&utm_source=rss&utm_medium=rss)
   - [ps4-exploit-host](https://sploitus.com/exploit?id=84989FC7-7E41-584E-8C2B-0EAED4DCFCC6&utm_source=rss&utm_medium=rss)
@@ -163,6 +171,7 @@
 - The Block
   - [BitGo launches institutional trading and financial solutions business led by former NYDIG executive](https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646)
   - [Block Inc. shares rise 6% after-hours as it raises full-year profit forecast](https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585)
+  - [Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction](https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671)
   - [CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack](https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458)
   - [DeFi Explained](https://www.theblock.co/learn/defi/defi-explained-432391)
   - [Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake](https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495)
@@ -182,6 +191,7 @@
   - [Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)
   - [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
   - [Canva is announcing changes and layoffs affecting 22 percent of its staff](https://www.theverge.com/tech/1025971/canva-changes-layoffs)
+  - [Does opting out of TV tracking work?](https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study)
   - [Don’t be fooled by the fake hair on these famous baldies](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)
   - [Google hasn&#8217;t figured out how to make AI pay like its search engine](https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3)
   - [Google is entirely disabling Search in schools that don&#8217;t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
@@ -401,13 +411,17 @@
   - [New Jersey’s New Ebike Law Is Causing Chaos](https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/)
   - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
+  - [UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/)
   - [What’s the Difference Between an Ebike and an E-Moto?](https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/)
+  - [‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout](https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/)
 - 不安全
   - [Backtrail Pro: An Open-Source App for Discontinued goTenna Mesh Radios and Meshtastic](https://buaq.net/go-452665.html)
   - [Chrome 157 fixes 213 security issues, including 7 critical flaws](https://buaq.net/go-452762.html)
   - [Does comms actually write the customer update during your tabletop?](https://buaq.net/go-452771.html)
   - [osint_stuff_tool_collection — Updated!](https://buaq.net/go-452668.html)
   - [The $10 "SaaSpocalypse": Why the Future of Software Is 100% Open Source](https://buaq.net/go-452603.html)
+  - [The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)](https://buaq.net/go-452784.html)
+  - [xen](https://buaq.net/go-452774.html)
   - [公安部信息安全产品检测中心颁发首张人工智能渗透测试系统检测证书](https://buaq.net/go-452705.html)
   - [密码管理器被拖库怎么办？mSecure疑似被拖库 要求用户重置保存的所有密码](https://buaq.net/go-452714.html)
   - [绿盟科技登榜AI赋能安全技术路线图，入围数量居安全厂商首位](https://buaq.net/go-452706.html)
