@@ -41,6 +41,7 @@
   - [Democrats win US House to secure control of Congress in midterms](https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum dev targets 2028 for quantum resistance, a year early](https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure](https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom](https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms election 2026 live: Mark Warner retains Virginia Senate seat](https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms: Prediction markets favor Democrats in key crypto races](https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -78,6 +79,7 @@
 - Hacker News Frontpage
   - [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
   - [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+  - [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
   - [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
   - [I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
   - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
@@ -88,6 +90,7 @@
   - [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
   - [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
   - [Subvocal raised $1.3M. A developer recreated it with AirPods in 9 minutes](https://github.com/joeblau/subvox)
+  - [Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)
   - [The AI Boom May Be Sowing Seeds of Another Financial Crisis](https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight)
   - [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
 - HackerNoon
@@ -98,10 +101,13 @@
   - [Goodhart's Law, but We Already Spent All Our Money](https://idiallo.com/blog/we-spent-all-our-money-goodharts-law)
 - infosecurity-magazine.com
   - [Fake Interview of Software Engineer Led to Binance Mega-Heist](https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/)
+  - [Police Seize 100+ Servers After Four-Year Investment Fraud Probe](https://www.infosecurity-magazine.com/news/police-100-servers-fouryear/)
 - Microsoft Security Blog
   - [Fake-download campaign uses trojanized installers to deliver monetization payloads](https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/)
 - NVIDIA AI Blog
   - [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)
+- NVISO Labs
+  - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 2 – Execution](https://blog.nviso.eu/2026/11/04/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-2-execution/)
 - rtl-sdr.com
   - [Backtrail Pro: An Open-Source App for Discontinued goTenna Mesh Radios and Meshtastic](https://www.rtl-sdr.com/backtrail-pro-an-open-source-app-for-discontinued-gotenna-mesh-radios-and-meshtastic/)
   - [Frugal Radio: Testing the Discovery Dish on Inmarsat AERO with JAERO and InmarScope](https://www.rtl-sdr.com/frugal-radio-testing-the-discovery-dish-on-inmarsat-aero-with-jaero-and-inmarscope/)
@@ -134,6 +140,7 @@
 - The Block
   - [Block Inc. shares rise 6% after-hours as it raises full-year profit forecast](https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585)
   - [CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack](https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458)
+  - [DeFi Explained](https://www.theblock.co/learn/defi/defi-explained-432391)
   - [Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake](https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495)
   - [French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says](https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607)
   - [Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
@@ -143,6 +150,7 @@
   - [South Korea’s ruling party formally proposes deferral of crypto income tax](https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580)
 - The Decoder
   - [AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence](https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/)
+  - [Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms](https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/)
   - [OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week](https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/)
   - [Rapid LLM development is outrunning the research meant to explain it, study finds](https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/)
 - The Verge
@@ -188,10 +196,23 @@
   - [CVE-2026-108068](https://vulners.com/nvd/NVD:CVE-2026-108068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108324 Tanium addressed a denial of service vulnerability in Tanium Client.](https://vulners.com/cvelist/CVELIST:CVE-2026-108324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108327 Tanium addressed a path traversal vulnerability in Tanium Data Service.](https://vulners.com/cvelist/CVELIST:CVE-2026-108327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108949](https://vulners.com/nvd/NVD:CVE-2026-108949?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108949 Apache ActiveMQ, ActiveMQ Broker: Repeated rejected temporary destination consumer requests can lead to broker OOM](https://vulners.com/cvelist/CVELIST:CVE-2026-108949?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110021](https://vulners.com/nvd/NVD:CVE-2026-110021?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110022](https://vulners.com/nvd/NVD:CVE-2026-110022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110692](https://vulners.com/nvd/NVD:CVE-2026-110692?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110935](https://vulners.com/nvd/NVD:CVE-2026-110935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110944](https://vulners.com/nvd/NVD:CVE-2026-110944?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110964](https://vulners.com/nvd/NVD:CVE-2026-110964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111036](https://vulners.com/nvd/NVD:CVE-2026-111036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111037](https://vulners.com/nvd/NVD:CVE-2026-111037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111038](https://vulners.com/nvd/NVD:CVE-2026-111038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111040](https://vulners.com/nvd/NVD:CVE-2026-111040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111740](https://vulners.com/nvd/NVD:CVE-2026-111740?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111821](https://vulners.com/nvd/NVD:CVE-2026-111821?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111821 Apache ActiveMQ, Apache ActiveMQ KahaDB: Oversized client identifier strings poison the KahaDB journal](https://vulners.com/cvelist/CVELIST:CVE-2026-111821?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111822](https://vulners.com/nvd/NVD:CVE-2026-111822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111822 Apache ActiveMQ, Apache ActiveMQ Runtime Config: ActiveMQ retains write access after live ACL revocation](https://vulners.com/cvelist/CVELIST:CVE-2026-111822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111962](https://vulners.com/nvd/NVD:CVE-2026-111962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112243](https://vulners.com/nvd/NVD:CVE-2026-112243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112244](https://vulners.com/nvd/NVD:CVE-2026-112244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -204,6 +225,7 @@
   - [CVE-2026-115257](https://vulners.com/nvd/NVD:CVE-2026-115257?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115262](https://vulners.com/nvd/NVD:CVE-2026-115262?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115426](https://vulners.com/nvd/NVD:CVE-2026-115426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115498](https://vulners.com/nvd/NVD:CVE-2026-115498?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115541](https://vulners.com/nvd/NVD:CVE-2026-115541?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116646 Tanium addressed an uncontrolled resource consumption vulnerability in Threat Response.](https://vulners.com/cvelist/CVELIST:CVE-2026-116646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116648 Tanium addressed an improper output sanitization vulnerability in Discover.](https://vulners.com/cvelist/CVELIST:CVE-2026-116648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -234,6 +256,8 @@
   - [CVE-2026-119672 mongofiles may disclose GridFS content to standard output through a stored filename](https://vulners.com/cvelist/CVELIST:CVE-2026-119672?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119673 mongofiles may write outside the working directory through a symlink](https://vulners.com/cvelist/CVELIST:CVE-2026-119673?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119675 mongorestore may bypass collection guards through a system.buckets prefix](https://vulners.com/cvelist/CVELIST:CVE-2026-119675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120422](https://vulners.com/nvd/NVD:CVE-2026-120422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120554](https://vulners.com/nvd/NVD:CVE-2026-120554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120775 Tanium addressed a heap-based buffer overflow vulnerability in Deploy.](https://vulners.com/cvelist/CVELIST:CVE-2026-120775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121263](https://vulners.com/nvd/NVD:CVE-2026-121263?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121520 Malicious client could set xattr value outside of BuildKit state directory](https://vulners.com/cvelist/CVELIST:CVE-2026-121520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -279,6 +303,10 @@
   - [CVE-2026-87044](https://vulners.com/nvd/NVD:CVE-2026-87044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87044 Memory leak in the Mbed TLS crypto shim on failed cipher/AEAD operations leads to remotely triggered crypto denial of service](https://vulners.com/cve/CVE-2026-87044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87044 Memory leak in the Mbed TLS crypto shim on failed cipher/AEAD operations leads to remotely triggered crypto denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-87044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93900](https://vulners.com/nvd/NVD:CVE-2026-93900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94459](https://vulners.com/nvd/NVD:CVE-2026-94459?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94460](https://vulners.com/nvd/NVD:CVE-2026-94460?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95649](https://vulners.com/nvd/NVD:CVE-2026-95649?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95722](https://vulners.com/nvd/NVD:CVE-2026-95722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95729](https://vulners.com/nvd/NVD:CVE-2026-95729?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95730](https://vulners.com/nvd/NVD:CVE-2026-95730?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -336,10 +364,13 @@
   - [Running Dry](https://www.wheresyoured.at/running-dry/)
 - Wired
   - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
+  - [Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More](https://www.wired.com/story/best-wireless-earbuds/)
   - [Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why](https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/)
   - [Democrats Sweep Republicans in Nearly Every Race That Matters](https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/)
+  - [New Jersey’s New Ebike Law Is Causing Chaos](https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/)
   - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
+  - [What’s the Difference Between an Ebike and an E-Moto?](https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/)
 - 不安全
   - [Backtrail Pro: An Open-Source App for Discontinued goTenna Mesh Radios and Meshtastic](https://buaq.net/go-452665.html)
   - [osint_stuff_tool_collection — Updated!](https://buaq.net/go-452668.html)
@@ -356,6 +387,7 @@
   - [币安称黑客通过虚假工作面试入侵工程师笔记本电脑](https://www.solidot.org/story?sid=85789)
 - 爱范儿
   - [15.98 万元起，东风奕派 M8 天元激光版上市，用自研智驾替换华为乾崑](https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [Anthropic微微发力，AI中转站的天就要塌了？](https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Claude 开始拒绝抄游戏，但可能已经太晚了](https://www.ifanr.com/1687508?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [奥运赛事首次来到非洲，AI 也学着「入乡随俗」](https://www.ifanr.com/1687242?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了](https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -366,6 +398,8 @@
 - 绿盟科技技术博客
   - [公安部信息安全产品检测中心颁发首张人工智能渗透测试系统检测证书](https://blog.nsfocus.net/%e5%85%ac%e5%ae%89%e9%83%a8%e4%bf%a1%e6%81%af%e5%ae%89%e5%85%a8%e4%ba%a7%e5%93%81%e6%a3%80%e6%b5%8b%e4%b8%ad%e5%bf%83%e9%a2%81%e5%8f%91%e9%a6%96%e5%bc%a0%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%b8%97/)
   - [绿盟科技登榜AI赋能安全技术路线图，入围数量居安全厂商首位](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e7%99%bb%e6%a6%9cai%e8%b5%8b%e8%83%bd%e5%ae%89%e5%85%a8%e6%8a%80%e6%9c%af%e8%b7%af%e7%ba%bf%e5%9b%be%ef%bc%8c%e5%85%a5%e5%9b%b4%e6%95%b0%e9%87%8f%e5%b1%85%e5%ae%89/)
+- 量子位 QbitAI
+  - [不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型](https://www.qbitai.com/2026/11/507586.html)
 - 黑海洋
   - [myDV电视大屏上刷抖音的第三方客户端](https://blog.upx8.com/myDV)
   - [字节将大面积限制员工使用Claude、Codex等外部AI工具](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E5%B0%86%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%99%90%E5%88%B6%E5%91%98%E5%B7%A5%E4%BD%BF%E7%94%A8Claude-Codex%E7%AD%89%E5%A4%96%E9%83%A8AI%E5%B7%A5%E5%85%B7)
