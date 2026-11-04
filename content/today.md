@@ -1,9 +1,12 @@
 # 今日安全资讯（2026-11-04）
 
 - 2Libra
+  - [[思考] 当 AI 越来越强，作为独立开发者如何应对？](https://2libra.com/post/indie-dev/MhL5cqZ)
   - [Hermes 官方提供免费模型包含 stealth/crouton-alpha](https://2libra.com/post/large-models/iKP2gSF)
   - [muse 生成的视频挺真实的](https://2libra.com/post/ai-tools/eRyW6J8)
+  - [v2ex 哪位能大佬能邀请下我](https://2libra.com/post/invite-code/_UulK7W)
   - [【兑换码·💰】FoxToken 宣传制作稿](https://2libra.com/post/promotion/Pm7O6-9)
+  - [【竞猜】2026-11-04 今天下午 A 股突然大面积反弹，是触底了？还是诱多呢？](https://2libra.com/post/stock-market/oBXfD9Z)
   - [【运动打卡】第 2️⃣1️⃣天，下雨天了心情低落](https://2libra.com/post/sports/AgsdeiP)
   - [【非蠢即坏 1】厌蠢症：蠢与坏的边界 🙄🙄🙄](https://2libra.com/post/social-observation/9phQhFj)
   - [【💰】 IG 对战 TES 10 点了还没开打，今天上班有的看了](https://2libra.com/post/game-discussion/hO5eNFI)
@@ -16,12 +19,16 @@
   - [好玩的翻译](https://2libra.com/post/sharing-discoveries/u6hCx_m)
   - [我感觉金币池的灌水检测好像有点问题，过于敏感了](https://2libra.com/post/community/XZR3smz)
   - [把 deepseek 的思考贴给 kimi，让 kimi 评价大肥鱼的水平怎么样](https://2libra.com/post/large-models/D36lyXr)
+  - [本人于 2026 年 11 月 04 日早上成功穿上秋裤，经短暂走动测试，腿部温暖舒适，暂无冻腿迹象，望周知。在此呼吁老登们不要硬扛，平安入冬。](https://2libra.com/post/small-things/MiErrZW)
   - [李佳琦双十一卖 token 卖了两万亿 token，顺便出个中转站域名](https://2libra.com/post/domain-service/ApU5gFv)
+  - [求不睡觉， 就能睡觉的方法 ，如何更好的休息？](https://2libra.com/post/health-consultation/R3VHevZ)
   - [求助一下，我有一个某为 P20 想解锁 Root， 目前是不是只能上 某宝 解了？](https://2libra.com/post/interaction/g3laSAn)
   - [满血中转站，量大管饱，稳定号池不降智，欢迎各位老板以及企业团队接入，支持 Claude、GPT、Gemini、DeepSeek、grok 等模型](https://2libra.com/post/transfer-station/goTmNja)
   - [潘多拉开的这个风车好搞笑啊](https://2libra.com/post/forum-function/V1ye1a2)
   - [物理学骗我？](https://2libra.com/post/tech-fun/0MJJVEr)
   - [用远程桌面软件，怎么检查安全性？](https://2libra.com/post/remote-access/vM2lr6t)
+- 404 Media
+  - [‘There Is One Fight’: American Voters Reject Tech Oligarchy](https://www.404media.co/there-is-one-fight-american-voters-reject-tech-oligarchy/)
 - Ars Technica
   - [Google dismantles botnet secretly running on 1.3 million Android TV boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
 - buttondown.com/hillelwayne
@@ -37,6 +44,7 @@
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress](https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’](https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’](https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC clears stock perpetual futures for trading on US exchanges](https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats claim control of the US Senate](https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Democrats win US House to secure control of Congress in midterms](https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -53,13 +61,17 @@
 - Cyber Kendra
   - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
 - CyberNews
+  - [AI got the US midterms terribly wrong, but voters listened anyway](https://cybernews.com/ai-news/midterms-republicans-democrats-ai-ballots/)
   - [Apps built on Lovable AI expose passport details and 200,000 chat messages](https://cybernews.com/security/lovable-ai-apps-expose-personal-information/)
   - [Attackers exploit just 0.5% of disclosed vulnerabilities, but they know which ones to pick](https://cybernews.com/security/attackers-exploit-few-disclosed-vulnerabilities/)
   - [Binance hackers used fake job interview in $6.3 billion attack](https://cybernews.com/crypto/binance-heist-fake-job-interview/)
   - [Google says schools can disable its AI tools, but Search is tied to the decision](https://cybernews.com/tech/google-search-ai-schools/)
+  - [Landlords put AI behind Ring cameras to monitor guests: count visitors, detect parties, and other house rule violations](https://cybernews.com/privacy/landlords-add-ai-apps-to-ring-doorbells-monitor-tenants-guests/)
   - [OccupySaaS: laid-off engineers use AI to build open-source alternatives to everything](https://cybernews.com/ai-news/occupysaas-open-source/)
+  - [Revolut drops Claude in favor of a Chinese self-hosted model, cuts coding costs by 90%](https://cybernews.com/ai-news/revolut-chinese-models/)
   - [Russian hackers claim responsibility for attacks on European refrigeration systems](https://cybernews.com/security/russian-hackers-hacked-european-refrigeration-systems/)
   - [Snap settles teen harm lawsuit over Snapchat’s addictive features](https://cybernews.com/news/snap-settles-teen-harm-lawsuit/)
+  - [Your “no” means nothing: Vizio smart TVs are ignoring tracking opt-outs](https://cybernews.com/news/vizio-automatic-content-recognition-tracking/)
   - [“I’m rage quitting” – Asmongold claims Republicans ‘sold out’ after Democrat win](https://cybernews.com/news/asmongold-midterms-rant-ragebaiting-democrats-republicans/)
 - daringfireball.net
   - [Apple Begins Opening Siri AI to Developers](https://developer.apple.com/news/?id=gdk2umrf)
@@ -78,7 +90,9 @@
 - Google DeepMind Blog
   - [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
 - Hacker News Frontpage
+  - [A map of 5000+ midterm ads](https://admap.org/)
   - [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
+  - [Debian apt security update: man-in-the-middle arbitrary code execution](https://lists.debian.org/debian-security-announce/2026/msg00526.html)
   - [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
   - [Geoffrey Hinton: it might turn out we were better off without AI](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)
   - [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
@@ -103,6 +117,7 @@
 - infosecurity-magazine.com
   - [3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise](https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/)
   - [Fake Interview of Software Engineer Led to Binance Mega-Heist](https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/)
+  - [France Blood Service Cyber-Attack Sends Blood Storage Temperatures to 110°C](https://www.infosecurity-magazine.com/news/france-blood-service-cyberattack/)
   - [Police Seize 100+ Servers After Four-Year Investment Fraud Probe](https://www.infosecurity-magazine.com/news/police-100-servers-fouryear/)
 - Microsoft Security Blog
   - [Fake-download campaign uses trojanized installers to deliver monetization payloads](https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/)
@@ -117,6 +132,8 @@
   - [Frugal Radio: Testing the Discovery Dish on Inmarsat AERO with JAERO and InmarScope](https://www.rtl-sdr.com/frugal-radio-testing-the-discovery-dish-on-inmarsat-aero-with-jaero-and-inmarscope/)
   - [RS41 and M20 Android Decoder: A Standalone Radiosonde Decoder Android App for RTL-SDR](https://www.rtl-sdr.com/rs41-and-m20-android-decoder-a-standalone-radiosonde-decoder-android-app-for-rtl-sdr/)
   - [VMA Radio Lab: DecSAT Extended into a Multi-SDR Receiver with DVB-T/T2, DAB+ and Analog PAL TV](https://www.rtl-sdr.com/vma-radio-lab-decsat-extended-into-a-multi-sdr-receiver-with-dvb-t-t2-dab-and-analog-pal-tv/)
+- shkspr.mobi
+  - [Book Review: Practice by Rosalind Brown ★★★★☆](https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/)
 - Sploitus.com Exploits RSS Feed
   - [AI-SafeGuard exploit](https://sploitus.com/exploit?id=EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-119977](https://sploitus.com/exploit?id=A72A8D78-62B6-5036-AC22-7E5CF4E7551F&utm_source=rss&utm_medium=rss)
@@ -141,6 +158,7 @@
   - [Reddit tests ads in search results as traffic declines and growth concerns mount](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/)
   - [Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist](https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/)
   - [Rivian spinout Also was working on an e-moto project in Kenya — until it walked away](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
+  - [TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/)
   - [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
 - The Block
   - [BitGo launches institutional trading and financial solutions business led by former NYDIG executive](https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646)
@@ -194,6 +212,7 @@
   - [CVE-2026-101165](https://vulners.com/nvd/NVD:CVE-2026-101165?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-101166](https://vulners.com/nvd/NVD:CVE-2026-101166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104719](https://vulners.com/nvd/NVD:CVE-2026-104719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-104799](https://vulners.com/nvd/NVD:CVE-2026-104799?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105191](https://vulners.com/nvd/NVD:CVE-2026-105191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105413](https://vulners.com/nvd/NVD:CVE-2026-105413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106000](https://vulners.com/nvd/NVD:CVE-2026-106000?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -225,6 +244,7 @@
   - [CVE-2026-112244](https://vulners.com/nvd/NVD:CVE-2026-112244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112354](https://vulners.com/nvd/NVD:CVE-2026-112354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114431](https://vulners.com/nvd/NVD:CVE-2026-114431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114456](https://vulners.com/nvd/NVD:CVE-2026-114456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115241](https://vulners.com/nvd/NVD:CVE-2026-115241?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115242](https://vulners.com/nvd/NVD:CVE-2026-115242?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115243](https://vulners.com/nvd/NVD:CVE-2026-115243?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -277,6 +297,7 @@
   - [CVE-2026-121626](https://vulners.com/nvd/NVD:CVE-2026-121626?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121627](https://vulners.com/nvd/NVD:CVE-2026-121627?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121628](https://vulners.com/nvd/NVD:CVE-2026-121628?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121925](https://vulners.com/nvd/NVD:CVE-2026-121925?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16511](https://vulners.com/nvd/NVD:CVE-2026-16511?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19721 XXE in TÜBİTAK BİLGEM's İmzager](https://vulners.com/cvelist/CVELIST:CVE-2026-19721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19731 Path Traversal in TÜBİTAK BİLGEM's İmzager](https://vulners.com/cvelist/CVELIST:CVE-2026-19731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -288,6 +309,7 @@
   - [CVE-2026-57639](https://vulners.com/nvd/NVD:CVE-2026-57639?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57666](https://vulners.com/nvd/NVD:CVE-2026-57666?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-57775](https://vulners.com/nvd/NVD:CVE-2026-57775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59267](https://vulners.com/nvd/NVD:CVE-2026-59267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62007](https://vulners.com/nvd/NVD:CVE-2026-62007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62126](https://vulners.com/nvd/NVD:CVE-2026-62126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63418](https://vulners.com/nvd/NVD:CVE-2026-63418?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -363,6 +385,7 @@
   - [CVE-2026-95775](https://vulners.com/nvd/NVD:CVE-2026-95775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95776](https://vulners.com/nvd/NVD:CVE-2026-95776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95777](https://vulners.com/nvd/NVD:CVE-2026-95777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97397](https://vulners.com/nvd/NVD:CVE-2026-97397?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-119977](https://vulners.com/githubexploit/A72A8D78-62B6-5036-AC22-7E5CF4E7551F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use of Uninitialized Resource in Microsoft](https://vulners.com/githubexploit/D3968FE7-5537-5E82-8FB0-FC8E951C1382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure](https://vulners.com/thn/THN:CDFDC984ED13D0D6F84E566AD3C5028A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -381,6 +404,8 @@
   - [What’s the Difference Between an Ebike and an E-Moto?](https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/)
 - 不安全
   - [Backtrail Pro: An Open-Source App for Discontinued goTenna Mesh Radios and Meshtastic](https://buaq.net/go-452665.html)
+  - [Chrome 157 fixes 213 security issues, including 7 critical flaws](https://buaq.net/go-452762.html)
+  - [Does comms actually write the customer update during your tabletop?](https://buaq.net/go-452771.html)
   - [osint_stuff_tool_collection — Updated!](https://buaq.net/go-452668.html)
   - [The $10 "SaaSpocalypse": Why the Future of Software Is 100% Open Source](https://buaq.net/go-452603.html)
   - [公安部信息安全产品检测中心颁发首张人工智能渗透测试系统检测证书](https://buaq.net/go-452705.html)
