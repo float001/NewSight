@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-11-04）
 
+- 2Libra
+  - [双十一优惠已经结束了么？](https://2libra.com/post/deal-hunter/vjNKQsf)
 - Ars Technica
   - [Google dismantles botnet secretly running on 1.3 million Android TV boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
 - buttondown.com/hillelwayne
@@ -9,10 +11,12 @@
 - Chainalysis Blog
   - [DPRK Hackers Perfected Their Fake Interview Playbook Over Dozens of Attacks Before Binance](https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/)
 - CoinTelegraph
+  - [1inch lawyer sees agencies driving US crypto regulation as midterms unfold](https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC clears stock perpetual futures for trading on US exchanges](https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom](https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US midterms election 2026 live: Mark Warner retains Virginia Senate seat](https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms: Prediction markets favor Democrats in key crypto races](https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -24,6 +28,8 @@
   - [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/)
 - darkreading
   - [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
+- Der Flounder
+  - [Managing Local Network access settings on macOS Golden Gate using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/11/04/13554/)
 - Fidelis Security
   - [Detection is Only the Beginning: Future of XDR in the Era of AI](https://fidelissecurity.com/threatgeek/xdr-security/future-of-xdr-agentic-ai-soc/)
 - Google DeepMind Blog
@@ -49,8 +55,12 @@
   - [Fake-download campaign uses trojanized installers to deliver monetization payloads](https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/)
 - NVIDIA AI Blog
   - [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)
+- rtl-sdr.com
+  - [Frugal Radio: Testing the Discovery Dish on Inmarsat AERO with JAERO and InmarScope](https://www.rtl-sdr.com/frugal-radio-testing-the-discovery-dish-on-inmarsat-aero-with-jaero-and-inmarscope/)
 - Sploitus.com Exploits RSS Feed
+  - [AI-SafeGuard exploit](https://sploitus.com/exploit?id=EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E0957986-BE64-5DBE-B01B-242763DC0B3F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FB58CBA4-D0F5-5BCB-AF8D-26E0337B3529&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
   - [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
@@ -91,6 +101,7 @@
   - [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds)
   - [Reddit is adding more ads](https://www.theverge.com/tech/1025602/reddit-search-ads-test)
   - [Sonos adds new Presets and prepares for the 27voice AI beta](https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access)
+  - [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures)
   - [The Pixel Buds Pro 2 have returned to their lowest price to date](https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale)
   - [The Xbox Nano has a hidden cloud secret](https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity)
   - [This Election Day, remember which party ran against EVs and tethered us all to the gas pump](https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms)
@@ -99,6 +110,7 @@
   - [Xbox’s smallest-ever controller is surprisingly comfortable](https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on)
   - [You can’t hit a wrong note when playing along with songs on Casio’s new keyboard](https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology)
 - Vulners.com RSS Feed
+  - [AI-SafeGuard](https://vulners.com/gitee/EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes](https://vulners.com/thn/THN:CA8186C7072948EB228A3BC12391D13B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108324 Tanium addressed a denial of service vulnerability in Tanium Client.](https://vulners.com/cvelist/CVELIST:CVE-2026-108324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108327 Tanium addressed a path traversal vulnerability in Tanium Data Service.](https://vulners.com/cvelist/CVELIST:CVE-2026-108327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -198,7 +210,11 @@
   - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
   - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
+- 不安全
+  - [The $10 "SaaSpocalypse": Why the Future of Software Is 100% Open Source](https://buaq.net/go-452603.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Fedora Linux 45 释出](https://www.solidot.org/story?sid=85786)
+- 爱范儿
+  - [早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token](https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=)
