@@ -2,6 +2,7 @@
 
 - 2Libra
   - [muse 生成的视频挺真实的](https://2libra.com/post/ai-tools/eRyW6J8)
+  - [【运动打卡】第 2️⃣1️⃣天，下雨天了心情低落](https://2libra.com/post/sports/AgsdeiP)
   - [【非蠢即坏 1】厌蠢症：蠢与坏的边界 🙄🙄🙄](https://2libra.com/post/social-observation/9phQhFj)
   - [【💰】 IG 对战 TES 10 点了还没开打，今天上班有的看了](https://2libra.com/post/game-discussion/hO5eNFI)
   - [【💰】上班坐太久了，肩膀很酸痛，有什么缓解的办法](https://2libra.com/post/office-life/IF_n28P)
@@ -27,6 +28,9 @@
   - [US midterms election 2026 live: Mark Warner retains Virginia Senate seat](https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms: Prediction markets favor Democrats in key crypto races](https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen](https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ZachXBT identifies French bank as alleged victim of $133M crypto theft](https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [ZachXBT identifies French bank as alleged victim of $133M crypto theft](https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Windows 11 8GB RAM Update Brings 40% Faster Multitasking](https://www.cyberkendra.com/2026/11/windows-11-8gb-ram-memory-improvements.html)
 - daringfireball.net
@@ -44,6 +48,8 @@
 - Google DeepMind Blog
   - [Agentic cheminformatics with Google Antigravity](https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/)
 - Hacker News Frontpage
+  - [Arrows to arrows, categories to queries (2025)](https://reasonablypolymorphic.com/blog/arrows-to-arrows/)
+  - [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
   - [Gitbook Breached](https://news.ycombinator.com/item?id=50354336)
   - [I use AI (Oct 2026)](https://ben.stolovitz.com/posts/how-use-ai-oct-2026/)
   - [Introduction to Programming in ATS](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
@@ -225,6 +231,7 @@
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
 - 不安全
   - [Backtrail Pro: An Open-Source App for Discontinued goTenna Mesh Radios and Meshtastic](https://buaq.net/go-452665.html)
+  - [osint_stuff_tool_collection — Updated!](https://buaq.net/go-452668.html)
   - [The $10 "SaaSpocalypse": Why the Future of Software Is 100% Open Source](https://buaq.net/go-452603.html)
   - [苹果更新开发者规则要求月约会和AI恋爱陪伴应用最低分级18+ 即必须成年人才能使用](https://buaq.net/go-452616.html)
 - 代码审计星球
@@ -233,4 +240,7 @@
   - [Fedora Linux 45 释出](https://www.solidot.org/story?sid=85786)
 - 爱范儿
   - [15.98 万元起，东风奕派 M8 天元激光版上市，用自研智驾替换华为乾崑](https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷](https://www.ifanr.com/1687549?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token](https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [字节将大面积限制员工使用Claude、Codex等外部AI工具](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E5%B0%86%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%99%90%E5%88%B6%E5%91%98%E5%B7%A5%E4%BD%BF%E7%94%A8Claude-Codex%E7%AD%89%E5%A4%96%E9%83%A8AI%E5%B7%A5%E5%85%B7)
