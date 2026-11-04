@@ -2,8 +2,12 @@
 
 - 404 Media
   - [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/)
+- blog.jim-nielsen.com
+  - [“It Gives Great Demo”](https://blog.jim-nielsen.com/2026/it-gives-great-demo/)
 - ByteByteGo
   - [How Anthropic Redesigned Source Control](https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control)
+- CoinTelegraph
+  - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CVE-2026-119977: WordPress 7.1.4 Update Can Still Expose RCE](https://www.cyberkendra.com/2026/11/cve-2026-119977-wordpress-core-update-race-rce.html)
   - [Node.js November 2026 Security Release: High-Severity Fixes](https://www.cyberkendra.com/2026/11/node-js-november-2026-security-release-high-severity-fixes.html)
@@ -12,27 +16,43 @@
 - darkreading
   - [Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet](https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet)
 - Hacker News Frontpage
+  - [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
+  - [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)
+  - [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom)
   - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
   - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
 - MIT Technology Review
+  - [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
+  - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
   - [What’s next for US energy policy after the midterm elections?](https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/)
 - PwnDefend
   - [No Mallace – When using an LLM, things can go wrong!](https://www.pwndefend.com/2026/11/04/no-mallace-when-using-an-llm-things-can-go-wrong/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-86583](https://sploitus.com/exploit?id=628E457E-A6C3-5DA7-9874-E61BC3F36391&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://sploitus.com/exploit?id=85ECC531-AA61-51C4-8FCC-06DB842A33DF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
   - [I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling](https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/)
   - [Sequoia hits rewind, undoing 20 years of expansion](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/)
+  - [Waymo confirms it will split with Uber in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/)
+  - [‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet](https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/)
 - The Block
   - [Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach](https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880)
+  - [French Hill’s race still too close to call as House flips, changing the direction of crypto legislation](https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572)
   - [Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
 - The Decoder
   - [New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations](https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/)
+  - [OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents](https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/)
 - The Verge
   - [Anker’s new window-mounted camera monitors the outside of your home from within it](https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision)
+  - [Apple will check shared iCloud links for ‘harmful content’](https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3)
   - [ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
   - [God of War Laufey delayed until May](https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay)
+  - [Google’s Pixel 11 phones are up to 27 percent off](https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale)
   - [My therapist thinks I should chuck the Amazon Bee Frontier out a window](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables)
+  - [Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
   - [Rian Johnson explains why he had to build his own iPhone camera app](https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview)
+  - [Xbox previews two new ways to control cloud games](https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Cloud Agent, now in a Container: Host Security for Nodes You Can’t Touch](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
@@ -40,6 +60,8 @@
   - [CVE-2026-106554 jackson-dataformat-cbor: quadratic-time TagList growth on unbounded stacked tags (CPU/GC DoS, PoC)](https://vulners.com/cvelist/CVELIST:CVE-2026-106554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109518](https://vulners.com/nvd/NVD:CVE-2026-109518?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119746](https://vulners.com/nvd/NVD:CVE-2026-119746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121927](https://vulners.com/nvd/NVD:CVE-2026-121927?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121929 EmpireSoft EmpireCMS index.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-121929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121950](https://vulners.com/nvd/NVD:CVE-2026-121950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121951](https://vulners.com/nvd/NVD:CVE-2026-121951?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121952](https://vulners.com/nvd/NVD:CVE-2026-121952?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -58,12 +80,21 @@
   - [CVE-2026-121965](https://vulners.com/nvd/NVD:CVE-2026-121965?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121966](https://vulners.com/nvd/NVD:CVE-2026-121966?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121967](https://vulners.com/nvd/NVD:CVE-2026-121967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121971](https://vulners.com/nvd/NVD:CVE-2026-121971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122032](https://vulners.com/nvd/NVD:CVE-2026-122032?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122054](https://vulners.com/nvd/NVD:CVE-2026-122054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122116](https://vulners.com/nvd/NVD:CVE-2026-122116?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122118](https://vulners.com/nvd/NVD:CVE-2026-122118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122124](https://vulners.com/cvelist/CVELIST:CVE-2026-122124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57853](https://vulners.com/nvd/NVD:CVE-2026-57853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91163](https://vulners.com/nvd/NVD:CVE-2026-91163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91168](https://vulners.com/nvd/NVD:CVE-2026-91168?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92704](https://vulners.com/nvd/NVD:CVE-2026-92704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-86583](https://vulners.com/githubexploit/628E457E-A6C3-5DA7-9874-E61BC3F36391?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98260](https://vulners.com/githubexploit/C2FBCBE9-D579-5605-BC8E-102DB387705C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350](https://www.wired.com/story/google-pixel-11-deal-november-2026/)
+  - [The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court](https://www.wired.com/story/wired-world-fair-2026-mark-lanier/)
   - [The Results Are In: Voters Hate Data Centers](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/)
   - [‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump](https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/)
 - 代码审计星球
