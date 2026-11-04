@@ -32,6 +32,7 @@
   - [DPRK Hackers Perfected Their Fake Interview Playbook Over Dozens of Attacks Before Binance](https://www.chainalysis.com/blog/binance-hack-dprk-employment-fraud/)
 - CoinTelegraph
   - [1inch lawyer sees agencies driving US crypto regulation as midterms unfold](https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says](https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hackers move 81% of stolen Solana, route funds via THORChain](https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress](https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -100,6 +101,7 @@
 - idiallo.com
   - [Goodhart's Law, but We Already Spent All Our Money](https://idiallo.com/blog/we-spent-all-our-money-goodharts-law)
 - infosecurity-magazine.com
+  - [3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise](https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/)
   - [Fake Interview of Software Engineer Led to Binance Mega-Heist](https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/)
   - [Police Seize 100+ Servers After Four-Year Investment Fraud Probe](https://www.infosecurity-magazine.com/news/police-100-servers-fouryear/)
 - Microsoft Security Blog
@@ -108,6 +110,8 @@
   - [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)
 - NVISO Labs
   - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 2 – Execution](https://blog.nviso.eu/2026/11/04/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-2-execution/)
+- pluralistic.net
+  - [Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)](https://pluralistic.net/2026/11/04/genius-scan-is-neither/)
 - rtl-sdr.com
   - [Backtrail Pro: An Open-Source App for Discontinued goTenna Mesh Radios and Meshtastic](https://www.rtl-sdr.com/backtrail-pro-an-open-source-app-for-discontinued-gotenna-mesh-radios-and-meshtastic/)
   - [Frugal Radio: Testing the Discovery Dish on Inmarsat AERO with JAERO and InmarScope](https://www.rtl-sdr.com/frugal-radio-testing-the-discovery-dish-on-inmarsat-aero-with-jaero-and-inmarscope/)
@@ -125,6 +129,7 @@
   - [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/)
   - [Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)
   - [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/)
+  - [Canva lays off over 1,200 people amid slowing growth](https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/)
   - [CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off](https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/)
   - [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/)
   - [Ferrari’s controversial Luce EV is sold out for 2027](https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/)
@@ -138,6 +143,7 @@
   - [Rivian spinout Also was working on an e-moto project in Kenya — until it walked away](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
   - [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
 - The Block
+  - [BitGo launches institutional trading and financial solutions business led by former NYDIG executive](https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646)
   - [Block Inc. shares rise 6% after-hours as it raises full-year profit forecast](https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585)
   - [CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack](https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458)
   - [DeFi Explained](https://www.theblock.co/learn/defi/defi-explained-432391)
@@ -159,6 +165,7 @@
   - [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
   - [Canva is announcing changes and layoffs affecting 22 percent of its staff](https://www.theverge.com/tech/1025971/canva-changes-layoffs)
   - [Don’t be fooled by the fake hair on these famous baldies](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk)
+  - [Google hasn&#8217;t figured out how to make AI pay like its search engine](https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3)
   - [Google is entirely disabling Search in schools that don&#8217;t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)
   - [Google’s Gemini-powered Home Speaker is already on sale for 20 percent off](https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale)
   - [Here’s what it’s like to use Audio Intelligence on the Apple Watch](https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch)
@@ -367,6 +374,7 @@
   - [Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More](https://www.wired.com/story/best-wireless-earbuds/)
   - [Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why](https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/)
   - [Democrats Sweep Republicans in Nearly Every Race That Matters](https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/)
+  - [I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)](https://www.wired.com/story/finally-a-kindle-page-turner/)
   - [New Jersey’s New Ebike Law Is Causing Chaos](https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/)
   - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
