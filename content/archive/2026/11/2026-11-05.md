@@ -8,6 +8,7 @@
   - [How Anthropic Redesigned Source Control](https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control)
 - CoinTelegraph
   - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CVE-2026-119977: WordPress 7.1.4 Update Can Still Expose RCE](https://www.cyberkendra.com/2026/11/cve-2026-119977-wordpress-core-update-race-rce.html)
   - [Node.js November 2026 Security Release: High-Severity Fixes](https://www.cyberkendra.com/2026/11/node-js-november-2026-security-release-high-severity-fixes.html)
@@ -30,9 +31,12 @@
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-86583](https://sploitus.com/exploit?id=628E457E-A6C3-5DA7-9874-E61BC3F36391&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://sploitus.com/exploit?id=85ECC531-AA61-51C4-8FCC-06DB842A33DF&utm_source=rss&utm_medium=rss)
+  - [open-reverselab exploit](https://sploitus.com/exploit?id=16E623B0-8243-50DE-9DBA-1295D423544F&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/)
   - [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
   - [I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling](https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/)
+  - [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/)
   - [Sequoia hits rewind, undoing 20 years of expansion](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/)
   - [Waymo confirms it will split with Uber in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/)
   - [‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet](https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/)
@@ -41,6 +45,7 @@
   - [French Hill’s race still too close to call as House flips, changing the direction of crypto legislation](https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572)
   - [Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
 - The Decoder
+  - [ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model](https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/)
   - [New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations](https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/)
   - [OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents](https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/)
 - The Verge
@@ -92,8 +97,12 @@
   - [CVE-2026-92704](https://vulners.com/nvd/NVD:CVE-2026-92704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-86583](https://vulners.com/githubexploit/628E457E-A6C3-5DA7-9874-E61BC3F36391?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98260](https://vulners.com/githubexploit/C2FBCBE9-D579-5605-BC8E-102DB387705C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [open-reverselab](https://vulners.com/gitee/16E623B0-8243-50DE-9DBA-1295D423544F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SkillSpector](https://vulners.com/gitee/203FA7C5-C9F3-5FB3-A8FB-1D7C2F6F2453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350](https://www.wired.com/story/google-pixel-11-deal-november-2026/)
+  - [Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’](https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/)
+  - [Knives Are Out in the White House](https://www.wired.com/story/knives-are-out-in-the-white-house/)
   - [The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court](https://www.wired.com/story/wired-world-fair-2026-mark-lanier/)
   - [The Results Are In: Voters Hate Data Centers](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/)
   - [‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump](https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/)
