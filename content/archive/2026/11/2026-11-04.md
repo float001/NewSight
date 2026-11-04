@@ -23,6 +23,7 @@
   - [1inch lawyer sees agencies driving US crypto regulation as midterms unfold](https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance traces $6.3B hack to fake job interviews, compromised AI tool](https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC clears stock perpetual futures for trading on US exchanges](https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Democrats claim control of the US Senate](https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom](https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US midterms election 2026 live: Mark Warner retains Virginia Senate seat](https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -75,6 +76,7 @@
   - [Frugal Radio: Testing the Discovery Dish on Inmarsat AERO with JAERO and InmarScope](https://www.rtl-sdr.com/frugal-radio-testing-the-discovery-dish-on-inmarsat-aero-with-jaero-and-inmarscope/)
 - Sploitus.com Exploits RSS Feed
   - [AI-SafeGuard exploit](https://sploitus.com/exploit?id=EC5C3A5E-6A50-510B-BF92-4AE2EC15F15E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-119977](https://sploitus.com/exploit?id=A72A8D78-62B6-5036-AC22-7E5CF4E7551F&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=E0957986-BE64-5DBE-B01B-242763DC0B3F&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Coreweave Marimo](https://sploitus.com/exploit?id=FB58CBA4-D0F5-5BCB-AF8D-26E0337B3529&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -86,6 +88,7 @@
   - [Ferrari’s controversial Luce EV is sold out for 2027](https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/)
   - [Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)
   - [Hiding inside Palantir’s skyrocketing quarter is a foreboding signal](https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/)
+  - [India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market](https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/)
   - [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/)
   - [Orbital Matter 3D printed the first rigid beam in the vacuum of space](https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/)
   - [Reddit tests ads in search results as traffic declines and growth concerns mount](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/)
@@ -93,7 +96,10 @@
   - [Rivian spinout Also was working on an e-moto project in Kenya — until it walked away](https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/)
   - [Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/)
 - The Block
+  - [Block Inc. shares rise 6% after-hours as it raises full-year profit forecast](https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585)
   - [CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack](https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458)
+  - [Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake](https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495)
+  - [French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says](https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607)
   - [Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties](https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439)
   - [Prediction markets bet on Democratic sweep of House, Senate in midterm elections](https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461)
   - [SEC division views Canton Coin as digital commodity in no-action letter](https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492)
@@ -222,11 +228,13 @@
   - [CVE-2026-95775](https://vulners.com/nvd/NVD:CVE-2026-95775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95776](https://vulners.com/nvd/NVD:CVE-2026-95776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95777](https://vulners.com/nvd/NVD:CVE-2026-95777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-119977](https://vulners.com/githubexploit/A72A8D78-62B6-5036-AC22-7E5CF4E7551F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use of Uninitialized Resource in Microsoft](https://vulners.com/githubexploit/D3968FE7-5537-5E82-8FB0-FC8E951C1382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Running Dry](https://www.wheresyoured.at/running-dry/)
 - Wired
   - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
+  - [Democrats Sweep Republicans in Nearly Every Race That Matters](https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/)
   - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
 - 不安全
@@ -240,7 +248,11 @@
   - [Fedora Linux 45 释出](https://www.solidot.org/story?sid=85786)
 - 爱范儿
   - [15.98 万元起，东风奕派 M8 天元激光版上市，用自研智驾替换华为乾崑](https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [Claude 开始拒绝抄游戏，但可能已经太晚了](https://www.ifanr.com/1687508?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷](https://www.ifanr.com/1687549?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token](https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [连夜实测 iPhone 国行 AI，亮点和槽点都在这了](https://www.ifanr.com/1687585?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [myDV电视大屏上刷抖音的第三方客户端](https://blog.upx8.com/myDV)
   - [字节将大面积限制员工使用Claude、Codex等外部AI工具](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E5%B0%86%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%99%90%E5%88%B6%E5%91%98%E5%B7%A5%E4%BD%BF%E7%94%A8Claude-Codex%E7%AD%89%E5%A4%96%E9%83%A8AI%E5%B7%A5%E5%85%B7)
+  - [红果TV电视大屏上看红果短剧和漫剧](https://blog.upx8.com/TV)
