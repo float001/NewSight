@@ -2,11 +2,15 @@
 
 - 404 Media
   - [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/)
+- Ars Technica
+  - [AMD's record quarter: Data center business doubles, while gaming craters](https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/)
+  - [VMware releases vSphere Express for virtualization on up to 128 cores](https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/)
 - blog.jim-nielsen.com
   - [“It Gives Great Demo”](https://blog.jim-nielsen.com/2026/it-gives-great-demo/)
 - ByteByteGo
   - [How Anthropic Redesigned Source Control](https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control)
 - CoinTelegraph
+  - [How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1](https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -15,6 +19,7 @@
 - CyberNews
   - [Millions of Android phones face massive hacking risk: zero-click critical flaw](https://cybernews.com/security/google-patches-critical-android-security-flaws/)
 - darkreading
+  - [Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)
   - [Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet](https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet)
 - Hacker News Frontpage
   - [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
@@ -22,6 +27,8 @@
   - [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom)
   - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
   - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
+- Horizon3.ai
+  - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
 - MIT Technology Review
   - [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
   - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
@@ -33,17 +40,22 @@
   - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://sploitus.com/exploit?id=85ECC531-AA61-51C4-8FCC-06DB842A33DF&utm_source=rss&utm_medium=rss)
   - [open-reverselab exploit](https://sploitus.com/exploit?id=16E623B0-8243-50DE-9DBA-1295D423544F&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
   - [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/)
   - [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
   - [Hackers stole DreamHost customer files and inboxes during months-long attack](https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/)
   - [I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling](https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/)
+  - [Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)
   - [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/)
+  - [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/)
   - [Sequoia hits rewind, undoing 20 years of expansion](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/)
+  - [Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/)
   - [Waymo confirms it will split with Uber in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/)
   - [‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet](https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/)
 - The Block
   - [Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack](https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030)
   - [Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach](https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880)
+  - [Democratic sweep of Congress forces crypto industry to rethink Washington strategy](https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362)
   - [French Hill’s race still too close to call as House flips, changing the direction of crypto legislation](https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572)
   - [Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
 - The Decoder
@@ -51,12 +63,15 @@
   - [New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations](https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/)
   - [OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents](https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/)
 - The Verge
+  - [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich)
   - [Anker’s new window-mounted camera monitors the outside of your home from within it](https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision)
   - [Apple will check shared iCloud links for ‘harmful content’](https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3)
+  - [Bose’s QuietComfort Headphones are more than half off](https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale)
   - [ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
   - [Gemini for Home now plugs into AT&#038;T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system)
   - [God of War Laufey delayed until May](https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay)
   - [Google’s Pixel 11 phones are up to 27 percent off](https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale)
+  - [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case)
   - [My therapist thinks I should chuck the Amazon Bee Frontier out a window](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables)
   - [Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
   - [Rian Johnson explains why he had to build his own iPhone camera app](https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview)
