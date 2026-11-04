@@ -1,7 +1,12 @@
 # 今日安全资讯（2026-11-04）
 
 - 2Libra
+  - [【💰】上班坐太久了，肩膀很酸痛，有什么缓解的办法](https://2libra.com/post/office-life/IF_n28P)
+  - [【💰】今年的冬天会很冷吗？](https://2libra.com/post/social-observation/SOmnvHD)
   - [双十一优惠已经结束了么？](https://2libra.com/post/deal-hunter/vjNKQsf)
+  - [我感觉金币池的灌水检测好像有点问题，过于敏感了](https://2libra.com/post/community/XZR3smz)
+  - [潘多拉开的这个风车好搞笑啊](https://2libra.com/post/forum-function/V1ye1a2)
+  - [物理学骗我？](https://2libra.com/post/tech-fun/0MJJVEr)
 - Ars Technica
   - [Google dismantles botnet secretly running on 1.3 million Android TV boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
 - buttondown.com/hillelwayne
@@ -28,6 +33,7 @@
   - [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/)
 - darkreading
   - [Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)
+  - [Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach](https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach)
 - Der Flounder
   - [Managing Local Network access settings on macOS Golden Gate using Blueprints in Jamf Pro](https://derflounder.wordpress.com/2026/11/04/13554/)
 - Fidelis Security
@@ -86,6 +92,7 @@
   - [OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week](https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/)
   - [Rapid LLM development is outrunning the research meant to explain it, study finds](https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/)
 - The Verge
+  - [AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc)
   - [Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps)
   - [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta)
   - [Canva is announcing changes and layoffs affecting 22 percent of its staff](https://www.theverge.com/tech/1025971/canva-changes-layoffs)
@@ -212,9 +219,11 @@
   - [The Lenovo IdeaPad Slim 5x Is Only $900 Right Now](https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/)
 - 不安全
   - [The $10 "SaaSpocalypse": Why the Future of Software Is 100% Open Source](https://buaq.net/go-452603.html)
+  - [苹果更新开发者规则要求月约会和AI恋爱陪伴应用最低分级18+ 即必须成年人才能使用](https://buaq.net/go-452616.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Fedora Linux 45 释出](https://www.solidot.org/story?sid=85786)
 - 爱范儿
+  - [15.98 万元起，东风奕派 M8 天元激光版上市，用自研智驾替换华为乾崑](https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token](https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=)
