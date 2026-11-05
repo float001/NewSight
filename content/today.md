@@ -1,9 +1,14 @@
 # 今日安全资讯（2026-11-05）
 
 - 2Libra
+  - [2 友们最开始都是从哪知道 2 站的](https://2libra.com/post/forum-function/RpKKuy5)
+  - [iMessage 中发表情包的方法](https://2libra.com/post/apple/V-idoQp)
+  - [【运动打开】第 2️⃣2️⃣天，阳光明媚，光影都有了质感](https://2libra.com/post/sports/Hi-FDsC)
   - [【💰】今天大 A 能继续争气吗？](https://2libra.com/post/stock-market/6UURF1e)
+  - [一个小短片](https://2libra.com/post/sharing-discoveries/_8tYMGR)
   - [循环](https://2libra.com/post/personal-life/NPzBj2e)
   - [现在发帖时可以选择可见性扩展](https://2libra.com/post/product-updates/5Vp7oCh)
+  - [看到 codex 有$200API 额度。](https://2libra.com/post/ai-programming/QynybN1)
   - [自己 AI 了一个“每次签到都可以多获得全勤徽章效果的 100 金币”的软件](https://2libra.com/post/ai-programming/65RQl4b)
   - [这个潘多拉是赖上我了](https://2libra.com/post/community/GbgOKmG)
 - 404 Media
@@ -54,6 +59,8 @@
 - PwnDefend
   - [No Mallace – When using an LLM, things can go wrong!](https://www.pwndefend.com/2026/11/04/no-mallace-when-using-an-llm-things-can-go-wrong/)
 - rtl-sdr.com
+  - [Clever Quest Lab: Free Browser-Based Decoders for RTTY, Weather Fax, SSTV, NAVTEX, APRS and More](https://www.rtl-sdr.com/clever-quest-lab-free-browser-based-decoders-for-rtty-weather-fax-sstv-navtex-aprs-and-more/)
+  - [ErgissVAG F16: An F-16 Cockpit-Style Android Car Dashboard with RTL-SDR ADS-B and Airband Receivers](https://www.rtl-sdr.com/ergissvag-f16-an-f-16-cockpit-style-android-car-dashboard-with-rtl-sdr-ads-b-and-airband-receivers/)
   - [ESPica32: A Standalone ESP32 Radio for Tuning Any KiwiSDR with No PC or Phone](https://www.rtl-sdr.com/espica32-a-standalone-esp32-radio-for-tuning-any-kiwisdr-with-no-pc-or-phone/)
   - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://www.rtl-sdr.com/offgrid-sdr-updated-to-v2-1-adds-dab-dab-and-drm-xhe-aac-decoding-in-the-browser/)
 - Sploitus.com Exploits RSS Feed
@@ -106,6 +113,7 @@
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Cloud Agent, now in a Container: Host Security for Nodes You Can’t Touch](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
+  - [CVE-2025-66364](https://vulners.com/nvd/NVD:CVE-2025-66364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102280](https://vulners.com/nvd/NVD:CVE-2026-102280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102894](https://vulners.com/nvd/NVD:CVE-2026-102894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102895](https://vulners.com/nvd/NVD:CVE-2026-102895?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -165,6 +173,9 @@
   - [CVE-2026-122116](https://vulners.com/nvd/NVD:CVE-2026-122116?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122118](https://vulners.com/nvd/NVD:CVE-2026-122118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122124](https://vulners.com/cvelist/CVELIST:CVE-2026-122124?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122154](https://vulners.com/nvd/NVD:CVE-2026-122154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122157](https://vulners.com/nvd/NVD:CVE-2026-122157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122158](https://vulners.com/nvd/NVD:CVE-2026-122158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122192](https://vulners.com/nvd/NVD:CVE-2026-122192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122220](https://vulners.com/nvd/NVD:CVE-2026-122220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122220 WPO365 LOGIN before 45.2 SAML Replay Protection Bypass](https://vulners.com/cve/CVE-2026-122220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -217,9 +228,11 @@
   - [‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover](https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/)
   - [‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump](https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/)
 - 不安全
+  - [CSharpScripts](https://buaq.net/go-452880.html)
   - [GitHub - kamehameha-ctrl/sniperscope: SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.](https://buaq.net/go-452877.html)
   - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://buaq.net/go-452864.html)
   - [rubeus](https://buaq.net/go-452816.html)
+  - [谷歌确认印度运营商JIO赠送的AI Pro套餐受限 不支持在反重力里使用Gemini 4 Argon](https://buaq.net/go-452882.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
