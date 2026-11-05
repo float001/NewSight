@@ -9,6 +9,7 @@
   - [【运动打开】第 2️⃣2️⃣天，阳光明媚，光影都有了质感](https://2libra.com/post/sports/Hi-FDsC)
   - [【💰】今天大 A 能继续争气吗？](https://2libra.com/post/stock-market/6UURF1e)
   - [一个小短片](https://2libra.com/post/sharing-discoveries/_8tYMGR)
+  - [分享羊毛， 北京建行转账羊毛！](https://2libra.com/post/deal-hunter/_El13vG)
   - [年老之后,突然坐下不能包屁股的外套都是假的啊.](https://2libra.com/post/personal-life/wK-dj5m)
   - [循环](https://2libra.com/post/personal-life/NPzBj2e)
   - [朋友们买过性价比最低的东西是啥](https://2libra.com/post/questions/ugrYBEX)
@@ -41,6 +42,7 @@
   - [India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’](https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin says phased reopening to begin Monday, will cover losses](https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea seeks 4th crypto tax delay, targets 2029 start](https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep](https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -50,12 +52,16 @@
   - [Node.js November 2026 Security Release: High-Severity Fixes](https://www.cyberkendra.com/2026/11/node-js-november-2026-security-release-high-severity-fixes.html)
 - CyberNews
   - [Ahold Delhaize cyberattack may cost up to €250M](https://cybernews.com/security/ahold-delhaize-cyberattack-cost-millions/)
+  - [AI ban on the horizon following Democrat win. This is what it actually means](https://cybernews.com/ai-news/democrats-day-one-ai-ban/)
   - [Apple starts peeping into your iCloud links. Here's what you need to know](https://cybernews.com/security/apple-icloud-link-checks/)
   - [Canadian hackers accused of hijacking university computers to mine cryptocurrency](https://cybernews.com/security/canadian-hackers-hijack-university-computers/)
   - [Cybernews Readers’ Choice Awards 2026: The winners chosen by you](https://cybernews.com/awards/cybernews-readers-choice-awards-2026-the-winners-chosen-by-you/)
+  - [French bank Credit Mutuel Arkea hit by major cyberattack](https://cybernews.com/security/credit-mutuel-arkea-cyberattack/)
   - [I get served ads on my smartphone based on what I watch on TV. How does it work?](https://cybernews.com/security-hub/why-phone-ads-follow-your-tv/)
+  - [Microsoft says Windows 11 now runs better on PCs with 8GB of RAM](https://cybernews.com/tech/microsoft-optimizes-windows-for-8gb-ram-systems/)
   - [Millions of Android phones face massive hacking risk: zero-click critical flaw](https://cybernews.com/security/google-patches-critical-android-security-flaws/)
   - [This giant black triangle is watching everyone](https://cybernews.com/news/madrid-black-triangle-cctv-surveillance/)
+  - [Why is residential proxy traffic coming from the White House network?](https://cybernews.com/security/white-house-network-residential-proxy-traffic/)
 - darkreading
   - [Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)
   - [Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet](https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet)
@@ -63,6 +69,7 @@
   - [APT flaw, Rails RCE, Zyxel zero-days, Debian/Ubuntu patch urgency](https://defend.network/briefings/apt-package-manager-rails-zyxel-zero-days-2026-11-05.html)
 - Hacker News Frontpage
   - [Ask HN: What your experience with the monthly "who wants to be hired" thread?](https://news.ycombinator.com/item?id=50372294)
+  - [Baidu dropped ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
   - [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
   - [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)
   - [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom)
@@ -72,12 +79,16 @@
   - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
 - Horizon3.ai
   - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
+- infosecurity-magazine.com
+  - [NATS Air Traffic Control Failure Cost UK Economy £33m](https://www.infosecurity-magazine.com/news/nats-air-traffic-control-fail-cost/)
 - krebsonsecurity.com
   - [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
 - MIT Technology Review
   - [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
   - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
   - [What’s next for US energy policy after the midterm elections?](https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/)
+- paper - Last paper
+  - [说同样的话，做不同的事：诊断与引导推理型 VLA 中的文本—动作背离](https://paper.seebug.org/3532)
 - pluralistic.net
   - [Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)](https://pluralistic.net/2026/11/05/see-you-in-court/)
 - PwnDefend
@@ -87,6 +98,8 @@
   - [ErgissVAG F16: An F-16 Cockpit-Style Android Car Dashboard with RTL-SDR ADS-B and Airband Receivers](https://www.rtl-sdr.com/ergissvag-f16-an-f-16-cockpit-style-android-car-dashboard-with-rtl-sdr-ads-b-and-airband-receivers/)
   - [ESPica32: A Standalone ESP32 Radio for Tuning Any KiwiSDR with No PC or Phone](https://www.rtl-sdr.com/espica32-a-standalone-esp32-radio-for-tuning-any-kiwisdr-with-no-pc-or-phone/)
   - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://www.rtl-sdr.com/offgrid-sdr-updated-to-v2-1-adds-dab-dab-and-drm-xhe-aac-decoding-in-the-browser/)
+- Shell is Only the Beginning
+  - [Moving an organization to passkeys without breaking access](https://www.darkoperator.com/blog/2026/11/5/moving-an-organization-to-passkeys-without-breaking-access)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-58868](https://sploitus.com/exploit?id=8CFE2949-F78E-5F56-8EAD-288908CD4C78&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-86583](https://sploitus.com/exploit?id=628E457E-A6C3-5DA7-9874-E61BC3F36391&utm_source=rss&utm_medium=rss)
@@ -294,6 +307,7 @@
   - [HostGator Coupon Codes: 76% Off Hosting in November 2026](https://www.wired.com/story/hostgator-coupon/)
   - [HP Coupon Codes and Deals November 2026](https://www.wired.com/story/hp-coupon-code/)
   - [Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’](https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/)
+  - [Israel Is Destroying the Machinery South Lebanon Needs to Rebuild](https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/)
   - [Knives Are Out in the White House](https://www.wired.com/story/knives-are-out-in-the-white-house/)
   - [Meta Quest Promo Codes and Coupons for November 2026](https://www.wired.com/story/meta-quest-promo-code/)
   - [Nomad Goods Promo Codes: Get 25% Off in November 2026](https://www.wired.com/story/nomad-discount-code/)
@@ -307,12 +321,18 @@
   - [‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover](https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/)
   - [‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump](https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/)
 - 不安全
+  - [Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://buaq.net/go-452959.html)
   - [Cloudflare推出个人AI智能体访问控制 网站可查看智能体流量并设置限制规则](https://buaq.net/go-452898.html)
+  - [co-weight-drift](https://buaq.net/go-452944.html)
   - [CSharpScripts](https://buaq.net/go-452880.html)
   - [GitHub - kamehameha-ctrl/sniperscope: SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.](https://buaq.net/go-452877.html)
+  - [How Online Maps Lay Bare the US Military Bases Targeted by Iran](https://buaq.net/go-452962.html)
+  - [ISO/IEC 27090 Addressing security threats and compromises to AI systems](https://buaq.net/go-452955.html)
   - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://buaq.net/go-452864.html)
+  - [Politica di segnalazione delle vulnerabilità (CVD) del CSIRT Italia](https://buaq.net/go-452954.html)
   - [rubeus](https://buaq.net/go-452816.html)
   - [苹果也开始削减员工AI用量 将每日预算从300美元降低到200美元甚至100美元](https://buaq.net/go-452927.html)
+  - [说同样的话，做不同的事：诊断与引导推理型 VLA 中的文本—动作背离](https://buaq.net/go-452942.html)
   - [谷歌确认印度运营商JIO赠送的AI Pro套餐受限 不支持在反重力里使用Gemini 4 Argon](https://buaq.net/go-452882.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -321,7 +341,9 @@
   - [Swift 天文台从印尼上空重返大气层](https://www.solidot.org/story?sid=85802)
   - [富钾盐替换普通盐有助于每年预防数百万人死亡](https://www.solidot.org/story?sid=85803)
 - 爱范儿
+  - [Chromebook 统治美国校园，AI 成了没得选的「套餐」](https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由](https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [一加 Ace 7 Pro 体验：「二号人物」这次想当主角](https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司](https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时](https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=)
