@@ -2,6 +2,8 @@
 
 - 404 Media
   - [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/)
+- anildash.com
+  - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
 - Ars Technica
   - [AMD's record quarter: Data center business doubles, while gaming craters](https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/)
   - [VMware releases vSphere Express for virtualization on up to 128 cores](https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/)
@@ -14,6 +16,7 @@
   - [Crypto PACs eye 2028 ‘new map’ as Democrats take Congress](https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1](https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Mercado Bitcoin says phased reopening to begin Monday, will cover losses](https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -31,7 +34,9 @@
   - [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
   - [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)
   - [Education Shouldn't Be Held for Ransom](https://blog.kagi.com/education-should-not-be-held-for-ransom)
+  - [Introducing Images 2.6](https://openai.com/index/introducing-images-2-6/)
   - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
+  - [Local privilege escalation vulnerabilities in Linux](https://openai.com/index/a-thousand-fewer-paths-to-root/)
   - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
 - Horizon3.ai
   - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
@@ -190,6 +195,7 @@
   - [Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’](https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/)
   - [Knives Are Out in the White House](https://www.wired.com/story/knives-are-out-in-the-white-house/)
   - [The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/)
+  - [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/)
   - [The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court](https://www.wired.com/story/wired-world-fair-2026-mark-lanier/)
   - [The Results Are In: Voters Hate Data Centers](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/)
   - [‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover](https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/)
