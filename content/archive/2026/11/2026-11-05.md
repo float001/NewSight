@@ -14,6 +14,7 @@
   - [现在发帖时可以选择可见性扩展](https://2libra.com/post/product-updates/5Vp7oCh)
   - [看到 codex 有$200API 额度。](https://2libra.com/post/ai-programming/QynybN1)
   - [自己 AI 了一个“每次签到都可以多获得全勤徽章效果的 100 金币”的软件](https://2libra.com/post/ai-programming/65RQl4b)
+  - [这个值得买吗](https://2libra.com/post/ask-recommendation/C7Bb5K3)
   - [这个潘多拉是赖上我了](https://2libra.com/post/community/GbgOKmG)
 - 404 Media
   - [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/)
@@ -29,6 +30,7 @@
 - CoinTelegraph
   - [BitMart founder says security team ‘severely understaffed’ after new hack](https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs eye 2028 ‘new map’ as Democrats take Congress](https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crédit Mutuel Arkéa resumes operations after attack, assesses losses](https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1](https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’](https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -44,6 +46,8 @@
 - CyberNews
   - [Ahold Delhaize cyberattack may cost up to €250M](https://cybernews.com/security/ahold-delhaize-cyberattack-cost-millions/)
   - [Canadian hackers accused of hijacking university computers to mine cryptocurrency](https://cybernews.com/security/canadian-hackers-hijack-university-computers/)
+  - [Cybernews Readers’ Choice Awards 2026: The winners chosen by you](https://cybernews.com/awards/cybernews-readers-choice-awards-2026-the-winners-chosen-by-you/)
+  - [I get served ads on my smartphone based on what I watch on TV. How does it work?](https://cybernews.com/security-hub/why-phone-ads-follow-your-tv/)
   - [Millions of Android phones face massive hacking risk: zero-click critical flaw](https://cybernews.com/security/google-patches-critical-android-security-flaws/)
 - darkreading
   - [Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)
@@ -75,6 +79,7 @@
   - [ESPica32: A Standalone ESP32 Radio for Tuning Any KiwiSDR with No PC or Phone](https://www.rtl-sdr.com/espica32-a-standalone-esp32-radio-for-tuning-any-kiwisdr-with-no-pc-or-phone/)
   - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://www.rtl-sdr.com/offgrid-sdr-updated-to-v2-1-adds-dab-dab-and-drm-xhe-aac-decoding-in-the-browser/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-58868](https://sploitus.com/exploit?id=8CFE2949-F78E-5F56-8EAD-288908CD4C78&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-86583](https://sploitus.com/exploit?id=628E457E-A6C3-5DA7-9874-E61BC3F36391&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://sploitus.com/exploit?id=85ECC531-AA61-51C4-8FCC-06DB842A33DF&utm_source=rss&utm_medium=rss)
   - [open-reverselab exploit](https://sploitus.com/exploit?id=16E623B0-8243-50DE-9DBA-1295D423544F&utm_source=rss&utm_medium=rss)
@@ -292,17 +297,21 @@
   - [GitHub - kamehameha-ctrl/sniperscope: SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.](https://buaq.net/go-452877.html)
   - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://buaq.net/go-452864.html)
   - [rubeus](https://buaq.net/go-452816.html)
+  - [苹果也开始削减员工AI用量 将每日预算从300美元降低到200美元甚至100美元](https://buaq.net/go-452927.html)
   - [谷歌确认印度运营商JIO赠送的AI Pro套餐受限 不支持在反重力里使用Gemini 4 Argon](https://buaq.net/go-452882.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [AMD 营收预计将首次超过英特尔](https://www.solidot.org/story?sid=85799)
+  - [Swift 天文台从印尼上空重返大气层](https://www.solidot.org/story?sid=85802)
 - 爱范儿
   - [GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由](https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司](https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时](https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
+  - [MIT神作被锤：Astra爆改Qwen权重？就吹吧！](https://www.qbitai.com/2026/11/507782.html)
+  - [百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA](https://www.qbitai.com/2026/11/507787.html)
   - [百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年](https://www.qbitai.com/2026/11/507647.html)
 - 黑海洋
   - [继欧洲超市冷柜之后 法国血库遭到黑客攻击](https://blog.upx8.com/%E7%BB%A7%E6%AC%A7%E6%B4%B2%E8%B6%85%E5%B8%82%E5%86%B7%E6%9F%9C%E4%B9%8B%E5%90%8E-%E6%B3%95%E5%9B%BD%E8%A1%80%E5%BA%93%E9%81%AD%E5%88%B0%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
