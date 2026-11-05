@@ -19,6 +19,7 @@
   - [自己 AI 了一个“每次签到都可以多获得全勤徽章效果的 100 金币”的软件](https://2libra.com/post/ai-programming/65RQl4b)
   - [这个值得买吗](https://2libra.com/post/ask-recommendation/C7Bb5K3)
   - [这个潘多拉是赖上我了](https://2libra.com/post/community/GbgOKmG)
+  - [🪙【AI 随想】AI 访问网站可能并非垃圾流量](https://2libra.com/post/ai-trends/H6Ry1vG)
 - 404 Media
   - [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/)
 - anildash.com
@@ -46,6 +47,7 @@
   - [South Korea seeks 4th crypto tax delay, targets 2029 start](https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Thailand to block Bitget in December over unlicensed crypto trading](https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says](https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep](https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [BitMart founder says security team ‘severely understaffed’ after new hack](https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -58,18 +60,23 @@
   - [Apple starts peeping into your iCloud links. Here's what you need to know](https://cybernews.com/security/apple-icloud-link-checks/)
   - [Canadian hackers accused of hijacking university computers to mine cryptocurrency](https://cybernews.com/security/canadian-hackers-hijack-university-computers/)
   - [Cybernews Readers’ Choice Awards 2026: The winners chosen by you](https://cybernews.com/awards/cybernews-readers-choice-awards-2026-the-winners-chosen-by-you/)
+  - [Data-hungry bot swarms target university libraries and crash their websites](https://cybernews.com/ai-news/bots-university-libraries/)
   - [French bank Credit Mutuel Arkea hit by major cyberattack](https://cybernews.com/security/credit-mutuel-arkea-cyberattack/)
   - [I get served ads on my smartphone based on what I watch on TV. How does it work?](https://cybernews.com/security-hub/why-phone-ads-follow-your-tv/)
   - [Microsoft says Windows 11 now runs better on PCs with 8GB of RAM](https://cybernews.com/tech/microsoft-optimizes-windows-for-8gb-ram-systems/)
   - [Millions of Android phones face massive hacking risk: zero-click critical flaw](https://cybernews.com/security/google-patches-critical-android-security-flaws/)
   - [OpenAI’s agent uncovers 1K Linux kernel flaws, saving millions of dollars](https://cybernews.com/security/openais-linux-kernel-vulnerabilities-android/)
+  - [Single hacker uses 12 AI agents to launch global cyberattacks](https://cybernews.com/security/single-hacker-twelve-ai-agents-cyberattack/)
   - [This giant black triangle is watching everyone](https://cybernews.com/news/madrid-black-triangle-cctv-surveillance/)
+  - [This secret clue in your videos can be used to track your hidden details](https://cybernews.com/privacy/aircraft-doppler-audio-geolocation-privacy/)
   - [Why is residential proxy traffic coming from the White House network?](https://cybernews.com/security/white-house-network-residential-proxy-traffic/)
 - darkreading
   - [Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)
   - [Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet](https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet)
 - defend.network
   - [APT flaw, Rails RCE, Zyxel zero-days, Debian/Ubuntu patch urgency](https://defend.network/briefings/apt-package-manager-rails-zyxel-zero-days-2026-11-05.html)
+- GuidePoint Security
+  - [Post-Quantum Cryptography Part 2: 2030 Is Not the Deadline](https://www.guidepointsecurity.com/blog/pqc-2030-is-not-the-deadline/)
 - Hacker News Frontpage
   - [Ask HN: What your experience with the monthly "who wants to be hired" thread?](https://news.ycombinator.com/item?id=50372294)
   - [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)
@@ -81,6 +88,7 @@
   - [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
   - [Local privilege escalation vulnerabilities in Linux](https://openai.com/index/a-thousand-fewer-paths-to-root/)
   - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
+  - [Sshole](https://sshhole.com)
 - Horizon3.ai
   - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
 - infosecurity-magazine.com
@@ -106,12 +114,15 @@
   - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://www.rtl-sdr.com/offgrid-sdr-updated-to-v2-1-adds-dab-dab-and-drm-xhe-aac-decoding-in-the-browser/)
 - Shell is Only the Beginning
   - [Moving an organization to passkeys without breaking access](https://www.darkoperator.com/blog/2026/11/5/moving-an-organization-to-passkeys-without-breaking-access)
+- shkspr.mobi
+  - [Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-tozo-nc9-pro-bluetooth-headphones/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-58868](https://sploitus.com/exploit?id=8CFE2949-F78E-5F56-8EAD-288908CD4C78&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-86583](https://sploitus.com/exploit?id=628E457E-A6C3-5DA7-9874-E61BC3F36391&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://sploitus.com/exploit?id=85ECC531-AA61-51C4-8FCC-06DB842A33DF&utm_source=rss&utm_medium=rss)
   - [open-reverselab exploit](https://sploitus.com/exploit?id=16E623B0-8243-50DE-9DBA-1295D423544F&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [A YC startup is putting $1M behind five unsolved materials science problems for AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/)
   - [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
   - [Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/)
   - [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
@@ -141,6 +152,7 @@
   - [Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
   - [The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto](https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371)
 - The Decoder
+  - [Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI](https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/)
   - [ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model](https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/)
   - [New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations](https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/)
   - [OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents](https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/)
@@ -155,10 +167,12 @@
   - [God of War Laufey delayed until May](https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay)
   - [Google’s Pixel 11 phones are up to 27 percent off](https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale)
   - [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case)
+  - [Motorola is going ultra premium with its $1,600 ‘Signature’ phone](https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability)
   - [My therapist thinks I should chuck the Amazon Bee Frontier out a window](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables)
   - [Nothing teases a screen-free AI device ahead of launch next month](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
   - [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)
   - [Rian Johnson explains why he had to build his own iPhone camera app](https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview)
+  - [Spotify is coming to United Airlines seatbacks — with help from Starlink](https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi)
   - [X says its updated web app is way faster](https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster)
   - [Xbox previews two new ways to control cloud games](https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller)
 - Vulnerabilities and Threat Research – Qualys Security Blog
@@ -198,6 +212,7 @@
   - [CVE-2026-115474](https://vulners.com/nvd/NVD:CVE-2026-115474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115574](https://vulners.com/nvd/NVD:CVE-2026-115574?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119746](https://vulners.com/nvd/NVD:CVE-2026-119746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121489](https://vulners.com/nvd/NVD:CVE-2026-121489?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121745](https://vulners.com/nvd/NVD:CVE-2026-121745?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121746](https://vulners.com/nvd/NVD:CVE-2026-121746?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121747](https://vulners.com/nvd/NVD:CVE-2026-121747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -252,6 +267,8 @@
   - [CVE-2026-122266](https://vulners.com/nvd/NVD:CVE-2026-122266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123010](https://vulners.com/cvelist/CVELIST:CVE-2026-123010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123014](https://vulners.com/nvd/NVD:CVE-2026-123014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123018](https://vulners.com/nvd/NVD:CVE-2026-123018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123019](https://vulners.com/nvd/NVD:CVE-2026-123019?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123036](https://vulners.com/nvd/NVD:CVE-2026-123036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16304](https://vulners.com/nvd/NVD:CVE-2026-16304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19256](https://vulners.com/nvd/NVD:CVE-2026-19256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -277,6 +294,13 @@
   - [CVE-2026-57853](https://vulners.com/nvd/NVD:CVE-2026-57853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58128](https://vulners.com/nvd/NVD:CVE-2026-58128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63655](https://vulners.com/nvd/NVD:CVE-2026-63655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73095](https://vulners.com/nvd/NVD:CVE-2026-73095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73098](https://vulners.com/nvd/NVD:CVE-2026-73098?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73099](https://vulners.com/nvd/NVD:CVE-2026-73099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73100](https://vulners.com/nvd/NVD:CVE-2026-73100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73101](https://vulners.com/nvd/NVD:CVE-2026-73101?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73116](https://vulners.com/nvd/NVD:CVE-2026-73116?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-73117](https://vulners.com/nvd/NVD:CVE-2026-73117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76806](https://vulners.com/nvd/NVD:CVE-2026-76806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76893](https://vulners.com/nvd/NVD:CVE-2026-76893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76893 tsParticles: A single anonymous MCP session can monopolize HTTP mode and deny new clients](https://vulners.com/cve/CVE-2026-76893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -298,6 +322,7 @@
   - [CVE-2026-91163](https://vulners.com/nvd/NVD:CVE-2026-91163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91168](https://vulners.com/nvd/NVD:CVE-2026-91168?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92704](https://vulners.com/nvd/NVD:CVE-2026-92704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96677](https://vulners.com/nvd/NVD:CVE-2026-96677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97693](https://vulners.com/nvd/NVD:CVE-2026-97693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97705](https://vulners.com/nvd/NVD:CVE-2026-97705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-107441](https://vulners.com/githubexploit/29180D6F-2FF6-512D-850C-D707B8A9535C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -313,6 +338,7 @@
   - [Best Wireless Chargers (2026): My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)
   - [Booking.com Promo Codes: 20% Off | November 2026](https://www.wired.com/story/booking-com-promo-code/)
   - [Corsair Discount Code: Up to 50% Off for November 2026](https://www.wired.com/story/corsair-coupon/)
+  - [Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work](https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/)
   - [Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out](https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/)
   - [Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350](https://www.wired.com/story/google-pixel-11-deal-november-2026/)
   - [He Trolls AI Labs for a Living. Now They All Want to Work With Him](https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/)
@@ -323,6 +349,7 @@
   - [Israel Is Destroying the Machinery South Lebanon Needs to Rebuild](https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/)
   - [Knives Are Out in the White House](https://www.wired.com/story/knives-are-out-in-the-white-house/)
   - [Meta Quest Promo Codes and Coupons for November 2026](https://www.wired.com/story/meta-quest-promo-code/)
+  - [Motorola Wants to Sell You a $1,600 Phone That Doesn’t Fold](https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/)
   - [Nomad Goods Promo Codes: Get 25% Off in November 2026](https://www.wired.com/story/nomad-discount-code/)
   - [Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’](https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/)
   - [Ray-Ban Promo Codes: Save 50% in November 2026](https://www.wired.com/story/ray-ban-promo-code/)
