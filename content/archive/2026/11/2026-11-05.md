@@ -11,6 +11,8 @@
   - [一个小短片](https://2libra.com/post/sharing-discoveries/_8tYMGR)
   - [年老之后,突然坐下不能包屁股的外套都是假的啊.](https://2libra.com/post/personal-life/wK-dj5m)
   - [循环](https://2libra.com/post/personal-life/NPzBj2e)
+  - [朋友们买过性价比最低的东西是啥](https://2libra.com/post/questions/ugrYBEX)
+  - [来礼佛一下吧](https://2libra.com/post/sharing-discoveries/7BLJYn2)
   - [现在发帖时可以选择可见性扩展](https://2libra.com/post/product-updates/5Vp7oCh)
   - [看到 codex 有$200API 额度。](https://2libra.com/post/ai-programming/QynybN1)
   - [自己 AI 了一个“每次签到都可以多获得全勤徽章效果的 100 金币”的软件](https://2libra.com/post/ai-programming/65RQl4b)
@@ -23,11 +25,14 @@
 - Ars Technica
   - [AMD's record quarter: Data center business doubles, while gaming craters](https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/)
   - [VMware releases vSphere Express for virtualization on up to 128 cores](https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/)
+- Bitdefender Labs
+  - [GhostMap: The Android flaw that crashes your phone before you open the app](https://www.bitdefender.com/en-us/blog/labs/ghostmap-android)
 - blog.jim-nielsen.com
   - [“It Gives Great Demo”](https://blog.jim-nielsen.com/2026/it-gives-great-demo/)
 - ByteByteGo
   - [How Anthropic Redesigned Source Control](https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control)
 - CoinTelegraph
+  - [Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms](https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMart founder says security team ‘severely understaffed’ after new hack](https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs eye 2028 ‘new map’ as Democrats take Congress](https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crédit Mutuel Arkéa resumes operations after attack, assesses losses](https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -45,10 +50,12 @@
   - [Node.js November 2026 Security Release: High-Severity Fixes](https://www.cyberkendra.com/2026/11/node-js-november-2026-security-release-high-severity-fixes.html)
 - CyberNews
   - [Ahold Delhaize cyberattack may cost up to €250M](https://cybernews.com/security/ahold-delhaize-cyberattack-cost-millions/)
+  - [Apple starts peeping into your iCloud links. Here's what you need to know](https://cybernews.com/security/apple-icloud-link-checks/)
   - [Canadian hackers accused of hijacking university computers to mine cryptocurrency](https://cybernews.com/security/canadian-hackers-hijack-university-computers/)
   - [Cybernews Readers’ Choice Awards 2026: The winners chosen by you](https://cybernews.com/awards/cybernews-readers-choice-awards-2026-the-winners-chosen-by-you/)
   - [I get served ads on my smartphone based on what I watch on TV. How does it work?](https://cybernews.com/security-hub/why-phone-ads-follow-your-tv/)
   - [Millions of Android phones face massive hacking risk: zero-click critical flaw](https://cybernews.com/security/google-patches-critical-android-security-flaws/)
+  - [This giant black triangle is watching everyone](https://cybernews.com/news/madrid-black-triangle-cctv-surveillance/)
 - darkreading
   - [Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)
   - [Google, Partners Disrupts 1.3 Million-Device-Strong XCPE Botnet](https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet)
@@ -71,6 +78,8 @@
   - [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
   - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
   - [What’s next for US energy policy after the midterm elections?](https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/)
+- pluralistic.net
+  - [Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)](https://pluralistic.net/2026/11/05/see-you-in-court/)
 - PwnDefend
   - [No Mallace – When using an LLM, things can go wrong!](https://www.pwndefend.com/2026/11/04/no-mallace-when-using-an-llm-things-can-go-wrong/)
 - rtl-sdr.com
@@ -101,10 +110,12 @@
   - [Waymo confirms it will split with Uber in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/)
   - [‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet](https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/)
 - The Block
+  - [Arkansas sues Kalshi, says its alleged illegal gambling operations cause mental harm](https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407)
   - [Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack](https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030)
   - [Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach](https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880)
   - [Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses](https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372)
   - [Democratic sweep of Congress forces crypto industry to rethink Washington strategy](https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362)
+  - [Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains](https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413)
   - [French Hill’s race still too close to call as House flips, changing the direction of crypto legislation](https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572)
   - [Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
   - [The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto](https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371)
@@ -134,6 +145,7 @@
   - [CVE-2025-15701](https://vulners.com/nvd/NVD:CVE-2025-15701?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-15702](https://vulners.com/nvd/NVD:CVE-2025-15702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-66364](https://vulners.com/nvd/NVD:CVE-2025-66364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100109](https://vulners.com/nvd/NVD:CVE-2026-100109?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100144](https://vulners.com/nvd/NVD:CVE-2026-100144?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102280](https://vulners.com/nvd/NVD:CVE-2026-102280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102894](https://vulners.com/nvd/NVD:CVE-2026-102894?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -146,10 +158,13 @@
   - [CVE-2026-107773](https://vulners.com/nvd/NVD:CVE-2026-107773?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107774](https://vulners.com/nvd/NVD:CVE-2026-107774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107775](https://vulners.com/nvd/NVD:CVE-2026-107775?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107776](https://vulners.com/nvd/NVD:CVE-2026-107776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107786](https://vulners.com/nvd/NVD:CVE-2026-107786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107787](https://vulners.com/nvd/NVD:CVE-2026-107787?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109150](https://vulners.com/nvd/NVD:CVE-2026-109150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109408](https://vulners.com/nvd/NVD:CVE-2026-109408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109518](https://vulners.com/nvd/NVD:CVE-2026-109518?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112072](https://vulners.com/nvd/NVD:CVE-2026-112072?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113368](https://vulners.com/nvd/NVD:CVE-2026-113368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113369](https://vulners.com/nvd/NVD:CVE-2026-113369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113370](https://vulners.com/nvd/NVD:CVE-2026-113370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -304,6 +319,7 @@
 - 奇客Solidot–传递最新科技情报
   - [AMD 营收预计将首次超过英特尔](https://www.solidot.org/story?sid=85799)
   - [Swift 天文台从印尼上空重返大气层](https://www.solidot.org/story?sid=85802)
+  - [富钾盐替换普通盐有助于每年预防数百万人死亡](https://www.solidot.org/story?sid=85803)
 - 爱范儿
   - [GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由](https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -314,4 +330,5 @@
   - [百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA](https://www.qbitai.com/2026/11/507787.html)
   - [百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年](https://www.qbitai.com/2026/11/507647.html)
 - 黑海洋
+  - [法国区域性银行遭网络攻击 约1亿欧元被盗](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E5%8C%BA%E5%9F%9F%E6%80%A7%E9%93%B6%E8%A1%8C%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB-%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83%E8%A2%AB%E7%9B%97)
   - [继欧洲超市冷柜之后 法国血库遭到黑客攻击](https://blog.upx8.com/%E7%BB%A7%E6%AC%A7%E6%B4%B2%E8%B6%85%E5%B8%82%E5%86%B7%E6%9F%9C%E4%B9%8B%E5%90%8E-%E6%B3%95%E5%9B%BD%E8%A1%80%E5%BA%93%E9%81%AD%E5%88%B0%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
