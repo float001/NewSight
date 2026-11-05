@@ -44,6 +44,7 @@
   - [Mercado Bitcoin says phased reopening to begin Monday, will cover losses](https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea seeks 4th crypto tax delay, targets 2029 start](https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Thailand to block Bitget in December over unlicensed crypto trading](https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep](https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -71,6 +72,7 @@
   - [APT flaw, Rails RCE, Zyxel zero-days, Debian/Ubuntu patch urgency](https://defend.network/briefings/apt-package-manager-rails-zyxel-zero-days-2026-11-05.html)
 - Hacker News Frontpage
   - [Ask HN: What your experience with the monthly "who wants to be hired" thread?](https://news.ycombinator.com/item?id=50372294)
+  - [Awesome repositories are no longer awesome](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/)
   - [Baidu dropped ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
   - [Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust](https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/)
   - [Conductor Is Joining Meta](https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta)
@@ -82,6 +84,7 @@
 - Horizon3.ai
   - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
 - infosecurity-magazine.com
+  - [Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026](https://www.infosecurity-magazine.com/news/chinese-nation-activity-falls/)
   - [GhostMap Bug Leaves Android Phones Stuck in Reboot Loop](https://www.infosecurity-magazine.com/news/ghostmap-bug-android-phones-stuck/)
   - [NATS Air Traffic Control Failure Cost UK Economy £33m](https://www.infosecurity-magazine.com/news/nats-air-traffic-control-fail-cost/)
 - krebsonsecurity.com
@@ -110,6 +113,7 @@
   - [open-reverselab exploit](https://sploitus.com/exploit?id=16E623B0-8243-50DE-9DBA-1295D423544F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
+  - [Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/)
   - [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
   - [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
   - [Amazon ditches GrubHub, taps Uber Eats for Prime](https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/)
@@ -146,6 +150,7 @@
   - [Apple will check shared iCloud links for ‘harmful content’](https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3)
   - [Bose’s QuietComfort Headphones are more than half off](https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale)
   - [ChatGPT will now make you animated GIFs](https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6)
+  - [Discord is ditching Electron and its new app uses less RAM](https://www.theverge.com/news/1027379/discord-ditching-electron-web-app)
   - [Gemini for Home now plugs into AT&#038;T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system)
   - [God of War Laufey delayed until May](https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay)
   - [Google’s Pixel 11 phones are up to 27 percent off](https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale)
@@ -302,12 +307,15 @@
   - [SkillSpector](https://vulners.com/gitee/203FA7C5-C9F3-5FB3-A8FB-1D7C2F6F2453?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship](https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/)
+  - [AI’s Next Trick? Speaking Dolphin](https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/)
   - [Altra Running Promo Codes: 10% Off November 2026](https://www.wired.com/story/altra-promo-code/)
   - [B&H Photo Promo Codes and Deals This November 2026](https://www.wired.com/story/bh-photo-coupon/)
+  - [Best Wireless Chargers (2026): My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)
   - [Booking.com Promo Codes: 20% Off | November 2026](https://www.wired.com/story/booking-com-promo-code/)
   - [Corsair Discount Code: Up to 50% Off for November 2026](https://www.wired.com/story/corsair-coupon/)
   - [Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out](https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/)
   - [Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350](https://www.wired.com/story/google-pixel-11-deal-november-2026/)
+  - [He Trolls AI Labs for a Living. Now They All Want to Work With Him](https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/)
   - [Herman Miller Promo Codes: 40% Off November 2026](https://www.wired.com/story/herman-miller-promo-code/)
   - [HostGator Coupon Codes: 76% Off Hosting in November 2026](https://www.wired.com/story/hostgator-coupon/)
   - [HP Coupon Codes and Deals November 2026](https://www.wired.com/story/hp-coupon-code/)
@@ -323,6 +331,7 @@
   - [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/)
   - [The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court](https://www.wired.com/story/wired-world-fair-2026-mark-lanier/)
   - [The Results Are In: Voters Hate Data Centers](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/)
+  - [The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?](https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/)
   - [Udemy Coupon Codes: 20% Off November 2026](https://www.wired.com/story/udemy-promo-code/)
   - [Zoro Coupon Codes: 20% Off November 2026](https://www.wired.com/story/zoro-promo-code/)
   - [‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover](https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/)
@@ -347,6 +356,11 @@
   - [AMD 营收预计将首次超过英特尔](https://www.solidot.org/story?sid=85799)
   - [Swift 天文台从印尼上空重返大气层](https://www.solidot.org/story?sid=85802)
   - [富钾盐替换普通盐有助于每年预防数百万人死亡](https://www.solidot.org/story?sid=85803)
+- 安全客
+  - [12小时攻破AI巨头：Anthropic被AI Agent扒光Slack，前员工的预言应验了](https://www.anquanke.com/post/id/316429)
+  - [币安丢了63亿美元，问题出在一台工程师的笔记本上](https://www.anquanke.com/post/id/316432)
+  - [有人把欧洲超市的冷柜调到了50℃，这是第二个月了](https://www.anquanke.com/post/id/316435)
+  - [潜伏16年的UEFI漏洞：开机那几秒，你的所有防线都还没上线](https://www.anquanke.com/post/id/316426)
 - 爱范儿
   - [Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感](https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Chromebook 统治美国校园，AI 成了没得选的「套餐」](https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=)
