@@ -37,6 +37,8 @@
   - [Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks](https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms](https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMart founder says security team ‘severely understaffed’ after new hack](https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says](https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Can decentralized phone networks power the AI revolution?](https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs eye 2028 ‘new map’ as Democrats take Congress](https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crédit Mutuel Arkéa resumes operations after attack, assesses losses](https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,6 +59,7 @@
 - CyberNews
   - [Ahold Delhaize cyberattack may cost up to €250M](https://cybernews.com/security/ahold-delhaize-cyberattack-cost-millions/)
   - [AI ban on the horizon following Democrat win. This is what it actually means](https://cybernews.com/ai-news/democrats-day-one-ai-ban/)
+  - [AI builds its own successors – will it outsmart us?](https://cybernews.com/editorial/ai-recursive-self-improvement-anthropic/)
   - [Apple starts peeping into your iCloud links. Here's what you need to know](https://cybernews.com/security/apple-icloud-link-checks/)
   - [Canadian hackers accused of hijacking university computers to mine cryptocurrency](https://cybernews.com/security/canadian-hackers-hijack-university-computers/)
   - [Cybernews Readers’ Choice Awards 2026: The winners chosen by you](https://cybernews.com/awards/cybernews-readers-choice-awards-2026-the-winners-chosen-by-you/)
@@ -91,6 +94,8 @@
   - [Sshole](https://sshhole.com)
 - Horizon3.ai
   - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
+- IEEE Spectrum
+  - [Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras](https://spectrum.ieee.org/2026-solar-eclipse)
 - infosecurity-magazine.com
   - [Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026](https://www.infosecurity-magazine.com/news/chinese-nation-activity-falls/)
   - [GhostMap Bug Leaves Android Phones Stuck in Reboot Loop](https://www.infosecurity-magazine.com/news/ghostmap-bug-android-phones-stuck/)
@@ -100,6 +105,7 @@
 - MIT Technology Review
   - [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
   - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
+  - [The Download: Texas’s fragile AI boom and energy policy shifts](https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/)
   - [What’s next for US energy policy after the midterm elections?](https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/)
 - paper - Last paper
   - [说同样的话，做不同的事：诊断与引导推理型 VLA 中的文本—动作背离](https://paper.seebug.org/3532)
@@ -129,6 +135,7 @@
   - [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
   - [Amazon ditches GrubHub, taps Uber Eats for Prime](https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/)
   - [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)
+  - [Box taps Nvidia’s Nemotron for new agent-first content retrieval system](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/)
   - [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/)
   - [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
   - [Hackers stole DreamHost customer files and inboxes during months-long attack](https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/)
@@ -137,6 +144,7 @@
   - [Nothing CEO says company’s mysterious AI-first device is dropping next month](https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/)
   - [Open source AI is booming. Hugging Face explains who profits.](https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/)
   - [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/)
+  - [RadianX promises solar-powered devices that never need charging](https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/)
   - [Sequoia hits rewind, undoing 20 years of expansion](https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/)
   - [Snapchat surpasses 30M paid subscribers](https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/)
   - [Waymo confirms it will split with Uber in January 2028](https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/)
@@ -153,6 +161,7 @@
   - [The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto](https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371)
 - The Decoder
   - [Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI](https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/)
+  - [Apple slashes internal AI budgets, with deeper cuts still planned](https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/)
   - [ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model](https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/)
   - [New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations](https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/)
   - [OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents](https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/)
@@ -173,6 +182,9 @@
   - [Qualcomm is betting big on data centers as smartphone sales sink](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers)
   - [Rian Johnson explains why he had to build his own iPhone camera app](https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview)
   - [Spotify is coming to United Airlines seatbacks — with help from Starlink](https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi)
+  - [The M6 MacBook Pro is probably the last of its kind](https://www.theverge.com/tech/1027250/m6-macbook-pro-review)
+  - [The new iMac is a good desktop computer that needs a redesign](https://www.theverge.com/tech/1027177/2026-imac-m6-review)
+  - [The touchscreen MacBook Pro is a winner](https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review)
   - [X says its updated web app is way faster](https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster)
   - [Xbox previews two new ways to control cloud games](https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller)
 - Vulnerabilities and Threat Research – Qualys Security Blog
@@ -392,12 +404,14 @@
   - [Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感](https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Chromebook 统治美国校园，AI 成了没得选的「套餐」](https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由](https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南](https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一加 Ace 7 Pro 体验：「二号人物」这次想当主角](https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点](https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司](https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时](https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [MIT神作被锤：Astra爆改Qwen权重？就吹吧！](https://www.qbitai.com/2026/11/507782.html)
+  - [孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭](https://www.qbitai.com/2026/11/507919.html)
   - [百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA](https://www.qbitai.com/2026/11/507787.html)
   - [百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年](https://www.qbitai.com/2026/11/507647.html)
 - 黑海洋
