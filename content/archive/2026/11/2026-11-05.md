@@ -2,7 +2,10 @@
 
 - 2Libra
   - [【💰】今天大 A 能继续争气吗？](https://2libra.com/post/stock-market/6UURF1e)
+  - [循环](https://2libra.com/post/personal-life/NPzBj2e)
+  - [现在发帖时可以选择可见性扩展](https://2libra.com/post/product-updates/5Vp7oCh)
   - [自己 AI 了一个“每次签到都可以多获得全勤徽章效果的 100 金币”的软件](https://2libra.com/post/ai-programming/65RQl4b)
+  - [这个潘多拉是赖上我了](https://2libra.com/post/community/GbgOKmG)
 - 404 Media
   - [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/)
 - anildash.com
@@ -19,6 +22,7 @@
   - [Crypto PACs eye 2028 ‘new map’ as Democrats take Congress](https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1](https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’](https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin says phased reopening to begin Monday, will cover losses](https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,6 +55,7 @@
   - [No Mallace – When using an LLM, things can go wrong!](https://www.pwndefend.com/2026/11/04/no-mallace-when-using-an-llm-things-can-go-wrong/)
 - rtl-sdr.com
   - [ESPica32: A Standalone ESP32 Radio for Tuning Any KiwiSDR with No PC or Phone](https://www.rtl-sdr.com/espica32-a-standalone-esp32-radio-for-tuning-any-kiwisdr-with-no-pc-or-phone/)
+  - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://www.rtl-sdr.com/offgrid-sdr-updated-to-v2-1-adds-dab-dab-and-drm-xhe-aac-decoding-in-the-browser/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-86583](https://sploitus.com/exploit?id=628E457E-A6C3-5DA7-9874-E61BC3F36391&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://sploitus.com/exploit?id=85ECC531-AA61-51C4-8FCC-06DB842A33DF&utm_source=rss&utm_medium=rss)
@@ -59,6 +64,7 @@
   - [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
   - [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
   - [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
+  - [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)
   - [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/)
   - [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
   - [Hackers stole DreamHost customer files and inboxes during months-long attack](https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/)
@@ -211,6 +217,8 @@
   - [‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover](https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/)
   - [‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump](https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/)
 - 不安全
+  - [GitHub - kamehameha-ctrl/sniperscope: SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.](https://buaq.net/go-452877.html)
+  - [OFFgrid-SDR Updated to V2.1: Adds DAB, DAB+ and DRM xHE-AAC Decoding in the Browser](https://buaq.net/go-452864.html)
   - [rubeus](https://buaq.net/go-452816.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
