@@ -1,38 +1,57 @@
 # 今日安全资讯（2026-11-06）
 
 - 404 Media
+  - [In the UK, Face Sitting Porn Might Land You in Jail](https://www.404media.co/uk-crime-and-policing-act-pornography/)
   - [Podcast: Proton’s CEO Is Putting AI Before Security](https://www.404media.co/podcast-protons-ceo-is-putting-ai-before-security/)
 - ByteByteGo
   - [The Hidden Work Behind Every Database Request](https://blog.bytebytego.com/p/the-hidden-work-behind-every-database)
 - CoinTelegraph
   - [Bitcoin crashes 6% to 7-week low as US stocks erase election gains](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Paraguay president resigns after collapse of Ueno digital bank](https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era](https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era)
 - Hacker News Frontpage
+  - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
+  - [My gym forced a social media down my throat. So I reverse-engineered its app](https://shayon.work/blog/reverse-engineering-gym-pass)
   - [My psychophysics as a bilateral cochlear implant user](https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf)
+  - [Nasdaq plummets 4% into correction territory](https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html)
   - [Paraguay bank collapses with half of population's savings](https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings)
   - [The Stacks Project, Formalized in Lean](https://axiommath.ai/research/the-stacks-project-formalized/)
   - [Vibe Coding Keypad](https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad)
 - infosecurity-magazine.com
   - [Residential Proxy Traffic Traced to White House Network](https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/)
+- simonwillison.net
+  - [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/)
 - Sploitus.com Exploits RSS Feed
   - [reverse-skill exploit](https://sploitus.com/exploit?id=D4D0F8EA-D49F-5F05-AE62-467391EA2D3F&utm_source=rss&utm_medium=rss)
   - [sshhole-exploit](https://sploitus.com/exploit?id=DEEA8338-835B-5FEC-A634-43ACD1473A3C&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Axiom Math wants to keep AI slop out of mathematics](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/)
+  - [Claude can now analyze your spending with its new Personal Finance tool](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/)
+  - [Food delivery startup Wonder files for IPO as it explores its next big bite](https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/)
+  - [Harbinger raises $240M after expanding into defense](https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/)
+  - [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)
+  - [The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund](https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
 - The Block
   - [Anchorage Digital seeks CFTC swap dealer registration for crypto options business](https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437)
   - [Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards](https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115)
 - The Decoder
+  - [Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model](https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/)
   - [No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark](https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/)
   - [Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models](https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/)
 - The Verge
   - [Camp Snap made a smaller kid-friendly version of its retro digital camcorder](https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly)
+  - [Claude AI can plug directly into your bank account](https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance)
+  - [Ember’s smallest self-heating mug is on sale for just $33](https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal)
   - [Grimes is going to star in an AI movie that’s coming to theaters](https://www.theverge.com/entertainment/1026282/grimes-ai-movie)
+  - [Nintendo says it’s not planning another Switch 2 price hike](https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram)
   - [OpenAI says its new cybersecurity model is better at not hacking other companies](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch)
   - [Sony’s retro headphones brought me back to my childhood in the best way](https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review)
+  - [The FAA is finally ditching floppy disks](https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids)
+  - [TikTok launched a dedicated TikTok Shop app](https://www.theverge.com/tech/1027772/tiktok-shop-app)
   - [Where is Windows 12?](https://www.theverge.com/tech/1027621/where-is-windows-12-notepad)
   - [Xbox overhauls its PC, web, and cloud apps with a faster design](https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign)
+  - [‘Total repudiation’: The blue wave is about to hit AI](https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai)
 - Vulners.com RSS Feed
   - [CVE-2023-26362](https://vulners.com/nvd/NVD:CVE-2023-26362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-26363](https://vulners.com/nvd/NVD:CVE-2023-26363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
