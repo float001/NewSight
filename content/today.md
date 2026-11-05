@@ -33,6 +33,7 @@
 - ByteByteGo
   - [How Anthropic Redesigned Source Control](https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control)
 - CoinTelegraph
+  - [Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks](https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms](https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BitMart founder says security team ‘severely understaffed’ after new hack](https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto PACs eye 2028 ‘new map’ as Democrats take Congress](https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -60,6 +61,7 @@
   - [I get served ads on my smartphone based on what I watch on TV. How does it work?](https://cybernews.com/security-hub/why-phone-ads-follow-your-tv/)
   - [Microsoft says Windows 11 now runs better on PCs with 8GB of RAM](https://cybernews.com/tech/microsoft-optimizes-windows-for-8gb-ram-systems/)
   - [Millions of Android phones face massive hacking risk: zero-click critical flaw](https://cybernews.com/security/google-patches-critical-android-security-flaws/)
+  - [OpenAI’s agent uncovers 1K Linux kernel flaws, saving millions of dollars](https://cybernews.com/security/openais-linux-kernel-vulnerabilities-android/)
   - [This giant black triangle is watching everyone](https://cybernews.com/news/madrid-black-triangle-cctv-surveillance/)
   - [Why is residential proxy traffic coming from the White House network?](https://cybernews.com/security/white-house-network-residential-proxy-traffic/)
 - darkreading
@@ -80,6 +82,7 @@
 - Horizon3.ai
   - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
 - infosecurity-magazine.com
+  - [GhostMap Bug Leaves Android Phones Stuck in Reboot Loop](https://www.infosecurity-magazine.com/news/ghostmap-bug-android-phones-stuck/)
   - [NATS Air Traffic Control Failure Cost UK Economy £33m](https://www.infosecurity-magazine.com/news/nats-air-traffic-control-fail-cost/)
 - krebsonsecurity.com
   - [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
@@ -109,6 +112,7 @@
   - [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/)
   - [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/)
   - [Almost no one uses AI agents to book their Uber, company says](https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/)
+  - [Amazon ditches GrubHub, taps Uber Eats for Prime](https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/)
   - [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/)
   - [DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy](https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/)
   - [Google faces backlash for plan that would turn off Search for schools that restrict AI](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/)
@@ -243,6 +247,7 @@
   - [CVE-2026-122266](https://vulners.com/nvd/NVD:CVE-2026-122266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123010](https://vulners.com/cvelist/CVELIST:CVE-2026-123010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123014](https://vulners.com/nvd/NVD:CVE-2026-123014?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123036](https://vulners.com/nvd/NVD:CVE-2026-123036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16304](https://vulners.com/nvd/NVD:CVE-2026-16304?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19256](https://vulners.com/nvd/NVD:CVE-2026-19256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54372](https://vulners.com/nvd/NVD:CVE-2026-54372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -311,7 +316,9 @@
   - [Knives Are Out in the White House](https://www.wired.com/story/knives-are-out-in-the-white-house/)
   - [Meta Quest Promo Codes and Coupons for November 2026](https://www.wired.com/story/meta-quest-promo-code/)
   - [Nomad Goods Promo Codes: Get 25% Off in November 2026](https://www.wired.com/story/nomad-discount-code/)
+  - [Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’](https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/)
   - [Ray-Ban Promo Codes: Save 50% in November 2026](https://www.wired.com/story/ray-ban-promo-code/)
+  - [The Best Smart Ring for Discreet Fitness Tracking in 2026](https://www.wired.com/story/best-smart-ring/)
   - [The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/)
   - [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/)
   - [The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court](https://www.wired.com/story/wired-world-fair-2026-mark-lanier/)
@@ -341,6 +348,7 @@
   - [Swift 天文台从印尼上空重返大气层](https://www.solidot.org/story?sid=85802)
   - [富钾盐替换普通盐有助于每年预防数百万人死亡](https://www.solidot.org/story?sid=85803)
 - 爱范儿
+  - [Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感](https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [Chromebook 统治美国校园，AI 成了没得选的「套餐」](https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由](https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [一加 Ace 7 Pro 体验：「二号人物」这次想当主角](https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=)
