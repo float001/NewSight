@@ -87,6 +87,7 @@
 - The Block
   - [Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack](https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030)
   - [Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach](https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880)
+  - [Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses](https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372)
   - [Democratic sweep of Congress forces crypto industry to rethink Washington strategy](https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362)
   - [French Hill’s race still too close to call as House flips, changing the direction of crypto legislation](https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572)
   - [Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
