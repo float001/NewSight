@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-05）
 
 - 2Libra
+  - [2 万字硬核拆解我的开源项目， Growth-Harness ：「无限运行时 runtime」和「预注册学习自进化引擎」](https://2libra.com/post/ai-applications/d5fqlDl)
   - [2 友们最开始都是从哪知道 2 站的](https://2libra.com/post/forum-function/RpKKuy5)
   - [iMessage 中发表情包的方法](https://2libra.com/post/apple/V-idoQp)
   - [【运动打开】第 2️⃣2️⃣天，阳光明媚，光影都有了质感](https://2libra.com/post/sports/Hi-FDsC)
@@ -31,6 +32,7 @@
   - [Mercado Bitcoin says phased reopening to begin Monday, will cover losses](https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss](https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms](https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep](https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [BitMart founder says security team ‘severely understaffed’ after new hack](https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -52,6 +54,8 @@
   - [Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)
 - Horizon3.ai
   - [Horizon3 Expands Australia and New Zealand Team, Strengthens APJ Investment](https://horizon3.ai/news/press-release/horizon3-expands-anz-team-apj-investment/)
+- krebsonsecurity.com
+  - [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)
 - MIT Technology Review
   - [Roundtables: Inside the Quest for Cognitive Immortality](https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/)
   - [Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)
@@ -91,6 +95,7 @@
   - [Democratic sweep of Congress forces crypto industry to rethink Washington strategy](https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362)
   - [French Hill’s race still too close to call as House flips, changing the direction of crypto legislation](https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572)
   - [Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge](https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878)
+  - [The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto](https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371)
 - The Decoder
   - [ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model](https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/)
   - [New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations](https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/)
@@ -177,11 +182,15 @@
   - [CVE-2026-122154](https://vulners.com/nvd/NVD:CVE-2026-122154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122157](https://vulners.com/nvd/NVD:CVE-2026-122157?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122158](https://vulners.com/nvd/NVD:CVE-2026-122158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122190](https://vulners.com/nvd/NVD:CVE-2026-122190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122191](https://vulners.com/nvd/NVD:CVE-2026-122191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122192](https://vulners.com/nvd/NVD:CVE-2026-122192?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122220](https://vulners.com/nvd/NVD:CVE-2026-122220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122220 WPO365 LOGIN before 45.2 SAML Replay Protection Bypass](https://vulners.com/cve/CVE-2026-122220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122220 WPO365 LOGIN before 45.2 SAML Replay Protection Bypass](https://vulners.com/cvelist/CVELIST:CVE-2026-122220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122236](https://vulners.com/nvd/NVD:CVE-2026-122236?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122266](https://vulners.com/nvd/NVD:CVE-2026-122266?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123010](https://vulners.com/cvelist/CVELIST:CVE-2026-123010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54372](https://vulners.com/nvd/NVD:CVE-2026-54372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54373](https://vulners.com/nvd/NVD:CVE-2026-54373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-54374](https://vulners.com/nvd/NVD:CVE-2026-54374?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -213,6 +222,7 @@
   - [CVE-2026-92704](https://vulners.com/nvd/NVD:CVE-2026-92704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97693](https://vulners.com/nvd/NVD:CVE-2026-97693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97705](https://vulners.com/nvd/NVD:CVE-2026-97705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-107441](https://vulners.com/githubexploit/29180D6F-2FF6-512D-850C-D707B8A9535C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-86583](https://vulners.com/githubexploit/628E457E-A6C3-5DA7-9874-E61BC3F36391?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98260](https://vulners.com/githubexploit/C2FBCBE9-D579-5605-BC8E-102DB387705C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [open-reverselab](https://vulners.com/gitee/16E623B0-8243-50DE-9DBA-1295D423544F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
