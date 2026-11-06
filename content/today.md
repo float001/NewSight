@@ -17,6 +17,7 @@
   - [Asian crypto exchanges batten down the hatches as hacks surge: Asia Express](https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack](https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin crashes 6% to 7-week low as US stocks erase election gains](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto ally French Hill wins reelection but set to lose House chair](https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum](https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed, OCC check US banks after Binance hack as experts flag security risks](https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -51,6 +52,7 @@
 - simonwillison.net
   - [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-122158](https://sploitus.com/exploit?id=762B914A-533E-595C-BBA6-21D6374ED0D7&utm_source=rss&utm_medium=rss)
   - [reverse-skill exploit](https://sploitus.com/exploit?id=D4D0F8EA-D49F-5F05-AE62-467391EA2D3F&utm_source=rss&utm_medium=rss)
   - [sshhole-exploit](https://sploitus.com/exploit?id=DEEA8338-835B-5FEC-A634-43ACD1473A3C&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -66,6 +68,7 @@
   - [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)
   - [Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)
   - [The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund](https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
+  - [The New York Times reportedly in talks to buy Letterboxd for $330 million](https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/)
   - [US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers](https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/)
 - The Block
   - [Anchorage Digital seeks CFTC swap dealer registration for crypto options business](https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437)
@@ -78,6 +81,7 @@
   - [OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them](https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/)
   - [Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models](https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/)
 - The Verge
+  - [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)
   - [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027)
   - [Camp Snap made a smaller kid-friendly version of its retro digital camcorder](https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly)
   - [Claude AI can plug directly into your bank account](https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance)
@@ -85,6 +89,7 @@
   - [Ember’s smallest self-heating mug is on sale for just $33](https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal)
   - [Grimes is going to star in an AI movie that’s coming to theaters](https://www.theverge.com/entertainment/1026282/grimes-ai-movie)
   - [Nintendo says it’s not planning another Switch 2 price hike](https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram)
+  - [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)
   - [OpenAI says its new cybersecurity model is better at not hacking other companies](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch)
   - [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
   - [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down)
@@ -265,6 +270,7 @@
   - [CVE-2026-97174](https://vulners.com/nvd/NVD:CVE-2026-97174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97175](https://vulners.com/nvd/NVD:CVE-2026-97175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97847](https://vulners.com/nvd/NVD:CVE-2026-97847?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-122158](https://vulners.com/githubexploit/762B914A-533E-595C-BBA6-21D6374ED0D7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-123158](https://vulners.com/githubexploit/BD6BCE9C-628A-5692-B6ED-917BA9E7D4E8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [reverse-skill](https://vulners.com/gitee/D4D0F8EA-D49F-5F05-AE62-467391EA2D3F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -274,7 +280,11 @@
   - [Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’](https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/)
   - [The 7 Best Early Black Friday TV Deals (2026)](https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/)
   - [The Blue Tsunami Swept Doctors and Scientists Into Office](https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/)
+- 不安全
+  - [fivem-backdoor-scanner](https://buaq.net/go-452992.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞](https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [印度金融机构遭利用AI工具的黑客攻击](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E9%81%AD%E5%88%A9%E7%94%A8AI%E5%B7%A5%E5%85%B7%E7%9A%84%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
