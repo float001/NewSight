@@ -2,15 +2,33 @@
 
 - 2Libra
   - [用 AI 写了一个笔记软件](https://2libra.com/post/open-source-sharing/TxmcQXP)
+- 404 Media
+  - [Behind the Blog:  Dam's Bursting](https://www.404media.co/behind-the-blog-dams-bursting/)
+- Ars Technica
+  - [Wisconsin reports measles death of a baby, first death in over 35 years](https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/)
+- CoinTelegraph
+  - [Bitcoin price dips under $75K as crypto markets miss tech-stock rebound](https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [CVE-2026-116606: Barracuda ESG Bug Chain Gives Root Access](https://www.cyberkendra.com/2026/11/cve-2026-116606-barracuda-esg-bug-chain-gives-root-access.html)
+  - [CVE-2026-123158: OpenSSH sshhole Bypass Hits Alpine Linux](https://www.cyberkendra.com/2026/11/cve-2026-123158-openssh-sshhole-bypass-hits-alpine-linux.html)
+- Hacker News Frontpage
+  - [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
+- simonwillison.net
+  - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/)
 - TechCrunch
+  - [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
   - [Pentagon offers battery startup 6K $250M loan to build U.S. factory](https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/)
 - The Decoder
   - [Perplexity now has its own always-on AI agent](https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/)
 - The Verge
   - [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity)
+  - [Amazon is now making a Melania Trump TV series](https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video)
   - [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast)
   - [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
+  - [Just about anyone can rent access to White House IP addresses](https://www.theverge.com/tech/1028835/white-house-residential-proxy)
+  - [Kobo will soon let you upload and sync your own ebooks across devices, for a price](https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files)
   - [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
+  - [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
 - Vulners.com RSS Feed
   - [CVE-2026-111573](https://vulners.com/nvd/NVD:CVE-2026-111573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118515 Symfony: The Serializer Builds UploadedFile Objects From Request Data, Letting a Client Point an Upload at Any Server File](https://vulners.com/cvelist/CVELIST:CVE-2026-118515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -66,3 +84,5 @@
   - [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [从 Linux 到维基百科：志愿者如何构建互联网](https://www.solidot.org/story?sid=85820)
