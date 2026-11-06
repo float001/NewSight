@@ -2,6 +2,7 @@
 
 - 2Libra
   - [echo 下线了吗](https://2libra.com/post/questions/9AqzD-7)
+  - [【投票】与人进行项目对接的尊称？](https://2libra.com/post/workplace-stories/_91tGm6)
   - [【投票】你所知道的论坛有哪些](https://2libra.com/post/product-manager/GoAOrYM)
   - [【转载】九边：计算机专业塌得有点惨 📉📉📉](https://2libra.com/post/industry-inside/S4x_B-B)
   - [【💰】iphone 购买](https://2libra.com/post/apple/FA9FpqO)
@@ -11,6 +12,7 @@
   - [不懂就问，众安办卡填邀请码合标有返现，这有什么风险吗？](https://2libra.com/post/questions/J7vF2Zj)
   - [为啥鼠标震一下就会有几秒没响应，过一会儿才恢复](https://2libra.com/post/computers-accessories/meBCU1U)
   - [从今天起，在我这木讷的人跟蠢坐一桌（没法写细节，只能大概描述）](https://2libra.com/post/small-things/nGeQ3SF)
+  - [兄弟们我做了一款小游戏，快来试试，给点建议。](https://2libra.com/post/brainstorming/UgKetYL)
   - [周五](https://2libra.com/post/personal-life/y2KczZM)
   - [家政维修服务这种不起眼的地方暴利](https://2libra.com/post/industry-inside/pp5HUt5)
   - [对自己好一点，照顾好自己](https://2libra.com/post/personal-life/GqL4U4E)
@@ -53,7 +55,10 @@
   - [Chainalysis says breach exposed password hashes and live tokens](https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Chainalysis cyberattack exposes usernames, password hashes, and authentication tokens](https://cybernews.com/security/chainalysis-cyberattack-exposes-users/)
+  - [Discord ditches Electron for Rust to cut RAM usage](https://cybernews.com/tech/discord-app-overhaul/)
   - [Former US government IT contractor admits to spying for Ethiopia](https://cybernews.com/news/us-government-contractor-ethiopian-spy/)
+  - [Geoffrey Hinton’s new take: world would be better off with no AI at all](https://cybernews.com/ai-news/geoffrey-hinton-ai-humanity-progress/)
+  - [Husband showed his wife ChatGPT, then she used it to plan his murder](https://cybernews.com/ai-news/husband-poisoning-chatgpt/)
   - [Microsoft Paint flaw lets hackers take control remotely](https://cybernews.com/security/microsoft-paint-cve-2026-83844-windows-vulnerability/)
   - [Norwegian aid agency hit by cyberattack exposing data of 20K users](https://cybernews.com/security/norad-cyberattack-exposes-20k-users/)
 - daringfireball.net
@@ -89,14 +94,18 @@
   - [It's unbreakable in theory](https://idiallo.com/byte-size/unbreakable-in-theory)
   - [Writing English is Solved](https://idiallo.com/byte-size/english-is-solved)
 - infosecurity-magazine.com
+  - [Half of Security Leaders Report Sensitive Data Exposure Through AI Tools](https://www.infosecurity-magazine.com/news/security-data-exposure-ai/)
   - [Residential Proxy Traffic Traced to White House Network](https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/)
 - Product Hunt
   - [Letterpress-1](https://www.producthunt.com/products/letterpress-1)
 - seangoedecke.com
   - [A database is a store for global variables](https://seangoedecke.com/a-database-is-a-store-for-global-variables/)
+- Securelist
+  - [Virtualization security: attack layers and misconfiguration impact](https://securelist.com/virtualization-security-esxi-and-proxmox-ransomware-cases/121819/)
 - simonwillison.net
   - [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/)
 - Sploitus.com Exploits RSS Feed
+  - [ARL-ADD-POC exploit](https://sploitus.com/exploit?id=54ABF4E1-1046-527F-9A28-8C38823DE2DD&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-122158](https://sploitus.com/exploit?id=762B914A-533E-595C-BBA6-21D6374ED0D7&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=B0C57DBE-2C9B-5CF7-9F79-DEADEA05B87D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=FFC7F60F-3CE7-5F32-8494-BCB0A04AD2FB&utm_source=rss&utm_medium=rss)
@@ -161,6 +170,7 @@
   - [Xbox overhauls its PC, web, and cloud apps with a faster design](https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign)
   - [‘Total repudiation’: The blue wave is about to hit AI](https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai)
 - Vulners.com RSS Feed
+  - [ARL-ADD-POC](https://vulners.com/gitee/54ABF4E1-1046-527F-9A28-8C38823DE2DD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-26362](https://vulners.com/nvd/NVD:CVE-2023-26362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-26363](https://vulners.com/nvd/NVD:CVE-2023-26363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2023-26399](https://vulners.com/nvd/NVD:CVE-2023-26399?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -412,6 +422,7 @@
   - [《尼尔：自动人形》释出更新游戏容量从 50GB 暴涨至 366GB](https://www.solidot.org/story?sid=85811)
 - 爱范儿
   - [10 月最值得关注的 17 个产品｜明日产品 WATCHLIST](https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头](https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞](https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [绿盟科技出席华泰证券2027年度投资峰会，以“智慧安全4.0”重构AI时代的安全价值](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%87%ba%e5%b8%ad%e5%8d%8e%e6%b3%b0%e8%af%81%e5%88%b82027%e5%b9%b4%e5%ba%a6%e6%8a%95%e8%b5%84%e5%b3%b0%e4%bc%9a%ef%bc%8c%e4%bb%a5%e6%99%ba%e6%85%a7/)
