@@ -13,12 +13,21 @@
 - Cyber Kendra
   - [CVE-2026-116606: Barracuda ESG Bug Chain Gives Root Access](https://www.cyberkendra.com/2026/11/cve-2026-116606-barracuda-esg-bug-chain-gives-root-access.html)
   - [CVE-2026-123158: OpenSSH sshhole Bypass Hits Alpine Linux](https://www.cyberkendra.com/2026/11/cve-2026-123158-openssh-sshhole-bypass-hits-alpine-linux.html)
+- daringfireball.net
+  - [★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow)
 - darkreading
   - [AI Gave Your Incident Archive a Second Job](https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job)
 - Hacker News Frontpage
   - [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
+  - [As the Japanese Countryside Empties Out, Wildlife Is Disappearing](https://e360.yale.edu/digest/japan-depopulation-biodiversity)
+  - [Democrats launching congressional investigations into SpaceXAI, META and Apple](https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/)
+  - [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
+  - [My first and last telegram was from Rebecca West](https://thelampmagazine.com/blog/rebecca-wests-nightingale)
+  - [Restaurant Delivery Payment-Skimming Campaign](https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming)
 - simonwillison.net
   - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/)
+- Sploitus.com Exploits RSS Feed
+  - [php-exploit-2026](https://sploitus.com/exploit?id=EEE537D0-F945-5686-9B35-91410D66E197&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
   - [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
@@ -30,8 +39,10 @@
   - [Trump administration moves closer to allowing crypto in 401(k) retirement plans](https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939)
 - The Decoder
   - [Perplexity now has its own always-on AI agent](https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/)
+  - [Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model](https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/)
 - The Verge
   - [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity)
+  - [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy)
   - [Amazon is now making a Melania Trump TV series](https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video)
   - [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast)
   - [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
@@ -40,6 +51,7 @@
   - [Lame-duck Congress might actually do something: speed up energy projects](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote)
   - [Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)
   - [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
+  - [Shure’s popular podcasting and streaming mic is almost $50 off](https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale)
   - [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
 - Vulners.com RSS Feed
   - [CVE-2026-102356](https://vulners.com/nvd/NVD:CVE-2026-102356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
