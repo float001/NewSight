@@ -1,5 +1,10 @@
 # 今日安全资讯（2026-11-06）
 
+- 2Libra
+  - [【💰】美股、A 股暴跌原因是什么，有没有懂的分析一波，我学习一下](https://2libra.com/post/stock-market/xgf5LoM)
+  - [一觉醒来微信多了个这个](https://2libra.com/post/software-tools/P4wMHI7)
+  - [对自己好一点，照顾好自己](https://2libra.com/post/personal-life/GqL4U4E)
+  - [微信输入法](https://2libra.com/post/software-tools/-7W7h_c)
 - 404 Media
   - [Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause](https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/)
   - [In the UK, Face Sitting Porn Might Land You in Jail](https://www.404media.co/uk-crime-and-policing-act-pornography/)
@@ -32,6 +37,7 @@
   - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
   - [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf)
   - [Hungary: Communist-era files released, up to 60k former agents revealed](https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed)
+  - [Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears](https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/)
   - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
   - [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
   - [My gym forced a social media down my throat. So I reverse-engineered its app](https://shayon.work/blog/reverse-engineering-gym-pass)
@@ -53,6 +59,7 @@
   - [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-122158](https://sploitus.com/exploit?id=762B914A-533E-595C-BBA6-21D6374ED0D7&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=B0C57DBE-2C9B-5CF7-9F79-DEADEA05B87D&utm_source=rss&utm_medium=rss)
   - [reverse-skill exploit](https://sploitus.com/exploit?id=D4D0F8EA-D49F-5F05-AE62-467391EA2D3F&utm_source=rss&utm_medium=rss)
   - [sshhole-exploit](https://sploitus.com/exploit?id=DEEA8338-835B-5FEC-A634-43ACD1473A3C&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -287,4 +294,5 @@
 - 爱范儿
   - [早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞](https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
+  - [OpenAI发布GPT-6 Cyber：网络安全AI能力跃升](https://blog.upx8.com/OpenAI%E5%8F%91%E5%B8%83GPT-6-Cyber-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8AI%E8%83%BD%E5%8A%9B%E8%B7%83%E5%8D%87)
   - [印度金融机构遭利用AI工具的黑客攻击](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E9%81%AD%E5%88%A9%E7%94%A8AI%E5%B7%A5%E5%85%B7%E7%9A%84%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
