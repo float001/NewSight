@@ -2,13 +2,16 @@
 
 - 2Libra
   - [【转载】九边：计算机专业塌得有点惨 📉📉📉](https://2libra.com/post/industry-inside/S4x_B-B)
+  - [【💰】iphone 购买](https://2libra.com/post/apple/FA9FpqO)
   - [【💰】美股、A 股暴跌原因是什么，有没有懂的分析一波，我学习一下](https://2libra.com/post/stock-market/xgf5LoM)
   - [一觉醒来微信多了个这个](https://2libra.com/post/software-tools/P4wMHI7)
   - [周五](https://2libra.com/post/personal-life/y2KczZM)
+  - [家政维修服务这种不起眼的地方暴利](https://2libra.com/post/industry-inside/pp5HUt5)
   - [对自己好一点，照顾好自己](https://2libra.com/post/personal-life/GqL4U4E)
   - [微信输入法](https://2libra.com/post/software-tools/-7W7h_c)
   - [无聊让 AI 跑了下数据，不知道 00 后的天才们将如何应对](https://2libra.com/post/social-observation/QFKw0Dg)
   - [有什么程序员接私活的网站吗](https://2libra.com/post/outsourcing/MaPDN6Z)
+  - [让 Agent 自我检查 自我增强](https://2libra.com/post/ai-tools/248-w6H)
 - 404 Media
   - [Everyone Everywhere Hated Meta’s New AI Training Terms. Now, They’re On Pause](https://www.404media.co/meta-generative-ai-commercial-terms-on-pause/)
   - [In the UK, Face Sitting Porn Might Land You in Jail](https://www.404media.co/uk-crime-and-policing-act-pornography/)
@@ -49,12 +52,15 @@
   - [My gym forced a social media down my throat. So I reverse-engineered its app](https://shayon.work/blog/reverse-engineering-gym-pass)
   - [My psychophysics as a bilateral cochlear implant user](https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf)
   - [Nasdaq plummets 4% into correction territory](https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html)
+  - [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
   - [Paraguay bank collapses with half of population's savings](https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings)
   - [Tencent Launches Hy4, One of the Leading Open-Source AI Models](https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/)
   - [The Cost of Blogging](https://onlinegoddess.net/2026/11/the-cost-of-blogging/)
   - [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
   - [The Stacks Project, Formalized in Lean](https://axiommath.ai/research/the-stacks-project-formalized/)
   - [Vibe Coding Keypad](https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad)
+- HackerNews
+  - [新的吊销计划针对近 150 万个暴露的密钥](http://0.0.0.0:8080/post/64882)
 - idiallo.com
   - [It's unbreakable in theory](https://idiallo.com/byte-size/unbreakable-in-theory)
 - infosecurity-magazine.com
@@ -86,6 +92,7 @@
   - [US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers](https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/)
 - The Block
   - [Anchorage Digital seeks CFTC swap dealer registration for crypto options business](https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437)
+  - [Ark Invest buys more Coinbase as shares plunge 10% in wider market rout](https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769)
   - [Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations](https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434)
   - [Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards](https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115)
   - [Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue](https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455)
