@@ -8,16 +8,26 @@
   - [Wisconsin reports measles death of a baby, first death in over 35 years](https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/)
 - CoinTelegraph
   - [Bitcoin price dips under $75K as crypto markets miss tech-stock rebound](https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Russia finalizes crypto trading rules ahead of Nov. 17 rollout](https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strive buys 15,124 Bitcoin in October, closes in on top treasury holders](https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CVE-2026-116606: Barracuda ESG Bug Chain Gives Root Access](https://www.cyberkendra.com/2026/11/cve-2026-116606-barracuda-esg-bug-chain-gives-root-access.html)
   - [CVE-2026-123158: OpenSSH sshhole Bypass Hits Alpine Linux](https://www.cyberkendra.com/2026/11/cve-2026-123158-openssh-sshhole-bypass-hits-alpine-linux.html)
+- darkreading
+  - [AI Gave Your Incident Archive a Second Job](https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job)
 - Hacker News Frontpage
   - [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
 - simonwillison.net
   - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/)
 - TechCrunch
   - [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
+  - [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
+  - [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
   - [Pentagon offers battery startup 6K $250M loan to build U.S. factory](https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/)
+- The Block
+  - [Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings](https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930)
+  - [Gnosis Pay data breach exposes customer info; funds unaffected](https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934)
+  - [Trump administration moves closer to allowing crypto in 401(k) retirement plans](https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939)
 - The Decoder
   - [Perplexity now has its own always-on AI agent](https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/)
 - The Verge
@@ -27,11 +37,18 @@
   - [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
   - [Just about anyone can rent access to White House IP addresses](https://www.theverge.com/tech/1028835/white-house-residential-proxy)
   - [Kobo will soon let you upload and sync your own ebooks across devices, for a price](https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files)
+  - [Lame-duck Congress might actually do something: speed up energy projects](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote)
+  - [Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)
   - [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
   - [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
 - Vulners.com RSS Feed
+  - [CVE-2026-102356](https://vulners.com/nvd/NVD:CVE-2026-102356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102359](https://vulners.com/nvd/NVD:CVE-2026-102359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-102650](https://vulners.com/nvd/NVD:CVE-2026-102650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111573](https://vulners.com/nvd/NVD:CVE-2026-111573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118515 Symfony: The Serializer Builds UploadedFile Objects From Request Data, Letting a Client Point an Upload at Any Server File](https://vulners.com/cvelist/CVELIST:CVE-2026-118515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118670](https://vulners.com/nvd/NVD:CVE-2026-118670?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119758](https://vulners.com/nvd/NVD:CVE-2026-119758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12067](https://vulners.com/nvd/NVD:CVE-2026-12067?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121623](https://vulners.com/nvd/NVD:CVE-2026-121623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121880](https://vulners.com/nvd/NVD:CVE-2026-121880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -40,7 +57,9 @@
   - [CVE-2026-123675](https://vulners.com/nvd/NVD:CVE-2026-123675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123676](https://vulners.com/nvd/NVD:CVE-2026-123676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123677](https://vulners.com/nvd/NVD:CVE-2026-123677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123748](https://vulners.com/nvd/NVD:CVE-2026-123748?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123792](https://vulners.com/nvd/NVD:CVE-2026-123792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123824](https://vulners.com/nvd/NVD:CVE-2026-123824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123832](https://vulners.com/cvelist/CVELIST:CVE-2026-123832?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123834](https://vulners.com/cvelist/CVELIST:CVE-2026-123834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123835](https://vulners.com/cvelist/CVELIST:CVE-2026-123835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -68,20 +87,32 @@
   - [CVE-2026-123857](https://vulners.com/cvelist/CVELIST:CVE-2026-123857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123858](https://vulners.com/cvelist/CVELIST:CVE-2026-123858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123859 SQL Injection via unescaped DataFrame column names in Snowflake Connector for Python and Snowflake Connector for Python (Universal Core)](https://vulners.com/cvelist/CVELIST:CVE-2026-123859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123876](https://vulners.com/nvd/NVD:CVE-2026-123876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123973](https://vulners.com/nvd/NVD:CVE-2026-123973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123976](https://vulners.com/nvd/NVD:CVE-2026-123976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-21834](https://vulners.com/nvd/NVD:CVE-2026-21834?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-58141](https://vulners.com/nvd/NVD:CVE-2026-58141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62344](https://vulners.com/nvd/NVD:CVE-2026-62344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66981](https://vulners.com/nvd/NVD:CVE-2026-66981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66982](https://vulners.com/nvd/NVD:CVE-2026-66982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66984](https://vulners.com/nvd/NVD:CVE-2026-66984?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66986](https://vulners.com/nvd/NVD:CVE-2026-66986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-66987](https://vulners.com/nvd/NVD:CVE-2026-66987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-75598](https://vulners.com/nvd/NVD:CVE-2026-75598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80301](https://vulners.com/nvd/NVD:CVE-2026-80301?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80302](https://vulners.com/nvd/NVD:CVE-2026-80302?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-80303](https://vulners.com/nvd/NVD:CVE-2026-80303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85742](https://vulners.com/nvd/NVD:CVE-2026-85742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89017](https://vulners.com/nvd/NVD:CVE-2026-89017?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-90436](https://vulners.com/nvd/NVD:CVE-2026-90436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-113615](https://vulners.com/githubexploit/D1C7CCC8-C957-5921-A561-EEF765ECFD4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-92R3-P8C2-3FPX Eclipse hawkBit DDI has Privilege Escalation that allows Tenant-Isolated Firmware Exfiltration](https://vulners.com/osv_ghsa/OSV:GHSA-92R3-P8C2-3FPX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/)
+- Wired
+  - [Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites](https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/)
+  - [Free Chinese AI Models Are Getting Scary Good at Hacking](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/)
+  - [Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026](https://www.wired.com/story/rocco-black-friday-sale-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
