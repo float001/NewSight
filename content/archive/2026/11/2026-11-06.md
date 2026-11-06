@@ -52,10 +52,13 @@
   - [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto ally French Hill wins reelection but set to lose House chair](https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto exchanges tout cold storage ratios after Binance attack](https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved](https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum](https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed, OCC check US banks after Binance hack as experts flag security risks](https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [GOPAX halts crypto trading, withdrawals to move all assets to cold storage](https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid Strategies seeks futures registration for perps](https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nigeria sets new crypto licensing rules, bans algorithmic stablecoins](https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Paraguay president resigns after collapse of Ueno digital bank](https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana’s Shanghai event halted over unauthorized promotion: Report](https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -69,6 +72,7 @@
   - [Any long password will do: SSH flaw lets hackers into Alpine systems, routers and more](https://cybernews.com/security/openssh-password-authentication-bypass-flaw-alpine-musl-systems/)
   - [Chainalysis cyberattack exposes usernames, password hashes, and authentication tokens](https://cybernews.com/security/chainalysis-cyberattack-exposes-users/)
   - [CrowdStrike says it’s now able to shut down rogue AI agents](https://cybernews.com/security/crowdstrike-ai-agents-kill-switch/)
+  - [Dior accused of duping users after “hand-drawn” holiday film raises suspicion](https://cybernews.com/ai-news/dior-christmas-ad-ai-allegations/)
   - [Discord ditches Electron for Rust to cut RAM usage](https://cybernews.com/tech/discord-app-overhaul/)
   - [Former US government IT contractor admits to spying for Ethiopia](https://cybernews.com/news/us-government-contractor-ethiopian-spy/)
   - [Geoffrey Hinton’s new take: world would be better off with no AI at all](https://cybernews.com/ai-news/geoffrey-hinton-ai-humanity-progress/)
@@ -83,6 +87,7 @@
   - [SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era](https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era)
   - [UK Warns Its Critical Infrastructure Faces Grave Risk](https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk)
   - [US Government Email Systems Open to Abuse Thanks to Typos](https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos)
+  - [Why Europe's Freezer Hacks Spread So Far, So Fast](https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast)
 - defend.network
   - [OpenSSH Alpine bypass, refrigeration attacks, critical Linux exploits disclosed](https://defend.network/briefings/openssh-alpine-linux-password-bypass-refrigeration-2026-11-06.html)
 - dfarq.homeip.net
@@ -91,6 +96,7 @@
   - [Introducing the GuidePoint Security Partner Portal](https://www.guidepointsecurity.com/blog/guidepoint-security-partner-portal/)
 - Hacker News Frontpage
   - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+  - [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
   - [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf)
   - [Hungary: Communist-era files released, up to 60k former agents revealed](https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed)
   - [Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears](https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/)
@@ -117,6 +123,8 @@
   - [CISA, FBI Urge Action to Protect Industrial Refrigeration Networks](https://www.infosecurity-magazine.com/news/cisa-protect-refrigeration-networks/)
   - [Half of Security Leaders Report Sensitive Data Exposure Through AI Tools](https://www.infosecurity-magazine.com/news/security-data-exposure-ai/)
   - [Residential Proxy Traffic Traced to White House Network](https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/)
+- MIT Technology Review
+  - [The Download: a humanoid cleans house and Samsung builds for the AI boom](https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/)
 - Product Hunt
   - [Letterpress-1](https://www.producthunt.com/products/letterpress-1)
 - seangoedecke.com
@@ -129,10 +137,12 @@
   - [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/)
 - Sploitus.com Exploits RSS Feed
   - [ARL-ADD-POC exploit](https://sploitus.com/exploit?id=54ABF4E1-1046-527F-9A28-8C38823DE2DD&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-114630](https://sploitus.com/exploit?id=A1F650BA-C05A-59A0-BD55-A4DD63AE4464&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-122158](https://sploitus.com/exploit?id=762B914A-533E-595C-BBA6-21D6374ED0D7&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-123025](https://sploitus.com/exploit?id=792D154D-FA40-5FDA-AFAD-F6732F222EAC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-123158](https://sploitus.com/exploit?id=C0D483B1-8E15-5E4B-BCCF-A69CAE6B07F2&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=F195D8CA-8171-51F4-BF8D-D7259E3E6B17&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Authentication in Hikvision Ds-2Cd2032-I_Firmware](https://sploitus.com/exploit?id=FD870B55-7C1E-5136-A436-46D7F182862F&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=B0C57DBE-2C9B-5CF7-9F79-DEADEA05B87D&utm_source=rss&utm_medium=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=FFC7F60F-3CE7-5F32-8494-BCB0A04AD2FB&utm_source=rss&utm_medium=rss)
   - [php2shell-619-poc exploit](https://sploitus.com/exploit?id=1F4C1A33-53EF-5EE8-8B6E-86FBF6AF1A5F&utm_source=rss&utm_medium=rss)
@@ -172,17 +182,21 @@
   - [IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end](https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783)
   - [Kalshi hit with injunction over sports contracts on California tribal lands](https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813)
   - [Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions](https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867)
+  - [TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout](https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885)
   - [Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold](https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807)
 - The Decoder
   - [Anthropic adds bank account access to Claude so users can track their spending](https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/)
   - [Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation](https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/)
   - [Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model](https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/)
+  - [METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July](https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/)
   - [No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark](https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/)
   - [OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them](https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/)
   - [Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models](https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/)
+  - [Thinking Machines' Inkling 2 Small claims top spot among western open-weight models](https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/)
 - The Verge
   - [After printing 40,000 whistles, this is the 3D printer I’d buy](https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review)
   - [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)
+  - [Amazon will let you text Alexa your shopping list](https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders)
   - [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027)
   - [Camp Snap made a smaller kid-friendly version of its retro digital camcorder](https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly)
   - [Claude AI can plug directly into your bank account](https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance)
@@ -206,6 +220,7 @@
   - [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes)
   - [The New York Times is in talks to buy Letterboxd for around $330 million](https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report)
   - [TikTok launched a dedicated TikTok Shop app](https://www.theverge.com/tech/1027772/tiktok-shop-app)
+  - [TikTok&#8217;s For You page needs to change, says the EU](https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect)
   - [Where is Windows 12?](https://www.theverge.com/tech/1027621/where-is-windows-12-notepad)
   - [Xbox overhauls its PC, web, and cloud apps with a faster design](https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign)
   - [‘Total repudiation’: The blue wave is about to hit AI](https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai)
@@ -505,6 +520,7 @@
   - [Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header](https://buaq.net/go-453190.html)
   - [nhi-risk-analyzer](https://buaq.net/go-453099.html)
   - [rea — Updated!](https://buaq.net/go-453147.html)
+  - [【漏洞预警】OpenSSH 在 musl 环境下密码认证绕过漏洞（CVE...](https://buaq.net/go-453125.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
@@ -522,3 +538,4 @@
 - 黑海洋
   - [OpenAI发布GPT-6 Cyber：网络安全AI能力跃升](https://blog.upx8.com/OpenAI%E5%8F%91%E5%B8%83GPT-6-Cyber-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8AI%E8%83%BD%E5%8A%9B%E8%B7%83%E5%8D%87)
   - [印度金融机构遭利用AI工具的黑客攻击](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E9%81%AD%E5%88%A9%E7%94%A8AI%E5%B7%A5%E5%85%B7%E7%9A%84%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
+  - [抗议者闯入微软阿姆斯特丹数据中心工地](https://blog.upx8.com/%E6%8A%97%E8%AE%AE%E8%80%85%E9%97%AF%E5%85%A5%E5%BE%AE%E8%BD%AF%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%B7%A5%E5%9C%B0)
