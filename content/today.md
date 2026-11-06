@@ -42,9 +42,11 @@
 - CoinTelegraph
   - [American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI](https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Asian crypto exchanges batten down the hatches as hacks surge: Asia Express](https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates](https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack](https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance’s $6.3B hack leaves questions over hot wallet safeguards](https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin crashes 6% to 7-week low as US stocks erase election gains](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash](https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, Ether ETFs post $530M outflows as election gains evaporate](https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainalysis says breach exposed password hashes and live tokens](https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -77,6 +79,10 @@
   - [US Government Email Systems Open to Abuse Thanks to Typos](https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos)
 - defend.network
   - [OpenSSH Alpine bypass, refrigeration attacks, critical Linux exploits disclosed](https://defend.network/briefings/openssh-alpine-linux-password-bypass-refrigeration-2026-11-06.html)
+- dfarq.homeip.net
+  - [What happened to Transmeta, the last big dotcom IPO](https://dfarq.homeip.net/what-happened-to-transmeta-the-last-big-dotcom-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=what-happened-to-transmeta-the-last-big-dotcom-ipo)
+- GuidePoint Security
+  - [Introducing the GuidePoint Security Partner Portal](https://www.guidepointsecurity.com/blog/guidepoint-security-partner-portal/)
 - Hacker News Frontpage
   - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
   - [How to Lie With Statistics (1954) [pdf]](https://www.horace.org/blog/wp-content/uploads/2012/05/How-to-Lie-With-Statistics-1954-Huff.pdf)
@@ -101,6 +107,7 @@
   - [It's unbreakable in theory](https://idiallo.com/byte-size/unbreakable-in-theory)
   - [Writing English is Solved](https://idiallo.com/byte-size/english-is-solved)
 - infosecurity-magazine.com
+  - [CISA, FBI Urge Action to Protect Industrial Refrigeration Networks](https://www.infosecurity-magazine.com/news/cisa-protect-refrigeration-networks/)
   - [Half of Security Leaders Report Sensitive Data Exposure Through AI Tools](https://www.infosecurity-magazine.com/news/security-data-exposure-ai/)
   - [Residential Proxy Traffic Traced to White House Network](https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/)
 - Product Hunt
@@ -137,6 +144,7 @@
   - [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)
   - [Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/)
   - [Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)
+  - [Tesla will stop making the Cybertruck in 2027](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/)
   - [The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund](https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
   - [The New York Times reportedly in talks to buy Letterboxd for $330 million](https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/)
   - [US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers](https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/)
@@ -148,13 +156,17 @@
   - [Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue](https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455)
   - [IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end](https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783)
   - [Kalshi hit with injunction over sports contracts on California tribal lands](https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813)
+  - [Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions](https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867)
   - [Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold](https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807)
 - The Decoder
+  - [Anthropic adds bank account access to Claude so users can track their spending](https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/)
+  - [Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation](https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/)
   - [Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model](https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/)
   - [No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark](https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/)
   - [OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them](https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/)
   - [Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models](https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/)
 - The Verge
+  - [After printing 40,000 whistles, this is the 3D printer I’d buy](https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review)
   - [Airbnb is working on an AI travel agent](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)
   - [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027)
   - [Camp Snap made a smaller kid-friendly version of its retro digital camcorder](https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly)
@@ -166,11 +178,13 @@
   - [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)
   - [OpenAI says its new cybersecurity model is better at not hacking other companies](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch)
   - [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work)
+  - [Protesters break into Microsoft data center site in Amsterdam](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam)
   - [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down)
   - [Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday](https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale)
   - [Sony’s retro headphones brought me back to my childhood in the best way](https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review)
   - [T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;](https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile)
   - [Tesla is ‘winding down’ production of the Cybertruck next year](https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027)
+  - [The Enough Phone is made by and for people fed up with big screens](https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke)
   - [The FAA is finally ditching floppy disks](https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids)
   - [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes)
   - [The New York Times is in talks to buy Letterboxd for around $330 million](https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report)
@@ -440,7 +454,9 @@
   - [Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/)
   - [Can a Radar-Equipped AC Actually Cut Your Power Bill?](https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/)
   - [Greenlight Family Hub Digital Wall Calendar Black Friday Sale (2026)](https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/)
+  - [Horny Grandmas Are Having a Moment](https://www.wired.com/story/horny-grandmas-are-having-a-moment/)
   - [How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost](https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/)
+  - [Kitchen Composters I Recommend After 2 Years of Testing (2026)](https://www.wired.com/story/home-composters-buying-guide/)
   - [Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’](https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/)
   - [The 7 Best Early Black Friday TV Deals (2026)](https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/)
   - [The Blue Tsunami Swept Doctors and Scientists Into Office](https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/)
