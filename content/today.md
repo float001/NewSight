@@ -7,6 +7,7 @@
   - [【💰】iphone 购买](https://2libra.com/post/apple/FA9FpqO)
   - [【💰】美股、A 股暴跌原因是什么，有没有懂的分析一波，我学习一下](https://2libra.com/post/stock-market/xgf5LoM)
   - [一觉醒来微信多了个这个](https://2libra.com/post/software-tools/P4wMHI7)
+  - [不懂就问，众安办卡填邀请码合标有返现，这有什么风险吗？](https://2libra.com/post/questions/J7vF2Zj)
   - [为啥鼠标震一下就会有几秒没响应，过一会儿才恢复](https://2libra.com/post/computers-accessories/meBCU1U)
   - [从今天起，在我这木讷的人跟蠢坐一桌（没法写细节，只能大概描述）](https://2libra.com/post/small-things/nGeQ3SF)
   - [周五](https://2libra.com/post/personal-life/y2KczZM)
@@ -15,6 +16,7 @@
   - [微信输入法](https://2libra.com/post/software-tools/-7W7h_c)
   - [我的韭菜收割者游戏上架 taptap 啦，大家支持一下，谢谢](https://2libra.com/post/personal-works/cZvj5Ep)
   - [无聊让 AI 跑了下数据，不知道 00 后的天才们将如何应对](https://2libra.com/post/social-observation/QFKw0Dg)
+  - [有人看英文原著吗？](https://2libra.com/post/good-books/RFb_pk4)
   - [有什么程序员接私活的网站吗](https://2libra.com/post/outsourcing/MaPDN6Z)
   - [让 Agent 自我检查 自我增强](https://2libra.com/post/ai-tools/248-w6H)
 - 404 Media
@@ -45,6 +47,9 @@
   - [Paraguay president resigns after collapse of Ueno digital bank](https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Chainalysis says breach exposed password hashes and live tokens](https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [Chainalysis cyberattack exposes usernames, password hashes, and authentication tokens](https://cybernews.com/security/chainalysis-cyberattack-exposes-users/)
+  - [Former US government IT contractor admits to spying for Ethiopia](https://cybernews.com/news/us-government-contractor-ethiopian-spy/)
 - daringfireball.net
   - [Meta Releases Mac Version of Edits](https://edits.instagram.com/blog/edits-desktop-video-editor/)
   - [Salon Ceases Publication](https://www.salon.com/2026/11/05/goodbye-from-salon/)
@@ -74,8 +79,11 @@
   - [新的吊销计划针对近 150 万个暴露的密钥](http://0.0.0.0:8080/post/64882)
 - idiallo.com
   - [It's unbreakable in theory](https://idiallo.com/byte-size/unbreakable-in-theory)
+  - [Writing English is Solved](https://idiallo.com/byte-size/english-is-solved)
 - infosecurity-magazine.com
   - [Residential Proxy Traffic Traced to White House Network](https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/)
+- Product Hunt
+  - [Letterpress-1](https://www.producthunt.com/products/letterpress-1)
 - seangoedecke.com
   - [A database is a store for global variables](https://seangoedecke.com/a-database-is-a-store-for-global-variables/)
 - simonwillison.net
@@ -92,6 +100,7 @@
   - [學習網頁內容無障礙](https://taxodium.ink/learn-web-content-accessibility.html)
 - TechCrunch
   - [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
+  - [At least 10 local governments have moved to drop Flock’s surveillance cameras since summer](https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/)
   - [Axiom Math wants to keep AI slop out of mathematics](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/)
   - [Claude can now analyze your spending with its new Personal Finance tool](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/)
   - [Food delivery startup Wonder files for IPO as it explores its next big bite](https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/)
@@ -113,6 +122,7 @@
   - [Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards](https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115)
   - [Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue](https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455)
   - [IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end](https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783)
+  - [Zcash’s major network upgrade NU7 goes live on mainnet, cutting block time by threefold](https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807)
 - The Decoder
   - [Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model](https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/)
   - [No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark](https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/)
@@ -361,6 +371,7 @@
 - 不安全
   - [fivem-backdoor-scanner](https://buaq.net/go-452992.html)
   - [nhi-risk-analyzer](https://buaq.net/go-453099.html)
+  - [rea — Updated!](https://buaq.net/go-453147.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
