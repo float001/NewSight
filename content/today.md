@@ -7,6 +7,7 @@
   - [Podcast: Proton’s CEO Is Putting AI Before Security](https://www.404media.co/podcast-protons-ceo-is-putting-ai-before-security/)
 - Ars Technica
   - [Is MAHA dying—or will it be reborn? What's next after crushing midterm losses?](https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/)
+  - [Meet *sshole, the vulnerability that lets hackers SSH into Linux devices](https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/)
 - Black Hills Information Security
   - [Core Skills in the Age of AI](https://www.blackhillsinfosec.com/core-skills-in-age-of-ai/)
 - ByteByteGo
@@ -45,6 +46,8 @@
   - [It's unbreakable in theory](https://idiallo.com/byte-size/unbreakable-in-theory)
 - infosecurity-magazine.com
   - [Residential Proxy Traffic Traced to White House Network](https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/)
+- seangoedecke.com
+  - [A database is a store for global variables](https://seangoedecke.com/a-database-is-a-store-for-global-variables/)
 - simonwillison.net
   - [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/)
 - Sploitus.com Exploits RSS Feed
@@ -58,6 +61,7 @@
   - [Harbinger raises $240M after expanding into defense](https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/)
   - [Meta says US users can now video chat with their Muse AI avatar](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/)
   - [Meta warns that election backlash against data centers could make AI expansion harder](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/)
+  - [Meta, Google, and TikTok sue California AG over teen social media law](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/)
   - [OpenAI president Greg Brockman says company could be IPO ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/)
   - [OpenAI released a new cybersecurity model. Is that enough?](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/)
   - [Serve Robotics launches new business to become the AWS for robots](https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/)
@@ -86,8 +90,10 @@
   - [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down)
   - [Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday](https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale)
   - [Sony’s retro headphones brought me back to my childhood in the best way](https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review)
+  - [T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;](https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile)
   - [The FAA is finally ditching floppy disks](https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids)
   - [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes)
+  - [The New York Times is in talks to buy Letterboxd for around $330 million](https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report)
   - [TikTok launched a dedicated TikTok Shop app](https://www.theverge.com/tech/1027772/tiktok-shop-app)
   - [Where is Windows 12?](https://www.theverge.com/tech/1027621/where-is-windows-12-notepad)
   - [Xbox overhauls its PC, web, and cloud apps with a faster design](https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign)
@@ -270,3 +276,5 @@
   - [The Blue Tsunami Swept Doctors and Scientists Into Office](https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 黑海洋
+  - [印度金融机构遭利用AI工具的黑客攻击](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E9%81%AD%E5%88%A9%E7%94%A8AI%E5%B7%A5%E5%85%B7%E7%9A%84%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
