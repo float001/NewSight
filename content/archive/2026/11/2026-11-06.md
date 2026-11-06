@@ -2,10 +2,12 @@
 
 - 2Libra
   - [echo 下线了吗](https://2libra.com/post/questions/9AqzD-7)
+  - [【投票】你所知道的论坛有哪些](https://2libra.com/post/product-manager/GoAOrYM)
   - [【转载】九边：计算机专业塌得有点惨 📉📉📉](https://2libra.com/post/industry-inside/S4x_B-B)
   - [【💰】iphone 购买](https://2libra.com/post/apple/FA9FpqO)
   - [【💰】美股、A 股暴跌原因是什么，有没有懂的分析一波，我学习一下](https://2libra.com/post/stock-market/xgf5LoM)
   - [一觉醒来微信多了个这个](https://2libra.com/post/software-tools/P4wMHI7)
+  - [为啥鼠标震一下就会有几秒没响应，过一会儿才恢复](https://2libra.com/post/computers-accessories/meBCU1U)
   - [周五](https://2libra.com/post/personal-life/y2KczZM)
   - [家政维修服务这种不起眼的地方暴利](https://2libra.com/post/industry-inside/pp5HUt5)
   - [对自己好一点，照顾好自己](https://2libra.com/post/personal-life/GqL4U4E)
@@ -35,6 +37,7 @@
   - [Bitcoin crashes 6% to 7-week low as US stocks erase election gains](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto ally French Hill wins reelection but set to lose House chair](https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto exchanges tout cold storage ratios after Binance attack](https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum](https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed, OCC check US banks after Binance hack as experts flag security risks](https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Paraguay president resigns after collapse of Ueno digital bank](https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -77,6 +80,8 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://sploitus.com/exploit?id=FFC7F60F-3CE7-5F32-8494-BCB0A04AD2FB&utm_source=rss&utm_medium=rss)
   - [reverse-skill exploit](https://sploitus.com/exploit?id=D4D0F8EA-D49F-5F05-AE62-467391EA2D3F&utm_source=rss&utm_medium=rss)
   - [sshhole-exploit](https://sploitus.com/exploit?id=DEEA8338-835B-5FEC-A634-43ACD1473A3C&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [學習網頁內容無障礙](https://taxodium.ink/learn-web-content-accessibility.html)
 - TechCrunch
   - [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/)
   - [Axiom Math wants to keep AI slop out of mathematics](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/)
@@ -316,7 +321,11 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [X.509/ASN.1 notAfter 9999-12-31](https://dyrnq.com/x-509-asn-1-notafter-9999-12-31/)
+- 奇客Solidot–传递最新科技情报
+  - [Kagi 开放搜索](https://www.solidot.org/story?sid=85812)
+  - [《尼尔：自动人形》释出更新游戏容量从 50GB 暴涨至 366GB](https://www.solidot.org/story?sid=85811)
 - 爱范儿
+  - [10 月最值得关注的 17 个产品｜明日产品 WATCHLIST](https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞](https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [OpenAI发布GPT-6 Cyber：网络安全AI能力跃升](https://blog.upx8.com/OpenAI%E5%8F%91%E5%B8%83GPT-6-Cyber-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8AI%E8%83%BD%E5%8A%9B%E8%B7%83%E5%8D%87)
