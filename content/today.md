@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-06）
 
 - 2Libra
+  - [echo 下线了吗](https://2libra.com/post/questions/9AqzD-7)
   - [【转载】九边：计算机专业塌得有点惨 📉📉📉](https://2libra.com/post/industry-inside/S4x_B-B)
   - [【💰】iphone 购买](https://2libra.com/post/apple/FA9FpqO)
   - [【💰】美股、A 股暴跌原因是什么，有没有懂的分析一波，我学习一下](https://2libra.com/post/stock-market/xgf5LoM)
@@ -9,6 +10,7 @@
   - [家政维修服务这种不起眼的地方暴利](https://2libra.com/post/industry-inside/pp5HUt5)
   - [对自己好一点，照顾好自己](https://2libra.com/post/personal-life/GqL4U4E)
   - [微信输入法](https://2libra.com/post/software-tools/-7W7h_c)
+  - [我的韭菜收割者游戏上架 taptap 啦，大家支持一下，谢谢](https://2libra.com/post/personal-works/cZvj5Ep)
   - [无聊让 AI 跑了下数据，不知道 00 后的天才们将如何应对](https://2libra.com/post/social-observation/QFKw0Dg)
   - [有什么程序员接私活的网站吗](https://2libra.com/post/outsourcing/MaPDN6Z)
   - [让 Agent 自我检查 自我增强](https://2libra.com/post/ai-tools/248-w6H)
@@ -96,6 +98,7 @@
   - [Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations](https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434)
   - [Canary’s Injective ETF debuts on Nasdaq with exposure to staking rewards](https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115)
   - [Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue](https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455)
+  - [IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end](https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783)
 - The Decoder
   - [Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model](https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/)
   - [No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark](https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/)
@@ -217,6 +220,9 @@
   - [CVE-2026-116790](https://vulners.com/nvd/NVD:CVE-2026-116790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119344](https://vulners.com/nvd/NVD:CVE-2026-119344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119345](https://vulners.com/nvd/NVD:CVE-2026-119345?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119431 Server-Side Request Forgery in Foxit Workspace File Upload](https://vulners.com/cvelist/CVELIST:CVE-2026-119431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119432 Foxit Workspace Stored XSS in shared artifacts](https://vulners.com/cvelist/CVELIST:CVE-2026-119432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119433 Server-Side Request Forgery in Foxit Workspace PDF Export](https://vulners.com/cvelist/CVELIST:CVE-2026-119433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119751](https://vulners.com/nvd/NVD:CVE-2026-119751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119757](https://vulners.com/nvd/NVD:CVE-2026-119757?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120859](https://vulners.com/nvd/NVD:CVE-2026-120859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -284,6 +290,7 @@
   - [CVE-2026-88985 Kubeflow Pipelines: SQL injection through unvalidated pagination tokens in Kubeflow Pipelines API server](https://vulners.com/cvelist/CVELIST:CVE-2026-88985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88986](https://vulners.com/nvd/NVD:CVE-2026-88986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88986 Kubeflow Pipelines: Reflected XSS in the frontend pod information and events error responses](https://vulners.com/cvelist/CVELIST:CVE-2026-88986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-89142](https://vulners.com/nvd/NVD:CVE-2026-89142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92855](https://vulners.com/nvd/NVD:CVE-2026-92855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92857](https://vulners.com/nvd/NVD:CVE-2026-92857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93998](https://vulners.com/nvd/NVD:CVE-2026-93998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -307,6 +314,8 @@
   - [nhi-risk-analyzer](https://buaq.net/go-453099.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [X.509/ASN.1 notAfter 9999-12-31](https://dyrnq.com/x-509-asn-1-notafter-9999-12-31/)
 - 爱范儿
   - [早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞](https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
