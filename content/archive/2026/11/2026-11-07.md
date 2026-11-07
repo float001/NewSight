@@ -15,6 +15,7 @@
   - [社区有没有精华帖集锦？](https://2libra.com/post/forum-function/i7-cUjn)
   - [立冬了，祝名字叫立冬的小伙伴们生日快乐！](https://2libra.com/post/festival-things/3V0hRNq)
   - [谁懂 未来大街上将无人化，程序员将变成中国最底层工作](https://2libra.com/post/ai-trends/2-7LSZY)
+  - [还会再遇到可爱老头么？](https://2libra.com/post/small-things/Xr5Yar7)
   - [隔壁站的谜团](https://2libra.com/post/slacking-off/ve5C-Vn)
   - [🪙【AI 随想】下一版本也许 dreamer 史无前例加强](https://2libra.com/post/ai-trends/Z4dZhy8)
 - 404 Media
@@ -27,6 +28,7 @@
   - [Checkmarx Joins Claude Marketplace to Advance AI-Powered Application Security](https://checkmarx.com/partnerships/checkmarx-joins-claude-marketplace-to-advance-ai-powered-application-security/)
 - CoinTelegraph
   - [Binance hack is ‘cyber war,’ TRM Labs executive says](https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin holders have received eCash — What can you do with it?](https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price dips under $75K as crypto markets miss tech-stock rebound](https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gnosis Pay breach exposes card details, personal data and crypto wallet information](https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia may face a more hostile post-election Washington: Report](https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -34,6 +36,8 @@
   - [Strive buys 15,124 Bitcoin in October, closes in on top treasury holders](https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Suspicious prediction market activity seen before election poll release: NYT](https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sanctions Canadian money-exchange firms over Iran ties](https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- construction-physics.com
+  - [Reading List 11/7/2026](https://www.construction-physics.com/p/reading-list-1172026)
 - Cyber Kendra
   - [CVE-2026-116606: Barracuda ESG Bug Chain Gives Root Access](https://www.cyberkendra.com/2026/11/cve-2026-116606-barracuda-esg-bug-chain-gives-root-access.html)
   - [CVE-2026-123158: OpenSSH sshhole Bypass Hits Alpine Linux](https://www.cyberkendra.com/2026/11/cve-2026-123158-openssh-sshhole-bypass-hits-alpine-linux.html)
@@ -155,6 +159,7 @@
   - [Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news)
   - [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
   - [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
+  - [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)
 - Vulners.com RSS Feed
   - [CVE-2025-15708](https://vulners.com/nvd/NVD:CVE-2025-15708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102356](https://vulners.com/nvd/NVD:CVE-2026-102356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
