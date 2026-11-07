@@ -177,6 +177,7 @@
   - [CVE-2026-68933](https://vulners.com/nvd/NVD:CVE-2026-68933?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68935](https://vulners.com/nvd/NVD:CVE-2026-68935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-69128](https://vulners.com/nvd/NVD:CVE-2026-69128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71881](https://vulners.com/nvd/NVD:CVE-2026-71881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-73860](https://vulners.com/nvd/NVD:CVE-2026-73860?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-75598](https://vulners.com/nvd/NVD:CVE-2026-75598?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77442](https://vulners.com/nvd/NVD:CVE-2026-77442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -202,3 +203,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [从 Linux 到维基百科：志愿者如何构建互联网](https://www.solidot.org/story?sid=85820)
+- 爱范儿
+  - [早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票](https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=)
