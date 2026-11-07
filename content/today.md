@@ -8,9 +8,11 @@
   - [Apple Keyboard has a blacklist of phrases you can't swipe](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
   - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
   - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+  - [What I run on my $10 USD OpenStick, Linux, Homelab](https://blog.bosscher.ch/posts/openstick/)
 - TechCrunch
   - [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/)
   - [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/)
+  - [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)
 - The Block
   - [Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June](https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984)
 - The Decoder
@@ -21,6 +23,17 @@
   - [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)
   - [Discogs’ Kevin Lewandowski can’t live without his AeroPress](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview)
   - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
+- Vulners.com RSS Feed
+  - [CVE-2026-119522](https://vulners.com/nvd/NVD:CVE-2026-119522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120836](https://vulners.com/nvd/NVD:CVE-2026-120836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123461](https://vulners.com/nvd/NVD:CVE-2026-123461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123472](https://vulners.com/nvd/NVD:CVE-2026-123472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123992](https://vulners.com/nvd/NVD:CVE-2026-123992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124057](https://vulners.com/nvd/NVD:CVE-2026-124057?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124058 TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow](https://vulners.com/cve/CVE-2026-124058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124058 TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-124058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124258](https://vulners.com/nvd/NVD:CVE-2026-124258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [surveyproject-filemanager-advisory](https://vulners.com/githubexploit/3F31D428-1259-533A-B43A-E6682A9A6C23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
