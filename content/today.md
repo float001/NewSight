@@ -207,6 +207,8 @@
   - [The Cybertruck’s Death Is Actually Great News for EVs](https://www.wired.com/story/cybertrucks-death-great-news-for-evs/)
 - 不安全
   - [FlatScan](https://buaq.net/go-453338.html)
+  - [fluxion v6.39](https://buaq.net/go-453347.html)
+  - [Nouride – 旧安卓手机，变身 24 小时 AI 助手](https://buaq.net/go-453346.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
