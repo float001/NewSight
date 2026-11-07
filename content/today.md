@@ -1,11 +1,14 @@
 # 今日安全资讯（2026-11-07）
 
 - 2Libra
+  - [你们现在穿什么裤,牛仔裤,运行裤?坐下会感觉到冷吗?](https://2libra.com/post/personal-life/PRj8N5m)
   - [你能解释一下这个网站是如何运作的吗？](https://2libra.com/post/newcomer/iMC1mHD)
+  - [太冷了，希望有个对象一起吃火锅](https://2libra.com/post/love/dg110Fc)
   - [我在隔壁的账号被毕业了](https://2libra.com/post/small-things/pEG4ivv)
   - [有 meta ads 用户吗](https://2libra.com/post/devops/GMOeHR5)
   - [海鲜市场 200rmb 的 wise 激活方案，免费教了【搬运】](https://2libra.com/post/deal-hunter/gmH2Q0T)
   - [用 AI 写了一个笔记软件](https://2libra.com/post/open-source-sharing/TxmcQXP)
+  - [社区有没有精华帖集锦？](https://2libra.com/post/forum-function/i7-cUjn)
   - [立冬了，祝名字叫立冬的小伙伴们生日快乐！](https://2libra.com/post/festival-things/3V0hRNq)
 - 404 Media
   - [Behind the Blog:  Dam's Bursting](https://www.404media.co/behind-the-blog-dams-bursting/)
@@ -49,9 +52,11 @@
   - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-123488](https://sploitus.com/exploit?id=3F28CDCD-865D-5008-9CCA-38DDA5F10928&utm_source=rss&utm_medium=rss)
+  - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Wordpress](https://sploitus.com/exploit?id=5BDCFFA0-2376-59B4-A57F-5350243F59C4&utm_source=rss&utm_medium=rss)
   - [lg-tv-root-exploit](https://sploitus.com/exploit?id=063EE145-49D6-529E-8084-2D029938A617&utm_source=rss&utm_medium=rss)
   - [php-exploit-2026](https://sploitus.com/exploit?id=EEE537D0-F945-5686-9B35-91410D66E197&utm_source=rss&utm_medium=rss)
   - [question-research-poc-oss exploit](https://sploitus.com/exploit?id=341A371B-544B-571F-ACEF-29C5C2CA1669&utm_source=rss&utm_medium=rss)
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [Album#49 - Music For Programming](https://taxodium.ink/album-49.html)
 - TechCrunch
