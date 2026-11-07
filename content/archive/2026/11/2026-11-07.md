@@ -30,11 +30,16 @@
   - [Democrats launching congressional investigations into SpaceXAI, META and Apple](https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/)
   - [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
   - [My first and last telegram was from Rebecca West](https://thelampmagazine.com/blog/rebecca-wests-nightingale)
+  - [No CVE Today, Please](https://nocveday.com/)
   - [Restaurant Delivery Payment-Skimming Campaign](https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming)
   - [SketchAgentBench – evaluate LLMs on 3D spatial reasoning](https://sketchagent.dev/)
 - HackerNoon
   - [Load Balancing Starts Before the Load Balancer: Routing Patterns for Distributed Systems](https://hackernoon.com/load-balancing-starts-before-the-load-balancer-routing-patterns-for-distributed-systems?source=rss)
   - [“We Love Our Tops and Bottoms”: The 25 Wildest Quotes From Grindr CEO George Arison’s AMA](https://hackernoon.com/we-love-our-tops-and-bottoms-the-25-wildest-quotes-from-grindr-ceo-george-arisons-ama?source=rss)
+- Horizon3.ai
+  - [CVE-2026-123158 | OpenSSH musl Password Authentication Bypass & Remote Code Execution Vulnerability (*sshole)](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-123158/)
+- seangoedecke.com
+  - [Working with designers](https://seangoedecke.com/working-with-designers/)
 - simonwillison.net
   - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/)
 - Sploitus.com Exploits RSS Feed
@@ -70,6 +75,7 @@
   - [Lame-duck Congress might actually do something: speed up energy projects](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote)
   - [Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces)
   - [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
+  - [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
   - [Shure’s popular podcasting and streaming mic is almost $50 off](https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale)
   - [Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news)
   - [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
