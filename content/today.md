@@ -18,6 +18,7 @@
 - Cyber Kendra
   - [CVE-2026-116606: Barracuda ESG Bug Chain Gives Root Access](https://www.cyberkendra.com/2026/11/cve-2026-116606-barracuda-esg-bug-chain-gives-root-access.html)
   - [CVE-2026-123158: OpenSSH sshhole Bypass Hits Alpine Linux](https://www.cyberkendra.com/2026/11/cve-2026-123158-openssh-sshhole-bypass-hits-alpine-linux.html)
+  - [When Is It Time to Move From Shared Hosting to VPS Hosting?](https://www.cyberkendra.com/2026/11/when-is-it-time-to-move-from-shared-hosting-to-vps-hosting.html)
 - daringfireball.net
   - [★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow)
 - darkreading
@@ -48,6 +49,7 @@
   - [php-exploit-2026](https://sploitus.com/exploit?id=EEE537D0-F945-5686-9B35-91410D66E197&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
+  - [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
   - [Hundreds of Artex AI hacking tools found publicly exposed to the web](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
   - [Meta introduces Spaces, a new way to collaborate with your Muse agent](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/)
   - [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
@@ -199,6 +201,8 @@
   - [How Stephen Miller Schemed His Way to the Top](https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/)
   - [Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026](https://www.wired.com/story/rocco-black-friday-sale-2026/)
   - [The Cybertruck’s Death Is Actually Great News for EVs](https://www.wired.com/story/cybertrucks-death-great-news-for-evs/)
+- 不安全
+  - [FlatScan](https://buaq.net/go-453338.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
