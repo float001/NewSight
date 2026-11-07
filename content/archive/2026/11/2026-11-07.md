@@ -2,6 +2,7 @@
 
 - 2Libra
   - [你能解释一下这个网站是如何运作的吗？](https://2libra.com/post/newcomer/iMC1mHD)
+  - [海鲜市场 200rmb 的 wise 激活方案，免费教了【搬运】](https://2libra.com/post/deal-hunter/gmH2Q0T)
   - [用 AI 写了一个笔记软件](https://2libra.com/post/open-source-sharing/TxmcQXP)
 - 404 Media
   - [Behind the Blog:  Dam's Bursting](https://www.404media.co/behind-the-blog-dams-bursting/)
@@ -47,6 +48,9 @@
   - [Exploit for CVE-2026-123488](https://sploitus.com/exploit?id=3F28CDCD-865D-5008-9CCA-38DDA5F10928&utm_source=rss&utm_medium=rss)
   - [lg-tv-root-exploit](https://sploitus.com/exploit?id=063EE145-49D6-529E-8084-2D029938A617&utm_source=rss&utm_medium=rss)
   - [php-exploit-2026](https://sploitus.com/exploit?id=EEE537D0-F945-5686-9B35-91410D66E197&utm_source=rss&utm_medium=rss)
+  - [question-research-poc-oss exploit](https://sploitus.com/exploit?id=341A371B-544B-571F-ACEF-29C5C2CA1669&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Album#49 - Music For Programming](https://taxodium.ink/album-49.html)
 - TechCrunch
   - [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)
   - [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
