@@ -15,6 +15,7 @@
   - [Parents want safer phones for kids. These companies are answering the call.](https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/)
 - The Block
   - [Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June](https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984)
+  - [Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations](https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988)
 - The Decoder
   - [AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds](https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/)
   - [Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation](https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/)
@@ -33,6 +34,7 @@
   - [CVE-2026-124058 TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow](https://vulners.com/cve/CVE-2026-124058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124058 TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-124058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124258](https://vulners.com/nvd/NVD:CVE-2026-124258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/7B394DEE-BE89-51A5-8B06-28DEA722658E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [surveyproject-filemanager-advisory](https://vulners.com/githubexploit/3F31D428-1259-533A-B43A-E6682A9A6C23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
