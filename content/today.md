@@ -2,6 +2,8 @@
 
 - 2Libra
   - [IG vs GEN.G](https://2libra.com/post/game-discussion/9V-qQs6)
+  - [muse 开放了，有手就可以注册](https://2libra.com/post/invite-code/7aj835e)
+  - [vibe 了一个压缩图片到指定大小的工具](https://2libra.com/post/tools-sharing/bxD03j6)
   - [【💰】给家里换冰箱](https://2libra.com/post/ask-recommendation/hq-0PJd)
   - [你们现在穿什么裤,牛仔裤,运行裤?坐下会感觉到冷吗?](https://2libra.com/post/personal-life/PRj8N5m)
   - [你能解释一下这个网站是如何运作的吗？](https://2libra.com/post/newcomer/iMC1mHD)
@@ -28,6 +30,7 @@
   - [Russia finalizes crypto trading rules ahead of Nov. 17 rollout](https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 15,124 Bitcoin in October, closes in on top treasury holders](https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Suspicious prediction market activity seen before election poll release: NYT](https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US sanctions Canadian money-exchange firms over Iran ties](https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CVE-2026-116606: Barracuda ESG Bug Chain Gives Root Access](https://www.cyberkendra.com/2026/11/cve-2026-116606-barracuda-esg-bug-chain-gives-root-access.html)
   - [CVE-2026-123158: OpenSSH sshhole Bypass Hits Alpine Linux](https://www.cyberkendra.com/2026/11/cve-2026-123158-openssh-sshhole-bypass-hits-alpine-linux.html)
@@ -63,6 +66,7 @@
   - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-123488](https://sploitus.com/exploit?id=3F28CDCD-865D-5008-9CCA-38DDA5F10928&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-86777](https://sploitus.com/exploit?id=71F07999-5E1B-5D54-9690-849A898A817C&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Linux Linux_Kernel](https://sploitus.com/exploit?id=8D7B553A-B137-515C-A8C1-E8FBDFAF2ABC&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Wordpress](https://sploitus.com/exploit?id=5BDCFFA0-2376-59B4-A57F-5350243F59C4&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=9C38629C-CDF5-5F04-B9D7-8FB5C889EA7B&utm_source=rss&utm_medium=rss)
@@ -71,6 +75,7 @@
   - [mcp-server-delphi exploit](https://sploitus.com/exploit?id=7A6C78B2-58FE-547B-B335-F40426B5C270&utm_source=rss&utm_medium=rss)
   - [php-exploit-2026](https://sploitus.com/exploit?id=EEE537D0-F945-5686-9B35-91410D66E197&utm_source=rss&utm_medium=rss)
   - [question-research-poc-oss exploit](https://sploitus.com/exploit?id=341A371B-544B-571F-ACEF-29C5C2CA1669&utm_source=rss&utm_medium=rss)
+  - [reportsieve exploit](https://sploitus.com/exploit?id=103BB565-0EBC-5E68-B69F-AE93E30F98DB&utm_source=rss&utm_medium=rss)
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - Taxodium
   - [Album#49 - Music For Programming](https://taxodium.ink/album-49.html)
@@ -92,6 +97,7 @@
   - [US Treasury walks back crypto surveillance ‘travel rule’ proposal](https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951)
 - The Decoder
   - [Google's AI detects high blood pressure from a regular smartwatch without a cuff](https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/)
+  - [Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar](https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/)
   - [OpenAI lands an $11 billion funding round, but has to court dentists for more capital](https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/)
   - [Perplexity now has its own always-on AI agent](https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/)
   - [Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model](https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/)
@@ -309,15 +315,20 @@
   - [Free Chinese AI Models Are Getting Scary Good at Hacking](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/)
   - [How Stephen Miller Schemed His Way to the Top](https://www.wired.com/story/how-stephen-miller-schemed-his-way-to-the-top/)
   - [Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026](https://www.wired.com/story/rocco-black-friday-sale-2026/)
+  - [The 10 Best Early Black Friday Headphone Deals (2026)](https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/)
   - [The 19 Best Early Black Friday Deals 2026](https://www.wired.com/story/best-black-friday-deals-11-7-2026/)
+  - [The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall](https://www.wired.com/gallery/best-cat-water-fountains/)
   - [The Cybertruck’s Death Is Actually Great News for EVs](https://www.wired.com/story/cybertrucks-death-great-news-for-evs/)
+  - [This Totally Free App Can Free Up Space on Your Mac](https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/)
 - 不安全
   - [dtls](https://buaq.net/go-453364.html)
+  - [ecapture v2.10.0](https://buaq.net/go-453376.html)
   - [FlatScan](https://buaq.net/go-453338.html)
   - [fluxion v6.39](https://buaq.net/go-453347.html)
   - [ftpm_attack](https://buaq.net/go-453359.html)
   - [Nouride – 旧安卓手机，变身 24 小时 AI 助手](https://buaq.net/go-453346.html)
   - [system_prompts_leaks — Updated!](https://buaq.net/go-453360.html)
+  - [unlocking any car from X brand in most of the world](https://buaq.net/go-453385.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
