@@ -56,7 +56,9 @@
   - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-123488](https://sploitus.com/exploit?id=3F28CDCD-865D-5008-9CCA-38DDA5F10928&utm_source=rss&utm_medium=rss)
+  - [Exploit for Heap-based Buffer Overflow in Linux Linux_Kernel](https://sploitus.com/exploit?id=8D7B553A-B137-515C-A8C1-E8FBDFAF2ABC&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Wordpress](https://sploitus.com/exploit?id=5BDCFFA0-2376-59B4-A57F-5350243F59C4&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=E94DC783-CD88-5667-923C-FD097E835BE8&utm_source=rss&utm_medium=rss)
   - [lg-tv-root-exploit](https://sploitus.com/exploit?id=063EE145-49D6-529E-8084-2D029938A617&utm_source=rss&utm_medium=rss)
   - [php-exploit-2026](https://sploitus.com/exploit?id=EEE537D0-F945-5686-9B35-91410D66E197&utm_source=rss&utm_medium=rss)
   - [question-research-poc-oss exploit](https://sploitus.com/exploit?id=341A371B-544B-571F-ACEF-29C5C2CA1669&utm_source=rss&utm_medium=rss)
@@ -181,6 +183,9 @@
   - [CVE-2026-123858](https://vulners.com/cvelist/CVELIST:CVE-2026-123858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123859 SQL Injection via unescaped DataFrame column names in Snowflake Connector for Python and Snowflake Connector for Python (Universal Core)](https://vulners.com/cvelist/CVELIST:CVE-2026-123859?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123876](https://vulners.com/nvd/NVD:CVE-2026-123876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123881](https://vulners.com/nvd/NVD:CVE-2026-123881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123957 TOTOLINK CA300-PoE cstecgi.cgi setIpQosRules buffer overflow](https://vulners.com/cve/CVE-2026-123957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123957 TOTOLINK CA300-PoE cstecgi.cgi setIpQosRules buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-123957?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123973](https://vulners.com/nvd/NVD:CVE-2026-123973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123974](https://vulners.com/nvd/NVD:CVE-2026-123974?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123976](https://vulners.com/nvd/NVD:CVE-2026-123976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -241,6 +246,7 @@
   - [CVE-2026-97190](https://vulners.com/nvd/NVD:CVE-2026-97190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97191](https://vulners.com/nvd/NVD:CVE-2026-97191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-113615](https://vulners.com/githubexploit/D1C7CCC8-C957-5921-A561-EEF765ECFD4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/E94DC783-CD88-5667-923C-FD097E835BE8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-92R3-P8C2-3FPX Eclipse hawkBit DDI has Privilege Escalation that allows Tenant-Isolated Firmware Exfiltration](https://vulners.com/osv_ghsa/OSV:GHSA-92R3-P8C2-3FPX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/)
@@ -251,6 +257,7 @@
   - [Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026](https://www.wired.com/story/rocco-black-friday-sale-2026/)
   - [The Cybertruck’s Death Is Actually Great News for EVs](https://www.wired.com/story/cybertrucks-death-great-news-for-evs/)
 - 不安全
+  - [dtls](https://buaq.net/go-453364.html)
   - [FlatScan](https://buaq.net/go-453338.html)
   - [fluxion v6.39](https://buaq.net/go-453347.html)
   - [ftpm_attack](https://buaq.net/go-453359.html)
