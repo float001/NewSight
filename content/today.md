@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-07）
 
 - 2Libra
+  - [【💰】给家里换冰箱](https://2libra.com/post/ask-recommendation/hq-0PJd)
   - [你们现在穿什么裤,牛仔裤,运行裤?坐下会感觉到冷吗?](https://2libra.com/post/personal-life/PRj8N5m)
   - [你能解释一下这个网站是如何运作的吗？](https://2libra.com/post/newcomer/iMC1mHD)
   - [太冷了，希望有个对象一起吃火锅](https://2libra.com/post/love/dg110Fc)
@@ -31,6 +32,8 @@
 - darkreading
   - [AI Gave Your Incident Archive a Second Job](https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job)
   - [UK Wades Into Tech Sovereignty Amid AI Policy Changes](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)
+- defend.network
+  - [WordPress patch installation flaw, Paint RCE, OpenSSH SSHole under active attack](https://defend.network/briefings/wordpress-paint-openssh-sonicwall-exploits-2026-11-07.html)
 - Hacker News Frontpage
   - [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
   - [Anthropic IPO valuation talks drop to $1.3T](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
@@ -96,6 +99,7 @@
   - [Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news)
   - [The iPhone Duo has more than 100,000 optimized apps, Apple says](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps)
 - Vulners.com RSS Feed
+  - [CVE-2025-15708](https://vulners.com/nvd/NVD:CVE-2025-15708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102356](https://vulners.com/nvd/NVD:CVE-2026-102356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102359](https://vulners.com/nvd/NVD:CVE-2026-102359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102650](https://vulners.com/nvd/NVD:CVE-2026-102650?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -104,8 +108,17 @@
   - [CVE-2026-104267](https://vulners.com/nvd/NVD:CVE-2026-104267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109683](https://vulners.com/nvd/NVD:CVE-2026-109683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111573](https://vulners.com/nvd/NVD:CVE-2026-111573?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117525](https://vulners.com/nvd/NVD:CVE-2026-117525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117588](https://vulners.com/nvd/NVD:CVE-2026-117588?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118515 Symfony: The Serializer Builds UploadedFile Objects From Request Data, Letting a Client Point an Upload at Any Server File](https://vulners.com/cvelist/CVELIST:CVE-2026-118515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118528](https://vulners.com/nvd/NVD:CVE-2026-118528?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118529](https://vulners.com/nvd/NVD:CVE-2026-118529?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118530](https://vulners.com/nvd/NVD:CVE-2026-118530?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118532](https://vulners.com/nvd/NVD:CVE-2026-118532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118533](https://vulners.com/nvd/NVD:CVE-2026-118533?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118534](https://vulners.com/nvd/NVD:CVE-2026-118534?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118670](https://vulners.com/nvd/NVD:CVE-2026-118670?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119073](https://vulners.com/nvd/NVD:CVE-2026-119073?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119158](https://vulners.com/nvd/NVD:CVE-2026-119158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119217](https://vulners.com/nvd/NVD:CVE-2026-119217?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119758](https://vulners.com/nvd/NVD:CVE-2026-119758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -115,10 +128,20 @@
   - [CVE-2026-12067](https://vulners.com/nvd/NVD:CVE-2026-12067?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120677](https://vulners.com/nvd/NVD:CVE-2026-120677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120739](https://vulners.com/nvd/NVD:CVE-2026-120739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121379](https://vulners.com/nvd/NVD:CVE-2026-121379?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121380](https://vulners.com/nvd/NVD:CVE-2026-121380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121491](https://vulners.com/nvd/NVD:CVE-2026-121491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121492](https://vulners.com/nvd/NVD:CVE-2026-121492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121516](https://vulners.com/nvd/NVD:CVE-2026-121516?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121623](https://vulners.com/nvd/NVD:CVE-2026-121623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121796](https://vulners.com/nvd/NVD:CVE-2026-121796?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121848](https://vulners.com/nvd/NVD:CVE-2026-121848?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121857](https://vulners.com/nvd/NVD:CVE-2026-121857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121858](https://vulners.com/nvd/NVD:CVE-2026-121858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121866](https://vulners.com/nvd/NVD:CVE-2026-121866?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121880](https://vulners.com/nvd/NVD:CVE-2026-121880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121881](https://vulners.com/nvd/NVD:CVE-2026-121881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122001](https://vulners.com/nvd/NVD:CVE-2026-122001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123218](https://vulners.com/nvd/NVD:CVE-2026-123218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123623](https://vulners.com/nvd/NVD:CVE-2026-123623?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123675](https://vulners.com/nvd/NVD:CVE-2026-123675?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -213,6 +236,9 @@
   - [CVE-2026-90436](https://vulners.com/nvd/NVD:CVE-2026-90436?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94618](https://vulners.com/nvd/NVD:CVE-2026-94618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94619](https://vulners.com/nvd/NVD:CVE-2026-94619?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97189](https://vulners.com/nvd/NVD:CVE-2026-97189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97190](https://vulners.com/nvd/NVD:CVE-2026-97190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-97191](https://vulners.com/nvd/NVD:CVE-2026-97191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-113615](https://vulners.com/githubexploit/D1C7CCC8-C957-5921-A561-EEF765ECFD4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-92R3-P8C2-3FPX Eclipse hawkBit DDI has Privilege Escalation that allows Tenant-Isolated Firmware Exfiltration](https://vulners.com/osv_ghsa/OSV:GHSA-92R3-P8C2-3FPX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
