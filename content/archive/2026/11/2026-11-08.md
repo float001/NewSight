@@ -2,6 +2,7 @@
 
 - 2Libra
   - [【💰】请教一个关于网站接入 AI 审核的问题](https://2libra.com/post/tech-qa/F4La5OX)
+  - [下雪了，你那里下雪了吗？](https://2libra.com/post/small-things/7GmjAQF)
 - ByteByteGo
   - [EP232: 6 Frequently Used Orchestration Frameworks in an AI system](https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration)
 - daringfireball.net
@@ -15,6 +16,7 @@
   - [Show HN: Where Were We](https://wherewerewe.app/)
   - [What I run on my $10 USD OpenStick, Linux, Homelab](https://blog.bosscher.ch/posts/openstick/)
 - TechCrunch
+  - [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
   - [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/)
   - [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/)
   - [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)
@@ -33,6 +35,7 @@
   - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
 - Vulners.com RSS Feed
   - [CVE-2026-119522](https://vulners.com/nvd/NVD:CVE-2026-119522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120531](https://vulners.com/nvd/NVD:CVE-2026-120531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120836](https://vulners.com/nvd/NVD:CVE-2026-120836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123461](https://vulners.com/nvd/NVD:CVE-2026-123461?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123472](https://vulners.com/nvd/NVD:CVE-2026-123472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
