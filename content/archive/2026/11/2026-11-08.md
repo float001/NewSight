@@ -5,11 +5,17 @@
 - ByteByteGo
   - [EP232: 6 Frequently Used Orchestration Frameworks in an AI system](https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration)
 - Hacker News Frontpage
+  - [Apple Keyboard has a blacklist of phrases you can't swipe](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
   - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
+  - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+- TechCrunch
+  - [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/)
+  - [Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/)
 - The Block
   - [Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June](https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984)
 - The Decoder
   - [AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds](https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/)
+  - [Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation](https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/)
   - [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/)
 - The Verge
   - [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)
