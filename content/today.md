@@ -24,6 +24,7 @@
   - [Nvidia may face a more hostile post-election Washington: Report](https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Russia finalizes crypto trading rules ahead of Nov. 17 rollout](https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strive buys 15,124 Bitcoin in October, closes in on top treasury holders](https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Suspicious prediction market activity seen before election poll release: NYT](https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CVE-2026-116606: Barracuda ESG Bug Chain Gives Root Access](https://www.cyberkendra.com/2026/11/cve-2026-116606-barracuda-esg-bug-chain-gives-root-access.html)
   - [CVE-2026-123158: OpenSSH sshhole Bypass Hits Alpine Linux](https://www.cyberkendra.com/2026/11/cve-2026-123158-openssh-sshhole-bypass-hits-alpine-linux.html)
@@ -58,8 +59,10 @@
   - [Exploit for CVE-2026-123488](https://sploitus.com/exploit?id=3F28CDCD-865D-5008-9CCA-38DDA5F10928&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Linux Linux_Kernel](https://sploitus.com/exploit?id=8D7B553A-B137-515C-A8C1-E8FBDFAF2ABC&utm_source=rss&utm_medium=rss)
   - [Exploit for Time-of-check Time-of-use (TOCTOU) Race Condition in Wordpress](https://sploitus.com/exploit?id=5BDCFFA0-2376-59B4-A57F-5350243F59C4&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=9C38629C-CDF5-5F04-B9D7-8FB5C889EA7B&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://sploitus.com/exploit?id=E94DC783-CD88-5667-923C-FD097E835BE8&utm_source=rss&utm_medium=rss)
   - [lg-tv-root-exploit](https://sploitus.com/exploit?id=063EE145-49D6-529E-8084-2D029938A617&utm_source=rss&utm_medium=rss)
+  - [mcp-server-delphi exploit](https://sploitus.com/exploit?id=7A6C78B2-58FE-547B-B335-F40426B5C270&utm_source=rss&utm_medium=rss)
   - [php-exploit-2026](https://sploitus.com/exploit?id=EEE537D0-F945-5686-9B35-91410D66E197&utm_source=rss&utm_medium=rss)
   - [question-research-poc-oss exploit](https://sploitus.com/exploit?id=341A371B-544B-571F-ACEF-29C5C2CA1669&utm_source=rss&utm_medium=rss)
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
@@ -82,6 +85,8 @@
   - [Trump administration moves closer to allowing crypto in 401(k) retirement plans](https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939)
   - [US Treasury walks back crypto surveillance ‘travel rule’ proposal](https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951)
 - The Decoder
+  - [Google's AI detects high blood pressure from a regular smartwatch without a cuff](https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/)
+  - [OpenAI lands an $11 billion funding round, but has to court dentists for more capital](https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/)
   - [Perplexity now has its own always-on AI agent](https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/)
   - [Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model](https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/)
 - The Verge
@@ -248,6 +253,7 @@
   - [Exploit for CVE-2026-113615](https://vulners.com/githubexploit/D1C7CCC8-C957-5921-A561-EEF765ECFD4C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Use After Free in Linux Linux_Kernel](https://vulners.com/githubexploit/E94DC783-CD88-5667-923C-FD097E835BE8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-92R3-P8C2-3FPX Eclipse hawkBit DDI has Privilege Escalation that allows Tenant-Isolated Firmware Exfiltration](https://vulners.com/osv_ghsa/OSV:GHSA-92R3-P8C2-3FPX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [mcp-server-delphi](https://vulners.com/gitee/7A6C78B2-58FE-547B-B335-F40426B5C270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/)
 - Wired
