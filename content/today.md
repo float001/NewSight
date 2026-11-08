@@ -2,11 +2,14 @@
 
 - 2Libra
   - [【生日蛋糕】三文鱼蛋糕 & 巧克力蛋糕](https://2libra.com/post/personal-life/flgTRG4)
+  - [【💰】你的情绪宣泄口是哪？](https://2libra.com/post/mental-health/2nkvQiR)
   - [【💰】请教一个关于网站接入 AI 审核的问题](https://2libra.com/post/tech-qa/F4La5OX)
   - [下雪了，你那里下雪了吗？](https://2libra.com/post/small-things/7GmjAQF)
   - [谁跟谁是敌对关系 用户敌对 总结](https://2libra.com/post/hotspot-tracking/HAoZpfi)
 - ByteByteGo
   - [EP232: 6 Frequently Used Orchestration Frameworks in an AI system](https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration)
+- CoinTelegraph
+  - [Binance’s  finance chief Kaiser Ng to leave company, report says](https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0)
 - defend.network
@@ -127,6 +130,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [imagePullSecrets](https://dyrnq.com/imagepullsecrets/)
+  - [Parts of speech in English](https://dyrnq.com/parts-of-speech-in-english/)
 - 奇客Solidot–传递最新科技情报
   - [ESA Hera 探测器发回 DART 撞击的小行星照片](https://www.solidot.org/story?sid=85825)
 - 爱范儿
