@@ -4,6 +4,7 @@
   - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
   - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
   - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+  - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
   - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
   - [Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
 - HackerNoon
@@ -16,7 +17,10 @@
 - righto.com
   - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
 - TechCrunch
+  - [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
   - [He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.](https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
+  - [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)
+  - [Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
   - [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/)
   - [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
   - [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
@@ -26,6 +30,8 @@
   - [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
   - [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale)
   - [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)
+  - [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos)
+  - [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)
 - Vulners.com RSS Feed
   - [CVE-2024-41786](https://vulners.com/nvd/NVD:CVE-2024-41786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-0166](https://vulners.com/nvd/NVD:CVE-2025-0166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -47,6 +53,7 @@
   - [CVE-2026-114186](https://vulners.com/nvd/NVD:CVE-2026-114186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114188](https://vulners.com/nvd/NVD:CVE-2026-114188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114189](https://vulners.com/nvd/NVD:CVE-2026-114189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118904](https://vulners.com/nvd/NVD:CVE-2026-118904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120113](https://vulners.com/nvd/NVD:CVE-2026-120113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120115](https://vulners.com/nvd/NVD:CVE-2026-120115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120858](https://vulners.com/nvd/NVD:CVE-2026-120858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -63,7 +70,11 @@
   - [CVE-2026-16325](https://vulners.com/nvd/NVD:CVE-2026-16325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16427](https://vulners.com/nvd/NVD:CVE-2026-16427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16433](https://vulners.com/nvd/NVD:CVE-2026-16433?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16682](https://vulners.com/nvd/NVD:CVE-2026-16682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16697](https://vulners.com/nvd/NVD:CVE-2026-16697?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16699](https://vulners.com/nvd/NVD:CVE-2026-16699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17426](https://vulners.com/nvd/NVD:CVE-2026-17426?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-17427](https://vulners.com/nvd/NVD:CVE-2026-17427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17437](https://vulners.com/nvd/NVD:CVE-2026-17437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-17466](https://vulners.com/nvd/NVD:CVE-2026-17466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18093](https://vulners.com/nvd/NVD:CVE-2026-18093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -78,5 +89,7 @@
   - [CVE-2026-18893 CockroachDB PostgreSQL for IBM VPC is affected by multiple vulnerabilities](https://vulners.com/cvelist/CVELIST:CVE-2026-18893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61987](https://vulners.com/nvd/NVD:CVE-2026-61987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76052](https://vulners.com/nvd/NVD:CVE-2026-76052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95867](https://vulners.com/nvd/NVD:CVE-2026-95867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-96146](https://vulners.com/nvd/NVD:CVE-2026-96146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
