@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-08）
 
 - 2Libra
+  - [Is it OK to ask where you all are from?](https://2libra.com/post/newcomer/w4yiWoS)
   - [【生日蛋糕】三文鱼蛋糕 & 巧克力蛋糕](https://2libra.com/post/personal-life/flgTRG4)
   - [【💰】你的情绪宣泄口是哪？](https://2libra.com/post/mental-health/2nkvQiR)
   - [【💰】请教一个关于网站接入 AI 审核的问题](https://2libra.com/post/tech-qa/F4La5OX)
@@ -118,6 +119,7 @@
   - [CVE-2026-124058 TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow](https://vulners.com/cve/CVE-2026-124058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124058 TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-124058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124258](https://vulners.com/nvd/NVD:CVE-2026-124258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124326](https://vulners.com/nvd/NVD:CVE-2026-124326?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124422](https://vulners.com/nvd/NVD:CVE-2026-124422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85344](https://vulners.com/nvd/NVD:CVE-2026-85344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96961](https://vulners.com/nvd/NVD:CVE-2026-96961?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -127,9 +129,11 @@
   - [CVE-2026-97194](https://vulners.com/nvd/NVD:CVE-2026-97194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97195](https://vulners.com/nvd/NVD:CVE-2026-97195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/7B394DEE-BE89-51A5-8B06-28DEA722658E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-99273](https://vulners.com/githubexploit/F5021413-F55B-5075-86F0-81957AE4BE59?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [surveyproject-filemanager-advisory](https://vulners.com/githubexploit/3F31D428-1259-533A-B43A-E6682A9A6C23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More](https://www.wired.com/gallery/best-touchscreen-gloves/)
+  - [A 55-Year-Old Math Problem Was Solved—This Time by Humans](https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/)
   - [The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
   - [World Models Will Soon Be Inescapable. Here’s What You Need to Know](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/)
 - 代码审计星球
