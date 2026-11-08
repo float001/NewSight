@@ -8,6 +8,7 @@
   - [下雪了，你那里下雪了吗？](https://2libra.com/post/small-things/7GmjAQF)
   - [你们有没有发现，长大后越来越舍不得花钱？](https://2libra.com/post/financial-management/9l2lLT9)
   - [刚插入一半，钥匙断到锁芯。](https://2libra.com/post/small-things/y5-f8-Q)
+  - [找了一份实习（还没毕业），2400 元一个月](https://2libra.com/post/workplace-stories/xpl3Mv9)
   - [谁跟谁是敌对关系 用户敌对 总结](https://2libra.com/post/hotspot-tracking/HAoZpfi)
 - ByteByteGo
   - [EP232: 6 Frequently Used Orchestration Frameworks in an AI system](https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration)
@@ -16,6 +17,8 @@
   - [Binance’s  finance chief Kaiser Ng to leave company, report says](https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [SIM Swapping – How a Bribe Bypassed AT&T’s Security](https://www.darknet.org.uk/2026/11/sim-swapping-michael-terpin-att/)
 - defend.network
   - [Claude Code credential leak, WordPress patch window flaw, SonicWall VPN bypass actively exploited](https://defend.network/briefings/claude-code-credentials-wordpress-sonicwall-sslvpn-expl-2026-11-08.html)
 - Hacker News Frontpage
@@ -28,6 +31,8 @@
   - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
   - [Show HN: Where Were We](https://wherewerewe.app/)
   - [What I run on my $10 USD OpenStick, Linux, Homelab](https://blog.bosscher.ch/posts/openstick/)
+- shkspr.mobi
+  - [Some thoughts on restaurant menu QR codes](https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/)
 - TechCrunch
   - [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/)
   - [Amazon’s new basic Kindle proves you don’t need all the bells and whistles](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/)
@@ -48,6 +53,7 @@
   - [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)
   - [Discogs’ Kevin Lewandowski can’t live without his AeroPress](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview)
   - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
+  - [There’s no slowing down media’s pivot-to-video 2.0](https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot)
 - Vulners.com RSS Feed
   - [ai-security-audit-skills](https://vulners.com/githubexploit/FCB17041-D2AB-5452-B91B-18023E3B0C01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103303](https://vulners.com/nvd/NVD:CVE-2026-103303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -124,6 +130,7 @@
   - [CVE-2026-124058 TOTOLINK CA300-PoE cstecgi.cgi setWiFiRepeaterConfig buffer overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-124058?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124258](https://vulners.com/nvd/NVD:CVE-2026-124258?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124326](https://vulners.com/nvd/NVD:CVE-2026-124326?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124329](https://vulners.com/nvd/NVD:CVE-2026-124329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124422](https://vulners.com/nvd/NVD:CVE-2026-124422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-85344](https://vulners.com/nvd/NVD:CVE-2026-85344?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96961](https://vulners.com/nvd/NVD:CVE-2026-96961?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -145,6 +152,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [imagePullSecrets](https://dyrnq.com/imagepullsecrets/)
+  - [jdbc driver type1 type4](https://dyrnq.com/jdbc-driver-type1-type4/)
   - [Parts of speech in English](https://dyrnq.com/parts-of-speech-in-english/)
 - 奇客Solidot–传递最新科技情报
   - [ESA Hera 探测器发回 DART 撞击的小行星照片](https://www.solidot.org/story?sid=85825)
