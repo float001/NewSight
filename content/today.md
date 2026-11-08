@@ -4,6 +4,7 @@
   - [【生日蛋糕】三文鱼蛋糕 & 巧克力蛋糕](https://2libra.com/post/personal-life/flgTRG4)
   - [【💰】请教一个关于网站接入 AI 审核的问题](https://2libra.com/post/tech-qa/F4La5OX)
   - [下雪了，你那里下雪了吗？](https://2libra.com/post/small-things/7GmjAQF)
+  - [谁跟谁是敌对关系 用户敌对 总结](https://2libra.com/post/hotspot-tracking/HAoZpfi)
 - ByteByteGo
   - [EP232: 6 Frequently Used Orchestration Frameworks in an AI system](https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration)
 - daringfireball.net
@@ -124,6 +125,8 @@
   - [surveyproject-filemanager-advisory](https://vulners.com/githubexploit/3F31D428-1259-533A-B43A-E6682A9A6C23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [imagePullSecrets](https://dyrnq.com/imagepullsecrets/)
 - 奇客Solidot–传递最新科技情报
   - [ESA Hera 探测器发回 DART 撞击的小行星照片](https://www.solidot.org/story?sid=85825)
 - 爱范儿
