@@ -9,6 +9,7 @@
 - ByteByteGo
   - [EP232: 6 Frequently Used Orchestration Frameworks in an AI system](https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration)
 - CoinTelegraph
+  - [Amsterdam protesters break into Microsoft data center construction site: Report](https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance’s  finance chief Kaiser Ng to leave company, report says](https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0)
@@ -35,6 +36,7 @@
   - [Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations](https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988)
 - The Decoder
   - [AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds](https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/)
+  - [AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test](https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/)
   - [Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation](https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/)
   - [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/)
 - The Verge
@@ -126,6 +128,10 @@
   - [CVE-2026-97195](https://vulners.com/nvd/NVD:CVE-2026-97195?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-98432](https://vulners.com/githubexploit/7B394DEE-BE89-51A5-8B06-28DEA722658E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [surveyproject-filemanager-advisory](https://vulners.com/githubexploit/3F31D428-1259-533A-B43A-E6682A9A6C23?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More](https://www.wired.com/gallery/best-touchscreen-gloves/)
+  - [The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
+  - [World Models Will Soon Be Inescapable. Here’s What You Need to Know](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
