@@ -6,6 +6,8 @@
   - [【💰】你的情绪宣泄口是哪？](https://2libra.com/post/mental-health/2nkvQiR)
   - [【💰】请教一个关于网站接入 AI 审核的问题](https://2libra.com/post/tech-qa/F4La5OX)
   - [下雪了，你那里下雪了吗？](https://2libra.com/post/small-things/7GmjAQF)
+  - [你们有没有发现，长大后越来越舍不得花钱？](https://2libra.com/post/financial-management/9l2lLT9)
+  - [刚插入一半，钥匙断到锁芯。](https://2libra.com/post/small-things/y5-f8-Q)
   - [谁跟谁是敌对关系 用户敌对 总结](https://2libra.com/post/hotspot-tracking/HAoZpfi)
 - ByteByteGo
   - [EP232: 6 Frequently Used Orchestration Frameworks in an AI system](https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration)
@@ -20,6 +22,7 @@
   - [Apple Keyboard has a blacklist of phrases you can't swipe](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
   - [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
   - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
+  - [Person of Interest](https://krthr.co/person-of-interest/)
   - [Shadow of the Sun](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
   - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
   - [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
@@ -39,6 +42,7 @@
   - [AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds](https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/)
   - [AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test](https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/)
   - [Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation](https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/)
+  - [The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts](https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/)
   - [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/)
 - The Verge
   - [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)
@@ -135,6 +139,7 @@
   - [6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More](https://www.wired.com/gallery/best-touchscreen-gloves/)
   - [A 55-Year-Old Math Problem Was Solved—This Time by Humans](https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/)
   - [The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/)
+  - [Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory](https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/)
   - [World Models Will Soon Be Inescapable. Here’s What You Need to Know](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
