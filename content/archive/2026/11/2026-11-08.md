@@ -36,6 +36,7 @@
   - [Discogs’ Kevin Lewandowski can’t live without his AeroPress](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview)
   - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
 - Vulners.com RSS Feed
+  - [ai-security-audit-skills](https://vulners.com/githubexploit/FCB17041-D2AB-5452-B91B-18023E3B0C01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119522](https://vulners.com/nvd/NVD:CVE-2026-119522?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120531](https://vulners.com/nvd/NVD:CVE-2026-120531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120836](https://vulners.com/nvd/NVD:CVE-2026-120836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
