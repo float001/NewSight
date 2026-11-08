@@ -15,6 +15,7 @@
 - CoinTelegraph
   - [Amsterdam protesters break into Microsoft data center construction site: Report](https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance’s  finance chief Kaiser Ng to leave company, report says](https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0)
 - Darknet – Hacking Tools, Hacker News & Cyber Security
@@ -47,6 +48,7 @@
   - [AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds](https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/)
   - [AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test](https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/)
   - [Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation](https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/)
+  - [The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate](https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/)
   - [The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts](https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/)
   - [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/)
 - The Verge
