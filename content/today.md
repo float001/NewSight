@@ -9,6 +9,7 @@
   - [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0)
 - Hacker News Frontpage
   - [Apple Keyboard has a blacklist of phrases you can't swipe](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+  - [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
   - [How Long Can Life Wait?](https://mceglowski.substack.com/p/how-long-can-life-wait)
   - [Shadow of the Sun](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
   - [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
