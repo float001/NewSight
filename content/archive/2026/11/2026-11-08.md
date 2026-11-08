@@ -102,4 +102,6 @@
 - 奇客Solidot–传递最新科技情报
   - [ESA Hera 探测器发回 DART 撞击的小行星照片](https://www.solidot.org/story?sid=85825)
 - 爱范儿
+  - [别再拿《影之刃零》对比《黑神话》了](https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元](https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原](https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=)
