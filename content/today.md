@@ -3,12 +3,14 @@
 - CoinTelegraph
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI)
   - [Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L)
   - [OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou)
 - Hacker News Frontpage
   - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
   - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
   - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+  - [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
   - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
   - [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
   - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
@@ -18,6 +20,8 @@
   - [iOS Startup Performance in Practice, Part 2: Measuring App Launch Time in Production](https://hackernoon.com/ios-startup-performance-in-practice-part-2-measuring-app-launch-time-in-production?source=rss)
   - [Marketers Are BURNED OUT -  And No One Gives AF](https://hackernoon.com/marketers-are-burned-out-and-no-one-gives-af?source=rss)
   - [Octopus v2: Vehicle Function Examples](https://hackernoon.com/octopus-v2-vehicle-function-examples?source=rss)
+- johndcook.com
+  - [Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/)
 - Kali Linux Tutorials
   - [Inside the Sandbox of Mobile Contactless Checkout](https://kalilinuxtutorials.com/inside-the-sandbox-of-mobile-contactless-checkout/)
 - righto.com
@@ -34,6 +38,7 @@
   - [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
   - [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
 - The Block
+  - [Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story](https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034)
   - [Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets](https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029)
 - The Verge
   - [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
