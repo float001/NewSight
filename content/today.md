@@ -18,13 +18,16 @@
   - [记录下自己的跑步合集，欢迎讨论关于记录打卡、跑步知识、装备分享。以及一些碎碎念](https://2libra.com/post/sports/FTHvyAU)
   - [记录贴，这一个月我用 Claude 的心得分享](https://2libra.com/post/ai-tools/kOixNgu)
   - [降温了，下雪了，你们那里开始供暖了吗？](https://2libra.com/post/personal-life/v3FeJUR)
+  - [颈椎贪吃蛇](https://2libra.com/post/game-share/6wznAfB)
   - [黄仁勋出轨马斯克](https://2libra.com/post/hotspot-tracking/mEkt7AT)
 - CoinTelegraph
+  - [Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash devs propose another block time cut days after NU7 upgrade](https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Huang “deeply sorry” for cheating on his wife, but Nvidia wants to know if his mistress is a spy](https://cybernews.com/news/nvidia-probe-huang-affair/)
+  - [Who Gives A Crap knows where you live – and now hackers do too](https://cybernews.com/news/who-gives-crap-data-breach/)
 - daringfireball.net
   - [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI)
   - [Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L)
@@ -61,6 +64,8 @@
   - [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](https://blogs.nvidia.com/blog/korea-secure-agentic-ai/)
   - [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
   - [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/)
+- pluralistic.net
+  - [Pluralistic: America cannot undo Trumpism (09 Nov 2026)](https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/)
 - righto.com
   - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
 - simonwillison.net
@@ -82,6 +87,7 @@
   - [Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story](https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034)
   - [Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets](https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029)
   - [What is Zcash (ZEC)? How shielded transactions work](https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779)
+  - [Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)
 - The Verge
   - [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
   - [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale)
@@ -104,17 +110,20 @@
   - [CVE-2026-103320](https://vulners.com/cve/CVE-2026-103320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103320](https://vulners.com/nvd/NVD:CVE-2026-103320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103320 IBM WebSphere Application Server Liberty prior to 26.0.0.11 is affected by multiple vulnerabilities](https://vulners.com/cvelist/CVELIST:CVE-2026-103320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109582](https://vulners.com/nvd/NVD:CVE-2026-109582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109899](https://vulners.com/nvd/NVD:CVE-2026-109899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109900](https://vulners.com/nvd/NVD:CVE-2026-109900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113362](https://vulners.com/cve/CVE-2026-113362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113362](https://vulners.com/cvelist/CVELIST:CVE-2026-113362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113362](https://vulners.com/nvd/NVD:CVE-2026-113362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113437](https://vulners.com/nvd/NVD:CVE-2026-113437?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114186](https://vulners.com/nvd/NVD:CVE-2026-114186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114188](https://vulners.com/nvd/NVD:CVE-2026-114188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114189](https://vulners.com/nvd/NVD:CVE-2026-114189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118904](https://vulners.com/nvd/NVD:CVE-2026-118904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120113](https://vulners.com/nvd/NVD:CVE-2026-120113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120115](https://vulners.com/nvd/NVD:CVE-2026-120115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120386](https://vulners.com/nvd/NVD:CVE-2026-120386?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120858](https://vulners.com/nvd/NVD:CVE-2026-120858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124499](https://vulners.com/nvd/NVD:CVE-2026-124499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124500](https://vulners.com/nvd/NVD:CVE-2026-124500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -131,6 +140,10 @@
   - [CVE-2026-124569](https://vulners.com/nvd/NVD:CVE-2026-124569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124570](https://vulners.com/nvd/NVD:CVE-2026-124570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124571](https://vulners.com/nvd/NVD:CVE-2026-124571?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124577](https://vulners.com/nvd/NVD:CVE-2026-124577?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124578](https://vulners.com/nvd/NVD:CVE-2026-124578?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124579](https://vulners.com/nvd/NVD:CVE-2026-124579?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124580](https://vulners.com/nvd/NVD:CVE-2026-124580?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124610](https://vulners.com/nvd/NVD:CVE-2026-124610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12735](https://vulners.com/nvd/NVD:CVE-2026-12735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12737](https://vulners.com/nvd/NVD:CVE-2026-12737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -179,6 +192,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Aaron Swartz 诞辰四十周年](https://www.solidot.org/story?sid=85835)
   - [Asahi Linux 从 MIT 许可证切换到 GPL 许可证](https://www.solidot.org/story?sid=85832)
   - [脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman](https://www.solidot.org/story?sid=85834)
 - 爱范儿
@@ -186,5 +200,9 @@
   - [微信 AI 录音笔体验：手机都能装的办公神器，免费！](https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了](https://www.qbitai.com/2026/11/508694.html)
+  - [叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕](https://www.qbitai.com/2026/11/508690.html)
+  - [腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满](https://www.qbitai.com/2026/11/507843.html)
 - 黑海洋
   - [币安赵长鹏：经历失窃后行业“将更安全”](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E8%B5%B5%E9%95%BF%E9%B9%8F-%E7%BB%8F%E5%8E%86%E5%A4%B1%E7%AA%83%E5%90%8E%E8%A1%8C%E4%B8%9A-%E5%B0%86%E6%9B%B4%E5%AE%89%E5%85%A8)
