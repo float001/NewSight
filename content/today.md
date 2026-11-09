@@ -3,6 +3,9 @@
 - 2Libra
   - [【投票·💰】除了支付宝和微信支付，你还会经常用别的支付方式吗](https://2libra.com/post/social-observation/GOb3bNO)
   - [这几天又看了一遍天道，感触很深，把丁元英给蒸馏开源了](https://2libra.com/post/prompts/RpNOPH7)
+- Ars Technica
+  - [Pentagon mulls placing fleet of military satellites around the Moon](https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/)
+  - [Vulnerability that lets hackers SSH into Linux devices is under active exploitation](https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/)
 - ByteByteGo
   - [How LinkedIn Uses AI to Review 40,000 Pull Requests a Week](https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000)
 - CERT Recently Published Vulnerability Notes
@@ -13,6 +16,7 @@
 - CoinTelegraph
   - [Avalanche’s AVAX leads crypto gains following NYSE tokenization deal](https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Formation Securities plans Solana stock trading venue under SEC exemption](https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals](https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [PNC Bank tests turning USDC payments into dollar deposits](https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
@@ -24,6 +28,7 @@
   - [PwC's CISO on AI, Robots &amp; What's Next for Security](https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security)
 - Hacker News Frontpage
   - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
+  - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
   - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
   - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
   - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
@@ -33,22 +38,31 @@
   - [Jailbroken AI Agent Ran Two-Week Attack on European Telecom](https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/)
 - johndcook.com
   - [Steiner Systems](https://www.johndcook.com/blog/2026/11/09/steiner-systems/)
+- MIT Technology Review
+  - [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI hardware startup Nominal triples valuation to $3B in 8 months](https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/)
   - [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
+  - [Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)
+  - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
   - [Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny](https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/)
   - [Medium’s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
   - [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)
   - [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/)
+  - [YouTube streaming data returns to Billboard charts, ending major disagreement](https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/)
 - The Block
   - [Coinbase and PNC Bank expand partnership with USDC payments for corporate clients](https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466)
+  - [Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair](https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898)
   - [Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute](https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739)
   - [StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market](https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464)
 - The Decoder
   - [Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift](https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/)
   - [Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire](https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/)
+  - [Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do](https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/)
 - The Verge
+  - [Apple’s $50 Intelligence Usage Packs extend access to some AI features](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
   - [Instagram’s Effect Builder makes new filters from AI prompts](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
   - [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
   - [Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage](https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage)
