@@ -1,8 +1,38 @@
 # 今日安全资讯（2026-11-10）
 
+- 2Libra
+  - [【投票·💰】除了支付宝和微信支付，你还会经常用别的支付方式吗](https://2libra.com/post/social-observation/GOb3bNO)
+- ByteByteGo
+  - [How LinkedIn Uses AI to Review 40,000 Pull Requests a Week](https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000)
+- CERT Recently Published Vulnerability Notes
+  - [VU#188754: FrodoBots EarthRover Mini+ firmware contains multiple vulnerabilities](https://kb.cert.org/vuls/id/188754)
+- CyberNews
+  - [Google’s “zero-day”: Attackers say they have access to Gmail even after password change](https://cybernews.com/security/gmail-access-password-change/)
+- Hacker News Frontpage
+  - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
 - infosecurity-magazine.com
   - [Jailbroken AI Agent Ran Two-Week Attack on European Telecom](https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/)
+- johndcook.com
+  - [Steiner Systems](https://www.johndcook.com/blog/2026/11/09/steiner-systems/)
+- Sploitus.com Exploits RSS Feed
+  - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
+  - [Medium’s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
+  - [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/)
 - The Block
   - [Coinbase and PNC Bank expand partnership with USDC payments for corporate clients](https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466)
+  - [StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market](https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464)
+- The Decoder
+  - [Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire](https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/)
+- The Verge
+  - [Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage](https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage)
+  - [Uber wants to park your car now, too](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis)
+- Vulners.com RSS Feed
+  - [CVE-2025-10248](https://vulners.com/cve/CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-10248](https://vulners.com/nvd/NVD:CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118492](https://vulners.com/cve/CVE-2026-118492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118492](https://vulners.com/nvd/NVD:CVE-2026-118492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nuclei-templates](https://vulners.com/gitee/0801EB22-0CFD-5703-954C-CC68BB7760AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
