@@ -32,6 +32,8 @@
 - darkreading
   - [Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux](https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux)
   - [Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India](https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut)
+  - [CISA Announces Enhanced Reporting Form for Cyber Incidents](https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents)
+  - [Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion](https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion)
   - [PwC's CISO on AI, Robots &amp; What's Next for Security](https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security)
 - Hacker News Frontpage
   - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
@@ -49,6 +51,8 @@
   - [FORGE Lab uses agentic tools to identify memory safety issues in Rust](https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/)
 - MIT Technology Review
   - [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)
+- Recent Commits to cve:main
+  - [Update Mon Nov  9 21:15:30 UTC 2026](https://github.com/trickest/cve/commit/2f3d58bd834e05b4a653d75a02ed29db2a3efabd)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -70,14 +74,17 @@
   - [StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market](https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464)
 - The Decoder
   - [Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift](https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/)
+  - [Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO](https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/)
   - [Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire](https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/)
   - [Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do](https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/)
 - The Verge
   - [Apple’s $50 Intelligence Usage Packs extend access to some AI features](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
   - [Instagram’s Effect Builder makes new filters from AI prompts](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
   - [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
+  - [MSI’s refurbished QD-OLED gaming monitor is on sale for under $300](https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale)
   - [Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage](https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage)
   - [The future of AI hinges on… Jensen Huang’s sex life?](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me)
+  - [The global pledge to use AI for climate good is a cruel joke](https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31)
   - [Uber wants to park your car now, too](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis)
   - [You can grab three months of Game Pass Ultimate for under $20 per month](https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale)
 - Vulners.com RSS Feed
