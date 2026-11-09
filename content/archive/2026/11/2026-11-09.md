@@ -13,6 +13,7 @@
   - [刚注册了 muse，求个邀请码](https://2libra.com/post/invite-code/i2vVYpv)
   - [周末做了一个 3D 动物游戏 🦁](https://2libra.com/post/personal-works/NtVpIcH)
   - [大黄叔出轨了](https://2libra.com/post/hotspot-tracking/K-IFji7)
+  - [广州一夜入冬，昨天短袖今天外套冻死我](https://2libra.com/post/personal-life/EgJ9AOP)
   - [恭喜恭喜](https://2libra.com/post/forum-function/bNuQNHt)
   - [想在家里安装挂画、镜子、洞洞板等涉及到在墙壁打孔的操作，除了啄木鸟还有哪些渠道可以找到靠谱的师傅](https://2libra.com/post/recommendations/BmH4iIT)
   - [有医疗器械数据相关的大佬嘛，可以帮忙查一下数据嘛](https://2libra.com/post/help-requests/jskhAdh)
@@ -26,12 +27,16 @@
   - [黄仁勋出轨马斯克](https://2libra.com/post/hotspot-tracking/mEkt7AT)
 - Articles | InfoStealers
   - [Corium: A New ClickFix Panel Shows How Malware Delivery Is Becoming a Turnkey Business](https://www.infostealers.com/article/corium-a-new-clickfix-panel-shows-how-malware-delivery-is-becoming-a-turnkey-business/)
+  - [Remus Stealer Markets Persistent Gmail Access: Hudson Rock Investigates](https://www.infostealers.com/article/remus-stealer-markets-persistent-gmail-access-hudson-rock-investigates/)
 - CoinTelegraph
+  - [Analysts see no broader ‘contagion’ from $6.3B Binance hack](https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase’s US national trust bank charter takes effect](https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU taps industry to set standards for tokenized securities](https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Robinhood opens access to US IPOs for UK retail investors](https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364](https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules](https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash devs propose another block time cut days after NU7 upgrade](https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
@@ -43,6 +48,7 @@
   - [Runaway AI agent hacks sign-in provider used by OpenAI, Anthropic](https://cybernews.com/ai-news/workos-hacked-ai-agent/)
   - [Three suspects arrested for AI-powered impersonation scheme costing victims $129M](https://cybernews.com/news/ai-powered-impersonation-scheme/)
   - [Trump, Musk defend Nvidia's Huang amid spy-themed affair](https://cybernews.com/tech/trump-musk-defend-nvidias-huang/)
+  - [What “catastrophic disclosure” would look like – and why Trump might try it](https://cybernews.com/news/trump-ufo-uap-catastrophic-disclosure/)
   - [Who Gives A Crap knows where you live – and now hackers do too](https://cybernews.com/news/who-gives-crap-data-breach/)
 - daringfireball.net
   - [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI)
@@ -53,8 +59,11 @@
 - dfarq.homeip.net
   - [Radio Shack index](https://dfarq.homeip.net/radio-shack-index/?utm_source=rss&utm_medium=rss&utm_campaign=radio-shack-index)
   - [Silicon Graphics founded November 9, 1981](https://dfarq.homeip.net/silicon-graphics-founded-november-9-1981/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-graphics-founded-november-9-1981)
+- GuidePoint Security
+  - [Who Checked the AI Agent’s ID at the Front Door?](https://www.guidepointsecurity.com/blog/agentic-ai-identity-control-plane/)
 - Hacker News Frontpage
   - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
+  - [Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/)
   - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
   - [Fold Epic Paper Airplanes](https://www.foldableflight.com)
   - [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
@@ -83,6 +92,10 @@
   - [Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/)
 - Kali Linux Tutorials
   - [Inside the Sandbox of Mobile Contactless Checkout](https://kalilinuxtutorials.com/inside-the-sandbox-of-mobile-contactless-checkout/)
+- MIT Technology Review
+  - [The Download: empty AI climate claims, and an Nvidia investigation](https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/)
+- NowSecure
+  - [NowSecure Joins the Qualys Global mROC Alliance to Bring Mobile App Risk Into Qualys ETM](https://www.nowsecure.com/blog/2026/11/09/nowsecure-qualys-etm-mobile-app-risk/)
 - NVIDIA AI Blog
   - [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/)
   - [Korea Advances Physical AI Across Industries With NVIDIA](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/)
@@ -101,10 +114,13 @@
   - [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/)
 - TechCrunch
   - [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
+  - [Automattic debuts a platform to deploy vibe coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/)
   - [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
   - [He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.](https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/)
   - [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)
   - [Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)
+  - [Meet Drops, the new music app bringing back the fun of sharing songs with friends](https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/)
+  - [Musk says Tesla will refund some Cybertruck deposits, defends decision to end production](https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/)
   - [Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
   - [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/)
   - [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
@@ -120,6 +136,7 @@
   - [Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets](https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029)
   - [What is Zcash (ZEC)? How shielded transactions work](https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779)
   - [Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)
+  - [‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC](https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094)
 - The Decoder
   - [Google ships four TPU variants in one year as it ramps up competition with Nvidia](https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/)
   - [Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls](https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/)
@@ -130,6 +147,9 @@
   - [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos)
   - [Instagram’s AI age detection is expanding globally](https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion)
   - [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)
+  - [Pomera&#8217;s sleek distraction-free writing machine is just too small](https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [The Expanding Attack Surface Demands a New Operating Model](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [CVE-2024-41786](https://vulners.com/nvd/NVD:CVE-2024-41786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-0166](https://vulners.com/nvd/NVD:CVE-2025-0166?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -293,6 +313,8 @@
 - 不安全
   - [Can a really good hacker actually hack almost any website, or does it mostly come down to luck?](https://buaq.net/go-453548.html)
   - [Debugging a boot loop on Acer Veriton VGN100](https://buaq.net/go-453543.html)
+  - [I bought a car from china!](https://buaq.net/go-453662.html)
+  - [I just made a completely free cybersecurity and Networking learning platform where you can practice hands-on in your browser](https://buaq.net/go-453661.html)
   - [Playing with the STM32MP2](https://buaq.net/go-453540.html)
   - [Windows 11新版注册表编辑器引起讨论 微软回应称相关程序仅是示例 非真实项目](https://buaq.net/go-453542.html)
   - [双 11 大促！150+ 款正版软件低至 6 折，AdGuard、Typora、PixPin、思源笔记、Mole 等…](https://buaq.net/go-453591.html)
