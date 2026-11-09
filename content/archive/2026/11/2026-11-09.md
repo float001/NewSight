@@ -27,7 +27,9 @@
   - [Corium: A New ClickFix Panel Shows How Malware Delivery Is Becoming a Turnkey Business](https://www.infostealers.com/article/corium-a-new-clickfix-panel-shows-how-malware-delivery-is-becoming-a-turnkey-business/)
 - CoinTelegraph
   - [Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coinbase’s US national trust bank charter takes effect](https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Robinhood opens access to US IPOs for UK retail investors](https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash devs propose another block time cut days after NU7 upgrade](https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
@@ -38,6 +40,7 @@
   - [Pro-Kremlin group leaks EU officials’ private data, offers bounties for more info on family members](https://cybernews.com/security/noname057-eu-officials-doxxing/)
   - [Runaway AI agent hacks sign-in provider used by OpenAI, Anthropic](https://cybernews.com/ai-news/workos-hacked-ai-agent/)
   - [Three suspects arrested for AI-powered impersonation scheme costing victims $129M](https://cybernews.com/news/ai-powered-impersonation-scheme/)
+  - [Trump, Musk defend Nvidia's Huang amid spy-themed affair](https://cybernews.com/tech/trump-musk-defend-nvidias-huang/)
   - [Who Gives A Crap knows where you live – and now hackers do too](https://cybernews.com/news/who-gives-crap-data-breach/)
 - daringfireball.net
   - [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI)
@@ -45,6 +48,8 @@
   - [OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou)
 - defend.network
   - [Claude Code leaks 1,122 repos; Paint RCE patched; PHP flaws threaten 70% of web](https://defend.network/briefings/claude-code-credentials-github-paint-rce-php-flaws-2026-11-09.html)
+- dfarq.homeip.net
+  - [Silicon Graphics founded November 9, 1981](https://dfarq.homeip.net/silicon-graphics-founded-november-9-1981/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-graphics-founded-november-9-1981)
 - Hacker News Frontpage
   - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
   - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
@@ -98,6 +103,7 @@
   - [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/)
   - [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
   - [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
+  - [Tesla expands robotaxi service to San Antonio](https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/)
 - The Block
   - [Crypto-friendly Robinhood brings US IPO access to UK retail investors](https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089)
   - [Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal](https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047)
@@ -106,11 +112,14 @@
   - [Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets](https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029)
   - [What is Zcash (ZEC)? How shielded transactions work](https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779)
   - [Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum](https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909)
+- The Decoder
+  - [Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls](https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/)
 - The Verge
   - [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
   - [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale)
   - [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)
   - [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos)
+  - [Instagram’s AI age detection is expanding globally](https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion)
   - [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)
 - Vulners.com RSS Feed
   - [CVE-2024-41786](https://vulners.com/nvd/NVD:CVE-2024-41786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -253,6 +262,10 @@
   - [Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)
   - [DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office](https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/)
   - [I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found](https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/)
+  - [King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion](https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/)
+  - [New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing](https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/)
+  - [Scientists May Have Discovered a Massive Starless Galaxy](https://www.wired.com/story/scientists-discover-massive-starless-galaxy/)
+  - [The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement](https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/)
   - [These Robotic Arms Are Powered by Algae. Watch How They Move](https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/)
   - [Welcome to Weed Island](https://www.wired.com/story/welcome-to-weed-island-jersey/)
 - 不安全
@@ -271,6 +284,7 @@
   - [脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman](https://www.solidot.org/story?sid=85834)
 - 爱范儿
   - [M6 MacBook Pro 体验：38 块的灵魂，一万五的身体](https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](https://www.ifanr.com/1688447?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微信 AI 录音笔体验：手机都能装的办公神器，免费！](https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=)
