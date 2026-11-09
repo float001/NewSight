@@ -2,10 +2,14 @@
 
 - 2Libra
   - [BLG 打赢 T1，飞科终于倒在了 4 强。](https://2libra.com/post/game-discussion/zj5RZwB)
+  - [【竞猜】](https://2libra.com/post/game-discussion/NlSITX2)
   - [【运动打卡】第 2️⃣4️⃣天，继续锻炼](https://2libra.com/post/sports/8AemH2K)
   - [【非蠢即坏 2】远离「搅屎棍」：不怕没好事，就怕没好人 💩💩💩](https://2libra.com/post/mental-health/mwNW9Ui)
   - [周末做了一个 3D 动物游戏 🦁](https://2libra.com/post/personal-works/NtVpIcH)
   - [恭喜恭喜](https://2libra.com/post/forum-function/bNuQNHt)
+  - [有没有 3 个月瘦 20 斤的方法](https://2libra.com/post/questions/XNFE-te)
+  - [电脑突然卡的要命-罪魁或搜居然是搜狗输入法](https://2libra.com/post/software-tools/dlNuzE9)
+  - [记录下自己的跑步合集，欢迎讨论关于记录打卡、跑步知识、装备分享。以及一些碎碎念](https://2libra.com/post/sports/FTHvyAU)
   - [记录贴，这一个月我用 Claude 的心得分享](https://2libra.com/post/ai-tools/kOixNgu)
   - [降温了，下雪了，你们那里开始供暖了吗？](https://2libra.com/post/personal-life/v3FeJUR)
 - CoinTelegraph
@@ -48,6 +52,7 @@
 - The Block
   - [Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story](https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034)
   - [Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets](https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029)
+  - [What is Zcash (ZEC)? How shielded transactions work](https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779)
 - The Verge
   - [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
   - [Apple’s M5 MacBook Air is down to its lowest price since July](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale)
@@ -83,6 +88,10 @@
   - [CVE-2026-124500](https://vulners.com/nvd/NVD:CVE-2026-124500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124501](https://vulners.com/nvd/NVD:CVE-2026-124501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124502](https://vulners.com/nvd/NVD:CVE-2026-124502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124508](https://vulners.com/nvd/NVD:CVE-2026-124508?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124509](https://vulners.com/nvd/NVD:CVE-2026-124509?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124554](https://vulners.com/nvd/NVD:CVE-2026-124554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124555](https://vulners.com/nvd/NVD:CVE-2026-124555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12735](https://vulners.com/nvd/NVD:CVE-2026-12735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12737](https://vulners.com/nvd/NVD:CVE-2026-12737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14375](https://vulners.com/nvd/NVD:CVE-2026-14375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -117,6 +126,9 @@
   - [CVE-2026-76052](https://vulners.com/nvd/NVD:CVE-2026-76052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95867](https://vulners.com/nvd/NVD:CVE-2026-95867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96146](https://vulners.com/nvd/NVD:CVE-2026-96146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Playing with the STM32MP2](https://buaq.net/go-453540.html)
+  - [Windows 11新版注册表编辑器引起讨论 微软回应称相关程序仅是示例 非真实项目](https://buaq.net/go-453542.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
