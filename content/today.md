@@ -11,15 +11,20 @@
   - [大黄叔出轨了](https://2libra.com/post/hotspot-tracking/K-IFji7)
   - [恭喜恭喜](https://2libra.com/post/forum-function/bNuQNHt)
   - [想在家里安装挂画、镜子、洞洞板等涉及到在墙壁打孔的操作，除了啄木鸟还有哪些渠道可以找到靠谱的师傅](https://2libra.com/post/recommendations/BmH4iIT)
+  - [有医疗器械数据相关的大佬嘛，可以帮忙查一下数据嘛](https://2libra.com/post/help-requests/jskhAdh)
   - [有没有 3 个月瘦 20 斤的方法](https://2libra.com/post/questions/XNFE-te)
+  - [潘多拉事件，这个有点难了](https://2libra.com/post/forum-function/E33SnwI)
   - [电脑突然卡的要命-罪魁或搜居然是搜狗输入法](https://2libra.com/post/software-tools/dlNuzE9)
   - [记录下自己的跑步合集，欢迎讨论关于记录打卡、跑步知识、装备分享。以及一些碎碎念](https://2libra.com/post/sports/FTHvyAU)
   - [记录贴，这一个月我用 Claude 的心得分享](https://2libra.com/post/ai-tools/kOixNgu)
   - [降温了，下雪了，你们那里开始供暖了吗？](https://2libra.com/post/personal-life/v3FeJUR)
+  - [黄仁勋出轨马斯克](https://2libra.com/post/hotspot-tracking/mEkt7AT)
 - CoinTelegraph
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash devs propose another block time cut days after NU7 upgrade](https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [Huang “deeply sorry” for cheating on his wife, but Nvidia wants to know if his mistress is a spy](https://cybernews.com/news/nvidia-probe-huang-affair/)
 - daringfireball.net
   - [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI)
   - [Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L)
@@ -31,6 +36,7 @@
   - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
   - [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
   - [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
+  - [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
   - [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
   - [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
   - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
@@ -53,6 +59,7 @@
   - [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/)
   - [Korea Advances Physical AI Across Industries With NVIDIA](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/)
   - [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](https://blogs.nvidia.com/blog/korea-secure-agentic-ai/)
+  - [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
   - [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/)
 - righto.com
   - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
@@ -161,19 +168,23 @@
   - [CVE-2026-96146](https://vulners.com/nvd/NVD:CVE-2026-96146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://vulners.com/thn/THN:6F49BCBE870819F702CE16ECBD613801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)
   - [Welcome to Weed Island](https://www.wired.com/story/welcome-to-weed-island-jersey/)
 - 不安全
   - [Can a really good hacker actually hack almost any website, or does it mostly come down to luck?](https://buaq.net/go-453548.html)
   - [Debugging a boot loop on Acer Veriton VGN100](https://buaq.net/go-453543.html)
   - [Playing with the STM32MP2](https://buaq.net/go-453540.html)
   - [Windows 11新版注册表编辑器引起讨论 微软回应称相关程序仅是示例 非真实项目](https://buaq.net/go-453542.html)
+  - [字节继续整个AI产品到豆包办公：TRAE中国版账号体系升级为豆包飞书账号](https://buaq.net/go-453572.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Asahi Linux 从 MIT 许可证切换到 GPL 许可证](https://www.solidot.org/story?sid=85832)
+  - [脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman](https://www.solidot.org/story?sid=85834)
 - 爱范儿
   - [M6 MacBook Pro 体验：38 块的灵魂，一万五的身体](https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微信 AI 录音笔体验：手机都能装的办公神器，免费！](https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [币安赵长鹏：经历失窃后行业“将更安全”](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E8%B5%B5%E9%95%BF%E9%B9%8F-%E7%BB%8F%E5%8E%86%E5%A4%B1%E7%AA%83%E5%90%8E%E8%A1%8C%E4%B8%9A-%E5%B0%86%E6%9B%B4%E5%AE%89%E5%85%A8)
