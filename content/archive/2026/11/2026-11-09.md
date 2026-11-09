@@ -42,10 +42,17 @@
   - [Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/)
 - Kali Linux Tutorials
   - [Inside the Sandbox of Mobile Contactless Checkout](https://kalilinuxtutorials.com/inside-the-sandbox-of-mobile-contactless-checkout/)
+- NVIDIA AI Blog
+  - [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/)
+  - [Korea Advances Physical AI Across Industries With NVIDIA](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/)
+  - [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](https://blogs.nvidia.com/blog/korea-secure-agentic-ai/)
+  - [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/)
 - righto.com
   - [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html)
 - simonwillison.net
+  - [Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/)
   - [parse_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/)
+  - [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/)
 - TechCrunch
   - [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
   - [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
@@ -84,6 +91,9 @@
   - [CVE-2026-103320 IBM WebSphere Application Server Liberty prior to 26.0.0.11 is affected by multiple vulnerabilities](https://vulners.com/cvelist/CVELIST:CVE-2026-103320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109899](https://vulners.com/nvd/NVD:CVE-2026-109899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109900](https://vulners.com/nvd/NVD:CVE-2026-109900?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113362](https://vulners.com/cve/CVE-2026-113362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113362](https://vulners.com/cvelist/CVELIST:CVE-2026-113362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113362](https://vulners.com/nvd/NVD:CVE-2026-113362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114186](https://vulners.com/nvd/NVD:CVE-2026-114186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114188](https://vulners.com/nvd/NVD:CVE-2026-114188?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114189](https://vulners.com/nvd/NVD:CVE-2026-114189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -99,6 +109,11 @@
   - [CVE-2026-124509](https://vulners.com/nvd/NVD:CVE-2026-124509?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124554](https://vulners.com/nvd/NVD:CVE-2026-124554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124555](https://vulners.com/nvd/NVD:CVE-2026-124555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124561](https://vulners.com/nvd/NVD:CVE-2026-124561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124562](https://vulners.com/nvd/NVD:CVE-2026-124562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124563](https://vulners.com/nvd/NVD:CVE-2026-124563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124564](https://vulners.com/nvd/NVD:CVE-2026-124564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124610](https://vulners.com/nvd/NVD:CVE-2026-124610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12735](https://vulners.com/nvd/NVD:CVE-2026-12735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12737](https://vulners.com/nvd/NVD:CVE-2026-12737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14375](https://vulners.com/nvd/NVD:CVE-2026-14375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
