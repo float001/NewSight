@@ -5,6 +5,7 @@
   - [【竞猜】](https://2libra.com/post/game-discussion/NlSITX2)
   - [【运动打卡】第 2️⃣4️⃣天，继续锻炼](https://2libra.com/post/sports/8AemH2K)
   - [【非蠢即坏 2】远离「搅屎棍」：不怕没好事，就怕没好人 💩💩💩](https://2libra.com/post/mental-health/mwNW9Ui)
+  - [免密支付固然方便，但仍旧还是要花钱，如果有人能发明免费支付，那才是一定能造福全人类。](https://2libra.com/post/idea/3yunNCg)
   - [周末做了一个 3D 动物游戏 🦁](https://2libra.com/post/personal-works/NtVpIcH)
   - [恭喜恭喜](https://2libra.com/post/forum-function/bNuQNHt)
   - [有没有 3 个月瘦 20 斤的方法](https://2libra.com/post/questions/XNFE-te)
@@ -27,11 +28,16 @@
   - [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
   - [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc)
   - [Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
+  - [The Qlobe: Rotating Quine (2010)](http://mamememo.blogspot.com/2010/09/qlobe.html)
 - HackerNoon
   - [Building Reliable iOS Apps With AI Agents](https://hackernoon.com/building-reliable-ios-apps-with-ai-agents?source=rss)
   - [iOS Startup Performance in Practice, Part 2: Measuring App Launch Time in Production](https://hackernoon.com/ios-startup-performance-in-practice-part-2-measuring-app-launch-time-in-production?source=rss)
   - [Marketers Are BURNED OUT -  And No One Gives AF](https://hackernoon.com/marketers-are-burned-out-and-no-one-gives-af?source=rss)
   - [Octopus v2: Vehicle Function Examples](https://hackernoon.com/octopus-v2-vehicle-function-examples?source=rss)
+- hasherezade's 1001 nights
+  - [Debugging a boot loop on Acer Veriton VGN100](https://hshrzd.wordpress.com/2026/11/09/debugging-a-boot-loop-on-acer-veriton-vgn100/)
+- Horizon3.ai
+  - [Metrics That Matter: Are We Becoming Harder to Attack?](https://horizon3.ai/intelligence/infographics/ctem-metrics-that-matter/)
 - johndcook.com
   - [Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/)
 - Kali Linux Tutorials
@@ -50,6 +56,7 @@
   - [SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’](https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/)
   - [TechCrunch Mobility: The Cybertruck experiment is over](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/)
 - The Block
+  - [Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal](https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047)
   - [Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story](https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034)
   - [Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets](https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029)
   - [What is Zcash (ZEC)? How shielded transactions work](https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779)
@@ -127,10 +134,15 @@
   - [CVE-2026-95867](https://vulners.com/nvd/NVD:CVE-2026-95867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96146](https://vulners.com/nvd/NVD:CVE-2026-96146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
+  - [Can a really good hacker actually hack almost any website, or does it mostly come down to luck?](https://buaq.net/go-453548.html)
+  - [Debugging a boot loop on Acer Veriton VGN100](https://buaq.net/go-453543.html)
   - [Playing with the STM32MP2](https://buaq.net/go-453540.html)
   - [Windows 11新版注册表编辑器引起讨论 微软回应称相关程序仅是示例 非真实项目](https://buaq.net/go-453542.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [M6 MacBook Pro 体验：38 块的灵魂，一万五的身体](https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [微信 AI 录音笔体验：手机都能装的办公神器，免费！](https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [币安赵长鹏：经历失窃后行业“将更安全”](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E8%B5%B5%E9%95%BF%E9%B9%8F-%E7%BB%8F%E5%8E%86%E5%A4%B1%E7%AA%83%E5%90%8E%E8%A1%8C%E4%B8%9A-%E5%B0%86%E6%9B%B4%E5%AE%89%E5%85%A8)
