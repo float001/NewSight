@@ -2,11 +2,14 @@
 
 - 2Libra
   - [BLG 打赢 T1，飞科终于倒在了 4 强。](https://2libra.com/post/game-discussion/zj5RZwB)
+  - [【投票】大家在用的社区主题是哪些呢？ 20/33](https://2libra.com/post/forum-function/0MZ2VjD)
+  - [【投票】大家在用的社区主题是哪些呢？ 21/33](https://2libra.com/post/forum-function/QbPFLau)
   - [【油猴脚本】2libra 评论消耗计算及最佳徽章推荐](https://2libra.com/post/forum-function/LoFrwAQ)
   - [【竞猜】](https://2libra.com/post/game-discussion/NlSITX2)
   - [【运动打卡】第 2️⃣4️⃣天，继续锻炼](https://2libra.com/post/sports/8AemH2K)
   - [【非蠢即坏 2】远离「搅屎棍」：不怕没好事，就怕没好人 💩💩💩](https://2libra.com/post/mental-health/mwNW9Ui)
   - [免密支付固然方便，但仍旧还是要花钱，如果有人能发明免费支付，那才是一定能造福全人类。](https://2libra.com/post/idea/3yunNCg)
+  - [刚注册了 muse，求个邀请码](https://2libra.com/post/invite-code/i2vVYpv)
   - [周末做了一个 3D 动物游戏 🦁](https://2libra.com/post/personal-works/NtVpIcH)
   - [大黄叔出轨了](https://2libra.com/post/hotspot-tracking/K-IFji7)
   - [恭喜恭喜](https://2libra.com/post/forum-function/bNuQNHt)
@@ -20,13 +23,19 @@
   - [降温了，下雪了，你们那里开始供暖了吗？](https://2libra.com/post/personal-life/v3FeJUR)
   - [颈椎贪吃蛇](https://2libra.com/post/game-share/6wznAfB)
   - [黄仁勋出轨马斯克](https://2libra.com/post/hotspot-tracking/mEkt7AT)
+- Articles | InfoStealers
+  - [Corium: A New ClickFix Panel Shows How Malware Delivery Is Becoming a Turnkey Business](https://www.infostealers.com/article/corium-a-new-clickfix-panel-shows-how-malware-delivery-is-becoming-a-turnkey-business/)
 - CoinTelegraph
   - [Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June](https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash devs propose another block time cut days after NU7 upgrade](https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [A developer creates a script that monitors your RAM usage and emails Altman about it](https://cybernews.com/news/ram-altman-script-github/)
+  - [Former FBI agent stole $2.5M in crypto to fund new life abroad](https://cybernews.com/news/former-fbi-agent-stole-millions-moved-portual/)
   - [Huang “deeply sorry” for cheating on his wife, but Nvidia wants to know if his mistress is a spy](https://cybernews.com/news/nvidia-probe-huang-affair/)
+  - [Pro-Kremlin group leaks EU officials’ private data, offers bounties for more info on family members](https://cybernews.com/security/noname057-eu-officials-doxxing/)
+  - [Three suspects arrested for AI-powered impersonation scheme costing victims $129M](https://cybernews.com/news/ai-powered-impersonation-scheme/)
   - [Who Gives A Crap knows where you live – and now hackers do too](https://cybernews.com/news/who-gives-crap-data-breach/)
 - daringfireball.net
   - [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI)
@@ -54,6 +63,8 @@
   - [Debugging a boot loop on Acer Veriton VGN100](https://hshrzd.wordpress.com/2026/11/09/debugging-a-boot-loop-on-acer-veriton-vgn100/)
 - Horizon3.ai
   - [Metrics That Matter: Are We Becoming Harder to Attack?](https://horizon3.ai/intelligence/infographics/ctem-metrics-that-matter/)
+- infosecurity-magazine.com
+  - [Anti-Money Laundering Watchdog FATF Targets Scam Compounds](https://www.infosecurity-magazine.com/news/aml-watchdog-fatf-scam-compounds/)
 - johndcook.com
   - [Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/)
 - Kali Linux Tutorials
@@ -182,12 +193,15 @@
   - [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://vulners.com/thn/THN:6F49BCBE870819F702CE16ECBD613801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center](https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/)
+  - [DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office](https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/)
+  - [I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found](https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/)
   - [Welcome to Weed Island](https://www.wired.com/story/welcome-to-weed-island-jersey/)
 - 不安全
   - [Can a really good hacker actually hack almost any website, or does it mostly come down to luck?](https://buaq.net/go-453548.html)
   - [Debugging a boot loop on Acer Veriton VGN100](https://buaq.net/go-453543.html)
   - [Playing with the STM32MP2](https://buaq.net/go-453540.html)
   - [Windows 11新版注册表编辑器引起讨论 微软回应称相关程序仅是示例 非真实项目](https://buaq.net/go-453542.html)
+  - [双 11 大促！150+ 款正版软件低至 6 折，AdGuard、Typora、PixPin、思源笔记、Mole 等…](https://buaq.net/go-453591.html)
   - [字节继续整个AI产品到豆包办公：TRAE中国版账号体系升级为豆包飞书账号](https://buaq.net/go-453572.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -200,9 +214,11 @@
   - [微信 AI 录音笔体验：手机都能装的办公神器，免费！](https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级](https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了](https://www.qbitai.com/2026/11/508694.html)
   - [叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕](https://www.qbitai.com/2026/11/508690.html)
   - [腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满](https://www.qbitai.com/2026/11/507843.html)
 - 黑海洋
+  - [三星芯片“秘方”被曝外泄，核心工艺数据流向供应商](https://blog.upx8.com/%E4%B8%89%E6%98%9F%E8%8A%AF%E7%89%87-%E7%A7%98%E6%96%B9-%E8%A2%AB%E6%9B%9D%E5%A4%96%E6%B3%84-%E6%A0%B8%E5%BF%83%E5%B7%A5%E8%89%BA%E6%95%B0%E6%8D%AE%E6%B5%81%E5%90%91%E4%BE%9B%E5%BA%94%E5%95%86)
   - [币安赵长鹏：经历失窃后行业“将更安全”](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E8%B5%B5%E9%95%BF%E9%B9%8F-%E7%BB%8F%E5%8E%86%E5%A4%B1%E7%AA%83%E5%90%8E%E8%A1%8C%E4%B8%9A-%E5%B0%86%E6%9B%B4%E5%AE%89%E5%85%A8)
