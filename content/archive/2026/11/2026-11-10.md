@@ -2,14 +2,26 @@
 
 - 2Libra
   - [【投票·💰】除了支付宝和微信支付，你还会经常用别的支付方式吗](https://2libra.com/post/social-observation/GOb3bNO)
+  - [这几天又看了一遍天道，感触很深，把丁元英给蒸馏开源了](https://2libra.com/post/prompts/RpNOPH7)
 - ByteByteGo
   - [How LinkedIn Uses AI to Review 40,000 Pull Requests a Week](https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000)
 - CERT Recently Published Vulnerability Notes
   - [VU#188754: FrodoBots EarthRover Mini+ firmware contains multiple vulnerabilities](https://kb.cert.org/vuls/id/188754)
+- Chainalysis Blog
+  - [Western Europe’s $2 Trillion Crypto Economy Holds Firm](https://www.chainalysis.com/blog/western-europe-crypto-adoption-2026/)
+- CoinTelegraph
+  - [Avalanche’s AVAX leads crypto gains following NYSE tokenization deal](https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [PNC Bank tests turning USDC payments into dollar deposits](https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Google’s “zero-day”: Attackers say they have access to Gmail even after password change](https://cybernews.com/security/gmail-access-password-change/)
+- daringfireball.net
+  - [Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj)
+- darkreading
+  - [PwC's CISO on AI, Robots &amp; What's Next for Security](https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security)
 - Hacker News Frontpage
   - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
+  - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
 - infosecurity-magazine.com
   - [Jailbroken AI Agent Ran Two-Week Attack on European Telecom](https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/)
 - johndcook.com
@@ -19,6 +31,7 @@
 - TechCrunch
   - [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
   - [Medium’s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
+  - [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)
   - [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/)
 - The Block
   - [Coinbase and PNC Bank expand partnership with USDC payments for corporate clients](https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466)
@@ -26,7 +39,9 @@
 - The Decoder
   - [Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire](https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/)
 - The Verge
+  - [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
   - [Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage](https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage)
+  - [The future of AI hinges on… Jensen Huang’s sex life?](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me)
   - [Uber wants to park your car now, too](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis)
 - Vulners.com RSS Feed
   - [CVE-2025-10248](https://vulners.com/cve/CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
