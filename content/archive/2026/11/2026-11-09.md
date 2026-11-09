@@ -2,6 +2,7 @@
 
 - 2Libra
   - [BLG 打赢 T1，飞科终于倒在了 4 强。](https://2libra.com/post/game-discussion/zj5RZwB)
+  - [【油猴脚本】2libra 评论消耗计算及最佳徽章推荐](https://2libra.com/post/forum-function/LoFrwAQ)
   - [【竞猜】](https://2libra.com/post/game-discussion/NlSITX2)
   - [【运动打卡】第 2️⃣4️⃣天，继续锻炼](https://2libra.com/post/sports/8AemH2K)
   - [【非蠢即坏 2】远离「搅屎棍」：不怕没好事，就怕没好人 💩💩💩](https://2libra.com/post/mental-health/mwNW9Ui)
@@ -9,6 +10,7 @@
   - [周末做了一个 3D 动物游戏 🦁](https://2libra.com/post/personal-works/NtVpIcH)
   - [大黄叔出轨了](https://2libra.com/post/hotspot-tracking/K-IFji7)
   - [恭喜恭喜](https://2libra.com/post/forum-function/bNuQNHt)
+  - [想在家里安装挂画、镜子、洞洞板等涉及到在墙壁打孔的操作，除了啄木鸟还有哪些渠道可以找到靠谱的师傅](https://2libra.com/post/recommendations/BmH4iIT)
   - [有没有 3 个月瘦 20 斤的方法](https://2libra.com/post/questions/XNFE-te)
   - [电脑突然卡的要命-罪魁或搜居然是搜狗输入法](https://2libra.com/post/software-tools/dlNuzE9)
   - [记录下自己的跑步合集，欢迎讨论关于记录打卡、跑步知识、装备分享。以及一些碎碎念](https://2libra.com/post/sports/FTHvyAU)
@@ -22,6 +24,8 @@
   - [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI)
   - [Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L)
   - [OurCal](https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou)
+- defend.network
+  - [Claude Code leaks 1,122 repos; Paint RCE patched; PHP flaws threaten 70% of web](https://defend.network/briefings/claude-code-credentials-github-paint-rce-php-flaws-2026-11-09.html)
 - Hacker News Frontpage
   - [Ads in Popular Apps Give Police a Powerful Tool to Spy on Users](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
   - [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
@@ -117,6 +121,9 @@
   - [CVE-2026-124562](https://vulners.com/nvd/NVD:CVE-2026-124562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124563](https://vulners.com/nvd/NVD:CVE-2026-124563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124564](https://vulners.com/nvd/NVD:CVE-2026-124564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124569](https://vulners.com/nvd/NVD:CVE-2026-124569?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124570](https://vulners.com/nvd/NVD:CVE-2026-124570?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124571](https://vulners.com/nvd/NVD:CVE-2026-124571?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124610](https://vulners.com/nvd/NVD:CVE-2026-124610?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12735](https://vulners.com/nvd/NVD:CVE-2026-12735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12737](https://vulners.com/nvd/NVD:CVE-2026-12737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -152,6 +159,9 @@
   - [CVE-2026-76052](https://vulners.com/nvd/NVD:CVE-2026-76052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95867](https://vulners.com/nvd/NVD:CVE-2026-95867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96146](https://vulners.com/nvd/NVD:CVE-2026-96146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://vulners.com/thn/THN:6F49BCBE870819F702CE16ECBD613801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Welcome to Weed Island](https://www.wired.com/story/welcome-to-weed-island-jersey/)
 - 不安全
   - [Can a really good hacker actually hack almost any website, or does it mostly come down to luck?](https://buaq.net/go-453548.html)
   - [Debugging a boot loop on Acer Veriton VGN100](https://buaq.net/go-453543.html)
@@ -159,6 +169,8 @@
   - [Windows 11新版注册表编辑器引起讨论 微软回应称相关程序仅是示例 非真实项目](https://buaq.net/go-453542.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Asahi Linux 从 MIT 许可证切换到 GPL 许可证](https://www.solidot.org/story?sid=85832)
 - 爱范儿
   - [M6 MacBook Pro 体验：38 块的灵魂，一万五的身体](https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微信 AI 录音笔体验：手机都能装的办公神器，免费！](https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=)
