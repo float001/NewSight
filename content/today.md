@@ -1,7 +1,12 @@
 # 今日安全资讯（2026-11-09）
 
 - 2Libra
+  - [BLG 打赢 T1，飞科终于倒在了 4 强。](https://2libra.com/post/game-discussion/zj5RZwB)
+  - [【运动打卡】第 2️⃣4️⃣天，继续锻炼](https://2libra.com/post/sports/8AemH2K)
   - [【非蠢即坏 2】远离「搅屎棍」：不怕没好事，就怕没好人 💩💩💩](https://2libra.com/post/mental-health/mwNW9Ui)
+  - [周末做了一个 3D 动物游戏 🦁](https://2libra.com/post/personal-works/NtVpIcH)
+  - [恭喜恭喜](https://2libra.com/post/forum-function/bNuQNHt)
+  - [记录贴，这一个月我用 Claude 的心得分享](https://2libra.com/post/ai-tools/kOixNgu)
   - [降温了，下雪了，你们那里开始供暖了吗？](https://2libra.com/post/personal-life/v3FeJUR)
 - CoinTelegraph
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -115,4 +120,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [M6 MacBook Pro 体验：38 块的灵魂，一万五的身体](https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
