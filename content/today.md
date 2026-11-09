@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-11-09）
 
+- 2Libra
+  - [【非蠢即坏 2】远离「搅屎棍」：不怕没好事，就怕没好人 💩💩💩](https://2libra.com/post/mental-health/mwNW9Ui)
+  - [降温了，下雪了，你们那里开始供暖了吗？](https://2libra.com/post/personal-life/v3FeJUR)
 - CoinTelegraph
   - [Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest](https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -71,6 +74,10 @@
   - [CVE-2026-120113](https://vulners.com/nvd/NVD:CVE-2026-120113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120115](https://vulners.com/nvd/NVD:CVE-2026-120115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120858](https://vulners.com/nvd/NVD:CVE-2026-120858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124499](https://vulners.com/nvd/NVD:CVE-2026-124499?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124500](https://vulners.com/nvd/NVD:CVE-2026-124500?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124501](https://vulners.com/nvd/NVD:CVE-2026-124501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124502](https://vulners.com/nvd/NVD:CVE-2026-124502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12735](https://vulners.com/nvd/NVD:CVE-2026-12735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12737](https://vulners.com/nvd/NVD:CVE-2026-12737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-14375](https://vulners.com/nvd/NVD:CVE-2026-14375?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -107,3 +114,5 @@
   - [CVE-2026-96146](https://vulners.com/nvd/NVD:CVE-2026-96146?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
