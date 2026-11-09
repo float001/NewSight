@@ -8,19 +8,26 @@
 - CERT Recently Published Vulnerability Notes
   - [VU#188754: FrodoBots EarthRover Mini+ firmware contains multiple vulnerabilities](https://kb.cert.org/vuls/id/188754)
 - Chainalysis Blog
+  - [Sanctioned Canadian Crypto OTCs Served Iran and Drug Cartels](https://www.chainalysis.com/blog/ofac-canadian-otcs/)
   - [Western Europe’s $2 Trillion Crypto Economy Holds Firm](https://www.chainalysis.com/blog/western-europe-crypto-adoption-2026/)
 - CoinTelegraph
   - [Avalanche’s AVAX leads crypto gains following NYSE tokenization deal](https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals](https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [PNC Bank tests turning USDC payments into dollar deposits](https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Google’s “zero-day”: Attackers say they have access to Gmail even after password change](https://cybernews.com/security/gmail-access-password-change/)
 - daringfireball.net
   - [Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj)
 - darkreading
+  - [Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux](https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux)
   - [PwC's CISO on AI, Robots &amp; What's Next for Security](https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security)
 - Hacker News Frontpage
   - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
+  - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
+  - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
+  - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
+  - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
   - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
 - infosecurity-magazine.com
   - [Jailbroken AI Agent Ran Two-Week Attack on European Telecom](https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/)
@@ -30,24 +37,45 @@
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
+  - [Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny](https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/)
   - [Medium’s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
   - [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)
   - [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/)
 - The Block
   - [Coinbase and PNC Bank expand partnership with USDC payments for corporate clients](https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466)
+  - [Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute](https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739)
   - [StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market](https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464)
 - The Decoder
+  - [Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift](https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/)
   - [Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire](https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/)
 - The Verge
+  - [Instagram’s Effect Builder makes new filters from AI prompts](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
   - [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
   - [Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage](https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage)
   - [The future of AI hinges on… Jensen Huang’s sex life?](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me)
   - [Uber wants to park your car now, too](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis)
+  - [You can grab three months of Game Pass Ultimate for under $20 per month](https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale)
 - Vulners.com RSS Feed
   - [CVE-2025-10248](https://vulners.com/cve/CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-10248](https://vulners.com/nvd/NVD:CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118492](https://vulners.com/cve/CVE-2026-118492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118492](https://vulners.com/nvd/NVD:CVE-2026-118492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119755](https://vulners.com/nvd/NVD:CVE-2026-119755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119756](https://vulners.com/nvd/NVD:CVE-2026-119756?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123270](https://vulners.com/nvd/NVD:CVE-2026-123270?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123367](https://vulners.com/nvd/NVD:CVE-2026-123367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123368](https://vulners.com/nvd/NVD:CVE-2026-123368?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123369](https://vulners.com/nvd/NVD:CVE-2026-123369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123370](https://vulners.com/nvd/NVD:CVE-2026-123370?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123371](https://vulners.com/nvd/NVD:CVE-2026-123371?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123372](https://vulners.com/nvd/NVD:CVE-2026-123372?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123373](https://vulners.com/nvd/NVD:CVE-2026-123373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123796](https://vulners.com/nvd/NVD:CVE-2026-123796?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123797](https://vulners.com/nvd/NVD:CVE-2026-123797?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125063](https://vulners.com/nvd/NVD:CVE-2026-125063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19706](https://vulners.com/nvd/NVD:CVE-2026-19706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60117](https://vulners.com/nvd/NVD:CVE-2026-60117?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-84503](https://vulners.com/nvd/NVD:CVE-2026-84503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/0801EB22-0CFD-5703-954C-CC68BB7760AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
