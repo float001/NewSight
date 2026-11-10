@@ -9,6 +9,7 @@
   - [冬天来了，有没有抹的男士面霜推荐](https://2libra.com/post/worth-buying/dpUCrmj)
   - [捅了“多写多说”窝了](https://2libra.com/post/forum-function/Y5kPuxv)
   - [漫剧杀死太多了](https://2libra.com/post/movie-sharing/kYpeZy0)
+  - [盗版动漫 GG 了吗？](https://2libra.com/post/movie-resources/hkIrquE)
   - [继微信输入法之后，苹果自带输入法也被爆出有内置敏感词清单](https://2libra.com/post/hotspot-tracking/S2AR0dI)
   - [自 2026 年 11 月 18 日起，TRAE 账号将自动升级为豆包飞书账号](https://2libra.com/post/ai-updates/7UlHf5B)
   - [自己开的 oc-go 套餐用不完，准备送点 token 当福利](https://2libra.com/post/vibe-coding/9_RPWX7)
@@ -38,7 +39,12 @@
   - [Securitize agrees to buy River One to expand into asset-backed lending](https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Should you leave Australia to avoid paying 47% tax on crypto gains?](https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Cybernews Spotlight Awards at CES 2027](https://cybernews.com/awards/cybernews-spotlight-awards-at-ces/)
+  - [Dutch military police officer accused of stealing crypto from traveler](https://cybernews.com/news/ex-marechaussee-investigator-crypto-theft/)
   - [Google’s “zero-day”: Attackers say they have access to Gmail even after password change](https://cybernews.com/security/gmail-access-password-change/)
+  - [Healthcare company faces $10M penalty over failure to protect patient data](https://cybernews.com/news/pja-healthcare-data-breach-penalty/)
+  - [Nvidia H200 chips approved for Chinese firms linked to sanctioned entities](https://cybernews.com/tech/nvidia-h200-chips-approved-chinese-firms-sanctioned-entities/)
+  - [US security firm N-able pulls the plug on N-central, its key platform, following disclosure of 33 zero-days](https://cybernews.com/security/n-central-offline-after-33-zero-day-vulnerabilities-disclosed/)
 - daringfireball.net
   - [[Sponsor] WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein](https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026)
   - [Bloomberg Was Onto Megaspeed’s Game a Year Ago](https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us)
@@ -78,6 +84,8 @@
   - [FORGE Lab uses agentic tools to identify memory safety issues in Rust](https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/)
 - MIT Technology Review
   - [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)
+- OpenAI Blog
+  - [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)
 - Recent Commits to cve:main
   - [Update Mon Nov  9 21:15:30 UTC 2026](https://github.com/trickest/cve/commit/2f3d58bd834e05b4a653d75a02ed29db2a3efabd)
 - rtl-sdr.com
@@ -88,6 +96,7 @@
   - [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/)
   - [Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-125399](https://sploitus.com/exploit?id=CEC802B9-223C-507F-A9B2-DA338AA89C93&utm_source=rss&utm_medium=rss)
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)
@@ -110,6 +119,7 @@
   - [Uber launches parking service following SpotHero acquisition, with an eye on robotaxis](https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/)
   - [YouTube streaming data returns to Billboard charts, ending major disagreement](https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/)
 - The Block
+  - [BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains](https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986)
   - [Coinbase and PNC Bank expand partnership with USDC payments for corporate clients](https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466)
   - [Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures](https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971)
   - [Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair](https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898)
@@ -140,6 +150,7 @@
 - troyhunt.com
   - [Weekly Update 529: Kids Social Media Bans (and Everything Else)](https://www.troyhunt.com/weekly-update-529/)
 - Vulners.com RSS Feed
+  - [Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark](https://vulners.com/thn/THN:A6154A3E80B604F247015ED11F23C4A0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-10248](https://vulners.com/cve/CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-10248](https://vulners.com/nvd/NVD:CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104676](https://vulners.com/cve/CVE-2026-104676?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -262,6 +273,7 @@
   - [CVE-2026-125405](https://vulners.com/nvd/NVD:CVE-2026-125405?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-125406](https://vulners.com/cve/CVE-2026-125406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-125406](https://vulners.com/nvd/NVD:CVE-2026-125406?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125652](https://vulners.com/nvd/NVD:CVE-2026-125652?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12963](https://vulners.com/cve/CVE-2026-12963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12963](https://vulners.com/nvd/NVD:CVE-2026-12963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12964](https://vulners.com/cve/CVE-2026-12964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -303,6 +315,7 @@
   - [CVE-2026-88710](https://vulners.com/nvd/NVD:CVE-2026-88710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9063](https://vulners.com/cve/CVE-2026-9063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9063](https://vulners.com/nvd/NVD:CVE-2026-9063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-125399](https://vulners.com/githubexploit/CEC802B9-223C-507F-A9B2-DA338AA89C93?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [November 06, 2026—KB5135582 (Monthly Rollup) Out-of-band](https://vulners.com/mskb/KB5135582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/0801EB22-0CFD-5703-954C-CC68BB7760AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
@@ -344,3 +357,5 @@
   - [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产](https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产](https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [绿盟科技深度参与2026年网络和数据安全产业论坛，多维呈现AI安全产业价值](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%b7%b1%e5%ba%a6%e5%8f%82%e4%b8%8e2026%e5%b9%b4%e7%bd%91%e7%bb%9c%e5%92%8c%e6%95%b0%e6%8d%ae%e5%ae%89%e5%85%a8%e4%ba%a7%e4%b8%9a%e8%ae%ba%e5%9d%9b%ef%bc%8c/)
