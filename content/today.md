@@ -3,6 +3,8 @@
 - 2Libra
   - [【投票·💰】除了支付宝和微信支付，你还会经常用别的支付方式吗](https://2libra.com/post/social-observation/GOb3bNO)
   - [关于把混沌徽章刷掉了这回事](https://2libra.com/post/forum-function/bdkoLK5)
+  - [冬天来了，有没有抹的男士面霜推荐](https://2libra.com/post/worth-buying/dpUCrmj)
+  - [捅了“多写多说”窝了](https://2libra.com/post/forum-function/Y5kPuxv)
   - [这几天又看了一遍天道，感触很深，把丁元英给蒸馏开源了](https://2libra.com/post/prompts/RpNOPH7)
 - 404 Media
   - [Dad Asked 6-Year-Old Daughter if ‘She Had the Gun’ Before He Left Her in Line for Pokémon Cards](https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/)
@@ -55,6 +57,7 @@
 - infosecurity-magazine.com
   - [Jailbroken AI Agent Ran Two-Week Attack on European Telecom](https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/)
 - johndcook.com
+  - [Combinatorial designs](https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/)
   - [Steiner Systems](https://www.johndcook.com/blog/2026/11/09/steiner-systems/)
 - Microsoft Security Blog
   - [FORGE Lab uses agentic tools to identify memory safety issues in Rust](https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/)
@@ -69,6 +72,7 @@
   - [AI hardware startup Nominal triples valuation to $3B in 8 months](https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/)
   - [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
   - [Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)
+  - [Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)
   - [Fervo now has $12B in orders for its geothermal power tech](https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/)
   - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
   - [Hotel giant Wyndham exposed customer data after app security lapse](https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/)
@@ -234,9 +238,12 @@
   - [The 9 Best TV Shows to Stream This Month (November 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
   - [The Home Depot Best Early Black Friday Deals (2026)](https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/)
   - [Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work](https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/)
+- 不安全
+  - [Unbarred: VIZIO Elevate SE Soundbar App Replacement](https://buaq.net/go-453754.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产](https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产](https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=)
