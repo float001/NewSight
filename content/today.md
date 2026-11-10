@@ -27,6 +27,7 @@
 - CyberNews
   - [Google’s “zero-day”: Attackers say they have access to Gmail even after password change](https://cybernews.com/security/gmail-access-password-change/)
 - daringfireball.net
+  - [Bloomberg Was Onto Megaspeed’s Game a Year Ago](https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us)
   - [Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy - the New York Times](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj)
   - [Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf)
   - [Tesla Brain Drain](https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/)
@@ -44,6 +45,7 @@
   - [Infineon marks innovation milestone with 300mm power silicon carbide wafer](https://www.infineon.com/press-release/2026/infpr202611-028)
   - [Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)
   - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
+  - [Tracking the Harm of DOGE Cuts](https://www.clasp.org/doge-tracker/)
   - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/)
 - HackerNoon
   - [Sleep Tech Needs to Prove More Than a Change in Brain Waves](https://hackernoon.com/sleep-tech-needs-to-prove-more-than-a-change-in-brain-waves?source=rss)
@@ -68,6 +70,7 @@
   - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
   - [Hotel giant Wyndham exposed customer data after app security lapse](https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/)
   - [Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy](https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/)
+  - [Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago](https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/)
   - [Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny](https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/)
   - [Medium’s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
   - [Meta releases Muse Ember, a new lightweight model for agent execution](https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/)
@@ -87,6 +90,8 @@
   - [Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do](https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/)
 - The Verge
   - [Apple’s $50 Intelligence Usage Packs extend access to some AI features](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
+  - [Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
+  - [Here’s what Trump said he knew about Jensen Huang](https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference)
   - [Instagram’s Effect Builder makes new filters from AI prompts](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
   - [James Gunn is out as DC movie leader](https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving)
   - [MSI’s refurbished QD-OLED gaming monitor is on sale for under $300](https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale)
@@ -94,6 +99,7 @@
   - [The future of AI hinges on… Jensen Huang’s sex life?](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me)
   - [The global pledge to use AI for climate good is a cruel joke](https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31)
   - [Uber wants to park your car now, too](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis)
+  - [What could China get from Jensen Huang?](https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang)
   - [You can grab three months of Game Pass Ultimate for under $20 per month](https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale)
 - Vulners.com RSS Feed
   - [CVE-2025-10248](https://vulners.com/cve/CVE-2025-10248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -165,6 +171,7 @@
   - [CVE-2026-84503](https://vulners.com/nvd/NVD:CVE-2026-84503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87857](https://vulners.com/cve/CVE-2026-87857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87857](https://vulners.com/nvd/NVD:CVE-2026-87857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [November 06, 2026—KB5135582 (Monthly Rollup) Out-of-band](https://vulners.com/mskb/KB5135582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/0801EB22-0CFD-5703-954C-CC68BB7760AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The 9 Best TV Shows to Stream This Month (November 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
