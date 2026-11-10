@@ -30,7 +30,9 @@
   - [Western Europe’s $2 Trillion Crypto Economy Holds Firm](https://www.chainalysis.com/blog/western-europe-crypto-adoption-2026/)
 - CoinTelegraph
   - [Avalanche’s AVAX leads crypto gains following NYSE tokenization deal](https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance warns iOS flaw could expose crypto wallet keys](https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target](https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures](https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing](https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Formation Securities plans Solana stock trading venue under SEC exemption](https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -67,6 +69,10 @@
   - [Iris Ohyama data breach may expose personal information of 7.7 million people](https://securityaffairs.com/202740/data-breach/iris-ohyama-data-breach-may-expose-personal-information-of-7-7-million-people.html)
 - defend.network
   - [CISA KEV: OpenSSH auth bypass, IBM Aspera RCE; Qubole AWS breach; N-able 30+ zero-days](https://defend.network/briefings/cisa-kev-openssh-qubole-aws-ncentral-exploits-2026-11-10.html)
+- dfarq.homeip.net
+  - [Novell’s lawsuits with Microsoft](https://dfarq.homeip.net/novells-lawsuits-with-microsoft/?utm_source=rss&utm_medium=rss&utm_campaign=novells-lawsuits-with-microsoft)
+- Emergent Minds | paddo.dev
+  - [Marked Down for Being Right: Claude Fable 5.2 vs Opus 5.5 on Real Code](https://paddo.dev/blog/fable-5-2-vs-opus-5-5/)
 - Hacker News Frontpage
   - [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
   - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
@@ -90,6 +96,7 @@
   - [Binance Investigates ShinyHunters Breach Claims](https://www.infosecurity-magazine.com/news/binance-investigates-shinyhunters/)
   - [France Blames Iran for Supermarket Fridge Hack, Requests International Arrest Warrants](https://www.infosecurity-magazine.com/news/france-blames-iran-supermarket/)
   - [Jailbroken AI Agent Ran Two-Week Attack on European Telecom](https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/)
+  - [Vanderbilt University Takes Systems Offline After Cyber Incident](https://www.infosecurity-magazine.com/news/vanderbilt-university-cyber/)
 - johndcook.com
   - [Combinatorial designs](https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/)
   - [Steiner Systems](https://www.johndcook.com/blog/2026/11/09/steiner-systems/)
@@ -100,6 +107,7 @@
 - OpenAI Blog
   - [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)
 - Recent Commits to cve:main
+  - [Fix Trickest signup URL in README](https://github.com/trickest/cve/commit/736983848483e516bb0d30bbbb90bc0c3c5b324e)
   - [Update Mon Nov  9 21:15:30 UTC 2026](https://github.com/trickest/cve/commit/2f3d58bd834e05b4a653d75a02ed29db2a3efabd)
 - rtl-sdr.com
   - [Decoding TETRA Voice on a Retevis C62 Handheld with Custom OpenRTX Firmware](https://www.rtl-sdr.com/decoding-tetra-voice-on-a-retevis-c62-handheld-with-custom-openrtx-firmware/)
@@ -139,6 +147,7 @@
   - [Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair](https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898)
   - [Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute](https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739)
   - [Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss](https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012)
+  - [HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows](https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177)
   - [MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans](https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950)
   - [NEAR AI says SGLang vulnerability exposed user account details in security breach](https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002)
   - [Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement](https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955)
@@ -344,6 +353,7 @@
   - [A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure](https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/)
   - [Babbel Promo Code: Up to 65% Off in November 2026](https://www.wired.com/story/babbel-promo-code/)
   - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)
+  - [Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/)
   - [Bose Promo Code: 40% Off for November 2026](https://www.wired.com/story/bose-coupon-code/)
   - [Braun Promo Codes: 15% Off November 2026](https://www.wired.com/story/braun-promo-code/)
   - [Breville Promo Code: $700 Off | November 2026](https://www.wired.com/story/breville-promo-code/)
@@ -352,6 +362,7 @@
   - [Dyson Promo Codes: 25% Off in November 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
   - [Jensen Huang’s Troubles Leave the AI Industry Reeling](https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/)
+  - [Louis Rossmann Wants More People to Care About the Right to Repair](https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/)
   - [Naturepedic Promo Codes: Get 20% Off Plus Free Pillows](https://www.wired.com/story/naturepedic-promo-code/)
   - [Office Depot Coupons: $20 Off November 2026](https://www.wired.com/story/office-depot-promo-codes/)
   - [Rover Promo Codes and Referral Deals for November 2026](https://www.wired.com/story/rover-promo-code/)
