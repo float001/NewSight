@@ -3,13 +3,17 @@
 - 2Libra
   - [20261110 移动领 1-9 元话费](https://2libra.com/post/deal-hunter/z1Vs_rQ)
   - [【投票·💰】除了支付宝和微信支付，你还会经常用别的支付方式吗](https://2libra.com/post/social-observation/GOb3bNO)
+  - [【💰】月旦评：我又用 ai 跑了一个点评历史人物点评小站](https://2libra.com/post/personal-works/2NKHn7b)
   - [一些事物的运行](https://2libra.com/post/workplace-stories/87VUPzz)
   - [关于把混沌徽章刷掉了这回事](https://2libra.com/post/forum-function/bdkoLK5)
   - [冬天来了，有没有抹的男士面霜推荐](https://2libra.com/post/worth-buying/dpUCrmj)
   - [捅了“多写多说”窝了](https://2libra.com/post/forum-function/Y5kPuxv)
   - [漫剧杀死太多了](https://2libra.com/post/movie-sharing/kYpeZy0)
   - [继微信输入法之后，苹果自带输入法也被爆出有内置敏感词清单](https://2libra.com/post/hotspot-tracking/S2AR0dI)
+  - [自 2026 年 11 月 18 日起，TRAE 账号将自动升级为豆包飞书账号](https://2libra.com/post/ai-updates/7UlHf5B)
+  - [自己开的 oc-go 套餐用不完，准备送点 token 当福利](https://2libra.com/post/vibe-coding/9_RPWX7)
   - [这几天又看了一遍天道，感触很深，把丁元英给蒸馏开源了](https://2libra.com/post/prompts/RpNOPH7)
+  - [问一下，大家都是做编程的吗？](https://2libra.com/post/questions/wiRtHMs)
 - 404 Media
   - [Dad Asked 6-Year-Old Daughter if ‘She Had the Gun’ Before He Left Her in Line for Pokémon Cards](https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/)
 - Ars Technica
@@ -31,6 +35,7 @@
   - [Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals](https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [North Korean hackers create memecoins to launder funds from Binance hack: Elliptic](https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [PNC Bank tests turning USDC payments into dollar deposits](https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Securitize agrees to buy River One to expand into asset-backed lending](https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Should you leave Australia to avoid paying 47% tax on crypto gains?](https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Google’s “zero-day”: Attackers say they have access to Gmail even after password change](https://cybernews.com/security/gmail-access-password-change/)
@@ -80,6 +85,7 @@
   - [ESP-WiFi-Jam-Detector: A Standalone 2.4 and 5 GHz Interference Detector Built on an ESP32-C5 Touchscreen Board](https://www.rtl-sdr.com/esp-wifi-jam-detector-a-standalone-2-4-and-5-ghz-interference-detector-built-on-an-esp32-c5-touchscreen-board/)
   - [SDR-Receiver: A Native macOS SDR App with 25+ Decoders, Now Including Loran-C / eLoran](https://www.rtl-sdr.com/sdr-receiver-a-native-macos-sdr-app-with-25-decoders-now-including-loran-c-eloran/)
 - simonwillison.net
+  - [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/)
   - [Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
@@ -332,6 +338,7 @@
 - 奇客Solidot–传递最新科技情报
   - [FDA 警告 GLP-1 减肥药可能增加突然失明风险](https://www.solidot.org/story?sid=85843)
   - [法国称伊朗黑客组织攻击了超市的制冷控制器](https://www.solidot.org/story?sid=85842)
+  - [科学家在碲化锰观察到交替磁性证据](https://www.solidot.org/story?sid=85844)
 - 爱范儿
   - [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=)
