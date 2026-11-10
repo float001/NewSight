@@ -7,6 +7,7 @@
   - [关于把混沌徽章刷掉了这回事](https://2libra.com/post/forum-function/bdkoLK5)
   - [冬天来了，有没有抹的男士面霜推荐](https://2libra.com/post/worth-buying/dpUCrmj)
   - [捅了“多写多说”窝了](https://2libra.com/post/forum-function/Y5kPuxv)
+  - [漫剧杀死太多了](https://2libra.com/post/movie-sharing/kYpeZy0)
   - [继微信输入法之后，苹果自带输入法也被爆出有内置敏感词清单](https://2libra.com/post/hotspot-tracking/S2AR0dI)
   - [这几天又看了一遍天道，感触很深，把丁元英给蒸馏开源了](https://2libra.com/post/prompts/RpNOPH7)
 - 404 Media
@@ -74,6 +75,8 @@
   - [Decoding TETRA Voice on a Retevis C62 Handheld with Custom OpenRTX Firmware](https://www.rtl-sdr.com/decoding-tetra-voice-on-a-retevis-c62-handheld-with-custom-openrtx-firmware/)
   - [ESP-WiFi-Jam-Detector: A Standalone 2.4 and 5 GHz Interference Detector Built on an ESP32-C5 Touchscreen Board](https://www.rtl-sdr.com/esp-wifi-jam-detector-a-standalone-2-4-and-5-ghz-interference-detector-built-on-an-esp32-c5-touchscreen-board/)
   - [SDR-Receiver: A Native macOS SDR App with 25+ Decoders, Now Including Loran-C / eLoran](https://www.rtl-sdr.com/sdr-receiver-a-native-macos-sdr-app-with-25-decoders-now-including-loran-c-eloran/)
+- simonwillison.net
+  - [Quoting Prompting Claude Fable 5.2](https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -82,6 +85,7 @@
   - [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
   - [Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)
   - [Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)
+  - [California’s proposed ‘billionaire tax’ fails to pass](https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/)
   - [Fervo now has $12B in orders for its geothermal power tech](https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/)
   - [France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks](https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/)
   - [Hotel giant Wyndham exposed customer data after app security lapse](https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/)
@@ -255,9 +259,24 @@
   - [nuclei-templates](https://vulners.com/gitee/0801EB22-0CFD-5703-954C-CC68BB7760AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure](https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/)
+  - [Babbel Promo Code: Up to 65% Off in November 2026](https://www.wired.com/story/babbel-promo-code/)
+  - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)
+  - [Bose Promo Code: 40% Off for November 2026](https://www.wired.com/story/bose-coupon-code/)
+  - [Braun Promo Codes: 15% Off November 2026](https://www.wired.com/story/braun-promo-code/)
+  - [Breville Promo Code: $700 Off | November 2026](https://www.wired.com/story/breville-promo-code/)
+  - [Casetify Promo Codes | 15% Off November 2026](https://www.wired.com/story/casetify-promo-code/)
+  - [Chirp Discount Codes: 67% Off](https://www.wired.com/story/chirp-discount-code/)
+  - [Dyson Promo Codes: 25% Off in November 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+  - [H&R Block Coupon: 25% Off DIY + Tax Pro Assist](https://www.wired.com/story/hr-block-coupon/)
   - [Jensen Huang’s Troubles Leave the AI Industry Reeling](https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/)
+  - [Naturepedic Promo Codes: Get 20% Off Plus Free Pillows](https://www.wired.com/story/naturepedic-promo-code/)
+  - [Office Depot Coupons: $20 Off November 2026](https://www.wired.com/story/office-depot-promo-codes/)
+  - [Rover Promo Codes and Referral Deals for November 2026](https://www.wired.com/story/rover-promo-code/)
+  - [Sam's Club Promo Codes and Membership Deals for November 2026](https://www.wired.com/story/sams-club-coupon/)
+  - [Sealy Promo Codes: $100 Off](https://www.wired.com/story/sealy-promo-code/)
   - [The 9 Best TV Shows to Stream This Month (November 2026)](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
   - [The Home Depot Best Early Black Friday Deals (2026)](https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/)
+  - [Valvoline Coupons and Promo Codes for November 2026](https://www.wired.com/story/valvoline-coupons/)
   - [Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work](https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/)
 - 不安全
   - [ESP-WiFi-Jam-Detector: A Standalone 2.4 and 5 GHz Interference Detector Built on an ESP32-C5 Touchscreen Board](https://buaq.net/go-453777.html)
@@ -268,6 +287,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [net.ipv4.conf.default.rp_filter](https://dyrnq.com/net-ipv4-conf-default-rp_filter/)
+- 奇客Solidot–传递最新科技情报
+  - [法国称伊朗黑客组织攻击了超市的制冷控制器](https://www.solidot.org/story?sid=85842)
 - 爱范儿
   - [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=)
