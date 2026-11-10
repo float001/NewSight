@@ -47,6 +47,7 @@
 - Hacker News Frontpage
   - [A year after the 100% AI mandate nobody understands our code](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/)
   - [Commerce Dept Inquiry into Megaspeed Halted After Nvdia Intervention](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html)
+  - [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
   - [CUI – Native UI components for C](https://yappologistic.github.io/CUI/)
   - [DeepX claims inference up to 100B parameters at less than 5 W](https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/)
   - [Horible Public Key Tricks](https://maurycyz.com/projects/badcert/)
@@ -70,6 +71,8 @@
   - [Update Mon Nov  9 21:15:30 UTC 2026](https://github.com/trickest/cve/commit/2f3d58bd834e05b4a653d75a02ed29db2a3efabd)
 - rtl-sdr.com
   - [Decoding TETRA Voice on a Retevis C62 Handheld with Custom OpenRTX Firmware](https://www.rtl-sdr.com/decoding-tetra-voice-on-a-retevis-c62-handheld-with-custom-openrtx-firmware/)
+  - [ESP-WiFi-Jam-Detector: A Standalone 2.4 and 5 GHz Interference Detector Built on an ESP32-C5 Touchscreen Board](https://www.rtl-sdr.com/esp-wifi-jam-detector-a-standalone-2-4-and-5-ghz-interference-detector-built-on-an-esp32-c5-touchscreen-board/)
+  - [SDR-Receiver: A Native macOS SDR App with 25+ Decoders, Now Including Loran-C / eLoran](https://www.rtl-sdr.com/sdr-receiver-a-native-macos-sdr-app-with-25-decoders-now-including-loran-c-eloran/)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -96,6 +99,7 @@
   - [MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans](https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950)
   - [Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement](https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955)
   - [StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market](https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464)
+  - [Trump Media swings to $410 million profit in Q3, driven by crypto gains](https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964)
 - The Decoder
   - [Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift](https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/)
   - [Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO](https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/)
@@ -253,9 +257,14 @@
   - [The Home Depot Best Early Black Friday Deals (2026)](https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/)
   - [Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work](https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/)
 - 不安全
+  - [ESP-WiFi-Jam-Detector: A Standalone 2.4 and 5 GHz Interference Detector Built on an ESP32-C5 Touchscreen Board](https://buaq.net/go-453777.html)
+  - [SDR-Receiver: A Native macOS SDR App with 25+ Decoders, Now Including Loran-C / eLoran](https://buaq.net/go-453778.html)
   - [Unbarred: VIZIO Elevate SE Soundbar App Replacement](https://buaq.net/go-453754.html)
+  - [玩游戏连按Shift总弹出粘滞键提示？微软终于要在Windows 11中提供关闭选项](https://buaq.net/go-453782.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [net.ipv4.conf.default.rp_filter](https://dyrnq.com/net-ipv4-conf-default-rp_filter/)
 - 爱范儿
   - [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=)
