@@ -9,26 +9,45 @@
   - [The Shadow Market Behind China’s AI Model Distillation Boom](https://www.chainalysis.com/blog/chinese-ai-proxy-services/)
 - CoinTelegraph
   - [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Polymarket US trading volume jumps 266% despite regulatory battles](https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling)
   - [Regarding Graveyards and Indispensable Men](https://www.youtube.com/watch?v=vydmUCGQnyI)
   - [Steven Levy on John Ternus](https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/)
+- experimental-history.com
+  - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 - Google DeepMind Blog
   - [Gemini 4 Carbon is now available](https://deepmind.google/blog/gemini-4-carbon-is-now-available/)
+- GuidePoint Security
+  - [CMMC: Understanding the DifferenceBetween a POA&M and an OPA](https://www.guidepointsecurity.com/blog/understanding-poam-and-opa/)
 - Hacker News Frontpage
   - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
   - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
   - [Tailscale's DNS IPv6 spells out "Tailscale"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 - infosecurity-magazine.com
   - [CISA Expands Incident Reporting Form While CIRCIA Mandate Waits](https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/)
+- pluralistic.net
+  - [Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)](https://pluralistic.net/2026/11/10/worst-of-all-worlds/)
 - TechCrunch
+  - [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
   - [Apple TV makes sign language interpretation a built-in accessibility feature](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
   - [Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI](https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/)
 - The Block
   - [Alta raises $47.5 million Series A to build a blockchain for financial institutions](https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244)
   - [Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump](https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252)
+  - [Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%](https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277)
+  - [TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet](https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278)
+- The Decoder
+  - [Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot](https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/)
 - The Verge
+  - [Ableton Live 13 announced with a step sequencer, new drum synth, and more](https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw)
+  - [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)
+  - [ChatGPT is getting verified AI ‘Business Agents’](https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub)
   - [eBay appears to have shut the door on third-party AI agents](https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping)
+  - [Google Fi is bringing back multiple cell network support for better coverage](https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel)
   - [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout)
+  - [The indie game community is in disarray over AI and Big Walk](https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai)
   - [The Verge’s 2026 holiday gift guide for moms](https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026)
 - Vulners.com RSS Feed
   - [CVE-2026-111244](https://vulners.com/nvd/NVD:CVE-2026-111244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -77,6 +96,8 @@
   - [CVE-2026-97881](https://vulners.com/nvd/NVD:CVE-2026-97881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97888](https://vulners.com/nvd/NVD:CVE-2026-97888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97890](https://vulners.com/nvd/NVD:CVE-2026-97890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- wheresyoured.at
+  - [Jensen's Bizarre Adventure](https://www.wheresyoured.at/jensens-bizarre-adventure/)
 - Wired
   - [‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP](https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/)
 - 代码审计星球
