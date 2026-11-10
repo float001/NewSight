@@ -3,6 +3,8 @@
 - Ars Technica
   - [High oil prices have led to a dip in global carbon emissions](https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/)
   - [One space station company sues another for copying its work](https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/)
+- berthub.eu
+  - [Revisiting Leander v Sweden and Big Brother Watch](https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/)
 - ByteByteGo
   - [How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time](https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot)
 - Chainalysis Blog
@@ -31,6 +33,7 @@
   - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
   - [Starlink Mini 2](https://starlink.com/mini-2)
   - [Tailscale's DNS IPv6 spells out "Tailscale"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
+  - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
 - infosecurity-magazine.com
   - [CISA Expands Incident Reporting Form While CIRCIA Mandate Waits](https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/)
 - Linux Foundation Blogs
@@ -38,18 +41,22 @@
 - pluralistic.net
   - [Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)](https://pluralistic.net/2026/11/10/worst-of-all-worlds/)
 - TechCrunch
+  - [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
   - [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
   - [Apple TV makes sign language interpretation a built-in accessibility feature](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
   - [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
+  - [Oura to acquire AI-native primary care startup Counsel Health for $625M](https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/)
   - [Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available](https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/)
   - [PSI is trying to make a business out of AI-driven scientific discovery](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/)
   - [Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI](https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/)
 - The Block
   - [Alta raises $47.5 million Series A to build a blockchain for financial institutions](https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244)
+  - [Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k](https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301)
   - [Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump](https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252)
   - [Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%](https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277)
   - [TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet](https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278)
 - The Decoder
+  - [Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes](https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/)
   - [Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet](https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/)
   - [Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot](https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/)
   - [Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot](https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/)
@@ -61,7 +68,9 @@
   - [Google Fi is bringing back multiple cell network support for better coverage](https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel)
   - [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout)
   - [One of our favorite multi-filament 3D printers is $100 off](https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale)
+  - [Starlink Mini 2 adds a swappable battery](https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery)
   - [The indie game community is in disarray over AI and Big Walk](https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai)
+  - [The PlayStation Plus PC app is shutting down next month](https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down)
   - [The Verge’s 2026 holiday gift guide for moms](https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026)
 - Vulners.com RSS Feed
   - [CVE-2026-111244](https://vulners.com/nvd/NVD:CVE-2026-111244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
