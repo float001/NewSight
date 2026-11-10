@@ -3,6 +3,7 @@
 - 2Libra
   - [20261110 移动领 1-9 元话费](https://2libra.com/post/deal-hunter/z1Vs_rQ)
   - [【投票·💰】除了支付宝和微信支付，你还会经常用别的支付方式吗](https://2libra.com/post/social-observation/GOb3bNO)
+  - [【💰】8000 预算求笔记本推荐](https://2libra.com/post/computers-accessories/V2Wbsat)
   - [【💰】月旦评：我又用 ai 跑了一个点评历史人物点评小站](https://2libra.com/post/personal-works/2NKHn7b)
   - [一些事物的运行](https://2libra.com/post/workplace-stories/87VUPzz)
   - [关于把混沌徽章刷掉了这回事](https://2libra.com/post/forum-function/bdkoLK5)
@@ -76,6 +77,7 @@
 - HackerNoon
   - [Sleep Tech Needs to Prove More Than a Change in Brain Waves](https://hackernoon.com/sleep-tech-needs-to-prove-more-than-a-change-in-brain-waves?source=rss)
 - infosecurity-magazine.com
+  - [Binance Investigates ShinyHunters Breach Claims](https://www.infosecurity-magazine.com/news/binance-investigates-shinyhunters/)
   - [Jailbroken AI Agent Ran Two-Week Attack on European Telecom](https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/)
 - johndcook.com
   - [Combinatorial designs](https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/)
@@ -128,6 +130,7 @@
   - [Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement](https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955)
   - [StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market](https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464)
   - [Trump Media swings to $410 million profit in Q3, driven by crypto gains](https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964)
+  - [Walt expands beyond Telegram with standalone crypto trading app](https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981)
 - The Decoder
   - [Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift](https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/)
   - [Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO](https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/)
@@ -357,5 +360,7 @@
   - [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产](https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产](https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？](https://www.ifanr.com/1688755?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [特努斯施压 Siri 掌门人，苹果 AI 不能再等了](https://www.ifanr.com/1688570?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [绿盟科技深度参与2026年网络和数据安全产业论坛，多维呈现AI安全产业价值](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%b7%b1%e5%ba%a6%e5%8f%82%e4%b8%8e2026%e5%b9%b4%e7%bd%91%e7%bb%9c%e5%92%8c%e6%95%b0%e6%8d%ae%e5%ae%89%e5%85%a8%e4%ba%a7%e4%b8%9a%e8%ae%ba%e5%9d%9b%ef%bc%8c/)
