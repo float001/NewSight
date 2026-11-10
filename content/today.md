@@ -1,10 +1,13 @@
 # 今日安全资讯（2026-11-10）
 
 - 2Libra
+  - [20261110 移动领 1-9 元话费](https://2libra.com/post/deal-hunter/z1Vs_rQ)
   - [【投票·💰】除了支付宝和微信支付，你还会经常用别的支付方式吗](https://2libra.com/post/social-observation/GOb3bNO)
+  - [一些事物的运行](https://2libra.com/post/workplace-stories/87VUPzz)
   - [关于把混沌徽章刷掉了这回事](https://2libra.com/post/forum-function/bdkoLK5)
   - [冬天来了，有没有抹的男士面霜推荐](https://2libra.com/post/worth-buying/dpUCrmj)
   - [捅了“多写多说”窝了](https://2libra.com/post/forum-function/Y5kPuxv)
+  - [继微信输入法之后，苹果自带输入法也被爆出有内置敏感词清单](https://2libra.com/post/hotspot-tracking/S2AR0dI)
   - [这几天又看了一遍天道，感触很深，把丁元英给蒸馏开源了](https://2libra.com/post/prompts/RpNOPH7)
 - 404 Media
   - [Dad Asked 6-Year-Old Daughter if ‘She Had the Gun’ Before He Left Her in Line for Pokémon Cards](https://www.404media.co/dad-asked-6-year-old-daughter-if-she-had-the-gun-before-he-left-her-in-line-for-pokemon-cards/)
@@ -65,6 +68,8 @@
   - [The backlash about data centers might really just be about electricity](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)
 - Recent Commits to cve:main
   - [Update Mon Nov  9 21:15:30 UTC 2026](https://github.com/trickest/cve/commit/2f3d58bd834e05b4a653d75a02ed29db2a3efabd)
+- rtl-sdr.com
+  - [Decoding TETRA Voice on a Retevis C62 Handheld with Custom OpenRTX Firmware](https://www.rtl-sdr.com/decoding-tetra-voice-on-a-retevis-c62-handheld-with-custom-openrtx-firmware/)
 - Sploitus.com Exploits RSS Feed
   - [nuclei-templates exploit](https://sploitus.com/exploit?id=0801EB22-0CFD-5703-954C-CC68BB7760AF&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -89,6 +94,7 @@
   - [Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair](https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898)
   - [Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute](https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739)
   - [MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans](https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950)
+  - [Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement](https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955)
   - [StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market](https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464)
 - The Decoder
   - [Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift](https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/)
@@ -231,6 +237,14 @@
   - [CVE-2026-84503](https://vulners.com/nvd/NVD:CVE-2026-84503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87857](https://vulners.com/cve/CVE-2026-87857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87857](https://vulners.com/nvd/NVD:CVE-2026-87857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88707](https://vulners.com/cve/CVE-2026-88707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88707](https://vulners.com/nvd/NVD:CVE-2026-88707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88708](https://vulners.com/cve/CVE-2026-88708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88708](https://vulners.com/nvd/NVD:CVE-2026-88708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88709](https://vulners.com/cve/CVE-2026-88709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88709](https://vulners.com/nvd/NVD:CVE-2026-88709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88710](https://vulners.com/cve/CVE-2026-88710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88710](https://vulners.com/nvd/NVD:CVE-2026-88710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [November 06, 2026—KB5135582 (Monthly Rollup) Out-of-band](https://vulners.com/mskb/KB5135582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [nuclei-templates](https://vulners.com/gitee/0801EB22-0CFD-5703-954C-CC68BB7760AF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
