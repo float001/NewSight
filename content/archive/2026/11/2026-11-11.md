@@ -10,11 +10,16 @@
 - CoinTelegraph
   - [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Mercado Bitcoin to resume cash withdrawals after $49M hack](https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US trading volume jumps 266% despite regulatory battles](https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [“Customer data leaked”: AI agents cause a security nightmare for companies](https://cybernews.com/ai-news/gravitee-agents-security/)
 - daringfireball.net
   - [Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling)
   - [Regarding Graveyards and Indispensable Men](https://www.youtube.com/watch?v=vydmUCGQnyI)
   - [Steven Levy on John Ternus](https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/)
+- darkreading
+  - [AI Coding Agents Leak Thousands of Secrets to GitHub](https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github)
 - experimental-history.com
   - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 - Google DeepMind Blog
@@ -24,14 +29,20 @@
 - Hacker News Frontpage
   - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
   - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
+  - [Starlink Mini 2](https://starlink.com/mini-2)
   - [Tailscale's DNS IPv6 spells out "Tailscale"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 - infosecurity-magazine.com
   - [CISA Expands Incident Reporting Form While CIRCIA Mandate Waits](https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/)
+- Linux Foundation Blogs
+  - [The AI Security Gap Hiding in Routine Maintenance](https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance)
 - pluralistic.net
   - [Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)](https://pluralistic.net/2026/11/10/worst-of-all-worlds/)
 - TechCrunch
   - [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
   - [Apple TV makes sign language interpretation a built-in accessibility feature](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
+  - [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
+  - [Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available](https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/)
+  - [PSI is trying to make a business out of AI-driven scientific discovery](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/)
   - [Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI](https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/)
 - The Block
   - [Alta raises $47.5 million Series A to build a blockchain for financial institutions](https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244)
@@ -39,7 +50,9 @@
   - [Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%](https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277)
   - [TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet](https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278)
 - The Decoder
+  - [Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet](https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/)
   - [Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot](https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/)
+  - [Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot](https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/)
 - The Verge
   - [Ableton Live 13 announced with a step sequencer, new drum synth, and more](https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw)
   - [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)
@@ -47,6 +60,7 @@
   - [eBay appears to have shut the door on third-party AI agents](https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping)
   - [Google Fi is bringing back multiple cell network support for better coverage](https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel)
   - [Google releases Gemini 4 Carbon with agent ‘swarm’ feature](https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout)
+  - [One of our favorite multi-filament 3D printers is $100 off](https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale)
   - [The indie game community is in disarray over AI and Big Walk](https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai)
   - [The Verge’s 2026 holiday gift guide for moms](https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026)
 - Vulners.com RSS Feed
@@ -83,6 +97,51 @@
   - [CVE-2026-125758](https://vulners.com/nvd/NVD:CVE-2026-125758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-125759](https://vulners.com/nvd/NVD:CVE-2026-125759?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18128](https://vulners.com/nvd/NVD:CVE-2026-18128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-42956](https://vulners.com/nvd/NVD:CVE-2026-42956?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44624](https://vulners.com/nvd/NVD:CVE-2026-44624?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44625](https://vulners.com/nvd/NVD:CVE-2026-44625?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-44685](https://vulners.com/nvd/NVD:CVE-2026-44685?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-49036](https://vulners.com/nvd/NVD:CVE-2026-49036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50175](https://vulners.com/nvd/NVD:CVE-2026-50175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-50249](https://vulners.com/nvd/NVD:CVE-2026-50249?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-52899](https://vulners.com/nvd/NVD:CVE-2026-52899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55709](https://vulners.com/nvd/NVD:CVE-2026-55709?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55716](https://vulners.com/nvd/NVD:CVE-2026-55716?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56432](https://vulners.com/nvd/NVD:CVE-2026-56432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56435](https://vulners.com/nvd/NVD:CVE-2026-56435?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56440](https://vulners.com/nvd/NVD:CVE-2026-56440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-56759](https://vulners.com/nvd/NVD:CVE-2026-56759?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57882](https://vulners.com/nvd/NVD:CVE-2026-57882?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57890](https://vulners.com/nvd/NVD:CVE-2026-57890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57891](https://vulners.com/nvd/NVD:CVE-2026-57891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57892](https://vulners.com/nvd/NVD:CVE-2026-57892?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-57893](https://vulners.com/nvd/NVD:CVE-2026-57893?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59771](https://vulners.com/nvd/NVD:CVE-2026-59771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60020](https://vulners.com/nvd/NVD:CVE-2026-60020?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60059](https://vulners.com/nvd/NVD:CVE-2026-60059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60071](https://vulners.com/nvd/NVD:CVE-2026-60071?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60133](https://vulners.com/nvd/NVD:CVE-2026-60133?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60138](https://vulners.com/nvd/NVD:CVE-2026-60138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60139](https://vulners.com/nvd/NVD:CVE-2026-60139?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60141](https://vulners.com/nvd/NVD:CVE-2026-60141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-60142](https://vulners.com/nvd/NVD:CVE-2026-60142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61377](https://vulners.com/nvd/NVD:CVE-2026-61377?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61383](https://vulners.com/nvd/NVD:CVE-2026-61383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61467](https://vulners.com/nvd/NVD:CVE-2026-61467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61468](https://vulners.com/nvd/NVD:CVE-2026-61468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61469](https://vulners.com/nvd/NVD:CVE-2026-61469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61470](https://vulners.com/nvd/NVD:CVE-2026-61470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61473](https://vulners.com/nvd/NVD:CVE-2026-61473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61887](https://vulners.com/nvd/NVD:CVE-2026-61887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62275](https://vulners.com/nvd/NVD:CVE-2026-62275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62920](https://vulners.com/nvd/NVD:CVE-2026-62920?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62929](https://vulners.com/nvd/NVD:CVE-2026-62929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62930](https://vulners.com/nvd/NVD:CVE-2026-62930?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63018](https://vulners.com/nvd/NVD:CVE-2026-63018?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63027](https://vulners.com/nvd/NVD:CVE-2026-63027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63028](https://vulners.com/nvd/NVD:CVE-2026-63028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63540](https://vulners.com/nvd/NVD:CVE-2026-63540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-79914](https://vulners.com/nvd/NVD:CVE-2026-79914?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86336](https://vulners.com/nvd/NVD:CVE-2026-86336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86531](https://vulners.com/nvd/NVD:CVE-2026-86531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-87758](https://vulners.com/nvd/NVD:CVE-2026-87758?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -96,6 +155,7 @@
   - [CVE-2026-97881](https://vulners.com/nvd/NVD:CVE-2026-97881?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97888](https://vulners.com/nvd/NVD:CVE-2026-97888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-97890](https://vulners.com/nvd/NVD:CVE-2026-97890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-99285](https://vulners.com/nvd/NVD:CVE-2026-99285?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Jensen's Bizarre Adventure](https://www.wheresyoured.at/jensens-bizarre-adventure/)
 - Wired
