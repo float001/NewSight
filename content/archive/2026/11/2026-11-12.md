@@ -2,12 +2,16 @@
 
 - 404 Media
   - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
+- Ars Technica
+  - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
 - ByteByteGo
   - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [SignDrop Windows CLFS Zero-Day Gives SYSTEM Access](https://www.cyberkendra.com/2026/11/signdrop-windows-clfs-zero-day-system-exploit.html)
+- Fidelis Security
+  - [Linux Kernel Use-After-Free Vulnerability: What’s Happening and Why It Matters](https://fidelissecurity.com/threatgeek/threat-detection-response/linux-kernel-use-after-free-vulnerability/)
 - Google AI Blog
   - [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/)
 - Hacker News Frontpage
@@ -15,18 +19,24 @@
   - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 - infosecurity-magazine.com
   - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
+  - [N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public](https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/)
   - [Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns](https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/)
 - Linux Foundation Blogs
   - [LF Research Launches 2027 Series of Studies and Opens Call for Sponsors](https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors)
   - [The Evolution of Commercial Open Source Software](https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software)
+- Publications | Outflank
+  - [A Decade of Evasion: Celebrating 10 Years of Outflank](https://www.outflank.nl/blog/2026/11/11/a-decade-of-evasion-celebrating-10-years-of-outflank/)
 - TechCrunch
   - [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
   - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
 - The Block
+  - [Apex Group joins Hedera Council to explore tokenization and settlement](https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917)
   - [Pyth Network adds NYSE stock and ETF data to its marketplace](https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928)
+  - [Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market](https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907)
   - [StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds](https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910)
 - The Verge
   - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+  - [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
 - Vulners.com RSS Feed
   - [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://vulners.com/thn/THN:A59F63D021CCA1E45552A10A931F2AF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100290](https://vulners.com/nvd/NVD:CVE-2026-100290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -35,6 +45,7 @@
   - [CVE-2026-124686](https://vulners.com/nvd/NVD:CVE-2026-124686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64855](https://vulners.com/nvd/NVD:CVE-2026-64855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)](https://www.wired.com/story/best-black-friday-deals-11-11-2026/)
   - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
