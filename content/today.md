@@ -3,6 +3,7 @@
 - 2Libra
   - [《罗小黑战记》点评：10 分｜罗小黑战记更新啦](https://2libra.com/post/animation-sharing/6EVPoNO)
   - [【新成就达成！】❤️温暖的人](https://2libra.com/post/forum-function/LM-bjBG)
+  - [【满血中转站推荐】，稳定号池不降智—免费白嫖 claude-opus-5-5, gpt-6.1-sol、 grok-4.7、deepseek-v4.1-flash](https://2libra.com/post/promotion/6ukqjD6)
   - [【竞猜】BLG vs GENG](https://2libra.com/post/hotspot-tracking/ysSG_gl)
   - [【运动打卡】今天做 HIIT 燃脂，身体好虚，做完好累](https://2libra.com/post/sports/3Drzqef)
   - [【💰】今天生日 🎂 鉴定大成功！心情真好](https://2libra.com/post/slacking-off/HQozpOb)
@@ -15,6 +16,7 @@
   - [哈基米 4 Carbon 上线了](https://2libra.com/post/large-models/q9lAmFt)
   - [好几个地方都在转发的 AI 游戏作品](https://2libra.com/post/sharing-discoveries/dmFZyrg)
   - [对于 SystemHelper 组件，大家是禁用还是卸载](https://2libra.com/post/operating-systems/jgSkt1S)
+  - [开发了一个算命网站](https://2libra.com/post/ai-applications/ajeiZhq)
   - [据说这些名字是中国使用最多的人名，其中有你的名字吗？](https://2libra.com/post/social-observation/PViV40p)
   - [日推到一首轻快悠闲的歌《Santorini》-Jasing Rye](https://2libra.com/post/music-sharing/LjMttnP)
   - [最近看到 x 上一堆人发 mygo，浅浅的尝试了一下，感觉很不错啊！](https://2libra.com/post/programming-languages/QtVrwP7)
@@ -128,8 +130,10 @@
   - [Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k](https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301)
   - [Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline](https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812)
   - [Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump](https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252)
+  - [Crosschain protocol Across restores systems after domain hijack](https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843)
   - [Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low](https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330)
   - [Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%](https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277)
+  - [Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering](https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837)
   - [New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps](https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828)
   - [TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet](https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278)
   - [Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows](https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786)
@@ -176,6 +180,7 @@
   - [CVE-2026-111260](https://vulners.com/nvd/NVD:CVE-2026-111260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111261](https://vulners.com/nvd/NVD:CVE-2026-111261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111597](https://vulners.com/nvd/NVD:CVE-2026-111597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112174](https://vulners.com/nvd/NVD:CVE-2026-112174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112191](https://vulners.com/nvd/NVD:CVE-2026-112191?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11315](https://vulners.com/nvd/NVD:CVE-2026-11315?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11316](https://vulners.com/nvd/NVD:CVE-2026-11316?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -250,7 +255,11 @@
   - [CVE-2026-124037](https://vulners.com/nvd/NVD:CVE-2026-124037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124038](https://vulners.com/nvd/NVD:CVE-2026-124038?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12424](https://vulners.com/nvd/NVD:CVE-2026-12424?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124250](https://vulners.com/nvd/NVD:CVE-2026-124250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124256](https://vulners.com/nvd/NVD:CVE-2026-124256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124257](https://vulners.com/nvd/NVD:CVE-2026-124257?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12427](https://vulners.com/nvd/NVD:CVE-2026-12427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124737](https://vulners.com/nvd/NVD:CVE-2026-124737?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-125297](https://vulners.com/nvd/NVD:CVE-2026-125297?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-125298](https://vulners.com/nvd/NVD:CVE-2026-125298?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-125747](https://vulners.com/nvd/NVD:CVE-2026-125747?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -417,11 +426,15 @@
   - [CVE-2026-99285](https://vulners.com/nvd/NVD:CVE-2026-99285?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-Q7J6-PX74-P2VW Microsoft Security Advisory CVE-2026-114155 - .NET Elevation of Privilege Vulnerability](https://vulners.com/osv_ghsa/OSV:GHSA-Q7J6-PX74-P2VW?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes](https://vulners.com/thn/THN:1847C39D5F7545F6CFC847E522559873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xss-lab](https://vulners.com/githubexploit/6BE3A62D-8B20-5462-A903-A66BBA7E350C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Jensen's Bizarre Adventure](https://www.wheresyoured.at/jensens-bizarre-adventure/)
 - Wired
+  - [A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks](https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/)
+  - [A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks](https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/)
   - [Best Buy Discount Codes: 60% Off](https://www.wired.com/story/best-buy-discount-code/)
   - [Best Early Amazon Black Friday Deals (2026)](https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/)
+  - [Early Black Friday Deals Under $100 (2026)](https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/)
   - [Factor Promo Code: 50% Off Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
   - [Google Workspace Promo Codes: 14% Off for November 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [Home Depot Promo Codes: 30% Off in November 2026](https://www.wired.com/story/home-depot-promo-code/)
@@ -448,6 +461,8 @@
 - 奇客Solidot–传递最新科技情报
   - [2026 年全球化石燃料碳排放量预计下降 0.4%](https://www.solidot.org/story?sid=85850)
   - [AMD 公布 Zen 6 CPU 细节](https://www.solidot.org/story?sid=85852)
+- 安全客
+  - [一个月内十几家AI平台被扒，黑客要的不是数据，是你的API密钥](https://www.anquanke.com/post/id/316461)
 - 爱范儿
   - [10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识](https://www.ifanr.com/1688897?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？](https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -457,3 +472,6 @@
 - 绿盟科技技术博客
   - [绿盟科技在2026年“人工智能+网络安全赋能应用专项评价”中荣获“AI创新实践单位”](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%9c%a82026%e5%b9%b4%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e8%b5%8b%e8%83%bd%e5%ba%94%e7%94%a8%e4%b8%93%e9%a1%b9/)
   - [绿盟科技智能体安全防护方案入选“中国企业级通用智能体安全解决方案”](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%96%b9%e6%a1%88%e5%85%a5%e9%80%89%e4%b8%ad%e5%9b%bd%e4%bc%81%e4%b8%9a%e7%ba%a7%e9%80%9a/)
+- 黑海洋
+  - [22 万部 AI 漫剧，1.3% 回本：一集 470 元，313 万播放才不亏](https://blog.upx8.com/22-AI-1-3-470-313)
+  - [个人零成本做 AI 漫剧 · 全流程 SOP](https://blog.upx8.com/AI-SOP)
