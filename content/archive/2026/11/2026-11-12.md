@@ -2,48 +2,114 @@
 
 - 404 Media
   - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
+  - [Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos](https://www.404media.co/scientists-discovered-an-invisible-object-in-space/)
 - Ars Technica
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
 - ByteByteGo
   - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [How to Audit Browser Extensions for Supply-Chain Risk](https://www.cyberkendra.com/2026/11/how-to-audit-browser-extensions-for-supply-chain-risk.html)
+  - [Node.js Security Update Fixes 16 Flaws, 7 High-Severity](https://www.cyberkendra.com/2026/11/nodejs-november-2026-security-update-16-cves.html)
   - [SignDrop Windows CLFS Zero-Day Gives SYSTEM Access](https://www.cyberkendra.com/2026/11/signdrop-windows-clfs-zero-day-system-exploit.html)
+- daringfireball.net
+  - [Austin Mann’s iPhone Duo Review](https://www.austinmann.com/trek/iphone-duo)
+  - [Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’](https://www.youtube.com/watch?v=cxjdVVVryC4)
+  - [‘Dangerous or Unusual’](https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3)
 - Fidelis Security
   - [Linux Kernel Use-After-Free Vulnerability: What’s Happening and Why It Matters](https://fidelissecurity.com/threatgeek/threat-detection-response/linux-kernel-use-after-free-vulnerability/)
 - Google AI Blog
   - [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/)
 - Hacker News Frontpage
   - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+  - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
+  - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
   - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 - infosecurity-magazine.com
   - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
   - [N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public](https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/)
   - [Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns](https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/)
+- krebsonsecurity.com
+  - [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
 - Linux Foundation Blogs
   - [LF Research Launches 2027 Series of Studies and Opens Call for Sponsors](https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors)
   - [The Evolution of Commercial Open Source Software](https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software)
 - Publications | Outflank
   - [A Decade of Evasion: Celebrating 10 Years of Outflank](https://www.outflank.nl/blog/2026/11/11/a-decade-of-evasion-celebrating-10-years-of-outflank/)
+- simonwillison.net
+  - [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/)
 - TechCrunch
   - [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
   - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+- terriblesoftware.org
+  - [Why Am I So Tired If AI Is Doing All the Work?](https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/)
 - The Block
   - [Apex Group joins Hedera Council to explore tokenization and settlement](https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917)
   - [Pyth Network adds NYSE stock and ETF data to its marketplace](https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928)
   - [Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market](https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907)
   - [StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds](https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910)
+- The Decoder
+  - [Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years](https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/)
 - The Verge
   - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+  - [Loot boxes, influencers, and addictive features face an EU crackdown](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection)
   - [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
 - Vulners.com RSS Feed
   - [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://vulners.com/thn/THN:A59F63D021CCA1E45552A10A931F2AF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100290](https://vulners.com/nvd/NVD:CVE-2026-100290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105440](https://vulners.com/nvd/NVD:CVE-2026-105440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106133](https://vulners.com/nvd/NVD:CVE-2026-106133?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106137](https://vulners.com/nvd/NVD:CVE-2026-106137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106152](https://vulners.com/nvd/NVD:CVE-2026-106152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106156](https://vulners.com/nvd/NVD:CVE-2026-106156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107247](https://vulners.com/nvd/NVD:CVE-2026-107247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107662](https://vulners.com/nvd/NVD:CVE-2026-107662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108558](https://vulners.com/nvd/NVD:CVE-2026-108558?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108559](https://vulners.com/nvd/NVD:CVE-2026-108559?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108560](https://vulners.com/nvd/NVD:CVE-2026-108560?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108561](https://vulners.com/nvd/NVD:CVE-2026-108561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108562](https://vulners.com/nvd/NVD:CVE-2026-108562?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108563](https://vulners.com/nvd/NVD:CVE-2026-108563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108564](https://vulners.com/nvd/NVD:CVE-2026-108564?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108565](https://vulners.com/nvd/NVD:CVE-2026-108565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115819](https://vulners.com/nvd/NVD:CVE-2026-115819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117373](https://vulners.com/nvd/NVD:CVE-2026-117373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123829 Node.js is vulnerable to Permission Model file-name disclosure via recursive fs.watch](https://vulners.com/cve/CVE-2026-123829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123829 Node.js is vulnerable to Permission Model file-name disclosure via recursive fs.watch](https://vulners.com/cvelist/CVELIST:CVE-2026-123829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123862 Node.js is vulnerable to a zlib denial of service via a stream destroy during a pending params() call](https://vulners.com/cve/CVE-2026-123862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123862 Node.js is vulnerable to a zlib denial of service via a stream destroy during a pending params() call](https://vulners.com/cvelist/CVELIST:CVE-2026-123862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124686](https://vulners.com/nvd/NVD:CVE-2026-124686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126766 OpsTree REMS through 1.0.0 Reporter Spoofing via /api/v1/incidents](https://vulners.com/cvelist/CVELIST:CVE-2026-126766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126767 OpsTree REMS through 1.0.0 Prompt Injection via RCA Chat Assistant](https://vulners.com/cvelist/CVELIST:CVE-2026-126767?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126768 OpsTree REMS through 1.0.0 Authentication Bypass via is_local_auth Flag](https://vulners.com/cve/CVE-2026-126768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126768 OpsTree REMS through 1.0.0 Authentication Bypass via is_local_auth Flag](https://vulners.com/cvelist/CVELIST:CVE-2026-126768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126769 OpsTree REMS through 1.0.0 Missing Authentication via /api/v1/databases Governance API](https://vulners.com/cve/CVE-2026-126769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126769 OpsTree REMS through 1.0.0 Missing Authentication via /api/v1/databases Governance API](https://vulners.com/cvelist/CVELIST:CVE-2026-126769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126770 OpsTree REMS through 1.0.0 SSRF via Database Test Connection](https://vulners.com/cve/CVE-2026-126770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126770 OpsTree REMS through 1.0.0 SSRF via Database Test Connection](https://vulners.com/cvelist/CVELIST:CVE-2026-126770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126771 OpsTree REMS through 1.0.0 Stored XSS via Attachment Upload and Preview](https://vulners.com/cve/CVE-2026-126771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126771 OpsTree REMS through 1.0.0 Stored XSS via Attachment Upload and Preview](https://vulners.com/cvelist/CVELIST:CVE-2026-126771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126772 OpsTree REMS through 1.0.0 Comment Author Spoofing via Incident Comment API](https://vulners.com/cve/CVE-2026-126772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126772 OpsTree REMS through 1.0.0 Comment Author Spoofing via Incident Comment API](https://vulners.com/cvelist/CVELIST:CVE-2026-126772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61619](https://vulners.com/nvd/NVD:CVE-2026-61619?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-62971](https://vulners.com/nvd/NVD:CVE-2026-62971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64855](https://vulners.com/nvd/NVD:CVE-2026-64855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64858](https://vulners.com/nvd/NVD:CVE-2026-64858?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-65820](https://vulners.com/nvd/NVD:CVE-2026-65820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68485](https://vulners.com/nvd/NVD:CVE-2026-68485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68486](https://vulners.com/nvd/NVD:CVE-2026-68486?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-68862](https://vulners.com/nvd/NVD:CVE-2026-68862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77168](https://vulners.com/nvd/NVD:CVE-2026-77168?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82978](https://vulners.com/nvd/NVD:CVE-2026-82978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86363](https://vulners.com/nvd/NVD:CVE-2026-86363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-86364](https://vulners.com/nvd/NVD:CVE-2026-86364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91870](https://vulners.com/nvd/NVD:CVE-2026-91870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91871](https://vulners.com/nvd/NVD:CVE-2026-91871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91872](https://vulners.com/nvd/NVD:CVE-2026-91872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91879](https://vulners.com/nvd/NVD:CVE-2026-91879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91890](https://vulners.com/nvd/NVD:CVE-2026-91890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)](https://www.wired.com/story/best-black-friday-deals-11-11-2026/)
   - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
