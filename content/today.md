@@ -11,6 +11,7 @@
   - [一打开论坛风扇会转 😭](https://2libra.com/post/community/moFmFTm)
   - [你们用过字节跳动的扣子 coze 吗?解散了](https://2libra.com/post/ai-trends/PwWwhpI)
   - [哈基米 4 Carbon 上线了](https://2libra.com/post/large-models/q9lAmFt)
+  - [好几个地方都在转发的 AI 游戏作品](https://2libra.com/post/sharing-discoveries/dmFZyrg)
   - [对于 SystemHelper 组件，大家是禁用还是卸载](https://2libra.com/post/operating-systems/jgSkt1S)
   - [据说这些名字是中国使用最多的人名，其中有你的名字吗？](https://2libra.com/post/social-observation/PViV40p)
   - [日推到一首轻快悠闲的歌《Santorini》-Jasing Rye](https://2libra.com/post/music-sharing/LjMttnP)
@@ -38,10 +39,13 @@
   - [Crypto ally Tom Emmer elected House GOP minority whip](https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Global banks commit $270M to stablecoin venture targeting 2027 launch](https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack](https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kimber Digital Securities gains broker-dealer status for tokenized assets](https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [LNbits rushes emergency patch after reported Bitcoin wallet thefts](https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin to resume cash withdrawals after $49M hack](https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US trading volume jumps 266% despite regulatory battles](https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack](https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [“Customer data leaked”: AI agents cause a security nightmare for companies](https://cybernews.com/ai-news/gravitee-agents-security/)
 - daniel.haxx.se
@@ -69,6 +73,7 @@
   - [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
   - [After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
   - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
+  - [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
   - [Starlink Mini 2](https://starlink.com/mini-2)
   - [Tailscale's DNS IPv6 spells out "Tailscale"](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
   - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
@@ -84,6 +89,8 @@
   - [SatHunterSDR: An Open-Source Android App for Hunting CubeSats with an RTL-SDR](https://www.rtl-sdr.com/sathuntersdr-an-open-source-android-app-for-hunting-cubesats-with-an-rtl-sdr/)
 - simonwillison.net
   - [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Unexpected Status Code or Return Value in Openbsd Openssh](https://sploitus.com/exploit?id=5882B152-99E5-5083-8C68-1A084F5B2978&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
   - [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
@@ -326,10 +333,24 @@
 - wheresyoured.at
   - [Jensen's Bizarre Adventure](https://www.wheresyoured.at/jensens-bizarre-adventure/)
 - Wired
+  - [Best Buy Discount Codes: 60% Off](https://www.wired.com/story/best-buy-discount-code/)
   - [Best Early Amazon Black Friday Deals (2026)](https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/)
+  - [Factor Promo Code: 50% Off Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
+  - [Google Workspace Promo Codes: 14% Off for November 2026](https://www.wired.com/story/google-workspace-promo-code/)
+  - [Home Depot Promo Codes: 30% Off in November 2026](https://www.wired.com/story/home-depot-promo-code/)
+  - [Noom Promo Codes: 50% Off Best Deals for November 2026](https://www.wired.com/story/noom-promo-code/)
+  - [NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026](https://www.wired.com/story/nordvpn-coupon/)
+  - [OnePlus Promo Codes: 30% Off November 2026](https://www.wired.com/story/oneplus-promo-code/)
+  - [Squarespace Promo Codes: 20% Off in November 2026](https://www.wired.com/story/squarespace-promo-code/)
+  - [T-Mobile Promo Codes: 25% Off | November 2026](https://www.wired.com/story/t-mobile-business-promo-code/)
+  - [Ulta Promo Codes: Up to 20% Off in November 2026](https://www.wired.com/story/ulta-coupon/)
+  - [Visible Promo Codes and Coupons for November 2026](https://www.wired.com/story/visible-promo-code/)
+  - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
   - [‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP](https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/)
 - 不安全
+  - [GitHub - IcyModz420/nfsu2-network-rce: NFS Underground 2 — Network Remote Code Execution (two heap overflow RCE vectors, CVSS 9.8)](https://buaq.net/go-454064.html)
   - [Steam商店开始显示游戏平均帧率 买前就能看到PC跑起来性能怎么样](https://buaq.net/go-454033.html)
+  - [微软宣布清退旧版Microsoft 365 E5开发者沙盒订阅 用户需要自行安排数据迁移](https://buaq.net/go-454069.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
