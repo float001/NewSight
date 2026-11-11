@@ -1,10 +1,40 @@
 # 今日安全资讯（2026-11-12）
 
+- 404 Media
+  - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
+- ByteByteGo
+  - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
+- CoinTelegraph
+  - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [SignDrop Windows CLFS Zero-Day Gives SYSTEM Access](https://www.cyberkendra.com/2026/11/signdrop-windows-clfs-zero-day-system-exploit.html)
 - Google AI Blog
   - [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/)
+- Hacker News Frontpage
+  - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+  - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 - infosecurity-magazine.com
+  - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
   - [Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns](https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/)
+- Linux Foundation Blogs
+  - [LF Research Launches 2027 Series of Studies and Opens Call for Sponsors](https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors)
+  - [The Evolution of Commercial Open Source Software](https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software)
+- TechCrunch
+  - [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
+  - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+- The Block
+  - [Pyth Network adds NYSE stock and ETF data to its marketplace](https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928)
+  - [StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds](https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910)
 - The Verge
   - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+- Vulners.com RSS Feed
+  - [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://vulners.com/thn/THN:A59F63D021CCA1E45552A10A931F2AF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-100290](https://vulners.com/nvd/NVD:CVE-2026-100290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-105440](https://vulners.com/nvd/NVD:CVE-2026-105440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115819](https://vulners.com/nvd/NVD:CVE-2026-115819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124686](https://vulners.com/nvd/NVD:CVE-2026-124686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64855](https://vulners.com/nvd/NVD:CVE-2026-64855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
