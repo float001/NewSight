@@ -29,6 +29,7 @@
 - Chainalysis Blog
   - [The Shadow Market Behind China’s AI Model Distillation Boom](https://www.chainalysis.com/blog/chinese-ai-proxy-services/)
 - CoinTelegraph
+  - [Across Protocol restores website after hackers hijack domain](https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Across Protocol warns users to avoid app amid reports of drained wallets](https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’](https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -260,6 +261,8 @@
   - [CVE-2026-61469](https://vulners.com/nvd/NVD:CVE-2026-61469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61470](https://vulners.com/nvd/NVD:CVE-2026-61470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61473](https://vulners.com/nvd/NVD:CVE-2026-61473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61810 libspdm: SPDM (DSP0274) FINISH transcript under-specifies the new 1.4 OpaqueData fields](https://vulners.com/cve/CVE-2026-61810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61810 libspdm: SPDM (DSP0274) FINISH transcript under-specifies the new 1.4 OpaqueData fields](https://vulners.com/cvelist/CVELIST:CVE-2026-61810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61887](https://vulners.com/nvd/NVD:CVE-2026-61887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62275](https://vulners.com/nvd/NVD:CVE-2026-62275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62920](https://vulners.com/nvd/NVD:CVE-2026-62920?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -269,6 +272,8 @@
   - [CVE-2026-63027](https://vulners.com/nvd/NVD:CVE-2026-63027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63028](https://vulners.com/nvd/NVD:CVE-2026-63028?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63540](https://vulners.com/nvd/NVD:CVE-2026-63540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64686 OpenSearch Dashboards: SSRF in fetchDataSourceMetaData — missing endpoint validation](https://vulners.com/cve/CVE-2026-64686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-64686 OpenSearch Dashboards: SSRF in fetchDataSourceMetaData — missing endpoint validation](https://vulners.com/cvelist/CVELIST:CVE-2026-64686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67175](https://vulners.com/nvd/NVD:CVE-2026-67175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67176](https://vulners.com/nvd/NVD:CVE-2026-67176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67177](https://vulners.com/nvd/NVD:CVE-2026-67177?utm_source=rss&utm_medium=rss&utm_campaign=rss)
