@@ -6,15 +6,23 @@
 - Ars Technica
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
 - ByteByteGo
+  - [LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems](https://blog.bytebytego.com/p/last-call-for-enrollment-build-production)
   - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CXSecurity: World Laboratory of Bugtraq 2
+  - [Fullhan FH8626V100 Multiple Vulnerabilities](https://cxsecurity.com/issue/WLB-2026110002)
+  - [Krayin CRM 2.2.4 IDOR](https://cxsecurity.com/issue/WLB-2026110005)
+  - [Langflow  1.8.4 Path Traversal to Remote Code Execution](https://cxsecurity.com/issue/WLB-2026110001)
+  - [PHP2Shell CVE-2026-115560 exploit](https://cxsecurity.com/issue/WLB-2026110003)
+  - [Super Store Finder 3.8 - Multiple SQL Injection](https://cxsecurity.com/issue/WLB-2026110004)
 - Cyber Kendra
   - [How to Audit Browser Extensions for Supply-Chain Risk](https://www.cyberkendra.com/2026/11/how-to-audit-browser-extensions-for-supply-chain-risk.html)
   - [Node.js Security Update Fixes 16 Flaws, 7 High-Severity](https://www.cyberkendra.com/2026/11/nodejs-november-2026-security-update-16-cves.html)
   - [SignDrop Windows CLFS Zero-Day Gives SYSTEM Access](https://www.cyberkendra.com/2026/11/signdrop-windows-clfs-zero-day-system-exploit.html)
 - daringfireball.net
+  - [Apple Shutters Their Longstanding ‘Apple Support Community’](https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/)
   - [Austin Mann’s iPhone Duo Review](https://www.austinmann.com/trek/iphone-duo)
   - [Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’](https://www.youtube.com/watch?v=cxjdVVVryC4)
   - [‘Dangerous or Unusual’](https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3)
@@ -26,6 +34,8 @@
   - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
   - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
   - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
+  - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
+  - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
   - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 - infosecurity-magazine.com
   - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
@@ -41,17 +51,22 @@
 - simonwillison.net
   - [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/)
 - TechCrunch
+  - [Congress to call Jensen Huang in to answer for alleged Chinese spy affair](https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/)
+  - [CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)
   - [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
   - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+  - [With $720M round, Britain’s Fractile gets a leg up in the race for AI chips](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)
 - terriblesoftware.org
   - [Why Am I So Tired If AI Is Doing All the Work?](https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/)
 - The Block
   - [Apex Group joins Hedera Council to explore tokenization and settlement](https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917)
   - [Pyth Network adds NYSE stock and ETF data to its marketplace](https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928)
+  - [Sen. Warren, Merkley raise ethics concerns over Trump aide’s prediction market bets](https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394)
   - [Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market](https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907)
   - [StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds](https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910)
 - The Decoder
   - [Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years](https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/)
+  - [US corporate AI spending hits a new high in October, but growth slows to 1.65 percent](https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/)
 - The Verge
   - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
   - [Loot boxes, influencers, and addictive features face an EU crackdown](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection)
@@ -111,6 +126,7 @@
   - [CVE-2026-91879](https://vulners.com/nvd/NVD:CVE-2026-91879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91890](https://vulners.com/nvd/NVD:CVE-2026-91890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)
   - [The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)](https://www.wired.com/story/best-black-friday-deals-11-11-2026/)
   - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
 - 代码审计星球
