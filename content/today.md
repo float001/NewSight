@@ -1,13 +1,18 @@
 # 今日安全资讯（2026-11-11）
 
 - 2Libra
+  - [【运动打卡】今天做 HIIT 燃脂，身体好虚，做完好累](https://2libra.com/post/sports/3Drzqef)
   - [【💰】今天生日 🎂 鉴定大成功！心情真好](https://2libra.com/post/slacking-off/HQozpOb)
   - [【💰】大家关注社区的哪些节点？](https://2libra.com/post/forum-function/7ewypJH)
   - [【💰】继半年前的求助帖，如今顺利拿到了 offer！](https://2libra.com/post/workplace-stories/JBYGf2A)
+  - [一打开论坛风扇会转 😭](https://2libra.com/post/community/moFmFTm)
   - [哈基米 4 Carbon 上线了](https://2libra.com/post/large-models/q9lAmFt)
+  - [对于 SystemHelper 组件，大家是禁用还是卸载](https://2libra.com/post/operating-systems/jgSkt1S)
   - [据说这些名字是中国使用最多的人名，其中有你的名字吗？](https://2libra.com/post/social-observation/PViV40p)
+  - [日推到一首轻快悠闲的歌《Santorini》-Jasing Rye](https://2libra.com/post/music-sharing/LjMttnP)
   - [最近看到 x 上一堆人发 mygo，浅浅的尝试了一下，感觉很不错啊！](https://2libra.com/post/programming-languages/QtVrwP7)
   - [用 claude 加上文墨天机的提示词算命准的可怕](https://2libra.com/post/ai-tools/nKYIpP5)
+  - [用 WorkBuddy 生了一个 2Libra 的小程序，感觉界面还挺漂亮，不过不会发布。](https://2libra.com/post/ai-programming/eLx69jN)
 - Ars Technica
   - [High oil prices have led to a dip in global carbon emissions](https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/)
   - [One space station company sues another for copying its work](https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/)
@@ -315,5 +320,6 @@
 - 奇客Solidot–传递最新科技情报
   - [2026 年全球化石燃料碳排放量预计下降 0.4%](https://www.solidot.org/story?sid=85850)
 - 爱范儿
+  - [300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？](https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜](https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=)
