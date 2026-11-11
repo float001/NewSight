@@ -1,11 +1,15 @@
 # 今日安全资讯（2026-11-11）
 
 - 2Libra
+  - [《罗小黑战记》点评：10 分｜罗小黑战记更新啦](https://2libra.com/post/animation-sharing/6EVPoNO)
+  - [【新成就达成！】❤️温暖的人](https://2libra.com/post/forum-function/LM-bjBG)
+  - [【竞猜】BLG vs GENG](https://2libra.com/post/hotspot-tracking/ysSG_gl)
   - [【运动打卡】今天做 HIIT 燃脂，身体好虚，做完好累](https://2libra.com/post/sports/3Drzqef)
   - [【💰】今天生日 🎂 鉴定大成功！心情真好](https://2libra.com/post/slacking-off/HQozpOb)
   - [【💰】大家关注社区的哪些节点？](https://2libra.com/post/forum-function/7ewypJH)
   - [【💰】继半年前的求助帖，如今顺利拿到了 offer！](https://2libra.com/post/workplace-stories/JBYGf2A)
   - [一打开论坛风扇会转 😭](https://2libra.com/post/community/moFmFTm)
+  - [你们用过字节跳动的扣子 coze 吗?解散了](https://2libra.com/post/ai-trends/PwWwhpI)
   - [哈基米 4 Carbon 上线了](https://2libra.com/post/large-models/q9lAmFt)
   - [对于 SystemHelper 组件，大家是禁用还是卸载](https://2libra.com/post/operating-systems/jgSkt1S)
   - [据说这些名字是中国使用最多的人名，其中有你的名字吗？](https://2libra.com/post/social-observation/PViV40p)
@@ -13,6 +17,8 @@
   - [最近看到 x 上一堆人发 mygo，浅浅的尝试了一下，感觉很不错啊！](https://2libra.com/post/programming-languages/QtVrwP7)
   - [用 claude 加上文墨天机的提示词算命准的可怕](https://2libra.com/post/ai-tools/nKYIpP5)
   - [用 WorkBuddy 生了一个 2Libra 的小程序，感觉界面还挺漂亮，不过不会发布。](https://2libra.com/post/ai-programming/eLx69jN)
+  - [这年头有哪里可以让牛马健康和工作兼得？](https://2libra.com/post/workplace-stories/0GdvH4o)
+  - [这潘多拉墨盒里面有什么好的 BUFF 吗？怎么一直扣我钱](https://2libra.com/post/forum-function/2usI5uH)
 - Ars Technica
   - [High oil prices have led to a dip in global carbon emissions](https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/)
   - [One space station company sues another for copying its work](https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/)
@@ -28,6 +34,7 @@
   - [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Can crypto trust firms compete with banks in US derivatives settlements?](https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC warns Kalshi of imminent charges over notification of contracts: Politico](https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto ally Tom Emmer elected House GOP minority whip](https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Global banks commit $270M to stablecoin venture targeting 2027 launch](https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kimber Digital Securities gains broker-dealer status for tokenized assets](https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,6 +56,8 @@
   - [Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer](https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer)
   - [How to Assess OT Incident Response Preparedness](https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness)
   - [November Patch Tuesday: An Overflowing Cornucopia of CVEs](https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves)
+- eli.thegreenplace.net
+  - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)
 - experimental-history.com
   - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 - Google DeepMind Blog
@@ -95,6 +104,7 @@
   - [Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low](https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330)
   - [Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%](https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277)
   - [TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet](https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278)
+  - [Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows](https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786)
 - The Decoder
   - [Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes](https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/)
   - [Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet](https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/)
