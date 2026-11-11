@@ -7,11 +7,14 @@
   - [Anduril says its first satellite can see adversaries maneuver in orbital night](https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/)
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
   - [T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says](https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/)
+- Black Hills Information Security
+  - [Log Analysis Field Guide: Tips for Spotting Patterns and Red Flags](https://www.blackhillsinfosec.com/log-analysis-guide/)
 - ByteByteGo
   - [LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems](https://blog.bytebytego.com/p/last-call-for-enrollment-build-production)
   - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nomura explores sale of crypto unit Laser Digital: Bloomberg](https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -29,6 +32,9 @@
   - [Austin Mann’s iPhone Duo Review](https://www.austinmann.com/trek/iphone-duo)
   - [Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’](https://www.youtube.com/watch?v=cxjdVVVryC4)
   - [‘Dangerous or Unusual’](https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3)
+- darkreading
+  - [AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)
+  - [Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)
 - Data Breach
   - [WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data](https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html)
 - Fidelis Security
@@ -41,8 +47,10 @@
   - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
   - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
   - [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
+  - [Play GTA5 on Browser](https://playgta5.com/)
   - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
   - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
+  - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
   - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
 - infosecurity-magazine.com
   - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
@@ -56,6 +64,7 @@
 - Publications | Outflank
   - [A Decade of Evasion: Celebrating 10 Years of Outflank](https://www.outflank.nl/blog/2026/11/11/a-decade-of-evasion-celebrating-10-years-of-outflank/)
 - simonwillison.net
+  - [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/)
   - [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/)
 - TechCrunch
   - [Congress to call Jensen Huang in to answer for alleged Chinese spy affair](https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/)
@@ -80,8 +89,10 @@
   - [US corporate AI spending hits a new high in October, but growth slows to 1.65 percent](https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/)
 - The Verge
   - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+  - [Hands on with Home Assistant’s new ‘smart home multi-tool’](https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on)
   - [Loot boxes, influencers, and addictive features face an EU crackdown](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection)
   - [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
+  - [United won’t let your AI agent book your flight](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)
 - Vulners.com RSS Feed
   - [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://vulners.com/thn/THN:A59F63D021CCA1E45552A10A931F2AF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0323](https://vulners.com/nvd/NVD:CVE-2026-0323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
