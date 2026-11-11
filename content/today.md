@@ -14,12 +14,16 @@
   - [Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’](https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Can crypto trust firms compete with banks in US derivatives settlements?](https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CFTC warns Kalshi of imminent charges over notification of contracts: Politico](https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Global banks commit $270M to stablecoin venture targeting 2027 launch](https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kimber Digital Securities gains broker-dealer status for tokenized assets](https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin to resume cash withdrawals after $49M hack](https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US trading volume jumps 266% despite regulatory battles](https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [“Customer data leaked”: AI agents cause a security nightmare for companies](https://cybernews.com/ai-news/gravitee-agents-security/)
+- daniel.haxx.se
+  - [30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)
 - daringfireball.net
   - [Altar II Keyboard on Kickstarter](https://www.kickstarter.com/projects/electronicamaterials/altar-ii/)
   - [Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’](https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling)
@@ -52,6 +56,8 @@
   - [The AI Security Gap Hiding in Routine Maintenance](https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance)
 - pluralistic.net
   - [Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)](https://pluralistic.net/2026/11/10/worst-of-all-worlds/)
+- rtl-sdr.com
+  - [SatHunterSDR: An Open-Source Android App for Hunting CubeSats with an RTL-SDR](https://www.rtl-sdr.com/sathuntersdr-an-open-source-android-app-for-hunting-cubesats-with-an-rtl-sdr/)
 - simonwillison.net
   - [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/)
 - TechCrunch
