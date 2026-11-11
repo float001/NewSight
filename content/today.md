@@ -9,6 +9,7 @@
   - [【💰】大家关注社区的哪些节点？](https://2libra.com/post/forum-function/7ewypJH)
   - [【💰】继半年前的求助帖，如今顺利拿到了 offer！](https://2libra.com/post/workplace-stories/JBYGf2A)
   - [一打开论坛风扇会转 😭](https://2libra.com/post/community/moFmFTm)
+  - [今天签到才得了一点](https://2libra.com/post/forum-function/UqfYHMF)
   - [你们用过字节跳动的扣子 coze 吗?解散了](https://2libra.com/post/ai-trends/PwWwhpI)
   - [哈基米 4 Carbon 上线了](https://2libra.com/post/large-models/q9lAmFt)
   - [好几个地方都在转发的 AI 游戏作品](https://2libra.com/post/sharing-discoveries/dmFZyrg)
@@ -85,6 +86,8 @@
   - [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
 - Linux Foundation Blogs
   - [The AI Security Gap Hiding in Routine Maintenance](https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance)
+- OpenAI Blog
+  - [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans)
 - pluralistic.net
   - [Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)](https://pluralistic.net/2026/11/10/worst-of-all-worlds/)
 - rtl-sdr.com
@@ -97,6 +100,7 @@
   - [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
   - [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
   - [Apple TV makes sign language interpretation a built-in accessibility feature](https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/)
+  - [Nvidia’s crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)
   - [OpenAI acquires Odessia, travel startup created by Sonder founder](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
   - [OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google](https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/)
   - [OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect](https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/)
@@ -401,8 +405,11 @@
   - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
   - [‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP](https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/)
 - 不安全
+  - [[下载] SwiftDL开源全平台下载器 支持32连接/动态分段下载/断点续传/视频嗅探下载](https://buaq.net/go-454088.html)
   - [GitHub - IcyModz420/nfsu2-network-rce: NFS Underground 2 — Network Remote Code Execution (two heap overflow RCE vectors, CVSS 9.8)](https://buaq.net/go-454064.html)
   - [Steam商店开始显示游戏平均帧率 买前就能看到PC跑起来性能怎么样](https://buaq.net/go-454033.html)
+  - [tailscale v1.104.6](https://buaq.net/go-454084.html)
+  - [TVPort – 苹果 Apple TV 4K 原生运行《超级马力欧：奥德赛》](https://buaq.net/go-454082.html)
   - [微软宣布清退旧版Microsoft 365 E5开发者沙盒订阅 用户需要自行安排数据迁移](https://buaq.net/go-454069.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
