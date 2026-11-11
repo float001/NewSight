@@ -4,13 +4,16 @@
   - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
   - [Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos](https://www.404media.co/scientists-discovered-an-invisible-object-in-space/)
 - Ars Technica
+  - [Anduril says its first satellite can see adversaries maneuver in orbital night](https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/)
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
+  - [T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says](https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/)
 - ByteByteGo
   - [LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems](https://blog.bytebytego.com/p/last-call-for-enrollment-build-production)
   - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Fullhan FH8626V100 Multiple Vulnerabilities](https://cxsecurity.com/issue/WLB-2026110002)
   - [Krayin CRM 2.2.4 IDOR](https://cxsecurity.com/issue/WLB-2026110005)
@@ -26,6 +29,8 @@
   - [Austin Mann’s iPhone Duo Review](https://www.austinmann.com/trek/iphone-duo)
   - [Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’](https://www.youtube.com/watch?v=cxjdVVVryC4)
   - [‘Dangerous or Unusual’](https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3)
+- Data Breach
+  - [WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data](https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html)
 - Fidelis Security
   - [Linux Kernel Use-After-Free Vulnerability: What’s Happening and Why It Matters](https://fidelissecurity.com/threatgeek/threat-detection-response/linux-kernel-use-after-free-vulnerability/)
 - Google AI Blog
@@ -34,6 +39,8 @@
   - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
   - [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
   - [AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)
+  - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
+  - [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
   - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
   - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
   - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
@@ -54,18 +61,22 @@
   - [Congress to call Jensen Huang in to answer for alleged Chinese spy affair](https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/)
   - [CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)
   - [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
+  - [Meta is losing its longtime head of  infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/)
   - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+  - [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
   - [With $720M round, Britain’s Fractile gets a leg up in the race for AI chips](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)
 - terriblesoftware.org
   - [Why Am I So Tired If AI Is Doing All the Work?](https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/)
 - The Block
   - [Apex Group joins Hedera Council to explore tokenization and settlement](https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917)
+  - [DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO](https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392)
   - [Pyth Network adds NYSE stock and ETF data to its marketplace](https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928)
   - [Sen. Warren, Merkley raise ethics concerns over Trump aide’s prediction market bets](https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394)
   - [Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market](https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907)
   - [StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds](https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910)
 - The Decoder
   - [Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years](https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/)
+  - [Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/)
   - [US corporate AI spending hits a new high in October, but growth slows to 1.65 percent](https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/)
 - The Verge
   - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
@@ -73,6 +84,15 @@
   - [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
 - Vulners.com RSS Feed
   - [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://vulners.com/thn/THN:A59F63D021CCA1E45552A10A931F2AF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0323](https://vulners.com/nvd/NVD:CVE-2026-0323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0324](https://vulners.com/nvd/NVD:CVE-2026-0324?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0325](https://vulners.com/nvd/NVD:CVE-2026-0325?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0326](https://vulners.com/nvd/NVD:CVE-2026-0326?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0327](https://vulners.com/nvd/NVD:CVE-2026-0327?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0328](https://vulners.com/nvd/NVD:CVE-2026-0328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0329](https://vulners.com/nvd/NVD:CVE-2026-0329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0330](https://vulners.com/nvd/NVD:CVE-2026-0330?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-0331](https://vulners.com/nvd/NVD:CVE-2026-0331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100290](https://vulners.com/nvd/NVD:CVE-2026-100290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105440](https://vulners.com/nvd/NVD:CVE-2026-105440?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106133](https://vulners.com/nvd/NVD:CVE-2026-106133?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -91,6 +111,7 @@
   - [CVE-2026-108565](https://vulners.com/nvd/NVD:CVE-2026-108565?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115819](https://vulners.com/nvd/NVD:CVE-2026-115819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117373](https://vulners.com/nvd/NVD:CVE-2026-117373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-122095](https://vulners.com/nvd/NVD:CVE-2026-122095?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123829 Node.js is vulnerable to Permission Model file-name disclosure via recursive fs.watch](https://vulners.com/cve/CVE-2026-123829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123829 Node.js is vulnerable to Permission Model file-name disclosure via recursive fs.watch](https://vulners.com/cvelist/CVELIST:CVE-2026-123829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123862 Node.js is vulnerable to a zlib denial of service via a stream destroy during a pending params() call](https://vulners.com/cve/CVE-2026-123862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -108,6 +129,10 @@
   - [CVE-2026-126771 OpsTree REMS through 1.0.0 Stored XSS via Attachment Upload and Preview](https://vulners.com/cvelist/CVELIST:CVE-2026-126771?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126772 OpsTree REMS through 1.0.0 Comment Author Spoofing via Incident Comment API](https://vulners.com/cve/CVE-2026-126772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126772 OpsTree REMS through 1.0.0 Comment Author Spoofing via Incident Comment API](https://vulners.com/cvelist/CVELIST:CVE-2026-126772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126784](https://vulners.com/nvd/NVD:CVE-2026-126784?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126815](https://vulners.com/cve/CVE-2026-126815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126815](https://vulners.com/nvd/NVD:CVE-2026-126815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126815 Pre-account hijacking via planted password](https://vulners.com/cvelist/CVELIST:CVE-2026-126815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61619](https://vulners.com/nvd/NVD:CVE-2026-61619?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-62971](https://vulners.com/nvd/NVD:CVE-2026-62971?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-64855](https://vulners.com/nvd/NVD:CVE-2026-64855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -120,11 +145,14 @@
   - [CVE-2026-82978](https://vulners.com/nvd/NVD:CVE-2026-82978?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86363](https://vulners.com/nvd/NVD:CVE-2026-86363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86364](https://vulners.com/nvd/NVD:CVE-2026-86364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91151](https://vulners.com/nvd/NVD:CVE-2026-91151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91870](https://vulners.com/nvd/NVD:CVE-2026-91870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91871](https://vulners.com/nvd/NVD:CVE-2026-91871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91872](https://vulners.com/nvd/NVD:CVE-2026-91872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91879](https://vulners.com/nvd/NVD:CVE-2026-91879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91890](https://vulners.com/nvd/NVD:CVE-2026-91890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-33050](https://vulners.com/githubexploit/4878B28A-06DB-55BF-AC02-829329F6D394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [paper-reader](https://vulners.com/gitee/B62552C8-1EE5-55B7-A482-4216ABA67656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)
   - [The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)](https://www.wired.com/story/best-black-friday-deals-11-11-2026/)
