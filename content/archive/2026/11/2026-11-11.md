@@ -39,6 +39,7 @@
   - [Across Protocol restores website after hackers hijack domain](https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Across Protocol warns users to avoid app amid reports of drained wallets](https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’](https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings](https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitget Wallet reports sevenfold jump in crypto phishing risk alerts](https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide](https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,6 +50,7 @@
   - [Hot US inflation raises odds of half-point Fed hike in December](https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack](https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kimber Digital Securities gains broker-dealer status for tokenized assets](https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kraken parent adds over 200 tokenized UK and EU stocks to xStocks](https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [LNbits rushes emergency patch after reported Bitcoin wallet thefts](https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Mercado Bitcoin to resume cash withdrawals after $49M hack](https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US trading volume jumps 266% despite regulatory battles](https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,6 +60,7 @@
   - [Bitget Wallet reports sevenfold jump in crypto phishing risk alerts](https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack](https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Grok's security blind spot exposed users and Musk's company secrets](https://cybernews.com/security/groks-data-leak-spacexsi/)
   - [Huge European telecom leak exposes Swedbank, SEB, airBaltic and dozens of other companies’ clients](https://cybernews.com/security/csc-telecom-leaks-swedbank-seb-sms-messages/)
   - [SEGA confirms data breach exposing 2.2M email addresses](https://cybernews.com/security/sega-confirms-data-breach/)
   - [“Customer data leaked”: AI agents cause a security nightmare for companies](https://cybernews.com/ai-news/gravitee-agents-security/)
@@ -78,6 +81,9 @@
   - [Microsoft Outlook zero-day exploited; Git RCE in recursive clones; Xen auth bypass active](https://defend.network/briefings/microsoft-outlook-zero-day-git-rce-xen-auth-bypass-2026-11-11.html)
 - eli.thegreenplace.net
   - [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/)
+- Emergent Minds | paddo.dev
+  - [The Prototype Was the Easy Part: Goldman Sachs Limits Claude Code to Engineers](https://paddo.dev/blog/goldman-claude-code-engineers-only/)
+  - [Two Hours of Carbon: Gemini 4 Carbon vs Argon on Real Code](https://paddo.dev/blog/gemini-4-carbon/)
 - experimental-history.com
   - [We need more goat sacrifices](https://www.experimental-history.com/p/we-need-more-goat-sacrifices)
 - Google DeepMind Blog
@@ -110,6 +116,9 @@
   - [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Unexpected Status Code or Return Value in Openbsd Openssh](https://sploitus.com/exploit?id=5882B152-99E5-5083-8C68-1A084F5B2978&utm_source=rss&utm_medium=rss)
+  - [llm-agent-attack-cheatsheet exploit](https://sploitus.com/exploit?id=A5DC54A4-A8EA-5E24-B913-CAE1997F7D4C&utm_source=rss&utm_medium=rss)
+  - [m7350-sms-forward exploit](https://sploitus.com/exploit?id=DE913630-C73F-5EB2-A5B0-EC42626BF6DF&utm_source=rss&utm_medium=rss)
+  - [onvif2shell-poc exploit](https://sploitus.com/exploit?id=35686903-B589-55AD-8EB8-496E38F28BF5&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [All 7 Anthropic founders will each cash out about $250M in IPO](https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/)
   - [Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)
@@ -127,10 +136,12 @@
   - [X-energy gets green light to build its first small modular nuclear reactors](https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/)
 - The Block
   - [Alta raises $47.5 million Series A to build a blockchain for financial institutions](https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244)
+  - [Bitcoin and Blockchain Basics](https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447)
   - [Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k](https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301)
   - [Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline](https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812)
   - [Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump](https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252)
   - [Crosschain protocol Across restores systems after domain hijack](https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843)
+  - [Deutsche Bank goes live with digital asset custody service, signs asset management deal](https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851)
   - [Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low](https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330)
   - [Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%](https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277)
   - [Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering](https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837)
@@ -143,6 +154,7 @@
   - [Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot](https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/)
   - [Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot](https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/)
   - [OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions](https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/)
+  - [UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats](https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/)
 - The Verge
   - [Ableton Live 13 announced with a step sequencer, new drum synth, and more](https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw)
   - [Anthropic has its own AI-powered office suite now](https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now)
@@ -434,11 +446,14 @@
   - [A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks](https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/)
   - [Best Buy Discount Codes: 60% Off](https://www.wired.com/story/best-buy-discount-code/)
   - [Best Early Amazon Black Friday Deals (2026)](https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/)
+  - [Best OLED TVs of 2026: LG, Samsung, Sony, and More](https://www.wired.com/story/best-oled-tv/)
   - [Early Black Friday Deals Under $100 (2026)](https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026/)
+  - [Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech](https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/)
   - [Factor Promo Code: 50% Off Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
   - [Google Workspace Promo Codes: 14% Off for November 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [Home Depot Promo Codes: 30% Off in November 2026](https://www.wired.com/story/home-depot-promo-code/)
   - [LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers](https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/)
+  - [Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing](https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/)
   - [Noom Promo Codes: 50% Off Best Deals for November 2026](https://www.wired.com/story/noom-promo-code/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [OnePlus Promo Codes: 30% Off November 2026](https://www.wired.com/story/oneplus-promo-code/)
@@ -461,6 +476,7 @@
 - 奇客Solidot–传递最新科技情报
   - [2026 年全球化石燃料碳排放量预计下降 0.4%](https://www.solidot.org/story?sid=85850)
   - [AMD 公布 Zen 6 CPU 细节](https://www.solidot.org/story?sid=85852)
+  - [黑猩猩后天习得部分叫声](https://www.solidot.org/story?sid=85859)
 - 安全客
   - [一个月内十几家AI平台被扒，黑客要的不是数据，是你的API密钥](https://www.anquanke.com/post/id/316461)
 - 爱范儿
@@ -469,6 +485,7 @@
   - [4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」](https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜](https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [曝字节要做「中国版 Muse」，给豆包造个「超级大脑」](https://www.ifanr.com/1689016?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [绿盟科技在2026年“人工智能+网络安全赋能应用专项评价”中荣获“AI创新实践单位”](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%9c%a82026%e5%b9%b4%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e8%b5%8b%e8%83%bd%e5%ba%94%e7%94%a8%e4%b8%93%e9%a1%b9/)
   - [绿盟科技智能体安全防护方案入选“中国企业级通用智能体安全解决方案”](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%96%b9%e6%a1%88%e5%85%a5%e9%80%89%e4%b8%ad%e5%9b%bd%e4%bc%81%e4%b8%9a%e7%ba%a7%e9%80%9a/)
