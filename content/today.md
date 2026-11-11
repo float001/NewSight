@@ -9,6 +9,7 @@
   - [【💰】大家关注社区的哪些节点？](https://2libra.com/post/forum-function/7ewypJH)
   - [【💰】继半年前的求助帖，如今顺利拿到了 offer！](https://2libra.com/post/workplace-stories/JBYGf2A)
   - [一打开论坛风扇会转 😭](https://2libra.com/post/community/moFmFTm)
+  - [不懂就问，形容一个人厉害，会说牛逼，为什么是牛？](https://2libra.com/post/questions/zl-MARc)
   - [今天签到才得了一点](https://2libra.com/post/forum-function/UqfYHMF)
   - [你们用过字节跳动的扣子 coze 吗?解散了](https://2libra.com/post/ai-trends/PwWwhpI)
   - [哈基米 4 Carbon 上线了](https://2libra.com/post/large-models/q9lAmFt)
@@ -19,6 +20,8 @@
   - [最近看到 x 上一堆人发 mygo，浅浅的尝试了一下，感觉很不错啊！](https://2libra.com/post/programming-languages/QtVrwP7)
   - [用 claude 加上文墨天机的提示词算命准的可怕](https://2libra.com/post/ai-tools/nKYIpP5)
   - [用 WorkBuddy 生了一个 2Libra 的小程序，感觉界面还挺漂亮，不过不会发布。](https://2libra.com/post/ai-programming/eLx69jN)
+  - [社区前端界面与 API 的对应关系](https://2libra.com/post/oauth/YCP_wlA)
+  - [这个题 能解答的都是牛人](https://2libra.com/post/questions/pnC4Qy9)
   - [这年头有哪里可以让牛马健康和工作兼得？](https://2libra.com/post/workplace-stories/0GdvH4o)
   - [这潘多拉墨盒里面有什么好的 BUFF 吗？怎么一直扣我钱](https://2libra.com/post/forum-function/2usI5uH)
 - Ars Technica
@@ -35,6 +38,8 @@
   - [Across Protocol warns users to avoid app amid reports of drained wallets](https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’](https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat](https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitget Wallet reports sevenfold jump in crypto phishing risk alerts](https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide](https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Can crypto trust firms compete with banks in US derivatives settlements?](https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC warns Kalshi of imminent charges over notification of contracts: Politico](https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto ally Tom Emmer elected House GOP minority whip](https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -48,6 +53,7 @@
   - [SEC enforcement actions fall 24%, crypto cases in spotlight](https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion](https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
+  - [Bitget Wallet reports sevenfold jump in crypto phishing risk alerts](https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
   - [Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack](https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Huge European telecom leak exposes Swedbank, SEB, airBaltic and dozens of other companies’ clients](https://cybernews.com/security/csc-telecom-leaks-swedbank-seb-sms-messages/)
@@ -86,6 +92,8 @@
   - [What objective is reasoning solving?](https://alexwang.ai/posts/reasoning-as-pathfinding/)
 - infosecurity-magazine.com
   - [CISA Expands Incident Reporting Form While CIRCIA Mandate Waits](https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/)
+  - [Microsoft Fixes 1235 Flaws in Another Record Patch Tuesday](https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/)
+  - [OT Incidents Hit a Third of Industrial Organizations, SANS Finds](https://www.infosecurity-magazine.com/news/ot-incidents-third-industrial/)
 - krebsonsecurity.com
   - [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/)
 - Linux Foundation Blogs
@@ -122,6 +130,7 @@
   - [Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump](https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252)
   - [Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low](https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330)
   - [Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%](https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277)
+  - [New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps](https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828)
   - [TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet](https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278)
   - [Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows](https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786)
 - The Decoder
@@ -416,11 +425,13 @@
   - [Factor Promo Code: 50% Off Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
   - [Google Workspace Promo Codes: 14% Off for November 2026](https://www.wired.com/story/google-workspace-promo-code/)
   - [Home Depot Promo Codes: 30% Off in November 2026](https://www.wired.com/story/home-depot-promo-code/)
+  - [LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers](https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers/)
   - [Noom Promo Codes: 50% Off Best Deals for November 2026](https://www.wired.com/story/noom-promo-code/)
   - [NordVPN Coupons: 75% Off, Plus 3 Months Free in November 2026](https://www.wired.com/story/nordvpn-coupon/)
   - [OnePlus Promo Codes: 30% Off November 2026](https://www.wired.com/story/oneplus-promo-code/)
   - [Squarespace Promo Codes: 20% Off in November 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [T-Mobile Promo Codes: 25% Off | November 2026](https://www.wired.com/story/t-mobile-business-promo-code/)
+  - [The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
   - [Ulta Promo Codes: Up to 20% Off in November 2026](https://www.wired.com/story/ulta-coupon/)
   - [Visible Promo Codes and Coupons for November 2026](https://www.wired.com/story/visible-promo-code/)
   - [Vivid Seats Promo Codes and Deals: Get 10% Off](https://www.wired.com/story/vivid-seats-promo-code/)
@@ -440,5 +451,9 @@
 - 爱范儿
   - [10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识](https://www.ifanr.com/1688897?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？](https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」](https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上](https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜](https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [绿盟科技在2026年“人工智能+网络安全赋能应用专项评价”中荣获“AI创新实践单位”](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%9c%a82026%e5%b9%b4%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e8%b5%8b%e8%83%bd%e5%ba%94%e7%94%a8%e4%b8%93%e9%a1%b9/)
+  - [绿盟科技智能体安全防护方案入选“中国企业级通用智能体安全解决方案”](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%96%b9%e6%a1%88%e5%85%a5%e9%80%89%e4%b8%ad%e5%9b%bd%e4%bc%81%e4%b8%9a%e7%ba%a7%e9%80%9a/)
