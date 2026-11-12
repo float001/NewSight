@@ -4,6 +4,7 @@
   - [【非蠢即坏 3】远离「垃圾人」：这五类人正在消耗你](https://2libra.com/post/personal-life/d7amYqu)
   - [【💰】有轻量级的 Postman 的替代品吗](https://2libra.com/post/recommendations/l5IXQxG)
   - [【💰】来看看正经的野生鲫鱼！晒晒你的渔获，随机打赏](https://2libra.com/post/fishing/aSkbMCY)
+  - [【💰】还有哪家的 coding/token plan 性价比高](https://2libra.com/post/ai-programming/yFW5sAs)
   - [【💰】这个月的情绪有问题](https://2libra.com/post/personal-life/VAnfxaR)
   - [上班路上遇到的小可爱](https://2libra.com/post/pet-sharing/4FHsXwE)
   - [个人主页的关注和被关注可以显示对应用户/图片的尺寸现在可以设置百分比宽度](https://2libra.com/post/product-updates/AoIZFRl)
@@ -47,7 +48,10 @@
 - daringfireball.net
   - [Apple Shutters Their Longstanding ‘Apple Support Community’](https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/)
   - [Austin Mann’s iPhone Duo Review](https://www.austinmann.com/trek/iphone-duo)
+  - [Jensen Huang Was Banging an Nvidia Vice President Too](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW)
+  - [Nvidia Working With Outside Firm to Identify CEO Candidates](https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates)
   - [Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’](https://www.youtube.com/watch?v=cxjdVVVryC4)
+  - [WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ)
   - [‘Dangerous or Unusual’](https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3)
 - darkreading
   - [AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)
@@ -107,6 +111,7 @@
   - [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
   - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
   - [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+  - [Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/)
   - [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
   - [With $720M round, Britain’s Fractile gets a leg up in the race for AI chips](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)
 - terriblesoftware.org
@@ -266,11 +271,15 @@
   - [Walking Pad Deals to Shop Ahead of Black Friday (2026)](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/)
 - 不安全
   - [Quick-Shift](https://buaq.net/go-454331.html)
+  - [Sedip a focused bash utility for rewriting listener addresses in payload files. Sedip updates the IPv4 address used in listener-style payloads to the current address of a chosen network interface (tun0 by default).](https://buaq.net/go-454344.html)
   - [英伟达CUDA护城河迎来新挑战：Claude仅用3天就让模型适配AMD AI加速器](https://buaq.net/go-454333.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [我们正目睹乔布斯后科技史上最严重的逼宫](https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [折叠屏手机的转身｜明日后视镜](https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [拆解触屏 MacBook Pro：点亮苹果 LOGO 的秘密，藏在这里](https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒](https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有](https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [微软11月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af11%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
