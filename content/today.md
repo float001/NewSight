@@ -6,6 +6,7 @@
 - Ars Technica
   - [Anduril says its first satellite can see adversaries maneuver in orbital night](https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/)
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
+  - [CEO Jensen Huang's job is suddenly on the line at Nvidia](https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/)
   - [T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says](https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/)
 - Black Hills Information Security
   - [Log Analysis Field Guide: Tips for Spotting Patterns and Red Flags](https://www.blackhillsinfosec.com/log-analysis-guide/)
@@ -18,6 +19,7 @@
   - [Nomura explores sale of crypto unit Laser Digital: Bloomberg](https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia preparing to oust CEO Jensen Huang: WSJ](https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Suiet wallet to shut down in latest exit from Sui ecosystem](https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Fullhan FH8626V100 Multiple Vulnerabilities](https://cxsecurity.com/issue/WLB-2026110002)
@@ -37,6 +39,7 @@
 - darkreading
   - [AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)
   - [Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)
+  - [Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)
 - Data Breach
   - [WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data](https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html)
 - Fidelis Security
@@ -51,6 +54,7 @@
   - [Emacs in the Age of Magic](https://commandlinesystems.com/magic.txt)
   - [Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)
   - [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+  - [Modern Web Guidance 1.0: The web platform expertise your coding agent is missing](https://developer.chrome.com/blog/modern-web-guidance-v1)
   - [Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
   - [Play GTA5 on Browser](https://playgta5.com/)
   - [Retirement Savings Are Fueling the AI Bubble](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/)
@@ -66,6 +70,8 @@
 - Linux Foundation Blogs
   - [LF Research Launches 2027 Series of Studies and Opens Call for Sponsors](https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors)
   - [The Evolution of Commercial Open Source Software](https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software)
+- OpenAI Blog
+  - [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
 - Publications | Outflank
   - [A Decade of Evasion: Celebrating 10 Years of Outflank](https://www.outflank.nl/blog/2026/11/11/a-decade-of-evasion-celebrating-10-years-of-outflank/)
 - simonwillison.net
@@ -78,8 +84,11 @@
   - [Congress to call Jensen Huang in to answer for alleged Chinese spy affair](https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/)
   - [CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)
   - [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
+  - [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)
   - [Meta is losing its longtime head of  infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/)
+  - [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
   - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
+  - [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
   - [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
   - [With $720M round, Britain’s Fractile gets a leg up in the race for AI chips](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)
 - terriblesoftware.org
@@ -92,6 +101,7 @@
   - [Sen. Warren, Merkley raise ethics concerns over Trump aide’s prediction market bets](https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394)
   - [Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market](https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907)
   - [StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds](https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910)
+  - [Strategy, Metaplanet lose MSCI index membership in November reshuffle](https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437)
 - The Decoder
   - [Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years](https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/)
   - [Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/)
