@@ -21,6 +21,7 @@
   - [速薅！Muse 免费 TG 机器人领取 30 亿 token～](https://2libra.com/post/deal-hunter/PnR6pRj)
   - [還是來了...Anthropic 新版《支持地区政策》](https://2libra.com/post/ai-trends/smTSf3P)
   - [黑五服务器厂商多久才会降价？](https://2libra.com/post/servers/It61kgT)
+  - [💰 别再为高价代理买单｜ Proxy001 住宅 IP 低至 $0.55/GB，注册赠送 1GB 流量测试](https://2libra.com/post/promotion/9o7NDuJ)
 - 404 Media
   - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
   - [Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos](https://www.404media.co/scientists-discovered-an-invisible-object-in-space/)
@@ -32,6 +33,8 @@
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
   - [CEO Jensen Huang's job is suddenly on the line at Nvidia](https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/)
   - [T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says](https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/)
+- Articles | InfoStealers
+  - [School Bomb Threats: Hudson Rock Finds Reported Sender Accounts in Infostealer Data](https://www.infostealers.com/article/school-bomb-threats-hudson-rock-finds-reported-sender-accounts-in-infostealer-data/)
 - Black Hills Information Security
   - [Log Analysis Field Guide: Tips for Spotting Patterns and Red Flags](https://www.blackhillsinfosec.com/log-analysis-guide/)
 - ByteByteGo
@@ -60,9 +63,12 @@
 - CyberNews
   - [Amplifon probes data breach affecting customers’ personal and health records](https://cybernews.com/news/amplifon-investigates-data-breach-affecting-customers-personal-and-health-records/)
   - [Bundestagsabgeordneter: Plan für souveräne KI „ergibt keinen Sinn“](https://cybernews.com/de/ki-news/souveraene-ki-plan-ergibt-keinen-sinn/)
+  - [Cyber pros unmask Qilin ransomware administrator as St. Petersburg man](https://cybernews.com/security/qilin-ransomware-administrator-unmasked/)
   - [How dangerous are online ads?](https://cybernews.com/security-hub/how-dangerous-are-online-ads/)
+  - [IT firms and their clients hit: hackers hijack ScreenConnect, seize remote control](https://cybernews.com/security/screenconnect-hijacking-hackers-rogue-software-connectwise/)
   - [Nvidia CEO Huang had relationship with executive who reported to him, NYT reports](https://cybernews.com/tech/nvidia-ceo-huang-second-affair/)
   - [Sovereign AI plan "makes no sense," German MP says](https://cybernews.com/ai-news/sovereign-ai-plan-makes-no-sense/)
+  - [There’s no winner nor the finish line in the US-China AI race, an expert says](https://cybernews.com/ai-news/theres-no-winner-us-china-ai-race/)
   - [Ukraine busts call center network behind €4.3M investment scam](https://cybernews.com/news/ukraine-call-center-investment-scam/)
 - daringfireball.net
   - [Apple Shutters Their Longstanding ‘Apple Support Community’](https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/)
@@ -85,6 +91,8 @@
   - [Linux Kernel Use-After-Free Vulnerability: What’s Happening and Why It Matters](https://fidelissecurity.com/threatgeek/threat-detection-response/linux-kernel-use-after-free-vulnerability/)
 - Google AI Blog
   - [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/)
+- GuidePoint Security
+  - [Cloud Security Best Practices for 2027: Secure the Data-to-AI Pipeline](https://www.guidepointsecurity.com/blog/cloud-security-best-practices/)
 - Hacker News Frontpage
   - [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
   - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
@@ -103,6 +111,7 @@
 - infosecurity-magazine.com
   - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
   - [N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public](https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/)
+  - [NCSC Launches Cyber Adversary Testing to Boost Resilience](https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/)
   - [Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns](https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/)
 - krebsonsecurity.com
   - [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
@@ -119,12 +128,16 @@
   - [ATS Mini Controller: A Web App for the ATS Mini Receiver with an Experimental Browser-Based RTL-SDR Mode](https://www.rtl-sdr.com/ats-mini-controller-a-web-app-for-the-ats-mini-receiver-with-an-experimental-browser-based-rtl-sdr-mode/)
   - [D325f-SDR LG Phone SDR Update: App 2.0, Meteor-M HRPT Reception and an SNR Comparison Against the RTL-SDR Blog V4](https://www.rtl-sdr.com/d325f-sdr-lg-phone-sdr-update-app-2-0-meteor-m-hrpt-reception-and-an-snr-comparison-against-the-rtl-sdr-blog-v4/)
   - [MultiScan SDR: A Multi-Band Pseudo-Spectrum Scanner for RTL-SDR, HackRF, Airspy and SDRplay](https://www.rtl-sdr.com/multiscan-sdr-a-multi-band-pseudo-spectrum-scanner-for-rtl-sdr-hackrf-airspy-and-sdrplay/)
+- Securelist
+  - [Transcending the trust boundaries: how a cloud pentest works](https://securelist.com/how-a-cloud-pentest-works/121921/)
 - simonwillison.net
   - [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/)
   - [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/)
 - Sploitus.com Exploits RSS Feed
   - [dataease-3.2.0-exploit](https://sploitus.com/exploit?id=A159CBEC-C902-5531-8CB0-21FF06A752C5&utm_source=rss&utm_medium=rss)
   - [FeatherScan exploit](https://sploitus.com/exploit?id=09C9C145-071E-54F1-AA9F-D244248BEFDB&utm_source=rss&utm_medium=rss)
+- Taxodium
+  - [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html)
 - TechCrunch
   - [Congress to call Jensen Huang in to answer for alleged Chinese spy affair](https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/)
   - [CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)
@@ -163,6 +176,8 @@
   - [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor)
   - [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
   - [United won’t let your AI agent book your flight](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [PHP2Shell and Node2Shell: Find, Fix, and Verify Across Your Web Apps and APIs](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation](https://vulners.com/thn/THN:A59F63D021CCA1E45552A10A931F2AF8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-0323](https://vulners.com/nvd/NVD:CVE-2026-0323?utm_source=rss&utm_medium=rss&utm_campaign=rss)
