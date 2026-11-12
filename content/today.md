@@ -20,15 +20,18 @@
   - [VU#580079: Arbitrary file read/write vulnerability in ImageMagick-based applications with default configuration](https://kb.cert.org/vuls/id/580079)
 - CoinTelegraph
   - [DTCC Plans Solana Expansion as Wallet Rules Limit Access](https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off](https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Justice Department, business groups and DeFi firms challenge Illinois crypto tax](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Experts weigh in on Huang’s resignation: “Entitled” tech CEOs have too much power](https://cybernews.com/news/nvidia-personality-cult/)
 - daringfireball.net
   - [And Every New Boy That You Meet / He Doesn’t Know the Real Surprise](https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY)
   - [Reuters Raises the Jensen Huang Affair Tally to Three](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)
+  - [Scott Colom Flips Mississippi](https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort)
   - [The Dream of Quibi Lives On](https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience)
   - [Trump Weighs in on Huang’s Successor](https://truthsocial.com/@realDonaldTrump/posts/117604177898784579)
 - darkreading
+  - [Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox](https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox)
   - [Extortion Group Luna Moth Flits Into Law Firms a Second Time](https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time)
 - Fidelis Security
   - [How Fidelis Security Strengthens Azure Zero Trust Beyond Identity and Access](https://fidelissecurity.com/threatgeek/threat-detection-response/azure-zero-trust/)
@@ -64,15 +67,18 @@
   - [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)
   - [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
   - [Microsoft’s Outlook email hit by new outage](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/)
+  - [Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)
   - [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
   - [Phota Labs uses AI to turn everyday photos into professional-looking shots](https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/)
   - [SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)
+  - [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
   - [Trump floats Apple chairman Tim Cook as Jensen Huang’s successor](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/)
   - [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/)
   - [Whoop just launched a social network](https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/)
 - The Block
   - [Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets](https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992)
   - [Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says](https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988)
+  - [Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight](https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052)
   - [NYDFS sets fresh advertising standards for crypto firms](https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014)
   - [Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up](https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520)
 - The Decoder
@@ -82,6 +88,7 @@
   - [25 years later, Xbox is trying to reinvent itself again](https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad)
   - [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations)
   - [Google Wallet can finally unlock doors with digital home keys](https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout)
+  - [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)
   - [Here are the 25 original Xbox games you can now play on PC](https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility)
   - [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump)
   - [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
@@ -89,6 +96,8 @@
   - [No, AI agents did not discover a previously unknown Maya site](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)
   - [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video)
   - [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
+  - [The Oura Ring 4 is almost as good as the newer model, but $150 cheaper](https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale)
+  - [‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation](https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions)
   - [‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug](https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash)
 - Vulners.com RSS Feed
   - [CVE-2024-21963](https://vulners.com/nvd/NVD:CVE-2024-21963?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -182,5 +191,6 @@
   - [Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women](https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/)
   - [Jensen Huang’s $470 Billion Affair](https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/)
   - [Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email](https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/)
+  - [Walmart Early Black Friday Deals Double as Great Gifts (2026)](https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
