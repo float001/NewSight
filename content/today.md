@@ -1,8 +1,14 @@
 # 今日安全资讯（2026-11-12）
 
 - 2Libra
+  - [【非蠢即坏 3】远离「垃圾人」：这五类人正在消耗你](https://2libra.com/post/personal-life/d7amYqu)
+  - [【💰】有轻量级的 Postman 的替代品吗](https://2libra.com/post/recommendations/l5IXQxG)
   - [【💰】这个月的情绪有问题](https://2libra.com/post/personal-life/VAnfxaR)
+  - [上班路上遇到的小可爱](https://2libra.com/post/pet-sharing/4FHsXwE)
+  - [个人主页的关注和被关注可以显示对应用户/图片的尺寸现在可以设置百分比宽度](https://2libra.com/post/product-updates/AoIZFRl)
+  - [拍照的时候妹子不对你笑，那是因为你缺少一个配件！](https://2libra.com/post/photography-equipment/MLwsG5m)
   - [還是來了...Anthropic 新版《支持地区政策》](https://2libra.com/post/ai-trends/smTSf3P)
+  - [黑五服务器厂商多久才会降价？](https://2libra.com/post/servers/It61kgT)
 - 404 Media
   - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
   - [Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos](https://www.404media.co/scientists-discovered-an-invisible-object-in-space/)
@@ -81,6 +87,7 @@
   - [A Decade of Evasion: Celebrating 10 Years of Outflank](https://www.outflank.nl/blog/2026/11/11/a-decade-of-evasion-celebrating-10-years-of-outflank/)
 - rtl-sdr.com
   - [ATS Mini Controller: A Web App for the ATS Mini Receiver with an Experimental Browser-Based RTL-SDR Mode](https://www.rtl-sdr.com/ats-mini-controller-a-web-app-for-the-ats-mini-receiver-with-an-experimental-browser-based-rtl-sdr-mode/)
+  - [D325f-SDR LG Phone SDR Update: App 2.0, Meteor-M HRPT Reception and an SNR Comparison Against the RTL-SDR Blog V4](https://www.rtl-sdr.com/d325f-sdr-lg-phone-sdr-update-app-2-0-meteor-m-hrpt-reception-and-an-snr-comparison-against-the-rtl-sdr-blog-v4/)
   - [MultiScan SDR: A Multi-Band Pseudo-Spectrum Scanner for RTL-SDR, HackRF, Airspy and SDRplay](https://www.rtl-sdr.com/multiscan-sdr-a-multi-band-pseudo-spectrum-scanner-for-rtl-sdr-hackrf-airspy-and-sdrplay/)
 - simonwillison.net
   - [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/)
@@ -247,8 +254,10 @@
   - [I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)
   - [The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)](https://www.wired.com/story/best-black-friday-deals-11-11-2026/)
   - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
+  - [Walking Pad Deals to Shop Ahead of Black Friday (2026)](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [我们正目睹乔布斯后科技史上最严重的逼宫](https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [折叠屏手机的转身｜明日后视镜](https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒](https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=)
