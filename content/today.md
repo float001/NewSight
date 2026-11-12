@@ -18,6 +18,7 @@
   - [当年你们班第一名和最后一名的人都在干吗？](https://2libra.com/post/social-observation/n6Cgv0I)
   - [我觉得阿里的 workbench 很好用，适合运维能力不大好的人](https://2libra.com/post/sharing-discoveries/q-645bB)
   - [拍照的时候妹子不对你笑，那是因为你缺少一个配件！](https://2libra.com/post/photography-equipment/MLwsG5m)
+  - [数字归零挑战](https://2libra.com/post/personal-works/NzsbUth)
   - [晚安啊陌生人，我今天感觉好难过，可以给个抱抱吗？](https://2libra.com/post/mental-health/IKm5-sl)
   - [社区前端和 API 如何发帖到特定节点？比如说黑洞。](https://2libra.com/post/forum-function/ML_fpOS)
   - [速薅！Muse 免费 TG 机器人领取 30 亿 token～](https://2libra.com/post/deal-hunter/PnR6pRj)
@@ -46,7 +47,10 @@
   - [LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems](https://blog.bytebytego.com/p/last-call-for-enrollment-build-production)
   - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
 - CoinTelegraph
+  - [Are Alt-L1s over? Security, costs drive smaller chains to Ethereum](https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bit Digital stock falls 5% in pre-market after Q3 revenue miss](https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente](https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness](https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU DeFi proposals could push users to riskier platforms, says Coinbase exec](https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,7 +61,11 @@
   - [South Korea to permit crypto withdrawal freezes during hacking threats](https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022](https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Suiet wallet to shut down in latest exit from Sui ecosystem](https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Thailand proposes $148K daily cap on stablecoin deposits and withdrawals](https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Uber’s UK banking partner Griffin raises $20M for stablecoin services](https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Are Alt-L1s over? Security, costs drive smaller chains to Ethereum](https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
   - [Fullhan FH8626V100 Multiple Vulnerabilities](https://cxsecurity.com/issue/WLB-2026110002)
   - [Krayin CRM 2.2.4 IDOR](https://cxsecurity.com/issue/WLB-2026110005)
@@ -123,6 +131,7 @@
   - [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
 - infosecurity-magazine.com
   - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
+  - [Lego Takes BrickLink Marketplace Offline After Detecting Unusual Activity](https://www.infosecurity-magazine.com/news/lego-takes-bricklink-marketplace/)
   - [N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public](https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/)
   - [NCSC Launches Cyber Adversary Testing to Boost Resilience](https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/)
   - [Security Teams Must Shift from Patching to Mitigation in the AI Era](https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/)
@@ -151,6 +160,8 @@
 - simonwillison.net
   - [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/)
   - [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/)
+- Sonar Blog
+  - [AI hit 65% of committed code a year early. Do we know what's in the box?](https://www.sonarsource.com/blog/state-of-code-developer-survey-report-2027/)
 - Sploitus.com Exploits RSS Feed
   - [dataease-3.2.0-exploit](https://sploitus.com/exploit?id=A159CBEC-C902-5531-8CB0-21FF06A752C5&utm_source=rss&utm_medium=rss)
   - [FeatherScan exploit](https://sploitus.com/exploit?id=09C9C145-071E-54F1-AA9F-D244248BEFDB&utm_source=rss&utm_medium=rss)
@@ -162,6 +173,7 @@
   - [Is Jensen Huang’s bad behavior more commonplace than it seems?](https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/)
   - [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)
   - [Meta is losing its longtime head of  infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/)
+  - [Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition](https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/)
   - [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
   - [OpenAI’s quarterly revenue reportedly crosses $10B for the first time](https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/)
   - [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
@@ -189,16 +201,21 @@
   - [‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards](https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448)
 - The Decoder
   - [Australia's proposed AI safety bill would force frontier model makers to open up to independent testing](https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/)
+  - [ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence](https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/)
   - [Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2](https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/)
   - [Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years](https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/)
   - [Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/)
   - [US corporate AI spending hits a new high in October, but growth slows to 1.65 percent](https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/)
 - The Verge
+  - [Apple’s HomeView is my new favorite smart display — but not my daughter’s](https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit)
   - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
   - [Hands on with Home Assistant’s new ‘smart home multi-tool’](https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on)
+  - [I tried Google’s AI glasses and Meta’s finally got real competition](https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on)
   - [Loot boxes, influencers, and addictive features face an EU crackdown](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection)
+  - [Nvidia CEO Jensen Huang resigns amid spy, affair scandals](https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia)
   - [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor)
   - [Ring confirms its camera drone won’t have manual controls after crashing on CBS News](https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls)
+  - [The pricey new Apple TV 4K is still the best streamer around](https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review)
   - [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
   - [United won’t let your AI agent book your flight](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)
 - Vulnerabilities and Threat Research – Qualys Security Blog
@@ -388,10 +405,12 @@
   - [AirDoctor Coupon Codes: 40% Off | November 2026](https://www.wired.com/story/airdoctor-coupon-code/)
   - [Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently](https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/)
   - [Design Within Reach Promo Codes: 30% Off | November 2026](https://www.wired.com/story/design-within-reach-promo-code/)
+  - [Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile](https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/)
   - [Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out](https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/)
   - [HelloFresh Promo Codes: 55% Off for November 2026](https://www.wired.com/story/hellofresh-coupon/)
   - [Hydrow Discount Code: Save Up to $150 | November 2026](https://www.wired.com/story/hydrow-discount-code/)
   - [I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)
+  - [Jensen Huang Resigns as Nvidia CEO](https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/)
   - [L.L.Bean Promo Codes and Coupons: 75% Off](https://www.wired.com/story/ll-bean-promo-code/)
   - [Lenovo Coupon Codes: 15% Off in November 2026](https://www.wired.com/story/lenovo-coupon-code/)
   - [Lovehoney Coupon Offers: 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
@@ -423,10 +442,13 @@
 - 博客
   - [Summit and Summary](https://dyrnq.com/summit-and-summary/)
   - [Tunneling](https://dyrnq.com/tunneling/)
+- 奇客Solidot–传递最新科技情报
+  - [《Big Walk》开发商利用 AI 修 Bug 引起争议](https://www.solidot.org/story?sid=85869)
 - 火绒安全实验室
   - [电脑装完系统 是谁修改了你的主页？](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538850&idx=1&sn=6867f88445f872267e8222f0cadf3a93)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538850&idx=2&sn=6dd9a04f3fe2e4a0b3170d44d473fa30)
 - 爱范儿
+  - [26.99 万元起！腾势 N8 上市，内饰最美的比亚迪来了](https://www.ifanr.com/1689232?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南](https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了](https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我们正目睹乔布斯后科技史上最严重的逼宫](https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=)
