@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-11-12）
 
+- 2Libra
+  - [【💰】这个月的情绪有问题](https://2libra.com/post/personal-life/VAnfxaR)
+  - [還是來了...Anthropic 新版《支持地区政策》](https://2libra.com/post/ai-trends/smTSf3P)
 - 404 Media
   - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
   - [Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos](https://www.404media.co/scientists-discovered-an-invisible-object-in-space/)
@@ -16,6 +19,7 @@
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MSCI confirms Strategy’s removal from indexes at end of November](https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nomura explores sale of crypto unit Laser Digital: Bloomberg](https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia preparing to oust CEO Jensen Huang: WSJ](https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -39,6 +43,7 @@
 - darkreading
   - [AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)
   - [Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)
+  - [Chinese AI Project Scouts Spies in Taiwan Chip Industry](https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry)
   - [Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)
 - Data Breach
   - [WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data](https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html)
@@ -74,6 +79,9 @@
   - [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
 - Publications | Outflank
   - [A Decade of Evasion: Celebrating 10 Years of Outflank](https://www.outflank.nl/blog/2026/11/11/a-decade-of-evasion-celebrating-10-years-of-outflank/)
+- rtl-sdr.com
+  - [ATS Mini Controller: A Web App for the ATS Mini Receiver with an Experimental Browser-Based RTL-SDR Mode](https://www.rtl-sdr.com/ats-mini-controller-a-web-app-for-the-ats-mini-receiver-with-an-experimental-browser-based-rtl-sdr-mode/)
+  - [MultiScan SDR: A Multi-Band Pseudo-Spectrum Scanner for RTL-SDR, HackRF, Airspy and SDRplay](https://www.rtl-sdr.com/multiscan-sdr-a-multi-band-pseudo-spectrum-scanner-for-rtl-sdr-hackrf-airspy-and-sdrplay/)
 - simonwillison.net
   - [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/)
   - [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/)
@@ -175,6 +183,7 @@
   - [CVE-2026-126328](https://vulners.com/nvd/NVD:CVE-2026-126328?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126331](https://vulners.com/nvd/NVD:CVE-2026-126331?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126332](https://vulners.com/nvd/NVD:CVE-2026-126332?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126759](https://vulners.com/nvd/NVD:CVE-2026-126759?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126766 OpsTree REMS through 1.0.0 Reporter Spoofing via /api/v1/incidents](https://vulners.com/cvelist/CVELIST:CVE-2026-126766?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126767 OpsTree REMS through 1.0.0 Prompt Injection via RCA Chat Assistant](https://vulners.com/cvelist/CVELIST:CVE-2026-126767?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126768 OpsTree REMS through 1.0.0 Authentication Bypass via is_local_auth Flag](https://vulners.com/cve/CVE-2026-126768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -240,3 +249,6 @@
   - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [我们正目睹乔布斯后科技史上最严重的逼宫](https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒](https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=)
