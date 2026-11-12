@@ -35,6 +35,8 @@
   - [T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says](https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/)
 - Articles | InfoStealers
   - [School Bomb Threats: Hudson Rock Finds Reported Sender Accounts in Infostealer Data](https://www.infostealers.com/article/school-bomb-threats-hudson-rock-finds-reported-sender-accounts-in-infostealer-data/)
+- Bitdefender Labs
+  - [Attackers turn NIKKE’s game launcher into malware](https://www.bitdefender.com/en-us/blog/labs/nikke-game-launcher-malware)
 - Black Hills Information Security
   - [Log Analysis Field Guide: Tips for Spotting Patterns and Red Flags](https://www.blackhillsinfosec.com/log-analysis-guide/)
 - ByteByteGo
@@ -42,6 +44,7 @@
   - [The Roundup by ByteByteGo](https://blog.bytebytego.com/p/the-roundup-by-bytebytego)
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness](https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MSCI confirms Strategy’s removal from indexes at end of November](https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nomura explores sale of crypto unit Laser Digital: Bloomberg](https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -82,6 +85,7 @@
   - [AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)
   - [Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)
   - [Chinese AI Project Scouts Spies in Taiwan Chip Industry](https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry)
+  - [Inside an AI Attack Against a US Retailer](https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer)
   - [Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)
 - Data Breach
   - [WhiteArmor Demands $5 Million from Maersk, Claims Theft of 100GB of Data](https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html)
@@ -108,10 +112,12 @@
   - [Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)
   - [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
   - [Why aren't we shipping faster now?](https://cabird.com/talks/shipping-faster/)
+  - [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
 - infosecurity-magazine.com
   - [Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says](https://www.infosecurity-magazine.com/news/anthropic-glasswing/)
   - [N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public](https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/)
   - [NCSC Launches Cyber Adversary Testing to Boost Resilience](https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/)
+  - [Security Teams Must Shift from Patching to Mitigation in the AI Era](https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/)
   - [Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns](https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/)
 - krebsonsecurity.com
   - [Who Runs the Ransomware Group Qilin?](https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/)
@@ -164,8 +170,11 @@
   - [Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market](https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907)
   - [StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds](https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910)
   - [Strategy, Metaplanet lose MSCI index membership in November reshuffle](https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437)
+  - [Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH](https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386)
+  - [Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime](https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514)
   - [‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards](https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448)
 - The Decoder
+  - [Australia's proposed AI safety bill would force frontier model makers to open up to independent testing](https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/)
   - [Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years](https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/)
   - [Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/)
   - [US corporate AI spending hits a new high in October, but growth slows to 1.65 percent](https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/)
@@ -195,6 +204,7 @@
   - [CVE-2026-106027](https://vulners.com/nvd/NVD:CVE-2026-106027?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106133](https://vulners.com/nvd/NVD:CVE-2026-106133?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106137](https://vulners.com/nvd/NVD:CVE-2026-106137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106140](https://vulners.com/nvd/NVD:CVE-2026-106140?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106152](https://vulners.com/nvd/NVD:CVE-2026-106152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106156](https://vulners.com/nvd/NVD:CVE-2026-106156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107247](https://vulners.com/nvd/NVD:CVE-2026-107247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -212,12 +222,16 @@
   - [CVE-2026-110959](https://vulners.com/nvd/NVD:CVE-2026-110959?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115819](https://vulners.com/nvd/NVD:CVE-2026-115819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117373](https://vulners.com/nvd/NVD:CVE-2026-117373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117474](https://vulners.com/nvd/NVD:CVE-2026-117474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117475](https://vulners.com/nvd/NVD:CVE-2026-117475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117476](https://vulners.com/nvd/NVD:CVE-2026-117476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118421](https://vulners.com/nvd/NVD:CVE-2026-118421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118531](https://vulners.com/nvd/NVD:CVE-2026-118531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118597](https://vulners.com/cve/CVE-2026-118597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118597](https://vulners.com/nvd/NVD:CVE-2026-118597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118597 Akaunting 3.3.0 - Stored XSS in custom invoice payment terms](https://vulners.com/cvelist/CVELIST:CVE-2026-118597?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118855](https://vulners.com/nvd/NVD:CVE-2026-118855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118975](https://vulners.com/nvd/NVD:CVE-2026-118975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119039](https://vulners.com/nvd/NVD:CVE-2026-119039?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119040](https://vulners.com/nvd/NVD:CVE-2026-119040?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121498](https://vulners.com/nvd/NVD:CVE-2026-121498?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -226,16 +240,19 @@
   - [CVE-2026-123044](https://vulners.com/nvd/NVD:CVE-2026-123044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123092](https://vulners.com/nvd/NVD:CVE-2026-123092?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123133](https://vulners.com/nvd/NVD:CVE-2026-123133?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123765](https://vulners.com/nvd/NVD:CVE-2026-123765?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123829 Node.js is vulnerable to Permission Model file-name disclosure via recursive fs.watch](https://vulners.com/cve/CVE-2026-123829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123829 Node.js is vulnerable to Permission Model file-name disclosure via recursive fs.watch](https://vulners.com/cvelist/CVELIST:CVE-2026-123829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123862 Node.js is vulnerable to a zlib denial of service via a stream destroy during a pending params() call](https://vulners.com/cve/CVE-2026-123862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123862 Node.js is vulnerable to a zlib denial of service via a stream destroy during a pending params() call](https://vulners.com/cvelist/CVELIST:CVE-2026-123862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124617](https://vulners.com/nvd/NVD:CVE-2026-124617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124647](https://vulners.com/nvd/NVD:CVE-2026-124647?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124648](https://vulners.com/nvd/NVD:CVE-2026-124648?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124652](https://vulners.com/nvd/NVD:CVE-2026-124652?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124653](https://vulners.com/nvd/NVD:CVE-2026-124653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124665](https://vulners.com/nvd/NVD:CVE-2026-124665?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124686](https://vulners.com/nvd/NVD:CVE-2026-124686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124699](https://vulners.com/nvd/NVD:CVE-2026-124699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124814](https://vulners.com/nvd/NVD:CVE-2026-124814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124815](https://vulners.com/nvd/NVD:CVE-2026-124815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124817](https://vulners.com/nvd/NVD:CVE-2026-124817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -287,6 +304,7 @@
   - [CVE-2026-126815](https://vulners.com/nvd/NVD:CVE-2026-126815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126815 Pre-account hijacking via planted password](https://vulners.com/cvelist/CVELIST:CVE-2026-126815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126991](https://vulners.com/nvd/NVD:CVE-2026-126991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127016](https://vulners.com/nvd/NVD:CVE-2026-127016?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40820](https://vulners.com/nvd/NVD:CVE-2026-40820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47832](https://vulners.com/nvd/NVD:CVE-2026-47832?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61619](https://vulners.com/nvd/NVD:CVE-2026-61619?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -317,6 +335,7 @@
   - [CVE-2026-68539](https://vulners.com/nvd/NVD:CVE-2026-68539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68540](https://vulners.com/nvd/NVD:CVE-2026-68540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68862](https://vulners.com/nvd/NVD:CVE-2026-68862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-76173](https://vulners.com/nvd/NVD:CVE-2026-76173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76792](https://vulners.com/nvd/NVD:CVE-2026-76792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-77168](https://vulners.com/nvd/NVD:CVE-2026-77168?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-81936](https://vulners.com/nvd/NVD:CVE-2026-81936?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -340,7 +359,9 @@
 - Wired
   - [Acer Promo Codes: 40% Off](https://www.wired.com/story/acer-promo-code/)
   - [AirDoctor Coupon Codes: 40% Off | November 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+  - [Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently](https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/)
   - [Design Within Reach Promo Codes: 30% Off | November 2026](https://www.wired.com/story/design-within-reach-promo-code/)
+  - [Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out](https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/)
   - [HelloFresh Promo Codes: 55% Off for November 2026](https://www.wired.com/story/hellofresh-coupon/)
   - [Hydrow Discount Code: Save Up to $150 | November 2026](https://www.wired.com/story/hydrow-discount-code/)
   - [I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)
@@ -372,7 +393,11 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [Summit and Summary](https://dyrnq.com/summit-and-summary/)
+- 火绒安全实验室
+  - [电脑装完系统 是谁修改了你的主页？](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538850&idx=1&sn=6867f88445f872267e8222f0cadf3a93)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538850&idx=2&sn=6dd9a04f3fe2e4a0b3170d44d473fa30)
 - 爱范儿
+  - [iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南](https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了](https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我们正目睹乔布斯后科技史上最严重的逼宫](https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [折叠屏手机的转身｜明日后视镜](https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -381,5 +406,8 @@
   - [联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有](https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [微软11月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af11%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
+  - [绿盟科技携手运营商客户联合申报案例斩获“数信杯”优秀案例征集赛金奖](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%90%ba%e6%89%8b%e8%bf%90%e8%90%a5%e5%95%86%e5%ae%a2%e6%88%b7%e8%81%94%e5%90%88%e7%94%b3%e6%8a%a5%e6%a1%88%e4%be%8b%e6%96%a9%e8%8e%b7%e6%95%b0%e4%bf%a1/)
+- 量子位 QbitAI
+  - [Anthropic启动IPO路演，估值已缩水6000亿美元](https://www.qbitai.com/2026/11/509381.html)
 - 黑海洋
   - [HyperFlow H3 Flash 本地部署：RTX 4090 跑 5 秒视频要 152 秒](https://blog.upx8.com/HyperFlow-H3-Flash-RTX-4090-5-152)
