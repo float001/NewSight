@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2 站的黑洞, 是否相当于 v 站的水深火热?](https://2libra.com/post/forum-function/JSmAbAT)
+  - [fable5.2 做的清明上河图](https://2libra.com/post/personal-works/YYa7u49)
   - [【非蠢即坏 3】远离「垃圾人」：这五类人正在消耗你](https://2libra.com/post/personal-life/d7amYqu)
   - [【💰】有哪些便宜稳定的中转站鸭](https://2libra.com/post/ai-gateway/TtxXxJE)
   - [【💰】有杭州滨江的二次元吗](https://2libra.com/post/interest-groups/gJqabob)
@@ -17,6 +18,7 @@
   - [当年你们班第一名和最后一名的人都在干吗？](https://2libra.com/post/social-observation/n6Cgv0I)
   - [我觉得阿里的 workbench 很好用，适合运维能力不大好的人](https://2libra.com/post/sharing-discoveries/q-645bB)
   - [拍照的时候妹子不对你笑，那是因为你缺少一个配件！](https://2libra.com/post/photography-equipment/MLwsG5m)
+  - [晚安啊陌生人，我今天感觉好难过，可以给个抱抱吗？](https://2libra.com/post/mental-health/IKm5-sl)
   - [社区前端和 API 如何发帖到特定节点？比如说黑洞。](https://2libra.com/post/forum-function/ML_fpOS)
   - [速薅！Muse 免费 TG 机器人领取 30 亿 token～](https://2libra.com/post/deal-hunter/PnR6pRj)
   - [還是來了...Anthropic 新版《支持地区政策》](https://2libra.com/post/ai-trends/smTSf3P)
@@ -32,6 +34,7 @@
   - [Anduril says its first satellite can see adversaries maneuver in orbital night](https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/)
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
   - [CEO Jensen Huang's job is suddenly on the line at Nvidia](https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/)
+  - [Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk](https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/)
   - [T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says](https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/)
 - Articles | InfoStealers
   - [School Bomb Threats: Hudson Rock Finds Reported Sender Accounts in Infostealer Data](https://www.infostealers.com/article/school-bomb-threats-hudson-rock-finds-reported-sender-accounts-in-infostealer-data/)
@@ -51,6 +54,7 @@
   - [Nvidia preparing to oust CEO Jensen Huang: WSJ](https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea to permit crypto withdrawal freezes during hacking threats](https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022](https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Suiet wallet to shut down in latest exit from Sui ecosystem](https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -69,6 +73,7 @@
   - [Cyber pros unmask Qilin ransomware administrator as St. Petersburg man](https://cybernews.com/security/qilin-ransomware-administrator-unmasked/)
   - [How dangerous are online ads?](https://cybernews.com/security-hub/how-dangerous-are-online-ads/)
   - [IT firms and their clients hit: hackers hijack ScreenConnect, seize remote control](https://cybernews.com/security/screenconnect-hijacking-hackers-rogue-software-connectwise/)
+  - [Leak reveals how former US marine tried to trick Claude into spreading pro-Russian propaganda](https://cybernews.com/news/leak-ai-claude-pro-russian-propaganda/)
   - [Nvidia CEO Huang had relationship with executive who reported to him, NYT reports](https://cybernews.com/tech/nvidia-ceo-huang-second-affair/)
   - [Sovereign AI plan "makes no sense," German MP says](https://cybernews.com/ai-news/sovereign-ai-plan-makes-no-sense/)
   - [There’s no winner nor the finish line in the US-China AI race, an expert says](https://cybernews.com/ai-news/theres-no-winner-us-china-ai-race/)
@@ -183,6 +188,7 @@
   - [Hands on with Home Assistant’s new ‘smart home multi-tool’](https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on)
   - [Loot boxes, influencers, and addictive features face an EU crackdown](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection)
   - [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor)
+  - [Ring confirms its camera drone won’t have manual controls after crashing on CBS News](https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls)
   - [Toyota’s Scion is back, starting with an American-made, 25-mph kei truck](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival)
   - [United won’t let your AI agent book your flight](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)
 - Vulnerabilities and Threat Research – Qualys Security Blog
@@ -356,6 +362,8 @@
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/A08D29A5-2D34-5969-96FE-61B36E5BA0A8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [FeatherScan](https://vulners.com/gitee/09C9C145-071E-54F1-AA9F-D244248BEFDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [paper-reader](https://vulners.com/gitee/B62552C8-1EE5-55B7-A482-4216ABA67656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RUSTSEC-2026-0501 Shamir backup recovery accepts a share at x = 0, so a supplied share can substitute the recovered private key](https://vulners.com/osv_rustsec/OSV:RUSTSEC-2026-0501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Shamir backup recovery accepts a share at x = 0, so a supplied share can substitute the recovered private key](https://vulners.com/rustsec/RUSTSEC-2026-0501?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Acer Promo Codes: 40% Off](https://www.wired.com/story/acer-promo-code/)
   - [AirDoctor Coupon Codes: 40% Off | November 2026](https://www.wired.com/story/airdoctor-coupon-code/)
@@ -379,6 +387,7 @@
   - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
   - [Walking Pad Deals to Shop Ahead of Black Friday (2026)](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/)
   - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
+  - [You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online](https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/)
 - 不安全
   - [Chrome 曝出高危 0day 漏洞：已遭黑客实际利用，Google 紧急发布更新｜CVE-2026-125350](https://buaq.net/go-454374.html)
   - [Copperhound](https://buaq.net/go-454375.html)
@@ -393,6 +402,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
   - [Summit and Summary](https://dyrnq.com/summit-and-summary/)
+  - [Tunneling](https://dyrnq.com/tunneling/)
 - 火绒安全实验室
   - [电脑装完系统 是谁修改了你的主页？](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538850&idx=1&sn=6867f88445f872267e8222f0cadf3a93)
   - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538850&idx=2&sn=6dd9a04f3fe2e4a0b3170d44d473fa30)
@@ -403,6 +413,7 @@
   - [折叠屏手机的转身｜明日后视镜](https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [拆解触屏 MacBook Pro：点亮苹果 LOGO 的秘密，藏在这里](https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒](https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [森海塞尔 HDB 630 体验：把 Hi-Fi 音响，装进这副降噪耳机里](https://www.ifanr.com/1689209?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有](https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [微软11月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af11%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
