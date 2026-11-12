@@ -16,6 +16,9 @@
 - 404 Media
   - [It's One Banana Michael, What Could It Cost?](https://www.404media.co/its-one-banana-michael-what-could-it-cost/)
   - [Scientists Discovered An ‘Invisible’ Object In Space. It’s Challenging Our Understanding of the Cosmos](https://www.404media.co/scientists-discovered-an-invisible-object-in-space/)
+- anildash.com
+  - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
+  - [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/)
 - Ars Technica
   - [Anduril says its first satellite can see adversaries maneuver in orbital night](https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/)
   - [Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
@@ -259,6 +262,7 @@
   - [CVE-2026-91879](https://vulners.com/nvd/NVD:CVE-2026-91879?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91890](https://vulners.com/nvd/NVD:CVE-2026-91890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [dataease-3.2.0-exploit](https://vulners.com/gitee/A159CBEC-C902-5531-8CB0-21FF06A752C5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-119618](https://vulners.com/githubexploit/E916291A-9600-55AA-A02C-F5B6868AEE45?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-33050](https://vulners.com/githubexploit/4878B28A-06DB-55BF-AC02-829329F6D394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Improperly Controlled Sequential Memory Allocation in Php](https://vulners.com/githubexploit/A08D29A5-2D34-5969-96FE-61B36E5BA0A8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [FeatherScan](https://vulners.com/gitee/09C9C145-071E-54F1-AA9F-D244248BEFDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -271,11 +275,14 @@
   - [Walking Pad Deals to Shop Ahead of Black Friday (2026)](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/)
 - 不安全
   - [Quick-Shift](https://buaq.net/go-454331.html)
+  - [RAS-Eval](https://buaq.net/go-454357.html)
   - [Sedip a focused bash utility for rewriting listener addresses in payload files. Sedip updates the IPv4 address used in listener-style payloads to the current address of a chosen network interface (tun0 by default).](https://buaq.net/go-454344.html)
+  - [群晖曝出 27 个 DSM 安全漏洞，最高危 9.8 分！与此前勒索攻击有关吗？](https://buaq.net/go-454354.html)
   - [英伟达CUDA护城河迎来新挑战：Claude仅用3天就让模型适配AMD AI加速器](https://buaq.net/go-454333.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了](https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我们正目睹乔布斯后科技史上最严重的逼宫](https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [折叠屏手机的转身｜明日后视镜](https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [拆解触屏 MacBook Pro：点亮苹果 LOGO 的秘密，藏在这里](https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=)
