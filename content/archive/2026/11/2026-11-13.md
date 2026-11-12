@@ -5,23 +5,40 @@
 - 404 Media
   - ['No One Is Like This:' Muse Sexts While Roleplaying as Real People](https://www.404media.co/muse-sexts-roleplaying-real-people/)
   - ['Way more terrifying than I expected'](https://www.404media.co/way-more-terrifying-than-i-expected/)
+- Ars Technica
+  - [The amazing disappearing exoplanet](https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/)
 - ByteByteGo
   - [Top Types of Hidden Coupling and How to Deal With Them](https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and)
+- daringfireball.net
+  - [Trump Weighs in on Huang’s Successor](https://truthsocial.com/@realDonaldTrump/posts/117604177898784579)
+- Fidelis Security
+  - [How Fidelis Security Strengthens Azure Zero Trust Beyond Identity and Access](https://fidelissecurity.com/threatgeek/threat-detection-response/azure-zero-trust/)
 - Hacker News Frontpage
+  - [AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
   - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
+  - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 - infosecurity-magazine.com
   - [Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT](https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/)
 - Pen Test Partners
   - [Printerpix and the not so private photo album](https://www.pentestpartners.com/security-blog/printerpix-and-the-not-so-private-photo-album/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Google Chrome](https://sploitus.com/exploit?id=5705DBEF-EA59-5F4D-93C0-2AC909FC5E63&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Google Chrome](https://sploitus.com/exploit?id=ECBC577A-3D7B-5453-B467-8FF9FCF74D6E&utm_source=rss&utm_medium=rss)
+  - [Exploit for Prototype Pollution in Adobe Acrobat_Dc](https://sploitus.com/exploit?id=3FD2C0DB-FF07-5177-ADBA-BB5C88B92FD5&utm_source=rss&utm_medium=rss)
+  - [Exploit for Type Confusion in Google Chrome](https://sploitus.com/exploit?id=5D051D43-DCD7-561A-B1D8-F0DC6FFA7C0E&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry](https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/)
+  - [Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
   - [Jensen Huang agrees to testify before Congress](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/)
   - [Phota Labs uses AI to turn everyday photos into professional-looking shots](https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/)
   - [SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/)
   - [Trump floats Apple chairman Tim Cook as Jensen Huang’s successor](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/)
+  - [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/)
   - [Whoop just launched a social network](https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/)
 - The Block
+  - [Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets](https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992)
   - [Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says](https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988)
+  - [NYDFS sets fresh advertising standards for crypto firms](https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014)
   - [Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up](https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520)
 - The Decoder
   - [OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute](https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/)
@@ -31,6 +48,7 @@
   - [Google Wallet can finally unlock doors with digital home keys](https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout)
   - [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump)
   - [More game developers are using generative AI than they did last year](https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs)
+  - [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
   - [‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug](https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash)
 - Vulners.com RSS Feed
   - [CVE-2026-126329](https://vulners.com/nvd/NVD:CVE-2026-126329?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -46,5 +64,7 @@
   - [CVE-2026-70641](https://vulners.com/nvd/NVD:CVE-2026-70641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70642](https://vulners.com/nvd/NVD:CVE-2026-70642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91007](https://vulners.com/nvd/NVD:CVE-2026-91007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
