@@ -48,6 +48,7 @@
 - CoinTelegraph
   - [Bitcoin hovers near $74K as stocks rise despite US bond yield rebound](https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness](https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [EU DeFi proposals could push users to riskier platforms, says Coinbase exec](https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MSCI confirms Strategy’s removal from indexes at end of November](https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nomura explores sale of crypto unit Laser Digital: Bloomberg](https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -70,11 +71,13 @@
 - CyberNews
   - [Amplifon probes data breach affecting customers’ personal and health records](https://cybernews.com/news/amplifon-investigates-data-breach-affecting-customers-personal-and-health-records/)
   - [Bundestagsabgeordneter: Plan für souveräne KI „ergibt keinen Sinn“](https://cybernews.com/de/ki-news/souveraene-ki-plan-ergibt-keinen-sinn/)
+  - [Cozy with Trump for years, Palantir CEO Alex Karp now says he’s a progressive](https://cybernews.com/news/alex-karp-palantir-donald-trump-progressive/)
   - [Cyber pros unmask Qilin ransomware administrator as St. Petersburg man](https://cybernews.com/security/qilin-ransomware-administrator-unmasked/)
   - [How dangerous are online ads?](https://cybernews.com/security-hub/how-dangerous-are-online-ads/)
   - [IT firms and their clients hit: hackers hijack ScreenConnect, seize remote control](https://cybernews.com/security/screenconnect-hijacking-hackers-rogue-software-connectwise/)
   - [Leak reveals how former US marine tried to trick Claude into spreading pro-Russian propaganda](https://cybernews.com/news/leak-ai-claude-pro-russian-propaganda/)
   - [Nvidia CEO Huang had relationship with executive who reported to him, NYT reports](https://cybernews.com/tech/nvidia-ceo-huang-second-affair/)
+  - [Reddit defied US and German attempts to unmask users](https://cybernews.com/news/reddit-defied-us-and-german-attempts-to-unmask-users/)
   - [Sovereign AI plan "makes no sense," German MP says](https://cybernews.com/ai-news/sovereign-ai-plan-makes-no-sense/)
   - [There’s no winner nor the finish line in the US-China AI race, an expert says](https://cybernews.com/ai-news/theres-no-winner-us-china-ai-race/)
   - [Ukraine busts call center network behind €4.3M investment scam](https://cybernews.com/news/ukraine-call-center-investment-scam/)
@@ -129,6 +132,8 @@
 - Linux Foundation Blogs
   - [LF Research Launches 2027 Series of Studies and Opens Call for Sponsors](https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors)
   - [The Evolution of Commercial Open Source Software](https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software)
+- NVISO Labs
+  - [Breaking the Semantic Cache: A LiteLLM Case Study (CVE-2026-89032)](https://blog.nviso.eu/2026/11/12/breaking-the-semantic-cache-a-litellm-case-study-cve-2026-89032/)
 - OpenAI Blog
   - [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)
 - Product Hunt
@@ -141,6 +146,8 @@
   - [MultiScan SDR: A Multi-Band Pseudo-Spectrum Scanner for RTL-SDR, HackRF, Airspy and SDRplay](https://www.rtl-sdr.com/multiscan-sdr-a-multi-band-pseudo-spectrum-scanner-for-rtl-sdr-hackrf-airspy-and-sdrplay/)
 - Securelist
   - [Transcending the trust boundaries: how a cloud pentest works](https://securelist.com/how-a-cloud-pentest-works/121921/)
+- shkspr.mobi
+  - [Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆](https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/)
 - simonwillison.net
   - [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/)
   - [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/)
@@ -165,6 +172,8 @@
   - [Why Am I So Tired If AI Is Doing All the Work?](https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/)
 - The Block
   - [Apex Group joins Hedera Council to explore tokenization and settlement](https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917)
+  - [BitGo expands institutional stablecoin minting and redemption platform with USDC](https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525)
+  - [BNY taps Figment to support staking on its digital asset custody platform](https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538)
   - [Chainstack says AI-powered security breach exposed customer data; threat now contained](https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509)
   - [DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO](https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392)
   - [Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration](https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494)
@@ -180,6 +189,7 @@
   - [‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards](https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448)
 - The Decoder
   - [Australia's proposed AI safety bill would force frontier model makers to open up to independent testing](https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/)
+  - [Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2](https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/)
   - [Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years](https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/)
   - [Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/)
   - [US corporate AI spending hits a new high in October, but growth slows to 1.65 percent](https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/)
@@ -226,6 +236,7 @@
   - [CVE-2026-110041](https://vulners.com/nvd/NVD:CVE-2026-110041?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110072](https://vulners.com/nvd/NVD:CVE-2026-110072?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110959](https://vulners.com/nvd/NVD:CVE-2026-110959?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114369](https://vulners.com/nvd/NVD:CVE-2026-114369?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115819](https://vulners.com/nvd/NVD:CVE-2026-115819?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117373](https://vulners.com/nvd/NVD:CVE-2026-117373?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117474](https://vulners.com/nvd/NVD:CVE-2026-117474?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -259,6 +270,7 @@
   - [CVE-2026-124665](https://vulners.com/nvd/NVD:CVE-2026-124665?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124686](https://vulners.com/nvd/NVD:CVE-2026-124686?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124699](https://vulners.com/nvd/NVD:CVE-2026-124699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124705](https://vulners.com/nvd/NVD:CVE-2026-124705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124814](https://vulners.com/nvd/NVD:CVE-2026-124814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124815](https://vulners.com/nvd/NVD:CVE-2026-124815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124817](https://vulners.com/nvd/NVD:CVE-2026-124817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -311,6 +323,13 @@
   - [CVE-2026-126815 Pre-account hijacking via planted password](https://vulners.com/cvelist/CVELIST:CVE-2026-126815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126991](https://vulners.com/nvd/NVD:CVE-2026-126991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127016](https://vulners.com/nvd/NVD:CVE-2026-127016?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127036](https://vulners.com/nvd/NVD:CVE-2026-127036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127046](https://vulners.com/nvd/NVD:CVE-2026-127046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13764](https://vulners.com/nvd/NVD:CVE-2026-13764?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15309](https://vulners.com/nvd/NVD:CVE-2026-15309?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-16135](https://vulners.com/nvd/NVD:CVE-2026-16135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19421](https://vulners.com/nvd/NVD:CVE-2026-19421?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-2982](https://vulners.com/nvd/NVD:CVE-2026-2982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-40820](https://vulners.com/nvd/NVD:CVE-2026-40820?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47832](https://vulners.com/nvd/NVD:CVE-2026-47832?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-61619](https://vulners.com/nvd/NVD:CVE-2026-61619?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -389,6 +408,7 @@
   - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
   - [You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online](https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/)
 - 不安全
+  - [Breaking the Semantic Cache: A LiteLLM Case Study (CVE-2026-89032)](https://buaq.net/go-454437.html)
   - [Chrome 曝出高危 0day 漏洞：已遭黑客实际利用，Google 紧急发布更新｜CVE-2026-125350](https://buaq.net/go-454374.html)
   - [Copperhound](https://buaq.net/go-454375.html)
   - [Quick-Shift](https://buaq.net/go-454331.html)
