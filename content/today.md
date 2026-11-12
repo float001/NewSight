@@ -2,13 +2,16 @@
 
 - 2Libra
   - [【非蠢即坏 3】远离「垃圾人」：这五类人正在消耗你](https://2libra.com/post/personal-life/d7amYqu)
+  - [【💰】有哪些便宜稳定的中转站鸭](https://2libra.com/post/ai-gateway/TtxXxJE)
   - [【💰】有轻量级的 Postman 的替代品吗](https://2libra.com/post/recommendations/l5IXQxG)
   - [【💰】来看看正经的野生鲫鱼！晒晒你的渔获，随机打赏](https://2libra.com/post/fishing/aSkbMCY)
   - [【💰】还有哪家的 coding/token plan 性价比高](https://2libra.com/post/ai-programming/yFW5sAs)
   - [【💰】这个月的情绪有问题](https://2libra.com/post/personal-life/VAnfxaR)
   - [上班路上遇到的小可爱](https://2libra.com/post/pet-sharing/4FHsXwE)
   - [个人主页的关注和被关注可以显示对应用户/图片的尺寸现在可以设置百分比宽度](https://2libra.com/post/product-updates/AoIZFRl)
+  - [今天抽到了重复的潘多拉魔盒，我是赌狗我爱玩](https://2libra.com/post/forum-function/tpUduBY)
   - [发现杭州为什么这么冷？屋里比室外冷，被窝比屋里冷](https://2libra.com/post/small-things/CObtr3K)
+  - [当年你们班第一名和最后一名的人都在干吗？](https://2libra.com/post/social-observation/n6Cgv0I)
   - [我觉得阿里的 workbench 很好用，适合运维能力不大好的人](https://2libra.com/post/sharing-discoveries/q-645bB)
   - [拍照的时候妹子不对你笑，那是因为你缺少一个配件！](https://2libra.com/post/photography-equipment/MLwsG5m)
   - [還是來了...Anthropic 新版《支持地区政策》](https://2libra.com/post/ai-trends/smTSf3P)
@@ -36,6 +39,7 @@
   - [Nomura explores sale of crypto unit Laser Digital: Bloomberg](https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia preparing to oust CEO Jensen Huang: WSJ](https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKXICE moves ahead with tokenized stocks as blue chips push back](https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea to permit crypto withdrawal freezes during hacking threats](https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Suiet wallet to shut down in latest exit from Sui ecosystem](https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain](https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CXSecurity: World Laboratory of Bugtraq 2
@@ -268,19 +272,37 @@
   - [FeatherScan](https://vulners.com/gitee/09C9C145-071E-54F1-AA9F-D244248BEFDB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [paper-reader](https://vulners.com/gitee/B62552C8-1EE5-55B7-A482-4216ABA67656?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Acer Promo Codes: 40% Off](https://www.wired.com/story/acer-promo-code/)
+  - [AirDoctor Coupon Codes: 40% Off | November 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+  - [Design Within Reach Promo Codes: 30% Off | November 2026](https://www.wired.com/story/design-within-reach-promo-code/)
+  - [HelloFresh Promo Codes: 55% Off for November 2026](https://www.wired.com/story/hellofresh-coupon/)
+  - [Hydrow Discount Code: Save Up to $150 | November 2026](https://www.wired.com/story/hydrow-discount-code/)
   - [I Saw the Future of Robotics in a Virtual Duck That Chases My Cat](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/)
+  - [L.L.Bean Promo Codes and Coupons: 75% Off](https://www.wired.com/story/ll-bean-promo-code/)
+  - [Lenovo Coupon Codes: 15% Off in November 2026](https://www.wired.com/story/lenovo-coupon-code/)
+  - [Lovehoney Coupon Offers: 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
+  - [Nike Promo Codes and Discounts: 30% for November 2026](https://www.wired.com/story/nike-promo-code/)
+  - [Ring Promo Code: 50% Off](https://www.wired.com/story/ring-promo-code/)
+  - [Ruggable Discount Code: 30% Off Rugs | November 2026](https://www.wired.com/story/ruggable-discount-code/)
+  - [SelectBlinds Promo Codes & Coupons: 10% Off](https://www.wired.com/story/select-blinds-promo-code/)
   - [The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)](https://www.wired.com/story/best-black-friday-deals-11-11-2026/)
   - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
   - [The Best Early Black Friday MacBook Air Deal: $200 Off](https://www.wired.com/story/early-black-friday-macbook-air-deal/)
+  - [TurboTax Full Service Coupons This November 2026](https://www.wired.com/story/turbotax-coupon/)
+  - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
   - [Walking Pad Deals to Shop Ahead of Black Friday (2026)](https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/)
+  - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
 - 不安全
   - [Quick-Shift](https://buaq.net/go-454331.html)
   - [RAS-Eval](https://buaq.net/go-454357.html)
   - [Sedip a focused bash utility for rewriting listener addresses in payload files. Sedip updates the IPv4 address used in listener-style payloads to the current address of a chosen network interface (tun0 by default).](https://buaq.net/go-454344.html)
+  - [Summit and Summary](https://buaq.net/go-454367.html)
   - [群晖曝出 27 个 DSM 安全漏洞，最高危 9.8 分！与此前勒索攻击有关吗？](https://buaq.net/go-454354.html)
   - [英伟达CUDA护城河迎来新挑战：Claude仅用3天就让模型适配AMD AI加速器](https://buaq.net/go-454333.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Summit and Summary](https://dyrnq.com/summit-and-summary/)
 - 爱范儿
   - [刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了](https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [我们正目睹乔布斯后科技史上最严重的逼宫](https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -290,3 +312,5 @@
   - [联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有](https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [微软11月安全更新多个产品高危漏洞通告](https://blog.nsfocus.net/%e5%be%ae%e8%bd%af11%e6%9c%88%e5%ae%89%e5%85%a8%e6%9b%b4%e6%96%b0%e5%a4%9a%e4%b8%aa%e4%ba%a7%e5%93%81%e9%ab%98%e5%8d%b1%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
+- 黑海洋
+  - [HyperFlow H3 Flash 本地部署：RTX 4090 跑 5 秒视频要 152 秒](https://blog.upx8.com/HyperFlow-H3-Flash-RTX-4090-5-152)
