@@ -6,8 +6,11 @@
   - [【💰】定期存款限额了？](https://2libra.com/post/financial-management/uOS5kCi)
   - [【💰】签到一周年会有徽章吗？](https://2libra.com/post/forum-function/sR3iQuL)
   - [【💰】签到终于签到 9 级了「还有谁 📢」](https://2libra.com/post/forum-function/29qqkM3)
+  - [周五闲聊（下午）](https://2libra.com/post/office-life/pab4pBR)
   - [悲报 天翼云电脑的 coding plan 不给买了](https://2libra.com/post/ai-programming/pqmcL8n)
   - [现在的 gpt plus 是不是越来越路边一条了，还值得继续保留吗？](https://2libra.com/post/ai-tools/jmfN-pv)
+  - [肉鸽足球小游戏](https://2libra.com/post/game-share/FWzrxwy)
+  - [重磅发布全新字研 Harness + 1024B SB 大模型, 口工打磨 4020123456789 ns](https://2libra.com/post/ai-tools/iNx_1fG)
 - 404 Media
   - ['No One Is Like This:' Muse Sexts While Roleplaying as Real People](https://www.404media.co/muse-sexts-roleplaying-real-people/)
   - ['Way more terrifying than I expected'](https://www.404media.co/way-more-terrifying-than-i-expected/)
@@ -27,6 +30,7 @@
   - [VU#580079: Arbitrary file read/write vulnerability in ImageMagick-based applications with default configuration](https://kb.cert.org/vuls/id/580079)
   - [VU#644655: TightVNC and UltraVNC Viewer contains a heap-based buffer overflow](https://kb.cert.org/vuls/id/644655)
 - CoinTelegraph
+  - [Bitcoin slides below $70K amid thin liquidity, ETF outflows](https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DTCC Plans Solana Expansion as Wallet Rules Limit Access](https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Nvidia CEO Huang had third alleged affair: Reuters](https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini’s quarterly retail trading volume sinks to 3-year low](https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -60,6 +64,7 @@
   - [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
   - [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
   - [Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company](https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html)
+  - [The average cost for a new vehicle in the U.S. hits a record high: over $51,000](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
   - [Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job](https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html)
   - [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)
 - HackerNews
@@ -311,12 +316,16 @@
   - [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://vulners.com/thn/THN:86A86BCAB9397B2E1701137A56F5381C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Climate Change Has Pushed the World's Ice Out of Its Safe Zone](https://www.wired.com/story/climate-change-abolishes-ice/)
+  - [Gametime Promo Code: Save on Tickets in November 2026](https://www.wired.com/story/gametime-promo-code/)
+  - [Instacart Promo Code: $15 Off | November 2026](https://www.wired.com/story/instacart-promo/code/)
   - [Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/)
   - [Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women](https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/)
   - [Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?](https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/)
   - [Jensen Huang’s $470 Billion Affair](https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/)
+  - [LG Promo Codes and Coupons for November 2026](https://www.wired.com/story/lg-promo-code/)
   - [Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email](https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/)
   - [Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year](https://www.wired.com/story/mint-mobile-phone-deal-november-2026/)
+  - [Peacock Promo Codes: 40% Off November 2026](https://www.wired.com/story/peacock-promo-code/)
   - [Roborock Robot Vacuum Early Black Friday Deals (2026)](https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/)
   - [Silicon Valley Is Still Defending Jensen Huang](https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/)
   - [The 10 Best Early Black Friday TV Deals (2026)](https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/)
@@ -331,6 +340,8 @@
   - [applicationId 和 namespace](https://dyrnq.com/applicationid-and-namespace/)
   - [matrix](https://dyrnq.com/matrix/)
   - [垭口](https://dyrnq.com/%e5%9e%ad%e5%8f%a3/)
+- 奇客Solidot–传递最新科技情报
+  - [微软云服务全球宕机](https://www.solidot.org/story?sid=85875)
 - 爱范儿
   - [刚刚，Gemini 4 新模型叒来了，终于人人可用](https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口](https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=)
