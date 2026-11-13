@@ -3,6 +3,7 @@
 - 2Libra
   - [100 多 KB 论坛开源程序，搭建访问速度很快【LiteBBS】](https://2libra.com/post/open-source-sharing/hjeO8pJ)
   - [L 站一个老黄梗帖](https://2libra.com/post/slacking-off/L2xmqLz)
+  - [Muse 邀请机器人免费得 30 亿](https://2libra.com/post/invite-code/mdXOIzy)
   - [【T2】T2 Desktop: 第三方 2Libra 原生桌面端。](https://2libra.com/post/oauth/LrI3fJd)
   - [【一人食】碳水给的快乐～ 🍜🍜🍜](https://2libra.com/post/personal-life/3xcuhI8)
   - [【💰】定期存款限额了？](https://2libra.com/post/financial-management/uOS5kCi)
@@ -19,6 +20,7 @@
   - [祝大家周末愉快，抽一个人送 200 金币。续集 1](https://2libra.com/post/slacking-off/JdXXTZk)
   - [经典场面](https://2libra.com/post/movie-sharing/ycuYY49)
   - [肉鸽足球小游戏](https://2libra.com/post/game-share/FWzrxwy)
+  - [被优化 3 个月了...](https://2libra.com/post/workplace-stories/upeU4Kp)
   - [请求数低？](https://2libra.com/post/ai-programming/uANQ5BE)
   - [那位兄弟给一个那种卖 gemini 号的网站，之前在 V 站上看见过一个，没有收藏找不到了](https://2libra.com/post/recommendations/pJIB8oK)
   - [重磅发布全新字研 Harness + 1024B SB 大模型, 口工打磨 4020123456789 ns](https://2libra.com/post/ai-tools/iNx_1fG)
@@ -50,6 +52,7 @@
   - [Former Nvidia CEO Huang had third alleged affair: Reuters](https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Gemini’s quarterly retail trading volume sinks to 3-year low](https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Israeli police arrest five in $5M WhatsApp crypto trading probe](https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Maple Finance’s strategy rift sends co-founder, COO to the exits](https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Microsoft 365 outage hits Outlook email and Teams calendars worldwide](https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express](https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -59,8 +62,11 @@
   - [US Justice Department, business groups and DeFi firms challenge Illinois crypto tax](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Unocoin keeps deposits and withdrawals halted over suspect transfers](https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [7 Vendors That Manage Enterprise PQC Transition Programs](https://www.cyberkendra.com/2026/11/7-vendors-that-manage-enterprise-pqc-transition-programs.html)
 - CyberNews
   - [911 outage has people fearing the worst](https://cybernews.com/news/911-line-down-outage/)
+  - [Americans re-educated Alibaba’s AI to say things China usually censors](https://cybernews.com/security/alibaba-qwen-chinese-propaganda-reeducation/)
   - [Chip giant TSMC, hot target for identity theft, confirms data breach](https://cybernews.com/security/tsmc-chip-giant-employee-data-breach/)
   - [Europol disrupts Gootloader, two other major malware operations](https://cybernews.com/news/europol-disrupts-gootloader-malware-network/)
   - [Experts weigh in on Huang’s resignation: “Entitled” tech CEOs have too much power](https://cybernews.com/news/nvidia-personality-cult/)
@@ -68,6 +74,7 @@
   - [Microsoft fails to fix outage as millions face disruption](https://cybernews.com/security/microsoft-outage-outlook-teams/)
   - [She is Nvidia's interim CEO](https://cybernews.com/tech/she-is-nvidias-interim-ceo/)
   - [Thousands of school bomb threat emails in Europe were sent from previously hacked accounts](https://cybernews.com/security/school-bomb-threats-europe-hacked-accounts/)
+  - [Will AI ruin UFO disclosure before the truth ever comes out?](https://cybernews.com/news/ufo-uap-ai-cube-viral-footage-debunk/)
 - daringfireball.net
   - [And Every New Boy That You Meet / He Doesn’t Know the Real Surprise](https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY)
   - [Reuters Raises the Jensen Huang Affair Tally to Three](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/)
@@ -75,6 +82,7 @@
   - [The Dream of Quibi Lives On](https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience)
   - [Trump Weighs in on Huang’s Successor](https://truthsocial.com/@realDonaldTrump/posts/117604177898784579)
 - darkreading
+  - [Attackers in Binance Breach Targeted Known Weakness, Missing Controls](https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls)
   - [Cyber Experts Weigh In: How to Fight Artex &amp; AntiFox](https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox)
   - [Extortion Group Luna Moth Flits Into Law Firms a Second Time](https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time)
 - Fidelis Security
@@ -125,6 +133,8 @@
   - [Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes](https://securelist.com/esxi-ransomware/121959/)
 - Seebug Paper
   - [面向移动 SQLite 数据库的上下文感知证据抽取：一个符号—神经框架](https://paper.seebug.org/3534)
+- shkspr.mobi
+  - [Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2025-67898](https://sploitus.com/exploit?id=3F0DDB32-F083-582A-99DD-2447CD5B6BF3&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Google Chrome](https://sploitus.com/exploit?id=5705DBEF-EA59-5F4D-93C0-2AC909FC5E63&utm_source=rss&utm_medium=rss)
@@ -136,7 +146,9 @@
   - [Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry](https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/)
   - [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
   - [Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
+  - [Israel’s VCs see opportunity for challengers in Nvidia’s turmoil](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/)
   - [Jensen Huang agrees to testify before Congress](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/)
+  - [Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/)
   - [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)
   - [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
   - [Microsoft’s Outlook email hit by new outage](https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/)
@@ -161,6 +173,7 @@
   - [Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight](https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052)
   - [NYDFS sets fresh advertising standards for crypto firms](https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014)
   - [Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering](https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676)
+  - [UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems](https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692)
   - [Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up](https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520)
   - [White House sends crypto-relevant picks to fill SEC and CFTC seats](https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175)
 - The Decoder
@@ -169,6 +182,7 @@
 - The Verge
   - [25 years later, Xbox is trying to reinvent itself again](https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad)
   - [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations)
+  - [Apple should have made the MacBook logo RGB](https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors)
   - [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang)
   - [Google Wallet can finally unlock doors with digital home keys](https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout)
   - [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)
@@ -177,6 +191,7 @@
   - [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump)
   - [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow)
   - [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
+  - [Microsoft&#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)
   - [More game developers are using generative AI than they did last year](https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs)
   - [No, AI agents did not discover a previously unknown Maya site](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)
   - [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video)
@@ -232,6 +247,7 @@
   - [CVE-2026-118065](https://vulners.com/nvd/NVD:CVE-2026-118065?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118495](https://vulners.com/nvd/NVD:CVE-2026-118495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-119275](https://vulners.com/nvd/NVD:CVE-2026-119275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120221](https://vulners.com/nvd/NVD:CVE-2026-120221?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120407](https://vulners.com/nvd/NVD:CVE-2026-120407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120466](https://vulners.com/nvd/NVD:CVE-2026-120466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120468](https://vulners.com/nvd/NVD:CVE-2026-120468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -444,6 +460,7 @@
   - [redis-rogue-server-refined](https://vulners.com/githubexploit/A88EC4CD-82C7-507D-82C3-6AAB59315F08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://vulners.com/thn/THN:86A86BCAB9397B2E1701137A56F5381C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [3 Best Walking Pad Treadmills for Homes and Offices (2026)](https://www.wired.com/story/best-walking-pads/)
   - [Bitdefender Antivirus Plus Review: Undercutting the Competition](https://www.wired.com/review/bitdefender-antivirus-plus/)
   - [Climate Change Has Pushed the World's Ice Out of Its Safe Zone](https://www.wired.com/story/climate-change-abolishes-ice/)
   - [Even Black Friday Will Be More Expensive Than Usual](https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/)
@@ -478,6 +495,7 @@
 - 博客
   - [applicationId 和 namespace](https://dyrnq.com/applicationid-and-namespace/)
   - [matrix](https://dyrnq.com/matrix/)
+  - [stdbuf](https://dyrnq.com/stdbuf/)
   - [systemd-udevd](https://dyrnq.com/systemd-udevd/)
   - [垭口](https://dyrnq.com/%e5%9e%ad%e5%8f%a3/)
 - 奇客Solidot–传递最新科技情报
