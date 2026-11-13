@@ -3,10 +3,12 @@
 - 404 Media
   - [Behind the Blog: Priorities, Priorities](https://www.404media.co/behind-the-blog-priorities-priorities/)
 - Ars Technica
+  - [Millions in US use unapproved GLP-1s—and use them in unapproved ways](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/)
   - [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
   - [Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket](https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/)
   - [Windows 0-day dropped by disgruntled researcher hands hackers System rights](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/)
 - CoinTelegraph
+  - [Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system](https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin holds below $70K as stocks slip despite a cooler US PPI print](https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet swings to $170M loss as Bitcoin sale hits earnings](https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US regulators move ahead on crypto trust charters as Senate scrutiny grows](https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -21,8 +23,12 @@
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
   - [6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)
+  - [All US airports are currently ground stopped](https://twitter.com/flightradar24/status/2121347654714077605)
   - [Big tech is here to let us down](https://blog.jsweeting.me/big-tech-is-here-to-let-us-down)
+  - [FAA issues nationwide ground stop due to "extraordinary circumstances"](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
   - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
+- Microsoft Security Blog
+  - [SCKit abuses ScreenConnect to deploy remote access and target technician sessions](https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/)
 - pluralistic.net
   - [Pluralistic: I told you so (13 Nov 2026)](https://pluralistic.net/2026/11/13/outlookpocalypse/)
 - Sploitus.com Exploits RSS Feed
@@ -32,6 +38,7 @@
   - [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
   - [Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
   - [This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board](https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/)
+  - [US government grounds all flights across the United States ‘due to extraordinary circumstances’](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/)
 - The Block
   - [CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders](https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199)
   - [House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns](https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207)
@@ -46,6 +53,7 @@
 - The Verge
   - [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
   - [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
+  - [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
   - [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
   - [Jensen Huang was reckless with the environment, too](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution)
   - [Microsoft&#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)
@@ -169,6 +177,7 @@
 - Wired
   - [Atlas Coffee Club’s Black Friday Deals (2026)](https://www.wired.com/story/atlas-coffee-club-black-friday-2026/)
   - [Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites](https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/)
+  - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)
   - [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
   - [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
   - [The Microsoft Outage Is a Warning for the World](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/)
