@@ -2,6 +2,8 @@
 
 - 2Libra
   - [100 多 KB 论坛开源程序，搭建访问速度很快【LiteBBS】](https://2libra.com/post/open-source-sharing/hjeO8pJ)
+  - [L 站一个老黄梗帖](https://2libra.com/post/slacking-off/L2xmqLz)
+  - [【T2】T2 Desktop: 第三方 2Libra 原生桌面端。](https://2libra.com/post/oauth/LrI3fJd)
   - [【一人食】碳水给的快乐～ 🍜🍜🍜](https://2libra.com/post/personal-life/3xcuhI8)
   - [【💰】定期存款限额了？](https://2libra.com/post/financial-management/uOS5kCi)
   - [【💰】签到一周年会有徽章吗？](https://2libra.com/post/forum-function/sR3iQuL)
@@ -12,8 +14,10 @@
   - [悲报 天翼云电脑的 coding plan 不给买了](https://2libra.com/post/ai-programming/pqmcL8n)
   - [有没有买车经验啊大佬们！](https://2libra.com/post/automobile/1IGWMa6)
   - [现在的 gpt plus 是不是越来越路边一条了，还值得继续保留吗？](https://2libra.com/post/ai-tools/jmfN-pv)
+  - [祝大家周末愉快，抽一个人送 200 金币。续集 1](https://2libra.com/post/slacking-off/JdXXTZk)
   - [经典场面](https://2libra.com/post/movie-sharing/ycuYY49)
   - [肉鸽足球小游戏](https://2libra.com/post/game-share/FWzrxwy)
+  - [请求数低？](https://2libra.com/post/ai-programming/uANQ5BE)
   - [那位兄弟给一个那种卖 gemini 号的网站，之前在 V 站上看见过一个，没有收藏找不到了](https://2libra.com/post/recommendations/pJIB8oK)
   - [重磅发布全新字研 Harness + 1024B SB 大模型, 口工打磨 4020123456789 ns](https://2libra.com/post/ai-tools/iNx_1fG)
 - 404 Media
@@ -41,12 +45,15 @@
   - [Gemini’s quarterly retail trading volume sinks to 3-year low](https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Maple Finance’s strategy rift sends co-founder, COO to the exits](https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Microsoft 365 outage hits Outlook email and Teams calendars worldwide](https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express](https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off](https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump nominates Hester Peirce successor among SEC, CFTC picks](https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Justice Department, business groups and DeFi firms challenge Illinois crypto tax](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Chip giant TSMC, hot target for identity theft, confirms data breach](https://cybernews.com/security/tsmc-chip-giant-employee-data-breach/)
   - [Experts weigh in on Huang’s resignation: “Entitled” tech CEOs have too much power](https://cybernews.com/news/nvidia-personality-cult/)
+  - [Iranian spies convicted over surveillance of UK journalists](https://cybernews.com/news/iran-spies-convicted-uk/)
   - [She is Nvidia's interim CEO](https://cybernews.com/tech/she-is-nvidias-interim-ceo/)
 - daringfireball.net
   - [And Every New Boy That You Meet / He Doesn’t Know the Real Surprise](https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY)
@@ -85,13 +92,20 @@
   - [Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT](https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/)
 - MIT Technology Review
   - [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
+- NVISO Labs
+  - [Detection Engineering: Implementing Detection-as-Code in an Existing Environment: Part 3 – Validation and Future Possibilities](https://blog.nviso.eu/2026/11/13/detection-engineering-implementing-detection-as-code-in-an-existing-environment-part-3-validation-and-future-possibilities/)
 - Pen Test Partners
   - [Printerpix and the not so private photo album](https://www.pentestpartners.com/security-blog/printerpix-and-the-not-so-private-photo-album/)
 - pluralistic.net
   - [Pluralistic: Uber's labor crash (12 Nov 2026)](https://pluralistic.net/2026/11/12/starvation-wages/)
 - rtl-sdr.com
   - [MultiPSK Will Become Free of Charge From January 2027](https://www.rtl-sdr.com/multipsk-will-become-free-of-charge-from-january-2027/)
+- Securelist
+  - [Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes](https://securelist.com/esxi-ransomware/121959/)
+- Seebug Paper
+  - [面向移动 SQLite 数据库的上下文感知证据抽取：一个符号—神经框架](https://paper.seebug.org/3534)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2025-67898](https://sploitus.com/exploit?id=3F0DDB32-F083-582A-99DD-2447CD5B6BF3&utm_source=rss&utm_medium=rss)
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Google Chrome](https://sploitus.com/exploit?id=5705DBEF-EA59-5F4D-93C0-2AC909FC5E63&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Google Chrome](https://sploitus.com/exploit?id=ECBC577A-3D7B-5453-B467-8FF9FCF74D6E&utm_source=rss&utm_medium=rss)
   - [Exploit for Prototype Pollution in Adobe Acrobat_Dc](https://sploitus.com/exploit?id=3FD2C0DB-FF07-5177-ADBA-BB5C88B92FD5&utm_source=rss&utm_medium=rss)
@@ -172,11 +186,19 @@
   - [CVE-2026-107410 Memory overflow in NetScaler Push can lead to unpredictable or erroneous behavior or Denial of Service in Citrix NetScaler](https://vulners.com/cvelist/CVELIST:CVE-2026-107410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107415](https://vulners.com/nvd/NVD:CVE-2026-107415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107443](https://vulners.com/nvd/NVD:CVE-2026-107443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111333](https://vulners.com/nvd/NVD:CVE-2026-111333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111334](https://vulners.com/nvd/NVD:CVE-2026-111334?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111335](https://vulners.com/nvd/NVD:CVE-2026-111335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111336](https://vulners.com/nvd/NVD:CVE-2026-111336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111337](https://vulners.com/nvd/NVD:CVE-2026-111337?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111338](https://vulners.com/nvd/NVD:CVE-2026-111338?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111339](https://vulners.com/nvd/NVD:CVE-2026-111339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111340](https://vulners.com/nvd/NVD:CVE-2026-111340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111341](https://vulners.com/nvd/NVD:CVE-2026-111341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111342](https://vulners.com/nvd/NVD:CVE-2026-111342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111456](https://vulners.com/nvd/NVD:CVE-2026-111456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116059](https://vulners.com/nvd/NVD:CVE-2026-116059?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116432](https://vulners.com/nvd/NVD:CVE-2026-116432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117543](https://vulners.com/nvd/NVD:CVE-2026-117543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117550](https://vulners.com/nvd/NVD:CVE-2026-117550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117551](https://vulners.com/nvd/NVD:CVE-2026-117551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -191,6 +213,10 @@
   - [CVE-2026-120469](https://vulners.com/nvd/NVD:CVE-2026-120469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120470](https://vulners.com/nvd/NVD:CVE-2026-120470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120471](https://vulners.com/nvd/NVD:CVE-2026-120471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120860](https://vulners.com/nvd/NVD:CVE-2026-120860?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120861](https://vulners.com/nvd/NVD:CVE-2026-120861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120862](https://vulners.com/nvd/NVD:CVE-2026-120862?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120863](https://vulners.com/nvd/NVD:CVE-2026-120863?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120868](https://vulners.com/nvd/NVD:CVE-2026-120868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121853](https://vulners.com/nvd/NVD:CVE-2026-121853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123093](https://vulners.com/nvd/NVD:CVE-2026-123093?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -306,6 +332,7 @@
   - [CVE-2026-128067](https://vulners.com/nvd/NVD:CVE-2026-128067?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-128091](https://vulners.com/nvd/NVD:CVE-2026-128091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-128321](https://vulners.com/nvd/NVD:CVE-2026-128321?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128637](https://vulners.com/nvd/NVD:CVE-2026-128637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15465](https://vulners.com/cve/CVE-2026-15465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15465](https://vulners.com/nvd/NVD:CVE-2026-15465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-15465 GPU DDK - Write UAF in OSDebugSignalPID due to incorrect management of PID resources](https://vulners.com/cvelist/CVELIST:CVE-2026-15465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -326,6 +353,14 @@
   - [CVE-2026-47710](https://vulners.com/nvd/NVD:CVE-2026-47710?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-47711](https://vulners.com/nvd/NVD:CVE-2026-47711?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-52786](https://vulners.com/nvd/NVD:CVE-2026-52786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59074](https://vulners.com/nvd/NVD:CVE-2026-59074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59075](https://vulners.com/nvd/NVD:CVE-2026-59075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59076](https://vulners.com/nvd/NVD:CVE-2026-59076?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59077](https://vulners.com/nvd/NVD:CVE-2026-59077?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59078](https://vulners.com/nvd/NVD:CVE-2026-59078?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59079](https://vulners.com/nvd/NVD:CVE-2026-59079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59080](https://vulners.com/nvd/NVD:CVE-2026-59080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-59081](https://vulners.com/nvd/NVD:CVE-2026-59081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-68548](https://vulners.com/nvd/NVD:CVE-2026-68548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70641](https://vulners.com/nvd/NVD:CVE-2026-70641?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-70642](https://vulners.com/nvd/NVD:CVE-2026-70642?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -360,6 +395,7 @@
   - [Steam Linux客户端正式转向64位版 不过仍然会继续保留部分32位依赖](https://buaq.net/go-454663.html)
   - [俄罗斯Yandex承认部分客户数据永久丢失 数据中心被无人机袭击后正在恢复](https://buaq.net/go-454602.html)
   - [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://buaq.net/go-454601.html)
+  - [面向移动 SQLite 数据库的上下文感知证据抽取：一个符号—神经框架](https://buaq.net/go-454679.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
@@ -372,5 +408,6 @@
   - [AI 时代，公司的「新厂房」长什么样？](https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 新模型叒来了，终于人人可用](https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口](https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归](https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [工信厅信管〔2026〕42号文件，把智能体安全从“功能”变成了“要件”](https://blog.nsfocus.net/%e5%b7%a5%e4%bf%a1%e5%8e%85%e4%bf%a1%e7%ae%a1%e3%80%942026%e3%80%9542%e5%8f%b7%e6%96%87%e4%bb%b6%ef%bc%8c%e6%8a%8a%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e4%bb%8e%e5%8a%9f%e8%83%bd/)
