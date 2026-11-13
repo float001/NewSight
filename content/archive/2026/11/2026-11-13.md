@@ -2,6 +2,7 @@
 
 - 2Libra
   - [100 多 KB 论坛开源程序，搭建访问速度很快【LiteBBS】](https://2libra.com/post/open-source-sharing/hjeO8pJ)
+  - [【💰】定期存款限额了？](https://2libra.com/post/financial-management/uOS5kCi)
 - 404 Media
   - ['No One Is Like This:' Muse Sexts While Roleplaying as Real People](https://www.404media.co/muse-sexts-roleplaying-real-people/)
   - ['Way more terrifying than I expected'](https://www.404media.co/way-more-terrifying-than-i-expected/)
@@ -19,8 +20,10 @@
   - [Top Types of Hidden Coupling and How to Deal With Them](https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and)
 - CERT Recently Published Vulnerability Notes
   - [VU#580079: Arbitrary file read/write vulnerability in ImageMagick-based applications with default configuration](https://kb.cert.org/vuls/id/580079)
+  - [VU#644655: TightVNC and UltraVNC Viewer contains a heap-based buffer overflow](https://kb.cert.org/vuls/id/644655)
 - CoinTelegraph
   - [DTCC Plans Solana Expansion as Wallet Rules Limit Access](https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Gemini’s quarterly retail trading volume sinks to 3-year low](https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Maple Finance’s strategy rift sends co-founder, COO to the exits](https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express](https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -53,6 +56,8 @@
   - [AI Is Dividing Product Designers: Exploring vs. Building](https://hackernoon.com/ai-is-dividing-product-designers-exploring-vs-building?source=rss)
 - Horizon3.ai
   - [CVE-2026-119618 | Apache HTTP Server mod_http2 Race Condition Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-119618/)
+- idiallo.com
+  - [So you want to buy AI for your company](https://idiallo.com/byte-size/buying-ai-for-your-company)
 - infosecurity-magazine.com
   - [Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT](https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/)
 - MIT Technology Review
@@ -98,6 +103,7 @@
 - The Verge
   - [25 years later, Xbox is trying to reinvent itself again](https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad)
   - [AI chatbots are recommending fake retail websites, study finds](https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations)
+  - [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang)
   - [Google Wallet can finally unlock doors with digital home keys](https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout)
   - [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)
   - [Here are the 25 original Xbox games you can now play on PC](https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility)
@@ -110,6 +116,7 @@
   - [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
   - [The Oura Ring 4 is almost as good as the newer model, but $150 cheaper](https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale)
   - [Whoop launched a social network where every user has a ‘verified heartbeat’](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network)
+  - [Xbox announces Wolfenstein 3](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3)
   - [Xbox owners are getting more customizations for backgrounds and the Guide menu](https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature)
   - [‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation](https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions)
   - [‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug](https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash)
@@ -139,6 +146,7 @@
   - [CVE-2026-120469](https://vulners.com/nvd/NVD:CVE-2026-120469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120470](https://vulners.com/nvd/NVD:CVE-2026-120470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120471](https://vulners.com/nvd/NVD:CVE-2026-120471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120868](https://vulners.com/nvd/NVD:CVE-2026-120868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124002](https://vulners.com/nvd/NVD:CVE-2026-124002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124003](https://vulners.com/nvd/NVD:CVE-2026-124003?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124004](https://vulners.com/nvd/NVD:CVE-2026-124004?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -183,12 +191,28 @@
   - [CVE-2026-126354](https://vulners.com/cve/CVE-2026-126354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126354](https://vulners.com/nvd/NVD:CVE-2026-126354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126354 Addressable URI normalization resolves some dotted path segments to the wrong path](https://vulners.com/cvelist/CVELIST:CVE-2026-126354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126355](https://vulners.com/nvd/NVD:CVE-2026-126355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126355 Hono: `csrf()` does not check requests sent by hyperlink auditing (`text/ping`)](https://vulners.com/cve/CVE-2026-126355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126355 Hono: `csrf()` does not check requests sent by hyperlink auditing (`text/ping`)](https://vulners.com/cvelist/CVELIST:CVE-2026-126355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126356](https://vulners.com/nvd/NVD:CVE-2026-126356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126356 Hono: `validator('form')` skips validation for `multipart/form-data` requests with extra parameters](https://vulners.com/cve/CVE-2026-126356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126356 Hono: `validator('form')` skips validation for `multipart/form-data` requests with extra parameters](https://vulners.com/cvelist/CVELIST:CVE-2026-126356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126357](https://vulners.com/nvd/NVD:CVE-2026-126357?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126358](https://vulners.com/nvd/NVD:CVE-2026-126358?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126359](https://vulners.com/nvd/NVD:CVE-2026-126359?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126360](https://vulners.com/nvd/NVD:CVE-2026-126360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126361](https://vulners.com/nvd/NVD:CVE-2026-126361?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126362](https://vulners.com/nvd/NVD:CVE-2026-126362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126363](https://vulners.com/nvd/NVD:CVE-2026-126363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126364](https://vulners.com/nvd/NVD:CVE-2026-126364?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126365](https://vulners.com/nvd/NVD:CVE-2026-126365?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126366](https://vulners.com/nvd/NVD:CVE-2026-126366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126367](https://vulners.com/nvd/NVD:CVE-2026-126367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126792](https://vulners.com/nvd/NVD:CVE-2026-126792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126823](https://vulners.com/nvd/NVD:CVE-2026-126823?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126831](https://vulners.com/nvd/NVD:CVE-2026-126831?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126839](https://vulners.com/nvd/NVD:CVE-2026-126839?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126982](https://vulners.com/nvd/NVD:CVE-2026-126982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127063](https://vulners.com/nvd/NVD:CVE-2026-127063?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127099](https://vulners.com/nvd/NVD:CVE-2026-127099?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127100](https://vulners.com/nvd/NVD:CVE-2026-127100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -204,6 +228,13 @@
   - [CVE-2026-127204](https://vulners.com/nvd/NVD:CVE-2026-127204?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127209](https://vulners.com/nvd/NVD:CVE-2026-127209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127211](https://vulners.com/nvd/NVD:CVE-2026-127211?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127212](https://vulners.com/nvd/NVD:CVE-2026-127212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127273](https://vulners.com/nvd/NVD:CVE-2026-127273?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127274](https://vulners.com/nvd/NVD:CVE-2026-127274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127275](https://vulners.com/nvd/NVD:CVE-2026-127275?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128065](https://vulners.com/nvd/NVD:CVE-2026-128065?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128066](https://vulners.com/nvd/NVD:CVE-2026-128066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128067](https://vulners.com/nvd/NVD:CVE-2026-128067?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19809](https://vulners.com/nvd/NVD:CVE-2026-19809?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45265](https://vulners.com/nvd/NVD:CVE-2026-45265?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45341](https://vulners.com/nvd/NVD:CVE-2026-45341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -224,6 +255,9 @@
   - [CVE-2026-81843](https://vulners.com/nvd/NVD:CVE-2026-81843?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91007](https://vulners.com/nvd/NVD:CVE-2026-91007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91141](https://vulners.com/nvd/NVD:CVE-2026-91141?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92735](https://vulners.com/nvd/NVD:CVE-2026-92735?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93333](https://vulners.com/nvd/NVD:CVE-2026-93333?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93335](https://vulners.com/nvd/NVD:CVE-2026-93335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-68P9-83H6-5WPJ Action View: Possible XSS vulnerability in tag helpers](https://vulners.com/osv_ghsa/OSV:GHSA-68P9-83H6-5WPJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [redis-rogue-server-refined](https://vulners.com/githubexploit/A88EC4CD-82C7-507D-82C3-6AAB59315F08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://vulners.com/thn/THN:86A86BCAB9397B2E1701137A56F5381C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -239,6 +273,9 @@
   - [Silicon Valley Is Still Defending Jensen Huang](https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/)
   - [The 10 Best Early Black Friday TV Deals (2026)](https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/)
   - [Walmart Early Black Friday Deals Double as Great Gifts (2026)](https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/)
+- 不安全
+  - [俄罗斯Yandex承认部分客户数据永久丢失 数据中心被无人机袭击后正在恢复](https://buaq.net/go-454602.html)
+  - [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://buaq.net/go-454601.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
