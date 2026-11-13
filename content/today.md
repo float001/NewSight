@@ -34,6 +34,7 @@
   - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/)
   - [Man's secret use of synthetic testosterone for cows nearly destroyed his heart](https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/)
   - [Netflix releases new trailer for Ray Gunn](https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/)
+  - [Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride](https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/)
   - [The amazing disappearing exoplanet](https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/)
   - [The Elder Scrolls' most obscure adventure gets a 4K PC makeover](https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/)
   - [Ukraine says it can’t stop Russian strikes because Starshield is limited again](https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/)
@@ -85,6 +86,7 @@
   - [Claude Is Down](https://status.claude.com/history)
   - [Don't argue with me. $100k is fair, and you know it](https://folklore.org/Switcher.html)
   - [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+  - [Europe's electric car sales jump 49% as global EV sales grow](https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/)
   - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
   - [Outlook is down, and so is Microsoft's status page](https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/)
   - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
@@ -105,7 +107,10 @@
 - infosecurity-magazine.com
   - [AI Set to Revolutionize Ransomware Following “Stagnant” Few Years](https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/)
   - [Microsoft 365 Outage Set to Ramp up Security Risks to Organizations](https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/)
+  - [Phishing Rises Three Times Faster in Europe Than Globally, Proofpoint Finds](https://www.infosecurity-magazine.com/news/phishing-rises-faster-europe/)
   - [Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT](https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/)
+- johndcook.com
+  - [Long permutations and long cycles](https://www.johndcook.com/blog/2026/11/13/long-cycles/)
 - MIT Technology Review
   - [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
 - NVISO Labs
@@ -170,6 +175,7 @@
   - [Here are the 25 original Xbox games you can now play on PC](https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility)
   - [Humble Bundle redesign removes two-factor verification from settings](https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings)
   - [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump)
+  - [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow)
   - [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
   - [More game developers are using generative AI than they did last year](https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs)
   - [No, AI agents did not discover a previously unknown Maya site](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)
@@ -440,6 +446,7 @@
 - Wired
   - [Bitdefender Antivirus Plus Review: Undercutting the Competition](https://www.wired.com/review/bitdefender-antivirus-plus/)
   - [Climate Change Has Pushed the World's Ice Out of Its Safe Zone](https://www.wired.com/story/climate-change-abolishes-ice/)
+  - [Even Black Friday Will Be More Expensive Than Usual](https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/)
   - [Gametime Promo Code: Save on Tickets in November 2026](https://www.wired.com/story/gametime-promo-code/)
   - [Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen](https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/)
   - [Instacart Promo Code: $15 Off | November 2026](https://www.wired.com/story/instacart-promo/code/)
@@ -453,9 +460,12 @@
   - [Peacock Promo Codes: 40% Off November 2026](https://www.wired.com/story/peacock-promo-code/)
   - [Roborock Robot Vacuum Early Black Friday Deals (2026)](https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/)
   - [Silicon Valley Is Still Defending Jensen Huang](https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/)
+  - [TCL QM7L Mini-LED TV Review (2026)](https://www.wired.com/review/tcl-qm7l/)
   - [The 10 Best Early Black Friday TV Deals (2026)](https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/)
   - [The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/)
+  - [This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/)
   - [Walmart Early Black Friday Deals Double as Great Gifts (2026)](https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/)
+  - [‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next](https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/)
   - [‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
   - [‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk](https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/)
 - 不安全
@@ -468,6 +478,7 @@
 - 博客
   - [applicationId 和 namespace](https://dyrnq.com/applicationid-and-namespace/)
   - [matrix](https://dyrnq.com/matrix/)
+  - [systemd-udevd](https://dyrnq.com/systemd-udevd/)
   - [垭口](https://dyrnq.com/%e5%9e%ad%e5%8f%a3/)
 - 奇客Solidot–传递最新科技情报
   - [微软云服务全球宕机](https://www.solidot.org/story?sid=85875)
