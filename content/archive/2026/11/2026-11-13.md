@@ -8,6 +8,7 @@
   - [【💰】定期存款限额了？](https://2libra.com/post/financial-management/uOS5kCi)
   - [【💰】签到一周年会有徽章吗？](https://2libra.com/post/forum-function/sR3iQuL)
   - [【💰】签到终于签到 9 级了「还有谁 📢」](https://2libra.com/post/forum-function/29qqkM3)
+  - [不知不觉进前 1000 了](https://2libra.com/post/forum-function/JPH8vqH)
   - [分享 1T 节点订阅](https://2libra.com/post/tools-sharing/FfMUASO)
   - [努力了四年，真是一种悲哀](https://2libra.com/post/workplace-stories/BhzWNXh)
   - [周五闲聊（下午）](https://2libra.com/post/office-life/pab4pBR)
@@ -39,6 +40,7 @@
   - [VU#580079: Arbitrary file read/write vulnerability in ImageMagick-based applications with default configuration](https://kb.cert.org/vuls/id/580079)
   - [VU#644655: TightVNC and UltraVNC Viewer contains a heap-based buffer overflow](https://kb.cert.org/vuls/id/644655)
 - CoinTelegraph
+  - [Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next](https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin slides below $70K amid thin liquidity, ETF outflows](https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [DTCC Plans Solana Expansion as Wallet Rules Limit Access](https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Former Nvidia CEO Huang had third alleged affair: Reuters](https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -49,11 +51,17 @@
   - [NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express](https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off](https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump nominates Hester Peirce successor among SEC, CFTC picks](https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Unocoin keeps deposits and withdrawals halted over suspect transfers](https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Justice Department, business groups and DeFi firms challenge Illinois crypto tax](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Unocoin keeps deposits and withdrawals halted over suspect transfers](https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [911 outage has people fearing the worst](https://cybernews.com/news/911-line-down-outage/)
   - [Chip giant TSMC, hot target for identity theft, confirms data breach](https://cybernews.com/security/tsmc-chip-giant-employee-data-breach/)
+  - [Europol disrupts Gootloader, two other major malware operations](https://cybernews.com/news/europol-disrupts-gootloader-malware-network/)
   - [Experts weigh in on Huang’s resignation: “Entitled” tech CEOs have too much power](https://cybernews.com/news/nvidia-personality-cult/)
   - [Iranian spies convicted over surveillance of UK journalists](https://cybernews.com/news/iran-spies-convicted-uk/)
+  - [Microsoft fails to fix outage as millions face disruption](https://cybernews.com/security/microsoft-outage-outlook-teams/)
   - [She is Nvidia's interim CEO](https://cybernews.com/tech/she-is-nvidias-interim-ceo/)
 - daringfireball.net
   - [And Every New Boy That You Meet / He Doesn’t Know the Real Surprise](https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY)
@@ -89,6 +97,7 @@
 - idiallo.com
   - [So you want to buy AI for your company](https://idiallo.com/byte-size/buying-ai-for-your-company)
 - infosecurity-magazine.com
+  - [AI Set to Revolutionize Ransomware Following “Stagnant” Few Years](https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/)
   - [Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT](https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/)
 - MIT Technology Review
   - [Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)
@@ -133,8 +142,10 @@
   - [Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more](https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049)
   - [Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters](https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643)
   - [DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme](https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065)
+  - [DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi](https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669)
   - [Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says](https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988)
   - [Gemini trading volume drops 73% as Q3 revenue falls to $41 million](https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050)
+  - [JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF](https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671)
   - [Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight](https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052)
   - [NYDFS sets fresh advertising standards for crypto firms](https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014)
   - [Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up](https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520)
@@ -375,6 +386,7 @@
   - [redis-rogue-server-refined](https://vulners.com/githubexploit/A88EC4CD-82C7-507D-82C3-6AAB59315F08?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://vulners.com/thn/THN:86A86BCAB9397B2E1701137A56F5381C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Bitdefender Antivirus Plus Review: Undercutting the Competition](https://www.wired.com/review/bitdefender-antivirus-plus/)
   - [Climate Change Has Pushed the World's Ice Out of Its Safe Zone](https://www.wired.com/story/climate-change-abolishes-ice/)
   - [Gametime Promo Code: Save on Tickets in November 2026](https://www.wired.com/story/gametime-promo-code/)
   - [Instacart Promo Code: $15 Off | November 2026](https://www.wired.com/story/instacart-promo/code/)
@@ -389,6 +401,7 @@
   - [Roborock Robot Vacuum Early Black Friday Deals (2026)](https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/)
   - [Silicon Valley Is Still Defending Jensen Huang](https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/)
   - [The 10 Best Early Black Friday TV Deals (2026)](https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/)
+  - [The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/)
   - [Walmart Early Black Friday Deals Double as Great Gifts (2026)](https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/)
   - [‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
 - 不安全
@@ -404,6 +417,8 @@
   - [垭口](https://dyrnq.com/%e5%9e%ad%e5%8f%a3/)
 - 奇客Solidot–传递最新科技情报
   - [微软云服务全球宕机](https://www.solidot.org/story?sid=85875)
+- 安全客
+  - [大模型狂奔三年，百度词元所重新定义AI生意](https://www.anquanke.com/post/id/316469)
 - 爱范儿
   - [AI 时代，公司的「新厂房」长什么样？](https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 新模型叒来了，终于人人可用](https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=)
@@ -411,3 +426,4 @@
   - [黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归](https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [工信厅信管〔2026〕42号文件，把智能体安全从“功能”变成了“要件”](https://blog.nsfocus.net/%e5%b7%a5%e4%bf%a1%e5%8e%85%e4%bf%a1%e7%ae%a1%e3%80%942026%e3%80%9542%e5%8f%b7%e6%96%87%e4%bb%b6%ef%bc%8c%e6%8a%8a%e6%99%ba%e8%83%bd%e4%bd%93%e5%ae%89%e5%85%a8%e4%bb%8e%e5%8a%9f%e8%83%bd/)
+  - [首批 | 绿盟科技正式获评首批国家人工智能安全漏洞库（AIVD）技术支撑单位](https://blog.nsfocus.net/%e9%a6%96%e6%89%b9-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%ad%a3%e5%bc%8f%e8%8e%b7%e8%af%84%e9%a6%96%e6%89%b9%e5%9b%bd%e5%ae%b6%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%ae%89%e5%85%a8%e6%bc%8f/)
