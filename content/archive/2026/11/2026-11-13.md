@@ -2,8 +2,10 @@
 
 - 2Libra
   - [100 多 KB 论坛开源程序，搭建访问速度很快【LiteBBS】](https://2libra.com/post/open-source-sharing/hjeO8pJ)
+  - [【一人食】碳水给的快乐～ 🍜🍜🍜](https://2libra.com/post/personal-life/3xcuhI8)
   - [【💰】定期存款限额了？](https://2libra.com/post/financial-management/uOS5kCi)
   - [【💰】签到一周年会有徽章吗？](https://2libra.com/post/forum-function/sR3iQuL)
+  - [【💰】签到终于签到 9 级了「还有谁 📢」](https://2libra.com/post/forum-function/29qqkM3)
   - [悲报 天翼云电脑的 coding plan 不给买了](https://2libra.com/post/ai-programming/pqmcL8n)
   - [现在的 gpt plus 是不是越来越路边一条了，还值得继续保留吗？](https://2libra.com/post/ai-tools/jmfN-pv)
 - 404 Media
@@ -51,6 +53,7 @@
   - [Africa's solar revolution is vast and speedy](https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy)
   - [AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
   - [Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)
+  - [Don't argue with me. $100k is fair, and you know it](https://folklore.org/Switcher.html)
   - [Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep](https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep)
   - [Outlook is down, and so is Microsoft's status page](https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/)
   - [Paths in Pieces](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
@@ -319,6 +322,7 @@
 - 博客
   - [applicationId 和 namespace](https://dyrnq.com/applicationid-and-namespace/)
   - [matrix](https://dyrnq.com/matrix/)
+  - [垭口](https://dyrnq.com/%e5%9e%ad%e5%8f%a3/)
 - 爱范儿
   - [刚刚，Gemini 4 新模型叒来了，终于人人可用](https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口](https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=)
