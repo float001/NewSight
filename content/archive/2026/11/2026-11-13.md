@@ -78,6 +78,8 @@
   - [Printerpix and the not so private photo album](https://www.pentestpartners.com/security-blog/printerpix-and-the-not-so-private-photo-album/)
 - pluralistic.net
   - [Pluralistic: Uber's labor crash (12 Nov 2026)](https://pluralistic.net/2026/11/12/starvation-wages/)
+- rtl-sdr.com
+  - [MultiPSK Will Become Free of Charge From January 2027](https://www.rtl-sdr.com/multipsk-will-become-free-of-charge-from-january-2027/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for Improper Restriction of Operations within the Bounds of a Memory Buffer in Google Chrome](https://sploitus.com/exploit?id=5705DBEF-EA59-5F4D-93C0-2AC909FC5E63&utm_source=rss&utm_medium=rss)
   - [Exploit for Out-of-bounds Write in Google Chrome](https://sploitus.com/exploit?id=ECBC577A-3D7B-5453-B467-8FF9FCF74D6E&utm_source=rss&utm_medium=rss)
@@ -103,12 +105,14 @@
   - [Whoop just launched a social network](https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/)
 - The Block
   - [Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets](https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992)
+  - [Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more](https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049)
   - [DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme](https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065)
   - [Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says](https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988)
   - [Gemini trading volume drops 73% as Q3 revenue falls to $41 million](https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050)
   - [Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight](https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052)
   - [NYDFS sets fresh advertising standards for crypto firms](https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014)
   - [Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up](https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520)
+  - [White House sends crypto-relevant picks to fill SEC and CFTC seats](https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175)
 - The Decoder
   - [Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch](https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/)
   - [OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute](https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/)
@@ -154,7 +158,11 @@
   - [CVE-2026-107410](https://vulners.com/cve/CVE-2026-107410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107410](https://vulners.com/nvd/NVD:CVE-2026-107410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107410 Memory overflow in NetScaler Push can lead to unpredictable or erroneous behavior or Denial of Service in Citrix NetScaler](https://vulners.com/cvelist/CVELIST:CVE-2026-107410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107415](https://vulners.com/nvd/NVD:CVE-2026-107415?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107443](https://vulners.com/nvd/NVD:CVE-2026-107443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111340](https://vulners.com/nvd/NVD:CVE-2026-111340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111341](https://vulners.com/nvd/NVD:CVE-2026-111341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111342](https://vulners.com/nvd/NVD:CVE-2026-111342?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111456](https://vulners.com/nvd/NVD:CVE-2026-111456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117543](https://vulners.com/nvd/NVD:CVE-2026-117543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-117550](https://vulners.com/nvd/NVD:CVE-2026-117550?utm_source=rss&utm_medium=rss&utm_campaign=rss)
