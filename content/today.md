@@ -6,6 +6,7 @@
   - [【💰】定期存款限额了？](https://2libra.com/post/financial-management/uOS5kCi)
   - [【💰】签到一周年会有徽章吗？](https://2libra.com/post/forum-function/sR3iQuL)
   - [【💰】签到终于签到 9 级了「还有谁 📢」](https://2libra.com/post/forum-function/29qqkM3)
+  - [分享 1T 节点订阅](https://2libra.com/post/tools-sharing/FfMUASO)
   - [努力了四年，真是一种悲哀](https://2libra.com/post/workplace-stories/BhzWNXh)
   - [周五闲聊（下午）](https://2libra.com/post/office-life/pab4pBR)
   - [悲报 天翼云电脑的 coding plan 不给买了](https://2libra.com/post/ai-programming/pqmcL8n)
@@ -356,6 +357,7 @@
   - [Walmart Early Black Friday Deals Double as Great Gifts (2026)](https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/)
   - [‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
 - 不安全
+  - [Steam Linux客户端正式转向64位版 不过仍然会继续保留部分32位依赖](https://buaq.net/go-454663.html)
   - [俄罗斯Yandex承认部分客户数据永久丢失 数据中心被无人机袭击后正在恢复](https://buaq.net/go-454602.html)
   - [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](https://buaq.net/go-454601.html)
 - 代码审计星球
