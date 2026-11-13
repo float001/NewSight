@@ -22,6 +22,7 @@
 - CoinTelegraph
   - [DTCC Plans Solana Expansion as Wallet Rules Limit Access](https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Maple Finance’s strategy rift sends co-founder, COO to the exits](https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express](https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off](https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US Justice Department, business groups and DeFi firms challenge Illinois crypto tax](https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -47,6 +48,7 @@
   - [Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)
   - [Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)
   - [Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company](https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html)
+  - [Why You Should Expect an AI Crash](https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash)
 - HackerNoon
   - [AI Is Dividing Product Designers: Exploring vs. Building](https://hackernoon.com/ai-is-dividing-product-designers-exploring-vs-building?source=rss)
 - Horizon3.ai
@@ -99,6 +101,7 @@
   - [Google Wallet can finally unlock doors with digital home keys](https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout)
   - [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)
   - [Here are the 25 original Xbox games you can now play on PC](https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility)
+  - [Humble Bundle redesign removes two-factor verification from settings](https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings)
   - [Jensen Huang is out. What did China want from him?](https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump)
   - [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
   - [More game developers are using generative AI than they did last year](https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs)
@@ -106,6 +109,7 @@
   - [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video)
   - [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
   - [The Oura Ring 4 is almost as good as the newer model, but $150 cheaper](https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale)
+  - [Whoop launched a social network where every user has a ‘verified heartbeat’](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network)
   - [Xbox owners are getting more customizations for backgrounds and the Guide menu](https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature)
   - [‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation](https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions)
   - [‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug](https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash)
@@ -231,8 +235,12 @@
   - [Jensen Huang’s $470 Billion Affair](https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/)
   - [Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email](https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/)
   - [Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year](https://www.wired.com/story/mint-mobile-phone-deal-november-2026/)
+  - [Roborock Robot Vacuum Early Black Friday Deals (2026)](https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/)
   - [Silicon Valley Is Still Defending Jensen Huang](https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/)
   - [The 10 Best Early Black Friday TV Deals (2026)](https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/)
   - [Walmart Early Black Friday Deals Double as Great Gifts (2026)](https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [刚刚，Gemini 4 新模型叒来了，终于人人可用](https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口](https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=)
