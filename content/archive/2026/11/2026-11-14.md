@@ -4,12 +4,15 @@
   - [Behind the Blog: Priorities, Priorities](https://www.404media.co/behind-the-blog-priorities-priorities/)
 - Ars Technica
   - [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
+  - [Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket](https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/)
   - [Windows 0-day dropped by disgruntled researcher hands hackers System rights](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/)
 - CoinTelegraph
   - [Bitcoin holds below $70K as stocks slip despite a cooler US PPI print](https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet swings to $170M loss as Bitcoin sale hits earnings](https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’](https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/)
   - [David Sacks Is Fucked Too](https://x.com/DavidSacks/status/2121070881258504395)
+  - [Inside Jensen Huang’s Final Hours as the CEO of Nvidia](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting)
   - [Microsoft, and Its Customers, Are Suffering a Global Cloud Outage](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/)
 - Fidelis Security
   - [Fidelis EDR Deployment Strategy for Unmanaged and Remote Endpoints](https://fidelissecurity.com/threatgeek/endpoint-security/edr-deployment-strategy-unmanaged-and-remote-endpoints/)
@@ -18,17 +21,23 @@
 - Hacker News Frontpage
   - [6-11X speedup running Qwen3.6 on my RTX 4090, full repo.](https://github.com/me-farza/lightreason/tree/main)
   - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
+- pluralistic.net
+  - [Pluralistic: I told you so (13 Nov 2026)](https://pluralistic.net/2026/11/13/outlookpocalypse/)
 - TechCrunch
+  - [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
   - [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
   - [Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
 - The Block
   - [CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders](https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199)
+  - [House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns](https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207)
   - [Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%](https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053)
+  - [MEGA cuts 20% of workforce as former MegaETH Foundation restructures](https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206)
 - The Decoder
   - [Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows](https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/)
   - [Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls](https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/)
   - [OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/)
 - The Verge
+  - [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
   - [Jensen Huang was reckless with the environment, too](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution)
   - [Microsoft&#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)
   - [My favorite recipe app just got a big upgrade — and a subscription fee](https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on)
@@ -128,7 +137,10 @@
 - wheresyoured.at
   - [Premium: The Hater’s Guide To Megaspeed](https://www.wheresyoured.at/hg-megaspeed/)
 - Wired
+  - [Atlas Coffee Club’s Black Friday Deals (2026)](https://www.wired.com/story/atlas-coffee-club-black-friday-2026/)
+  - [Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites](https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/)
   - [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
+  - [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
   - [The Microsoft Outage Is a Warning for the World](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
