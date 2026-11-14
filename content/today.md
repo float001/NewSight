@@ -34,6 +34,7 @@
   - [US regulators move ahead on crypto trust charters as Senate scrutiny grows](https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Microsoft blames network capacity upgrade for 24-hour Outlook and Microsoft 365 outage — says it was not a cyberattack or AI](https://www.cyberkendra.com/2026/11/microsoft-outage-cause-network-upgrade-not-cyberattack-ai.html)
+  - [Uber Data Breach: Driver Licenses Stolen via Fireworks AI](https://www.cyberkendra.com/2026/11/uber-data-breach-fireworks-ai-driver-licenses.html)
 - CyberNews
   - [Old tech to blame for US ground stop, says transport chief](https://cybernews.com/tech/us-ground-stop-old-tech/)
 - daringfireball.net
@@ -65,6 +66,8 @@
   - [SCKit abuses ScreenConnect to deploy remote access and target technician sessions](https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/)
 - pluralistic.net
   - [Pluralistic: I told you so (13 Nov 2026)](https://pluralistic.net/2026/11/13/outlookpocalypse/)
+- Recent Commits to cve:main
+  - [Update Sat Nov 14 14:57:27 UTC 2026](https://github.com/trickest/cve/commit/cd1cce0f59136b6fe4011223cad28c76c77c44a8)
 - shkspr.mobi
   - [Theatre Review: FrankenTacit ★★☆☆☆](https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/)
 - Sploitus.com Exploits RSS Feed
@@ -100,17 +103,23 @@
   - [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
   - [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
   - [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
+  - [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)
   - [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
   - [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
   - [Jensen Huang was reckless with the environment, too](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution)
   - [Microsoft&#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)
   - [My favorite recipe app just got a big upgrade — and a subscription fee](https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on)
+  - [Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print](https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print)
   - [The new Apple TV has a YouTube problem](https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error)
+  - [The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
   - [The smallest version of Camp Snap’s retro digital camcorder fits on your keychain](https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain)
   - [The Verge’s 2026 gift guide for dads](https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026)
   - [This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers](https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on)
   - [You can adjust the position of the trackball on Keychron’s new wireless mouse](https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable)
+- Threatninja.net
+  - [Hack The Box: Nimbus Machine Walkthrough – Hard Diffuclity](https://threatninja.net/hack-the-box-nimbus-machine-walkthrough-hard-diffuclity/)
 - Vulners.com RSS Feed
+  - [CVE-2011-10042](https://vulners.com/nvd/NVD:CVE-2011-10042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-43867](https://vulners.com/cve/CVE-2025-43867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-43867](https://vulners.com/cvelist/CVELIST:CVE-2025-43867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-43874](https://vulners.com/nvd/NVD:CVE-2025-43874?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -319,6 +328,7 @@
 - 博客
   - [bash pseudo-device](https://dyrnq.com/bash-pseudo-device/)
 - 奇客Solidot–传递最新科技情报
+  - [天问四号将尝试登陆木卫四](https://www.solidot.org/story?sid=85887)
   - [旅行者 1 号距离地球的距离达到一光日](https://www.solidot.org/story?sid=85883)
   - [非洲加速发展太阳能](https://www.solidot.org/story?sid=85882)
 - 安全客
