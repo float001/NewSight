@@ -5,6 +5,7 @@
   - [Goolge 礼品卡的兑换不了的问题](https://2libra.com/post/help-requests/emb8qk8)
   - [Lv.10 达成，收获等级丰碑。下一目标是成为守护者。](https://2libra.com/post/forum-function/Epb9Em7)
   - [【一人食】齐齐哈尔烤肉 yyds](https://2libra.com/post/personal-life/tEuc_8o)
+  - [【🔒】竞拍点 opencode go 额度玩玩](https://2libra.com/post/ai-tools/qFDH9pw)
   - [你们的秋裤是什么牌子?加绒吗?几层?有没有更加保暖的呢?](https://2libra.com/post/recommendations/awvuo11)
   - [你对人格分类有什么看法？你的 MBTI 类型是什么？](https://2libra.com/post/interaction/TwORUuY)
   - [如何查看已领取的社区兑换码以及原帖？](https://2libra.com/post/forum-function/aDqNC1J)
@@ -58,6 +59,8 @@
   - [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)
   - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
   - [Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html)
+- johndcook.com
+  - [Peeking inside the bash rabbit hole](https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/)
 - Microsoft Security Blog
   - [SCKit abuses ScreenConnect to deploy remote access and target technician sessions](https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/)
 - pluralistic.net
@@ -105,6 +108,7 @@
   - [The new Apple TV has a YouTube problem](https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error)
   - [The smallest version of Camp Snap’s retro digital camcorder fits on your keychain](https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain)
   - [The Verge’s 2026 gift guide for dads](https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026)
+  - [This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers](https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on)
   - [You can adjust the position of the trackball on Keychron’s new wireless mouse](https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable)
 - Vulners.com RSS Feed
   - [CVE-2025-43867](https://vulners.com/cve/CVE-2025-43867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
