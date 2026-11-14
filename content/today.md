@@ -272,6 +272,8 @@
   - [Whoop Promo Codes: 20% Off This November 2026](https://www.wired.com/story/whoop-promo-code/)
   - [Womanizer Coupons: Save 15% in November 2026](https://www.wired.com/story/womanizer-coupon/)
 - 不安全
+  - [brave-browser v1.102.8](https://buaq.net/go-454898.html)
+  - [sony-a6400-research](https://buaq.net/go-454901.html)
   - [Verifying a matching decompilation of Scarface: The World Is Yours (2006, MSVC 7.1): byte comparison with relocation targets checked.](https://buaq.net/go-454887.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
