@@ -6,6 +6,7 @@
   - [Lv.10 达成，收获等级丰碑。下一目标是成为守护者。](https://2libra.com/post/forum-function/Epb9Em7)
   - [【一人食】齐齐哈尔烤肉 yyds](https://2libra.com/post/personal-life/tEuc_8o)
   - [你们的秋裤是什么牌子?加绒吗?几层?有没有更加保暖的呢?](https://2libra.com/post/recommendations/awvuo11)
+  - [你对人格分类有什么看法？你的 MBTI 类型是什么？](https://2libra.com/post/interaction/TwORUuY)
   - [如何查看已领取的社区兑换码以及原帖？](https://2libra.com/post/forum-function/aDqNC1J)
   - [寿命短还是长？一生的钱总额一样](https://2libra.com/post/idea/mHupxY7)
   - [智囊团的鸡蛋](https://2libra.com/post/promotion/-jx7_0b)
@@ -30,6 +31,8 @@
   - [US regulators move ahead on crypto trust charters as Senate scrutiny grows](https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Microsoft blames network capacity upgrade for 24-hour Outlook and Microsoft 365 outage — says it was not a cyberattack or AI](https://www.cyberkendra.com/2026/11/microsoft-outage-cause-network-upgrade-not-cyberattack-ai.html)
+- CyberNews
+  - [Old tech to blame for US ground stop, says transport chief](https://cybernews.com/tech/us-ground-stop-old-tech/)
 - daringfireball.net
   - [Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’](https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/)
   - [David Sacks Is Fucked Too](https://x.com/DavidSacks/status/2121070881258504395)
@@ -77,9 +80,11 @@
   - [Meta tests prediction market app using ‘cred’ points instead of cash: WSJ](https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215)
   - [Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more](https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304)
 - The Decoder
+  - [Anthropic can already retrain Mythos with "a fraction of the compute originally needed," says former researcher Coxon](https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/)
   - [Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows](https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/)
   - [Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls](https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/)
   - [Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life](https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/)
+  - [OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary](https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/)
   - [OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/)
   - [Runway's open-source Praxis-1 turns video AI into a robot controller](https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/)
 - The Verge
@@ -88,6 +93,7 @@
   - [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
   - [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
   - [Here’s how you can save on your GTA VI preorder ahead of launch](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
+  - [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
   - [Jensen Huang was reckless with the environment, too](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution)
   - [Microsoft&#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)
   - [My favorite recipe app just got a big upgrade — and a subscription fee](https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on)
@@ -255,6 +261,7 @@
 - wheresyoured.at
   - [Premium: The Hater’s Guide To Megaspeed](https://www.wheresyoured.at/hg-megaspeed/)
 - Wired
+  - [10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off](https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/)
   - [20% Off Samsung Promo Code | November 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [30% Off Canon Promo Codes | November 2026](https://www.wired.com/story/canon-promo-code/)
   - [ABT Promo Codes & Discounts for November 2026](https://www.wired.com/story/abt-promo-code/)
@@ -266,6 +273,7 @@
   - [Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites](https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/)
   - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)
   - [Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/)
+  - [It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared](https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/)
   - [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
   - [Klook Promo Code: 20% Off November 2026](https://www.wired.com/story/klook-promo-code/)
   - [LG Promo Codes and Coupons 20% Off for November 2026](https://www.wired.com/story/lg-promo-code/)
@@ -287,6 +295,8 @@
   - [Verifying a matching decompilation of Scarface: The World Is Yours (2006, MSVC 7.1): byte comparison with relocation targets checked.](https://buaq.net/go-454887.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [bash pseudo-device](https://dyrnq.com/bash-pseudo-device/)
 - 奇客Solidot–传递最新科技情报
   - [旅行者 1 号距离地球的距离达到一光日](https://www.solidot.org/story?sid=85883)
   - [非洲加速发展太阳能](https://www.solidot.org/story?sid=85882)
