@@ -6,6 +6,7 @@
   - [FAA orders third nationwide ground stop in its history](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/)
   - [Millions in US use unapproved GLP-1s—and use them in unapproved ways](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/)
   - [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
+  - [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/)
   - [Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket](https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/)
   - [Windows 0-day dropped by disgruntled researcher hands hackers System rights](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/)
 - CoinTelegraph
@@ -224,6 +225,9 @@
   - [CVE-2026-97683](https://vulners.com/nvd/NVD:CVE-2026-97683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9821](https://vulners.com/nvd/NVD:CVE-2026-9821?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9870](https://vulners.com/nvd/NVD:CVE-2026-9870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-89P3-FCCH-88PH NLTK: Quadratic-time CPU denial of service in CCG lexicon parser (fromstring) on wide bracket bodies and operator chains](https://vulners.com/osv_ghsa/OSV:GHSA-89P3-FCCH-88PH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-R53H-RW34-8H97 NLTK: Quadratic-time CPU denial of service in Tree.chomsky_normal_form right-factor binarization via list.pop(0)](https://vulners.com/osv_ghsa/OSV:GHSA-R53H-RW34-8H97?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [GHSA-V8F3-6PHW-6MH9 NLTK: Quadratic-time CPU denial of service in ConllCorpusReader SRL instance builder via nested span rescan](https://vulners.com/osv_ghsa/OSV:GHSA-V8F3-6PHW-6MH9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: The Hater’s Guide To Megaspeed](https://www.wheresyoured.at/hg-megaspeed/)
 - Wired
