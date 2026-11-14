@@ -14,6 +14,8 @@
   - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
   - [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
   - [The Cloud Is Just Someone Else's Computer – They Let It Burn](https://soargram.io/content/369523282)
+- InfoSec Write-ups - Medium
+  - [How to Recover Data from Windows: A Complete Step-by-Step Guide](https://infosecwriteups.com/how-to-recover-data-from-windows-a-complete-step-by-step-guide-299b3a947bdf?source=rss----7b722bfd1b8d---4)
 - jeffgeerling.com
   - [Ops needs friction](https://www.jeffgeerling.com/blog/2026/ops-needs-friction/)
 - TechCrunch
