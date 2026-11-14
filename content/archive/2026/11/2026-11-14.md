@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Lv.10 达成，收获等级丰碑。下一目标是成为守护者。](https://2libra.com/post/forum-function/Epb9Em7)
+  - [如何查看已领取的社区兑换码以及原帖？](https://2libra.com/post/forum-function/aDqNC1J)
   - [寿命短还是长？一生的钱总额一样](https://2libra.com/post/idea/mHupxY7)
 - 404 Media
   - [Behind the Blog: Priorities, Priorities](https://www.404media.co/behind-the-blog-priorities-priorities/)
@@ -37,6 +38,7 @@
   - [Home Assistant: the password is not the key – token secrets in cleartext](https://seclists.org/fulldisclosure/2026/Nov/34)
   - [It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/)
   - [National Weather Service reports nationwide radar website outage amid FAA stop](https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage)
+  - [Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
   - [Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks](https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html)
 - Microsoft Security Blog
   - [SCKit abuses ScreenConnect to deploy remote access and target technician sessions](https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/)
