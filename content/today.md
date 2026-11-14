@@ -8,6 +8,7 @@
   - [你们的秋裤是什么牌子?加绒吗?几层?有没有更加保暖的呢?](https://2libra.com/post/recommendations/awvuo11)
   - [如何查看已领取的社区兑换码以及原帖？](https://2libra.com/post/forum-function/aDqNC1J)
   - [寿命短还是长？一生的钱总额一样](https://2libra.com/post/idea/mHupxY7)
+  - [智囊团的鸡蛋](https://2libra.com/post/promotion/-jx7_0b)
   - [红果最近越来越烧心了啊，直播广告多的一比。](https://2libra.com/post/software-tools/iH3eh7i)
 - 404 Media
   - [Behind the Blog: Priorities, Priorities](https://www.404media.co/behind-the-blog-priorities-priorities/)
@@ -79,6 +80,7 @@
   - [Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls](https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/)
   - [Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life](https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/)
   - [OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/)
+  - [Runway's open-source Praxis-1 turns video AI into a robot controller](https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/)
 - The Verge
   - [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
   - [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
