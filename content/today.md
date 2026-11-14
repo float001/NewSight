@@ -34,5 +34,7 @@
   - [CVE-2026-127115](https://vulners.com/nvd/NVD:CVE-2026-127115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129260](https://vulners.com/nvd/NVD:CVE-2026-129260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129261](https://vulners.com/nvd/NVD:CVE-2026-129261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129267](https://vulners.com/nvd/NVD:CVE-2026-129267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129447](https://vulners.com/nvd/NVD:CVE-2026-129447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
