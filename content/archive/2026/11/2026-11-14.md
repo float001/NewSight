@@ -66,6 +66,7 @@
   - [Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%](https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053)
   - [MEGA cuts 20% of workforce as former MegaETH Foundation restructures](https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206)
   - [Meta tests prediction market app using ‘cred’ points instead of cash: WSJ](https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215)
+  - [Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more](https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304)
 - The Decoder
   - [Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows](https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/)
   - [Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls](https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/)
@@ -242,14 +243,30 @@
 - wheresyoured.at
   - [Premium: The Hater’s Guide To Megaspeed](https://www.wheresyoured.at/hg-megaspeed/)
 - Wired
+  - [20% Off Samsung Promo Code | November 2026](https://www.wired.com/story/samsung-promo-codes/)
+  - [30% Off Canon Promo Codes | November 2026](https://www.wired.com/story/canon-promo-code/)
+  - [ABT Promo Codes & Discounts for November 2026](https://www.wired.com/story/abt-promo-code/)
+  - [Adidas Promo Code | 60% Off | November 2026](https://www.wired.com/story/adidas-promo-code/)
   - [Atlas Coffee Club’s Black Friday Deals (2026)](https://www.wired.com/story/atlas-coffee-club-black-friday-2026/)
   - [Best Early Black Friday AirPods Deals (2026)](https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/)
+  - [Dell Coupon Codes: 20% Off for November 2026](https://www.wired.com/story/dell-coupon-code/)
+  - [Disney Plus Discount Codes: 52% Off November 2026](https://www.wired.com/story/disney-plus-discounts/)
   - [Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites](https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/)
   - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)
   - [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
+  - [Klook Promo Code: 20% Off November 2026](https://www.wired.com/story/klook-promo-code/)
+  - [LG Promo Codes and Coupons 20% Off for November 2026](https://www.wired.com/story/lg-promo-code/)
   - [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
+  - [Paramount+ Coupon Codes and Deals for 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+  - [PlayStation Discount Code: 15% Off | November 2026](https://www.wired.com/story/playstation-discount-code/)
   - [The FAA Nationwide Ground Stop Is Over](https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/)
   - [The Microsoft Outage Is a Warning for the World](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/)
+  - [Tuft & Needle Promo Codes: 20% Off | November 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
+  - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
+  - [Whoop Promo Codes: 20% Off This November 2026](https://www.wired.com/story/whoop-promo-code/)
+  - [Womanizer Coupons: Save 15% in November 2026](https://www.wired.com/story/womanizer-coupon/)
+- 不安全
+  - [Verifying a matching decompilation of Scarface: The World Is Yours (2006, MSVC 7.1): byte comparison with relocation targets checked.](https://buaq.net/go-454887.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
