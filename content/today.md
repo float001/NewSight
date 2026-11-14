@@ -26,6 +26,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MegaETH parent cuts 20% of staff amid restructuring, AI push](https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet swings to $170M loss as Bitcoin sale hits earnings](https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Microsoft confirms global outage resolved, rules out cyberattack](https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US regulators move ahead on crypto trust charters as Senate scrutiny grows](https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Microsoft blames network capacity upgrade for 24-hour Outlook and Microsoft 365 outage — says it was not a cyberattack or AI](https://www.cyberkendra.com/2026/11/microsoft-outage-cause-network-upgrade-not-cyberattack-ai.html)
@@ -264,10 +265,12 @@
   - [Disney Plus Discount Codes: 52% Off November 2026](https://www.wired.com/story/disney-plus-discounts/)
   - [Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites](https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/)
   - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)
+  - [Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/)
   - [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
   - [Klook Promo Code: 20% Off November 2026](https://www.wired.com/story/klook-promo-code/)
   - [LG Promo Codes and Coupons 20% Off for November 2026](https://www.wired.com/story/lg-promo-code/)
   - [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
+  - [My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)](https://www.wired.com/story/best-pickleball-paddles/)
   - [Outlook Went Down? Microsoft May Owe You Money](https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/)
   - [Paramount+ Coupon Codes and Deals for 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
   - [PlayStation Discount Code: 15% Off | November 2026](https://www.wired.com/story/playstation-discount-code/)
@@ -275,6 +278,7 @@
   - [The Microsoft Outage Is a Warning for the World](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/)
   - [Tuft & Needle Promo Codes: 20% Off | November 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
   - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
+  - [We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket](https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/)
   - [Whoop Promo Codes: 20% Off This November 2026](https://www.wired.com/story/whoop-promo-code/)
   - [Womanizer Coupons: Save 15% in November 2026](https://www.wired.com/story/womanizer-coupon/)
 - 不安全
@@ -294,3 +298,6 @@
   - [余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元](https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 阿小信的博客
   - [误执行 git rm -f 后如何找回未提交的文件：三种恢复方案](https://blog.axiaoxin.com/post/recover-git-rm-f-uncommitted-files/)
+  - [近期体重记录：一度快速接近70公斤，但我控制住了，我要瘦！](https://blog.axiaoxin.com/post/apple-health-dashboard/)
+- 黑海洋
+  - [Deva：一个对话带起一支 AI 团队，把 Agent 能力装进桌面聊天框](https://blog.upx8.com/Deva-AI-Agent)
