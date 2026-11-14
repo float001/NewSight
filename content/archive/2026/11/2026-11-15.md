@@ -9,15 +9,24 @@
 - daringfireball.net
   - [Jason Snell’s HomeView Review](https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/)
   - [Joanna Stern Reviews the HomeView](https://www.youtube.com/watch?v=yVTcVtLn2o4)
+  - [Patrick McGee on Johny Srouji and Nvidia](https://x.com/patrickmcgee_/status/2120799867140550999)
 - Hacker News Frontpage
+  - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
   - [The Cloud Is Just Someone Else's Computer – They Let It Burn](https://soargram.io/content/369523282)
 - jeffgeerling.com
   - [Ops needs friction](https://www.jeffgeerling.com/blog/2026/ops-needs-friction/)
 - TechCrunch
   - [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
+  - [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)
+  - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+  - [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
+- The Block
+  - [Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding](https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337)
 - The Decoder
   - [Anthropic says outdated prompting habits are slowing down Claude Opus 5.5](https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/)
   - [Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/)
+- The Verge
+  - [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire)
 - Vulners.com RSS Feed
   - [CVE-2026-110531](https://vulners.com/nvd/NVD:CVE-2026-110531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116753](https://vulners.com/nvd/NVD:CVE-2026-116753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
