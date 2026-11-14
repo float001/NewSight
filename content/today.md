@@ -13,8 +13,10 @@
   - [红果最近越来越烧心了啊，直播广告多的一比。](https://2libra.com/post/software-tools/iH3eh7i)
 - 404 Media
   - [Behind the Blog: Priorities, Priorities](https://www.404media.co/behind-the-blog-priorities-priorities/)
+  - [Scientists Made Monkeys Watch Minions to Study Their Brains](https://www.404media.co/scientists-made-monkeys-watch-minions-to-study-their-brains/)
 - Ars Technica
   - [FAA orders third nationwide ground stop in its history](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/)
+  - [James Webb telescope finds ice older than the star it orbits](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/)
   - [Millions in US use unapproved GLP-1s—and use them in unapproved ways](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/)
   - [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
   - [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/)
@@ -60,6 +62,8 @@
   - [SCKit abuses ScreenConnect to deploy remote access and target technician sessions](https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/)
 - pluralistic.net
   - [Pluralistic: I told you so (13 Nov 2026)](https://pluralistic.net/2026/11/13/outlookpocalypse/)
+- shkspr.mobi
+  - [Theatre Review: FrankenTacit ★★☆☆☆](https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-121529](https://sploitus.com/exploit?id=552B7A2C-EE28-5215-902C-07138BF1CE2A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-129254](https://sploitus.com/exploit?id=2AE05110-52BD-5E67-891D-61BFB3DFB1F9&utm_source=rss&utm_medium=rss)
@@ -88,6 +92,7 @@
   - [OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/)
   - [Runway's open-source Praxis-1 turns video AI into a robot controller](https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/)
 - The Verge
+  - [A gadget to make your dumb house smarter](https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer)
   - [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
   - [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
   - [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
@@ -137,6 +142,10 @@
   - [CVE-2026-124020](https://vulners.com/nvd/NVD:CVE-2026-124020?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124021](https://vulners.com/nvd/NVD:CVE-2026-124021?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124278](https://vulners.com/nvd/NVD:CVE-2026-124278?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124536](https://vulners.com/nvd/NVD:CVE-2026-124536?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124539](https://vulners.com/nvd/NVD:CVE-2026-124539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124540](https://vulners.com/nvd/NVD:CVE-2026-124540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124541](https://vulners.com/nvd/NVD:CVE-2026-124541?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124726](https://vulners.com/nvd/NVD:CVE-2026-124726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126091](https://vulners.com/nvd/NVD:CVE-2026-126091?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126817](https://vulners.com/nvd/NVD:CVE-2026-126817?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -183,6 +192,9 @@
   - [CVE-2026-129104](https://vulners.com/nvd/NVD:CVE-2026-129104?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129105](https://vulners.com/nvd/NVD:CVE-2026-129105?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129110](https://vulners.com/nvd/NVD:CVE-2026-129110?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129113](https://vulners.com/nvd/NVD:CVE-2026-129113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129114](https://vulners.com/nvd/NVD:CVE-2026-129114?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129115](https://vulners.com/nvd/NVD:CVE-2026-129115?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129137](https://vulners.com/nvd/NVD:CVE-2026-129137?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129139](https://vulners.com/nvd/NVD:CVE-2026-129139?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129140](https://vulners.com/nvd/NVD:CVE-2026-129140?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -213,6 +225,10 @@
   - [CVE-2026-129172](https://vulners.com/nvd/NVD:CVE-2026-129172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129173 Stirling-Tools Stirling-PDF Participant Details Endpoint WorkflowParticipantController.java session timeout](https://vulners.com/cvelist/CVELIST:CVE-2026-129173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129181](https://vulners.com/nvd/NVD:CVE-2026-129181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129250](https://vulners.com/nvd/NVD:CVE-2026-129250?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129251](https://vulners.com/nvd/NVD:CVE-2026-129251?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129254 Opixido OCMS Admin TUI index.php cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-129254?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129427](https://vulners.com/nvd/NVD:CVE-2026-129427?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19194](https://vulners.com/nvd/NVD:CVE-2026-19194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49341](https://vulners.com/nvd/NVD:CVE-2026-49341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49990](https://vulners.com/nvd/NVD:CVE-2026-49990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -254,6 +270,7 @@
   - [CVE-2026-97683](https://vulners.com/nvd/NVD:CVE-2026-97683?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9821](https://vulners.com/nvd/NVD:CVE-2026-9821?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-9870](https://vulners.com/nvd/NVD:CVE-2026-9870?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Incorrect Resource Transfer Between Spheres in Synacor Zimbra_Collaboration_Suite](https://vulners.com/githubexploit/2122D891-43EC-5D27-8087-8E289738DCA1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-89P3-FCCH-88PH NLTK: Quadratic-time CPU denial of service in CCG lexicon parser (fromstring) on wide bracket bodies and operator chains](https://vulners.com/osv_ghsa/OSV:GHSA-89P3-FCCH-88PH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-R53H-RW34-8H97 NLTK: Quadratic-time CPU denial of service in Tree.chomsky_normal_form right-factor binarization via list.pop(0)](https://vulners.com/osv_ghsa/OSV:GHSA-R53H-RW34-8H97?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-V8F3-6PHW-6MH9 NLTK: Quadratic-time CPU denial of service in ConllCorpusReader SRL instance builder via nested span rescan](https://vulners.com/osv_ghsa/OSV:GHSA-V8F3-6PHW-6MH9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
