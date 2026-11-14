@@ -3,6 +3,7 @@
 - 404 Media
   - [Behind the Blog: Priorities, Priorities](https://www.404media.co/behind-the-blog-priorities-priorities/)
 - Ars Technica
+  - [FAA orders third nationwide ground stop in its history](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/)
   - [Millions in US use unapproved GLP-1s—and use them in unapproved ways](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/)
   - [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
   - [Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket](https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/)
@@ -36,6 +37,8 @@
 - pluralistic.net
   - [Pluralistic: I told you so (13 Nov 2026)](https://pluralistic.net/2026/11/13/outlookpocalypse/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-121529](https://sploitus.com/exploit?id=552B7A2C-EE28-5215-902C-07138BF1CE2A&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-129254](https://sploitus.com/exploit?id=2AE05110-52BD-5E67-891D-61BFB3DFB1F9&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-53787](https://sploitus.com/exploit?id=1450C2D9-5D15-5E41-BA2D-046D6F01D25F&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
@@ -57,6 +60,7 @@
   - [Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life](https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/)
   - [OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet](https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/)
 - The Verge
+  - [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search)
   - [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet)
   - [CMF’s milk carton-shaped Bluetooth speaker is down to a new low price](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale)
   - [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
