@@ -1,7 +1,9 @@
 # 今日安全资讯（2026-11-14）
 
 - 2Libra
+  - [Goolge 礼品卡的兑换不了的问题](https://2libra.com/post/help-requests/emb8qk8)
   - [Lv.10 达成，收获等级丰碑。下一目标是成为守护者。](https://2libra.com/post/forum-function/Epb9Em7)
+  - [你们的秋裤是什么牌子?加绒吗?几层?有没有更加保暖的呢?](https://2libra.com/post/recommendations/awvuo11)
   - [如何查看已领取的社区兑换码以及原帖？](https://2libra.com/post/forum-function/aDqNC1J)
   - [寿命短还是长？一生的钱总额一样](https://2libra.com/post/idea/mHupxY7)
 - 404 Media
@@ -19,6 +21,8 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet swings to $170M loss as Bitcoin sale hits earnings](https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US regulators move ahead on crypto trust charters as Senate scrutiny grows](https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Microsoft blames network capacity upgrade for 24-hour Outlook and Microsoft 365 outage — says it was not a cyberattack or AI](https://www.cyberkendra.com/2026/11/microsoft-outage-cause-network-upgrade-not-cyberattack-ai.html)
 - daringfireball.net
   - [Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’](https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/)
   - [David Sacks Is Fucked Too](https://x.com/DavidSacks/status/2121070881258504395)
