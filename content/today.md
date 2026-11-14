@@ -8,6 +8,7 @@
   - [你们的秋裤是什么牌子?加绒吗?几层?有没有更加保暖的呢?](https://2libra.com/post/recommendations/awvuo11)
   - [如何查看已领取的社区兑换码以及原帖？](https://2libra.com/post/forum-function/aDqNC1J)
   - [寿命短还是长？一生的钱总额一样](https://2libra.com/post/idea/mHupxY7)
+  - [红果最近越来越烧心了啊，直播广告多的一比。](https://2libra.com/post/software-tools/iH3eh7i)
 - 404 Media
   - [Behind the Blog: Priorities, Priorities](https://www.404media.co/behind-the-blog-priorities-priorities/)
 - Ars Technica
@@ -22,6 +23,7 @@
   - [Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions](https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin holds below $70K as stocks slip despite a cooler US PPI print](https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MegaETH parent cuts 20% of staff amid restructuring, AI push](https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Metaplanet swings to $170M loss as Bitcoin sale hits earnings](https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US regulators move ahead on crypto trust charters as Senate scrutiny grows](https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -201,6 +203,7 @@
   - [CVE-2026-129171](https://vulners.com/nvd/NVD:CVE-2026-129171?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129172](https://vulners.com/nvd/NVD:CVE-2026-129172?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129173 Stirling-Tools Stirling-PDF Participant Details Endpoint WorkflowParticipantController.java session timeout](https://vulners.com/cvelist/CVELIST:CVE-2026-129173?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129181](https://vulners.com/nvd/NVD:CVE-2026-129181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19194](https://vulners.com/nvd/NVD:CVE-2026-19194?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49341](https://vulners.com/nvd/NVD:CVE-2026-49341?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-49990](https://vulners.com/nvd/NVD:CVE-2026-49990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -245,6 +248,7 @@
   - [GHSA-89P3-FCCH-88PH NLTK: Quadratic-time CPU denial of service in CCG lexicon parser (fromstring) on wide bracket bodies and operator chains](https://vulners.com/osv_ghsa/OSV:GHSA-89P3-FCCH-88PH?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-R53H-RW34-8H97 NLTK: Quadratic-time CPU denial of service in Tree.chomsky_normal_form right-factor binarization via list.pop(0)](https://vulners.com/osv_ghsa/OSV:GHSA-R53H-RW34-8H97?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-V8F3-6PHW-6MH9 NLTK: Quadratic-time CPU denial of service in ConllCorpusReader SRL instance builder via nested span rescan](https://vulners.com/osv_ghsa/OSV:GHSA-V8F3-6PHW-6MH9?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [patch-swarm](https://vulners.com/githubexploit/3810C71A-41AF-51D5-9A2E-377A6735C951?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: The Hater’s Guide To Megaspeed](https://www.wheresyoured.at/hg-megaspeed/)
 - Wired
