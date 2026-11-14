@@ -22,10 +22,12 @@
   - [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
 - The Block
   - [Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding](https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337)
+  - [Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit](https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342)
 - The Decoder
   - [Anthropic says outdated prompting habits are slowing down Claude Opus 5.5](https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/)
   - [Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/)
 - The Verge
+  - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
   - [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire)
 - Vulners.com RSS Feed
   - [CVE-2026-110531](https://vulners.com/nvd/NVD:CVE-2026-110531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
