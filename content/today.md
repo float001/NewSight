@@ -30,6 +30,9 @@
   - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
   - [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire)
 - Vulners.com RSS Feed
+  - [CVE-2015-10149](https://vulners.com/cve/CVE-2015-10149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2015-10149](https://vulners.com/nvd/NVD:CVE-2015-10149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2015-10149 Dancer versions before 1.3400 for Perl pass unvalidated session ids from the session cookie to the session engine](https://vulners.com/cvelist/CVELIST:CVE-2015-10149?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110531](https://vulners.com/nvd/NVD:CVE-2026-110531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116753](https://vulners.com/nvd/NVD:CVE-2026-116753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120687](https://vulners.com/nvd/NVD:CVE-2026-120687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -38,5 +41,6 @@
   - [CVE-2026-129261](https://vulners.com/nvd/NVD:CVE-2026-129261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129267](https://vulners.com/nvd/NVD:CVE-2026-129267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129447](https://vulners.com/nvd/NVD:CVE-2026-129447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129456](https://vulners.com/nvd/NVD:CVE-2026-129456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
