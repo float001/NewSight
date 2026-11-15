@@ -69,6 +69,8 @@
   - [CVE-2026-129353](https://vulners.com/nvd/NVD:CVE-2026-129353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129356](https://vulners.com/nvd/NVD:CVE-2026-129356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129360](https://vulners.com/nvd/NVD:CVE-2026-129360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129444 D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials](https://vulners.com/cve/CVE-2026-129444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129444 D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials](https://vulners.com/cvelist/CVELIST:CVE-2026-129444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129447](https://vulners.com/nvd/NVD:CVE-2026-129447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129454](https://vulners.com/nvd/NVD:CVE-2026-129454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129455](https://vulners.com/nvd/NVD:CVE-2026-129455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -82,6 +84,8 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
+  - [Function and Map](https://dyrnq.com/function-and-map/)
   - [Linux File Descriptor](https://dyrnq.com/linux-file-descriptor/)
+  - [run-end-encoded](https://dyrnq.com/run-end-encoded/)
 - 爱范儿
   - [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=)
