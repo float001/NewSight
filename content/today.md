@@ -14,6 +14,9 @@
   - [看来要全职做了，被优化第二天～](https://2libra.com/post/indie-dev/OsK3V7s)
   - [考古一波历年网络流行梗](https://2libra.com/post/hotspot-tracking/b93mWpn)
   - [这哥们真不把老婆当人呀](https://2libra.com/post/family/tSoQxPs)
+  - [🏆 2Libra 龙虎榜 2026-11-08 ~ 2026-11-15（更新算法）](https://2libra.com/post/forum-function/MFn_BCs)
+- 404 Media
+  - [This Comic Kills Technofascists](https://www.404media.co/this-comic-kills-technofascists/)
 - Ars Technica
   - [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/)
 - ByteByteGo
@@ -44,6 +47,10 @@
   - [How to Recover Data from Windows: A Complete Step-by-Step Guide](https://infosecwriteups.com/how-to-recover-data-from-windows-a-complete-step-by-step-guide-299b3a947bdf?source=rss----7b722bfd1b8d---4)
 - jeffgeerling.com
   - [Ops needs friction](https://www.jeffgeerling.com/blog/2026/ops-needs-friction/)
+- Sebastian Raschka
+  - [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
+- shkspr.mobi
+  - [Variable Electricity Pricing - the Highs and the Lows](https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-126909](https://sploitus.com/exploit?id=BBB08203-E68C-55D1-AE45-6F204DFAB2DE&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -63,6 +70,7 @@
   - [Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China](https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/)
   - [Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/)
 - The Verge
+  - [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)
   - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
   - [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
   - [Work to replace old copper wire led to the FAA’s ground stop](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire)
@@ -85,6 +93,7 @@
   - [CVE-2026-129444 D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials](https://vulners.com/cvelist/CVELIST:CVE-2026-129444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129445](https://vulners.com/nvd/NVD:CVE-2026-129445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129447](https://vulners.com/nvd/NVD:CVE-2026-129447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129450](https://vulners.com/nvd/NVD:CVE-2026-129450?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129454](https://vulners.com/nvd/NVD:CVE-2026-129454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129455](https://vulners.com/nvd/NVD:CVE-2026-129455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129456](https://vulners.com/nvd/NVD:CVE-2026-129456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -109,6 +118,8 @@
   - [Function and Map](https://dyrnq.com/function-and-map/)
   - [Linux File Descriptor](https://dyrnq.com/linux-file-descriptor/)
   - [run-end-encoded](https://dyrnq.com/run-end-encoded/)
+- 奇客Solidot–传递最新科技情报
+  - [亚洲象种群数量减少变得更孤立](https://www.solidot.org/story?sid=85890)
 - 爱范儿
   - [六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验](https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=)
