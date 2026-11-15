@@ -3,6 +3,7 @@
 - 2Libra
   - [BLG 冠军 🏆，速速领 B 站大会员](https://2libra.com/post/deal-hunter/WbmGW8Z)
   - [Cloudflare 开源 Kitesurf 浏览器，支持自行部署](https://2libra.com/post/tech-news/ZbRdkPe)
+  - [【一人食】豆包。。。输入法？](https://2libra.com/post/small-things/cBgAgvQ)
   - [【💰】3:1 送金币](https://2libra.com/post/game-discussion/p0HRW44)
   - [全勤](https://2libra.com/post/forum-function/SCVwdEc)
   - [恭喜 BLG，获得 S16 英雄联盟总冠军！](https://2libra.com/post/game-discussion/HGuYuaT)
@@ -21,6 +22,8 @@
   - [Patrick McGee on Johny Srouji and Nvidia](https://x.com/patrickmcgee_/status/2120799867140550999)
 - Hacker News Frontpage
   - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
+  - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
+  - [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)
   - [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
   - [The Cloud Is Just Someone Else's Computer – They Let It Burn](https://soargram.io/content/369523282)
 - Hexacorn
@@ -62,6 +65,7 @@
   - [CVE-2026-129267](https://vulners.com/nvd/NVD:CVE-2026-129267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129353](https://vulners.com/nvd/NVD:CVE-2026-129353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129356](https://vulners.com/nvd/NVD:CVE-2026-129356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129360](https://vulners.com/nvd/NVD:CVE-2026-129360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129447](https://vulners.com/nvd/NVD:CVE-2026-129447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129454](https://vulners.com/nvd/NVD:CVE-2026-129454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129455](https://vulners.com/nvd/NVD:CVE-2026-129455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
