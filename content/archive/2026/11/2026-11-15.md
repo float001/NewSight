@@ -111,6 +111,7 @@
   - [New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall](https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/)
 - 不安全
   - [Ho iniziato a documentare ciò che imparo nel campo della sicurezza informatica. Cerco un feedback sincero.](https://buaq.net/go-454976.html)
+  - [My computer crashed and Intel GPU was the guilt](https://buaq.net/go-455011.html)
   - [NIS: Misure rafforzate di ACN](https://buaq.net/go-454990.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -120,6 +121,8 @@
   - [run-end-encoded](https://dyrnq.com/run-end-encoded/)
 - 奇客Solidot–传递最新科技情报
   - [亚洲象种群数量减少变得更孤立](https://www.solidot.org/story?sid=85890)
+  - [意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款](https://www.solidot.org/story?sid=85892)
+  - [香港迪士尼乐园 1.7 万张电子门票被盗](https://www.solidot.org/story?sid=85891)
 - 爱范儿
   - [六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验](https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=)
