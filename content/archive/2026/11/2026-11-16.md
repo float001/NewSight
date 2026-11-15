@@ -2,6 +2,9 @@
 
 - Cyber Kendra
   - [CVE-2026-20131: Cisco FMC RCE Exploited by Interlock](https://www.cyberkendra.com/2026/11/cve-2026-20131-cisco-fmc-rce-interlock-ransomware.html)
+  - [CVE-2026-99288 NoisyTCP: Linux TCP Flaw Crashes Servers](https://www.cyberkendra.com/2026/11/cve-2026-99288-noisytcp-linux-kernel-tcp-flaw.html)
+- daringfireball.net
+  - [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/)
 - TechCrunch
   - [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
 - Vulners.com RSS Feed
