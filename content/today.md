@@ -7,9 +7,13 @@
   - [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/)
 - TechCrunch
   - [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
+  - [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
   - [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
+- The Block
+  - [Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing](https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363)
 - The Verge
   - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
+  - [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
 - Vulners.com RSS Feed
   - [CVE-2025-71466](https://vulners.com/nvd/NVD:CVE-2025-71466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71467](https://vulners.com/nvd/NVD:CVE-2025-71467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -20,5 +24,6 @@
   - [CVE-2026-129485](https://vulners.com/nvd/NVD:CVE-2026-129485?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129490](https://vulners.com/nvd/NVD:CVE-2026-129490?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposed Dangerous Method or Function in Freeswitch](https://vulners.com/githubexploit/F4E670A0-F4D6-552D-8D4F-B925BD91D01E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [inference-poc](https://vulners.com/githubexploit/E7A76296-C271-5A79-A0F3-260FFD491D2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
