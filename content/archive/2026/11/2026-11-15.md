@@ -9,6 +9,7 @@
   - [全勤](https://2libra.com/post/forum-function/SCVwdEc)
   - [恭喜 BLG，获得 S16 英雄联盟总冠军！](https://2libra.com/post/game-discussion/HGuYuaT)
   - [看来要全职做了，被优化第二天～](https://2libra.com/post/indie-dev/OsK3V7s)
+  - [考古一波历年网络流行梗](https://2libra.com/post/hotspot-tracking/b93mWpn)
 - Ars Technica
   - [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/)
 - ByteByteGo
@@ -79,6 +80,9 @@
   - [CVE-2026-129465](https://vulners.com/nvd/NVD:CVE-2026-129465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129466](https://vulners.com/nvd/NVD:CVE-2026-129466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-126909](https://vulners.com/githubexploit/BBB08203-E68C-55D1-AE45-6F204DFAB2DE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [M6 Mac Mini Early Black Friday Sale (2026)](https://www.wired.com/story/mac-mini-deal-11-13-2026/)
+  - [New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall](https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/)
 - 不安全
   - [Ho iniziato a documentare ciò che imparo nel campo della sicurezza informatica. Cerco un feedback sincero.](https://buaq.net/go-454976.html)
 - 代码审计星球
@@ -88,4 +92,5 @@
   - [Linux File Descriptor](https://dyrnq.com/linux-file-descriptor/)
   - [run-end-encoded](https://dyrnq.com/run-end-encoded/)
 - 爱范儿
+  - [六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验](https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船](https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=)
