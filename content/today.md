@@ -6,6 +6,7 @@
 - daringfireball.net
   - [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/)
 - TechCrunch
+  - [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
   - [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
 - Vulners.com RSS Feed
   - [CVE-2025-71466](https://vulners.com/nvd/NVD:CVE-2025-71466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
