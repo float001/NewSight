@@ -3,11 +3,14 @@
 - 2Libra
   - [BLG 冠军 🏆，速速领 B 站大会员](https://2libra.com/post/deal-hunter/WbmGW8Z)
   - [Cloudflare 开源 Kitesurf 浏览器，支持自行部署](https://2libra.com/post/tech-news/ZbRdkPe)
+  - [Google 搜索无法关闭 SafeSearch，有什么替代的搜索引擎么？](https://2libra.com/post/ask-recommendation/sA7BZES)
   - [【一人食】豆包。。。输入法？](https://2libra.com/post/small-things/cBgAgvQ)
   - [【💰】3:1 送金币](https://2libra.com/post/game-discussion/p0HRW44)
   - [【💰】你认为这两年读研是好选择吗](https://2libra.com/post/social-observation/_uRu44e)
   - [全勤](https://2libra.com/post/forum-function/SCVwdEc)
   - [恭喜 BLG，获得 S16 英雄联盟总冠军！](https://2libra.com/post/game-discussion/HGuYuaT)
+  - [新的 muse 刷邀请机器人，目前可用](https://2libra.com/post/ai-companies/LNffiN5)
+  - [有以下不为人知的信息差！！！早知道早省钱！](https://2libra.com/post/deal-hunter/F4fSKCb)
   - [看来要全职做了，被优化第二天～](https://2libra.com/post/indie-dev/OsK3V7s)
   - [考古一波历年网络流行梗](https://2libra.com/post/hotspot-tracking/b93mWpn)
 - Ars Technica
@@ -15,6 +18,7 @@
 - ByteByteGo
   - [EP233: Kubernetes Explained for Busy Engineers](https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy)
 - CoinTelegraph
+  - [Bitcoin falls to four-month low near $62K as crypto selloff deepens](https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [RWA protocol stUSDT winds down three years after $2.3B TVL peak](https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - construction-physics.com
   - [Reading List 11/14/2026](https://www.construction-physics.com/p/reading-list-11142026)
@@ -24,6 +28,8 @@
   - [Jason Snell’s HomeView Review](https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/)
   - [Joanna Stern Reviews the HomeView](https://www.youtube.com/watch?v=yVTcVtLn2o4)
   - [Patrick McGee on Johny Srouji and Nvidia](https://x.com/patrickmcgee_/status/2120799867140550999)
+- Data Breach
+  - [Data Breach at La Poste Subsidiary Maileva Affects 22 Million People in France](https://securityaffairs.com/203126/data-breach/data-breach-at-la-poste-subsidiary-maileva-affects-22-million-people-in-france.html)
 - Hacker News Frontpage
   - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
   - [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
@@ -51,6 +57,7 @@
   - [Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit](https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342)
 - The Decoder
   - [Anthropic says outdated prompting habits are slowing down Claude Opus 5.5](https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/)
+  - [Australia's central bank finds AI hitting young workers first, especially in software and customer service](https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/)
   - [Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/)
 - The Verge
   - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
@@ -67,11 +74,13 @@
   - [CVE-2026-129260](https://vulners.com/nvd/NVD:CVE-2026-129260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129261](https://vulners.com/nvd/NVD:CVE-2026-129261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129267](https://vulners.com/nvd/NVD:CVE-2026-129267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129349](https://vulners.com/nvd/NVD:CVE-2026-129349?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129353](https://vulners.com/nvd/NVD:CVE-2026-129353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129356](https://vulners.com/nvd/NVD:CVE-2026-129356?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129360](https://vulners.com/nvd/NVD:CVE-2026-129360?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129444 D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials](https://vulners.com/cve/CVE-2026-129444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129444 D-Link DSL-6740C FTP Daemon ftpd_conf.php hard-coded credentials](https://vulners.com/cvelist/CVELIST:CVE-2026-129444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129445](https://vulners.com/nvd/NVD:CVE-2026-129445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129447](https://vulners.com/nvd/NVD:CVE-2026-129447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129454](https://vulners.com/nvd/NVD:CVE-2026-129454?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129455](https://vulners.com/nvd/NVD:CVE-2026-129455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -79,12 +88,16 @@
   - [CVE-2026-129464](https://vulners.com/nvd/NVD:CVE-2026-129464?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129465](https://vulners.com/nvd/NVD:CVE-2026-129465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129466](https://vulners.com/nvd/NVD:CVE-2026-129466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82568](https://vulners.com/nvd/NVD:CVE-2026-82568?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82663](https://vulners.com/nvd/NVD:CVE-2026-82663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-126909](https://vulners.com/githubexploit/BBB08203-E68C-55D1-AE45-6F204DFAB2DE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [It’s Getting Too Dry for Even Cactuses to Survive](https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/)
   - [M6 Mac Mini Early Black Friday Sale (2026)](https://www.wired.com/story/mac-mini-deal-11-13-2026/)
   - [New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall](https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/)
 - 不安全
   - [Ho iniziato a documentare ciò che imparo nel campo della sicurezza informatica. Cerco un feedback sincero.](https://buaq.net/go-454976.html)
+  - [NIS: Misure rafforzate di ACN](https://buaq.net/go-454990.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
