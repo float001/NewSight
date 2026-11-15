@@ -13,12 +13,14 @@
   - [有以下不为人知的信息差！！！早知道早省钱！](https://2libra.com/post/deal-hunter/F4fSKCb)
   - [看来要全职做了，被优化第二天～](https://2libra.com/post/indie-dev/OsK3V7s)
   - [考古一波历年网络流行梗](https://2libra.com/post/hotspot-tracking/b93mWpn)
+  - [这哥们真不把老婆当人呀](https://2libra.com/post/family/tSoQxPs)
 - Ars Technica
   - [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/)
 - ByteByteGo
   - [EP233: Kubernetes Explained for Busy Engineers](https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy)
 - CoinTelegraph
   - [Bitcoin falls to four-month low near $62K as crypto selloff deepens](https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [RWA protocol stUSDT winds down three years after $2.3B TVL peak](https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - construction-physics.com
   - [Reading List 11/14/2026](https://www.construction-physics.com/p/reading-list-11142026)
@@ -58,6 +60,7 @@
 - The Decoder
   - [Anthropic says outdated prompting habits are slowing down Claude Opus 5.5](https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/)
   - [Australia's central bank finds AI hitting young workers first, especially in software and customer service](https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/)
+  - [Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China](https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/)
   - [Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/)
 - The Verge
   - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
@@ -92,7 +95,9 @@
   - [CVE-2026-82663](https://vulners.com/nvd/NVD:CVE-2026-82663?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-126909](https://vulners.com/githubexploit/BBB08203-E68C-55D1-AE45-6F204DFAB2DE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Evercade Nexus Review: The Best Retro Handheld Yet](https://www.wired.com/review/evercade-nexus/)
   - [It’s Getting Too Dry for Even Cactuses to Survive](https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/)
+  - [Logitech Yeti 2 Review: An All-In-One Studio Setup](https://www.wired.com/review/logitech-yeti-2/)
   - [M6 Mac Mini Early Black Friday Sale (2026)](https://www.wired.com/story/mac-mini-deal-11-13-2026/)
   - [New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall](https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/)
 - 不安全
