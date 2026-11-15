@@ -18,6 +18,8 @@
   - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
   - [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
   - [The Cloud Is Just Someone Else's Computer – They Let It Burn](https://soargram.io/content/369523282)
+- Hexacorn
+  - [Anti-AI tricks, Part 1](https://www.hexacorn.com/blog/2026/11/15/anti-ai-tricks-part-1/)
 - InfoSec Write-ups - Medium
   - [How to Recover Data from Windows: A Complete Step-by-Step Guide](https://infosecwriteups.com/how-to-recover-data-from-windows-a-complete-step-by-step-guide-299b3a947bdf?source=rss----7b722bfd1b8d---4)
 - jeffgeerling.com
@@ -58,3 +60,5 @@
   - [Ho iniziato a documentare ciò che imparo nel campo della sicurezza informatica. Cerco un feedback sincero.](https://buaq.net/go-454976.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 博客
+  - [Linux File Descriptor](https://dyrnq.com/linux-file-descriptor/)
