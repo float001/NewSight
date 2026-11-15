@@ -26,6 +26,7 @@
   - [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
 - The Block
   - [Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding](https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337)
+  - [Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%](https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350)
   - [Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit](https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342)
 - The Decoder
   - [Anthropic says outdated prompting habits are slowing down Claude Opus 5.5](https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/)
