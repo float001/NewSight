@@ -1,5 +1,9 @@
 # 今日安全资讯（2026-11-15）
 
+- 2Libra
+  - [恭喜 BLG，获得 S16 英雄联盟总冠军！](https://2libra.com/post/game-discussion/HGuYuaT)
+- Ars Technica
+  - [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/)
 - ByteByteGo
   - [EP233: Kubernetes Explained for Busy Engineers](https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy)
 - construction-physics.com
@@ -24,6 +28,7 @@
   - [Got an iPhone Duo? These 9 settings make it easier to use](https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/)
   - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
   - [Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide](https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/)
+  - [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
 - The Block
   - [Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding](https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337)
   - [Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%](https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350)
@@ -46,7 +51,10 @@
   - [CVE-2026-129260](https://vulners.com/nvd/NVD:CVE-2026-129260?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129261](https://vulners.com/nvd/NVD:CVE-2026-129261?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129267](https://vulners.com/nvd/NVD:CVE-2026-129267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129353](https://vulners.com/nvd/NVD:CVE-2026-129353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129447](https://vulners.com/nvd/NVD:CVE-2026-129447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129456](https://vulners.com/nvd/NVD:CVE-2026-129456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [Ho iniziato a documentare ciò che imparo nel campo della sicurezza informatica. Cerco un feedback sincero.](https://buaq.net/go-454976.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
