@@ -1,8 +1,12 @@
 # 今日安全资讯（2026-11-15）
 
 - 2Libra
+  - [BLG 冠军 🏆，速速领 B 站大会员](https://2libra.com/post/deal-hunter/WbmGW8Z)
   - [Cloudflare 开源 Kitesurf 浏览器，支持自行部署](https://2libra.com/post/tech-news/ZbRdkPe)
+  - [【💰】3:1 送金币](https://2libra.com/post/game-discussion/p0HRW44)
+  - [全勤](https://2libra.com/post/forum-function/SCVwdEc)
   - [恭喜 BLG，获得 S16 英雄联盟总冠军！](https://2libra.com/post/game-discussion/HGuYuaT)
+  - [看来要全职做了，被优化第二天～](https://2libra.com/post/indie-dev/OsK3V7s)
 - Ars Technica
   - [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/)
 - ByteByteGo
