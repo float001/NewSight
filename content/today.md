@@ -8,6 +8,8 @@
 - TechCrunch
   - [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
   - [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
+- The Verge
+  - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
 - Vulners.com RSS Feed
   - [CVE-2025-71466](https://vulners.com/nvd/NVD:CVE-2025-71466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71467](https://vulners.com/nvd/NVD:CVE-2025-71467?utm_source=rss&utm_medium=rss&utm_campaign=rss)
