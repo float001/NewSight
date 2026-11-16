@@ -8,19 +8,30 @@
   - [VU#604762: Multiple vendors vulnerable to Unicode Normalization Collision on macOS (APFS)](https://kb.cert.org/vuls/id/604762)
 - CoinTelegraph
   - [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Anthropic Cuts Vulnerability Disclosure Deadline to 30 Days After Google](https://www.cyberkendra.com/2026/11/anthropic-vulnerability-disclosure-policy-30-days.html)
+  - [Debian 12 Kernel 6.1.0-55 Freeze: ext4 Bug and Fix](https://www.cyberkendra.com/2026/11/debian-12-kernel-6-1-0-55-freeze-ext4-fix.html)
   - [Lighter Hack: Withdrawals Paused After $10.4M API Key Leak](https://www.cyberkendra.com/2026/11/lighter-hack-withdrawals-paused-after-10-4m-api-key-leak.html)
 - daringfireball.net
+  - [Ben Thompson on Nvidia](https://stratechery.com/2026/obituaries/)
   - [WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’](https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388)
 - Fidelis Security
   - [Why Fragmented SOC Workflows Increase Investigation Time](https://fidelissecurity.com/threatgeek/threat-detection-response/soc-workflow-investigation-time/)
+- Hacker News Frontpage
+  - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
+  - [Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/)
+  - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+  - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
 - infosecurity-magazine.com
   - [Typosquatters Target New Brand Domains Within 24 Hours of Registration](https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/)
 - micahflee.com
   - [Here's how anyone can easily use private, open weight models](https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/)
+- MIT Technology Review
+  - [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)
 - NVIDIA AI Blog
   - [CUDA at 20: How the Platform Transformed Scientific Computing](https://blogs.nvidia.com/blog/20-years-cuda/)
   - [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/)
@@ -34,26 +45,45 @@
 - TechCrunch
   - [FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
   - [Instagram now lets creators add Amazon affiliate links in reels and feed posts](https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/)
+  - [Island is a new screen-time app that turns staying off your phone into a game](https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/)
   - [Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’](https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/)
   - [OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/)
   - [OpenAI will embed Apollo researchers to investigate AI subversion](https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/)
+  - [Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)
   - [Serena Williams winds down her VC firm, launches new fund, targets $200M](https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/)
+  - [Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)
 - The Block
   - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
   - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
   - [Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says](https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363)
+  - [Solflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal](https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396)
   - [Standard Chartered says Japan’s bond tokenization plans could help drive RWA market to $2 trillion](https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384)
   - [Supreme Court rejects Custodia Bank’s bid for Fed master account](https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376)
+  - [Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit](https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392)
 - The Decoder
   - [Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices](https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/)
   - [Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML](https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/)
+  - [Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten](https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/)
 - The Verge
+  - [15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage](https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning)
+  - [Apple is adding face unlock to the iPhone Duo — without new hardware](https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta)
+  - [Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back](https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back)
   - [Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday](https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
   - [Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia](https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return)
   - [Why NJ’s governor thinks Republicans are trapped in an X bubble](https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai)
 - Vulners.com RSS Feed
   - [aegis](https://vulners.com/gitee/B7F1AB68-4F5F-5AC9-8649-BA28398216E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119790 Next.js: Information disclosure across root params when a 'use cache' function is called through unstable_cache()](https://vulners.com/cve/CVE-2026-119790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119790 Next.js: Information disclosure across root params when a 'use cache' function is called through unstable_cache()](https://vulners.com/cvelist/CVELIST:CVE-2026-119790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127218 Axigen Mail Server Unauthenticated DoS via Regex Recursion](https://vulners.com/cvelist/CVELIST:CVE-2026-127218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129295](https://vulners.com/nvd/NVD:CVE-2026-129295?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129296](https://vulners.com/nvd/NVD:CVE-2026-129296?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129297](https://vulners.com/nvd/NVD:CVE-2026-129297?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129299](https://vulners.com/nvd/NVD:CVE-2026-129299?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129300](https://vulners.com/nvd/NVD:CVE-2026-129300?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129301](https://vulners.com/nvd/NVD:CVE-2026-129301?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129306](https://vulners.com/nvd/NVD:CVE-2026-129306?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28731](https://vulners.com/nvd/NVD:CVE-2026-28731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32789](https://vulners.com/nvd/NVD:CVE-2026-32789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88987 Silverstripe Framework: XSS via XHTML data URI](https://vulners.com/cvelist/CVELIST:CVE-2026-88987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -67,6 +97,7 @@
   - [Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts](https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/)
   - [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
   - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
+  - [The iPhone Duo Is Getting a Limited Version of Face ID](https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
