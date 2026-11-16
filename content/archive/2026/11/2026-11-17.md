@@ -4,11 +4,14 @@
   - [Comcast's "fiber-powered Wi-Fi" is just cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
   - [Hyperscale data centers use 2% of US electricity](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)
   - [Meet the new James Bond: Robert Pattinson](https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/)
+  - [Microsoft details how three problems combined for a global outage](https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/)
   - [Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day](https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/)
   - [Supreme Court keeps injunction against DEI grant defunding in place](https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/)
   - [US moves to cut China’s remote access to AI chips](https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/)
   - [US now "comfortable" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
   - [When will humans actually fly on Starship?](https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/)
+- Articles | InfoStealers
+  - [Poisoned Scripts on BBC, Zoom and Other Major Websites Linked to iPhone Exploit Loaders](https://www.infostealers.com/article/poisoned-scripts-on-bbc-zoom-and-other-major-websites-linked-to-iphone-exploit-loaders/)
 - ByteByteGo
   - [How Instacart Uses LLMs to Make People Buy More](https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people)
 - CERT Recently Published Vulnerability Notes
@@ -36,13 +39,16 @@
 - Fidelis Security
   - [Why Fragmented SOC Workflows Increase Investigation Time](https://fidelissecurity.com/threatgeek/threat-detection-response/soc-workflow-investigation-time/)
 - Hacker News Frontpage
+  - [BugMeNot Has Closed](https://www.bugmenot.com/)
   - [Caltech professor no longer grades homework's because everyone uses AI](https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11)
   - [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
   - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
+  - [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs)
   - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
   - [Rust Changed Me as a Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
   - [Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/)
   - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
+  - [Spamhaus new email sender requirements in November](https://www.spamhaus.org/sender-guidelines/)
   - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
 - infosecurity-magazine.com
   - [Typosquatters Target New Brand Domains Within 24 Hours of Registration](https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/)
@@ -61,6 +67,7 @@
   - [aegis exploit](https://sploitus.com/exploit?id=B7F1AB68-4F5F-5AC9-8649-BA28398216E0&utm_source=rss&utm_medium=rss)
   - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [All the questions Nvidia should answer on Tuesday — but probably won’t](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)
   - [Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID](https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/)
   - [Apple reveals new Mac security controls as AI agents raise privacy risks](https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/)
   - [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
@@ -85,6 +92,7 @@
   - [Solflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal](https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396)
   - [Standard Chartered says Japan’s bond tokenization plans could help drive RWA market to $2 trillion](https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384)
   - [Supreme Court rejects Custodia Bank’s bid for Fed master account](https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376)
+  - [Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders](https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524)
   - [Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit](https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392)
 - The Decoder
   - [Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices](https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/)
@@ -98,6 +106,7 @@
   - [Apple is testing daily usage limits for more complex Siri AI interactions](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription)
   - [Big Nuclear isn’t worried about the Democrats stopping data centers](https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats)
   - [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
+  - [In Get Huge, the manosphere is here to make friends — with deadly consequences](https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death)
   - [Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist](https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027)
   - [Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back](https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back)
   - [OpenAI wants to stop deepfakes from overwhelming child abuse tiplines](https://www.theverge.com/policy/1034527/openai-csam-classifier)
@@ -157,6 +166,7 @@
   - [Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts](https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/)
   - [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
   - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
+  - [The Bank Outage May Have Nothing to Do With Your Bank](https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/)
   - [The iPhone Duo Is Getting a Limited Version of Face ID](https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
