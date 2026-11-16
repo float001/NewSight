@@ -10,6 +10,7 @@
   - [你们有刷到抖音的秋裤之歌吗](https://2libra.com/post/hotspot-tracking/9F_iUdm)
   - [如果水杯还在，同事是不是还在职？](https://2libra.com/post/office-life/M8Jh1yL)
   - [安卓手机用户注意了](https://2libra.com/post/android/7LBiGa0)
+  - [工作引起的负面情绪，你是怎么控制/调节/消化/排解的](https://2libra.com/post/mental-health/R8shFr7)
   - [开发一个输入法有多难](https://2libra.com/post/tech-rumination/iaSLy2v)
   - [我在 v 站发了一篇推广帖子，看看是否能在今天刷新走个面徽章](https://2libra.com/post/forum-function/tB7B5nV)
   - [比妖怪更难打的是。。。周一](https://2libra.com/post/small-things/HtwGtBF)
@@ -21,6 +22,7 @@
 - ByteByteGo
   - [LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals](https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering)
 - CoinTelegraph
+  - [Asian chip stocks tumble ahead of Nvidia Q3 earnings](https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack](https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -39,6 +41,8 @@
   - [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game)
 - johndcook.com
   - [Orbital footnote](https://www.johndcook.com/blog/2026/11/15/orbital-footnote/)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-106173](https://sploitus.com/exploit?id=A73D54E5-EA89-5F3A-8E41-BE01CE85AA8F&utm_source=rss&utm_medium=rss)
 - steveblank.com
   - [What’s Next For Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 - TechCrunch
@@ -50,6 +54,7 @@
   - [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
 - The Block
   - [CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000](https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807)
+  - [Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched](https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810)
   - [Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing](https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363)
 - The Verge
   - [Apple’s new study looks to improve the effectiveness of AI health tools](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools)
@@ -63,6 +68,7 @@
   - [CVE-2025-71468](https://vulners.com/nvd/NVD:CVE-2025-71468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71469](https://vulners.com/nvd/NVD:CVE-2025-71469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71470](https://vulners.com/nvd/NVD:CVE-2025-71470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107520](https://vulners.com/nvd/NVD:CVE-2026-107520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118389](https://vulners.com/nvd/NVD:CVE-2026-118389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118535](https://vulners.com/nvd/NVD:CVE-2026-118535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120725](https://vulners.com/nvd/NVD:CVE-2026-120725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -91,6 +97,7 @@
   - [CVE-2026-129543](https://vulners.com/cve/CVE-2026-129543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129543](https://vulners.com/nvd/NVD:CVE-2026-129543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129543 Type confusion in overloaded Web IDL binding resolution in Samsung Starfish allows remote web content to cause memory corruption via WebGL bufferData()](https://vulners.com/cvelist/CVELIST:CVE-2026-129543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-82156](https://vulners.com/nvd/NVD:CVE-2026-82156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposed Dangerous Method or Function in Freeswitch](https://vulners.com/githubexploit/F4E670A0-F4D6-552D-8D4F-B925BD91D01E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [inference-poc](https://vulners.com/githubexploit/E7A76296-C271-5A79-A0F3-260FFD491D2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
