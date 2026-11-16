@@ -3,6 +3,7 @@
 - 2Libra
   - ["卡皮巴拉“怎么是个 debuff 啊？](https://2libra.com/post/forum-function/FhwN3w7)
   - [V 站的评论列表样式终于迭代了，今天上午用了一下新的，舒服多了，现代化多了](https://2libra.com/post/product-updates/q0HwoFe)
+  - [【兑换码·💰】用 AI 做的网站上线后，用户说「点了没反应」，我做了个排错工具 Tracelet](https://2libra.com/post/ai-programming/NNqeOtX)
   - [【转帖】英媒：黄仁勋考虑重返英伟达](https://2libra.com/post/tech-news/kqv2-P8)
   - [【💰】吉米去 Vex 宣传了，有兴趣的去捧个场，看看今天有没有机会拿 走个面](https://2libra.com/post/forum-function/2oRpmbk)
   - [【💰】求推荐稳定的美国家宽 IP 代理](https://2libra.com/post/networking/63zUBhj)
@@ -12,6 +13,7 @@
   - [全场目光向我看齐，我宣布个事](https://2libra.com/post/slacking-off/treGvz0)
   - [如果水杯还在，同事是不是还在职？](https://2libra.com/post/office-life/M8Jh1yL)
   - [安卓手机用户注意了](https://2libra.com/post/android/7LBiGa0)
+  - [小米电视怎么折腾](https://2libra.com/post/tv/YXHZvtb)
   - [工作引起的负面情绪，你是怎么控制/调节/消化/排解的](https://2libra.com/post/mental-health/R8shFr7)
   - [开发一个输入法有多难](https://2libra.com/post/tech-rumination/iaSLy2v)
   - [我在 v 站发了一篇推广帖子，看看是否能在今天刷新走个面徽章](https://2libra.com/post/forum-function/tB7B5nV)
@@ -22,6 +24,7 @@
   - [突击检查，大家都干嘛呢？](https://2libra.com/post/slacking-off/quYnpGk)
   - [给小朋友做了个变身捉迷藏小游戏，欢迎带娃体验](https://2libra.com/post/personal-works/8lnKgQA)
   - [职业化](https://2libra.com/post/workplace-stories/Sl7giTQ)
+  - [艾尔登法环中，让梅琳娜烧树，和阻止她烧树拯救她的生命，到底哪个才是对她好？](https://2libra.com/post/game-discussion/pzp2JOE)
 - Ars Technica
   - [Vulcan rocket fails during launch, dealing major blow to SpaceX competitors](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/)
 - ByteByteGo
@@ -72,6 +75,8 @@
   - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
   - [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
   - [Listen to this: Armand Hammer’s Snakes &#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
+- troyhunt.com
+  - [Weekly Update 530: Email Dependencies & Apps](https://www.troyhunt.com/weekly-update-530/)
 - Vulners.com RSS Feed
   - [Beyond Ransomware: Tracking the Underground Trade in Law Firm Access and Data](https://vulners.com/trendmicroblog/TRENDMICROBLOG:AA6802D2D0FAB6DBAD6C49B5007AF190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71466](https://vulners.com/nvd/NVD:CVE-2025-71466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -129,6 +134,7 @@
 - 博客
   - [Tumbling and Sliding](https://dyrnq.com/tumbling-and-sliding/)
 - 奇客Solidot–传递最新科技情报
+  - [Tor 中继节点遭遇大规模 DDoS 攻击](https://www.solidot.org/story?sid=85896)
   - [比特币币值一个半月下跌四分之一](https://www.solidot.org/story?sid=85894)
 - 爱范儿
   - [反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」](https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=)
