@@ -42,7 +42,11 @@
   - [CVE-2026-20131: Cisco FMC RCE Exploited by Interlock](https://www.cyberkendra.com/2026/11/cve-2026-20131-cisco-fmc-rce-interlock-ransomware.html)
   - [CVE-2026-99288 NoisyTCP: Linux TCP Flaw Crashes Servers](https://www.cyberkendra.com/2026/11/cve-2026-99288-noisytcp-linux-kernel-tcp-flaw.html)
 - CyberNews
+  - [Hackers can crash millions of Nginx, Apache, SSH servers using NoisyTCP Linux kernel flaw](https://cybernews.com/security/noisytcp-linux-kernel-vulnerability-crashes-servers/)
+  - [Hackers turned at least 12 Dutch websites into traps for older iPhones](https://cybernews.com/security/dutch-websites-ad-malware-older-iphones/)
+  - [McDonald’s and Burger King’s posts silently hijacked by trolls via Bitly exploit](https://cybernews.com/security/mcdonalds-burger-king-bitly-links-hijacked/)
   - [Uber confirms data breach exposing thousands of drivers’ personal information](https://cybernews.com/security/uber-confirms-data-breach/)
+  - [“Wallet, Please Wait”: a viral app allows strangers to stop you from impulse buying](https://cybernews.com/tech/wallet-please-wait/)
 - daringfireball.net
   - [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/)
 - Emergent Minds | paddo.dev
@@ -56,6 +60,8 @@
   - [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
 - idiallo.com
   - [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game)
+- infosecurity-magazine.com
+  - [Information Commissioner’s Office Receives 300+ Reports of Medical Snooping](https://www.infosecurity-magazine.com/news/ico-300-reports-of-medical-snooping/)
 - johndcook.com
   - [Orbital footnote](https://www.johndcook.com/blog/2026/11/15/orbital-footnote/)
 - Securelist
@@ -77,6 +83,7 @@
 - The Block
   - [CoW Swap goes live on Solana with intent-based trading](https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840)
   - [CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000](https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807)
+  - [DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore](https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854)
   - [Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched](https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810)
   - [South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report](https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847)
   - [Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing](https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363)
@@ -151,9 +158,13 @@
   - [Tor 中继节点遭遇大规模 DDoS 攻击](https://www.solidot.org/story?sid=85896)
   - [互联网档案存档 Salon](https://www.solidot.org/story?sid=85898)
   - [比特币币值一个半月下跌四分之一](https://www.solidot.org/story?sid=85894)
+  - [部分因为 AI Overviews Reddit 年访问量下滑 13%](https://www.solidot.org/story?sid=85899)
+- 安全客
+  - [一个被越狱的AI智能体，自己打了两周才被人发现](https://www.anquanke.com/post/id/316483)
 - 爱范儿
   - [制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验](https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」](https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页](https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时](https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods](https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [超 16 万人请愿，黄仁勋准备「回宫」](https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=)
