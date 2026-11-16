@@ -8,8 +8,13 @@
   - [VU#604762: Multiple vendors vulnerable to Unicode Normalization Collision on macOS (APFS)](https://kb.cert.org/vuls/id/604762)
 - CoinTelegraph
   - [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Lighter Hack: Withdrawals Paused After $10.4M API Key Leak](https://www.cyberkendra.com/2026/11/lighter-hack-withdrawals-paused-after-10-4m-api-key-leak.html)
+- daringfireball.net
+  - [WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’](https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388)
 - Fidelis Security
   - [Why Fragmented SOC Workflows Increase Investigation Time](https://fidelissecurity.com/threatgeek/threat-detection-response/soc-workflow-investigation-time/)
 - infosecurity-magazine.com
@@ -24,15 +29,21 @@
   - [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
   - [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
 - Sploitus.com Exploits RSS Feed
+  - [aegis exploit](https://sploitus.com/exploit?id=B7F1AB68-4F5F-5AC9-8649-BA28398216E0&utm_source=rss&utm_medium=rss)
   - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
   - [Instagram now lets creators add Amazon affiliate links in reels and feed posts](https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/)
+  - [Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’](https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/)
   - [OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/)
   - [OpenAI will embed Apollo researchers to investigate AI subversion](https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/)
   - [Serena Williams winds down her VC firm, launches new fund, targets $200M](https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/)
 - The Block
   - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
   - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
+  - [Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says](https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363)
+  - [Standard Chartered says Japan’s bond tokenization plans could help drive RWA market to $2 trillion](https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384)
+  - [Supreme Court rejects Custodia Bank’s bid for Fed master account](https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376)
 - The Decoder
   - [Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices](https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/)
   - [Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML](https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/)
@@ -42,6 +53,7 @@
   - [Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia](https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return)
   - [Why NJ’s governor thinks Republicans are trapped in an X bubble](https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai)
 - Vulners.com RSS Feed
+  - [aegis](https://vulners.com/gitee/B7F1AB68-4F5F-5AC9-8649-BA28398216E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28731](https://vulners.com/nvd/NVD:CVE-2026-28731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32789](https://vulners.com/nvd/NVD:CVE-2026-32789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-88987 Silverstripe Framework: XSS via XHTML data URI](https://vulners.com/cvelist/CVELIST:CVE-2026-88987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
