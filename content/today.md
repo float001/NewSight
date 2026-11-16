@@ -18,6 +18,8 @@
   - [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
   - [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
   - [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
+- idiallo.com
+  - [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game)
 - steveblank.com
   - [What’s Next For Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 - TechCrunch
@@ -68,4 +70,5 @@
 - 博客
   - [Tumbling and Sliding](https://dyrnq.com/tumbling-and-sliding/)
 - 爱范儿
+  - [反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」](https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时](https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=)
