@@ -4,6 +4,7 @@
   - ["卡皮巴拉“怎么是个 debuff 啊？](https://2libra.com/post/forum-function/FhwN3w7)
   - [V 站的评论列表样式终于迭代了，今天上午用了一下新的，舒服多了，现代化多了](https://2libra.com/post/product-updates/q0HwoFe)
   - [【兑换码·💰】用 AI 做的网站上线后，用户说「点了没反应」，我做了个排错工具 Tracelet](https://2libra.com/post/ai-programming/NNqeOtX)
+  - [【路过】徽章现在可以挂状态了](https://2libra.com/post/product-updates/dWr9BP6)
   - [【转帖】英媒：黄仁勋考虑重返英伟达](https://2libra.com/post/tech-news/kqv2-P8)
   - [【💰】吉米去 Vex 宣传了，有兴趣的去捧个场，看看今天有没有机会拿 走个面](https://2libra.com/post/forum-function/2oRpmbk)
   - [【💰】求推荐稳定的美国家宽 IP 代理](https://2libra.com/post/networking/63zUBhj)
@@ -11,6 +12,7 @@
   - [今天是妙笔生花](https://2libra.com/post/forum-function/ALctBcf)
   - [你们有刷到抖音的秋裤之歌吗](https://2libra.com/post/hotspot-tracking/9F_iUdm)
   - [全场目光向我看齐，我宣布个事](https://2libra.com/post/slacking-off/treGvz0)
+  - [大结局很喜欢，谢谢 BLG!!!](https://2libra.com/post/game-discussion/aBBNiRP)
   - [如果水杯还在，同事是不是还在职？](https://2libra.com/post/office-life/M8Jh1yL)
   - [安卓手机用户注意了](https://2libra.com/post/android/7LBiGa0)
   - [小米电视怎么折腾](https://2libra.com/post/tv/YXHZvtb)
@@ -21,12 +23,14 @@
   - [比妖怪更难打的是。。。周一](https://2libra.com/post/small-things/HtwGtBF)
   - [没钱花了怎么办嘛，在哪能搞点零花钱？](https://2libra.com/post/help-requests/D3wz_-u)
   - [泼墨成画](https://2libra.com/post/ai-tools/bDR02yb)
+  - [看着不错的岛上工具【浮屿】](https://2libra.com/post/tools-sharing/LttI6ov)
   - [社区对多账号的态度？](https://2libra.com/post/forum-function/GQy1TnR)
   - [突击检查，大家都干嘛呢？](https://2libra.com/post/slacking-off/quYnpGk)
   - [给小朋友做了个变身捉迷藏小游戏，欢迎带娃体验](https://2libra.com/post/personal-works/8lnKgQA)
   - [职业化](https://2libra.com/post/workplace-stories/Sl7giTQ)
   - [艾尔登法环中，让梅琳娜烧树，和阻止她烧树拯救她的生命，到底哪个才是对她好？](https://2libra.com/post/game-discussion/pzp2JOE)
 - Ars Technica
+  - [The drone-delivery boom could be a nightmare for people traumatized by war](https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/)
   - [Vulcan rocket fails during launch, dealing major blow to SpaceX competitors](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/)
 - ByteByteGo
   - [LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals](https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering)
@@ -48,10 +52,14 @@
   - [Hackers can crash millions of Nginx, Apache, SSH servers using NoisyTCP Linux kernel flaw](https://cybernews.com/security/noisytcp-linux-kernel-vulnerability-crashes-servers/)
   - [Hackers turned at least 12 Dutch websites into traps for older iPhones](https://cybernews.com/security/dutch-websites-ad-malware-older-iphones/)
   - [McDonald’s and Burger King’s posts silently hijacked by trolls via Bitly exploit](https://cybernews.com/security/mcdonalds-burger-king-bitly-links-hijacked/)
+  - [Microsoft outage blocks chlorine warnings, sending hotel guests to hospital](https://cybernews.com/security/microsoft-outage-chlorine-poisoning/)
   - [Uber confirms data breach exposing thousands of drivers’ personal information](https://cybernews.com/security/uber-confirms-data-breach/)
+  - [Your Business Data Could Be Worth Millions. Who Controls the Rights?](https://cybernews.com/press-releases/your-business-data-could-be-worth-millions-who-controls-the-rights/)
   - [“Wallet, Please Wait”: a viral app allows strangers to stop you from impulse buying](https://cybernews.com/tech/wallet-please-wait/)
 - daringfireball.net
   - [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/)
+- dfarq.homeip.net
+  - [The rise and fall of Syquest](https://dfarq.homeip.net/the-rise-and-fall-of-syquest/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-and-fall-of-syquest)
 - Emergent Minds | paddo.dev
   - [Fable Ran Out. The Advisor Didn't: Claude Code's Fable Advisor and Code Mode, Tested](https://paddo.dev/blog/fable-ran-out-advisor-didnt/)
 - Hacker News Frontpage
@@ -64,6 +72,7 @@
 - idiallo.com
   - [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game)
 - infosecurity-magazine.com
+  - [FBI Highlights Growing Abuse of AI-Driven Pentesting Framework ARTEX](https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/)
   - [Information Commissioner’s Office Receives 300+ Reports of Medical Snooping](https://www.infosecurity-magazine.com/news/ico-300-reports-of-medical-snooping/)
 - johndcook.com
   - [Orbital footnote](https://www.johndcook.com/blog/2026/11/15/orbital-footnote/)
@@ -84,6 +93,7 @@
   - [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
   - [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
   - [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
+  - [Zoox robotaxis are now on the Uber app in Las Vegas](https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/)
 - The Block
   - [CoW Swap goes live on Solana with intent-based trading](https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840)
   - [CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000](https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807)
@@ -94,6 +104,7 @@
   - [Upbit parent Dunamu posts $14 million Q3 net loss as revenue falls 61%](https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876)
   - [Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale](https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870)
 - The Verge
+  - [Amazon’s Zoox robotaxis are now available via Uber](https://www.theverge.com/transportation/1032984/uber-zoox-robotaxi-las-vegas-launch-mgm-resorts-los-angeles)
   - [Apple’s new study looks to improve the effectiveness of AI health tools](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools)
   - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
   - [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
@@ -173,6 +184,9 @@
   - [Exploit for Exposed Dangerous Method or Function in Freeswitch](https://vulners.com/githubexploit/F4E670A0-F4D6-552D-8D4F-B925BD91D01E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [inference-poc](https://vulners.com/githubexploit/E7A76296-C271-5A79-A0F3-260FFD491D2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [QuickieSploit](https://vulners.com/githubexploit/DE21BAB8-C495-5ECD-9496-3B6C8E7D40F8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The Best Smart Bird Feeders for Backyard Birding (2026)](https://www.wired.com/story/best-smart-bird-feeders/)
+  - [The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore](https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/)
 - 不安全
   - [Apache HTTP Server远程代码执行漏洞（CVE-2026-119618）通告](https://buaq.net/go-455100.html)
   - [Apache HTTP Server远程代码执行漏洞（CVE-2026-119618）通告](https://buaq.net/go-455101.html)
@@ -186,6 +200,8 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 先知技术社区
   - [记一次 uni-app 应用加密流量分析与重放](https://xz.aliyun.com/news/93341)
+- 半块西瓜皮
+  - [智能体渗透的两个默认值：UA/TLS 指纹与断开的连接](https://guage.cool/gocurl-two-defaults.html)
 - 博客
   - [Tumbling and Sliding](https://dyrnq.com/tumbling-and-sliding/)
 - 奇客Solidot–传递最新科技情报
@@ -201,6 +217,7 @@
   - [制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验](https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」](https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页](https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [影石这张「魔法相纸」，怎么治好了我的相册吃灰症？](https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时](https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods](https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？](https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=)
