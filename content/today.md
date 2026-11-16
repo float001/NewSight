@@ -8,6 +8,7 @@
   - [【💰】求推荐稳定的美国家宽 IP 代理](https://2libra.com/post/networking/63zUBhj)
   - [今天是妙笔生花](https://2libra.com/post/forum-function/ALctBcf)
   - [你们有刷到抖音的秋裤之歌吗](https://2libra.com/post/hotspot-tracking/9F_iUdm)
+  - [全场目光向我看齐，我宣布个事](https://2libra.com/post/slacking-off/treGvz0)
   - [如果水杯还在，同事是不是还在职？](https://2libra.com/post/office-life/M8Jh1yL)
   - [安卓手机用户注意了](https://2libra.com/post/android/7LBiGa0)
   - [工作引起的负面情绪，你是怎么控制/调节/消化/排解的](https://2libra.com/post/mental-health/R8shFr7)
@@ -23,6 +24,8 @@
   - [LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals](https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering)
 - CoinTelegraph
   - [Asian chip stocks tumble ahead of Nvidia Q3 earnings](https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Aster CEO suspects foul play after token plunges 32% in minutes](https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack](https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -110,6 +113,8 @@
   - [开源AI渗透测试框架ARTEX引起FBI关注：从锁定目标到取得最高权限用时不到3小时](https://buaq.net/go-455106.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 先知技术社区
+  - [记一次 uni-app 应用加密流量分析与重放](https://xz.aliyun.com/news/93341)
 - 博客
   - [Tumbling and Sliding](https://dyrnq.com/tumbling-and-sliding/)
 - 爱范儿
