@@ -6,6 +6,7 @@
   - [【转帖】英媒：黄仁勋考虑重返英伟达](https://2libra.com/post/tech-news/kqv2-P8)
   - [【💰】吉米去 Vex 宣传了，有兴趣的去捧个场，看看今天有没有机会拿 走个面](https://2libra.com/post/forum-function/2oRpmbk)
   - [【💰】求推荐稳定的美国家宽 IP 代理](https://2libra.com/post/networking/63zUBhj)
+  - [【💰】用 AI 做的网站上线后，用户说「点了没反应」，我做了个排错工具 Tracelet](https://2libra.com/post/ai-tools/UzFVqox)
   - [今天是妙笔生花](https://2libra.com/post/forum-function/ALctBcf)
   - [你们有刷到抖音的秋裤之歌吗](https://2libra.com/post/hotspot-tracking/9F_iUdm)
   - [全场目光向我看齐，我宣布个事](https://2libra.com/post/slacking-off/treGvz0)
@@ -15,7 +16,10 @@
   - [开发一个输入法有多难](https://2libra.com/post/tech-rumination/iaSLy2v)
   - [我在 v 站发了一篇推广帖子，看看是否能在今天刷新走个面徽章](https://2libra.com/post/forum-function/tB7B5nV)
   - [比妖怪更难打的是。。。周一](https://2libra.com/post/small-things/HtwGtBF)
+  - [没钱花了怎么办嘛，在哪能搞点零花钱？](https://2libra.com/post/help-requests/D3wz_-u)
+  - [泼墨成画](https://2libra.com/post/ai-tools/bDR02yb)
   - [社区对多账号的态度？](https://2libra.com/post/forum-function/GQy1TnR)
+  - [突击检查，大家都干嘛呢？](https://2libra.com/post/slacking-off/quYnpGk)
   - [给小朋友做了个变身捉迷藏小游戏，欢迎带娃体验](https://2libra.com/post/personal-works/8lnKgQA)
   - [职业化](https://2libra.com/post/workplace-stories/Sl7giTQ)
 - Ars Technica
@@ -44,13 +48,17 @@
   - [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game)
 - johndcook.com
   - [Orbital footnote](https://www.johndcook.com/blog/2026/11/15/orbital-footnote/)
+- Securelist
+  - [A USB worm’s second life: Retadup spreading CoffeeLoader](https://securelist.com/retadup-delivers-coffeeloader/121908/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-106173](https://sploitus.com/exploit?id=A73D54E5-EA89-5F3A-8E41-BE01CE85AA8F&utm_source=rss&utm_medium=rss)
+  - [Tugas-1-Secure-Coding-Keamanan-Siber exploit](https://sploitus.com/exploit?id=5D5146B9-422A-5F31-85C4-C25956F9DE14&utm_source=rss&utm_medium=rss)
 - steveblank.com
   - [What’s Next For Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 - TechCrunch
   - [Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)
   - [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
+  - [Helsing backer Plural raises $1.1B to fund Europe’s next moonshots](https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/)
   - [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
   - [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
   - [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
@@ -77,6 +85,8 @@
   - [CVE-2026-120725](https://vulners.com/nvd/NVD:CVE-2026-120725?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120729](https://vulners.com/nvd/NVD:CVE-2026-120729?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120991](https://vulners.com/nvd/NVD:CVE-2026-120991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121786](https://vulners.com/nvd/NVD:CVE-2026-121786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121787](https://vulners.com/nvd/NVD:CVE-2026-121787?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123002](https://vulners.com/nvd/NVD:CVE-2026-123002?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123009](https://vulners.com/nvd/NVD:CVE-2026-123009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123065](https://vulners.com/nvd/NVD:CVE-2026-123065?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -100,6 +110,7 @@
   - [CVE-2026-129543](https://vulners.com/cve/CVE-2026-129543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129543](https://vulners.com/nvd/NVD:CVE-2026-129543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129543 Type confusion in overloaded Web IDL binding resolution in Samsung Starfish allows remote web content to cause memory corruption via WebGL bufferData()](https://vulners.com/cvelist/CVELIST:CVE-2026-129543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129606](https://vulners.com/nvd/NVD:CVE-2026-129606?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-82156](https://vulners.com/nvd/NVD:CVE-2026-82156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposed Dangerous Method or Function in Freeswitch](https://vulners.com/githubexploit/F4E670A0-F4D6-552D-8D4F-B925BD91D01E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [inference-poc](https://vulners.com/githubexploit/E7A76296-C271-5A79-A0F3-260FFD491D2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -117,6 +128,8 @@
   - [记一次 uni-app 应用加密流量分析与重放](https://xz.aliyun.com/news/93341)
 - 博客
   - [Tumbling and Sliding](https://dyrnq.com/tumbling-and-sliding/)
+- 奇客Solidot–传递最新科技情报
+  - [比特币币值一个半月下跌四分之一](https://www.solidot.org/story?sid=85894)
 - 爱范儿
   - [反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」](https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时](https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=)
