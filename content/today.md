@@ -2,6 +2,9 @@
 
 - 2Libra
   - [你们有刷到抖音的秋裤之歌吗](https://2libra.com/post/hotspot-tracking/9F_iUdm)
+  - [安卓手机用户注意了](https://2libra.com/post/android/7LBiGa0)
+  - [我在 v 站发了一篇推广帖子，看看是否能在今天刷新走个面徽章](https://2libra.com/post/forum-function/tB7B5nV)
+  - [给小朋友做了个变身捉迷藏小游戏，欢迎带娃体验](https://2libra.com/post/personal-works/8lnKgQA)
 - Ars Technica
   - [Vulcan rocket fails during launch, dealing major blow to SpaceX competitors](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/)
 - ByteByteGo
@@ -14,7 +17,9 @@
 - daringfireball.net
   - [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/)
 - Hacker News Frontpage
+  - ["Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs](https://www.hntrends.com/2026/november.html)
   - [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/)
+  - [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
   - [Jensen Huang might return to Nvidia as CEO](https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/)
   - [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
   - [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
@@ -23,6 +28,7 @@
 - steveblank.com
   - [What’s Next For Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 - TechCrunch
+  - [Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)
   - [Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
   - [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
   - [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
@@ -32,6 +38,7 @@
   - [CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000](https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807)
   - [Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing](https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363)
 - The Verge
+  - [Apple’s new study looks to improve the effectiveness of AI health tools](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools)
   - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
   - [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
   - [Listen to this: Armand Hammer’s Snakes &#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
@@ -65,6 +72,9 @@
   - [CVE-2026-129525](https://vulners.com/nvd/NVD:CVE-2026-129525?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposed Dangerous Method or Function in Freeswitch](https://vulners.com/githubexploit/F4E670A0-F4D6-552D-8D4F-B925BD91D01E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [inference-poc](https://vulners.com/githubexploit/E7A76296-C271-5A79-A0F3-260FFD491D2F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [brainproxy](https://buaq.net/go-455086.html)
+  - [PyPI加强软件包来源展示应对供应链攻击 发布文件异常将直接显示警告](https://buaq.net/go-455088.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 博客
@@ -72,3 +82,4 @@
 - 爱范儿
   - [反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」](https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时](https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [超 16 万人请愿，黄仁勋准备「回宫」](https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=)
