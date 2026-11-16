@@ -1,13 +1,18 @@
 # 今日安全资讯（2026-11-17）
 
 - Ars Technica
+  - [Meet the new James Bond: Robert Pattinson](https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/)
+  - [Supreme Court keeps injunction against DEI grant defunding in place](https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/)
+  - [US moves to cut China’s remote access to AI chips](https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/)
   - [US now "comfortable" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
+  - [When will humans actually fly on Starship?](https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/)
 - ByteByteGo
   - [How Instacart Uses LLMs to Make People Buy More](https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people)
 - CERT Recently Published Vulnerability Notes
   - [VU#604762: Multiple vendors vulnerable to Unicode Normalization Collision on macOS (APFS)](https://kb.cert.org/vuls/id/604762)
 - CoinTelegraph
   - [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Coinbase and Broadridge propose standard for tokenized stock disclosures](https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -19,9 +24,13 @@
 - daringfireball.net
   - [Ben Thompson on Nvidia](https://stratechery.com/2026/obituaries/)
   - [WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’](https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388)
+  - [‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2](https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/)
+- darkreading
+  - ['Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models](https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models)
 - Fidelis Security
   - [Why Fragmented SOC Workflows Increase Investigation Time](https://fidelissecurity.com/threatgeek/threat-detection-response/soc-workflow-investigation-time/)
 - Hacker News Frontpage
+  - [How to Intercept HTTP/3 Traffic: QUIC and Qpack](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
   - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
   - [Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/)
   - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
@@ -43,6 +52,7 @@
   - [aegis exploit](https://sploitus.com/exploit?id=B7F1AB68-4F5F-5AC9-8649-BA28398216E0&utm_source=rss&utm_medium=rss)
   - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID](https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/)
   - [FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
   - [Instagram now lets creators add Amazon affiliate links in reels and feed posts](https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/)
   - [Island is a new screen-time app that turns staying off your phone into a game](https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/)
@@ -52,6 +62,8 @@
   - [Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)
   - [Serena Williams winds down her VC firm, launches new fund, targets $200M](https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/)
   - [Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)
+  - [Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security](https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/)
+  - [Uber says hackers stole information on close to 150,000 driver’s licenses during data breach](https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
 - The Block
   - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
   - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
@@ -63,12 +75,18 @@
 - The Decoder
   - [Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices](https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/)
   - [Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML](https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/)
+  - [Google warns that fully automated cyberattacks have arrived and will get worse fast](https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/)
   - [Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten](https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/)
+  - [OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice](https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/)
 - The Verge
   - [15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage](https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning)
   - [Apple is adding face unlock to the iPhone Duo — without new hardware](https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta)
+  - [Apple is testing daily usage limits for more complex Siri AI interactions](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription)
+  - [Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist](https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027)
   - [Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back](https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back)
+  - [OpenAI wants to stop deepfakes from overwhelming child abuse tiplines](https://www.theverge.com/policy/1034527/openai-csam-classifier)
   - [Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday](https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale)
+  - [The Apple Watch Series 12 is cheaper than ever ahead of Black Friday](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
   - [Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia](https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return)
   - [Why NJ’s governor thinks Republicans are trapped in an X bubble](https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai)
@@ -94,6 +112,7 @@
   - [SRC-MAX](https://vulners.com/gitee/190E2302-6D0F-5C49-87FD-4B914D1E365D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [AO3 Is Back. This Is Not a Drill](https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/)
+  - [Best Early Black Friday Espresso Machine Deals (2026)](https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/)
   - [Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts](https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/)
   - [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
   - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
