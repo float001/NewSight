@@ -17,6 +17,7 @@
   - [工作引起的负面情绪，你是怎么控制/调节/消化/排解的](https://2libra.com/post/mental-health/R8shFr7)
   - [开发一个输入法有多难](https://2libra.com/post/tech-rumination/iaSLy2v)
   - [我在 v 站发了一篇推广帖子，看看是否能在今天刷新走个面徽章](https://2libra.com/post/forum-function/tB7B5nV)
+  - [打开了新世界](https://2libra.com/post/large-models/HcBZpyW)
   - [比妖怪更难打的是。。。周一](https://2libra.com/post/small-things/HtwGtBF)
   - [没钱花了怎么办嘛，在哪能搞点零花钱？](https://2libra.com/post/help-requests/D3wz_-u)
   - [泼墨成画](https://2libra.com/post/ai-tools/bDR02yb)
@@ -32,14 +33,20 @@
 - CoinTelegraph
   - [Asian chip stocks tumble ahead of Nvidia Q3 earnings](https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Aster CEO suspects foul play after token plunges 32% in minutes](https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits](https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3](https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack](https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest](https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [CVE-2026-20131: Cisco FMC RCE Exploited by Interlock](https://www.cyberkendra.com/2026/11/cve-2026-20131-cisco-fmc-rce-interlock-ransomware.html)
   - [CVE-2026-99288 NoisyTCP: Linux TCP Flaw Crashes Servers](https://www.cyberkendra.com/2026/11/cve-2026-99288-noisytcp-linux-kernel-tcp-flaw.html)
+- CyberNews
+  - [Uber confirms data breach exposing thousands of drivers’ personal information](https://cybernews.com/security/uber-confirms-data-breach/)
 - daringfireball.net
   - [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/)
+- Emergent Minds | paddo.dev
+  - [Fable Ran Out. The Advisor Didn't: Claude Code's Fable Advisor and Code Mode, Tested](https://paddo.dev/blog/fable-ran-out-advisor-didnt/)
 - Hacker News Frontpage
   - ["Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs](https://www.hntrends.com/2026/november.html)
   - [Chemical spills into drainage ditch at SpaceXAI in Southaven](https://wreg.com/news/chemical-spills-into-drainage-ditch-at-spacexai-in-southaven/)
@@ -55,6 +62,7 @@
   - [A USB worm’s second life: Retadup spreading CoffeeLoader](https://securelist.com/retadup-delivers-coffeeloader/121908/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-106173](https://sploitus.com/exploit?id=A73D54E5-EA89-5F3A-8E41-BE01CE85AA8F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-129494](https://sploitus.com/exploit?id=6B4941D1-24DD-574D-A0CA-47B5A3A64492&utm_source=rss&utm_medium=rss)
   - [Tugas-1-Secure-Coding-Keamanan-Siber exploit](https://sploitus.com/exploit?id=5D5146B9-422A-5F31-85C4-C25956F9DE14&utm_source=rss&utm_medium=rss)
 - steveblank.com
   - [What’s Next For Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
@@ -67,8 +75,10 @@
   - [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
   - [The tech products we enthusiastically recommend this holiday season](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/)
 - The Block
+  - [CoW Swap goes live on Solana with intent-based trading](https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840)
   - [CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000](https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807)
   - [Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched](https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810)
+  - [South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report](https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847)
   - [Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing](https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363)
 - The Verge
   - [Apple’s new study looks to improve the effectiveness of AI health tools](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools)
@@ -77,6 +87,8 @@
   - [Listen to this: Armand Hammer’s Snakes &#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
 - troyhunt.com
   - [Weekly Update 530: Email Dependencies & Apps](https://www.troyhunt.com/weekly-update-530/)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [The Hidden Cost of Identity Technical Debt](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [Beyond Ransomware: Tracking the Underground Trade in Law Firm Access and Data](https://vulners.com/trendmicroblog/TRENDMICROBLOG:AA6802D2D0FAB6DBAD6C49B5007AF190?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71466](https://vulners.com/nvd/NVD:CVE-2025-71466?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -84,6 +96,7 @@
   - [CVE-2025-71468](https://vulners.com/nvd/NVD:CVE-2025-71468?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71469](https://vulners.com/nvd/NVD:CVE-2025-71469?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71470](https://vulners.com/nvd/NVD:CVE-2025-71470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-105925](https://vulners.com/nvd/NVD:CVE-2026-105925?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107520](https://vulners.com/nvd/NVD:CVE-2026-107520?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118389](https://vulners.com/nvd/NVD:CVE-2026-118389?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118535](https://vulners.com/nvd/NVD:CVE-2026-118535?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -127,6 +140,7 @@
   - [lamda v10.12](https://buaq.net/go-455103.html)
   - [PyPI加强软件包来源展示应对供应链攻击 发布文件异常将直接显示警告](https://buaq.net/go-455088.html)
   - [开源AI渗透测试框架ARTEX引起FBI关注：从锁定目标到取得最高权限用时不到3小时](https://buaq.net/go-455106.html)
+  - [超过80%的网关服务器无法正常响应 微软初步复盘Microsoft 365全球大故障](https://buaq.net/go-455144.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 先知技术社区
@@ -135,10 +149,13 @@
   - [Tumbling and Sliding](https://dyrnq.com/tumbling-and-sliding/)
 - 奇客Solidot–传递最新科技情报
   - [Tor 中继节点遭遇大规模 DDoS 攻击](https://www.solidot.org/story?sid=85896)
+  - [互联网档案存档 Salon](https://www.solidot.org/story?sid=85898)
   - [比特币币值一个半月下跌四分之一](https://www.solidot.org/story?sid=85894)
 - 爱范儿
+  - [制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验](https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」](https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时](https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods](https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [超 16 万人请愿，黄仁勋准备「回宫」](https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [Apache HTTP Server远程代码执行漏洞（CVE-2026-119618）通告](https://blog.nsfocus.net/apache-http-server%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-119618%ef%bc%89%e9%80%9a%e5%91%8a-2/)
