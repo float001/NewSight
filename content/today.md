@@ -1,9 +1,21 @@
 # 今日安全资讯（2026-11-17）
 
+- Ars Technica
+  - [US now "comfortable" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
+- ByteByteGo
+  - [How Instacart Uses LLMs to Make People Buy More](https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people)
+- CERT Recently Published Vulnerability Notes
+  - [VU#604762: Multiple vendors vulnerable to Unicode Normalization Collision on macOS (APFS)](https://kb.cert.org/vuls/id/604762)
+- CoinTelegraph
+  - [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [Lighter Hack: Withdrawals Paused After $10.4M API Key Leak](https://www.cyberkendra.com/2026/11/lighter-hack-withdrawals-paused-after-10-4m-api-key-leak.html)
 - Fidelis Security
   - [Why Fragmented SOC Workflows Increase Investigation Time](https://fidelissecurity.com/threatgeek/threat-detection-response/soc-workflow-investigation-time/)
 - infosecurity-magazine.com
   - [Typosquatters Target New Brand Domains Within 24 Hours of Registration](https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/)
+- micahflee.com
+  - [Here's how anyone can easily use private, open weight models](https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/)
 - NVIDIA AI Blog
   - [CUDA at 20: How the Platform Transformed Scientific Computing](https://blogs.nvidia.com/blog/20-years-cuda/)
   - [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/)
@@ -11,10 +23,39 @@
   - [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
   - [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
   - [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
+- Sploitus.com Exploits RSS Feed
+  - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [Instagram now lets creators add Amazon affiliate links in reels and feed posts](https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/)
+  - [OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/)
+  - [OpenAI will embed Apollo researchers to investigate AI subversion](https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/)
+  - [Serena Williams winds down her VC firm, launches new fund, targets $200M](https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/)
+- The Block
+  - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
+  - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
+- The Decoder
+  - [Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices](https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/)
+  - [Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML](https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/)
 - The Verge
+  - [Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday](https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
+  - [Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia](https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return)
   - [Why NJ’s governor thinks Republicans are trapped in an X bubble](https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai)
+- Vulners.com RSS Feed
+  - [CVE-2026-28731](https://vulners.com/nvd/NVD:CVE-2026-28731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-32789](https://vulners.com/nvd/NVD:CVE-2026-32789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88987 Silverstripe Framework: XSS via XHTML data URI](https://vulners.com/cvelist/CVELIST:CVE-2026-88987?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-88989 Silverstripe Framework: Auth bypass GridFieldDetailForm](https://vulners.com/cvelist/CVELIST:CVE-2026-88989?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91112 Silverstripe Framework: CMS_ACCESS_SecurityAdmin privilege escalation](https://vulners.com/cvelist/CVELIST:CVE-2026-91112?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-91113 Silverstripe Framework: User-controlled ClassName allows unauthorized record type change](https://vulners.com/cvelist/CVELIST:CVE-2026-91113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Out-of-bounds Write in Apple Ipados](https://vulners.com/githubexploit/9E2F862D-9D5A-576E-8EB0-FD79C80403F3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [SRC-MAX](https://vulners.com/gitee/190E2302-6D0F-5C49-87FD-4B914D1E365D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [AO3 Is Back. This Is Not a Drill](https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/)
+  - [Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts](https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/)
+  - [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
   - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Robert Pattinson 成为第七任 007](https://www.solidot.org/story?sid=85905)
