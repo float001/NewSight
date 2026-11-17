@@ -2,6 +2,7 @@
 
 - 2Libra
   - [2018 年居然都快是十年前了 /(ㄒoㄒ)/~~ 枯 😭😭😭](https://2libra.com/post/small-things/9Hj-ScF)
+  - [AI 使用 RUST+GPUI 开发小工具是真爽](https://2libra.com/post/ai-programming/7vaWhS1)
   - [AI 只能加速明确需求的任务。](https://2libra.com/post/ai-programming/IIrnRQa)
   - [codex 啥时候能恢复](https://2libra.com/post/ai-programming/apMb5pi)
   - [Edge 插件版本更新也需要 7 个工作日么？](https://2libra.com/post/browser-extensions/xYrVeQj)
@@ -27,6 +28,7 @@
   - [有什么好用的办公室插排推荐吗](https://2libra.com/post/ask-recommendation/3T3_y4f)
   - [有时候潘多拉刷新两次都是同一个](https://2libra.com/post/forum-function/x_XJJqT)
   - [有没有刷过 lineageos 的老哥，体验怎么样](https://2libra.com/post/android/yrkqqpB)
+  - [杭州，景德镇，济南，威海选一个](https://2libra.com/post/recommendations/G60PVCH)
   - [永久免费 esim Jetpac（需要美国手机号接码）【搬运】](https://2libra.com/post/deal-hunter/FB7GxTi)
   - [海外办公室跳板机 + Tailscale 使用 Claude，可行吗？](https://2libra.com/post/remote-access/iwAYO65)
   - [清修之地](https://2libra.com/post/personal-works/x4fDRuH)
@@ -35,6 +37,7 @@
   - [请教国区 App Store 上架合规：后端调用 DeepSeek API，如何解决「安全评估」和「AIGC 服务声明」？](https://2libra.com/post/mobile-development/bVBmFh5)
   - [隔壁有一对情侣，好吵。](https://2libra.com/post/social-observation/FmknErT)
 - Ars Technica
+  - [Artist brings old Space Shuttle tank back to life](https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/)
   - [Comcast's "fiber-powered Wi-Fi" is just cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
   - [Hyperscale data centers use 2% of US electricity](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)
   - [Meet the new James Bond: Robert Pattinson](https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/)
@@ -67,6 +70,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia shares fall 4% as board reportedly rules out Huang return](https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Revolut plans four blockchain-based funds for private markets, chair says](https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US judge clears brothers in $25M Ethereum MEV case after mistrial](https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -84,6 +88,8 @@
   - [Data leak exposed 150 million Kik images, some depicting kids: should you be worried?](https://cybernews.com/security/kik-app-data-leak-exposed-images/)
   - [Hackers can overwrite sensitive files on macOS using a filename trick: ‘paßwd’ instead of ‘passwd’](https://cybernews.com/security/macos-filename-trick-sensitive-file-overwrite/)
   - [Microsoft 365 outage provides bait for new credential-stealing campaign](https://cybernews.com/news/microsoft-outage-phishing/)
+  - [Microsoft, banks, flights, and even 911: why is everything going down?](https://cybernews.com/security/jpmorgan-bug-causes-major-bank-outage/)
+  - [Using a “New Zealand method” to play GTA 6 early could get your Twitch account banned](https://cybernews.com/news/new-zealand-method-gta6-twitch-account-ban/)
   - [Visa confirms cyberattack as hackers claim JPMorgan was hit too](https://cybernews.com/security/visa-jpmorgan-data-breach/)
   - [Zoom, IKEA, HSBC among 178 websites infected with hidden malware](https://cybernews.com/security/178-company-websites-infected-malware/)
 - daniel.haxx.se
@@ -133,6 +139,7 @@
 - infosecurity-magazine.com
   - [Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns](https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/)
   - [ICO Issues GTA 6 Scam Warning as Release Date Nears](https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/)
+  - [Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage](https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/)
   - [Typosquatters Target New Brand Domains Within 24 Hours of Registration](https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/)
 - it-notes.dragas.net
   - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
@@ -149,6 +156,8 @@
   - [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
 - Sec-News 安全文摘
   - [CVE-2026-104692 / CVE-2026-104007 - LibreOffice RCE via ODF Form Datasource JDBC Code Execution](https://govuln.com/news/url/dbVX)
+- shkspr.mobi
+  - [HomeAssistant - shrink a HAOS qcow2 filesystem](https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/)
 - simonwillison.net
   - [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/)
 - Sploitus.com Exploits RSS Feed
@@ -184,6 +193,7 @@
   - [Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps](https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432)
   - [Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements](https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106)
   - [Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000](https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083)
+  - [Grvt launches RWA perpetuals with funding tied to traditional markets](https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089)
   - [Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC](https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113)
   - [Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)
   - [Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says](https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363)
@@ -215,8 +225,10 @@
   - [Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday](https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale)
   - [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories)
   - [The Apple Watch Series 12 is cheaper than ever ahead of Black Friday](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale)
+  - [The Verge Best of 2026](https://www.theverge.com/gadgets/1034881/the-verge-best-of-2026)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
   - [Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia](https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return)
+  - [Uber and Zipline’s drone delivery service takes flight in Houston](https://www.theverge.com/transportation/1034794/uber-eats-zipline-drone-delivery-launch-texas-houston-dallas)
   - [United Airlines system outage disrupts departures just days after the big ground stop](https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures)
   - [US data centers now burn more electricity than a midsized country](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)
   - [Why NJ’s governor thinks Republicans are trapped in an X bubble](https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai)
@@ -264,12 +276,16 @@
   - [CVE-2026-124019 VB-Audio VB-CABLE Kernel Driver Out-of-Bounds Write](https://vulners.com/cvelist/CVELIST:CVE-2026-124019?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124222](https://vulners.com/nvd/NVD:CVE-2026-124222?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-124223](https://vulners.com/nvd/NVD:CVE-2026-124223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124643](https://vulners.com/nvd/NVD:CVE-2026-124643?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124644](https://vulners.com/nvd/NVD:CVE-2026-124644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-12487](https://vulners.com/nvd/NVD:CVE-2026-12487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126526](https://vulners.com/nvd/NVD:CVE-2026-126526?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126816](https://vulners.com/cve/CVE-2026-126816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126816](https://vulners.com/nvd/NVD:CVE-2026-126816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126816 Path traversal and arbitrary file write in the cost report generator of aws-pricing-mcp-server](https://vulners.com/cvelist/CVELIST:CVE-2026-126816?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126828](https://vulners.com/nvd/NVD:CVE-2026-126828?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127140 Server-Side Request Forgery in pretix Widget WordPress plugin](https://vulners.com/cvelist/CVELIST:CVE-2026-127140?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127174 Permission bypass through editing scheduled exports](https://vulners.com/cvelist/CVELIST:CVE-2026-127174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127218 Axigen Mail Server Unauthenticated DoS via Regex Recursion](https://vulners.com/cvelist/CVELIST:CVE-2026-127218?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127219](https://vulners.com/nvd/NVD:CVE-2026-127219?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129008](https://vulners.com/nvd/NVD:CVE-2026-129008?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -405,6 +421,7 @@
   - [GHSA-72PX-J8GH-P79X mail-parser: Sender IP address spoofing in get_server_ipaddress()](https://vulners.com/osv_ghsa/OSV:GHSA-72PX-J8GH-P79X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-FR3H-CPQ2-9496 mail-parser: Path Traversal vulnerability in attachment extraction](https://vulners.com/osv_ghsa/OSV:GHSA-FR3H-CPQ2-9496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-R7W7-VPQ8-C5VV mail-parser is vulnerable to polynomial ReDoS in email header parsing](https://vulners.com/osv_ghsa/OSV:GHSA-R7W7-VPQ8-C5VV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://vulners.com/thn/THN:E916A14CA26C1C143052253B0E459FD8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SRC-MAX](https://vulners.com/gitee/190E2302-6D0F-5C49-87FD-4B914D1E365D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vue-wysiwyg](https://vulners.com/githubexploit/FF49954B-EE98-5E12-97B6-62C39054725B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
