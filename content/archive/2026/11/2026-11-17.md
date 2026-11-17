@@ -2,8 +2,11 @@
 
 - 2Libra
   - [2018 年居然都快是十年前了 /(ㄒoㄒ)/~~ 枯 😭😭😭](https://2libra.com/post/small-things/9Hj-ScF)
+  - [AI 只能加速明确需求的任务。](https://2libra.com/post/ai-programming/IIrnRQa)
   - [codex 啥时候能恢复](https://2libra.com/post/ai-programming/apMb5pi)
   - [Edge 插件版本更新也需要 7 个工作日么？](https://2libra.com/post/browser-extensions/xYrVeQj)
+  - [lv.12](https://2libra.com/post/forum-function/DRCddOc)
+  - [windows 的动画效果是个什么奇葩设置](https://2libra.com/post/operating-systems/ZokYJg9)
   - [【T2】T2 Web Extension 已上架 Firefox/Edge，欢迎安装试用！](https://2libra.com/post/browser-extensions/Q4JOWmU)
   - [【公告】广发英雄帖：恳请诸位赐稿](https://2libra.com/post/office-life/6V_trG0)
   - [【投票】你还会去电影院看复联 5 吗？](https://2libra.com/post/movie-experience/0cTIS53)
@@ -12,6 +15,7 @@
   - [【💰】开心，望周知，发个金币池，把我金币凑整到 2w 正好](https://2libra.com/post/forum-function/XUliY1b)
   - [【💰】等级](https://2libra.com/post/forum-function/JH8YLWk)
   - [【💰】聊聊你们现在对于 AI 的用法已经开发到什么程度了](https://2libra.com/post/ai-applications/HBmBm2W)
+  - [【🔒】送自费 opencode 的大肥鱼 20 刀额度第二贴](https://2libra.com/post/ai-gateway/PEBDEuQ)
   - [严重批评，各位老哥们的发帖速度没有我浏览速度快，导致我时常摸不到最新鲜的鱼。](https://2libra.com/post/slacking-off/m-FZ3Ul)
   - [哪有赌狗天天输，今日潘多拉，194 金币入账](https://2libra.com/post/forum-function/-ha47n2)
   - [多谢吉米，我刚说完我没有，马上就给我安排上了](https://2libra.com/post/forum-function/_vJExi7)
@@ -51,11 +55,13 @@
   - [Custodia Bank loses Supreme Court bid for direct Fed payment access](https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme](https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [German lawmakers back crypto freezes outside criminal cases](https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps](https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia shares fall 4% as board reportedly rules out Huang return](https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US judge clears brothers in $25M Ethereum MEV case after mistrial](https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -64,6 +70,8 @@
   - [Lighter Hack: Withdrawals Paused After $10.4M API Key Leak](https://www.cyberkendra.com/2026/11/lighter-hack-withdrawals-paused-after-10-4m-api-key-leak.html)
   - [Optimizely Malware Hits Zoom, BBC, CNN: What to Do](https://www.cyberkendra.com/2026/11/optimizely-malware-hits-zoom-bbc-cnn-what-to-do.html)
 - CyberNews
+  - [Microsoft 365 outage provides bait for new credential-stealing campaign](https://cybernews.com/news/microsoft-outage-phishing/)
+  - [Visa confirms cyberattack as hackers claim JPMorgan was hit too](https://cybernews.com/security/visa-jpmorgan-data-breach/)
   - [Zoom, IKEA, HSBC among 178 websites infected with hidden malware](https://cybernews.com/security/178-company-websites-infected-malware/)
 - daniel.haxx.se
   - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
@@ -84,6 +92,8 @@
   - [Autonomous AI exploits, Optimizely breach, Chrome zero-day active exploitation](https://defend.network/briefings/ai-autonomous-exploits-optimizely-supply-chain-chrome-z-2026-11-17.html)
 - devblogs.microsoft.com/oldnewthing
   - [How can I ask a second program to show a dialog box as if it were shown by my first program?](https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/)
+- ElcomSoft blog
+  - [iOS Forensic Toolkit 10.13: app data extraction for the full iOS 26 range](https://blog.elcomsoft.com/2026/11/ios-forensic-toolkit-10-13-app-data-extraction-for-the-full-ios-26-range/)
 - Emergent Minds | paddo.dev
   - [The Model That Won't Fix Itself: GPT-6 Astra, OpenAI's Alignment Stall, and Anthropic](https://paddo.dev/blog/astra-wont-fix-itself/)
 - Fidelis Security
@@ -105,6 +115,7 @@
   - [United Airlines Widespread System Outage](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
   - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
 - infosecurity-magazine.com
+  - [Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns](https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/)
   - [Typosquatters Target New Brand Domains Within 24 Hours of Registration](https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/)
 - it-notes.dragas.net
   - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
@@ -398,7 +409,9 @@
 - 爱范儿
   - [12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」](https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [DeepSeek 不限额的用法，都在这里了 |  附指南](https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [Mac 收紧权限，苹果开始防着 AI 了](https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微软全球大宕机，AI 怎么又成了背锅侠](https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日](https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
   - [绿盟科技护航首艘内河航运电动船成功试航](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%8a%a4%e8%88%aa%e9%a6%96%e8%89%98%e5%86%85%e6%b2%b3%e8%88%aa%e8%bf%90%e7%94%b5%e5%8a%a8%e8%88%b9%e6%88%90%e5%8a%9f%e8%af%95%e8%88%aa/)
+  - [绿盟科技风云卫基座模型斩获CyberGym Model榜单全球第一，91.31%！！！](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e9%a3%8e%e4%ba%91%e5%8d%ab%e5%9f%ba%e5%ba%a7%e6%a8%a1%e5%9e%8b%e6%96%a9%e8%8e%b7cybergym-model%e6%a6%9c%e5%8d%95%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%8c91-31/)
