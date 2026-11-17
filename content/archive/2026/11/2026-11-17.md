@@ -60,6 +60,8 @@
   - [Debian 12 Kernel 6.1.0-55 Freeze: ext4 Bug and Fix](https://www.cyberkendra.com/2026/11/debian-12-kernel-6-1-0-55-freeze-ext4-fix.html)
   - [Lighter Hack: Withdrawals Paused After $10.4M API Key Leak](https://www.cyberkendra.com/2026/11/lighter-hack-withdrawals-paused-after-10-4m-api-key-leak.html)
   - [Optimizely Malware Hits Zoom, BBC, CNN: What to Do](https://www.cyberkendra.com/2026/11/optimizely-malware-hits-zoom-bbc-cnn-what-to-do.html)
+- CyberNews
+  - [Zoom, IKEA, HSBC among 178 websites infected with hidden malware](https://cybernews.com/security/178-company-websites-infected-malware/)
 - daniel.haxx.se
   - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 - daringfireball.net
@@ -143,6 +145,7 @@
   - [CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more](https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584)
   - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
   - [Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps](https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432)
+  - [Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000](https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083)
   - [Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)
   - [Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says](https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363)
   - [Solflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal](https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396)
@@ -365,6 +368,7 @@
   - [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
   - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
   - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
+  - [Oobah Butler Can Sell You Anything—If You’re a Rich Idiot](https://www.wired.com/story/oobah-butler-exclusive-interview-scams-for-a-better-tomorrow/)
   - [Surfshark Promo Codes: 87% Off | November 2026](https://www.wired.com/story/surfshark-coupon/)
   - [The Bank Outage May Have Nothing to Do With Your Bank](https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/)
   - [The iPhone Duo Is Getting a Limited Version of Face ID](https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/)
