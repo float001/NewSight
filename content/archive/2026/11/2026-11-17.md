@@ -3,12 +3,14 @@
 - 2Libra
   - [codex 啥时候能恢复](https://2libra.com/post/ai-programming/apMb5pi)
   - [Edge 插件版本更新也需要 7 个工作日么？](https://2libra.com/post/browser-extensions/xYrVeQj)
+  - [【投票】你还会去电影院看复联 5 吗？](https://2libra.com/post/movie-experience/0cTIS53)
   - [【运动打卡】节奏慢了点，前两天感冒了 🤧](https://2libra.com/post/sports/oXY9f9N)
   - [【💰】1.13% 的概率获得了 忽冷忽热 徽章](https://2libra.com/post/forum-function/JlLFlS0)
   - [【💰】开心，望周知，发个金币池，把我金币凑整到 2w 正好](https://2libra.com/post/forum-function/XUliY1b)
   - [严重批评，各位老哥们的发帖速度没有我浏览速度快，导致我时常摸不到最新鲜的鱼。](https://2libra.com/post/slacking-off/m-FZ3Ul)
   - [哪有赌狗天天输，今日潘多拉，194 金币入账](https://2libra.com/post/forum-function/-ha47n2)
   - [多谢吉米，我刚说完我没有，马上就给我安排上了](https://2libra.com/post/forum-function/_vJExi7)
+  - [打劫，交出你的小说列表](https://2libra.com/post/good-books/hnhuSD5)
   - [有时候潘多拉刷新两次都是同一个](https://2libra.com/post/forum-function/x_XJJqT)
   - [永久免费 esim Jetpac（需要美国手机号接码）【搬运】](https://2libra.com/post/deal-hunter/FB7GxTi)
   - [海外办公室跳板机 + Tailscale 使用 Claude，可行吗？](https://2libra.com/post/remote-access/iwAYO65)
@@ -65,6 +67,8 @@
 - darkreading
   - ['Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models](https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models)
   - [Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts](https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines)
+- devblogs.microsoft.com/oldnewthing
+  - [How can I ask a second program to show a dialog box as if it were shown by my first program?](https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/)
 - Fidelis Security
   - [Why Fragmented SOC Workflows Increase Investigation Time](https://fidelissecurity.com/threatgeek/threat-detection-response/soc-workflow-investigation-time/)
 - Hacker News Frontpage
@@ -123,6 +127,7 @@
   - [Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows](https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407)
   - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
   - [CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals](https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591)
+  - [CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more](https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584)
   - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
   - [Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps](https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432)
   - [Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)
@@ -332,13 +337,24 @@
   - [SRC-MAX](https://vulners.com/gitee/190E2302-6D0F-5C49-87FD-4B914D1E365D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vue-wysiwyg](https://vulners.com/githubexploit/FF49954B-EE98-5E12-97B6-62C39054725B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [1Password Coupon: Score a Free Trial in November 2026](https://www.wired.com/story/1password-coupon/)
+  - [20% Off Sephora Promo Code | November 2026](https://www.wired.com/story/sephora-promo-code/)
+  - [50% Off DoorDash Promo Code | November 2026](https://www.wired.com/story/doordash-promo-code/)
   - [AO3 Is Back. This Is Not a Drill](https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/)
+  - [AT&T Promo Codes: $50 Off This November 2026](https://www.wired.com/story/att-promo-code/)
   - [Best Early Black Friday Espresso Machine Deals (2026)](https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-16-2026/)
+  - [Booking.com Promo Codes: 20% Off | November 2026](https://www.wired.com/story/booking-com-promo-code/)
+  - [Chewy Promo Codes: 25% Off November 2026](https://www.wired.com/story/chewy-promo-code/)
+  - [Hotels.com Coupon Codes: 50% Off for November 2026](https://www.wired.com/story/hotels-com-coupon/)
   - [Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts](https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/)
   - [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
   - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
+  - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
+  - [Surfshark Promo Codes: 87% Off | November 2026](https://www.wired.com/story/surfshark-coupon/)
   - [The Bank Outage May Have Nothing to Do With Your Bank](https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/)
   - [The iPhone Duo Is Getting a Limited Version of Face ID](https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/)
+  - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
+  - [Udemy Coupon Codes: 20% Off November 2026](https://www.wired.com/story/udemy-promo-code/)
 - 不安全
   - [绿盟科技护航首艘内河航运电动船成功试航](https://buaq.net/go-455361.html)
 - 代码审计星球
