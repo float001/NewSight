@@ -202,6 +202,7 @@
   - [CVE-2026-130290](https://vulners.com/cve/CVE-2026-130290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-130290](https://vulners.com/cvelist/CVELIST:CVE-2026-130290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-130290](https://vulners.com/nvd/NVD:CVE-2026-130290?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130335](https://vulners.com/nvd/NVD:CVE-2026-130335?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-28731](https://vulners.com/nvd/NVD:CVE-2026-28731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-32789](https://vulners.com/nvd/NVD:CVE-2026-32789?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45016](https://vulners.com/nvd/NVD:CVE-2026-45016?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -244,3 +245,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Robert Pattinson 成为第七任 007](https://www.solidot.org/story?sid=85905)
+- 爱范儿
+  - [早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日](https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=)
