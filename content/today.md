@@ -55,10 +55,14 @@
   - [How Instacart Uses LLMs to Make People Buy More](https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people)
 - CERT Recently Published Vulnerability Notes
   - [VU#604762: Multiple vendors vulnerable to Unicode Normalization Collision on macOS (APFS)](https://kb.cert.org/vuls/id/604762)
+- Chainalysis Blog
+  - [Refugees, ATMs, and Tax Shifts: What’s Driving Crypto in Eastern Europe](https://www.chainalysis.com/blog/eastern-europe-crypto-adoption-2026/)
 - CoinTelegraph
+  - [ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results](https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance hack may push institutions to outside custody, FalconX exec says](https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin realized loss metric beats June high as open interest eyes 2-year low](https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi](https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump](https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear](https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Boris Johnson says UK must lead blockchain development despite crypto doubts](https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -85,10 +89,12 @@
   - [Optimizely Malware Hits Zoom, BBC, CNN: What to Do](https://www.cyberkendra.com/2026/11/optimizely-malware-hits-zoom-bbc-cnn-what-to-do.html)
   - [Why SMS Two-Factor Still Runs on a Number You Reuse Everywhere](https://www.cyberkendra.com/2026/11/why-sms-two-factor-still-runs-on-a-number-you-reuse-everywhere.html)
 - CyberNews
+  - [80+ influencers paid to promote Nvidia sales in China in campaign tied to AI industry dark-money groups](https://cybernews.com/news/influencer-campaign-nvidia-chip-sales-china/)
   - [Data leak exposed 150 million Kik images, some depicting kids: should you be worried?](https://cybernews.com/security/kik-app-data-leak-exposed-images/)
   - [Hackers can overwrite sensitive files on macOS using a filename trick: ‘paßwd’ instead of ‘passwd’](https://cybernews.com/security/macos-filename-trick-sensitive-file-overwrite/)
   - [Microsoft 365 outage provides bait for new credential-stealing campaign](https://cybernews.com/news/microsoft-outage-phishing/)
   - [Microsoft, banks, flights, and even 911: why is everything going down?](https://cybernews.com/security/jpmorgan-bug-causes-major-bank-outage/)
+  - [TERMS AND CONDITIONS OF CYBERNEWS SPOTLIGHT AWARDS](https://cybernews.com/terms-and-conditions-of-cybernews-spotlight-awards/)
   - [Using a “New Zealand method” to play GTA 6 early could get your Twitch account banned](https://cybernews.com/news/new-zealand-method-gta6-twitch-account-ban/)
   - [Visa confirms cyberattack as hackers claim JPMorgan was hit too](https://cybernews.com/security/visa-jpmorgan-data-breach/)
   - [Zoom, IKEA, HSBC among 178 websites infected with hidden malware](https://cybernews.com/security/178-company-websites-infected-malware/)
@@ -107,6 +113,7 @@
 - darkreading
   - ['Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models](https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models)
   - [Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts](https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines)
+  - [NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check](https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check)
 - defend.network
   - [Autonomous AI exploits, Optimizely breach, Chrome zero-day active exploitation](https://defend.network/briefings/ai-autonomous-exploits-optimizely-supply-chain-chrome-z-2026-11-17.html)
 - devblogs.microsoft.com/oldnewthing
@@ -134,12 +141,15 @@
   - [United Airlines has a widespread system outage](https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff)
   - [United Airlines Widespread System Outage](https://www.cnn.com/2026/11/16/us/united-airlines-outage)
   - [US Banks report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
+- Horizon3.ai
+  - [Horizon3 Expands in Chicago to Meet Demand for Autonomous Security](https://horizon3.ai/news/press-release/horizon3-expands-in-chicago/)
 - IEEE Spectrum
   - [Understand How Satellite Links Shape IoT Device Design and Testing](https://content.knowledgehub.wiley.com/5g-nr-ntn-design-and-test-challenges-for-satellite-connected-iot/)
 - infosecurity-magazine.com
   - [Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns](https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/)
   - [ICO Issues GTA 6 Scam Warning as Release Date Nears](https://www.infosecurity-magazine.com/news/ico-gta-6-scam-warning-release/)
   - [Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage](https://www.infosecurity-magazine.com/news/microsoft-phishing-service-outage/)
+  - [Optimizely Flaw Exploited to Serve Malicious Code to Visitors of 178 Organizations](https://www.infosecurity-magazine.com/news/optimizely-hack-malware-178-orgs/)
   - [Typosquatters Target New Brand Domains Within 24 Hours of Registration](https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/)
 - it-notes.dragas.net
   - [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/)
@@ -154,6 +164,8 @@
   - [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
   - [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
   - [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
+- NVISO Labs
+  - [Reducing Microsoft Sentinel Costs Without Compromising Detection – Part 3: The DNS Quest](https://blog.nviso.eu/2026/11/17/reducing-microsoft-sentinel-costs-without-compromising-detection-part-3-the-dns-quest/)
 - Sec-News 安全文摘
   - [CVE-2026-104692 / CVE-2026-104007 - LibreOffice RCE via ODF Form Datasource JDBC Code Execution](https://govuln.com/news/url/dbVX)
 - shkspr.mobi
@@ -163,6 +175,7 @@
 - Sploitus.com Exploits RSS Feed
   - [aegis exploit](https://sploitus.com/exploit?id=B7F1AB68-4F5F-5AC9-8649-BA28398216E0&utm_source=rss&utm_medium=rss)
   - [CVE-2026-129448 exploit](https://sploitus.com/exploit?id=CVE-2026-129448&utm_source=rss&utm_medium=rss)
+  - [Gopherus3 exploit](https://sploitus.com/exploit?id=CAEDC3FF-2FB0-576C-AFEC-E0BBAF3F1F75&utm_source=rss&utm_medium=rss)
   - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -173,6 +186,8 @@
   - [Cyber giant Infoblox confirms security incident after hackers access ‘company information’](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/)
   - [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
   - [FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
+  - [Genesis AI raises $500 million to deploy glove-wearing robots](https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/)
+  - [Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids](https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/)
   - [Instagram now lets creators add Amazon affiliate links in reels and feed posts](https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/)
   - [Island is a new screen-time app that turns staying off your phone into a game](https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/)
   - [Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’](https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/)
@@ -180,10 +195,14 @@
   - [OpenAI will embed Apollo researchers to investigate AI subversion](https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/)
   - [Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)
   - [Serena Williams winds down her VC firm, launches new fund, targets $200M](https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/)
+  - [Spotify’s new tool aims to stop deepfakes from being attributed to real artists](https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/)
   - [Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)
   - [Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security](https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/)
   - [Uber says hackers stole information on close to 150,000 driver’s licenses during data breach](https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)
+  - [Upside Foods can now make a million pounds of chicken a year without killing any animals](https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/)
 - The Block
+  - [Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values](https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125)
+  - [Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense](https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062)
   - [Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows](https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407)
   - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
   - [Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia](https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080)
@@ -215,6 +234,7 @@
   - [Apple is testing daily usage limits for more complex Siri AI interactions](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription)
   - [Big Nuclear isn’t worried about the Democrats stopping data centers](https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats)
   - [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
+  - [Disney Plus and Hulu’s fully unified app arrives next month](https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026)
   - [Hacker behind 2022 GTA VI leaks pleads guilty](https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj)
   - [In Get Huge, the manosphere is here to make friends — with deadly consequences](https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death)
   - [Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist](https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027)
@@ -232,6 +252,7 @@
   - [United Airlines system outage disrupts departures just days after the big ground stop](https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures)
   - [US data centers now burn more electricity than a midsized country](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard)
   - [Why NJ’s governor thinks Republicans are trapped in an X bubble](https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai)
+  - [Windows 11 actually runs better on 8GB of RAM now](https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing)
 - Vulners.com RSS Feed
   - [aegis](https://vulners.com/gitee/B7F1AB68-4F5F-5AC9-8649-BA28398216E0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71471](https://vulners.com/nvd/NVD:CVE-2025-71471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -421,6 +442,7 @@
   - [GHSA-72PX-J8GH-P79X mail-parser: Sender IP address spoofing in get_server_ipaddress()](https://vulners.com/osv_ghsa/OSV:GHSA-72PX-J8GH-P79X?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-FR3H-CPQ2-9496 mail-parser: Path Traversal vulnerability in attachment extraction](https://vulners.com/osv_ghsa/OSV:GHSA-FR3H-CPQ2-9496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-R7W7-VPQ8-C5VV mail-parser is vulnerable to polynomial ReDoS in email header parsing](https://vulners.com/osv_ghsa/OSV:GHSA-R7W7-VPQ8-C5VV?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Gopherus3](https://vulners.com/gitee/CAEDC3FF-2FB0-576C-AFEC-E0BBAF3F1F75?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://vulners.com/thn/THN:E916A14CA26C1C143052253B0E459FD8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [SRC-MAX](https://vulners.com/gitee/190E2302-6D0F-5C49-87FD-4B914D1E365D?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [vue-wysiwyg](https://vulners.com/githubexploit/FF49954B-EE98-5E12-97B6-62C39054725B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -447,7 +469,10 @@
   - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Udemy Coupon Codes: 20% Off November 2026](https://www.wired.com/story/udemy-promo-code/)
 - 不安全
+  - [ALTRun – 不到 1 MB，接替老牌同名开源启动器，支持拼音首字母、Everything 搜索、Listary 模式、剪贴板历史等](https://buaq.net/go-455493.html)
+  - [ARTEX, AI Penetration Testing and the Rogue Locksmith](https://buaq.net/go-455510.html)
   - [ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems](https://buaq.net/go-455398.html)
+  - [Reducing Microsoft Sentinel Costs Without Compromising Detection – Part 3: The DNS Quest](https://buaq.net/go-455497.html)
   - [Reimplementing an old iPad Plants vs. Zombies game for the web: reverse engineering an Adobe AIR AOT binary](https://buaq.net/go-455386.html)
   - [Siri AI开始设置每日额度：超过限额后基础功能可用 高级功能需开通iCloud+订阅扩容](https://buaq.net/go-455391.html)
   - [绿盟科技护航首艘内河航运电动船成功试航](https://buaq.net/go-455361.html)
