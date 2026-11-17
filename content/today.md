@@ -1,5 +1,8 @@
 # 今日安全资讯（2026-11-17）
 
+- 2Libra
+  - [哪有赌狗天天输，今日潘多拉，194 金币入账](https://2libra.com/post/forum-function/-ha47n2)
+  - [有时候潘多拉刷新两次都是同一个](https://2libra.com/post/forum-function/x_XJJqT)
 - Ars Technica
   - [Comcast's "fiber-powered Wi-Fi" is just cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
   - [Hyperscale data centers use 2% of US electricity](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)
@@ -39,6 +42,7 @@
   - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 - daringfireball.net
   - [[Sponsor] Ivy: The To-do List That Ends](https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8)
+  - [Apple Support Document on the New ‘Full Disk Access’ and ‘System & App Protection Override’ Settings in MacOS 27.3 Beta 2](https://support.apple.com/en-us/149699)
   - [Ben Thompson on Nvidia](https://stratechery.com/2026/obituaries/)
   - [Developers Continue to Optimize iPhone Apps for the Duo](https://x.com/arinwaichulis/status/2122397676767522942)
   - [Irish Goodbye / French Leave / Leave the English Way](https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/)
@@ -59,6 +63,7 @@
   - [Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force](https://news.ycombinator.com/item?id=50522776)
   - [My Quest to push native Three.js quality match AAA Game Engines](https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs)
   - [OpenAI: Strengthening the fight against online child sexual abuse](https://openai.com/index/strengthening-online-child-safety/)
+  - [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
   - [Rust Changed Me as a Developer](https://blog.startifact.com/posts/how-rust-changed-me/)
   - [Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/)
   - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/)
