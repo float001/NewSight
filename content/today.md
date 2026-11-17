@@ -18,6 +18,7 @@
   - [【🔒】送自费 opencode 的大肥鱼 20 刀额度第二贴](https://2libra.com/post/ai-gateway/PEBDEuQ)
   - [严重批评，各位老哥们的发帖速度没有我浏览速度快，导致我时常摸不到最新鲜的鱼。](https://2libra.com/post/slacking-off/m-FZ3Ul)
   - [为匿名发帖扩增了另一个分支形式，鼓励更多的内容发布，让表达少一些顾虑](https://2libra.com/post/product-updates/yx_0Sdr)
+  - [冬天一回家就想钻被窝。](https://2libra.com/post/slacking-off/H6NpCDK)
   - [哪有赌狗天天输，今日潘多拉，194 金币入账](https://2libra.com/post/forum-function/-ha47n2)
   - [多谢吉米，我刚说完我没有，马上就给我安排上了](https://2libra.com/post/forum-function/_vJExi7)
   - [康复一年，我以为自己强迫症早已好了，直到昨天科目三挂了](https://2libra.com/post/mental-health/DTuYclU)
@@ -32,6 +33,7 @@
   - [罗伯特·帕丁森已正式获选出演下一位詹姆斯·邦德](https://2libra.com/post/movie-sharing/--gS4uC)
   - [诶新功能吗，没看到公告啊](https://2libra.com/post/forum-function/K1-kiQq)
   - [请教国区 App Store 上架合规：后端调用 DeepSeek API，如何解决「安全评估」和「AIGC 服务声明」？](https://2libra.com/post/mobile-development/bVBmFh5)
+  - [隔壁有一对情侣，好吵。](https://2libra.com/post/social-observation/FmknErT)
 - Ars Technica
   - [Comcast's "fiber-powered Wi-Fi" is just cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
   - [Hyperscale data centers use 2% of US electricity](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)
@@ -53,7 +55,9 @@
 - CoinTelegraph
   - [Binance hack may push institutions to outside custody, FalconX exec says](https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price fails to hold $65K as US stocks drop further on AI nerves](https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin realized loss metric beats June high as open interest eyes 2-year low](https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump](https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear](https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Boris Johnson says UK must lead blockchain development despite crypto doubts](https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase and Broadridge propose standard for tokenized stock disclosures](https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Custodia Bank loses Supreme Court bid for direct Fed payment access](https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,15 +70,18 @@
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US judge clears brothers in $25M Ethereum MEV case after mistrial](https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [US senators seek SEC answers on tokenized stock money laundering risks](https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Anthropic Cuts Vulnerability Disclosure Deadline to 30 Days After Google](https://www.cyberkendra.com/2026/11/anthropic-vulnerability-disclosure-policy-30-days.html)
+  - [CVE-2026-114938: Pre-Auth RCE Flaw in Java 17 Puts Servers at Risk](https://www.cyberkendra.com/2026/11/cve-2026-114938-pre-auth-rce-flaw-in-java-17-puts-servers-at-risk.html)
   - [Debian 12 Kernel 6.1.0-55 Freeze: ext4 Bug and Fix](https://www.cyberkendra.com/2026/11/debian-12-kernel-6-1-0-55-freeze-ext4-fix.html)
   - [Lighter Hack: Withdrawals Paused After $10.4M API Key Leak](https://www.cyberkendra.com/2026/11/lighter-hack-withdrawals-paused-after-10-4m-api-key-leak.html)
   - [Optimizely Malware Hits Zoom, BBC, CNN: What to Do](https://www.cyberkendra.com/2026/11/optimizely-malware-hits-zoom-bbc-cnn-what-to-do.html)
   - [Why SMS Two-Factor Still Runs on a Number You Reuse Everywhere](https://www.cyberkendra.com/2026/11/why-sms-two-factor-still-runs-on-a-number-you-reuse-everywhere.html)
 - CyberNews
+  - [Data leak exposed 150 million Kik images, some depicting kids: should you be worried?](https://cybernews.com/security/kik-app-data-leak-exposed-images/)
   - [Hackers can overwrite sensitive files on macOS using a filename trick: ‘paßwd’ instead of ‘passwd’](https://cybernews.com/security/macos-filename-trick-sensitive-file-overwrite/)
   - [Microsoft 365 outage provides bait for new credential-stealing campaign](https://cybernews.com/news/microsoft-outage-phishing/)
   - [Visa confirms cyberattack as hackers claim JPMorgan was hit too](https://cybernews.com/security/visa-jpmorgan-data-breach/)
@@ -146,7 +153,9 @@
   - [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/)
 - Sploitus.com Exploits RSS Feed
   - [aegis exploit](https://sploitus.com/exploit?id=B7F1AB68-4F5F-5AC9-8649-BA28398216E0&utm_source=rss&utm_medium=rss)
+  - [CVE-2026-129448 exploit](https://sploitus.com/exploit?id=CVE-2026-129448&utm_source=rss&utm_medium=rss)
   - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [All the questions Nvidia should answer on Tuesday — but probably won’t](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)
   - [Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID](https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/)
@@ -175,6 +184,7 @@
   - [Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps](https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432)
   - [Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements](https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106)
   - [Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000](https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083)
+  - [Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC](https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113)
   - [Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)
   - [Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says](https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363)
   - [Solflare CEO says AI security reviews are essential, touts ‘bunker mode’ and MoneyGram deal](https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396)
