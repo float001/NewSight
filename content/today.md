@@ -4,6 +4,7 @@
   - [windows 风扇管家](https://2libra.com/post/software-tools/8cTlvWh)
 - 404 Media
   - [A Man and His Muse AI Agent Sue Meta](https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/)
+  - [BREAKING: Everything](https://www.404media.co/breaking-everything/)
   - [Lakes Are Bizarrely Syncing Up Globally, And Scientists Are Worried](https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/)
 - Ars Technica
   - [Civilization studio Firaxis Games lays off a third of staff](https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/)
@@ -17,6 +18,7 @@
   - [Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings](https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed’s Waller cites Binance hack in warning over tokenized finance](https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Lighter incident exposes risks beyond withdrawal controls](https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Maple Finance CEO targets up to $15B in assets by the end of 2027](https://cointelegraph.com/interview/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page](https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/)
   - [SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)](https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/)
@@ -28,6 +30,7 @@
   - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
   - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
   - [Human.md](https://www.human-md.ai/)
+  - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
   - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
   - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
   - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
@@ -36,16 +39,19 @@
   - [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](https://simonwillison.net/2026/Nov/17/datasette-lite/)
 - Sploitus.com Exploits RSS Feed
   - [artexerkai exploit](https://sploitus.com/exploit?id=845DF456-C46C-568D-B9E9-73CCE60E4876&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=AA674732-9B6A-53B9-BB98-E5AE3A176543&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI models can be tricked into identifying civilians as military targets by telling them it’s a game](https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/)
   - [Apple services, including iCloud, App Store, and Apple Music, hit by outage](https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/)
   - [As decision model use skyrockets, is customization the next frontier?](https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/)
   - [Daydream’s new AI agent acts as your personal stylist — and can shop for you, too](https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/)
   - [Google expands access to Gemini Tasks, which can help with calls, purchases](https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/)
+  - [Google joins the tech outage trend by announcing it’s not having one](https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/)
   - [Google to keep Gemini chats for 2 months, up from 72 hours, even with history off](https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/)
   - [Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO](https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/)
   - [Model ML raises $250M to automate investment banking grunt work](https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/)
   - [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)
+  - [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)
   - [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
 - The Block
   - [Alpaca says tokenization network tops $10 billion in minting and redemption volume](https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667)
@@ -69,10 +75,13 @@
   - [JBL’s headphones that are great for in-flight entertainment are 67 percent off](https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026)
   - [Jensen Huang says he’s willing to return as Nvidia CEO](https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement)
   - [Meta is testing a new standalone messaging app called Direct](https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app)
+  - [Nike’s new air sole technology can mix soft and firm cushioning](https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning)
   - [Not even Sam Altman is safe from AI deepfakes on Instagram](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake)
+  - [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
   - [Scoop up three great 4K Blu-ray movies for $33](https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale)
   - [The DOJ says it’s investigating Megaspeed](https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update)
   - [The iPhone Duo feels far more intuitive with Apple’s new face unlock](https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on)
+  - [The MacBook Neo is receiving a rare $50 discount ahead of Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
   - [You can now preorder the Flipper One that puts a Linux computer in your pocket](https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte)
   - [YouTube found a new way to inflate view counts](https://www.theverge.com/streaming/1035683/youtube-co-views-count)
 - Vulnerabilities and Threat Research – Qualys Security Blog
