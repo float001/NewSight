@@ -3,15 +3,21 @@
 - 2Libra
   - [codex 啥时候能恢复](https://2libra.com/post/ai-programming/apMb5pi)
   - [Edge 插件版本更新也需要 7 个工作日么？](https://2libra.com/post/browser-extensions/xYrVeQj)
+  - [【T2】T2 Web Extension 已上架 Firefox/Edge，欢迎安装试用！](https://2libra.com/post/browser-extensions/Q4JOWmU)
+  - [【公告】广发英雄帖：恳请诸位赐稿](https://2libra.com/post/office-life/6V_trG0)
   - [【投票】你还会去电影院看复联 5 吗？](https://2libra.com/post/movie-experience/0cTIS53)
   - [【运动打卡】节奏慢了点，前两天感冒了 🤧](https://2libra.com/post/sports/oXY9f9N)
   - [【💰】1.13% 的概率获得了 忽冷忽热 徽章](https://2libra.com/post/forum-function/JlLFlS0)
   - [【💰】开心，望周知，发个金币池，把我金币凑整到 2w 正好](https://2libra.com/post/forum-function/XUliY1b)
+  - [【💰】聊聊你们现在对于 AI 的用法已经开发到什么程度了](https://2libra.com/post/ai-applications/HBmBm2W)
   - [严重批评，各位老哥们的发帖速度没有我浏览速度快，导致我时常摸不到最新鲜的鱼。](https://2libra.com/post/slacking-off/m-FZ3Ul)
   - [哪有赌狗天天输，今日潘多拉，194 金币入账](https://2libra.com/post/forum-function/-ha47n2)
   - [多谢吉米，我刚说完我没有，马上就给我安排上了](https://2libra.com/post/forum-function/_vJExi7)
+  - [康复一年，我以为自己强迫症早已好了，直到昨天科目三挂了](https://2libra.com/post/mental-health/DTuYclU)
   - [打劫，交出你的小说列表](https://2libra.com/post/good-books/hnhuSD5)
+  - [有什么好用的办公室插排推荐吗](https://2libra.com/post/ask-recommendation/3T3_y4f)
   - [有时候潘多拉刷新两次都是同一个](https://2libra.com/post/forum-function/x_XJJqT)
+  - [有没有刷过 lineageos 的老哥，体验怎么样](https://2libra.com/post/android/yrkqqpB)
   - [永久免费 esim Jetpac（需要美国手机号接码）【搬运】](https://2libra.com/post/deal-hunter/FB7GxTi)
   - [海外办公室跳板机 + Tailscale 使用 Claude，可行吗？](https://2libra.com/post/remote-access/iwAYO65)
   - [请教国区 App Store 上架合规：后端调用 DeepSeek API，如何解决「安全评估」和「AIGC 服务声明」？](https://2libra.com/post/mobile-development/bVBmFh5)
@@ -27,6 +33,7 @@
   - [US now "comfortable" with children dying of measles as death toll hits 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)
   - [When will humans actually fly on Starship?](https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/)
 - Articles | InfoStealers
+  - [Beyond Optimizely: Malicious Scripts Traced Across Four Web Services](https://www.infostealers.com/article/beyond-optimizely-malicious-scripts-traced-across-four-web-services/)
   - [Poisoned Scripts on BBC, Zoom and Other Major Websites Linked to iPhone Exploit Loaders](https://www.infostealers.com/article/poisoned-scripts-on-bbc-zoom-and-other-major-websites-linked-to-iphone-exploit-loaders/)
 - ByteByteGo
   - [How Instacart Uses LLMs to Make People Buy More](https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people)
@@ -39,6 +46,7 @@
   - [Boris Johnson says UK must lead blockchain development despite crypto doubts](https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Coinbase and Broadridge propose standard for tokenized stock disclosures](https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Custodia Bank loses Supreme Court bid for direct Fed payment access](https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme](https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [German lawmakers back crypto freezes outside criminal cases](https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia shares fall 4% as board reportedly rules out Huang return](https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -67,6 +75,8 @@
 - darkreading
   - ['Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models](https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models)
   - [Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts](https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines)
+- defend.network
+  - [Autonomous AI exploits, Optimizely breach, Chrome zero-day active exploitation](https://defend.network/briefings/ai-autonomous-exploits-optimizely-supply-chain-chrome-z-2026-11-17.html)
 - devblogs.microsoft.com/oldnewthing
   - [How can I ask a second program to show a dialog box as if it were shown by my first program?](https://devblogs.microsoft.com/oldnewthing/20261116-01/?p=112863/)
 - Fidelis Security
@@ -102,6 +112,8 @@
   - [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
 - Sec-News 安全文摘
   - [CVE-2026-104692 / CVE-2026-104007 - LibreOffice RCE via ODF Form Datasource JDBC Code Execution](https://govuln.com/news/url/dbVX)
+- simonwillison.net
+  - [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/)
 - Sploitus.com Exploits RSS Feed
   - [aegis exploit](https://sploitus.com/exploit?id=B7F1AB68-4F5F-5AC9-8649-BA28398216E0&utm_source=rss&utm_medium=rss)
   - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
@@ -126,6 +138,7 @@
 - The Block
   - [Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows](https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407)
   - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
+  - [Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia](https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080)
   - [CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals](https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591)
   - [CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more](https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584)
   - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
@@ -181,9 +194,11 @@
   - [CVE-2026-105739 Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in GitLab](https://vulners.com/cvelist/CVELIST:CVE-2026-105739?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107901](https://vulners.com/nvd/NVD:CVE-2026-107901?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107902](https://vulners.com/nvd/NVD:CVE-2026-107902?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107904 Joomla Extension - valorapps.com - Unauthenticated Remote Code Execution in Easy File Uploader < 2.9.7](https://vulners.com/cvelist/CVELIST:CVE-2026-107904?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108150 Missing Authorization in GitLab](https://vulners.com/cve/CVE-2026-108150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108150 Missing Authorization in GitLab](https://vulners.com/cvelist/CVELIST:CVE-2026-108150?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110339](https://vulners.com/nvd/NVD:CVE-2026-110339?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-111973](https://vulners.com/nvd/NVD:CVE-2026-111973?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115563 Model Context Protocol Python SDK: OAuth client could send credentials to an authorization server chosen by the MCP server](https://vulners.com/cvelist/CVELIST:CVE-2026-115563?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115846](https://vulners.com/nvd/NVD:CVE-2026-115846?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-11768 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in GitLab](https://vulners.com/cve/CVE-2026-11768?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -356,11 +371,15 @@
   - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
   - [Udemy Coupon Codes: 20% Off November 2026](https://www.wired.com/story/udemy-promo-code/)
 - 不安全
+  - [ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems](https://buaq.net/go-455398.html)
+  - [Reimplementing an old iPad Plants vs. Zombies game for the web: reverse engineering an Adobe AIR AOT binary](https://buaq.net/go-455386.html)
+  - [Siri AI开始设置每日额度：超过限额后基础功能可用 高级功能需开通iCloud+订阅扩容](https://buaq.net/go-455391.html)
   - [绿盟科技护航首艘内河航运电动船成功试航](https://buaq.net/go-455361.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Robert Pattinson 成为第七任 007](https://www.solidot.org/story?sid=85905)
+  - [美国超大规模数据中心的用电量与部分州的总用电量相当](https://www.solidot.org/story?sid=85907)
 - 爱范儿
   - [12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」](https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微软全球大宕机，AI 怎么又成了背锅侠](https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=)
