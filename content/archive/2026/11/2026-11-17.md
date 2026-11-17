@@ -26,6 +26,7 @@
   - [Custodia Bank loses Supreme Court bid for direct Fed payment access](https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [German lawmakers back crypto freezes outside criminal cases](https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nvidia shares fall 4% as board reportedly rules out Huang return](https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -34,11 +35,16 @@
   - [Anthropic Cuts Vulnerability Disclosure Deadline to 30 Days After Google](https://www.cyberkendra.com/2026/11/anthropic-vulnerability-disclosure-policy-30-days.html)
   - [Debian 12 Kernel 6.1.0-55 Freeze: ext4 Bug and Fix](https://www.cyberkendra.com/2026/11/debian-12-kernel-6-1-0-55-freeze-ext4-fix.html)
   - [Lighter Hack: Withdrawals Paused After $10.4M API Key Leak](https://www.cyberkendra.com/2026/11/lighter-hack-withdrawals-paused-after-10-4m-api-key-leak.html)
+- daniel.haxx.se
+  - [Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)
 - daringfireball.net
+  - [[Sponsor] Ivy: The To-do List That Ends](https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8)
   - [Ben Thompson on Nvidia](https://stratechery.com/2026/obituaries/)
+  - [Developers Continue to Optimize iPhone Apps for the Duo](https://x.com/arinwaichulis/status/2122397676767522942)
   - [Irish Goodbye / French Leave / Leave the English Way](https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/)
   - [MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)](https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/)
   - [WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’](https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388)
+  - [‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’](https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/)
   - [‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2](https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/)
 - darkreading
   - ['Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models](https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models)
@@ -82,6 +88,7 @@
   - [Apple reveals new Mac security controls as AI agents raise privacy risks](https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/)
   - [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
   - [Cyber giant Infoblox confirms security incident after hackers access ‘company information’](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/)
+  - [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
   - [FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)
   - [Instagram now lets creators add Amazon affiliate links in reels and feed posts](https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/)
   - [Island is a new screen-time app that turns staying off your phone into a game](https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/)
@@ -96,6 +103,7 @@
 - The Block
   - [Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows](https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407)
   - [Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’](https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368)
+  - [CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals](https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591)
   - [DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days](https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361)
   - [Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps](https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432)
   - [Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425)
@@ -117,6 +125,7 @@
   - [Apple is testing daily usage limits for more complex Siri AI interactions](https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription)
   - [Big Nuclear isn’t worried about the Democrats stopping data centers](https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats)
   - [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
+  - [Hacker behind 2022 GTA VI leaks pleads guilty](https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj)
   - [In Get Huge, the manosphere is here to make friends — with deadly consequences](https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death)
   - [Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist](https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027)
   - [Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back](https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back)
@@ -124,6 +133,7 @@
   - [Sam Altman says he wants everyone ‘to have a lot of RAM’](https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor)
   - [Some of our favorite PlayStation games are steeply discounted for Black Friday](https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals)
   - [Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday](https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale)
+  - [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories)
   - [The Apple Watch Series 12 is cheaper than ever ahead of Black Friday](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
   - [Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia](https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return)
