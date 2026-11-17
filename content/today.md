@@ -8,15 +8,24 @@
   - [Why Thinking More Can Make an LLM Dumb](https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm)
 - CoinTelegraph
   - [Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings](https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Fed’s Waller cites Binance hack in warning over tokenized finance](https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Lighter incident exposes risks beyond withdrawal controls](https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Hacker News Frontpage
+  - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
   - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
+  - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
 - simonwillison.net
   - [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](https://simonwillison.net/2026/Nov/17/datasette-lite/)
 - TechCrunch
+  - [AI models can be tricked into identifying civilians as military targets by telling them it’s a game](https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/)
   - [Daydream’s new AI agent acts as your personal stylist — and can shop for you, too](https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/)
   - [Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO](https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/)
+  - [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)
 - The Block
   - [Alpaca says tokenization network tops $10 billion in minting and redemption volume](https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667)
+  - [Coinbase expands onchain crypto loans to New York via Morpho](https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842)
+  - [Everyone is Trading Tokenized Nvidia Derivatives](https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818)
+  - [Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says](https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332)
 - The Decoder
   - [AI agents are starting to fill out medical forms and file insurance requests in place of human staff](https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/)
   - [The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output](https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/)
@@ -26,7 +35,9 @@
   - [Jensen Huang says he’s willing to return as Nvidia CEO](https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement)
   - [Scoop up three great 4K Blu-ray movies for $33](https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale)
   - [The DOJ says it’s investigating Megaspeed](https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update)
+  - [The iPhone Duo feels far more intuitive with Apple’s new face unlock](https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on)
   - [You can now preorder the Flipper One that puts a Linux computer in your pocket](https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte)
+  - [YouTube found a new way to inflate view counts](https://www.theverge.com/streaming/1035683/youtube-co-views-count)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Understanding the Risks of Public AWS AMIs: Hidden Dangers of Malicious and Misconfigured Images](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
@@ -77,6 +88,7 @@
   - [CVE-2026-67455](https://vulners.com/cve/CVE-2026-67455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67455](https://vulners.com/cvelist/CVELIST:CVE-2026-67455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Jensen Huang Says He’s Open to Coming Back to Nvidia](https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/)
   - [VSCO Is Gunning for Adobe Lightroom With Its New Desktop App](https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
