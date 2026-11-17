@@ -1,8 +1,12 @@
 # 今日安全资讯（2026-11-18）
 
+- 2Libra
+  - [windows 风扇管家](https://2libra.com/post/software-tools/8cTlvWh)
 - 404 Media
+  - [A Man and His Muse AI Agent Sue Meta](https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/)
   - [Lakes Are Bizarrely Syncing Up Globally, And Scientists Are Worried](https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/)
 - Ars Technica
+  - [Civilization studio Firaxis Games lays off a third of staff](https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/)
   - [Google will let you opt out of AI training in Gemini without losing your history](https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/)
   - [Humanity braces for an alien invasion in 3 Body Problem S2 teaser](https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/)
   - [OpenAI sued by California after admitting to 80 loss-of-control incidents](https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/)
@@ -17,9 +21,13 @@
   - [SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)](https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/)
 - darkreading
   - [Cursor Traces Malicious Claude Code Extension to Third-Party Breach](https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach)
+- Data Breach
+  - [Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks](https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html)
 - Hacker News Frontpage
+  - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
   - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
   - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
+  - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
   - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
   - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
 - simonwillison.net
@@ -34,20 +42,26 @@
   - [Google expands access to Gemini Tasks, which can help with calls, purchases](https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/)
   - [Google to keep Gemini chats for 2 months, up from 72 hours, even with history off](https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/)
   - [Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO](https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/)
+  - [Model ML raises $250M to automate investment banking grunt work](https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/)
   - [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)
+  - [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
 - The Block
   - [Alpaca says tokenization network tops $10 billion in minting and redemption volume](https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667)
   - [Coinbase expands onchain crypto loans to New York via Morpho](https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842)
   - [Everyone is Trading Tokenized Nvidia Derivatives](https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818)
   - [Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says](https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332)
+  - [Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses](https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850)
 - The Decoder
   - [AI agents are starting to fill out medical forms and file insurance requests in place of human staff](https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/)
   - [The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output](https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/)
 - The Verge
   - [Amflow’s new urban e-bike series is deliciously overpowered for flat city streets](https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs)
   - [Banning phones really does help kids learn, researchers say](https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement)
+  - [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
+  - [Framework’s better couch keyboard is now available for preorder](https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open)
   - [Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free)
   - [Inside Microsoft’s giant Outlook outage](https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad)
+  - [JBL’s headphones that are great for in-flight entertainment are 67 percent off](https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026)
   - [Jensen Huang says he’s willing to return as Nvidia CEO](https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement)
   - [Meta is testing a new standalone messaging app called Direct](https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app)
   - [Scoop up three great 4K Blu-ray movies for $33](https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale)
@@ -105,8 +119,10 @@
   - [CVE-2026-67455](https://vulners.com/cve/CVE-2026-67455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-67455](https://vulners.com/cvelist/CVELIST:CVE-2026-67455?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [How to Tell If It’s a Cyberattack or Just an Outage](https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/)
   - [Jensen Huang Says He’s Open to Coming Back to Nvidia](https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/)
   - [VSCO Is Gunning for Adobe Lightroom With Its New Desktop App](https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/)
+  - [Waymo Pauses All Highway Rides After California Safety Ban](https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
