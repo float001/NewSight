@@ -2,12 +2,15 @@
 
 - 2Libra
   - [codex 啥时候能恢复](https://2libra.com/post/ai-programming/apMb5pi)
+  - [Edge 插件版本更新也需要 7 个工作日么？](https://2libra.com/post/browser-extensions/xYrVeQj)
   - [【运动打卡】节奏慢了点，前两天感冒了 🤧](https://2libra.com/post/sports/oXY9f9N)
   - [【💰】1.13% 的概率获得了 忽冷忽热 徽章](https://2libra.com/post/forum-function/JlLFlS0)
   - [【💰】开心，望周知，发个金币池，把我金币凑整到 2w 正好](https://2libra.com/post/forum-function/XUliY1b)
+  - [严重批评，各位老哥们的发帖速度没有我浏览速度快，导致我时常摸不到最新鲜的鱼。](https://2libra.com/post/slacking-off/m-FZ3Ul)
   - [哪有赌狗天天输，今日潘多拉，194 金币入账](https://2libra.com/post/forum-function/-ha47n2)
   - [多谢吉米，我刚说完我没有，马上就给我安排上了](https://2libra.com/post/forum-function/_vJExi7)
   - [有时候潘多拉刷新两次都是同一个](https://2libra.com/post/forum-function/x_XJJqT)
+  - [海外办公室跳板机 + Tailscale 使用 Claude，可行吗？](https://2libra.com/post/remote-access/iwAYO65)
   - [请教国区 App Store 上架合规：后端调用 DeepSeek API，如何解决「安全评估」和「AIGC 服务声明」？](https://2libra.com/post/mobile-development/bVBmFh5)
 - Ars Technica
   - [Comcast's "fiber-powered Wi-Fi" is just cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
@@ -38,6 +41,7 @@
   - [Nvidia shares fall 4% as board reportedly rules out Huang return](https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia turmoil tests Bitcoin miners’ AI funding plans](https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trezor customer data exposed in 3rd partner breach this year](https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise](https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -91,6 +95,8 @@
   - [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
   - [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
   - [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
+- Sec-News 安全文摘
+  - [CVE-2026-104692 / CVE-2026-104007 - LibreOffice RCE via ODF Form Datasource JDBC Code Execution](https://govuln.com/news/url/dbVX)
 - Sploitus.com Exploits RSS Feed
   - [aegis exploit](https://sploitus.com/exploit?id=B7F1AB68-4F5F-5AC9-8649-BA28398216E0&utm_source=rss&utm_medium=rss)
   - [SRC-MAX exploit](https://sploitus.com/exploit?id=190E2302-6D0F-5C49-87FD-4B914D1E365D&utm_source=rss&utm_medium=rss)
@@ -302,10 +308,15 @@
   - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/)
   - [The Bank Outage May Have Nothing to Do With Your Bank](https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/)
   - [The iPhone Duo Is Getting a Limited Version of Face ID](https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/)
+- 不安全
+  - [绿盟科技护航首艘内河航运电动船成功试航](https://buaq.net/go-455361.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Robert Pattinson 成为第七任 007](https://www.solidot.org/story?sid=85905)
 - 爱范儿
+  - [12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」](https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [微软全球大宕机，AI 怎么又成了背锅侠](https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日](https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [绿盟科技护航首艘内河航运电动船成功试航](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%8a%a4%e8%88%aa%e9%a6%96%e8%89%98%e5%86%85%e6%b2%b3%e8%88%aa%e8%bf%90%e7%94%b5%e5%8a%a8%e8%88%b9%e6%88%90%e5%8a%9f%e8%af%95%e8%88%aa/)
