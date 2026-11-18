@@ -12,6 +12,7 @@
   - [Humanity braces for an alien invasion in 3 Body Problem S2 teaser](https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/)
   - [Hundreds of websites deliver potent malware cocktail to unsuspecting visitors](https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/)
   - [OpenAI sued by California after admitting to 80 loss-of-control incidents](https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/)
+  - [San Diego dumps both Flock cameras and smart streetlights](https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/)
   - [Yet another satellite company is jockeying for a rocket—but this one makes sense](https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/)
   - [“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia](https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/)
 - ByteByteGo
@@ -23,6 +24,8 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Lighter incident exposes risks beyond withdrawal controls](https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Maple Finance CEO targets up to $15B in assets by the end of 2027](https://cointelegraph.com/interview/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daniel.haxx.se
+  - [The curl 30 years gource](https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/)
 - daringfireball.net
   - [Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page](https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/)
   - [SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)](https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/)
@@ -31,14 +34,18 @@
   - [Optimizely Malware Attacks Highlight Third-Party Vendor Risks](https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks)
 - Data Breach
   - [Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks](https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html)
+- Emergent Minds | paddo.dev
+  - [Astra Shipped Anyway: GPT-6.2 Astra's System Card and Theo's Open Letter](https://paddo.dev/blog/astra-shipped-anyway/)
 - Hacker News Frontpage
   - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
+  - [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
   - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
   - [Human.md](https://www.human-md.ai/)
   - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
   - [Jensen Huang says he’s open to returning in first statement since resignation](https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html)
   - [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
   - [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
+  - [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
   - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
   - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 - simonwillison.net
@@ -48,6 +55,7 @@
 - Sploitus.com Exploits RSS Feed
   - [artexerkai exploit](https://sploitus.com/exploit?id=845DF456-C46C-568D-B9E9-73CCE60E4876&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=AA674732-9B6A-53B9-BB98-E5AE3A176543&utm_source=rss&utm_medium=rss)
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI models can be tricked into identifying civilians as military targets by telling them it’s a game](https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/)
   - [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
@@ -59,9 +67,11 @@
   - [Google to keep Gemini chats for 2 months, up from 72 hours, even with history off](https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/)
   - [Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO](https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/)
   - [Model ML raises $250M to automate investment banking grunt work](https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/)
+  - [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
   - [Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO](https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/)
   - [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)
   - [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)
+  - [Stripe backer Atomico calls for Europe to own its success stories](https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/)
   - [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
 - The Block
   - [Alpaca says tokenization network tops $10 billion in minting and redemption volume](https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667)
@@ -70,6 +80,7 @@
   - [Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says](https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332)
   - [Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses](https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850)
   - [Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside](https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904)
+  - [Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up](https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909)
 - The Decoder
   - [AI agents are starting to fill out medical forms and file insurance requests in place of human staff](https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/)
   - [OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains](https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/)
@@ -92,6 +103,7 @@
   - [Not even Sam Altman is safe from AI deepfakes on Instagram](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake)
   - [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
   - [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
+  - [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
   - [Scoop up three great 4K Blu-ray movies for $33](https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale)
   - [The DOJ says it’s investigating Megaspeed](https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update)
   - [The iPhone Duo feels far more intuitive with Apple’s new face unlock](https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on)
@@ -253,6 +265,7 @@
   - [How to Tell If It’s a Cyberattack or Just an Outage](https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/)
   - [Jensen Huang Says He’s Open to Coming Back to Nvidia](https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/)
   - [Nvidia’s Board Has No Plans to Bring Back Jensen Huang](https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/)
+  - [Review: Nubia Redmagic 12 Pro | Camera](https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/)
   - [VSCO Is Gunning for Adobe Lightroom With Its New Desktop App](https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/)
   - [Waymo Pauses All Highway Rides After California Safety Ban](https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/)
 - 代码审计星球
