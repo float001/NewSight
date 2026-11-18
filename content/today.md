@@ -1,9 +1,89 @@
 # 今日安全资讯（2026-11-19）
 
+- 2Libra
+  - [疯狂星期四，抽 100 金币。](https://2libra.com/post/deal-hunter/p_Hvvfs)
+- Ars Technica
+  - [Vulcan failure caused by inadequate fuel supply to engines, ULA says](https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/)
+  - [Waymo has stopped its robotaxis from driving on the freeway—here’s why](https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/)
+- ByteByteGo
+  - [Evals for AI Engineers](https://blog.bytebytego.com/p/evals-for-ai-engineers)
+- CoinTelegraph
+  - [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Polymarket US takes rapid-fire crypto trading format to oil, natural gas](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Hacker News Frontpage
+  - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+  - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
+  - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
+- infosecurity-magazine.com
+  - [Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server](https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/)
 - TechCrunch
+  - [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)
+  - [Sam Altman warns against a future where AI, not humans, calls the shots](https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/)
   - [Sony’s updated turntable is an easy entry into the world of vinyl](https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/)
+- The Block
+  - [Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%](https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456)
+  - [Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific](https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457)
+- The Decoder
+  - [Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author](https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/)
 - The Verge
   - [8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird](https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird)
   - [Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood](https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Why AI-ROC Is the Future of Exposure Management](https://blog.qualys.com/category/product-tech)
+- Vulners.com RSS Feed
+  - [CVE-2023-54422](https://vulners.com/nvd/NVD:CVE-2023-54422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-58401](https://vulners.com/nvd/NVD:CVE-2024-58401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-58402](https://vulners.com/nvd/NVD:CVE-2024-58402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2024-58403](https://vulners.com/nvd/NVD:CVE-2024-58403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113425](https://vulners.com/nvd/NVD:CVE-2026-113425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116443](https://vulners.com/nvd/NVD:CVE-2026-116443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116449](https://vulners.com/nvd/NVD:CVE-2026-116449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116953](https://vulners.com/nvd/NVD:CVE-2026-116953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118899](https://vulners.com/nvd/NVD:CVE-2026-118899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120049](https://vulners.com/nvd/NVD:CVE-2026-120049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120285](https://vulners.com/nvd/NVD:CVE-2026-120285?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120292](https://vulners.com/nvd/NVD:CVE-2026-120292?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120718](https://vulners.com/nvd/NVD:CVE-2026-120718?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120722](https://vulners.com/nvd/NVD:CVE-2026-120722?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120967](https://vulners.com/nvd/NVD:CVE-2026-120967?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120993](https://vulners.com/nvd/NVD:CVE-2026-120993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121805](https://vulners.com/nvd/NVD:CVE-2026-121805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121810](https://vulners.com/nvd/NVD:CVE-2026-121810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121812](https://vulners.com/nvd/NVD:CVE-2026-121812?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123007](https://vulners.com/nvd/NVD:CVE-2026-123007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123633](https://vulners.com/nvd/NVD:CVE-2026-123633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123634](https://vulners.com/nvd/NVD:CVE-2026-123634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123637](https://vulners.com/nvd/NVD:CVE-2026-123637?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123640](https://vulners.com/nvd/NVD:CVE-2026-123640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-124990](https://vulners.com/nvd/NVD:CVE-2026-124990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125272](https://vulners.com/nvd/NVD:CVE-2026-125272?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125274](https://vulners.com/nvd/NVD:CVE-2026-125274?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125283](https://vulners.com/nvd/NVD:CVE-2026-125283?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125806](https://vulners.com/nvd/NVD:CVE-2026-125806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126336](https://vulners.com/nvd/NVD:CVE-2026-126336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126699](https://vulners.com/nvd/NVD:CVE-2026-126699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126721](https://vulners.com/nvd/NVD:CVE-2026-126721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126751](https://vulners.com/nvd/NVD:CVE-2026-126751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126752](https://vulners.com/nvd/NVD:CVE-2026-126752?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126753](https://vulners.com/nvd/NVD:CVE-2026-126753?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126754](https://vulners.com/nvd/NVD:CVE-2026-126754?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126755](https://vulners.com/nvd/NVD:CVE-2026-126755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126822](https://vulners.com/nvd/NVD:CVE-2026-126822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127178](https://vulners.com/nvd/NVD:CVE-2026-127178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128719](https://vulners.com/nvd/NVD:CVE-2026-128719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132220 Vulnerability in winCRM](https://vulners.com/cvelist/CVELIST:CVE-2026-132220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132222](https://vulners.com/nvd/NVD:CVE-2026-132222?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132224](https://vulners.com/nvd/NVD:CVE-2026-132224?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18045 MFA enforcement bypass on user profile update and delete endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-18045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18075 Revoked OAuth app retains access to real-time events via already-open WebSocket connection](https://vulners.com/cvelist/CVELIST:CVE-2026-18075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-18079 Sessions not revoked on account conversion or auth rebinding via bulk import](https://vulners.com/cvelist/CVELIST:CVE-2026-18079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-30502](https://vulners.com/nvd/NVD:CVE-2026-30502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-48728](https://vulners.com/nvd/NVD:CVE-2026-48728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-63189](https://vulners.com/nvd/NVD:CVE-2026-63189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-71861](https://vulners.com/nvd/NVD:CVE-2026-71861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [剑桥词典的 2026 年度单词是“人”](https://www.solidot.org/story?sid=85927)
