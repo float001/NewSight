@@ -1,8 +1,13 @@
 # 今日安全资讯（2026-11-18）
 
 - 2Libra
+  - [Anthropic 安全研究员 Tao Lin 说 2027 年底 AI 在编程、电影等大部分领域全面超越人类](https://2libra.com/post/ai-trends/cH1-eaC)
+  - [DSH 立大功, 分享下我老婆做的报价小工具](https://2libra.com/post/small-things/io9knyV)
+  - [GPUI 开发体验如何？](https://2libra.com/post/tech-rumination/5uIzva3)
+  - [vapor + vite-plus 构建的 headless 无头组件库](https://2libra.com/post/open-source-sharing/AJiPPjx)
   - [windows 风扇管家](https://2libra.com/post/software-tools/8cTlvWh)
   - [你相信这个世界上有外星人吗？](https://2libra.com/post/idea/SvFzuhS)
+  - [没人讨论 6.1 和 6.2 的区别嘛](https://2libra.com/post/interaction/P3eg0k6)
   - [远古帝国网页版](https://2libra.com/post/game-share/uN1Blyf)
 - 404 Media
   - [A Man and His Muse AI Agent Sue Meta](https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/)
@@ -79,6 +84,7 @@
   - [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
   - [Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)
   - [Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO](https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/)
+  - [Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
   - [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/)
   - [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)
   - [Stripe backer Atomico calls for Europe to own its success stories](https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/)
