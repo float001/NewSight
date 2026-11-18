@@ -3,6 +3,7 @@
 - 2Libra
   - [疯狂星期四，抽 100 金币。](https://2libra.com/post/deal-hunter/p_Hvvfs)
 - Ars Technica
+  - [It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo](https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/)
   - [Vulcan failure caused by inadequate fuel supply to engines, ULA says](https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/)
   - [Waymo has stopped its robotaxis from driving on the freeway—here’s why](https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/)
 - ByteByteGo
@@ -10,23 +11,36 @@
 - CoinTelegraph
   - [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US takes rapid-fire crypto trading format to oil, natural gas](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched](https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html)
 - Hacker News Frontpage
+  - [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)
+  - [Launch HN: Maritime (YC F26) – The managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
   - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
   - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
   - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
+- IEEE Spectrum
+  - [Build a Personal Brand to Help Employers Find You](https://spectrum.ieee.org/personal-branding-for-engineers)
 - infosecurity-magazine.com
   - [Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server](https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/)
+- Linux Foundation Blogs
+  - [Linux Foundation Newsletter: November 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026)
 - TechCrunch
+  - [David Ellison says HBO will air critical Elon Musk documentary despite $1B investment in Skydance](https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/)
+  - [More banks say customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/)
   - [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)
   - [Sam Altman warns against a future where AI, not humans, calls the shots](https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/)
   - [Sony’s updated turntable is an easy entry into the world of vinyl](https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/)
 - The Block
   - [Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%](https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456)
+  - [CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’](https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471)
   - [Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific](https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457)
 - The Decoder
+  - [OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering](https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/)
   - [Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author](https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/)
 - The Verge
   - [8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird](https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird)
+  - [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai)
   - [Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood](https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Why AI-ROC Is the Future of Exposure Management](https://blog.qualys.com/category/product-tech)
@@ -82,8 +96,14 @@
   - [CVE-2026-63189](https://vulners.com/nvd/NVD:CVE-2026-63189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71861](https://vulners.com/nvd/NVD:CVE-2026-71861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab](https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/)
   - [Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/)
+  - [Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity](https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/)
+  - [The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday](https://www.wired.com/story/macbook-neo-deal-november-2026/)
+  - [The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back](https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [剑桥词典的 2026 年度单词是“人”](https://www.solidot.org/story?sid=85927)
+- 爱范儿
+  - [《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏](https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=)
