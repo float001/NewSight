@@ -3,7 +3,9 @@
 - 2Libra
   - [疯狂星期四，抽 100 金币。](https://2libra.com/post/deal-hunter/p_Hvvfs)
 - Ars Technica
+  - [Best Buy sells Blu-rays online and in-store again](https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/)
   - [It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo](https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/)
+  - [Muse privacy invasions are freaking out Meta staffers, internal chats show](https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/)
   - [The "shameful" measles data that lost the US its elimination status](https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/)
   - [Trump admin orders Kalshi to halt wagers on what words Trump will say](https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/)
   - [Vulcan failure caused by inadequate fuel supply to engines, ULA says](https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/)
@@ -45,24 +47,34 @@
   - [More banks say customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/)
   - [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)
   - [Sam Altman warns against a future where AI, not humans, calls the shots](https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/)
+  - [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/)
   - [Sony’s updated turntable is an easy entry into the world of vinyl](https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/)
+  - [Spend management platform Payhawk announces $280M raise, 2B valuation](https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/)
 - The Block
+  - [Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto](https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491)
   - [Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%](https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456)
   - [CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’](https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471)
   - [Ondo to launch tokenized Anthropic stock on IPO day](https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482)
   - [Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific](https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457)
 - The Decoder
+  - [Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/)
   - [Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives](https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/)
   - [OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering](https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/)
   - [Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author](https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/)
 - The Verge
   - [8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird](https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird)
   - [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai)
+  - [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
   - [Our favorite accessories to level up your gaming setup ahead of GTA VI](https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs)
   - [Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood](https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off)
+  - [Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday](https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale)
+  - [Tech lawsuits defined 2026 — and lawmakers want more](https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act)
   - [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
   - [The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI](https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops)
+  - [The leaked Lenovo Legion Go Beam could be the affordable handheld we need](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need)
+  - [Trump’s latest land grab is an AI hub in the Philippines](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
   - [What is Nvidia without AI’s sugar daddy in charge?](https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition)
+  - [What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Why AI-ROC Is the Future of Exposure Management](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
@@ -129,10 +141,12 @@
   - [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://vulners.com/thn/THN:E51E69194C3DC7A6B8BCF603D77A4F95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab](https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/)
+  - [Best Early Black Friday Phone Deals (2026)](https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/)
   - [Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/)
   - [Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity](https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/)
   - [The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday](https://www.wired.com/story/macbook-neo-deal-november-2026/)
   - [The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back](https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/)
+  - [The ‘GTA 6’ Work Blackout Is Here](https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
