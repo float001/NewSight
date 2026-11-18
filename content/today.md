@@ -60,6 +60,7 @@
   - [Hundreds of websites deliver potent malware cocktail to unsuspecting visitors](https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/)
   - [OpenAI sued by California after admitting to 80 loss-of-control incidents](https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/)
   - [San Diego dumps both Flock cameras and smart streetlights](https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/)
+  - [Tesla will sell you a Cybercab for $30,000. Then charge $299 a month to use it](https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/)
   - [Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details](https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/)
   - [Yet another satellite company is jockeying for a rocket—but this one makes sense](https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/)
   - [“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia](https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/)
@@ -71,12 +72,15 @@
   - [Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out](https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitwise seeks Texas Stock Exchange listing for Zcash ETF](https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC halts some Kalshi Trump mention markets over manipulation concerns](https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [CoinShares sells all treasury ETH, halves SOL holdings for buybacks](https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed’s Waller cites Binance hack in warning over tokenized finance](https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [How to preserve wealth and access funds during a national emergency](https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger hardware implant saga reaches Dubai’s Virgin Megastore](https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Lighter incident exposes risks beyond withdrawal controls](https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Maple Finance CEO targets up to $15B in assets by the end of 2027](https://cointelegraph.com/interview/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia board rejects Huang comeback despite record $116B quarter](https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sanctions fears loom over Russia’s regulated crypto trading launch](https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SOL comes out of Breakpoint 7% higher as Solana exits beta](https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit](https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [World Bank partners with Circle, Citi to explore stablecoins for payments](https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -98,6 +102,7 @@
   - [SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)](https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/)
 - darkreading
   - [Cursor Traces Malicious Claude Code Extension to Third-Party Breach](https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach)
+  - [Major Brazilian Signature Apps Enable RCE &amp; Fraud](https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud)
   - [Optimizely Malware Attacks Highlight Third-Party Vendor Risks](https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks)
 - Data Breach
   - [Fireworks AI Breach Exposes Uber Data and Highlights Supply Chain Risks](https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html)
@@ -128,6 +133,7 @@
 - infosecurity-magazine.com
   - [Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps](https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/)
   - [Russian Espionage Actor Star Blizzard Focuses on Cloud Identities for Mass Data Theft](https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/)
+  - [Suspected Chinese APT Rebuilds EggStreme Malware After Exposure](https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/)
   - [Three AI Models Agree on Just One of 121 Potential Code Flaws](https://www.infosecurity-magazine.com/news/ai-models-vulnerability-findings/)
   - [Watchdog Warns UK Government Is Falling Short on Risk Management](https://www.infosecurity-magazine.com/news/watchdog-government-risk/)
 - krebsonsecurity.com
@@ -187,9 +193,12 @@
   - [Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up](https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909)
   - [What’s happening to crypto startup valuations?](https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903)
   - [World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements](https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924)
+  - [‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says](https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017)
 - The Decoder
   - [AI agents are starting to fill out medical forms and file insurance requests in place of human staff](https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/)
+  - [KPMG's "Project Exponential" put AI agents alongside a real audit team and found the bots dug deeper on individual questions](https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/)
   - [OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains](https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/)
+  - [SEC probes Nvidia over undisclosed chip sales tied to China](https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/)
   - [Suno's new Visuals feature pairs AI-generated music with AI-generated video](https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/)
   - [The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output](https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/)
 - The Verge
@@ -200,6 +209,7 @@
   - [Framework’s better couch keyboard is now available for preorder](https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open)
   - [Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free)
   - [Grand Theft Auto VI does something impossible — it lives up to the hype](https://www.theverge.com/games/1035801/grand-theft-auto-6-review)
+  - [How The Verge is picking which Black Friday deals to share](https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals)
   - [iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair](https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub)
   - [Inside Microsoft’s giant Outlook outage](https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad)
   - [Instagram is helping creators crack down on copycat videos](https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos)
@@ -219,6 +229,7 @@
   - [The DOJ says it’s investigating Megaspeed](https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update)
   - [The iPhone Duo feels far more intuitive with Apple’s new face unlock](https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on)
   - [The MacBook Neo is receiving a rare $50 discount ahead of Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
+  - [Will Wright’s next game uses AI to map your memories](https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview)
   - [You can now preorder the Flipper One that puts a Linux computer in your pocket](https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte)
   - [YouTube found a new way to inflate view counts](https://www.theverge.com/streaming/1035683/youtube-co-views-count)
   - [‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet](https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview)
@@ -551,6 +562,7 @@
   - [Exploit for CVE-2026-114938](https://vulners.com/githubexploit/1E5E0E2D-850F-5E23-801D-FBF5AD771C79?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-71960](https://vulners.com/githubexploit/801906F5-2E33-5B03-A4DB-511C2E8C3E76?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [14 Elite Coffee Gifts for Caffeinated Connoisseurs](https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs/)
   - [Apple HomeView Review (2026): Should’ve Been Better](https://www.wired.com/review/apple-homeview-review/)
   - [Best Early Amazon Black Friday Deals (2026)](https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/)
   - [Early Black Friday Deals Under $100 (2026)](https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026/)
