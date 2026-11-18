@@ -6,20 +6,25 @@
   - [Best Buy sells Blu-rays online and in-store again](https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/)
   - [It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo](https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/)
   - [Muse privacy invasions are freaking out Meta staffers, internal chats show](https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/)
+  - [Netflix CEO admits app may bury stuff you want to watch under stuff you don’t](https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/)
   - [The "shameful" measles data that lost the US its elimination status](https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/)
   - [Trump admin orders Kalshi to halt wagers on what words Trump will say](https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/)
   - [Vulcan failure caused by inadequate fuel supply to engines, ULA says](https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/)
   - [Waymo has stopped its robotaxis from driving on the freeway—here’s why](https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/)
   - [Will Wright's next simulation will use AI to mine content from your memories](https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/)
   - [Windows Server 2028 trades compatibility for out-of-the-box security](https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/)
+- Black Hills Information Security
+  - [Threat Hunting On The Network: An Active Search for Risks on the Wire](https://www.blackhillsinfosec.com/threat-hunting-network/)
 - ByteByteGo
   - [Evals for AI Engineers](https://blog.bytebytego.com/p/evals-for-ai-engineers)
 - CoinTelegraph
   - [Bain Capital Crypto leads $110M Variational round at $1.5B valuation](https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance says it obtained $6.5B worldwide freezing order after hack](https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ledger warns Berlin customers as hardware wallet tampering investigation expands](https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MARA prices $185M debt offering after $1.1B Bitcoin sale](https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US takes rapid-fire crypto trading format to oil, natural gas](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Tether invokes The Big Short in swipe at S&P over USDT reserve risks](https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched](https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html)
 - daringfireball.net
@@ -28,6 +33,7 @@
   - [AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)
   - [Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)
 - Hacker News Frontpage
+  - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
   - [Google Gemini's "Tasks" Personal Assistant Is Now Free](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
   - [Lakegres: Vector search on existing Open/Hudi/Iceberg tables](https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats)
   - [Launch HN: Maritime (YC F26) – The managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
@@ -54,7 +60,10 @@
 - TechCrunch
   - [David Ellison says HBO will air critical Elon Musk documentary despite $1B investment in Skydance](https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/)
   - [More banks say customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/)
+  - [Nvidia created a weird bit of intrigue by not filing a routine SEC report](https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/)
   - [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)
+  - [Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated](https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/)
+  - [Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’](https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/)
   - [Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie](https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/)
   - [Sam Altman warns against a future where AI, not humans, calls the shots](https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/)
   - [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/)
@@ -73,6 +82,7 @@
   - [Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author](https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/)
 - The Verge
   - [8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird](https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird)
+  - [Absolute Batman can save DC Studios](https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios)
   - [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai)
   - [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
   - [Our favorite accessories to level up your gaming setup ahead of GTA VI](https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs)
@@ -186,6 +196,7 @@
   - [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://vulners.com/thn/THN:E51E69194C3DC7A6B8BCF603D77A4F95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab](https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/)
+  - [America’s AI Chip War Is Heating Up in the Dumbest Possible Ways](https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/)
   - [Best Early Black Friday Phone Deals (2026)](https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/)
   - [Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/)
   - [Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity](https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/)
