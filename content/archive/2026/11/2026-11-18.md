@@ -8,7 +8,9 @@
   - [OpenCode Go 套餐 10 美元提供 200 美元额度的 GLM 5.3](https://2libra.com/post/transfer-station/i14YEsz)
   - [vapor + vite-plus 构建的 headless 无头组件库](https://2libra.com/post/open-source-sharing/AJiPPjx)
   - [windows 风扇管家](https://2libra.com/post/software-tools/8cTlvWh)
+  - [《曾国藩》三部、读后感](https://2libra.com/post/good-books/dPO9f7s)
   - [【💰】大家周三都是啥状态](https://2libra.com/post/office-life/f-xN_Vw)
+  - [【💰】请求申请守护者徽章。](https://2libra.com/post/forum-function/yqRK3tW)
   - [你相信这个世界上有外星人吗？](https://2libra.com/post/idea/SvFzuhS)
   - [匿名者集结](https://2libra.com/post/small-things/1ZYZJhX)
   - [大家有没有屏蔽 x 的黄文和低俗内容的插件](https://2libra.com/post/browser-extensions/P8zP_Hx)
@@ -25,6 +27,7 @@
   - [A Man and His Muse AI Agent Sue Meta](https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/)
   - [BREAKING: Everything](https://www.404media.co/breaking-everything/)
   - [Lakes Are Bizarrely Syncing Up Globally, And Scientists Are Worried](https://www.404media.co/lakes-are-bizarrely-syncing-up-globally-and-scientists-are-worried/)
+  - [Massive New Study Shows How Young People Feel About AI Companions](https://www.404media.co/gallup-study-friendship-ai-companions/)
 - Ars Technica
   - [Civilization studio Firaxis Games lays off a third of staff](https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/)
   - [Copilot is "the new OS for work," and now Office runs inside of it](https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/)
@@ -71,8 +74,10 @@
   - [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
   - [Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware](https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/)
   - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+  - [Why is Gemini 4 Carbon taking so long?](https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/)
 - Horizon3.ai
   - [CVE-2026-114938 | Oracle Java SE and OpenJDK Base64 Decoder Heap Buffer Overflow Vulnerability (Java4Shell)](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-114938/)
+  - [Horizon3 Announces Major Regional Expansion Plans to Meet Rising Demand for Proactive Cybersecurity Across UAE and Wider Gulf](https://horizon3.ai/news/press-release/regional-expansion-uae-gulf/)
 - krebsonsecurity.com
   - [Attackers Used Optimizely to A/B Test Malware on Top Websites](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/)
 - rtl-sdr.com
@@ -117,6 +122,7 @@
   - [Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside](https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904)
   - [Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up](https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909)
   - [What’s happening to crypto startup valuations?](https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903)
+  - [World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements](https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924)
 - The Decoder
   - [AI agents are starting to fill out medical forms and file insurance requests in place of human staff](https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/)
   - [OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains](https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/)
@@ -168,6 +174,7 @@
   - [CVE-2026-100980](https://vulners.com/nvd/NVD:CVE-2026-100980?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100981](https://vulners.com/nvd/NVD:CVE-2026-100981?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-100982](https://vulners.com/nvd/NVD:CVE-2026-100982?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-101113](https://vulners.com/nvd/NVD:CVE-2026-101113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105929](https://vulners.com/nvd/NVD:CVE-2026-105929?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106096](https://vulners.com/nvd/NVD:CVE-2026-106096?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-107950 XML External Entity (XXE) vulnerability affects HCL Commerce](https://vulners.com/cvelist/CVELIST:CVE-2026-107950?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -229,7 +236,9 @@
   - [CVE-2026-129088 WordPress Paid Member Subscriptions plugin <= 3.1.4 - Broken Access Control vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-129088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129891](https://vulners.com/nvd/NVD:CVE-2026-129891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129892](https://vulners.com/nvd/NVD:CVE-2026-129892?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130121](https://vulners.com/nvd/NVD:CVE-2026-130121?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-130600](https://vulners.com/nvd/NVD:CVE-2026-130600?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130644](https://vulners.com/nvd/NVD:CVE-2026-130644?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-130801 CVE-2026-130801](https://vulners.com/cvelist/CVELIST:CVE-2026-130801?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-130802 CVE-2026-130802](https://vulners.com/cvelist/CVELIST:CVE-2026-130802?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-130803 CVE-2026-130803](https://vulners.com/cvelist/CVELIST:CVE-2026-130803?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -390,3 +399,4 @@
   - [黄仁勋官宣愿意回归，英伟达董事会：不考虑！](https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 黑海洋
   - [DeepSeek-V4-Pro 蒸馏小模型本地部署：4B / 9B （无审核）](https://blog.upx8.com/DeepSeek-V4-Pro-4B-9B)
+  - [米饭云盘（mifun-storage）：把 Telegram 频道当硬盘，零成本自建个人图床](https://blog.upx8.com/mifun-storage-Telegram)
