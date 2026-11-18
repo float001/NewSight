@@ -7,6 +7,7 @@
   - [GPUI 开发体验如何？](https://2libra.com/post/tech-rumination/5uIzva3)
   - [GTA6 来了，你们公司给你们放假吗](https://2libra.com/post/game-discussion/2Uku-ul)
   - [Java 曝出无需认证远程代码执行高危漏洞 CVE-2026-114938](https://2libra.com/post/network-security/PgpitTZ)
+  - [Onevra: Mygo 原生组件库](https://2libra.com/post/open-source-sharing/k0X5FUy)
   - [OpenCode Go 套餐 10 美元提供 200 美元额度的 GLM 5.3](https://2libra.com/post/transfer-station/i14YEsz)
   - [v2 上今日热帖"马克思的按需分配，能实现吗"之研究报告](https://2libra.com/post/ai-applications/FAOvMhS)
   - [vapor + vite-plus 构建的 headless 无头组件库](https://2libra.com/post/open-source-sharing/AJiPPjx)
@@ -16,7 +17,9 @@
   - [【T2】T2 Web Extension 新增折叠相同用户的多条最新评论、快捷置入节点到更多。](https://2libra.com/post/browser-extensions/DsOKXFQ)
   - [【💰】iPhone 习惯长期静音，想买个手环消息提醒，小米手环怎么样？](https://2libra.com/post/smart-wearable/DWIl9cG)
   - [【💰】大家周三都是啥状态](https://2libra.com/post/office-life/f-xN_Vw)
+  - [【💰】看了最近爆火的综艺《后会友期》，好奇大家有渐行渐远的友谊吗？](https://2libra.com/post/friendship/tKlzjY5)
   - [【💰】请求申请守护者徽章。](https://2libra.com/post/forum-function/yqRK3tW)
+  - [上架了一个 workbuddy 技能](https://2libra.com/post/ai-tools/lqDbtyp)
   - [你相信这个世界上有外星人吗？](https://2libra.com/post/idea/SvFzuhS)
   - [匿名者集结](https://2libra.com/post/small-things/1ZYZJhX)
   - [华为 od 发 offer 了](https://2libra.com/post/outsourcing/Yob_eHE)
@@ -26,6 +29,7 @@
   - [替尔泊肽初体验](https://2libra.com/post/personal-life/dkI4qs9)
   - [有些 “最后回复” 没有链接，无法点击](https://2libra.com/post/community/YgTOgkt)
   - [有人用过这个项目吗：Route Relief · 把走过的路，变成一幅立体地图](https://2libra.com/post/sharing-discoveries/WkfQeWw)
+  - [有什么一个人的娱乐方式](https://2libra.com/post/recommendations/GYOm7ew)
   - [有什么歌的前奏，会让你一下梦回](https://2libra.com/post/music-sharing/vxSOwUh)
   - [有没有好看的原生 PC 客户端设计？](https://2libra.com/post/recommendations/k8yUiRG)
   - [没人讨论 6.1 和 6.2 的区别嘛](https://2libra.com/post/interaction/P3eg0k6)
@@ -65,10 +69,12 @@
   - [Maple Finance CEO targets up to $15B in assets by the end of 2027](https://cointelegraph.com/interview/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia board rejects Huang comeback despite record $116B quarter](https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [SOL comes out of Breakpoint 7% higher as Solana exits beta](https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [World Bank partners with Circle, Citi to explore stablecoins for payments](https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Apple works to restore services](https://cybernews.com/tech/apple-outage/)
   - [Classified US national security communications network hit by outage, NSA says](https://cybernews.com/tech/classified-us-national-security-communications-network-outage/)
 - daniel.haxx.se
+  - [curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)
   - [The curl 30 years gource](https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/)
 - daringfireball.net
   - [Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page](https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/)
@@ -101,6 +107,9 @@
 - Horizon3.ai
   - [CVE-2026-114938 | Oracle Java SE and OpenJDK Base64 Decoder Heap Buffer Overflow Vulnerability (Java4Shell)](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-114938/)
   - [Horizon3 Announces Major Regional Expansion Plans to Meet Rising Demand for Proactive Cybersecurity Across UAE and Wider Gulf](https://horizon3.ai/news/press-release/regional-expansion-uae-gulf/)
+- infosecurity-magazine.com
+  - [Three AI Models Agree on Just One of 121 Potential Code Flaws](https://www.infosecurity-magazine.com/news/ai-models-vulnerability-findings/)
+  - [Watchdog Warns UK Government Is Falling Short on Risk Management](https://www.infosecurity-magazine.com/news/watchdog-government-risk/)
 - krebsonsecurity.com
   - [Attackers Used Optimizely to A/B Test Malware on Top Websites](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/)
 - pluralistic.net
@@ -141,6 +150,7 @@
   - [Alpaca says tokenization network tops $10 billion in minting and redemption volume](https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667)
   - [Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam](https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918)
   - [Coinbase expands onchain crypto loans to New York via Morpho](https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842)
+  - [DBS lets eligible institutions in Asia mint and redeem USDC around the clock](https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970)
   - [Everyone is Trading Tokenized Nvidia Derivatives](https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818)
   - [Fomo pays creators $30 million, sharing ‘lion’s share’ of revenue, Se Yong Park says](https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332)
   - [Hong Kong central bank explores agentic AI to detect crypto-related financial crime](https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959)
@@ -437,14 +447,17 @@
   - [Exploit for CVE-2026-114938](https://vulners.com/githubexploit/1E5E0E2D-850F-5E23-801D-FBF5AD771C79?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Best Early Amazon Black Friday Deals (2026)](https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/)
+  - [House Democrats Are Officially Coming for Trump’s Orbit](https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/)
   - [How to Tell If It’s a Cyberattack or Just an Outage](https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/)
   - [Jensen Huang Says He’s Open to Coming Back to Nvidia](https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/)
+  - [Lovable Wants You to Vibe Code Your Dream Job](https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/)
   - [Nvidia’s Board Has No Plans to Bring Back Jensen Huang](https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/)
   - [Review: Nubia Redmagic 12 Pro | Camera](https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/)
   - [VSCO Is Gunning for Adobe Lightroom With Its New Desktop App](https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/)
   - [Waymo Pauses All Highway Rides After California Safety Ban](https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/)
   - [‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse](https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/)
 - 不安全
+  - [curl on OSS-Scanner](https://buaq.net/go-455717.html)
   - [CVE-2026-114938 | Oracle Java SE and OpenJDK Base64 Decoder Heap Buffer Overflow Vulnerability (Java4Shell)](https://buaq.net/go-455621.html)
   - [keyshade](https://buaq.net/go-455620.html)
   - [WaveSentry: Detecting Drone Signals with a HackRF, a Neural Network and an ESP32 Handheld](https://buaq.net/go-455615.html)
@@ -461,6 +474,7 @@
   - [即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线](https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权](https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰](https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [深度实测 GPT-6.2：强是真强，难用也是真难用](https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [黄仁勋官宣愿意回归，英伟达董事会：不考虑！](https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线](https://www.qbitai.com/2026/11/510916.html)
