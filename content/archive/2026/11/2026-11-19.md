@@ -4,12 +4,16 @@
   - [疯狂星期四，抽 100 金币。](https://2libra.com/post/deal-hunter/p_Hvvfs)
 - Ars Technica
   - [It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo](https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/)
+  - [The "shameful" measles data that lost the US its elimination status](https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/)
+  - [Trump admin orders Kalshi to halt wagers on what words Trump will say](https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/)
   - [Vulcan failure caused by inadequate fuel supply to engines, ULA says](https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/)
   - [Waymo has stopped its robotaxis from driving on the freeway—here’s why](https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/)
+  - [Will Wright's next simulation will use AI to mine content from your memories](https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/)
 - ByteByteGo
   - [Evals for AI Engineers](https://blog.bytebytego.com/p/evals-for-ai-engineers)
 - CoinTelegraph
   - [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [MARA prices $185M debt offering after $1.1B Bitcoin sale](https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US takes rapid-fire crypto trading format to oil, natural gas](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched](https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html)
@@ -21,6 +25,17 @@
   - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
 - IEEE Spectrum
   - [Build a Personal Brand to Help Employers Find You](https://spectrum.ieee.org/personal-branding-for-engineers)
+- InfoSec Write-ups - Medium
+  - [Beyond the Click: Tracking Attachment Opens and Macro Execution in Anglerphish](https://infosecwriteups.com/beyond-the-click-tracking-attachment-opens-and-macro-execution-in-anglerphish-d1080a2b5ae1?source=rss----7b722bfd1b8d---4)
+  - [Blind XXE with Out-of-Band (OOB) Interaction: A Beginner-Friendly Walkthrough](https://infosecwriteups.com/blind-xxe-with-out-of-band-oob-interaction-a-beginner-friendly-walkthrough-5c86c8dee9b9?source=rss----7b722bfd1b8d---4)
+  - [Blind XXE with Out-of-Band Interaction via XML Parameter Entities](https://infosecwriteups.com/blind-xxe-with-out-of-band-interaction-via-xml-parameter-entities-8f448c9b09f4?source=rss----7b722bfd1b8d---4)
+  - [CVE-2026-123002: How I Found a 2FA Bypass in Gitea and Wrote the Patch](https://infosecwriteups.com/cve-2026-123002-how-i-found-a-2fa-bypass-in-gitea-and-wrote-the-patch-3cae290b9902?source=rss----7b722bfd1b8d---4)
+  - [Exploiting XXE to Perform SSRF Attacks: A Step-by-Step Walkthrough](https://infosecwriteups.com/exploiting-xxe-to-perform-ssrf-attacks-a-step-by-step-walkthrough-3e6ceaf5321b?source=rss----7b722bfd1b8d---4)
+  - [How I Found IDOR, SQLi and XSS on NASA](https://infosecwriteups.com/how-i-found-idor-sqli-and-xss-on-nasa-ac75c9bd555e?source=rss----7b722bfd1b8d---4)
+  - [Put a Comma in Your Password. Hackers Hate This One Weird Trick.](https://infosecwriteups.com/put-a-comma-in-your-password-hackers-hate-this-one-weird-trick-a36cffeea834?source=rss----7b722bfd1b8d---4)
+  - [The Metadata Nobody Reads: How a Government Portal Leaked Internal Usernames Across 15,000…](https://infosecwriteups.com/the-metadata-nobody-reads-how-a-government-portal-leaked-internal-usernames-across-15-000-91194827019b?source=rss----7b722bfd1b8d---4)
+  - [TryHackMe Walkthrough — Dead Drop](https://infosecwriteups.com/tryhackme-walkthrough-dead-drop-32a88d7a514b?source=rss----7b722bfd1b8d---4)
+  - [TryHackMe: Understanding AI Supply Chains — Walkthrough](https://infosecwriteups.com/tryhackme-understanding-ai-supply-chains-walkthrough-dcfc8ce0124d?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server](https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/)
 - Linux Foundation Blogs
@@ -34,14 +49,20 @@
 - The Block
   - [Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%](https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456)
   - [CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’](https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471)
+  - [Ondo to launch tokenized Anthropic stock on IPO day](https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482)
   - [Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific](https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457)
 - The Decoder
+  - [Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives](https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/)
   - [OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering](https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/)
   - [Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author](https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/)
 - The Verge
   - [8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird](https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird)
   - [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai)
+  - [Our favorite accessories to level up your gaming setup ahead of GTA VI](https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs)
   - [Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood](https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off)
+  - [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+  - [The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI](https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops)
+  - [What is Nvidia without AI’s sugar daddy in charge?](https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [Why AI-ROC Is the Future of Exposure Management](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
@@ -85,16 +106,27 @@
   - [CVE-2026-126822](https://vulners.com/nvd/NVD:CVE-2026-126822?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127178](https://vulners.com/nvd/NVD:CVE-2026-127178?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-128719](https://vulners.com/nvd/NVD:CVE-2026-128719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130638 Path traversal in the object detection dataset preparation tool in AutoGluon Multimodal](https://vulners.com/cve/CVE-2026-130638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130638 Path traversal in the object detection dataset preparation tool in AutoGluon Multimodal](https://vulners.com/cvelist/CVELIST:CVE-2026-130638?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132220 Vulnerability in winCRM](https://vulners.com/cvelist/CVELIST:CVE-2026-132220?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132222](https://vulners.com/nvd/NVD:CVE-2026-132222?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132224](https://vulners.com/nvd/NVD:CVE-2026-132224?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132229](https://vulners.com/nvd/NVD:CVE-2026-132229?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18045 MFA enforcement bypass on user profile update and delete endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-18045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18075 Revoked OAuth app retains access to real-time events via already-open WebSocket connection](https://vulners.com/cvelist/CVELIST:CVE-2026-18075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18079 Sessions not revoked on account conversion or auth rebinding via bulk import](https://vulners.com/cvelist/CVELIST:CVE-2026-18079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-30502](https://vulners.com/nvd/NVD:CVE-2026-30502?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-45142 Chamilo LMS: IDOR in lp_ajax_save_objectives.php — Attacker Can Overwrite Any User's SCORM Objectives via uid Parameter](https://vulners.com/cvelist/CVELIST:CVE-2026-45142?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48728](https://vulners.com/nvd/NVD:CVE-2026-48728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-55503 Chamilo LMS: Stored XSS in Learning Path TOC via malicious SCORM package item title](https://vulners.com/cvelist/CVELIST:CVE-2026-55503?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61578 Chamilo LMS CleanDeletedFiles plugin permits arbitrary file deletion](https://vulners.com/cvelist/CVELIST:CVE-2026-61578?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61582 Chamilo LMS: Stores XSS in update_users](https://vulners.com/cvelist/CVELIST:CVE-2026-61582?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-61583 Chamilo LMS: Authenticated RCE through .htaccess in dropbox](https://vulners.com/cvelist/CVELIST:CVE-2026-61583?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-63189](https://vulners.com/nvd/NVD:CVE-2026-63189?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-71861](https://vulners.com/nvd/NVD:CVE-2026-71861?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-114938](https://vulners.com/githubexploit/327783CB-60D5-5D75-8032-905A6A2EA824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Vitejs Vite](https://vulners.com/githubexploit/483BB20B-7DD8-5B00-90FA-E76C36E6AC1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://vulners.com/thn/THN:E51E69194C3DC7A6B8BCF603D77A4F95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab](https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/)
   - [Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/)
