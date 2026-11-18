@@ -8,9 +8,11 @@
   - [GTA6 来了，你们公司给你们放假吗](https://2libra.com/post/game-discussion/2Uku-ul)
   - [Java 曝出无需认证远程代码执行高危漏洞 CVE-2026-114938](https://2libra.com/post/network-security/PgpitTZ)
   - [OpenCode Go 套餐 10 美元提供 200 美元额度的 GLM 5.3](https://2libra.com/post/transfer-station/i14YEsz)
+  - [v2 上今日热帖"马克思的按需分配，能实现吗"之研究报告](https://2libra.com/post/ai-applications/FAOvMhS)
   - [vapor + vite-plus 构建的 headless 无头组件库](https://2libra.com/post/open-source-sharing/AJiPPjx)
   - [windows 风扇管家](https://2libra.com/post/software-tools/8cTlvWh)
   - [《曾国藩》三部、读后感](https://2libra.com/post/good-books/dPO9f7s)
+  - [【T2】T2 Web Extension 新增折叠相同用户的多条最新评论、快捷置入节点到更多。](https://2libra.com/post/browser-extensions/DsOKXFQ)
   - [【💰】iPhone 习惯长期静音，想买个手环消息提醒，小米手环怎么样？](https://2libra.com/post/smart-wearable/DWIl9cG)
   - [【💰】大家周三都是啥状态](https://2libra.com/post/office-life/f-xN_Vw)
   - [【💰】请求申请守护者徽章。](https://2libra.com/post/forum-function/yqRK3tW)
@@ -30,6 +32,8 @@
   - [表情通知滞后太严重。](https://2libra.com/post/community/oHRPs62)
   - [让 AI 写代码，以莫名其妙的方式运转起来。](https://2libra.com/post/ai-programming/ItW7IMW)
   - [远古帝国网页版](https://2libra.com/post/game-share/uN1Blyf)
+  - [都不发帖那我来](https://2libra.com/post/slacking-off/4XX4MXv)
+  - [黄金跌破 3800$/盎司，峰哥已入场](https://2libra.com/post/financial-management/qkVSOOR)
 - 404 Media
   - [A Man and His Muse AI Agent Sue Meta](https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/)
   - [BREAKING: Everything](https://www.404media.co/breaking-everything/)
@@ -56,6 +60,9 @@
   - [Lighter incident exposes risks beyond withdrawal controls](https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Maple Finance CEO targets up to $15B in assets by the end of 2027](https://cointelegraph.com/interview/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia board rejects Huang comeback despite record $116B quarter](https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [Apple works to restore services](https://cybernews.com/tech/apple-outage/)
+  - [Classified US national security communications network hit by outage, NSA says](https://cybernews.com/tech/classified-us-national-security-communications-network-outage/)
 - daniel.haxx.se
   - [The curl 30 years gource](https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/)
 - daringfireball.net
@@ -427,12 +434,16 @@
 - 奇客Solidot–传递最新科技情报
   - [Google AI Overviews 导致搜索流量下降四成](https://www.solidot.org/story?sid=85916)
   - [学校禁止手机有助于提高学生成绩](https://www.solidot.org/story?sid=85915)
+  - [文明系列游戏开发商裁员三分之一](https://www.solidot.org/story?sid=85919)
+  - [美国最近接连发生的技术故障源自为修复 AI 发现的漏洞](https://www.solidot.org/story?sid=85918)
   - [英伟达董事会拒绝黄仁勋复职](https://www.solidot.org/story?sid=85917)
 - 爱范儿
   - [即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线](https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权](https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰](https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [黄仁勋官宣愿意回归，英伟达董事会：不考虑！](https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线](https://www.qbitai.com/2026/11/510916.html)
 - 黑海洋
   - [DeepSeek-V4-Pro 蒸馏小模型本地部署：4B / 9B （无审核）](https://blog.upx8.com/DeepSeek-V4-Pro-4B-9B)
   - [米饭云盘（mifun-storage）：把 Telegram 频道当硬盘，零成本自建个人图床](https://blog.upx8.com/mifun-storage-Telegram)
