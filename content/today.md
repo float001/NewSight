@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Anthropic 安全研究员 Tao Lin 说 2027 年底 AI 在编程、电影等大部分领域全面超越人类](https://2libra.com/post/ai-trends/cH1-eaC)
+  - [AZ 刚注册就能认证白嫖 100 刀](https://2libra.com/post/servers/p9yk_SK)
   - [DSH 立大功, 分享下我老婆做的报价小工具](https://2libra.com/post/small-things/io9knyV)
   - [GPUI 开发体验如何？](https://2libra.com/post/tech-rumination/5uIzva3)
   - [OpenCode Go 套餐 10 美元提供 200 美元额度的 GLM 5.3](https://2libra.com/post/transfer-station/i14YEsz)
@@ -12,10 +13,13 @@
   - [匿名者集结](https://2libra.com/post/small-things/1ZYZJhX)
   - [大家有没有屏蔽 x 的黄文和低俗内容的插件](https://2libra.com/post/browser-extensions/P8zP_Hx)
   - [有些 “最后回复” 没有链接，无法点击](https://2libra.com/post/community/YgTOgkt)
+  - [有什么歌的前奏，会让你一下梦回](https://2libra.com/post/music-sharing/vxSOwUh)
   - [有没有好看的原生 PC 客户端设计？](https://2libra.com/post/recommendations/k8yUiRG)
   - [没人讨论 6.1 和 6.2 的区别嘛](https://2libra.com/post/interaction/P3eg0k6)
+  - [空气好鲜啊！今天有同事带的鱼汤。](https://2libra.com/post/touch-fish/0_HNZOc)
   - [老黄说可以接受复职英伟达 CEO，但董事会说已经接受老黄的辞呈](https://2libra.com/post/hotspot-tracking/9OLs8-i)
   - [表情通知滞后太严重。](https://2libra.com/post/community/oHRPs62)
+  - [让 AI 写代码，以莫名其妙的方式运转起来。](https://2libra.com/post/ai-programming/ItW7IMW)
   - [远古帝国网页版](https://2libra.com/post/game-share/uN1Blyf)
 - 404 Media
   - [A Man and His Muse AI Agent Sue Meta](https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/)
@@ -57,6 +61,7 @@
 - Hacker News Frontpage
   - [350 years ago, this man discovered that light has a finite speed](https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969)
   - [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
+  - [GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
   - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
   - [Human.md](https://www.human-md.ai/)
   - [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
@@ -379,5 +384,9 @@
 - 奇客Solidot–传递最新科技情报
   - [学校禁止手机有助于提高学生成绩](https://www.solidot.org/story?sid=85915)
 - 爱范儿
+  - [即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线](https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权](https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰](https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [黄仁勋官宣愿意回归，英伟达董事会：不考虑！](https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 黑海洋
+  - [DeepSeek-V4-Pro 蒸馏小模型本地部署：4B / 9B （无审核）](https://blog.upx8.com/DeepSeek-V4-Pro-4B-9B)
