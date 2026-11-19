@@ -30,6 +30,8 @@
   - [疯狂星期四，抽 100 金币。](https://2libra.com/post/deal-hunter/p_Hvvfs)
   - [看了下补签花了 11150 金币](https://2libra.com/post/forum-function/NY1HdCQ)
   - [说个身边的小故事，大龄职场相关](https://2libra.com/post/workplace-stories/cdap3VD)
+- 404 Media
+  - [Charting American Culture in News Footage of ‘Grand Theft Auto’](https://www.404media.co/charting-american-culture-in-news-footage-of-grand-theft-auto/)
 - anildash.com
   - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
   - [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/)
@@ -38,6 +40,7 @@
   - [How to tell a cyberattack from a plain old outage](https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/)
   - [It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo](https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/)
   - [Muse privacy invasions are freaking out Meta staffers, internal chats show](https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/)
+  - [NASA's new Moon plans have a problem: Orion wasn't designed to fly this way](https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/)
   - [Netflix CEO admits app may bury stuff you want to watch under stuff you don’t](https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/)
   - [Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote](https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/)
   - [The "shameful" measles data that lost the US its elimination status](https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/)
@@ -60,6 +63,7 @@
   - [Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B](https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut](https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum’s new DeFi security tool raises questions over censorship](https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed officials saw October rate hold as a ‘close call,’ minutes show](https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume](https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -95,6 +99,7 @@
   - [Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge](https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge)
   - [AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)
   - [Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)
+  - [Why Holiday Security Can't Wait for Black Friday](https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday)
 - defend.network
   - [NGINX critical RCE patched; Microsoft PyPI package steals credentials; $40M ransomware gang arrested](https://defend.network/briefings/nginx-critical-rce-microsoft-pypi-compromise-ransomware-2026-11-19.html)
 - Hacker News Frontpage
@@ -118,6 +123,7 @@
   - [Can LLMs Actually Do Quantitative Research? Here's What Quant-Arena Found](https://hackernoon.com/can-llms-actually-do-quantitative-research-heres-what-quant-arena-found?source=rss)
   - [Stop Fixing Vulnerabilities in Production — Fix Them Where They're Born](https://hackernoon.com/stop-fixing-vulnerabilities-in-production-fix-them-where-theyre-born?source=rss)
 - Horizon3.ai
+  - [Horizon3 Achieves CMMC Level 2 Certification](https://horizon3.ai/news/press-release/horizon3-achieves-cmmc-level-2-certification/)
   - [Machine-Speed Offense Is Here. So Is Machine-Speed Proof.](https://horizon3.ai/intelligence/blogs/machine-speed-offense-machine-speed-proof/)
   - [Which Holes Can Attackers Really Bite Into?](https://horizon3.ai/intelligence/infographics/which-holes-can-attackers-really-bite-into/)
 - idiallo.com
@@ -144,6 +150,8 @@
   - [Supersequences and Superpermutations](https://www.johndcook.com/blog/2026/11/18/supersequences/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: November 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026)
+- MIT Technology Review
+  - [The Download: a living liver, a billion-dollar battery deal, and AI hype](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/)
 - rtl-sdr.com
   - [Building a Handheld RTL-SDR ADS-B Console with an AI “Pilot” You Can Talk To](https://www.rtl-sdr.com/building-a-handheld-rtl-sdr-ads-b-console-with-an-ai-pilot-you-can-talk-to/)
   - [Flipper One Launches on Kickstarter: A Linux Multi-Tool with an Optional SDR Module and MT7921 Wi-Fi](https://www.rtl-sdr.com/flipper-one-launches-on-kickstarter-a-linux-multi-tool-with-an-optional-sdr-module-and-mt7921-wi-fi/)
@@ -169,6 +177,7 @@
   - [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/)
   - [Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/)
   - [More banks say customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/)
+  - [Nimble enters the item-tracking market with eco-friendly luggage tags and keychains](https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/)
   - [Nvidia created a weird bit of intrigue by not filing a routine SEC report](https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/)
   - [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)
   - [Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated](https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/)
@@ -179,10 +188,12 @@
   - [Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor](https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/)
   - [Sony’s updated turntable is an easy entry into the world of vinyl](https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/)
   - [Spend management platform Payhawk announces $280M raise, 2B valuation](https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/)
+  - [Superhuman pushes its Go assistant everywhere](https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/)
 - The Block
   - [1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform](https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574)
   - [Ant International launches protocol for real-time settlement between tokenized deposits and money market funds](https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586)
   - [Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto](https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491)
+  - [Bitcoin finance protocol Hashi goes live on Sui mainnet](https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608)
   - [Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%](https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456)
   - [CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’](https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471)
   - [Kraken parent Payward to acquire Tribe Capital to expand private-market offerings](https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522)
@@ -194,6 +205,7 @@
   - [US launches cybercrime center with TRM Labs to help trace crypto tied to scams](https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599)
   - [Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific](https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457)
 - The Decoder
+  - [Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector](https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/)
   - [Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/)
   - [Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago](https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/)
   - [Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives](https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/)
@@ -203,10 +215,12 @@
 - The Verge
   - [8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird](https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird)
   - [Absolute Batman can save DC Studios](https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios)
+  - [Blue Origin will launch Google&#8217;s AI server satellites in 2029](https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029)
   - [Canva adds an AI ‘off’ button](https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button)
   - [Democrats skip a vote on adding Brendan Carr’s adviser to the FCC](https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs)
   - [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai)
   - [Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink](https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook)
+  - [Grand Theft Auto VI understands just how important a smartphone is](https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone)
   - [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
   - [Our favorite accessories to level up your gaming setup ahead of GTA VI](https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs)
   - [Roblox money is pushing a controversial anorexia treatment](https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding)
@@ -217,6 +231,7 @@
   - [The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI](https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops)
   - [The leaked Lenovo Legion Go Beam could be the affordable handheld we need](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need)
   - [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google)
+  - [The wait begins for GTA VI on PC](https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo)
   - [Trump’s latest land grab is an AI hub in the Philippines](https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica)
   - [What is Nvidia without AI’s sugar daddy in charge?](https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition)
   - [What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang)
@@ -533,6 +548,7 @@
   - [全球专利申请量创新高](https://www.solidot.org/story?sid=85933)
   - [剑桥词典的 2026 年度单词是“人”](https://www.solidot.org/story?sid=85927)
   - [微软官方 agent-framework 软件包被黑客劫持安装恶意程序](https://www.solidot.org/story?sid=85931)
+  - [过度运动紊乱多巴胺](https://www.solidot.org/story?sid=85934)
   - [黄仁勋的下台可能削弱开放权重模型让闭源模型受益](https://www.solidot.org/story?sid=85932)
 - 爱范儿
   - [《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏](https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=)
