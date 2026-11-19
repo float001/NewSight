@@ -1,15 +1,19 @@
 # 今日安全资讯（2026-11-19）
 
 - 2Libra
+  - [Mac Dark 更新 Light](https://2libra.com/post/apple/rtKLTyN)
   - [UU 远程要推出 VIP 服务了，12.1 日前注册可领取年卡五折专属优惠。](https://2libra.com/post/worth-buying/TWgnZ4G)
   - [《故事会》《意林》](https://2libra.com/post/good-books/GDvq5jN)
   - [【一人食】老北京柴氏 yyds 🍜🍜🍜](https://2libra.com/post/personal-life/5iyyo5E)
   - [【裁员广进】年底已经开始 lastday1230](https://2libra.com/post/workplace-stories/zZzOkJE)
   - [【💰】请求申请守护者徽章](https://2libra.com/post/forum-function/W08Ebvh)
+  - [你真的内心拥抱 AI 了吗？我说的是思想上 潜意识里](https://2libra.com/post/tech-rumination/VLM_YoS)
+  - [做了个 IP 检测在线工具，想听听大家有那些建议](https://2libra.com/post/tools-sharing/Zf9THFH)
   - [原来被分身评论这么赚钱，快来聊点分身才能聊的事情！](https://2libra.com/post/forum-function/J0eN_sp)
   - [各位 Pro 佬来聊聊自己常用的 Pro 权益~](https://2libra.com/post/forum-function/jQYIEYS)
   - [哈基米 4 Neon 来了~~](https://2libra.com/post/ai-updates/SEHaIfm)
   - [啊啊啊啊，金币雨被我换了，变成金币回收计划了](https://2libra.com/post/forum-function/TVy2-TM)
+  - [如何在石头剪刀布击败首富](https://2libra.com/post/game-discussion/oKHqbKl)
   - [感觉自己成流水线工人了。](https://2libra.com/post/office-life/f87VdG3)
   - [我也可以忽冷忽热了](https://2libra.com/post/forum-function/Ogar5vw)
   - [把维基百科的知识做成抽卡包游戏](https://2libra.com/post/personal-works/2trn-9t)
@@ -45,6 +49,7 @@
   - [Binance hackers stole 192 tokens across 11 networks, court docs show](https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance says it obtained $6.5B worldwide freezing order after hack](https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts](https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut](https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed officials saw October rate hold as a ‘close call,’ minutes show](https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -59,6 +64,7 @@
 - daringfireball.net
   - [★ The 50-Yard Line](https://daringfireball.net/2026/11/the_50-yard_line)
 - darkreading
+  - [Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge](https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge)
   - [AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)
   - [Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)
 - defend.network
@@ -83,6 +89,8 @@
 - Horizon3.ai
   - [Machine-Speed Offense Is Here. So Is Machine-Speed Proof.](https://horizon3.ai/intelligence/blogs/machine-speed-offense-machine-speed-proof/)
   - [Which Holes Can Attackers Really Bite Into?](https://horizon3.ai/intelligence/infographics/which-holes-can-attackers-really-bite-into/)
+- idiallo.com
+  - [SO Is Back! No, Not Stack Overflow, but Its Spirit](https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit)
 - IEEE Spectrum
   - [Build a Personal Brand to Help Employers Find You](https://spectrum.ieee.org/personal-branding-for-engineers)
 - InfoSec Write-ups - Medium
@@ -397,6 +405,7 @@
 - 半块西瓜皮
   - [开源cinterp：一个小型(约100KB)、跨平台、C 代码编译成字节码、支持FFI的解释器](https://guage.cool/cinterp.html)
 - 奇客Solidot–传递最新科技情报
+  - [中国发现新直立人化石](https://www.solidot.org/story?sid=85929)
   - [剑桥词典的 2026 年度单词是“人”](https://www.solidot.org/story?sid=85927)
 - 爱范儿
   - [《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏](https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=)
