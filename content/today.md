@@ -1,9 +1,15 @@
 # 今日安全资讯（2026-11-19）
 
 - 2Libra
+  - [【💰】请求申请守护者徽章](https://2libra.com/post/forum-function/W08Ebvh)
+  - [原来被分身评论这么赚钱，快来聊点分身才能聊的事情！](https://2libra.com/post/forum-function/J0eN_sp)
   - [哈基米 4 Neon 来了~~](https://2libra.com/post/ai-updates/SEHaIfm)
+  - [啊啊啊啊，金币雨被我换了，变成金币回收计划了](https://2libra.com/post/forum-function/TVy2-TM)
+  - [感觉自己成流水线工人了。](https://2libra.com/post/office-life/f87VdG3)
   - [我也可以忽冷忽热了](https://2libra.com/post/forum-function/Ogar5vw)
+  - [梦中梦中梦](https://2libra.com/post/idea/11sjtSn)
   - [疯狂星期四，抽 100 金币。](https://2libra.com/post/deal-hunter/p_Hvvfs)
+  - [说个身边的小故事，大龄职场相关](https://2libra.com/post/workplace-stories/cdap3VD)
 - Ars Technica
   - [Best Buy sells Blu-rays online and in-store again](https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/)
   - [It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo](https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/)
@@ -32,6 +38,7 @@
   - [MARA prices $185M debt offering after $1.1B Bitcoin sale](https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US takes rapid-fire crypto trading format to oil, natural gas](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether invokes The Big Short in swipe at S&P over USDT reserve risks](https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump administration unveils new center to choke off scam payments](https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched](https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html)
 - daringfireball.net
@@ -75,6 +82,8 @@
   - [Supersequences and Superpermutations](https://www.johndcook.com/blog/2026/11/18/supersequences/)
 - Linux Foundation Blogs
   - [Linux Foundation Newsletter: November 2026](https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026)
+- rtl-sdr.com
+  - [Flipper One Launches on Kickstarter: A Linux Multi-Tool with an Optional SDR Module and MT7921 Wi-Fi](https://www.rtl-sdr.com/flipper-one-launches-on-kickstarter-a-linux-multi-tool-with-an-optional-sdr-module-and-mt7921-wi-fi/)
 - TechCrunch
   - [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)
   - [Anthropic reportedly prices IPO at $83 a share, above projected range](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)
@@ -111,6 +120,7 @@
   - [Absolute Batman can save DC Studios](https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios)
   - [Democrats skip a vote on adding Brendan Carr’s adviser to the FCC](https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs)
   - [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai)
+  - [Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink](https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook)
   - [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
   - [Our favorite accessories to level up your gaming setup ahead of GTA VI](https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs)
   - [Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood](https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off)
