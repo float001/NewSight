@@ -4,24 +4,36 @@
   - [The Invisible Systems: What Happens Between Services](https://blog.bytebytego.com/p/the-invisible-systems-what-happens)
 - CoinTelegraph
   - [Anthropic shares open at $111.50, 34.3% above $83 IPO price](https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Cyber Kendra
+  - [phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix](https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html)
 - daringfireball.net
   - [Anthropic IPOs, Topping SpaceX for the Largest Ever](https://www.techmeme.com/261118/p34#a261118p34)
 - Fidelis Security
   - [NDR ROI Analysis for Enterprise Security Teams: What the 2026 Numbers Actually Show](https://fidelissecurity.com/threatgeek/network-security/ndr-roi-analysis-for-enterprise-security/)
 - Hacker News Frontpage
+  - [Claude Fable 5.2 solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
   - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/tech/bug-reports.html)
   - [ICE Is Paying AT&T to Dig Through a Mountain of Call Records](https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/)
   - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
   - [UK Government Forced to Admit It Issued Apple a Secret Encryption Order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
+- Horizon3.ai
+  - [CVE-2026-132165 | Drupal Core Installer Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-132165/)
+- Sploitus.com Exploits RSS Feed
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)
   - [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)
   - [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/)
+  - [Meta’s AI agent Muse is mixing up conversations and exposing private data, report says](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
 - The Block
+  - [CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US](https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106)
   - [Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
+  - [Tokenized Stocks Shrug Off the Crypto Selloff](https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829)
 - The Decoder
   - [Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears](https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/)
 - The Verge
+  - [Amazon is pushing alerts opposing NYC’s Delivery Protection Act](https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act)
+  - [Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June](https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale)
   - [Anthropic starts trading on Wall Street](https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq)
   - [JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage](https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack)
   - [Microsoft is killing its great tasks app in favor of its worse tasks app](https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner)
