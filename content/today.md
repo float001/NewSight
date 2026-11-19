@@ -3,6 +3,7 @@
 - 404 Media
   - [To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker](https://www.404media.co/ransomware-fraud-attack-fbi-indictment/)
 - Ars Technica
+  - [Google turns to Blue Origin for a rocket, but its long-term problem remains](https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/)
   - [LLMs will provide accurate climate info, except when they won’t](https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/)
 - ByteByteGo
   - [The Invisible Systems: What Happens Between Services](https://blog.bytebytego.com/p/the-invisible-systems-what-happens)
@@ -12,11 +13,16 @@
   - [Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns](https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Why higher rates could slow Bitcoin buying at treasury firms](https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Before You Buy a VPN: 7 Security Checks That Matter More Than the Discount](https://www.cyberkendra.com/2026/11/before-you-buy-a-vpn-7-security-checks-that-matter-more-than-the-discount.html)
   - [Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch](https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html)
   - [FastUnlock Zero-Day Uses Windows Narrator to Bypass Lock Screen and BitLocker on Windows 11](https://www.cyberkendra.com/2026/11/fastunlock-windows-narrator-lock-screen-bypass.html)
   - [phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix](https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html)
+  - [Ruby2Shell Flaw in Ruby Exposes Default Rails Apps to Unauthenticated Code Execution](https://www.cyberkendra.com/2026/11/ruby2shell-cve-2026-132825-rails-rce.html)
+  - [The Hidden Cost of Cheap VPN Plans: What to Check Before You Subscribe](https://www.cyberkendra.com/2026/11/the-hidden-cost-of-cheap-vpn-plans-what-to-check-before-you-subscribe.html)
 - daringfireball.net
   - [Anthropic IPOs, Topping SpaceX for the Largest Ever](https://www.techmeme.com/261118/p34#a261118p34)
+- darkreading
+  - [Navigating Vulnerability Hysteria in the AI Era](https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era)
 - Fidelis Security
   - [NDR ROI Analysis for Enterprise Security Teams: What the 2026 Numbers Actually Show](https://fidelissecurity.com/threatgeek/network-security/ndr-roi-analysis-for-enterprise-security/)
 - Hacker News Frontpage
@@ -27,6 +33,7 @@
   - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/)
   - [UK Government Forced to Admit It Issued Apple a Secret Encryption Order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
 - Horizon3.ai
+  - [CVE-2026-114924 / CVE-2026-114925 | Oracle E-Business Suite Authorization Bypass & Remote Code Execution Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-114924-cve-2026-114925/)
   - [CVE-2026-132165 | Drupal Core Installer Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-132165/)
 - IEEE Spectrum
   - [Community-Focused Academic Brings AI Tools to Colorado Farmers](https://spectrum.ieee.org/ai-tools-for-rural-communities)
@@ -34,6 +41,7 @@
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)
+  - [Anthropic’s IPO could deliver $156 billion to charity](https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/)
   - [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)
   - [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/)
   - [Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
@@ -43,20 +51,25 @@
   - [Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
   - [Tokenized Stocks Shrug Off the Crypto Selloff](https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829)
 - The Decoder
+  - [AI industry growth remains strong, but the pace is slowing](https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/)
   - [Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears](https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/)
 - The Verge
   - [Amazon is pushing alerts opposing NYC’s Delivery Protection Act](https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act)
   - [Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June](https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale)
   - [Anthropic starts trading on Wall Street](https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq)
   - [Apple’s iPhone camera leader has reportedly left the company](https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera)
+  - [FCC greenlights rule allowing prisons to jam cellphone signals](https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming)
   - [Gemini on Mac can now use your computer](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)
   - [JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage](https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack)
   - [Leaked images reveal Motorola’s wide foldable](https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak)
   - [Microsoft is killing its great tasks app in favor of its worse tasks app](https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner)
   - [Oh, Elon Musk is ‘moderate’ now, is he?](https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook)
+  - [Some creators are skeptical of Instagram’s new affiliate program](https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads)
   - [Sonos is taking up to 30 percent off speakers and soundbars right now](https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale)
+  - [Sony’s WH-1000XM5 are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale)
   - [The Verge’s 2026 fitness and wellness gift guide](https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026)
   - [You can grab two months of Paramount Plus for just $2.99 for Black Friday](https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale)
+  - [You can now buy a Steam Machine without getting on a waitlist](https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply)
 - Vulners.com RSS Feed
   - [CVE-2025-71472](https://vulners.com/nvd/NVD:CVE-2025-71472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102770](https://vulners.com/nvd/NVD:CVE-2026-102770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
