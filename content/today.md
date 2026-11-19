@@ -7,6 +7,7 @@
   - [【一人食】老北京柴氏 yyds 🍜🍜🍜](https://2libra.com/post/personal-life/5iyyo5E)
   - [【裁员广进】年底已经开始 lastday1230](https://2libra.com/post/workplace-stories/zZzOkJE)
   - [【💰】请求申请守护者徽章](https://2libra.com/post/forum-function/W08Ebvh)
+  - [低精力人群怎么快速回血呢？](https://2libra.com/post/health-consultation/dj4_VC4)
   - [你们取暖有什么妙招的吗?](https://2libra.com/post/interaction/mTytUdw)
   - [你真的内心拥抱 AI 了吗？我说的是思想上 潜意识里](https://2libra.com/post/tech-rumination/VLM_YoS)
   - [做了个 IP 检测在线工具，想听听大家有那些建议](https://2libra.com/post/tools-sharing/Zf9THFH)
@@ -14,6 +15,7 @@
   - [各位 Pro 佬来聊聊自己常用的 Pro 权益~](https://2libra.com/post/forum-function/jQYIEYS)
   - [哈基米 4 Neon 来了~~](https://2libra.com/post/ai-updates/SEHaIfm)
   - [啊啊啊啊，金币雨被我换了，变成金币回收计划了](https://2libra.com/post/forum-function/TVy2-TM)
+  - [夜间安排](https://2libra.com/post/slacking-off/BYXQSEm)
   - [如何在石头剪刀布击败首富](https://2libra.com/post/game-discussion/oKHqbKl)
   - [感觉自己成流水线工人了。](https://2libra.com/post/office-life/f87VdG3)
   - [我也可以忽冷忽热了](https://2libra.com/post/forum-function/Ogar5vw)
@@ -67,7 +69,10 @@
 - Cyber Kendra
   - [nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched](https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html)
 - CyberNews
+  - [Hacker leaks alleged Mastercard customers’ data: What do we know so far?](https://cybernews.com/security/n0n-ransomware-leaks-alleged-mastercard-customers-data/)
+  - [Massive vulnerabilities found in NGINX, open-source server powering a third of all websites](https://cybernews.com/security/nginx-open-source-critical-bugs/)
   - [PHP won’t let admins catch a break: fresh round of critical security patches set to arrive](https://cybernews.com/security/php-fixes-critical-security-vulnerabilities-again/)
+  - [PlayStation players still report problems as GTA 6 launch day looms](https://cybernews.com/tech/playstation-outage-gta-6-release/)
 - daringfireball.net
   - [★ The 50-Yard Line](https://daringfireball.net/2026/11/the_50-yard_line)
 - darkreading
@@ -88,6 +93,7 @@
   - [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
   - [SuperEMeans: Making e-means 3× faster](https://www.lkuffo.com/superemeans/)
   - [The Executive Mindset: From Technical Certainty to Strategic Trade-Offs](https://www.talkingtech.online/articles/the-executive-mindset-from-technical-certainty-to-strategic-trade-offs)
+  - [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 - HackerNews
   - [Coinbase 拦截 470 万美元转账，阻止 Elon Musk 深度伪造骗局](http://0.0.0.0:8080/post/64926)
   - [IT 供应商被入侵事件致约 40 家爱尔兰信用社数据泄露](http://0.0.0.0:8080/post/64927)
@@ -113,6 +119,7 @@
   - [TryHackMe: Understanding AI Supply Chains — Walkthrough](https://infosecwriteups.com/tryhackme-understanding-ai-supply-chains-walkthrough-dcfc8ce0124d?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server](https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/)
+  - [Rakuten Securities Breach Could Impact 15 Million Customers](https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/)
 - johndcook.com
   - [Supersequences and Superpermutations](https://www.johndcook.com/blog/2026/11/18/supersequences/)
 - Linux Foundation Blogs
@@ -162,6 +169,7 @@
 - The Decoder
   - [Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/)
   - [Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives](https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/)
+  - [OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months](https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/)
   - [OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering](https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/)
   - [Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author](https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/)
 - The Verge
@@ -398,6 +406,7 @@
   - [Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This](https://www.wired.com/story/guys-really-we-got-this/)
   - [ExpressVPN Coupons: 80% Off](https://www.wired.com/story/expressvpn-coupons/)
   - [Fanatics Promo Code: 10% Off](https://www.wired.com/story/fanatics-promo-code/)
+  - [Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly](https://www.wired.com/story/shiftkey-gig-nursing/)
   - [Home Chef Promo Codes for November 2026](https://www.wired.com/story/home-chef-promo-code/)
   - [Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity](https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/)
   - [Lego Promo Code | 20% Off November 2026](https://www.wired.com/story/lego-promo-code/)
@@ -429,6 +438,7 @@
   - [中国发现新直立人化石](https://www.solidot.org/story?sid=85929)
   - [剑桥词典的 2026 年度单词是“人”](https://www.solidot.org/story?sid=85927)
   - [微软官方 agent-framework 软件包被黑客劫持安装恶意程序](https://www.solidot.org/story?sid=85931)
+  - [黄仁勋的下台可能削弱开放权重模型让闭源模型受益](https://www.solidot.org/story?sid=85932)
 - 爱范儿
   - [《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏](https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5](https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=)
