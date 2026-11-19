@@ -5,6 +5,7 @@
   - [UU 远程要推出 VIP 服务了，12.1 日前注册可领取年卡五折专属优惠。](https://2libra.com/post/worth-buying/TWgnZ4G)
   - [《故事会》《意林》](https://2libra.com/post/good-books/GDvq5jN)
   - [【一人食】老北京柴氏 yyds 🍜🍜🍜](https://2libra.com/post/personal-life/5iyyo5E)
+  - [【投票】西湖醋鱼 vs 豆汁，哪个更难吃？](https://2libra.com/post/personal-life/Xe_Z9Gh)
   - [【新用户注册即送 5 刀试用额度】满血中转站-稳定号池不降智 | 支持 Claude、GPT、Gemini、DeepSeek、grok 等主流模型，欢迎老板和企业团队前来试吃！](https://2libra.com/post/promotion/6gCvxu2)
   - [【裁员广进】年底已经开始 lastday1230](https://2libra.com/post/workplace-stories/zZzOkJE)
   - [【💰】请求申请守护者徽章](https://2libra.com/post/forum-function/W08Ebvh)
@@ -34,6 +35,7 @@
   - [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/)
 - Ars Technica
   - [Best Buy sells Blu-rays online and in-store again](https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/)
+  - [How to tell a cyberattack from a plain old outage](https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/)
   - [It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo](https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/)
   - [Muse privacy invasions are freaking out Meta staffers, internal chats show](https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/)
   - [Netflix CEO admits app may bury stuff you want to watch under stuff you don’t](https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/)
@@ -66,6 +68,7 @@
   - [Polymarket US takes rapid-fire crypto trading format to oil, natural gas](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight](https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Singapore settles $77.5M tokenized bill sale with wholesale CBDC](https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks](https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether invokes The Big Short in swipe at S&P over USDT reserve risks](https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump administration unveils new center to choke off scam payments](https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -74,10 +77,12 @@
   - [nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched](https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html)
 - CyberNews
   - [Hacker leaks alleged Mastercard customers’ data: What do we know so far?](https://cybernews.com/security/n0n-ransomware-leaks-alleged-mastercard-customers-data/)
+  - [Hackers claim Walmart data leak: what data did they reveal?](https://cybernews.com/news/walmart-data-leak-claim/)
   - [Hackers leak stolen JPMorgan data about rich people](https://cybernews.com/security/jpmorgan-chase-data-leak-non-ransomware-gang/)
   - [Massive vulnerabilities found in NGINX, open-source server powering a third of all websites](https://cybernews.com/security/nginx-open-source-critical-bugs/)
   - [PHP won’t let admins catch a break: fresh round of critical security patches set to arrive](https://cybernews.com/security/php-fixes-critical-security-vulnerabilities-again/)
   - [PlayStation players still report problems as GTA 6 launch day looms](https://cybernews.com/tech/playstation-outage-gta-6-release/)
+  - [Ryanair says you need to download its app to fly. This developer has other ideas](https://cybernews.com/tech/ryanair-app-boarding-pass-workaround/)
   - [Working from a coffee shop? A Russian spy may be taking screenshots](https://cybernews.com/privacy/palantir-spying-cafe/)
   - [Your smart TV is watching: Hackers leak 150,000 Samsung viewing records](https://cybernews.com/security/samsung-smart-tv-data-breach/)
 - daringfireball.net
@@ -129,6 +134,7 @@
   - [A Fifth of UK Employees Share Passwords with AI](https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/)
   - [Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server](https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/)
   - [Rakuten Securities Breach Could Impact 15 Million Customers](https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/)
+  - [TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed](https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/)
 - johndcook.com
   - [Supersequences and Superpermutations](https://www.johndcook.com/blog/2026/11/18/supersequences/)
 - Linux Foundation Blogs
@@ -145,6 +151,7 @@
   - [Exploit for CVE-2026-69157](https://sploitus.com/exploit?id=4E420578-BC65-5F4A-AFE9-23331F67C1A9&utm_source=rss&utm_medium=rss)
   - [Exploit for Race Condition in Apple Ipados](https://sploitus.com/exploit?id=A9BB1A27-778E-579E-AC2B-4E818264BE28&utm_source=rss&utm_medium=rss)
   - [nginx-http2-rce-check exploit](https://sploitus.com/exploit?id=52F408ED-1EB1-573C-9823-4E7A91BC1D50&utm_source=rss&utm_medium=rss)
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)
   - [Anthropic reportedly prices IPO at $83 a share, above projected range](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)
@@ -176,9 +183,11 @@
   - [Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation](https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501)
   - [Singapore’s MAS issues $77 million in tokenized bills settled via CBDC](https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562)
   - [Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability](https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964)
+  - [US launches cybercrime center with TRM Labs to help trace crypto tied to scams](https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599)
   - [Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific](https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457)
 - The Decoder
   - [Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing](https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/)
+  - [Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago](https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/)
   - [Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives](https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/)
   - [OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months](https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/)
   - [OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering](https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/)
@@ -191,6 +200,7 @@
   - [Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink](https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook)
   - [Instagram now lets you edit your stories after you post them](https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them)
   - [Our favorite accessories to level up your gaming setup ahead of GTA VI](https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs)
+  - [Roblox money is pushing a controversial anorexia treatment](https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding)
   - [Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood](https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off)
   - [Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday](https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale)
   - [Tech lawsuits defined 2026 — and lawmakers want more](https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act)
@@ -438,6 +448,7 @@
   - [Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026](https://www.wired.com/story/sony-promo-code/)
   - [Sportsman's Warehouse Promo Code: Save in November 2026](https://www.wired.com/story/sportsmans-warehouse-promo-code/)
   - [Target Promo Code: $50 Off | November 2026](https://www.wired.com/story/target-promo-code/)
+  - [The Best Early Black Friday Deals on Laptops I’ve Tested Myself (2026)](https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/)
   - [The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday](https://www.wired.com/story/macbook-neo-deal-november-2026/)
   - [The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back](https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/)
   - [The ‘GTA 6’ Work Blackout Is Here](https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/)
