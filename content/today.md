@@ -7,6 +7,7 @@
 - Ars Technica
   - [Google turns to Blue Origin for a rocket, but its long-term problem remains](https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/)
   - [LLMs will provide accurate climate info, except when they won’t](https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/)
+  - [MAHA PAC spent more on steak, luxury club than candidates, report shows](https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/)
   - [Man hired by Russia spied on Silicon Valley tech and defense company, feds say](https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/)
   - [Traumatized teens sue school, cops after Doritos bag triggers AI gun alert](https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/)
 - ByteByteGo
@@ -15,6 +16,7 @@
   - [Anthropic shares open at $111.50, 34.3% above $83 IPO price](https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price ignores Anthropic debut as ANT share price dips below $100](https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns](https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price](https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading](https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Why higher rates could slow Bitcoin buying at treasury firms](https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,7 +59,10 @@
   - [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/)
   - [Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
   - [Meta’s AI agent Muse is mixing up conversations and exposing private data, report says](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
+  - [Meta’s new Muse Charm device may cost $300](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)
   - [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
+  - [These tech outages are giving Y2K, AI agent style](https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/)
+  - [Uber tests rides for kids as young as 10, with extra pay for drivers](https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/)
 - The Block
   - [CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US](https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106)
   - [Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
@@ -65,8 +70,10 @@
   - [Tokenized Stocks Shrug Off the Crypto Selloff](https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829)
 - The Decoder
   - [AI industry growth remains strong, but the pace is slowing](https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/)
+  - [An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool](https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/)
   - [Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears](https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/)
 - The Verge
+  - [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)
   - [Amazon is pushing alerts opposing NYC’s Delivery Protection Act](https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act)
   - [Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June](https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale)
   - [Anthropic starts trading on Wall Street](https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq)
@@ -75,6 +82,7 @@
   - [Gemini on Mac can now use your computer](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)
   - [JPMorgan Chase reveals data breach, but says it&#8217;s unrelated to this week&#8217;s banking outage](https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack)
   - [Leaked images reveal Motorola’s wide foldable](https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak)
+  - [Meta now sells 3D movies on Quest VR headsets](https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app)
   - [Meta’s Muse Charm might cost $300](https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price)
   - [Microsoft is killing its great tasks app in favor of its worse tasks app](https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner)
   - [Oh, Elon Musk is ‘moderate’ now, is he?](https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook)
@@ -229,5 +237,6 @@
 - Wired
   - [The Best Hatch Black Friday Deals (2026)](https://www.wired.com/story/hatch-black-friday-deals-2026/)
   - [The Jensen Huang Blast Radius Has Hit His Favorite Restaurants](https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/)
+  - [What’s With All These Outages?](https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
