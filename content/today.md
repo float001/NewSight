@@ -2,6 +2,8 @@
 
 - 2Libra
   - [UU 远程要推出 VIP 服务了，12.1 日前注册可领取年卡五折专属优惠。](https://2libra.com/post/worth-buying/TWgnZ4G)
+  - [《故事会》《意林》](https://2libra.com/post/good-books/GDvq5jN)
+  - [【一人食】老北京柴氏 yyds 🍜🍜🍜](https://2libra.com/post/personal-life/5iyyo5E)
   - [【裁员广进】年底已经开始 lastday1230](https://2libra.com/post/workplace-stories/zZzOkJE)
   - [【💰】请求申请守护者徽章](https://2libra.com/post/forum-function/W08Ebvh)
   - [原来被分身评论这么赚钱，快来聊点分身才能聊的事情！](https://2libra.com/post/forum-function/J0eN_sp)
@@ -11,6 +13,7 @@
   - [感觉自己成流水线工人了。](https://2libra.com/post/office-life/f87VdG3)
   - [我也可以忽冷忽热了](https://2libra.com/post/forum-function/Ogar5vw)
   - [把维基百科的知识做成抽卡包游戏](https://2libra.com/post/personal-works/2trn-9t)
+  - [最近感觉有点抑郁倾向](https://2libra.com/post/mental-health/629SDg6)
   - [来玩个石头剪刀布小游戏吧](https://2libra.com/post/game-discussion/DmywrQV)
   - [梦中梦中梦](https://2libra.com/post/idea/11sjtSn)
   - [疯狂星期四，抽 100 金币。](https://2libra.com/post/deal-hunter/p_Hvvfs)
@@ -58,6 +61,8 @@
 - darkreading
   - [AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)
   - [Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)
+- defend.network
+  - [NGINX critical RCE patched; Microsoft PyPI package steals credentials; $40M ransomware gang arrested](https://defend.network/briefings/nginx-critical-rce-microsoft-pypi-compromise-ransomware-2026-11-19.html)
 - Hacker News Frontpage
   - [Fable: Written, painted and directed by Claude Fable 5.2](https://claudia.gallery/fable/)
   - [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
@@ -104,8 +109,10 @@
   - [Live Mesh Map: A Self-Hosted Live Map for Meshtastic and MeshCore LoRa Mesh Networks](https://www.rtl-sdr.com/live-mesh-map-a-self-hosted-live-map-for-meshtastic-and-meshcore-lora-mesh-networks/)
   - [VKVSkimmer: A Free CW and RTTY Skimmer for RTL-SDR, SDRplay and Icom IC-7610 / IC-7760](https://www.rtl-sdr.com/vkvskimmer-a-free-cw-and-rtty-skimmer-for-rtl-sdr-sdrplay-and-icom-ic-7610-ic-7760/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-110486](https://sploitus.com/exploit?id=C23B0CB3-0F6D-5470-BDFF-EA4E0698647B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-123007](https://sploitus.com/exploit?id=34CEF20F-3788-5D82-8821-D041A12D705E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-69157](https://sploitus.com/exploit?id=4E420578-BC65-5F4A-AFE9-23331F67C1A9&utm_source=rss&utm_medium=rss)
+  - [nginx-http2-rce-check exploit](https://sploitus.com/exploit?id=52F408ED-1EB1-573C-9823-4E7A91BC1D50&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/)
   - [Anthropic reportedly prices IPO at $83 a share, above projected range](https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/)
@@ -167,10 +174,13 @@
   - [CVE-2024-58402](https://vulners.com/nvd/NVD:CVE-2024-58402?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-58403](https://vulners.com/nvd/NVD:CVE-2024-58403?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106094](https://vulners.com/nvd/NVD:CVE-2026-106094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-108687](https://vulners.com/nvd/NVD:CVE-2026-108687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-109555](https://vulners.com/nvd/NVD:CVE-2026-109555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113425](https://vulners.com/nvd/NVD:CVE-2026-113425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116443](https://vulners.com/nvd/NVD:CVE-2026-116443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116449](https://vulners.com/nvd/NVD:CVE-2026-116449?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116953](https://vulners.com/nvd/NVD:CVE-2026-116953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-117678](https://vulners.com/nvd/NVD:CVE-2026-117678?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118899](https://vulners.com/nvd/NVD:CVE-2026-118899?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120049](https://vulners.com/nvd/NVD:CVE-2026-120049?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120285](https://vulners.com/nvd/NVD:CVE-2026-120285?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -183,6 +193,7 @@
   - [CVE-2026-121805](https://vulners.com/nvd/NVD:CVE-2026-121805?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121810](https://vulners.com/nvd/NVD:CVE-2026-121810?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121812](https://vulners.com/nvd/NVD:CVE-2026-121812?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-121852](https://vulners.com/nvd/NVD:CVE-2026-121852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123007](https://vulners.com/nvd/NVD:CVE-2026-123007?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123633](https://vulners.com/nvd/NVD:CVE-2026-123633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123634](https://vulners.com/nvd/NVD:CVE-2026-123634?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -213,6 +224,7 @@
   - [CVE-2026-128669](https://vulners.com/nvd/NVD:CVE-2026-128669?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-128719](https://vulners.com/nvd/NVD:CVE-2026-128719?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129316 Dokploy: serviceId lets a member reach any container (Member -> Root) over the docker WebSocket handlers](https://vulners.com/cvelist/CVELIST:CVE-2026-129316?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129446](https://vulners.com/nvd/NVD:CVE-2026-129446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129829](https://vulners.com/nvd/NVD:CVE-2026-129829?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129985 Dokploy: RCE via Command Injection in Schedule appName](https://vulners.com/cvelist/CVELIST:CVE-2026-129985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129986 Dokploy: OS Command Injection via filePath in mount.deleteFileMount → HOST RCE](https://vulners.com/cvelist/CVELIST:CVE-2026-129986?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -343,9 +355,11 @@
   - [DHI-RURB-CBUD-ETIB-N2GT A flaw was found in BusyBox. The volume identification component fails to properly validate cluster parameters when…](https://vulners.com/osv_dhi/OSV:DHI-RURB-CBUD-ETIB-N2GT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DHI-WMSE-MD2W-CMIB-YMP3 A flaw was found in BusyBox. When processing filesystem metadata, the volume identification component does not properly…](https://vulners.com/osv_dhi/OSV:DHI-WMSE-MD2W-CMIB-YMP3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DHI-XO5H-BDIZ-SKBB-UCWX A flaw was found in BusyBox. An integer overflow occurs in the volume_id component when calculating buffer boundaries…](https://vulners.com/osv_dhi/OSV:DHI-XO5H-BDIZ-SKBB-UCWX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-110486](https://vulners.com/githubexploit/C23B0CB3-0F6D-5470-BDFF-EA4E0698647B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-114938](https://vulners.com/githubexploit/327783CB-60D5-5D75-8032-905A6A2EA824?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for Exposure of Sensitive Information to an Unauthorized Actor in Vitejs Vite](https://vulners.com/githubexploit/483BB20B-7DD8-5B00-90FA-E76C36E6AC1B?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://vulners.com/thn/THN:E51E69194C3DC7A6B8BCF603D77A4F95?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [nginx-http2-rce-check](https://vulners.com/githubexploit/52F408ED-1EB1-573C-9823-4E7A91BC1D50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [50% Off Blue Apron Promo Codes | November 2026](https://www.wired.com/story/blue-apron-coupon/)
   - [A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab](https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/)
@@ -376,6 +390,7 @@
   - [UU远程开始收费：24元/月起，免费版只剩1080P 30帧](https://buaq.net/go-455958.html)
   - [VKVSkimmer: A Free CW and RTTY Skimmer for RTL-SDR, SDRplay and Icom IC-7610 / IC-7760](https://buaq.net/go-455933.html)
   - [北京大学‑中国建设银行“家企共成长”专题培训班走进绿盟科技](https://buaq.net/go-455953.html)
+  - [口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能](https://buaq.net/go-455990.html)
   - [绿盟科技获授“海淀区紫竹院学区科技教育实践基地”称号](https://buaq.net/go-455952.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
