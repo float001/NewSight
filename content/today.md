@@ -5,6 +5,7 @@
   - [UU 远程要推出 VIP 服务了，12.1 日前注册可领取年卡五折专属优惠。](https://2libra.com/post/worth-buying/TWgnZ4G)
   - [《故事会》《意林》](https://2libra.com/post/good-books/GDvq5jN)
   - [【一人食】老北京柴氏 yyds 🍜🍜🍜](https://2libra.com/post/personal-life/5iyyo5E)
+  - [【新用户注册即送 5 刀试用额度】满血中转站-稳定号池不降智 | 支持 Claude、GPT、Gemini、DeepSeek、grok 等主流模型，欢迎老板和企业团队前来试吃！](https://2libra.com/post/promotion/6gCvxu2)
   - [【裁员广进】年底已经开始 lastday1230](https://2libra.com/post/workplace-stories/zZzOkJE)
   - [【💰】请求申请守护者徽章](https://2libra.com/post/forum-function/W08Ebvh)
   - [低精力人群怎么快速回血呢？](https://2libra.com/post/health-consultation/dj4_VC4)
@@ -59,6 +60,7 @@
   - [Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike](https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Fed officials saw October rate hold as a ‘close call,’ minutes show](https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [IOSCO warns quantum upgrades could slow blockchains, leave security gaps](https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger warns Berlin customers as hardware wallet tampering investigation expands](https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [MARA prices $185M debt offering after $1.1B Bitcoin sale](https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Polymarket US takes rapid-fire crypto trading format to oil, natural gas](https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -66,13 +68,18 @@
   - [Singapore settles $77.5M tokenized bill sale with wholesale CBDC](https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Tether invokes The Big Short in swipe at S&P over USDT reserve risks](https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump administration unveils new center to choke off scam payments](https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [IOSCO warns quantum upgrades could slow blockchains, leave security gaps](https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched](https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html)
 - CyberNews
   - [Hacker leaks alleged Mastercard customers’ data: What do we know so far?](https://cybernews.com/security/n0n-ransomware-leaks-alleged-mastercard-customers-data/)
+  - [Hackers leak stolen JPMorgan data about rich people](https://cybernews.com/security/jpmorgan-chase-data-leak-non-ransomware-gang/)
   - [Massive vulnerabilities found in NGINX, open-source server powering a third of all websites](https://cybernews.com/security/nginx-open-source-critical-bugs/)
   - [PHP won’t let admins catch a break: fresh round of critical security patches set to arrive](https://cybernews.com/security/php-fixes-critical-security-vulnerabilities-again/)
   - [PlayStation players still report problems as GTA 6 launch day looms](https://cybernews.com/tech/playstation-outage-gta-6-release/)
+  - [Working from a coffee shop? A Russian spy may be taking screenshots](https://cybernews.com/privacy/palantir-spying-cafe/)
+  - [Your smart TV is watching: Hackers leak 150,000 Samsung viewing records](https://cybernews.com/security/samsung-smart-tv-data-breach/)
 - daringfireball.net
   - [★ The 50-Yard Line](https://daringfireball.net/2026/11/the_50-yard_line)
 - darkreading
@@ -98,6 +105,7 @@
   - [Coinbase 拦截 470 万美元转账，阻止 Elon Musk 深度伪造骗局](http://0.0.0.0:8080/post/64926)
   - [IT 供应商被入侵事件致约 40 家爱尔兰信用社数据泄露](http://0.0.0.0:8080/post/64927)
 - HackerNoon
+  - [Can LLMs Actually Do Quantitative Research? Here's What Quant-Arena Found](https://hackernoon.com/can-llms-actually-do-quantitative-research-heres-what-quant-arena-found?source=rss)
   - [Stop Fixing Vulnerabilities in Production — Fix Them Where They're Born](https://hackernoon.com/stop-fixing-vulnerabilities-in-production-fix-them-where-theyre-born?source=rss)
 - Horizon3.ai
   - [Machine-Speed Offense Is Here. So Is Machine-Speed Proof.](https://horizon3.ai/intelligence/blogs/machine-speed-offense-machine-speed-proof/)
@@ -118,6 +126,7 @@
   - [TryHackMe Walkthrough — Dead Drop](https://infosecwriteups.com/tryhackme-walkthrough-dead-drop-32a88d7a514b?source=rss----7b722bfd1b8d---4)
   - [TryHackMe: Understanding AI Supply Chains — Walkthrough](https://infosecwriteups.com/tryhackme-understanding-ai-supply-chains-walkthrough-dcfc8ce0124d?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
+  - [A Fifth of UK Employees Share Passwords with AI](https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/)
   - [Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server](https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/)
   - [Rakuten Securities Breach Could Impact 15 Million Customers](https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/)
 - johndcook.com
@@ -156,6 +165,8 @@
   - [Sony’s updated turntable is an easy entry into the world of vinyl](https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/)
   - [Spend management platform Payhawk announces $280M raise, 2B valuation](https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/)
 - The Block
+  - [1inch integrates Hyperliquid’s perpetual futures contracts into its dApp and wallet platform](https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574)
+  - [Ant International launches protocol for real-time settlement between tokenized deposits and money market funds](https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586)
   - [Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto](https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491)
   - [Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%](https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456)
   - [CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’](https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471)
@@ -203,6 +214,7 @@
   - [CVE-2026-106094](https://vulners.com/nvd/NVD:CVE-2026-106094?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-108687](https://vulners.com/nvd/NVD:CVE-2026-108687?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109555](https://vulners.com/nvd/NVD:CVE-2026-109555?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-110728](https://vulners.com/nvd/NVD:CVE-2026-110728?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-112163](https://vulners.com/nvd/NVD:CVE-2026-112163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-113425](https://vulners.com/nvd/NVD:CVE-2026-113425?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116443](https://vulners.com/nvd/NVD:CVE-2026-116443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -233,6 +245,9 @@
   - [CVE-2026-125283](https://vulners.com/nvd/NVD:CVE-2026-125283?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-125806](https://vulners.com/nvd/NVD:CVE-2026-125806?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126336](https://vulners.com/nvd/NVD:CVE-2026-126336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126631](https://vulners.com/cve/CVE-2026-126631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126631](https://vulners.com/nvd/NVD:CVE-2026-126631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126631 Openscap: symlink escape in offline scanning mode allows reading host files outside the scanned root](https://vulners.com/cvelist/CVELIST:CVE-2026-126631?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126699](https://vulners.com/nvd/NVD:CVE-2026-126699?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126721](https://vulners.com/nvd/NVD:CVE-2026-126721?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126751](https://vulners.com/nvd/NVD:CVE-2026-126751?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -332,6 +347,8 @@
   - [CVE-2026-132777](https://vulners.com/nvd/NVD:CVE-2026-132777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132778](https://vulners.com/nvd/NVD:CVE-2026-132778?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132798](https://vulners.com/nvd/NVD:CVE-2026-132798?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14491](https://vulners.com/nvd/NVD:CVE-2026-14491?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14492](https://vulners.com/nvd/NVD:CVE-2026-14492?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18045 MFA enforcement bypass on user profile update and delete endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-18045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18075 Revoked OAuth app retains access to real-time events via already-open WebSocket connection](https://vulners.com/cvelist/CVELIST:CVE-2026-18075?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18079 Sessions not revoked on account conversion or auth rebinding via bulk import](https://vulners.com/cvelist/CVELIST:CVE-2026-18079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -381,8 +398,10 @@
   - [CVE-2026-76818](https://vulners.com/nvd/NVD:CVE-2026-76818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76913 NotrinosERP: Authenticated arbitrary file upload leads to remote code execution via HRM employee "Documents" (doc_file)](https://vulners.com/cve/CVE-2026-76913?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-76913 NotrinosERP: Authenticated arbitrary file upload leads to remote code execution via HRM employee "Documents" (doc_file)](https://vulners.com/cvelist/CVELIST:CVE-2026-76913?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-85776](https://vulners.com/nvd/NVD:CVE-2026-85776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91138](https://vulners.com/nvd/NVD:CVE-2026-91138?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-91139](https://vulners.com/nvd/NVD:CVE-2026-91139?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92613](https://vulners.com/nvd/NVD:CVE-2026-92613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-99320 ipv6: raw: fix use-after-free in rawv6_send_hdrinc()](https://vulners.com/cve/CVE-2026-99320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-99320 ipv6: raw: fix use-after-free in rawv6_send_hdrinc()](https://vulners.com/cvelist/CVELIST:CVE-2026-99320?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DHI-D5FM-35XV-V7E5-R2UJ SQLite before 3.53.2 contains an out-of-bounds read vulnerability in the FTS5 full-text search extension that allows…](https://vulners.com/osv_dhi/OSV:DHI-D5FM-35XV-V7E5-R2UJ?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -398,9 +417,11 @@
   - [nginx-http2-rce-check](https://vulners.com/githubexploit/52F408ED-1EB1-573C-9823-4E7A91BC1D50?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle](https://vulners.com/thn/THN:1FBF5B9EF3A8773EE9171F436FE4E45F?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/)
   - [50% Off Blue Apron Promo Codes | November 2026](https://www.wired.com/story/blue-apron-coupon/)
   - [A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab](https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/)
   - [America’s AI Chip War Is Heating Up in the Dumbest Possible Ways](https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/)
+  - [Best Dyson Early Black Friday Vacuum Deals (2026): Dyson V16 Piston Animal, Dyson V15 Detect](https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/)
   - [Best Early Black Friday Phone Deals (2026)](https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/)
   - [Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/)
   - [Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This](https://www.wired.com/story/guys-really-we-got-this/)
@@ -409,6 +430,7 @@
   - [Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly](https://www.wired.com/story/shiftkey-gig-nursing/)
   - [Home Chef Promo Codes for November 2026](https://www.wired.com/story/home-chef-promo-code/)
   - [Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity](https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/)
+  - [Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine](https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/)
   - [Lego Promo Code | 20% Off November 2026](https://www.wired.com/story/lego-promo-code/)
   - [Litter-Robot Promo Codes: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)
   - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
@@ -421,6 +443,7 @@
   - [The ‘GTA 6’ Work Blackout Is Here](https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/)
   - [TurboTax Full Service Coupons This November 2026](https://www.wired.com/story/turbotax-coupon/)
   - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)
+  - [‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down](https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/)
 - 不安全
   - [[领取方法] 谷歌继续加码AI Ultra订阅福利：赠送YouTube Premium家庭版 可6人共享福利](https://buaq.net/go-455964.html)
   - [Aliens_eye v2.11.1](https://buaq.net/go-455963.html)
@@ -429,6 +452,7 @@
   - [VKVSkimmer: A Free CW and RTTY Skimmer for RTL-SDR, SDRplay and Icom IC-7610 / IC-7760](https://buaq.net/go-455933.html)
   - [北京大学‑中国建设银行“家企共成长”专题培训班走进绿盟科技](https://buaq.net/go-455953.html)
   - [口碑非常不错的网易UU远程公布收费方案 年卡238元起 承诺继续提供基础免费功能](https://buaq.net/go-455990.html)
+  - [绿盟科技荣获Frost & Sullivan两项大奖，AI安全创新领导力获国际认可](https://buaq.net/go-456028.html)
   - [绿盟科技获授“海淀区紫竹院学区科技教育实践基地”称号](https://buaq.net/go-455952.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -445,5 +469,7 @@
   - [刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光](https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万](https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 绿盟科技技术博客
+  - [“一网四化，网安护航”——绿盟科技协办支撑2026年“经纬杯”交通运输网络安全大赛决赛](https://blog.nsfocus.net/%e4%b8%80%e7%bd%91%e5%9b%9b%e5%8c%96%ef%bc%8c%e7%bd%91%e5%ae%89%e6%8a%a4%e8%88%aa-%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e5%8d%8f%e5%8a%9e%e6%94%af%e6%92%912026/)
   - [北京大学‑中国建设银行“家企共成长”专题培训班走进绿盟科技](https://blog.nsfocus.net/%e5%8c%97%e4%ba%ac%e5%a4%a7%e5%ad%a6-%e4%b8%ad%e5%9b%bd%e5%bb%ba%e8%ae%be%e9%93%b6%e8%a1%8c%e5%ae%b6%e4%bc%81%e5%85%b1%e6%88%90%e9%95%bf%e4%b8%93%e9%a2%98%e5%9f%b9%e8%ae%ad/)
+  - [绿盟科技荣获Frost & Sullivan两项大奖，AI安全创新领导力获国际认可](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e8%8d%a3%e8%8e%b7frost-sullivan%e4%b8%a4%e9%a1%b9%e5%a4%a7%e5%a5%96%ef%bc%8cai%e5%ae%89%e5%85%a8%e5%88%9b%e6%96%b0%e9%a2%86%e5%af%bc%e5%8a%9b%e8%8e%b7%e5%9b%bd/)
   - [绿盟科技获授“海淀区紫竹院学区科技教育实践基地”称号](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e8%8e%b7%e6%8e%88%e6%b5%b7%e6%b7%80%e5%8c%ba%e7%b4%ab%e7%ab%b9%e9%99%a2%e5%ad%a6%e5%8c%ba%e7%a7%91%e6%8a%80%e6%95%99%e8%82%b2%e5%ae%9e%e8%b7%b5%e5%9f%ba/)
