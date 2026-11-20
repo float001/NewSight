@@ -4,14 +4,17 @@
   - [Gemini 可以无脑冲吗？](https://2libra.com/post/ai-tools/yqyDabP)
   - [MiniMax Code 的 logo 你们第一反应是啥？](https://2libra.com/post/ai-tools/Aax2eqN)
   - [Proxy001 静态 IP ：住宅独享 $2.9、共享 $0.6、机房 $1.9，按需选不花冤枉钱](https://2libra.com/post/promotion/aARkAOE)
+  - [【T2·金币悬赏】Third Party 2Libra 图标](https://2libra.com/post/brainstorming/2HtAJTz)
   - [【兑换码】LibraX - 2Libra iPhone 原生客户端发布了，欢迎 2 友下载体验](https://2libra.com/post/personal-works/3tqezJX)
   - [【投票】这个月红了吗？](https://2libra.com/post/angel-investment/rl5dNtt)
   - [【运动打卡】保持正念，不要给自己压力](https://2libra.com/post/sports/hdz_1Zx)
   - [一只无头的苍蝇](https://2libra.com/post/workplace-stories/kpsoIGF)
   - [只要 HTTPS 协议名里的 S 改成大写，PHP 就可能会漏开 TLS 导致数据通过明文传输](https://2libra.com/post/network-security/t_GnO0r)
+  - [大 A 星期五打折促销了，打骨折](https://2libra.com/post/stock-market/j16Trtv)
   - [好烦啊，这几天的潘多拉一直是金色](https://2libra.com/post/forum-function/ZRHBEtg)
   - [我有个疑问，关于 agent 的](https://2libra.com/post/ai-applications/vavLcHD)
   - [抽到这个你转不转？](https://2libra.com/post/forum-function/9zu5Q7d)
+  - [最新的 Lenny's 产品大礼包有没有人买？感觉挺值的](https://2libra.com/post/worth-buying/g8HzGuo)
   - [潘多拉](https://2libra.com/post/forum-function/6i4GPFd)
   - [现在的薪资水平已经回到 2000 年左右了吗？](https://2libra.com/post/workplace-stories/Ac2WjPH)
   - [用 CC Switch 给 Claude Code 和 Codex 接自定义 API](https://2libra.com/post/open-source-tools/3ByC4sl)
@@ -20,6 +23,7 @@
   - [老哥们，谁有便宜的主机，越便宜越好，我要十几台](https://2libra.com/post/servers/-TykOEp)
   - [胖东来撤出后租金跌至 400 万，商场依旧无人接盘](https://2libra.com/post/social-observation/S5iUDRY)
   - [那些早期订阅了国内 coding/token plan 包年的，现在怎么样啦？](https://2libra.com/post/ai-programming/67zTZ_4)
+  - [都来看我的动图头像](https://2libra.com/post/slacking-off/TB13s0M)
   - [雷鸟 App 出 bug，把智记提示词漏出来了](https://2libra.com/post/prompts/W48r8r1)
   - [馒头挂了吗](https://2libra.com/post/help-requests/Ok_s7oX)
   - [🌐 全球云服务器代理折扣｜多家云厂商渠道优惠](https://2libra.com/post/promotion/hi36MOh)
@@ -67,6 +71,7 @@
 - Fidelis Security
   - [NDR ROI Analysis for Enterprise Security Teams: What the 2026 Numbers Actually Show](https://fidelissecurity.com/threatgeek/network-security/ndr-roi-analysis-for-enterprise-security/)
 - Hacker News Frontpage
+  - ["I can tell you wrote this yourself"](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
   - [Chile: UFO Sightings by 18th Century Jesuits](https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html)
   - [Claude Fable 5.2 solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
   - [Google Chrome dev team declares bug report bankruptcy](https://blog.plover.com/tech/bug-reports.html)
@@ -77,6 +82,8 @@
   - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
   - [UK Government Forced to Admit It Issued Apple a Secret Encryption Order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
   - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
+- HackerNews
+  - [Drupal 修复严重远程代码执行漏洞，警告漏洞利用可能很快出现](http://0.0.0.0:8080/post/64933)
 - Horizon3.ai
   - [CVE-2026-114924 / CVE-2026-114925 | Oracle E-Business Suite Authorization Bypass & Remote Code Execution Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-114924-cve-2026-114925/)
   - [CVE-2026-132165 | Drupal Core Installer Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-132165/)
@@ -124,6 +131,7 @@
   - [Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling](https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152)
   - [Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
   - [Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks](https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133)
+  - [Michael Saylor sees up to $7.5 billion in ‘natural demand’ for Strategy’s STRC preferred stock](https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190)
   - [Tokenized Stocks Shrug Off the Crypto Selloff](https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829)
 - The Decoder
   - [AI industry growth remains strong, but the pace is slowing](https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/)
@@ -439,8 +447,16 @@
   - [Walgreens Photo Coupons: Up to 70% Off This November 2026](https://www.wired.com/story/walgreens-photo-coupon/)
   - [What’s With All These Outages?](https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/)
 - 不安全
+  - [authentik version/2026.8.6](https://buaq.net/go-456261.html)
   - [HackerGadgets Releases a 4-in-1 RTL-SDR, LoRa, GPS and RTC HAT for the Raspberry Pi](https://buaq.net/go-456218.html)
   - [New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It](https://buaq.net/go-456245.html)
+  - [Nginx多个远程代码执行漏洞（CVE-2026-123007/CVE-2026-123634/CVE-2026-123633/CVE-2026-121810/CVE-2026-113425）通告](https://buaq.net/go-456267.html)
+  - [PHP远程代码执行漏洞（CVE-2026-126714）通告](https://buaq.net/go-456265.html)
+  - [Ruby远程代码执行漏洞（CVE-2026-132825）通告](https://buaq.net/go-456264.html)
+  - [Vite远程代码执行漏洞通告](https://buaq.net/go-456266.html)
+  - [VMware vCenter身份验证绕过漏洞（CVE-2026-123890）通告](https://buaq.net/go-456263.html)
+  - [在苹果手机中装安卓系统｜Andarium 已下架](https://buaq.net/go-456259.html)
+  - [本周赛博领鸡蛋（11.20~11.26）：《深渊之印》《Lonesome Village》](https://buaq.net/go-456260.html)
   - [终于！OpenAI开始向部分ChatGPT Plus用户测试ChatGPT Dots智能体](https://buaq.net/go-456240.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -448,6 +464,12 @@
   - [AI Agent 元年，苹果是最后一个入局的巨头](https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [触屏只是它最不起眼的升级｜MacBook PROLED 评测](https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 绿盟科技技术博客
+  - [Nginx多个远程代码执行漏洞（CVE-2026-123007/CVE-2026-123634/CVE-2026-123633/CVE-2026-121810/CVE-2026-113425）通告](https://blog.nsfocus.net/nginx%e5%a4%9a%e4%b8%aa%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-123007-cve-2026-123634-cve-2026-123633-cve-2026-121810-cve-2026-113425%ef%bc%89/)
+  - [PHP远程代码执行漏洞（CVE-2026-126714）通告](https://blog.nsfocus.net/php%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-126714%ef%bc%89%e9%80%9a%e5%91%8a/)
+  - [Ruby远程代码执行漏洞（CVE-2026-132825）通告](https://blog.nsfocus.net/ruby%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-132825%ef%bc%89%e9%80%9a%e5%91%8a/)
+  - [Vite远程代码执行漏洞通告](https://blog.nsfocus.net/vite%e8%bf%9c%e7%a8%8b%e4%bb%a3%e7%a0%81%e6%89%a7%e8%a1%8c%e6%bc%8f%e6%b4%9e%e9%80%9a%e5%91%8a/)
+  - [VMware vCenter身份验证绕过漏洞（CVE-2026-123890）通告](https://blog.nsfocus.net/vmware-vcenter%e8%ba%ab%e4%bb%bd%e9%aa%8c%e8%af%81%e7%bb%95%e8%bf%87%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-123890%ef%bc%89%e9%80%9a%e5%91%8a/)
 - 量子位 QbitAI
   - [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
   - [双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！](https://www.qbitai.com/2026/11/511582.html)
