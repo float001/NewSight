@@ -20,6 +20,7 @@
   - [Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns](https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price](https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ledger CTO Charles Guillemet to leave after nine years at company](https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading](https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Why higher rates could slow Bitcoin buying at treasury firms](https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -49,19 +50,26 @@
   - [RegExr: Temporarily Offline](https://regexr.com/)
   - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
   - [UK Government Forced to Admit It Issued Apple a Secret Encryption Order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
+  - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
 - Horizon3.ai
   - [CVE-2026-114924 / CVE-2026-114925 | Oracle E-Business Suite Authorization Bypass & Remote Code Execution Vulnerabilities](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-114924-cve-2026-114925/)
   - [CVE-2026-132165 | Drupal Core Installer Remote Code Execution Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-132165/)
+- idiallo.com
+  - [Another company I've never heard of lost my Data](https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring)
 - IEEE Spectrum
   - [Community-Focused Academic Brings AI Tools to Colorado Farmers](https://spectrum.ieee.org/ai-tools-for-rural-communities)
+- Pen Test Partners
+  - [The fridge hack UK supermarkets narrowly avoided?](https://www.pentestpartners.com/security-blog/the-fridge-hack-uk-supermarkets-narrowly-avoided/)
 - simonwillison.net
   - [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/)
 - Sploitus.com Exploits RSS Feed
+  - [awesome-security exploit](https://sploitus.com/exploit?id=FB806C95-CFFF-51AA-93C9-552ACE336E67&utm_source=rss&utm_medium=rss)
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)
   - [Anthropic’s IPO could deliver $156 billion to charity](https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/)
   - [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)
+  - [Elon Musk says SpaceX has a plan to eliminate cell phone dead zones](https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/)
   - [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/)
   - [Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
   - [Meta’s AI agent Muse is mixing up conversations and exposing private data, report says](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
@@ -101,6 +109,7 @@
   - [You can grab two months of Paramount Plus for just $2.99 for Black Friday](https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale)
   - [You can now buy a Steam Machine without getting on a waitlist](https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply)
 - Vulners.com RSS Feed
+  - [awesome-security](https://vulners.com/gitee/FB806C95-CFFF-51AA-93C9-552ACE336E67?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-71472](https://vulners.com/nvd/NVD:CVE-2025-71472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102770](https://vulners.com/nvd/NVD:CVE-2026-102770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106012](https://vulners.com/nvd/NVD:CVE-2026-106012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -292,6 +301,7 @@
   - [GHSA-VG83-HCP4-5QCC DOMShell: domshell_eval classified as read-tier can execute side-effecting JavaScript without --allow-write](https://vulners.com/osv_ghsa/OSV:GHSA-VG83-HCP4-5QCC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Maodie-purge](https://vulners.com/gitee/D625E0CF-0206-56A5-A259-F80412342FD1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women](https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/)
   - [The Best Hatch Black Friday Deals (2026)](https://www.wired.com/story/hatch-black-friday-deals-2026/)
   - [The Jensen Huang Blast Radius Has Hit His Favorite Restaurants](https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/)
   - [What’s With All These Outages?](https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/)
