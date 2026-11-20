@@ -56,6 +56,8 @@
 - darkreading
   - [Navigating Vulnerability Hysteria in the AI Era](https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era)
   - [Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering](https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering)
+- Darren Martyn
+  - [The Digest Method: How I Follow a Whole Motorsport Season in One Curated Evening](https://darrenmartyn.ie/2026/11/20/the-digest-method-how-i-follow-a-whole-motorsport-season-in-one-curated-evening/)
 - Fidelis Security
   - [NDR ROI Analysis for Enterprise Security Teams: What the 2026 Numbers Actually Show](https://fidelissecurity.com/threatgeek/network-security/ndr-roi-analysis-for-enterprise-security/)
 - Hacker News Frontpage
@@ -87,6 +89,11 @@
 - Sploitus.com Exploits RSS Feed
   - [awesome-security exploit](https://sploitus.com/exploit?id=FB806C95-CFFF-51AA-93C9-552ACE336E67&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-123890](https://sploitus.com/exploit?id=6E5A4FB4-3337-5EAC-A424-76B155DCD897&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-129448](https://sploitus.com/exploit?id=BB0E1DC0-D82C-5FC2-8274-8B566E9FF6EE&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-132747](https://sploitus.com/exploit?id=F11C3E16-F729-5913-A3E4-EDF6543234DB&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-132748](https://sploitus.com/exploit?id=7BC0A70B-1E70-5BA5-B8E4-4384324B472E&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-132749](https://sploitus.com/exploit?id=EDDB8FEB-0598-5742-A312-393E22A03633&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in Samsung Android](https://sploitus.com/exploit?id=6A15B4A1-2AA7-57CD-B594-7C1F20075D84&utm_source=rss&utm_medium=rss)
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/)
@@ -106,6 +113,7 @@
   - [Want to see your live AI usage on your Mac’s icons? This clever new app lets you](https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/)
 - The Block
   - [CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US](https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106)
+  - [Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling](https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152)
   - [Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking](https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615)
   - [Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks](https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133)
   - [Tokenized Stocks Shrug Off the Crypto Selloff](https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829)
@@ -141,6 +149,7 @@
   - [CVE-2026-102770](https://vulners.com/nvd/NVD:CVE-2026-102770?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-106012](https://vulners.com/nvd/NVD:CVE-2026-106012?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-109920](https://vulners.com/nvd/NVD:CVE-2026-109920?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113347](https://vulners.com/nvd/NVD:CVE-2026-113347?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114516](https://vulners.com/nvd/NVD:CVE-2026-114516?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115515](https://vulners.com/nvd/NVD:CVE-2026-115515?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-116561](https://vulners.com/nvd/NVD:CVE-2026-116561?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -271,8 +280,16 @@
   - [CVE-2026-133430](https://vulners.com/nvd/NVD:CVE-2026-133430?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133476](https://vulners.com/nvd/NVD:CVE-2026-133476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133477 sofastack sofa-bolt TLS Stack AbstractConnectionFactory.java initSSLContext certificate host validation](https://vulners.com/cvelist/CVELIST:CVE-2026-133477?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133480](https://vulners.com/nvd/NVD:CVE-2026-133480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133481](https://vulners.com/nvd/NVD:CVE-2026-133481?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133482](https://vulners.com/nvd/NVD:CVE-2026-133482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133484 ByteDance Lark Desktop backend.dll FUN_18001ba40 signed conversion](https://vulners.com/cve/CVE-2026-133484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133484 ByteDance Lark Desktop backend.dll FUN_18001ba40 signed conversion](https://vulners.com/cvelist/CVELIST:CVE-2026-133484?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133494](https://vulners.com/nvd/NVD:CVE-2026-133494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133536](https://vulners.com/nvd/NVD:CVE-2026-133536?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133537](https://vulners.com/nvd/NVD:CVE-2026-133537?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133553](https://vulners.com/nvd/NVD:CVE-2026-133553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-15223](https://vulners.com/nvd/NVD:CVE-2026-15223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-18883](https://vulners.com/nvd/NVD:CVE-2026-18883?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22062](https://vulners.com/nvd/NVD:CVE-2026-22062?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-22308](https://vulners.com/nvd/NVD:CVE-2026-22308?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -334,6 +351,11 @@
   - [DHI-WXNL-2H7J-2AYI-CHXC ssl.SSLContext.wrap_bio() didn't require the server_hostname argument](https://vulners.com/osv_dhi/OSV:DHI-WXNL-2H7J-2AYI-CHXC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DHI-XJZS-SWUZ-QQEQ-PNIR The incremental HTML parser (html.parser.HTMLParser) allows for CPU](https://vulners.com/osv_dhi/OSV:DHI-XJZS-SWUZ-QQEQ-PNIR?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DHI-ZB5U-4THD-OQ2X-7XK7 Effect is a TypeScript framework that consists of several packages that work together to help build TypeScript…](https://vulners.com/osv_dhi/OSV:DHI-ZB5U-4THD-OQ2X-7XK7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-129448](https://vulners.com/githubexploit/BB0E1DC0-D82C-5FC2-8274-8B566E9FF6EE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-132747](https://vulners.com/githubexploit/F11C3E16-F729-5913-A3E4-EDF6543234DB?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-132748](https://vulners.com/githubexploit/7BC0A70B-1E70-5BA5-B8E4-4384324B472E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-132749](https://vulners.com/githubexploit/EDDB8FEB-0598-5742-A312-393E22A03633?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for Use After Free in Samsung Android](https://vulners.com/githubexploit/6A15B4A1-2AA7-57CD-B594-7C1F20075D84?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-3FHM-P725-H3G3 Refitter allows arbitrary code execution through unescaped OpenAPI paths](https://vulners.com/osv_ghsa/OSV:GHSA-3FHM-P725-H3G3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-58X9-VJVP-6MX8 Refitter allows code execution through unescaped OpenAPI header parameter names](https://vulners.com/osv_ghsa/OSV:GHSA-58X9-VJVP-6MX8?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-6PM8-6F34-9V3G Flyto2 Core: SSRF guard bypass via DNS rebinding (validate_url_ssrf resolves-then-connects without pinning)](https://vulners.com/osv_ghsa/OSV:GHSA-6PM8-6F34-9V3G?utm_source=rss&utm_medium=rss&utm_campaign=rss)
