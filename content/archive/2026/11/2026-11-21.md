@@ -11,20 +11,33 @@
 - Hacker News Frontpage
   - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
   - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+  - [PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19)
+  - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
 - Horizon3.ai
   - [When the Vulnerability Backlog Stops Calling the Shots](https://horizon3.ai/customer-story/law-firm-vulnerability-prioritization/)
 - infosecurity-magazine.com
   - [JPMorgan Confirms Customer Data Breach Following Third-Party Compromise](https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/)
 - simonwillison.net
   - [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/)
+- Sploitus.com Exploits RSS Feed
+  - [CVE-2025-70899 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAVAMOORTHI-CVE-2025-70899&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-133626](https://sploitus.com/exploit?id=9241D032-819F-5FB5-B2AE-599DFF3C675F&utm_source=rss&utm_medium=rss)
+  - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=50D3D2AC-741E-58F6-B238-A776C3F49BFD&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=3992341F-1475-510A-880C-7A5380BD3270&utm_source=rss&utm_medium=rss)
+  - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=58961474-F907-5965-844B-93E519399A6A&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Bending Spoons buys Mailchimp for $3.68 billion](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)
+  - [Chips can survive the space environment. Can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
 - The Block
   - [Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds](https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747)
 - The Verge
   - [Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives](https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director)
   - [Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem)
   - [Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION](https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview)
+  - [Google says it’s going to shut off Google Assistant on smart speakers next year](https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down)
+  - [Here are the Apple deals actually worth picking up ahead of Black Friday](https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [CVE-2026-102769](https://vulners.com/nvd/NVD:CVE-2026-102769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115407](https://vulners.com/cve/CVE-2026-115407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -43,3 +56,6 @@
   - [Don’t Bring Jensen Back](https://www.wired.com/story/dont-bring-jensen-back/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [内核全版本中招，AI帮着补上了利用链](https://www.anquanke.com/post/id/316528)
+  - [谷歌给出倒计时：半年内，AI 会自己找洞、自己打进来](https://www.anquanke.com/post/id/316525)
