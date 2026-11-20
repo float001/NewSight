@@ -5,16 +5,19 @@
   - [MiniMax Code 的 logo 你们第一反应是啥？](https://2libra.com/post/ai-tools/Aax2eqN)
   - [Proxy001 静态 IP ：住宅独享 $2.9、共享 $0.6、机房 $1.9，按需选不花冤枉钱](https://2libra.com/post/promotion/aARkAOE)
   - [【兑换码】LibraX - 2Libra iPhone 原生客户端发布了，欢迎 2 友下载体验](https://2libra.com/post/personal-works/3tqezJX)
+  - [【投票】这个月红了吗？](https://2libra.com/post/angel-investment/rl5dNtt)
   - [【运动打卡】保持正念，不要给自己压力](https://2libra.com/post/sports/hdz_1Zx)
   - [好烦啊，这几天的潘多拉一直是金色](https://2libra.com/post/forum-function/ZRHBEtg)
   - [我有个疑问，关于 agent 的](https://2libra.com/post/ai-applications/vavLcHD)
   - [抽到这个你转不转？](https://2libra.com/post/forum-function/9zu5Q7d)
   - [潘多拉](https://2libra.com/post/forum-function/6i4GPFd)
+  - [现在的薪资水平已经回到 2000 年左右了吗？](https://2libra.com/post/workplace-stories/Ac2WjPH)
   - [看 GTA6 直播看魔了](https://2libra.com/post/game-discussion/Q3cjnDn)
   - [积存金为什么一直在跌](https://2libra.com/post/angel-investment/F4kISBH)
   - [那些早期订阅了国内 coding/token plan 包年的，现在怎么样啦？](https://2libra.com/post/ai-programming/67zTZ_4)
   - [雷鸟 App 出 bug，把智记提示词漏出来了](https://2libra.com/post/prompts/W48r8r1)
   - [馒头挂了吗](https://2libra.com/post/help-requests/Ok_s7oX)
+  - [🌐 全球云服务器代理折扣｜多家云厂商渠道优惠](https://2libra.com/post/promotion/hi36MOh)
 - 404 Media
   - [To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker](https://www.404media.co/ransomware-fraud-attack-fbi-indictment/)
 - Ars Technica
@@ -33,6 +36,7 @@
   - [Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns](https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price](https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Institutions pile back into US Bitcoin ETFs in Q3 after selling streak](https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger CTO Charles Guillemet to leave after nine years at company](https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading](https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Why higher rates could slow Bitcoin buying at treasury firms](https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -75,6 +79,8 @@
   - [The fridge hack UK supermarkets narrowly avoided?](https://www.pentestpartners.com/security-blog/the-fridge-hack-uk-supermarkets-narrowly-avoided/)
 - rtl-sdr.com
   - [FoxSDR Update: New Main Window, 89 Plugins and a Call for RTL-SDR Beta Testers](https://www.rtl-sdr.com/foxsdr-update-new-main-window-89-plugins-and-a-call-for-rtl-sdr-beta-testers/)
+  - [HackerGadgets Releases a 4-in-1 RTL-SDR, LoRa, GPS and RTC HAT for the Raspberry Pi](https://www.rtl-sdr.com/hackergadgets-releases-a-4-in-1-rtl-sdr-lora-gps-and-rtc-hat-for-the-raspberry-pi/)
+  - [SDR# VDK: Create Your Own SDR# Plugins by Prompting an AI Coding Agent](https://www.rtl-sdr.com/sdr-vdk-create-your-own-sdr-plugins-by-prompting-an-ai-coding-agent/)
 - simonwillison.net
   - [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/)
   - [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)
@@ -345,10 +351,15 @@
   - [The Best Hatch Black Friday Deals (2026)](https://www.wired.com/story/hatch-black-friday-deals-2026/)
   - [The Jensen Huang Blast Radius Has Hit His Favorite Restaurants](https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/)
   - [What’s With All These Outages?](https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/)
+- 不安全
+  - [HackerGadgets Releases a 4-in-1 RTL-SDR, LoRa, GPS and RTC HAT for the Raspberry Pi](https://buaq.net/go-456218.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [AI Agent 元年，苹果是最后一个入局的巨头](https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [触屏只是它最不起眼的升级｜MacBook PROLED 评测](https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
+- 黑海洋
+  - [摩根大通、Visa及万事达卡外部服务商遭黑客攻击](https://blog.upx8.com/%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A-Visa%E5%8F%8A%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%8D%A1%E5%A4%96%E9%83%A8%E6%9C%8D%E5%8A%A1%E5%95%86%E9%81%AD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
