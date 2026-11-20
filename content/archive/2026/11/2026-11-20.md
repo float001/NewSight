@@ -49,6 +49,7 @@
 - CoinTelegraph
   - [Anthropic shares open at $111.50, 34.3% above $83 IPO price](https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s](https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip](https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express](https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest](https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price ignores Anthropic debut as ANT share price dips below $100](https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -74,6 +75,7 @@
   - [Anthropic's blockbuster debut tests Wall Street's faith in AI boom](https://cybernews.com/tech/anthropics-blockbuster-debut-ipo/)
   - [Disgruntled researcher cooks again: Windows 11 lock screen bypassed using Narrator, no patch available](https://cybernews.com/security/nightmare-eclipse-windows-lock-screen-bypass/)
   - [Google is waging war against us, GrapheneOS says, mentions prison time](https://cybernews.com/news/google-grapheneos-accusations-antitrust/)
+  - [London public transport hit by another cyberattack, exposing data of 265K Oyster photocard users](https://cybernews.com/news/oyster-data-breach/)
 - daringfireball.net
   - [Anthropic IPOs, Topping SpaceX for the Largest Ever](https://www.techmeme.com/261118/p34#a261118p34)
   - [Google’s Spark AI Agent Becomes ‘Tasks’](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link)
@@ -99,6 +101,7 @@
   - [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
   - [UK Government Forced to Admit It Issued Apple a Secret Encryption Order](https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/)
   - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
+  - [Why do tech leaders sound so illogical and off-putting?](https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/)
 - HackerNews
   - [Drupal 修复严重远程代码执行漏洞，警告漏洞利用可能很快出现](http://0.0.0.0:8080/post/64933)
 - Horizon3.ai
@@ -109,6 +112,8 @@
 - IEEE Spectrum
   - [Community-Focused Academic Brings AI Tools to Colorado Farmers](https://spectrum.ieee.org/ai-tools-for-rural-communities)
 - infosecurity-magazine.com
+  - [JPMorgan Confirms Customer Data Breach Following Third-Party Compromise](https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/)
+  - [Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams](https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/)
   - [Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain](https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/)
 - Pen Test Partners
   - [The fridge hack UK supermarkets narrowly avoided?](https://www.pentestpartners.com/security-blog/the-fridge-hack-uk-supermarkets-narrowly-avoided/)
@@ -181,6 +186,7 @@
   - [Sonos is taking up to 30 percent off speakers and soundbars right now](https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale)
   - [Sony’s WH-1000XM5 are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale)
   - [The Verge’s 2026 fitness and wellness gift guide](https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026)
+  - [Why the robots are ditching Uber](https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships)
   - [You can grab two months of Paramount Plus for just $2.99 for Black Friday](https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale)
   - [You can now buy a Steam Machine without getting on a waitlist](https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply)
 - Vulners.com RSS Feed
@@ -541,12 +547,16 @@
   - [Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?](https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/)
   - [Groupon Promo Codes: 60% Off in November 2026](https://www.wired.com/story/groupon-promo-code/)
   - [iRobot Promo Code: 15% Off](https://www.wired.com/story/irobot-promo-code/)
+  - [Muse Is Unleashing a World of Pettiness on Instagram](https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/)
   - [Regular Tech Bros Are Worried About Honeypots](https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/)
+  - [The 36 Best REI Holiday Sale Outdoor Deals (2026)](https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/)
   - [The Best Gifts for the Techie in Your Life (2026)](https://www.wired.com/story/best-tech-gifts-2026/)
   - [The Best Hatch Black Friday Deals (2026)](https://www.wired.com/story/hatch-black-friday-deals-2026/)
   - [The Jensen Huang Blast Radius Has Hit His Favorite Restaurants](https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/)
+  - [The Smart Ring Goes to Church](https://www.wired.com/story/smart-ring-goes-to-church/)
   - [Walgreens Photo Coupons: Up to 70% Off This November 2026](https://www.wired.com/story/walgreens-photo-coupon/)
   - [What’s With All These Outages?](https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/)
+  - [Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You](https://www.wired.com/story/which-macbook-should-you-buy/)
   - [‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Through It Would Be a Mistake](https://www.wired.com/story/gta-vi-is-finally-out-dont-rush-it/)
 - 不安全
   - [authentik version/2026.8.6](https://buaq.net/go-456261.html)
