@@ -7,6 +7,8 @@
 - Ars Technica
   - [A leaky AI supply chain is exposing secret user data at an alarming rate](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
   - [Army delays detonating "catastrophically hazardous" lead azide amid fear, anger](https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/)
+  - [Google's latest search page redesign drops the search button, adds AI sidebar](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/)
+  - [Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/)
   - [NASA’s new Moon plan is taking shape, but some big questions remain](https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/)
   - [Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)
   - [Valve says it might have to raise the price of supply-limited Steam Machines](https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/)
@@ -19,6 +21,8 @@
   - [Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit](https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [In Security, Words Matter as Much as Tools, Maybe More](https://www.darkreading.com/cybersecurity-operations/security-words-matter)
+- GuidePoint Security
+  - [What’s Really Behind the Recent Tech Outages?](https://www.guidepointsecurity.com/blog/recent-tech-outages-patch-management/)
 - Hacker News Frontpage
   - [And Yet, It Moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
   - [Combatting Adversarial Distillation](https://openai.com/index/combatting-adversarial-distillation/)
@@ -58,6 +62,7 @@
   - [Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
 - The Block
   - [Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic](https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758)
+  - [DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high](https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784)
   - [JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost](https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763)
   - [Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program](https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779)
   - [Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds](https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747)
