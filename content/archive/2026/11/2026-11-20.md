@@ -44,6 +44,7 @@
   - [MAHA PAC spent more on steak, luxury club than candidates, report shows](https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/)
   - [Man hired by Russia spied on Silicon Valley tech and defense company, feds say](https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/)
   - [Only the Seminole tribe can offer online gambling in Florida—and they're furious at DraftKings](https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/)
+  - [Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone](https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/)
   - [Science has a home here at Ars—please help keep it that way](https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/)
   - [Traumatized teens sue school, cops after Doritos bag triggers AI gun alert](https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/)
 - ByteByteGo
@@ -60,6 +61,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price](https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Institutions pile back into US Bitcoin ETFs in Q3 after selling streak](https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Lagarde warns Europe could miss chance to unify tokenized markets](https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ledger CTO Charles Guillemet to leave after nine years at company](https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading](https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [VanEck to end Gemini ETF custody deals, keeps Coinbase](https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -75,10 +77,13 @@
 - CyberNews
   - [Airline urges travelers to block cards after hackers breach ticket booking platform](https://cybernews.com/security/airline-data-breach-credit-card-block/)
   - [Anthropic's blockbuster debut tests Wall Street's faith in AI boom](https://cybernews.com/tech/anthropics-blockbuster-debut-ipo/)
+  - [Boeing data breach allegations put decades of data at risk](https://cybernews.com/security/boeing-data-breach-military-helicopters/)
   - [Covert operation saves tens of thousands of UK fridges from rogue hackers](https://cybernews.com/security/united-kingdom-fridges-covert-cybersecurity-operation/)
   - [Disgruntled researcher cooks again: Windows 11 lock screen bypassed using Narrator, no patch available](https://cybernews.com/security/nightmare-eclipse-windows-lock-screen-bypass/)
   - [Google is waging war against us, GrapheneOS says, mentions prison time](https://cybernews.com/news/google-grapheneos-accusations-antitrust/)
+  - [iOS Becomes an Ad-Fraud Target in Its Own Right: Malicious iOS Scripts Hit 1 in 5 Advertiser Suspensions](https://cybernews.com/press-releases/ios-becomes-an-ad-fraud-target-in-its-own-right-malicious-ios-scripts-hit-1-in-5-advertiser-suspensions/)
   - [London public transport hit by another cyberattack, exposing data of 265K Oyster photocard users](https://cybernews.com/news/oyster-data-breach/)
+  - [Signal restricts screenshots](https://cybernews.com/privacy/signal-restricts-screenshots/)
 - daringfireball.net
   - [Anthropic IPOs, Topping SpaceX for the Largest Ever](https://www.techmeme.com/261118/p34#a261118p34)
   - [Google’s Spark AI Agent Becomes ‘Tasks’](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link)
@@ -118,6 +123,8 @@
   - [JPMorgan Confirms Customer Data Breach Following Third-Party Compromise](https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/)
   - [Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams](https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/)
   - [Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain](https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/)
+- MIT Technology Review
+  - [The Download: inside the quest to make our minds immortal](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/)
 - Pen Test Partners
   - [The fridge hack UK supermarkets narrowly avoided?](https://www.pentestpartners.com/security-blog/the-fridge-hack-uk-supermarkets-narrowly-avoided/)
 - pluralistic.net
@@ -150,11 +157,14 @@
   - [Anthropic’s IPO could deliver $156 billion to charity](https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/)
   - [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)
   - [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)
+  - [Behind Jensen Huang’s exit, questions about a management style reportedly built on fear](https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/)
+  - [California AG subpoenas Nvidia over worries about Huang’s ties with China](https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/)
   - [Elon Musk says SpaceX has a plan to eliminate cell phone dead zones](https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/)
   - [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/)
   - [Google gives Gemini the ability to use your Mac for you](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
   - [Meta’s AI agent Muse is mixing up conversations and exposing private data, report says](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
   - [Meta’s new Muse Charm device may cost $300](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)
+  - [Six AI-powered gadgets that could make your home office smarter](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)
   - [The U.S. national cyber director is stepping down](https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/)
   - [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
   - [These tech outages are giving Y2K, AI agent style](https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/)
@@ -175,6 +185,7 @@
   - [AI industry growth remains strong, but the pace is slowing](https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/)
   - [An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool](https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/)
   - [Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears](https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/)
+  - [Google's latest homepage update pushes its search engine further toward an AI answer engine](https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/)
 - The Verge
   - [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)
   - [Amazon is pushing alerts opposing NYC’s Delivery Protection Act](https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act)
@@ -606,6 +617,7 @@
   - [The 36 Best REI Holiday Sale Outdoor Deals (2026)](https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/)
   - [The Best Gifts for the Techie in Your Life (2026)](https://www.wired.com/story/best-tech-gifts-2026/)
   - [The Best Hatch Black Friday Deals (2026)](https://www.wired.com/story/hatch-black-friday-deals-2026/)
+  - [The Best Pura Deals for Cyber Week (2026)](https://www.wired.com/story/pura-black-friday-2026/)
   - [The Birdfy Gifts I’d Buy for Backyard Birders](https://www.wired.com/story/best-birdfy-gifts-2026/)
   - [The Jensen Huang Blast Radius Has Hit His Favorite Restaurants](https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/)
   - [The Smart Ring Goes to Church](https://www.wired.com/story/smart-ring-goes-to-church/)
