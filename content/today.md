@@ -3,15 +3,19 @@
 - 2Libra
   - [Gemini 这次似乎真站起来了](https://2libra.com/post/large-models/rRSWT5w)
 - Ars Technica
+  - [Army delays detonating "catastrophically hazardous" lead azide amid fear, anger](https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/)
+  - [Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)
   - [Valve says it might have to raise the price of supply-limited Steam Machines](https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/)
 - Bitdefender Labs
   - [Fake GTA VI PC client spreads malware through a ClickFix attack](https://www.bitdefender.com/en-us/blog/labs/fake-gta-vi-pc-client-malware-clickfix)
 - CoinTelegraph
   - [Bitcoin falls below $60K for first time since July amid broader market selloff](https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims](https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit](https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [In Security, Words Matter as Much as Tools, Maybe More](https://www.darkreading.com/cybersecurity-operations/security-words-matter)
 - Hacker News Frontpage
+  - [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
   - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
   - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
   - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
@@ -27,6 +31,7 @@
   - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
 - simonwillison.net
   - [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/)
+  - [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/)
 - Sploitus.com Exploits RSS Feed
   - [CVE-2025-70899 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAVAMOORTHI-CVE-2025-70899&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-133626](https://sploitus.com/exploit?id=9241D032-819F-5FB5-B2AE-599DFF3C675F&utm_source=rss&utm_medium=rss)
@@ -34,22 +39,28 @@
   - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=3992341F-1475-510A-880C-7A5380BD3270&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=58961474-F907-5965-844B-93E519399A6A&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
   - [Bending Spoons buys Mailchimp for $3.68 billion](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)
   - [Chips can survive the space environment. Can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
+  - [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
   - [Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
 - The Block
   - [Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic](https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758)
   - [JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost](https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763)
+  - [Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program](https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779)
   - [Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds](https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747)
 - The Decoder
   - [Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working](https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/)
+  - [Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats](https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/)
 - The Verge
   - [Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives](https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director)
   - [Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem)
   - [Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION](https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview)
+  - [Eufy’s Omni C28 is 53 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale)
   - [Google says it’s going to shut off Google Assistant on smart speakers next year](https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down)
   - [Here are the Apple deals actually worth picking up ahead of Black Friday](https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026)
   - [Multiplying your Switch 2’s storage costs less than usual right now](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale)
+  - [Rockstar says GTA VI made $3.79 billion in its first day](https://www.theverge.com/games/1036279/gta-vi-sales)
   - [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate](https://blog.qualys.com/category/qualys-insights)
@@ -117,6 +128,7 @@
   - [Premium: Bursting Bubbles](https://www.wheresyoured.at/premium-bursting-bubbles/)
 - Wired
   - [Don’t Bring Jensen Back](https://www.wired.com/story/dont-bring-jensen-back/)
+  - [Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
