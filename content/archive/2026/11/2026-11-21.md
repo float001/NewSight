@@ -11,6 +11,8 @@
   - [Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/)
   - [NASA’s new Moon plan is taking shape, but some big questions remain](https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/)
   - [Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/)
+  - [SpaceX's Starshield troubles in Ukraine could threaten its broader military business](https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/)
+  - [Trump FCC declares California isn't allowed to enforce phone service rules](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/)
   - [Valve says it might have to raise the price of supply-limited Steam Machines](https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/)
   - [Watching as a giant star swallowed its neighbor and exploded](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/)
 - Bitdefender Labs
@@ -21,6 +23,8 @@
   - [Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit](https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - darkreading
   - [In Security, Words Matter as Much as Tools, Maybe More](https://www.darkreading.com/cybersecurity-operations/security-words-matter)
+- dfarq.homeip.net
+  - [Why Johnny Can’t Patch](https://dfarq.homeip.net/why-johnny-cant-patch-2/?utm_source=rss&utm_medium=rss&utm_campaign=why-johnny-cant-patch-2)
 - GuidePoint Security
   - [What’s Really Behind the Recent Tech Outages?](https://www.guidepointsecurity.com/blog/recent-tech-outages-patch-management/)
 - Hacker News Frontpage
@@ -31,11 +35,13 @@
   - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
   - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
   - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+  - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
   - [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
   - [PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19)
   - [Reverse Engineering my cat's litter box](https://master--ytulsiani.netlify.app/blog/furrytails/)
   - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
   - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
+  - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
   - [Vibecoding an Inference Chip](https://ankitg.me/blog/vibecoding-inference-chip/)
   - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
 - Horizon3.ai
@@ -48,6 +54,7 @@
   - [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/)
   - [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/)
 - Sploitus.com Exploits RSS Feed
+  - [autopilot-vulnclaw exploit](https://sploitus.com/exploit?id=338493D4-C427-57B4-9588-4963EB20C380&utm_source=rss&utm_medium=rss)
   - [CVE-2025-70899 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAVAMOORTHI-CVE-2025-70899&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-133626](https://sploitus.com/exploit?id=9241D032-819F-5FB5-B2AE-599DFF3C675F&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=50D3D2AC-741E-58F6-B238-A776C3F49BFD&utm_source=rss&utm_medium=rss)
@@ -85,6 +92,7 @@
   - [A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
   - [auditoria-ciberseguridad-ypf](https://vulners.com/githubexploit/EE2BD751-A284-5FA7-9969-1BDB33F0C7DD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [autopilot-vulnclaw](https://vulners.com/gitee/338493D4-C427-57B4-9588-4963EB20C380?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102769](https://vulners.com/nvd/NVD:CVE-2026-102769?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-103933](https://vulners.com/nvd/NVD:CVE-2026-103933?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-104184](https://vulners.com/nvd/NVD:CVE-2026-104184?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -101,6 +109,7 @@
   - [CVE-2026-115407](https://vulners.com/cvelist/CVELIST:CVE-2026-115407?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121714](https://vulners.com/nvd/NVD:CVE-2026-121714?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127106](https://vulners.com/nvd/NVD:CVE-2026-127106?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128113](https://vulners.com/nvd/NVD:CVE-2026-128113?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129174](https://vulners.com/nvd/NVD:CVE-2026-129174?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129175](https://vulners.com/nvd/NVD:CVE-2026-129175?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129176](https://vulners.com/nvd/NVD:CVE-2026-129176?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -116,6 +125,8 @@
   - [CVE-2026-133681](https://vulners.com/nvd/NVD:CVE-2026-133681?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133693](https://vulners.com/nvd/NVD:CVE-2026-133693?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133730](https://vulners.com/nvd/NVD:CVE-2026-133730?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133835](https://vulners.com/nvd/NVD:CVE-2026-133835?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133836](https://vulners.com/nvd/NVD:CVE-2026-133836?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133871 Pydici through 2026.11.1 Stored XSS via Contact Name in Relation Diagram](https://vulners.com/cvelist/CVELIST:CVE-2026-133871?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133872 LessPass Backend before Commit 9469b0c Missing Rate Limiting on JWT Login](https://vulners.com/cvelist/CVELIST:CVE-2026-133872?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133873 Cloud Mail before 3.6.0 Stored XSS via Inline Inbound Email Attachments](https://vulners.com/cvelist/CVELIST:CVE-2026-133873?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -123,6 +134,7 @@
   - [CVE-2026-133875 one-hub through 0.14.27 SSRF via Vision Chat image_url](https://vulners.com/cvelist/CVELIST:CVE-2026-133875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133876 flask-calendar before commit bfde72e Stored XSS via Task Details](https://vulners.com/cvelist/CVELIST:CVE-2026-133876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133878 Mattermost server missing permission check on group WebSocket events allows information disclosure to authenticated users](https://vulners.com/cvelist/CVELIST:CVE-2026-133878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133937](https://vulners.com/nvd/NVD:CVE-2026-133937?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134035](https://vulners.com/nvd/NVD:CVE-2026-134035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134036](https://vulners.com/nvd/NVD:CVE-2026-134036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134037](https://vulners.com/nvd/NVD:CVE-2026-134037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -141,6 +153,7 @@
   - [CVE-2026-134050](https://vulners.com/nvd/NVD:CVE-2026-134050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134051](https://vulners.com/nvd/NVD:CVE-2026-134051?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134052](https://vulners.com/nvd/NVD:CVE-2026-134052?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134136](https://vulners.com/nvd/NVD:CVE-2026-134136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19776](https://vulners.com/nvd/NVD:CVE-2026-19776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19777](https://vulners.com/nvd/NVD:CVE-2026-19777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19779](https://vulners.com/nvd/NVD:CVE-2026-19779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
