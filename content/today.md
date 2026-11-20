@@ -2,7 +2,13 @@
 
 - 2Libra
   - [MiniMax Code 的 logo 你们第一反应是啥？](https://2libra.com/post/ai-tools/Aax2eqN)
+  - [【兑换码】LibraX - 2Libra iPhone 原生客户端发布了，欢迎 2 友下载体验](https://2libra.com/post/personal-works/3tqezJX)
+  - [好烦啊，这几天的潘多拉一直是金色](https://2libra.com/post/forum-function/ZRHBEtg)
+  - [我有个疑问，关于 agent 的](https://2libra.com/post/ai-applications/vavLcHD)
+  - [潘多拉](https://2libra.com/post/forum-function/6i4GPFd)
   - [看 GTA6 直播看魔了](https://2libra.com/post/game-discussion/Q3cjnDn)
+  - [积存金为什么一直在跌](https://2libra.com/post/angel-investment/F4kISBH)
+  - [雷鸟 App 出 bug，把智记提示词漏出来了](https://2libra.com/post/prompts/W48r8r1)
   - [馒头挂了吗](https://2libra.com/post/help-requests/Ok_s7oX)
 - 404 Media
   - [To Catch a Ransomware Scammer, FBI Posed as Both Victim and Attacker](https://www.404media.co/ransomware-fraud-attack-fbi-indictment/)
@@ -324,4 +330,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [AI Agent 元年，苹果是最后一个入局的巨头](https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
