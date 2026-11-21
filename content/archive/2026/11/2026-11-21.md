@@ -54,6 +54,8 @@
   - [When the Vulnerability Backlog Stops Calling the Shots](https://horizon3.ai/customer-story/law-firm-vulnerability-prioritization/)
 - infosecurity-magazine.com
   - [JPMorgan Confirms Customer Data Breach Following Third-Party Compromise](https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/)
+- krebsonsecurity.com
+  - [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 - MIT Technology Review
   - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
 - seangoedecke.com
@@ -66,10 +68,14 @@
   - [CVE-2025-70899 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAVAMOORTHI-CVE-2025-70899&utm_source=rss&utm_medium=rss)
   - [cyberops-academy exploit](https://sploitus.com/exploit?id=9BEACCAD-F150-52DD-B48F-B5CBFD001A30&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-104199](https://sploitus.com/exploit?id=ADBEA9FC-F084-5F42-A3B6-7D65F7B58BA0&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-132275](https://sploitus.com/exploit?id=80D042D2-B927-513B-81C5-B2D9C0B6DDCA&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-133626](https://sploitus.com/exploit?id=9241D032-819F-5FB5-B2AE-599DFF3C675F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-61725](https://sploitus.com/exploit?id=A693638D-E7EA-5E10-A83A-623DC6EEC479&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=50D3D2AC-741E-58F6-B238-A776C3F49BFD&utm_source=rss&utm_medium=rss)
+  - [Exploit for Path Traversal in Appium Appium\/Storage-Plugin](https://sploitus.com/exploit?id=E0A30955-9FDC-5EC3-9923-D923FC209CF4&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=3992341F-1475-510A-880C-7A5380BD3270&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=58961474-F907-5965-844B-93E519399A6A&utm_source=rss&utm_medium=rss)
+  - [W10CVEWatch exploit](https://sploitus.com/exploit?id=8F9BFCB9-16F9-5EF9-A89B-EE1DBEA201C0&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
   - [Bending Spoons buys Mailchimp for $3.68 billion](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)
@@ -110,6 +116,18 @@
   - [CVE-2026-104186](https://vulners.com/nvd/NVD:CVE-2026-104186?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110779](https://vulners.com/nvd/NVD:CVE-2026-110779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110780](https://vulners.com/nvd/NVD:CVE-2026-110780?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112465](https://vulners.com/nvd/NVD:CVE-2026-112465?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112603](https://vulners.com/nvd/NVD:CVE-2026-112603?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-112662](https://vulners.com/nvd/NVD:CVE-2026-112662?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113953](https://vulners.com/nvd/NVD:CVE-2026-113953?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113954](https://vulners.com/nvd/NVD:CVE-2026-113954?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113955](https://vulners.com/nvd/NVD:CVE-2026-113955?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114021](https://vulners.com/nvd/NVD:CVE-2026-114021?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114022](https://vulners.com/nvd/NVD:CVE-2026-114022?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114023](https://vulners.com/nvd/NVD:CVE-2026-114023?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114024](https://vulners.com/nvd/NVD:CVE-2026-114024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114025](https://vulners.com/nvd/NVD:CVE-2026-114025?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-114026](https://vulners.com/nvd/NVD:CVE-2026-114026?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114494](https://vulners.com/nvd/NVD:CVE-2026-114494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114495](https://vulners.com/nvd/NVD:CVE-2026-114495?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-114496](https://vulners.com/nvd/NVD:CVE-2026-114496?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -129,6 +147,7 @@
   - [CVE-2026-129995 mcp-ssh-manager: Remote code execution (RCE) via command injection in the backup subsystem](https://vulners.com/cve/CVE-2026-129995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129995 mcp-ssh-manager: Remote code execution (RCE) via command injection in the backup subsystem](https://vulners.com/cvelist/CVELIST:CVE-2026-129995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129998](https://vulners.com/nvd/NVD:CVE-2026-129998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132475](https://vulners.com/nvd/NVD:CVE-2026-132475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133212](https://vulners.com/nvd/NVD:CVE-2026-133212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133475](https://vulners.com/nvd/NVD:CVE-2026-133475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133680](https://vulners.com/nvd/NVD:CVE-2026-133680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -214,6 +233,8 @@
   - [DHI-NZXD-N5ZV-WDNW-3T7S It was discovered that dpkg-deb does not properly sanitize directory permissions when extracting a control member into…](https://vulners.com/osv_dhi/OSV:DHI-NZXD-N5ZV-WDNW-3T7S?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DHI-PC64-V3D2-B6RE-2U7U It was discovered that dpkg-deb (a component of dpkg, the Debian package management system) does not properly validate…](https://vulners.com/osv_dhi/OSV:DHI-PC64-V3D2-B6RE-2U7U?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-114516](https://vulners.com/githubexploit/995B6B3E-7AA4-5CC6-A58F-658D1605E640?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-61725](https://vulners.com/githubexploit/A693638D-E7EA-5E10-A83A-623DC6EEC479?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [W10CVEWatch](https://vulners.com/githubexploit/8F9BFCB9-16F9-5EF9-A89B-EE1DBEA201C0?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Premium: Bursting Bubbles](https://www.wheresyoured.at/premium-bursting-bubbles/)
 - Wired
@@ -227,3 +248,5 @@
 - 安全客
   - [内核全版本中招，AI帮着补上了利用链](https://www.anquanke.com/post/id/316528)
   - [谷歌给出倒计时：半年内，AI 会自己找洞、自己打进来](https://www.anquanke.com/post/id/316525)
+- 爱范儿
+  - [早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验](https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=)
