@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-21）
 
 - 2Libra
+  - [eSIM-san 免费试用：日本 eSIM 1GB / 1 天 0 日元（LINE 取码，每人一次）](https://2libra.com/post/deal-hunter/jSqU1Bg)
   - [Gemini 这次似乎真站起来了](https://2libra.com/post/large-models/rRSWT5w)
   - [T3 Code 初体验：沉浸式编程，不用再盯电脑。](https://2libra.com/post/ai-programming/rG5Vqv7)
 - 404 Media
@@ -55,6 +56,8 @@
   - [When the Vulnerability Backlog Stops Calling the Shots](https://horizon3.ai/customer-story/law-firm-vulnerability-prioritization/)
 - infosecurity-magazine.com
   - [JPMorgan Confirms Customer Data Breach Following Third-Party Compromise](https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/)
+- johndcook.com
+  - [What is the Generalized Riemann Hypothesis?](https://www.johndcook.com/blog/2026/11/20/grh/)
 - krebsonsecurity.com
   - [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 - MIT Technology Review
@@ -86,6 +89,7 @@
   - [Chips can survive the space environment. Can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
   - [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
   - [Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
+  - [Startup sues Apple in India over tap-to-share contacts feature](https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/)
   - [Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
 - The Block
   - [Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic](https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758)
