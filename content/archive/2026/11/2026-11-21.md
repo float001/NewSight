@@ -2,6 +2,7 @@
 
 - 2Libra
   - [Gemini 这次似乎真站起来了](https://2libra.com/post/large-models/rRSWT5w)
+  - [T3 Code 初体验：沉浸式编程，不用再盯电脑。](https://2libra.com/post/ai-programming/rG5Vqv7)
 - 404 Media
   - [Podcast: I Spoke to an AI Fraud Kingpin](https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/)
 - Ars Technica
@@ -68,9 +69,12 @@
   - [CVE-2025-70899 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAVAMOORTHI-CVE-2025-70899&utm_source=rss&utm_medium=rss)
   - [cyberops-academy exploit](https://sploitus.com/exploit?id=9BEACCAD-F150-52DD-B48F-B5CBFD001A30&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-104199](https://sploitus.com/exploit?id=ADBEA9FC-F084-5F42-A3B6-7D65F7B58BA0&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-104883](https://sploitus.com/exploit?id=E578B6C3-A3EB-5952-ABE8-955E3DC2788F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-132275](https://sploitus.com/exploit?id=80D042D2-B927-513B-81C5-B2D9C0B6DDCA&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-132277](https://sploitus.com/exploit?id=8F88D6FA-CF98-5589-94A2-EDE0DBD85E8A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-133626](https://sploitus.com/exploit?id=9241D032-819F-5FB5-B2AE-599DFF3C675F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-61725](https://sploitus.com/exploit?id=A693638D-E7EA-5E10-A83A-623DC6EEC479&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-99491](https://sploitus.com/exploit?id=ED43180E-679E-53A5-868F-718D9D524E7E&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=50D3D2AC-741E-58F6-B238-A776C3F49BFD&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Appium Appium\/Storage-Plugin](https://sploitus.com/exploit?id=E0A30955-9FDC-5EC3-9923-D923FC209CF4&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=3992341F-1475-510A-880C-7A5380BD3270&utm_source=rss&utm_medium=rss)
