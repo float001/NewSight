@@ -21,6 +21,8 @@
   - [Bitcoin falls below $60K for first time since July amid broader market selloff](https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims](https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit](https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [The Talk Show: ‘A Whoopsie Treason’](https://daringfireball.net/thetalkshow/2026/11/20/ep-457)
 - darkreading
   - [In Security, Words Matter as Much as Tools, Maybe More](https://www.darkreading.com/cybersecurity-operations/security-words-matter)
 - dfarq.homeip.net
@@ -30,6 +32,7 @@
 - Hacker News Frontpage
   - [And Yet, It Moves](https://signoregalilei.com/2026/11/20/and-yet-it-moves/)
   - [Combatting Adversarial Distillation](https://openai.com/index/combatting-adversarial-distillation/)
+  - [GitHub nuked me with no reason, and (so far) no ability to contact a human](https://nate.mecca1.net/posts/2026-11-20_help/)
   - [GrapheneOS claims Google is now waging war against it, could lock Pixel bootload](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
   - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
   - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
@@ -41,21 +44,28 @@
   - [Reverse Engineering my cat's litter box](https://master--ytulsiani.netlify.app/blog/furrytails/)
   - [Running two PSP emulators on one Switch 2 and sharing one via GameShare](https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md)
   - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)
+  - [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
   - [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
   - [Vibecoding an Inference Chip](https://ankitg.me/blog/vibecoding-inference-chip/)
   - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+- Hexacorn
+  - [Anti-AI tricks, Part 2](https://www.hexacorn.com/blog/2026/11/20/anti-ai-tricks-part-2/)
 - Horizon3.ai
   - [When the Vulnerability Backlog Stops Calling the Shots](https://horizon3.ai/customer-story/law-firm-vulnerability-prioritization/)
 - infosecurity-magazine.com
   - [JPMorgan Confirms Customer Data Breach Following Third-Party Compromise](https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/)
 - MIT Technology Review
   - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
+- seangoedecke.com
+  - [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/)
 - simonwillison.net
   - [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/)
   - [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/)
 - Sploitus.com Exploits RSS Feed
   - [autopilot-vulnclaw exploit](https://sploitus.com/exploit?id=338493D4-C427-57B4-9588-4963EB20C380&utm_source=rss&utm_medium=rss)
   - [CVE-2025-70899 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MATHAVAMOORTHI-CVE-2025-70899&utm_source=rss&utm_medium=rss)
+  - [cyberops-academy exploit](https://sploitus.com/exploit?id=9BEACCAD-F150-52DD-B48F-B5CBFD001A30&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-104199](https://sploitus.com/exploit?id=ADBEA9FC-F084-5F42-A3B6-7D65F7B58BA0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-133626](https://sploitus.com/exploit?id=9241D032-819F-5FB5-B2AE-599DFF3C675F&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=50D3D2AC-741E-58F6-B238-A776C3F49BFD&utm_source=rss&utm_medium=rss)
   - [Exploit for Use After Free in F5 Dos](https://sploitus.com/exploit?id=3992341F-1475-510A-880C-7A5380BD3270&utm_source=rss&utm_medium=rss)
@@ -207,8 +217,11 @@
 - wheresyoured.at
   - [Premium: Bursting Bubbles](https://www.wheresyoured.at/premium-bursting-bubbles/)
 - Wired
+  - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)
   - [Don’t Bring Jensen Back](https://www.wired.com/story/dont-bring-jensen-back/)
   - [Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)
+- Zdziarski
+  - [Stupid Intelligence](https://www.zdziarski.com/blog/?p=14077)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
