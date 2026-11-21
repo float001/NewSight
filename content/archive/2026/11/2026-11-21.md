@@ -4,9 +4,11 @@
   - [eSIM-san 免费试用：日本 eSIM 1GB / 1 天 0 日元（LINE 取码，每人一次）](https://2libra.com/post/deal-hunter/jSqU1Bg)
   - [Gemini 这次似乎真站起来了](https://2libra.com/post/large-models/rRSWT5w)
   - [T3 Code 初体验：沉浸式编程，不用再盯电脑。](https://2libra.com/post/ai-programming/rG5Vqv7)
+  - [从小兵开始](https://2libra.com/post/movie-experience/qek2GLn)
   - [打开 2 站好慢啊](https://2libra.com/post/community/bGkR4RY)
 - 404 Media
   - [Podcast: I Spoke to an AI Fraud Kingpin](https://www.404media.co/podcast-i-spoke-to-an-ai-fraud-kingpin/)
+  - [Scientists Discover New and Horrible Eagle-Based Way Our Ancestors Died](https://www.404media.co/scientists-discover-new-and-horrible-eagle-based-way-our-ancestors-died/)
 - Ars Technica
   - [A leaky AI supply chain is exposing secret user data at an alarming rate](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
   - [Army delays detonating "catastrophically hazardous" lead azide amid fear, anger](https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/)
@@ -23,6 +25,7 @@
 - CoinTelegraph
   - [Bitcoin falls below $60K for first time since July amid broader market selloff](https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB seeks industry partners for tokenized deposits, securities experiments](https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hong Kong pushes to bring crypto custodians, advisers under licensing rules](https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims](https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US lawmakers propose up to 30% rewards for prediction market whistleblowers](https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -46,6 +49,7 @@
   - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
   - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)
   - [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+  - [Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis](https://philarchive.org/rec/NIEIOT-2)
   - [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
   - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
   - [Nvidia accounting under SEC investigation, sources say](https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html)
@@ -111,6 +115,7 @@
 - The Decoder
   - [Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model](https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/)
   - [Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working](https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/)
+  - [Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft](https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/)
   - [New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop](https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/)
   - [OpenAI makes it much harder for attackers to extract how its latest AI models think](https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/)
   - [Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats](https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/)
@@ -121,6 +126,7 @@
   - [Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION](https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview)
   - [Eufy’s Omni C28 is 53 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale)
   - [Google says it’s going to shut off Google Assistant on smart speakers next year](https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down)
+  - [Harbinger is building the unsexy EVs that keep the economy moving](https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks)
   - [Here are the Apple deals actually worth picking up ahead of Black Friday](https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026)
   - [Multiplying your Switch 2’s storage costs less than usual right now](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale)
   - [Rockstar says GTA VI made $3.79 billion in its first day](https://www.theverge.com/games/1036279/gta-vi-sales)
@@ -342,15 +348,19 @@
 - wheresyoured.at
   - [Premium: Bursting Bubbles](https://www.wheresyoured.at/premium-bursting-bubbles/)
 - Wired
+  - [A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems](https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/)
   - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)
   - [Don’t Bring Jensen Back](https://www.wired.com/story/dont-bring-jensen-back/)
   - [Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation](https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/)
+  - [Our Top Tested Picks From Tineco’s Black Friday Sale (2026)](https://www.wired.com/story/tineco-black-friday-sale-2026/)
+  - [Sony Bravia 9 II Review (2026): Adjustable and Bright](https://www.wired.com/review/sony-bravia-9-ii/)
 - Zdziarski
   - [Stupid Intelligence](https://www.zdziarski.com/blog/?p=14077)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织](https://www.solidot.org/story?sid=85950)
+  - [人类数学家匆忙发布广义黎曼猜想的证明手稿](https://www.solidot.org/story?sid=85952)
 - 安全客
   - [内核全版本中招，AI帮着补上了利用链](https://www.anquanke.com/post/id/316528)
   - [谷歌给出倒计时：半年内，AI 会自己找洞、自己打进来](https://www.anquanke.com/post/id/316525)
