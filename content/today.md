@@ -95,6 +95,7 @@
   - [Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic](https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758)
   - [DCG’s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high](https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784)
   - [JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost](https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763)
+  - [JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more](https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786)
   - [Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program](https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779)
   - [Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds](https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747)
 - The Decoder
@@ -155,6 +156,7 @@
   - [CVE-2026-129995 mcp-ssh-manager: Remote code execution (RCE) via command injection in the backup subsystem](https://vulners.com/cve/CVE-2026-129995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129995 mcp-ssh-manager: Remote code execution (RCE) via command injection in the backup subsystem](https://vulners.com/cvelist/CVELIST:CVE-2026-129995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129998](https://vulners.com/nvd/NVD:CVE-2026-129998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131651](https://vulners.com/nvd/NVD:CVE-2026-131651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132475](https://vulners.com/nvd/NVD:CVE-2026-132475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133212](https://vulners.com/nvd/NVD:CVE-2026-133212?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133475](https://vulners.com/nvd/NVD:CVE-2026-133475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -194,6 +196,7 @@
   - [CVE-2026-19776](https://vulners.com/nvd/NVD:CVE-2026-19776?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19777](https://vulners.com/nvd/NVD:CVE-2026-19777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19779](https://vulners.com/nvd/NVD:CVE-2026-19779?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19793](https://vulners.com/nvd/NVD:CVE-2026-19793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-44908](https://vulners.com/nvd/NVD:CVE-2026-44908?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45354](https://vulners.com/nvd/NVD:CVE-2026-45354?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-45355](https://vulners.com/nvd/NVD:CVE-2026-45355?utm_source=rss&utm_medium=rss&utm_campaign=rss)
