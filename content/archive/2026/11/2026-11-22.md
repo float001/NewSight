@@ -23,6 +23,7 @@
   - [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale)
   - [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
   - [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
+  - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
 - Vulners.com RSS Feed
   - [CVE-2026-133985](https://vulners.com/nvd/NVD:CVE-2026-133985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133990](https://vulners.com/nvd/NVD:CVE-2026-133990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
