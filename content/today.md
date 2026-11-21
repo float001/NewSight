@@ -5,6 +5,7 @@
 - daringfireball.net
   - [Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier](https://support.apple.com/en-us/127901)
   - [The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.](https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E)
+  - [★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2](https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273)
 - Data Breach
   - [Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data](https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html)
 - Hacker News Frontpage
@@ -28,5 +29,7 @@
   - [CVE-2026-133985](https://vulners.com/nvd/NVD:CVE-2026-133985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133990](https://vulners.com/nvd/NVD:CVE-2026-133990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133993](https://vulners.com/nvd/NVD:CVE-2026-133993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134009](https://vulners.com/nvd/NVD:CVE-2026-134009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134533](https://vulners.com/nvd/NVD:CVE-2026-134533?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
