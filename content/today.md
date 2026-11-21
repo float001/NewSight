@@ -70,6 +70,17 @@
   - [Anti-AI tricks, Part 2](https://www.hexacorn.com/blog/2026/11/20/anti-ai-tricks-part-2/)
 - Horizon3.ai
   - [When the Vulnerability Backlog Stops Calling the Shots](https://horizon3.ai/customer-story/law-firm-vulnerability-prioritization/)
+- InfoSec Write-ups - Medium
+  - [14/14 on HTB CPTS, First Attempt: What Actually Mattered](https://infosecwriteups.com/14-14-on-htb-cpts-first-attempt-what-actually-mattered-34ab2910551b?source=rss----7b722bfd1b8d---4)
+  - [admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…](https://infosecwriteups.com/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss----7b722bfd1b8d---4)
+  - [AI Red Teaming: Persistent Injection](https://infosecwriteups.com/ai-red-teaming-persistent-injection-f1f5c8aeffcf?source=rss----7b722bfd1b8d---4)
+  - [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://infosecwriteups.com/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss----7b722bfd1b8d---4)
+  - [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://infosecwriteups.com/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss----7b722bfd1b8d---4)
+  - [Inside the Bare LLM: Attacking and Securing the FruitMart Chatbot (Part 1)](https://infosecwriteups.com/inside-the-bare-llm-attacking-and-securing-the-fruitmart-chatbot-part-1-4eabe9ad5bbe?source=rss----7b722bfd1b8d---4)
+  - [My Journey To Conquering The OSCE3](https://infosecwriteups.com/my-journey-to-conquering-the-osce3-e4cb5d68467b?source=rss----7b722bfd1b8d---4)
+  - [Passing the OSEP: Course Review and Exam Preparation tips](https://infosecwriteups.com/passing-the-osep-course-review-and-exam-preparation-tips-167f987251f4?source=rss----7b722bfd1b8d---4)
+  - [PHP2Shell: Practical RCE Reproduction in a Docker Lab](https://infosecwriteups.com/php2shell-practical-rce-reproduction-in-a-docker-lab-fc00fb2a8cf8?source=rss----7b722bfd1b8d---4)
+  - [PortSwigger Lab: Username enumeration via different responses](https://infosecwriteups.com/portswigger-lab-username-enumeration-via-different-responses-eecbe1dd4fa5?source=rss----7b722bfd1b8d---4)
 - infosecurity-magazine.com
   - [JPMorgan Confirms Customer Data Breach Following Third-Party Compromise](https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/)
 - johndcook.com
@@ -78,6 +89,8 @@
   - [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
 - MIT Technology Review
   - [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
+- Recent Commits to cve:main
+  - [Update Sat Nov 21 14:59:57 UTC 2026](https://github.com/trickest/cve/commit/e613b9cf5ea3122af87f6f17e4e9aeb45846135c)
 - seangoedecke.com
   - [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/)
 - shkspr.mobi
@@ -129,17 +142,21 @@
   - [Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives](https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director)
   - [Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude](https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem)
   - [Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION](https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview)
+  - [Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)
   - [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
   - [Eufy’s Omni C28 is 53 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale)
   - [Google says it’s going to shut off Google Assistant on smart speakers next year](https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down)
   - [Harbinger is building the unsexy EVs that keep the economy moving](https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks)
   - [Here are the Apple deals actually worth picking up ahead of Black Friday](https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026)
   - [Multiplying your Switch 2’s storage costs less than usual right now](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale)
+  - [Our go-to earbuds for taking calls have fallen to their lowest price to date](https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale)
   - [Rockstar says GTA VI made $3.79 billion in its first day](https://www.theverge.com/games/1036279/gta-vi-sales)
   - [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer)
   - [The Xiaomi 18 Pro proves two screens aren’t better than one](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review)
   - [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)
   - [YouTube is reportedly preparing to settle social media addiction claims for $3 billion](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement)
+- Threatninja.net
+  - [Hack The Box: Pingpong Machine Walkthrough – Insane Difficulity](https://threatninja.net/hack-the-box-pingpong-machine-walkthrough-insane-difficulity/)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate](https://blog.qualys.com/category/qualys-insights)
 - Vulners.com RSS Feed
@@ -295,6 +312,8 @@
   - [CVE-2026-133878 Mattermost server missing permission check on group WebSocket events allows information disclosure to authenticated users](https://vulners.com/cvelist/CVELIST:CVE-2026-133878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133937](https://vulners.com/nvd/NVD:CVE-2026-133937?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133964](https://vulners.com/nvd/NVD:CVE-2026-133964?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133983 eigent-ai eigent Local Agent Control API chat_controller.py missing authentication](https://vulners.com/cve/CVE-2026-133983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133983 eigent-ai eigent Local Agent Control API chat_controller.py missing authentication](https://vulners.com/cvelist/CVELIST:CVE-2026-133983?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134035](https://vulners.com/nvd/NVD:CVE-2026-134035?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134036](https://vulners.com/nvd/NVD:CVE-2026-134036?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134037](https://vulners.com/nvd/NVD:CVE-2026-134037?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -386,7 +405,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织](https://www.solidot.org/story?sid=85950)
+  - [人类免疫系统衰老在 40 岁和 60 岁后会加速](https://www.solidot.org/story?sid=85954)
   - [人类数学家匆忙发布广义黎曼猜想的证明手稿](https://www.solidot.org/story?sid=85952)
+  - [地球 28 光年外发现一个三星系统](https://www.solidot.org/story?sid=85955)
 - 安全客
   - [内核全版本中招，AI帮着补上了利用链](https://www.anquanke.com/post/id/316528)
   - [谷歌给出倒计时：半年内，AI 会自己找洞、自己打进来](https://www.anquanke.com/post/id/316525)
