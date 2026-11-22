@@ -16,6 +16,7 @@
 - CoinTelegraph
   - [Bitcoin briefly drops to $17K on Kraken, exchange upholds trades](https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean exchanges halt CYBER transfers amid suspected bridge exploit](https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
@@ -155,10 +156,15 @@
   - [Exploit for CVE-2026-125396](https://vulners.com/githubexploit/1E4F8989-96F8-5CCC-908E-35A5149361F1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-129228](https://vulners.com/githubexploit/E432D237-EBC0-585B-ABF4-7A906665AC17?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [8 Best Travel Adapters (2026): 20+ Models Tested](https://www.wired.com/gallery/best-travel-adapters/)
   - [Banks Have Had It Up to Here With Your AI Agent](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/)
+  - [Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games](https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/)
   - [Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More](https://www.wired.com/story/best-gifts-for-moms-2026/)
   - [How This Year’s Super El Niño Will Worsen Global Hunger](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/)
   - [Scientists Tried to Kill This Dirt, but It Wouldn’t Die](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/)
+- 不安全
+  - [Stullensimulator – 一个认真到离谱的三明治模拟器](https://buaq.net/go-456608.html)
+  - [Where Next After a Series of Headline-Grabbing Outages?](https://buaq.net/go-456618.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
