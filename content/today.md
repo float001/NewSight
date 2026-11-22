@@ -33,6 +33,8 @@
   - [Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data](https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html)
 - defend.network
   - [Microsoft Entra flaw exploited; Rackspace breach; reported FBI NCIC hack](https://defend.network/briefings/microsoft-entra-rackspace-fbi-ncic-breaches-2026-11-22.html)
+- Didier Stevens
+  - [Update: Uranium Glass](https://blog.didierstevens.com/2026/11/22/update-uranium-glass/)
 - eli.thegreenplace.net
   - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 - Hacker News Frontpage
@@ -80,6 +82,13 @@
   - [CVE-2026-123068](https://vulners.com/nvd/NVD:CVE-2026-123068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123136](https://vulners.com/nvd/NVD:CVE-2026-123136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127024](https://vulners.com/nvd/NVD:CVE-2026-127024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129016](https://vulners.com/nvd/NVD:CVE-2026-129016?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131700](https://vulners.com/nvd/NVD:CVE-2026-131700?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131705](https://vulners.com/nvd/NVD:CVE-2026-131705?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131706](https://vulners.com/nvd/NVD:CVE-2026-131706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131707](https://vulners.com/nvd/NVD:CVE-2026-131707?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131708](https://vulners.com/nvd/NVD:CVE-2026-131708?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131720](https://vulners.com/nvd/NVD:CVE-2026-131720?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132814](https://vulners.com/nvd/NVD:CVE-2026-132814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133362](https://vulners.com/nvd/NVD:CVE-2026-133362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133985](https://vulners.com/nvd/NVD:CVE-2026-133985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -146,9 +155,14 @@
   - [Exploit for CVE-2026-125396](https://vulners.com/githubexploit/1E4F8989-96F8-5CCC-908E-35A5149361F1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-129228](https://vulners.com/githubexploit/E432D237-EBC0-585B-ABF4-7A906665AC17?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [Banks Have Had It Up to Here With Your AI Agent](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/)
+  - [Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More](https://www.wired.com/story/best-gifts-for-moms-2026/)
   - [How This Year’s Super El Niño Will Worsen Global Hunger](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/)
+  - [Scientists Tried to Kill This Dirt, but It Wouldn’t Die](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [地球捕获了一颗迷你月球](https://www.solidot.org/story?sid=85957)
 - 爱范儿
   - [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [伟大的 GTA 6，「不好玩」的 GTA 6](https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=)
