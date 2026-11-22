@@ -14,6 +14,7 @@
 - ByteByteGo
   - [EP234: Docker vs Kubernetes](https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes)
 - CoinTelegraph
+  - [Bitcoin briefly drops to $17K on Kraken, exchange upholds trades](https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korean exchanges halt CYBER transfers amid suspected bridge exploit](https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
@@ -49,6 +50,7 @@
 - seangoedecke.com
   - [To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/)
 - Sploitus.com Exploits RSS Feed
+  - [Exploit for CVE-2026-129303](https://sploitus.com/exploit?id=F7A6EBA3-DAFB-5B26-9D52-0AA73E177AAB&utm_source=rss&utm_medium=rss)
   - [Exploit for Uncontrolled Resource Consumption in Linuxfoundation Nats-Server](https://sploitus.com/exploit?id=6FC400E6-8B22-5C15-A787-9EB7D8662C37&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
@@ -60,6 +62,7 @@
   - [Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers](https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810)
   - [Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide](https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813)
 - The Decoder
+  - [GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude](https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/)
   - [Nvidia researchers argue huge AI context windows are a dead end](https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/)
 - The Verge
   - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
@@ -142,6 +145,8 @@
   - [CVE-2026-94259](https://vulners.com/nvd/NVD:CVE-2026-94259?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-125396](https://vulners.com/githubexploit/1E4F8989-96F8-5CCC-908E-35A5149361F1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-129228](https://vulners.com/githubexploit/E432D237-EBC0-585B-ABF4-7A906665AC17?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [How This Year’s Super El Niño Will Worsen Global Hunger](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
