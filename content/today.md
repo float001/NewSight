@@ -2,15 +2,19 @@
 
 - Hacker News Frontpage
   - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+  - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
   - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
   - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
+  - [xss47 exploit](https://sploitus.com/exploit?id=8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
+  - [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
   - [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
 - The Block
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
+  - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
 - The Verge
   - [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
   - [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
@@ -35,6 +39,8 @@
   - [CVE-2026-131793](https://vulners.com/nvd/NVD:CVE-2026-131793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-131794](https://vulners.com/nvd/NVD:CVE-2026-131794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132147](https://vulners.com/nvd/NVD:CVE-2026-132147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [EscapeArmed](https://vulners.com/githubexploit/3B9A9F1C-8331-5C6D-BB37-DE5BE29A3A88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [xss47](https://vulners.com/githubexploit/8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 白帽Wiki - 一个简单的wiki
