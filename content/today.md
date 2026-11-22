@@ -17,13 +17,17 @@
 - CoinTelegraph Security
   - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Five EU AI Act Questions Engineering Teams Keep Asking in 2026](https://www.cyberkendra.com/2026/11/five-eu-ai-act-questions-engineering-teams-keep-asking-in-2026.html)
   - [Upload2Shell Ghostscript Bug Turns File Uploads Into Remote Code Execution, Patch Gaps Remain](https://www.cyberkendra.com/2026/11/upload2shell-ghostscript-bug-turns-file-uploads-into-remote-code-execution-patch-gaps-remain.html)
+  - [Why Account Takeover and Spoofing Demand On-Device Liveness Checks](https://www.cyberkendra.com/2026/11/why-account-takeover-and-spoofing-demand-on-device-liveness-checks.html)
 - daringfireball.net
   - [Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier](https://support.apple.com/en-us/127901)
   - [The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.](https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E)
   - [★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2](https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273)
 - Data Breach
   - [Cyberattack on Austrian Foreign Ministry Exposes Diplomatic Staff Data](https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html)
+- defend.network
+  - [Microsoft Entra flaw exploited; Rackspace breach; reported FBI NCIC hack](https://defend.network/briefings/microsoft-entra-rackspace-fbi-ncic-breaches-2026-11-22.html)
 - eli.thegreenplace.net
   - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 - Hacker News Frontpage
@@ -62,6 +66,15 @@
 - troyhunt.com
   - [Weekly Update 531: Optimizely. Script Dependencies & Third Parties](https://www.troyhunt.com/weekly-update-531/)
 - Vulners.com RSS Feed
+  - [CVE-2026-105394](https://vulners.com/nvd/NVD:CVE-2026-105394?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107592](https://vulners.com/nvd/NVD:CVE-2026-107592?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-107593](https://vulners.com/nvd/NVD:CVE-2026-107593?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-120413](https://vulners.com/nvd/NVD:CVE-2026-120413?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123068](https://vulners.com/nvd/NVD:CVE-2026-123068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123136](https://vulners.com/nvd/NVD:CVE-2026-123136?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127024](https://vulners.com/nvd/NVD:CVE-2026-127024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132814](https://vulners.com/nvd/NVD:CVE-2026-132814?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-133362](https://vulners.com/nvd/NVD:CVE-2026-133362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133985](https://vulners.com/nvd/NVD:CVE-2026-133985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133990](https://vulners.com/nvd/NVD:CVE-2026-133990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133993](https://vulners.com/nvd/NVD:CVE-2026-133993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -121,6 +134,10 @@
   - [CVE-2026-134702](https://vulners.com/nvd/NVD:CVE-2026-134702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134703](https://vulners.com/nvd/NVD:CVE-2026-134703?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134704](https://vulners.com/nvd/NVD:CVE-2026-134704?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-14233](https://vulners.com/nvd/NVD:CVE-2026-14233?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-94259](https://vulners.com/nvd/NVD:CVE-2026-94259?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-125396](https://vulners.com/githubexploit/1E4F8989-96F8-5CCC-908E-35A5149361F1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-129228](https://vulners.com/githubexploit/E432D237-EBC0-585B-ABF4-7A906665AC17?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
