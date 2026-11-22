@@ -41,6 +41,7 @@
 - Hacker News Frontpage
   - [(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it](https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/)
   - [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
+  - [Blackberry releases secure browser for Windows](https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows)
   - [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
   - [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
   - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
@@ -77,11 +78,14 @@
 - The Verge
   - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
   - [Amazon’s first digital photo frame is up to 50 percent off for Black Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale)
+  - [How Tamagotchis got us hooked on digital pets](https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary)
   - [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
+  - [Nintendo’s Switch 2 console is $50 off for Black Friday](https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale)
   - [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
   - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
   - [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)
   - [Your questions about Apple HomeView’s audio, answered](https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay)
+  - [‘The show is starting soon. Please turn on your headphones.’](https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast)
 - troyhunt.com
   - [Weekly Update 531: Optimizely. Script Dependencies & Third Parties](https://www.troyhunt.com/weekly-update-531/)
 - Vulners.com RSS Feed
@@ -174,8 +178,10 @@
 - 不安全
   - [How I Cracked the Burp Suite Certified Practitioner (BSCP) Exam — And How You Can Too!](https://buaq.net/go-456626.html)
   - [Stullensimulator – 一个认真到离谱的三明治模拟器](https://buaq.net/go-456608.html)
+  - [tantrum](https://buaq.net/go-456629.html)
   - [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://buaq.net/go-456627.html)
   - [Where Next After a Series of Headline-Grabbing Outages?](https://buaq.net/go-456618.html)
+  - [《GTA 6》已出现早期 PC 开源移植项目：Leonida](https://buaq.net/go-456628.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
