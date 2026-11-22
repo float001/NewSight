@@ -1,4 +1,28 @@
 # 今日安全资讯（2026-11-23）
 
+- The Verge
+  - [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review)
+  - [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale)
+- Vulners.com RSS Feed
+  - [CVE-2026-129024](https://vulners.com/nvd/NVD:CVE-2026-129024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129066](https://vulners.com/nvd/NVD:CVE-2026-129066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-129081](https://vulners.com/nvd/NVD:CVE-2026-129081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131698](https://vulners.com/nvd/NVD:CVE-2026-131698?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131726](https://vulners.com/nvd/NVD:CVE-2026-131726?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131741](https://vulners.com/nvd/NVD:CVE-2026-131741?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131750](https://vulners.com/nvd/NVD:CVE-2026-131750?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131755](https://vulners.com/nvd/NVD:CVE-2026-131755?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131772](https://vulners.com/nvd/NVD:CVE-2026-131772?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131777](https://vulners.com/nvd/NVD:CVE-2026-131777?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131786](https://vulners.com/nvd/NVD:CVE-2026-131786?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131788](https://vulners.com/nvd/NVD:CVE-2026-131788?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131790](https://vulners.com/nvd/NVD:CVE-2026-131790?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131791](https://vulners.com/nvd/NVD:CVE-2026-131791?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131792](https://vulners.com/nvd/NVD:CVE-2026-131792?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131793](https://vulners.com/nvd/NVD:CVE-2026-131793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-131794](https://vulners.com/nvd/NVD:CVE-2026-131794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132147](https://vulners.com/nvd/NVD:CVE-2026-132147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]不要追踪我 浏览器插件](https://key08.com/index.php/2026/11/23/3407.html)
