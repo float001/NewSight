@@ -40,6 +40,7 @@
   - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 - Hacker News Frontpage
   - [(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it](https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/)
+  - [AI is becoming a disaster for the climate](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the)
   - [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
   - [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
   - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
@@ -48,10 +49,15 @@
   - [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
 - Hexacorn
   - [Anti-AI tricks, Part 3](https://www.hexacorn.com/blog/2026/11/21/anti-ai-tricks-part-3/)
+- InfoSec Write-ups - Medium
+  - [How I Cracked the Burp Suite Certified Practitioner (BSCP) Exam — And How You Can Too!](https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4)
+  - [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4)
 - Kali Linux Tutorials
   - [10 Best Network Monitoring Tools in 2026](https://kalilinuxtutorials.com/10-best-network-monitoring-tools-in-2026/)
 - seangoedecke.com
   - [To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/)
+- shkspr.mobi
+  - [I don't enjoy being pampered](https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/)
 - Sploitus.com Exploits RSS Feed
   - [Exploit for CVE-2026-129303](https://sploitus.com/exploit?id=F7A6EBA3-DAFB-5B26-9D52-0AA73E177AAB&utm_source=rss&utm_medium=rss)
   - [Exploit for Uncontrolled Resource Consumption in Linuxfoundation Nats-Server](https://sploitus.com/exploit?id=6FC400E6-8B22-5C15-A787-9EB7D8662C37&utm_source=rss&utm_medium=rss)
@@ -65,6 +71,7 @@
   - [Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers](https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810)
   - [Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide](https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813)
 - The Decoder
+  - [AI is getting better faster than experts can reliably test whether new systems are safe, METR warns](https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/)
   - [GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude](https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/)
   - [Nvidia researchers argue huge AI context windows are a dead end](https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/)
 - The Verge
@@ -73,6 +80,8 @@
   - [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
   - [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
   - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
+  - [The vibe-coding revolution is coming to all the gadgets](https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera)
+  - [Your questions about Apple HomeView’s audio, answered](https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay)
 - troyhunt.com
   - [Weekly Update 531: Optimizely. Script Dependencies & Third Parties](https://www.troyhunt.com/weekly-update-531/)
 - Vulners.com RSS Feed
@@ -163,7 +172,9 @@
   - [How This Year’s Super El Niño Will Worsen Global Hunger](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/)
   - [Scientists Tried to Kill This Dirt, but It Wouldn’t Die](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/)
 - 不安全
+  - [How I Cracked the Burp Suite Certified Practitioner (BSCP) Exam — And How You Can Too!](https://buaq.net/go-456626.html)
   - [Stullensimulator – 一个认真到离谱的三明治模拟器](https://buaq.net/go-456608.html)
+  - [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://buaq.net/go-456627.html)
   - [Where Next After a Series of Headline-Grabbing Outages?](https://buaq.net/go-456618.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
