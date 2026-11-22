@@ -15,6 +15,7 @@
 - eli.thegreenplace.net
   - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 - Hacker News Frontpage
+  - [(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it](https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/)
   - [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
   - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
   - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
@@ -49,5 +50,9 @@
   - [CVE-2026-133993](https://vulners.com/nvd/NVD:CVE-2026-133993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134009](https://vulners.com/nvd/NVD:CVE-2026-134009?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134533](https://vulners.com/nvd/NVD:CVE-2026-134533?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134541](https://vulners.com/nvd/NVD:CVE-2026-134541?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134543](https://vulners.com/nvd/NVD:CVE-2026-134543?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134544](https://vulners.com/nvd/NVD:CVE-2026-134544?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134545](https://vulners.com/nvd/NVD:CVE-2026-134545?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
