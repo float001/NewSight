@@ -7,11 +7,15 @@
   - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
+  - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=FC616450-579B-5DFD-B045-0AFB06914FD4&utm_source=rss&utm_medium=rss)
+  - [pentest-agent-xss-skills-1 exploit](https://sploitus.com/exploit?id=6A2EE873-34BD-533C-A586-95CCCD864228&utm_source=rss&utm_medium=rss)
   - [xss47 exploit](https://sploitus.com/exploit?id=8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
   - [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
   - [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
   - [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
+  - [‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)
 - The Block
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
   - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
