@@ -7,6 +7,7 @@
   - [二开的 Tv 版本的 B 站，哩哔哩安卓 App，支持触摸、遥控，以及安卓 5，适用于平板、TV、车机等设备](https://2libra.com/post/tools-sharing/-OwEUb9)
   - [分享自己做的浏览器插件](https://2libra.com/post/browser-extensions/534YBe7)
   - [深圳最佳旅游宣传片！没有之一 📷📷📷](https://2libra.com/post/local-life/NJMjSN1)
+  - [现在进入了 AI / AGENT 时代, 软件开发的代价太低了, 软件开发的思路要换一换了.](https://2libra.com/post/ai-programming/qTBl-zL)
   - [自己做的摸鱼软件，该有的功能都有了](https://2libra.com/post/open-source-sharing/og6MdVH)
 - Ars Technica
   - [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/)
