@@ -1,5 +1,9 @@
 # 今日安全资讯（2026-11-23）
 
+- Hacker News Frontpage
+  - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+  - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+  - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
 - TechCrunch
