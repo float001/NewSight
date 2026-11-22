@@ -1,5 +1,7 @@
 # 今日安全资讯（2026-11-22）
 
+- 2Libra
+  - [Lean 与 Mathlib 社区联合声明：完全确信 Alpöge 已证明黎曼猜想](https://2libra.com/post/programming-languages/u0qo3xQ)
 - Ars Technica
   - [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/)
 - ByteByteGo
@@ -56,3 +58,6 @@
   - [CVE-2026-134545](https://vulners.com/nvd/NVD:CVE-2026-134545?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就](https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [伟大的 GTA 6，「不好玩」的 GTA 6](https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=)
