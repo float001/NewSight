@@ -14,10 +14,13 @@
   - [EP234: Docker vs Kubernetes](https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes)
 - CoinTelegraph
   - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korean exchanges halt CYBER transfers amid suspected bridge exploit](https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [South Korean exchanges halt CYBER transfers amid suspected bridge exploit](https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Five EU AI Act Questions Engineering Teams Keep Asking in 2026](https://www.cyberkendra.com/2026/11/five-eu-ai-act-questions-engineering-teams-keep-asking-in-2026.html)
+  - [How to Keep Your Link-in-Bio Page From Getting Hacked](https://www.cyberkendra.com/2026/11/how-to-keep-your-link-in-bio-page-from-getting-hacked.html)
   - [Upload2Shell Ghostscript Bug Turns File Uploads Into Remote Code Execution, Patch Gaps Remain](https://www.cyberkendra.com/2026/11/upload2shell-ghostscript-bug-turns-file-uploads-into-remote-code-execution-patch-gaps-remain.html)
   - [Why Account Takeover and Spoofing Demand On-Device Liveness Checks](https://www.cyberkendra.com/2026/11/why-account-takeover-and-spoofing-demand-on-device-liveness-checks.html)
 - daringfireball.net
