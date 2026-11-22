@@ -4,6 +4,8 @@
   - [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/)
 - ByteByteGo
   - [EP234: Docker vs Kubernetes](https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes)
+- Cyber Kendra
+  - [Upload2Shell Ghostscript Bug Turns File Uploads Into Remote Code Execution, Patch Gaps Remain](https://www.cyberkendra.com/2026/11/upload2shell-ghostscript-bug-turns-file-uploads-into-remote-code-execution-patch-gaps-remain.html)
 - daringfireball.net
   - [Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier](https://support.apple.com/en-us/127901)
   - [The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.](https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E)
@@ -13,12 +15,17 @@
 - eli.thegreenplace.net
   - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 - Hacker News Frontpage
+  - [International UN talks on controlling use of autonomous weapons collapse](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
   - [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
   - [PostgreSQL Extensions in Go](https://jespino.github.io/gopgext/)
   - [Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers](https://tasklet.ai/careers)
   - [The Emergence of Inequality in the Czech Corded Ware Culture](https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746)
+- Hexacorn
+  - [Anti-AI tricks, Part 3](https://www.hexacorn.com/blog/2026/11/21/anti-ai-tricks-part-3/)
 - Kali Linux Tutorials
   - [10 Best Network Monitoring Tools in 2026](https://kalilinuxtutorials.com/10-best-network-monitoring-tools-in-2026/)
+- seangoedecke.com
+  - [To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/)
 - TechCrunch
   - [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)
   - [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/)
