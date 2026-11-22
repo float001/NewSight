@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-22）
 
 - 2Libra
+  - [14pm 电池不行了 换电池还是换手机](https://2libra.com/post/apple/CFtlKfR)
   - [cloudflare 实现一个域名也能做加速](https://2libra.com/post/open-source-sharing/VlPNnzb)
   - [Lean 与 Mathlib 社区联合声明：完全确信 Alpöge 已证明黎曼猜想](https://2libra.com/post/programming-languages/u0qo3xQ)
   - [二开的 Tv 版本的 B 站，哩哔哩安卓 App，支持触摸、遥控，以及安卓 5，适用于平板、TV、车机等设备](https://2libra.com/post/tools-sharing/-OwEUb9)
@@ -11,6 +12,10 @@
   - [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/)
 - ByteByteGo
   - [EP234: Docker vs Kubernetes](https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes)
+- CoinTelegraph
+  - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Chainflip confirms $12M hack, offers attacker 10% bounty](https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Upload2Shell Ghostscript Bug Turns File Uploads Into Remote Code Execution, Patch Gaps Remain](https://www.cyberkendra.com/2026/11/upload2shell-ghostscript-bug-turns-file-uploads-into-remote-code-execution-patch-gaps-remain.html)
 - daringfireball.net
@@ -54,6 +59,8 @@
   - [John Roberts, the voice of Linda Belcher, is just happy to finish a thing](https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview)
   - [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)
   - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
+- troyhunt.com
+  - [Weekly Update 531: Optimizely. Script Dependencies & Third Parties](https://www.troyhunt.com/weekly-update-531/)
 - Vulners.com RSS Feed
   - [CVE-2026-133985](https://vulners.com/nvd/NVD:CVE-2026-133985?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133990](https://vulners.com/nvd/NVD:CVE-2026-133990?utm_source=rss&utm_medium=rss&utm_campaign=rss)
