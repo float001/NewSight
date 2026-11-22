@@ -3,6 +3,8 @@
 - 2Libra
   - [Lean 与 Mathlib 社区联合声明：完全确信 Alpöge 已证明黎曼猜想](https://2libra.com/post/programming-languages/u0qo3xQ)
   - [分享自己做的浏览器插件](https://2libra.com/post/browser-extensions/534YBe7)
+  - [深圳最佳旅游宣传片！没有之一 📷📷📷](https://2libra.com/post/local-life/NJMjSN1)
+  - [自己做的摸鱼软件，该有的功能都有了](https://2libra.com/post/open-source-sharing/og6MdVH)
 - Ars Technica
   - [Review: Godzilla Minus Zero joins the list of truly stellar sequels](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/)
 - ByteByteGo
