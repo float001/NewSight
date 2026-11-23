@@ -3,6 +3,7 @@
 - 2Libra
   - [AI 会不会产生自我意识？](https://2libra.com/post/questions/z1kO__B)
   - [CHA.la 新增功能 - ID 身份画像，欢迎测评看看准不准](https://2libra.com/post/promotion/mVH-E1c)
+  - [Cleverbridge 警告称，黑客在一次数据泄露事件中窃取了信用卡号及 CVV 码](https://2libra.com/post/tech-news/E0NcEEy)
   - [doge_ninja 既视感，整了个三合一保暖面罩， 真的好](https://2libra.com/post/worth-buying/Y0zU-Hu)
   - [LiteBLOG 轻量博客系统，高性能，低代码](https://2libra.com/post/open-source-sharing/MIM7JQt)
   - [Token 羊毛在线汇总网站](https://2libra.com/post/deal-hunter/K8gPOwZ)
@@ -15,9 +16,12 @@
   - [【💰】有没有老哥做也是做内容社区的，对发广告的发帖机器人有什么好的屏蔽方法吗？](https://2libra.com/post/help-requests/GGRnPh7)
   - [【💰】求推荐游戏老哥们，感觉电子 ED 了要](https://2libra.com/post/game-share/SuSpCD4)
   - [上传头像问题](https://2libra.com/post/community/MYhXARc)
+  - [上网要注意安全，差点被黑了](https://2libra.com/post/network-security/d_KHa3d)
   - [假设我是一个 Gay，并且使用《哆啦 A 梦》里的任意门，把出口设在我自己的背后，那么我究竟是 1 还是 0？](https://2libra.com/post/idea/0KWedOc)
   - [做了一个没有任务、没有终点的小游戏 🌼](https://2libra.com/post/personal-works/fCe4T0Q)
+  - [分享使用 U 卡的一点小小的经验 踩坑记录!](https://2libra.com/post/sharing-discoveries/kAjcKHf)
   - [发现了一个撸猫网站](https://2libra.com/post/sharing-discoveries/P_bpJJO)
+  - [可以托管到 Cloudlare 免费域名,注册简单，没有 AFF 提供十多个后缀，api64.de；IPv64.net 等，每人可注册 3 个【搬运】](https://2libra.com/post/domain-service/iwbArYG)
   - [大佬们有没有推荐的科幻电影呀](https://2libra.com/post/recommendations/RA7F2xT)
   - [大家快来猜猜是什么导致 AI 拒绝回答的](https://2libra.com/post/large-models/3YT3JWh)
   - [大家有折腾 IPTV 源么](https://2libra.com/post/tv/JerzVj3)
@@ -34,6 +38,7 @@
   - [Zenith Data Systems, Part II](https://www.abortretry.fail/p/zenith-data-systems-part-ii)
 - Ars Technica
   - [Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI](https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/)
+  - [Tri-screen portable monitors aren’t for the faint of heart](https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/)
 - CoinTelegraph
   - [Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December](https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs shed $1.8B in third-largest weekly outflow](https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -86,6 +91,8 @@
   - [Gravity on an oblate planet](https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/)
 - seangoedecke.com
   - [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)
+- shkspr.mobi
+  - [Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆](https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/)
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
   - [Exploit for Cross-site Scripting in Svelte](https://sploitus.com/exploit?id=02D66A24-4FEE-53C1-9C32-049E0D5BB3E3&utm_source=rss&utm_medium=rss)
@@ -126,6 +133,8 @@
   - [Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts](https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857)
   - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
   - [Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks](https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903)
+- The Decoder
+  - [GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy](https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/)
 - The Verge
   - [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
   - [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
@@ -137,6 +146,7 @@
 - troyhunt.com
   - [Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies](https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/)
 - Vulners.com RSS Feed
+  - [CVE-2026-101282](https://vulners.com/nvd/NVD:CVE-2026-101282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115232](https://vulners.com/nvd/NVD:CVE-2026-115232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118887](https://vulners.com/nvd/NVD:CVE-2026-118887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118888](https://vulners.com/nvd/NVD:CVE-2026-118888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -146,6 +156,8 @@
   - [CVE-2026-121613](https://vulners.com/nvd/NVD:CVE-2026-121613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123886 Spring Data Elasticsearch SpEL Expression Injection through String-based Query Method Arguments](https://vulners.com/cve/CVE-2026-123886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123886 Spring Data Elasticsearch SpEL Expression Injection through String-based Query Method Arguments](https://vulners.com/cvelist/CVELIST:CVE-2026-123886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125651 Apache Arrow Rust: Bloom filters written as plaintext when writing encrypted Parquet](https://vulners.com/cve/CVE-2026-125651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125651 Apache Arrow Rust: Bloom filters written as plaintext when writing encrypted Parquet](https://vulners.com/cvelist/CVELIST:CVE-2026-125651?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-128979](https://vulners.com/nvd/NVD:CVE-2026-128979?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129024](https://vulners.com/nvd/NVD:CVE-2026-129024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129066](https://vulners.com/nvd/NVD:CVE-2026-129066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -168,6 +180,7 @@
   - [CVE-2026-132147](https://vulners.com/nvd/NVD:CVE-2026-132147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133646 Out-of-bounds write in Synchronet BBS from synchro.net](https://vulners.com/cve/CVE-2026-133646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133646 Out-of-bounds write in Synchronet BBS from synchro.net](https://vulners.com/cvelist/CVELIST:CVE-2026-133646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-13408](https://vulners.com/nvd/NVD:CVE-2026-13408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134731](https://vulners.com/nvd/NVD:CVE-2026-134731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134732](https://vulners.com/nvd/NVD:CVE-2026-134732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134733](https://vulners.com/nvd/NVD:CVE-2026-134733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -239,7 +252,12 @@
   - [CVE-2026-134885](https://vulners.com/nvd/NVD:CVE-2026-134885?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134886 osCommerce Cached Image ImageController.php actionCached path traversal](https://vulners.com/cve/CVE-2026-134886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134886 osCommerce Cached Image ImageController.php actionCached path traversal](https://vulners.com/cvelist/CVELIST:CVE-2026-134886?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134890](https://vulners.com/nvd/NVD:CVE-2026-134890?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134891](https://vulners.com/nvd/NVD:CVE-2026-134891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134892](https://vulners.com/nvd/NVD:CVE-2026-134892?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134924](https://vulners.com/nvd/NVD:CVE-2026-134924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134935](https://vulners.com/nvd/NVD:CVE-2026-134935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-19531](https://vulners.com/nvd/NVD:CVE-2026-19531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59340 Denial of Service via crafted PDF in PagePdfDocumentReader](https://vulners.com/cve/CVE-2026-59340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59340 Denial of Service via crafted PDF in PagePdfDocumentReader](https://vulners.com/cvelist/CVELIST:CVE-2026-59340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59442 Broken Logical Grouping Expression in TypesenseFilterExpressionConverter](https://vulners.com/cve/CVE-2026-59442?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -250,8 +268,10 @@
   - [CVE-2026-93584 Unauthenticated SQL Injection in OTRS External Survey Endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-93584?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94252](https://vulners.com/nvd/NVD:CVE-2026-94252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EscapeArmed](https://vulners.com/githubexploit/3B9A9F1C-8331-5C6D-BB37-DE5BE29A3A88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-115232](https://vulners.com/githubexploit/9563CFAF-9E74-5B66-AAFD-115D940902CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-120539](https://vulners.com/githubexploit/51DBE4A6-8764-560C-B4A8-91D8E0FFCF18?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-128137](https://vulners.com/githubexploit/A82CCBAA-A1E1-529A-82D3-594ED181754C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-134823](https://vulners.com/githubexploit/09D0D15C-DD48-5D88-A8FF-E4241150E267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-77367](https://vulners.com/githubexploit/2E3685EA-21A5-51D5-B5F7-2D3BEEBF20FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-77380](https://vulners.com/githubexploit/D5FEDBB7-52AC-5CA4-A5A8-6AFA9780B047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [RUSTSEC-2026-0594 Private cookie nonces can repeat in processes that fork](https://vulners.com/osv_rustsec/OSV:RUSTSEC-2026-0594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
