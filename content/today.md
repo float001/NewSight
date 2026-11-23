@@ -1,16 +1,20 @@
 # 今日安全资讯（2026-11-23）
 
 - 2Libra
+  - [doge_ninja 既视感，整了个三合一保暖面罩， 真的好](https://2libra.com/post/worth-buying/Y0zU-Hu)
   - [LiteBLOG 轻量博客系统，高性能，低代码](https://2libra.com/post/open-source-sharing/MIM7JQt)
   - [Token 羊毛在线汇总网站](https://2libra.com/post/deal-hunter/K8gPOwZ)
   - [【投票】你会定期去洗牙么？](https://2libra.com/post/health-consultation/-RBFHMv)
   - [【💰】大家有没有好的加湿器推荐，预算 500 左右](https://2libra.com/post/ask-recommendation/w4r5HMQ)
   - [【💰】有没有老哥做也是做内容社区的，对发广告的发帖机器人有什么好的屏蔽方法吗？](https://2libra.com/post/help-requests/GGRnPh7)
+  - [【💰】求推荐游戏老哥们，感觉电子 ED 了要](https://2libra.com/post/game-share/SuSpCD4)
+  - [上传头像问题](https://2libra.com/post/community/MYhXARc)
   - [假设我是一个 Gay，并且使用《哆啦 A 梦》里的任意门，把出口设在我自己的背后，那么我究竟是 1 还是 0？](https://2libra.com/post/idea/0KWedOc)
   - [做了一个没有任务、没有终点的小游戏 🌼](https://2libra.com/post/personal-works/fCe4T0Q)
   - [发现了一个撸猫网站](https://2libra.com/post/sharing-discoveries/P_bpJJO)
   - [有无质保的 gemini 开通渠道或者优惠活动](https://2libra.com/post/ai-tools/YfBXFJ3)
   - [说说你在玩的游戏？](https://2libra.com/post/game-share/amnwsnL)
+  - [请教大佬们运营 x 账号的环境稳定性问题](https://2libra.com/post/networking/qAddOLG)
 - 360 Netlab Blog - 360
   - [AI安全专题周报（20261120）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-20261120/)
 - abortretry.fail
@@ -18,6 +22,7 @@
 - CoinTelegraph
   - [Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December](https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump renews call for Nvidia to rehire Jensen Huang as CEO](https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Hacker News Frontpage
   - [Advanced Character Physics (2001) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
@@ -27,11 +32,18 @@
   - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
   - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
   - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+- HackerNews
+  - [黑客利用 GL.iNet 云漏洞感染路由器与 KVM 设备](http://0.0.0.0:8080/post/64935)
 - seangoedecke.com
   - [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-102945](https://sploitus.com/exploit?id=A09C222A-95F2-5539-AA54-9B2BEB4E5412&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-104099](https://sploitus.com/exploit?id=17A61CF0-706E-5500-B1C6-6C1DB8C61942&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-128136](https://sploitus.com/exploit?id=37E87394-7DA9-5A11-A518-F1D30D5B9413&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-129221](https://sploitus.com/exploit?id=607080D0-9AFC-5A15-B850-C2AE10F175E6&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-59988](https://sploitus.com/exploit?id=1C2FDBCC-6AF1-5780-8716-4A939982BCA0&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-95839](https://sploitus.com/exploit?id=AC7B0315-C36A-5C9B-9864-5663A3737467&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://sploitus.com/exploit?id=E0EF2187-EB13-5131-99EF-B331EC9C76FF&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=FC616450-579B-5DFD-B045-0AFB06914FD4&utm_source=rss&utm_medium=rss)
   - [pentest-agent-xss-skills-1 exploit](https://sploitus.com/exploit?id=6A2EE873-34BD-533C-A586-95CCCD864228&utm_source=rss&utm_medium=rss)
@@ -135,10 +147,13 @@
   - [CVE-2026-134868](https://vulners.com/nvd/NVD:CVE-2026-134868?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EscapeArmed](https://vulners.com/githubexploit/3B9A9F1C-8331-5C6D-BB37-DE5BE29A3A88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss47](https://vulners.com/githubexploit/8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- 不安全
+  - [因未能与所有者达成最新协议 Plex将在12月份停止支持TheTVDB数据库 建议用户改用TMDB](https://buaq.net/go-456703.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始](https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [XREAL AURA 体验：科幻电影的未来，这么近那么远](https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机](https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元](https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
