@@ -37,15 +37,21 @@
 - abortretry.fail
   - [Zenith Data Systems, Part II](https://www.abortretry.fail/p/zenith-data-systems-part-ii)
 - Ars Technica
+  - [F1 in Las Vegas: You've never seen an F1 race like this before](https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/)
   - [Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI](https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/)
   - [Tri-screen portable monitors aren’t for the faint of heart](https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/)
 - CoinTelegraph
+  - [AI agents are using credit cards. Where does that leave crypto?](https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December](https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs shed $1.8B in third-largest weekly outflow](https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTC price gains 12% from $55K: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Critics of Netflix’s FTX drama point to Obama’s producer credit](https://cointelegraph.com/news/netflix-ftx-scrutiny-obama-production-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB to let banks pledge more tokenized securities as collateral](https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [OKX, ICE launch 113 tokenized assets despite issuer objections](https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks](https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump renews call for Nvidia to rehire Jensen Huang as CEO](https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump-linked American Bitcoin secures $150M credit line from FalconX](https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [AI routers are leaking your passwords. Here's the proof](https://cybernews.com/security/ai-routers-leak-passwords/)
@@ -55,7 +61,9 @@
   - [GoFundMe confirms data breach, donors' private data exposed](https://cybernews.com/security/gofundme-data-breach/)
   - [Hackers infect GL.iNet routers and KVMs with malware by exploiting firm’s own cloud service](https://cybernews.com/security/glinet-routers-kvm-malware-cloud-breach/)
   - [How You Can Stream BBC iPlayer in Australia with PureVPN](https://cybernews.com/partner-content/how-you-can-stream-bbc-iplayer-in-australia-with-purevpn/)
+  - [Microsoft admits hackers accessed customers' private data](https://cybernews.com/security/microsoft-data-breach-entra-health/)
   - [Telegram CEO’s risky GTA 6 joke likely made lawyers sweat](https://cybernews.com/news/pavel-durov-gta-6-telegram-joke/)
+  - [US intel chief says Americans should be “proud” China gained access to advanced AI chips](https://cybernews.com/news/china-nvidia-chips/)
 - Data Breach
   - [Bulgaria Discovers Massive Government Breach After Five Years of Undetected Spying](https://securityaffairs.com/203794/intelligence/bulgaria-discovers-massive-government-breach-after-five-years-of-undetected-spying.html)
 - defend.network
@@ -87,8 +95,13 @@
   - [Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads](https://www.infosecurity-magazine.com/news/badbox-spread-ad-fraud/)
   - [Cleverbridge Confirms Customers’ Payment Card Data Breached](https://www.infosecurity-magazine.com/news/cleverbridge-payment-card-breached/)
   - [Critical Cisco Expressway Flaw Exploited in Attacks](https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/)
+  - [US Lawmakers Propose CISA Board to Review Major Cyber Incidents](https://www.infosecurity-magazine.com/news/us-lawmakers-bill-cisa-review/)
 - johndcook.com
   - [Gravity on an oblate planet](https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/)
+- MIT Technology Review
+  - [The Download: AI’s judgment problem and carbon removal’s crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/)
+- pluralistic.net
+  - [Pluralistic: The Debt Trap (23 Nov 2026)](https://pluralistic.net/2026/11/23/grasshoppers-v-ants/)
 - seangoedecke.com
   - [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)
 - shkspr.mobi
@@ -121,6 +134,7 @@
   - [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
   - [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
   - [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
+  - [Uber now lets you book rides that record the drive by default](https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/)
   - [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
   - [‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)
 - The Block
@@ -128,15 +142,22 @@
   - [Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings](https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866)
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
   - [Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000](https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842)
+  - [OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading](https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898)
+  - [Pump.fun draws criticism over private key imports as it retires external wallet sign-in on web](https://www.theblock.co/news/ecosystems/2026-11-23-pump-fun-draws-criticism-over-private-key-imports-as-it-retires-external-wallet-sign-in-on-web-444926)
   - [Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments](https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880)
+  - [Solo bitcoin miner beats the odds to win $191,000 block reward](https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919)
   - [South Korea to publish draft of comprehensive crypto legal framework this week](https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881)
   - [Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts](https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857)
   - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
   - [Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks](https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903)
+  - [‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million](https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907)
 - The Decoder
   - [GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy](https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/)
+  - [Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough](https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/)
+  - [US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year](https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/)
 - The Verge
   - [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
+  - [Blade Runner 2099 is an inventive twist on a cyberpunk classic](https://www.theverge.com/entertainment/1039095/blade-runner-2099-review)
   - [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
   - [Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker](https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink)
   - [Meta Muse can now do your Black Friday shopping at Walmart](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)
@@ -145,6 +166,8 @@
   - [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
 - troyhunt.com
   - [Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies](https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/)
+- Vulnerabilities and Threat Research – Qualys Security Blog
+  - [Upgrade to Qualys’ Learning Management System (LMS)](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
   - [CVE-2026-101282](https://vulners.com/nvd/NVD:CVE-2026-101282?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115232](https://vulners.com/nvd/NVD:CVE-2026-115232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -285,6 +308,7 @@
   - [Early Black Friday iPad Deals Already Worth Shopping (2026)](https://www.wired.com/story/best-black-friday-ipad-deals-2026/)
   - [Goodbye, World: The End of Programmers](https://www.wired.com/story/goodbye-world-the-end-of-programmers/)
   - [Inside Google’s Failure to Make Google Maps Work for Palestinians](https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/)
+  - [Nvidia Is Powering Brain-Computer Interfaces Now](https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/)
   - [States Sue SpaceX Over Grok Deepfakes](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/)
   - [Submit Your Questions: Will Anyone Keep You Safe From AI?](https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/)
   - [‘Babylon on the Potomac’: Pete Hegseth’s Radical DC Church Attracts Government Elites](https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/)
@@ -302,6 +326,8 @@
   - [BepiColombo 探测器进入水星轨道](https://www.solidot.org/story?sid=85965)
   - [GTA 6 如何在游戏中刻画电动汽车？](https://www.solidot.org/story?sid=85961)
   - [日本人口年龄中位数首次超过 50 岁](https://www.solidot.org/story?sid=85964)
+- 安全学术圈
+  - [2025年度北京市科学技术奖获奖名单（网络空间安全领域）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496205&idx=1&sn=3c9915e0e58b42e2b880bbf5d8f67b7d)
 - 安全客
   - [全球第九的超算被黑，丢的是 4224 把 SSH 私钥](https://www.anquanke.com/post/id/316533)
   - [德国把网络威胁拉到最高档，理由就四个字：智能体 AI](https://www.anquanke.com/post/id/316536)
