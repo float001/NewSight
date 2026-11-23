@@ -5,27 +5,40 @@
 - CoinTelegraph
   - [Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations](https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cross River Bank enters Bitcoin-backed lending with $250K loans](https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks](https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [Donald Trump on Jensen Huang’s Reinstatement at Nvidia](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493)
   - [Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’](https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo)
 - darkreading
   - [AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes)
+  - [Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors)
 - Google AI Blog
   - [A more tailored Google Search that’s uniquely yours](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/)
 - Hacker News Frontpage
+  - [Kagi Mail is here (Public Beta)](https://blog.kagi.com/kagi-mail-public-beta)
   - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 - Horizon3.ai
   - [From a Cracked CEO Credential to a Potential Ransomware Path](https://horizon3.ai/downloads/use-case/cracked-ceo-credential-ransomware-path/)
 - infosecurity-magazine.com
   - [Bots Hide Behind AI Agent Names to Hunt for Secrets](https://www.infosecurity-magazine.com/news/secrethunting-trafficai-agent/)
+- johndcook.com
+  - [Two generators suffice](https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/)
 - Kali Linux Tutorials
   - [What Is Endpoint Detection and Response (EDR)?](https://kalilinuxtutorials.com/endpoint-detection-and-response/)
+- MIT Technology Review
+  - [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
 - TechCrunch
+  - [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
   - [CrowdStrike to acquire Zscaler for $44 billion](https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/)
   - [Jensen Huang isn’t out of the woods yet](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/)
+  - [Meta throws out its net-zero goal. Its competitors should be furious](https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/)
   - [Trump reportedly called into Nvidia board meeting to advocate for Huang’s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)
+- The Block
+  - [Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry](https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373)
 - The Verge
   - [My trusty 27-inch Alienware QD-OLED gaming monitor is just $280](https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale)
   - [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay)
+  - [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
   - [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated)
 - Vulners.com RSS Feed
   - [CVE-2026-101219](https://vulners.com/cvelist/CVELIST:CVE-2026-101219?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -78,5 +91,7 @@
   - [CVE-2026-95432](https://vulners.com/cvelist/CVELIST:CVE-2026-95432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96457](https://vulners.com/nvd/NVD:CVE-2026-96457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HTTP Digest Realm Confusion Authentication Bypass](https://vulners.com/laminas/LP-2026-01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [Jensen Huang Is Back and So Is Nvidia’s Stock](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
