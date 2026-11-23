@@ -34,6 +34,8 @@
   - [请教大佬们运营 x 账号的环境稳定性问题](https://2libra.com/post/networking/qAddOLG)
 - 360 Netlab Blog - 360
   - [AI安全专题周报（20261120）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-20261120/)
+- 404 Media
+  - [‘The Code Is Already Copied Everywhere’: The AI Hacking Tool Causing Havoc Around the World](https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/)
 - abortretry.fail
   - [Zenith Data Systems, Part II](https://www.abortretry.fail/p/zenith-data-systems-part-ii)
 - Ars Technica
@@ -48,6 +50,7 @@
   - [Critics of Netflix’s FTX drama point to Obama’s producer credit](https://cointelegraph.com/news/netflix-ftx-scrutiny-obama-production-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [ECB to let banks pledge more tokenized securities as collateral](https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe](https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [OKX, ICE launch 113 tokenized assets despite issuer objections](https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks](https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump renews call for Nvidia to rehire Jensen Huang as CEO](https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,19 +60,28 @@
   - [AI routers are leaking your passwords. Here's the proof](https://cybernews.com/security/ai-routers-leak-passwords/)
   - [Alice Huang was in contact with China’s top spy agency during affair with Nvidia CEO, NYT reports](https://cybernews.com/news/alice-huang-nvidia-scandal/)
   - [Chinese university under fire for installing $5M system to monitor if students are paying attention](https://cybernews.com/privacy/china-university-surveillance/)
+  - [DevOps platform reveals just how relentless ARTEX is after attack forces emergency shutdown](https://cybernews.com/ai-news/artex-hacking-tool-attacks-devops-platform/)
   - [Dutch Prosecutors hacked Tata Steel in probe into alleged deliberate pollution](https://cybernews.com/tech/dutch-prosecutors-hacked-tata-steel/)
+  - [European AI model makes 1 million decisions for $16 and is nearly as accurate as Claude](https://cybernews.com/ai-news/zuse-decision-model/)
   - [GoFundMe confirms data breach, donors' private data exposed](https://cybernews.com/security/gofundme-data-breach/)
   - [Hackers infect GL.iNet routers and KVMs with malware by exploiting firm’s own cloud service](https://cybernews.com/security/glinet-routers-kvm-malware-cloud-breach/)
   - [How You Can Stream BBC iPlayer in Australia with PureVPN](https://cybernews.com/partner-content/how-you-can-stream-bbc-iplayer-in-australia-with-purevpn/)
+  - [Jensen Huang is back as Nvidia CEO](https://cybernews.com/tech/jensen-huang-is-back-as-nvidia-ceo/)
+  - [LaLiga data breach exposed personal information of fans and clubs](https://cybernews.com/security/la-liga-cyberattack-personal-data/)
   - [Microsoft admits hackers accessed customers' private data](https://cybernews.com/security/microsoft-data-breach-entra-health/)
   - [Telegram CEO’s risky GTA 6 joke likely made lawyers sweat](https://cybernews.com/news/pavel-durov-gta-6-telegram-joke/)
   - [US intel chief says Americans should be “proud” China gained access to advanced AI chips](https://cybernews.com/news/china-nvidia-chips/)
+- daringfireball.net
+  - [Nvidia Board Reinstates Jensen Huang](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
 - Data Breach
   - [Bulgaria Discovers Massive Government Breach After Five Years of Undetected Spying](https://securityaffairs.com/203794/intelligence/bulgaria-discovers-massive-government-breach-after-five-years-of-undetected-spying.html)
+  - [Microsoft Entra Connect Health Breach Exposes Tenant Metadata and Admin Details](https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html)
 - defend.network
   - [GL.iNet cloud flaw exploited; MONAI zero-day; Cleverbridge breach](https://defend.network/briefings/glinet-cloud-exploit-monai-zero-day-cleverbridge-breach-2026-11-23.html)
 - ElcomSoft blog
   - [Beyond Live Triage: Analyzing Disk Images, VMs, and Mobile TAR Extractions](https://blog.elcomsoft.com/2026/11/beyond-live-triage-analyzing-disk-images-vms-and-mobile-tar-extractions/)
+- Fidelis Security
+  - [Zero Trust in AWS: Closing Visibility Gaps After Access is Granted](https://fidelissecurity.com/threatgeek/threat-detection-response/aws-zero-trust/)
 - GuidePoint Security
   - [Building Resilience Against the AI Security Triple Threat](https://www.guidepointsecurity.com/blog/building-resilience-against-the-ai-security-triple-threat/)
 - Hacker News Frontpage
@@ -95,6 +107,7 @@
   - [Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads](https://www.infosecurity-magazine.com/news/badbox-spread-ad-fraud/)
   - [Cleverbridge Confirms Customers’ Payment Card Data Breached](https://www.infosecurity-magazine.com/news/cleverbridge-payment-card-breached/)
   - [Critical Cisco Expressway Flaw Exploited in Attacks](https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/)
+  - [Signal Moves to Block  iOS and Android AI Agents From Reading Chats](https://www.infosecurity-magazine.com/news/signal-blocks-ai-agents-reading/)
   - [US Lawmakers Propose CISA Board to Review Major Cyber Incidents](https://www.infosecurity-magazine.com/news/us-lawmakers-bill-cisa-review/)
 - johndcook.com
   - [Gravity on an oblate planet](https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/)
@@ -131,7 +144,9 @@
   - [xss47 exploit](https://sploitus.com/exploit?id=8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
+  - [Nvidia reverses course and brings Jensen Huang back as CEO](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/)
   - [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
+  - [Sierra doubles valuation to $30B within six months as demand for AI in CX takes off](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)
   - [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
   - [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
   - [Uber now lets you book rides that record the drive by default](https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/)
@@ -140,6 +155,8 @@
 - The Block
   - [A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge](https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838)
   - [Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings](https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866)
+  - [Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%](https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952)
+  - [Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case](https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948)
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
   - [Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000](https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842)
   - [OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading](https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898)
@@ -152,8 +169,10 @@
   - [Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks](https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903)
   - [‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million](https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907)
 - The Decoder
+  - [Chinese military fears AI could let the US find and destroy its nuclear missiles](https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/)
   - [GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy](https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/)
   - [Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough](https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/)
+  - [Nvidia tried life without Jensen Huang and it lasted about two weeks](https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/)
   - [US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year](https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/)
 - The Verge
   - [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
@@ -173,6 +192,8 @@
   - [CVE-2026-115232](https://vulners.com/nvd/NVD:CVE-2026-115232?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118887](https://vulners.com/nvd/NVD:CVE-2026-118887?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118888](https://vulners.com/nvd/NVD:CVE-2026-118888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119068](https://vulners.com/nvd/NVD:CVE-2026-119068?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-119069](https://vulners.com/nvd/NVD:CVE-2026-119069?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120382](https://vulners.com/nvd/NVD:CVE-2026-120382?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121456](https://vulners.com/nvd/NVD:CVE-2026-121456?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-121480](https://vulners.com/nvd/NVD:CVE-2026-121480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -201,6 +222,7 @@
   - [CVE-2026-131793](https://vulners.com/nvd/NVD:CVE-2026-131793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-131794](https://vulners.com/nvd/NVD:CVE-2026-131794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132147](https://vulners.com/nvd/NVD:CVE-2026-132147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132856](https://vulners.com/nvd/NVD:CVE-2026-132856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133646 Out-of-bounds write in Synchronet BBS from synchro.net](https://vulners.com/cve/CVE-2026-133646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-133646 Out-of-bounds write in Synchronet BBS from synchro.net](https://vulners.com/cvelist/CVELIST:CVE-2026-133646?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-13408](https://vulners.com/nvd/NVD:CVE-2026-13408?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -279,6 +301,7 @@
   - [CVE-2026-134891](https://vulners.com/nvd/NVD:CVE-2026-134891?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134892](https://vulners.com/nvd/NVD:CVE-2026-134892?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134924](https://vulners.com/nvd/NVD:CVE-2026-134924?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134927](https://vulners.com/nvd/NVD:CVE-2026-134927?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134935](https://vulners.com/nvd/NVD:CVE-2026-134935?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19531](https://vulners.com/nvd/NVD:CVE-2026-19531?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-59340 Denial of Service via crafted PDF in PagePdfDocumentReader](https://vulners.com/cve/CVE-2026-59340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -289,10 +312,12 @@
   - [CVE-2026-88850](https://vulners.com/nvd/NVD:CVE-2026-88850?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93584 Unauthenticated SQL Injection in OTRS External Survey Endpoint](https://vulners.com/cve/CVE-2026-93584?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-93584 Unauthenticated SQL Injection in OTRS External Survey Endpoint](https://vulners.com/cvelist/CVELIST:CVE-2026-93584?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-93585](https://vulners.com/nvd/NVD:CVE-2026-93585?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-94252](https://vulners.com/nvd/NVD:CVE-2026-94252?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EscapeArmed](https://vulners.com/githubexploit/3B9A9F1C-8331-5C6D-BB37-DE5BE29A3A88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-115232](https://vulners.com/githubexploit/9563CFAF-9E74-5B66-AAFD-115D940902CD?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-120539](https://vulners.com/githubexploit/51DBE4A6-8764-560C-B4A8-91D8E0FFCF18?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-124559](https://vulners.com/githubexploit/8EFF8769-9E79-5436-A049-796698305BC4?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-128137](https://vulners.com/githubexploit/A82CCBAA-A1E1-529A-82D3-594ED181754C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-134823](https://vulners.com/githubexploit/09D0D15C-DD48-5D88-A8FF-E4241150E267?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-77367](https://vulners.com/githubexploit/2E3685EA-21A5-51D5-B5F7-2D3BEEBF20FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -308,6 +333,7 @@
   - [Early Black Friday iPad Deals Already Worth Shopping (2026)](https://www.wired.com/story/best-black-friday-ipad-deals-2026/)
   - [Goodbye, World: The End of Programmers](https://www.wired.com/story/goodbye-world-the-end-of-programmers/)
   - [Inside Google’s Failure to Make Google Maps Work for Palestinians](https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/)
+  - [Jensen Huang Is Back as Nvidia CEO](https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/)
   - [Nvidia Is Powering Brain-Computer Interfaces Now](https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/)
   - [States Sue SpaceX Over Grok Deepfakes](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/)
   - [Submit Your Questions: Will Anyone Keep You Safe From AI?](https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/)
@@ -337,8 +363,10 @@
   - [AI 降本增笑，全世界都在被迫接受审美大降级](https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始](https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [XREAL AURA 体验：科幻电影的未来，这么近那么远](https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%](https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机](https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元](https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过](https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗](https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]不要追踪我 浏览器插件](https://key08.com/index.php/2026/11/23/3407.html)
