@@ -10,6 +10,7 @@
   - [【周末家常菜】周六青椒擂皮蛋 or 周日黄鱼炖豆腐，哪个更对胃口？](https://2libra.com/post/personal-life/mAbACJ3)
   - [【投票】《挽救计划》 影评：7.5 分，算不上硬科幻，剧情潦草但立意有趣](https://2libra.com/post/movie-experience/R5X162G)
   - [【投票】你会定期去洗牙么？](https://2libra.com/post/health-consultation/-RBFHMv)
+  - [【💰】各位是怎么交友/扩圈的啊](https://2libra.com/post/friendship/mAJ0BDD)
   - [【💰】大家有没有好的加湿器推荐，预算 500 左右](https://2libra.com/post/ask-recommendation/w4r5HMQ)
   - [【💰】有没有老哥做也是做内容社区的，对发广告的发帖机器人有什么好的屏蔽方法吗？](https://2libra.com/post/help-requests/GGRnPh7)
   - [【💰】求推荐游戏老哥们，感觉电子 ED 了要](https://2libra.com/post/game-share/SuSpCD4)
@@ -31,9 +32,13 @@
   - [AI安全专题周报（20261120）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-20261120/)
 - abortretry.fail
   - [Zenith Data Systems, Part II](https://www.abortretry.fail/p/zenith-data-systems-part-ii)
+- Ars Technica
+  - [Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI](https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/)
 - CoinTelegraph
   - [Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December](https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin ETFs shed $1.8B in third-largest weekly outflow](https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTC price gains 12% from $55K: Three things to know in Bitcoin this week](https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ECB to let banks pledge more tokenized securities as collateral](https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump renews call for Nvidia to rehire Jensen Huang as CEO](https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -52,6 +57,8 @@
   - [GL.iNet cloud flaw exploited; MONAI zero-day; Cleverbridge breach](https://defend.network/briefings/glinet-cloud-exploit-monai-zero-day-cleverbridge-breach-2026-11-23.html)
 - ElcomSoft blog
   - [Beyond Live Triage: Analyzing Disk Images, VMs, and Mobile TAR Extractions](https://blog.elcomsoft.com/2026/11/beyond-live-triage-analyzing-disk-images-vms-and-mobile-tar-extractions/)
+- GuidePoint Security
+  - [Building Resilience Against the AI Security Triple Threat](https://www.guidepointsecurity.com/blog/building-resilience-against-the-ai-security-triple-threat/)
 - Hacker News Frontpage
   - [Advanced Character Physics (2001) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
   - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
@@ -113,10 +120,12 @@
   - [A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge](https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838)
   - [Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings](https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866)
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
+  - [Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000](https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842)
   - [Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments](https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880)
   - [South Korea to publish draft of comprehensive crypto legal framework this week](https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881)
   - [Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts](https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857)
   - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
+  - [Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks](https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903)
 - The Verge
   - [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
   - [Delta flights in and out of Atlanta delayed due to system outage](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
@@ -245,14 +254,20 @@
   - [Exploit for CVE-2026-128137](https://vulners.com/githubexploit/A82CCBAA-A1E1-529A-82D3-594ED181754C?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-77367](https://vulners.com/githubexploit/2E3685EA-21A5-51D5-B5F7-2D3BEEBF20FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-77380](https://vulners.com/githubexploit/D5FEDBB7-52AC-5CA4-A5A8-6AFA9780B047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [RUSTSEC-2026-0594 Private cookie nonces can repeat in processes that fork](https://vulners.com/osv_rustsec/OSV:RUSTSEC-2026-0594?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss47](https://vulners.com/githubexploit/8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [44 Best Gifts Under $100 That WIRED Loves (2026)](https://www.wired.com/gallery/best-gifts-under-100/)
+  - [A Former DOGE Operative Won a Federal Contract. Then Things Got Messy](https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/)
   - [A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules](https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/)
   - [Best Early Black Friday Espresso Machine Deals (2026)](https://www.wired.com/story/early-black-friday-coffee-espresso-deals-11-23-2026/)
+  - [Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More](https://www.wired.com/story/gifts-for-parents-2026/)
   - [Early Black Friday iPad Deals Already Worth Shopping (2026)](https://www.wired.com/story/best-black-friday-ipad-deals-2026/)
   - [Goodbye, World: The End of Programmers](https://www.wired.com/story/goodbye-world-the-end-of-programmers/)
   - [Inside Google’s Failure to Make Google Maps Work for Palestinians](https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/)
   - [States Sue SpaceX Over Grok Deepfakes](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/)
+  - [Submit Your Questions: Will Anyone Keep You Safe From AI?](https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/)
+  - [‘Babylon on the Potomac’: Pete Hegseth’s Radical DC Church Attracts Government Elites](https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/)
 - 不安全
   - [AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms](https://buaq.net/go-456745.html)
   - [Exploiting Broken Brute-Force Protection with Multiple Credentials per Request](https://buaq.net/go-456750.html)
