@@ -4,6 +4,7 @@
   - [doge_ninja 既视感，整了个三合一保暖面罩， 真的好](https://2libra.com/post/worth-buying/Y0zU-Hu)
   - [LiteBLOG 轻量博客系统，高性能，低代码](https://2libra.com/post/open-source-sharing/MIM7JQt)
   - [Token 羊毛在线汇总网站](https://2libra.com/post/deal-hunter/K8gPOwZ)
+  - [UU 远程要收费了，rustdesk 被反诈，看来不得不让 AI 偷一个了](https://2libra.com/post/personal-works/8DypJ8b)
   - [【周末家常菜】周六青椒擂皮蛋 or 周日黄鱼炖豆腐，哪个更对胃口？](https://2libra.com/post/personal-life/mAbACJ3)
   - [【投票】你会定期去洗牙么？](https://2libra.com/post/health-consultation/-RBFHMv)
   - [【💰】大家有没有好的加湿器推荐，预算 500 左右](https://2libra.com/post/ask-recommendation/w4r5HMQ)
@@ -13,7 +14,9 @@
   - [假设我是一个 Gay，并且使用《哆啦 A 梦》里的任意门，把出口设在我自己的背后，那么我究竟是 1 还是 0？](https://2libra.com/post/idea/0KWedOc)
   - [做了一个没有任务、没有终点的小游戏 🌼](https://2libra.com/post/personal-works/fCe4T0Q)
   - [发现了一个撸猫网站](https://2libra.com/post/sharing-discoveries/P_bpJJO)
+  - [大家快来猜猜是什么导致 AI 拒绝回答的](https://2libra.com/post/large-models/3YT3JWh)
   - [有无质保的 gemini 开通渠道或者优惠活动](https://2libra.com/post/ai-tools/YfBXFJ3)
+  - [现在都没人发帖了嘛](https://2libra.com/post/slacking-off/Nwt6gRq)
   - [说说你在玩的游戏？](https://2libra.com/post/game-share/amnwsnL)
   - [请教大佬们运营 x 账号的环境稳定性问题](https://2libra.com/post/networking/qAddOLG)
 - 360 Netlab Blog - 360
@@ -25,9 +28,12 @@
   - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump renews call for Nvidia to rehire Jensen Huang as CEO](https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- defend.network
+  - [GL.iNet cloud flaw exploited; MONAI zero-day; Cleverbridge breach](https://defend.network/briefings/glinet-cloud-exploit-monai-zero-day-cleverbridge-breach-2026-11-23.html)
 - Hacker News Frontpage
   - [Advanced Character Physics (2001) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
   - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+  - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager)
   - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
   - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
   - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
@@ -39,6 +45,7 @@
   - [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
+  - [Exploit for Cross-site Scripting in Svelte](https://sploitus.com/exploit?id=02D66A24-4FEE-53C1-9C32-049E0D5BB3E3&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-102945](https://sploitus.com/exploit?id=A09C222A-95F2-5539-AA54-9B2BEB4E5412&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-104099](https://sploitus.com/exploit?id=17A61CF0-706E-5500-B1C6-6C1DB8C61942&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-128136](https://sploitus.com/exploit?id=37E87394-7DA9-5A11-A518-F1D30D5B9413&utm_source=rss&utm_medium=rss)
@@ -48,6 +55,7 @@
   - [Exploit for CVE-2026-77376](https://sploitus.com/exploit?id=C1F4551A-7775-561D-A112-15017D7546C5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-77377](https://sploitus.com/exploit?id=B638E59C-CC53-53C0-966C-6BC2DAA8FA06&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-77379](https://sploitus.com/exploit?id=C0BE619B-4C71-5C54-A9BB-5FDD7BF6B72F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-77380](https://sploitus.com/exploit?id=D5FEDBB7-52AC-5CA4-A5A8-6AFA9780B047&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-77382](https://sploitus.com/exploit?id=3ACE9339-5356-5D78-8539-8942DDB1382B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-95839](https://sploitus.com/exploit?id=AC7B0315-C36A-5C9B-9864-5663A3737467&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://sploitus.com/exploit?id=E0EF2187-EB13-5131-99EF-B331EC9C76FF&utm_source=rss&utm_medium=rss)
@@ -75,6 +83,7 @@
   - [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale)
   - [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
 - Vulners.com RSS Feed
+  - [CVE-2026-121480](https://vulners.com/nvd/NVD:CVE-2026-121480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129024](https://vulners.com/nvd/NVD:CVE-2026-129024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129066](https://vulners.com/nvd/NVD:CVE-2026-129066?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129081](https://vulners.com/nvd/NVD:CVE-2026-129081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -162,9 +171,11 @@
   - [EscapeArmed](https://vulners.com/githubexploit/3B9A9F1C-8331-5C6D-BB37-DE5BE29A3A88?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-120539](https://vulners.com/githubexploit/51DBE4A6-8764-560C-B4A8-91D8E0FFCF18?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-77367](https://vulners.com/githubexploit/2E3685EA-21A5-51D5-B5F7-2D3BEEBF20FC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-77380](https://vulners.com/githubexploit/D5FEDBB7-52AC-5CA4-A5A8-6AFA9780B047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [xss47](https://vulners.com/githubexploit/8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 不安全
   - [因未能与所有者达成最新协议 Plex将在12月份停止支持TheTVDB数据库 建议用户改用TMDB](https://buaq.net/go-456703.html)
+  - [群联展示内置NPU和64GB内存的固态硬盘 可在硬盘上运行AI框架](https://buaq.net/go-456712.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
