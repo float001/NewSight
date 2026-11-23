@@ -6,6 +6,7 @@
   - [Token 羊毛在线汇总网站](https://2libra.com/post/deal-hunter/K8gPOwZ)
   - [UU 远程要收费了，rustdesk 被反诈，看来不得不让 AI 偷一个了](https://2libra.com/post/personal-works/8DypJ8b)
   - [【周末家常菜】周六青椒擂皮蛋 or 周日黄鱼炖豆腐，哪个更对胃口？](https://2libra.com/post/personal-life/mAbACJ3)
+  - [【投票】《挽救计划》 影评：7.5 分，算不上硬科幻，剧情潦草但立意有趣](https://2libra.com/post/movie-experience/R5X162G)
   - [【投票】你会定期去洗牙么？](https://2libra.com/post/health-consultation/-RBFHMv)
   - [【💰】大家有没有好的加湿器推荐，预算 500 左右](https://2libra.com/post/ask-recommendation/w4r5HMQ)
   - [【💰】有没有老哥做也是做内容社区的，对发广告的发帖机器人有什么好的屏蔽方法吗？](https://2libra.com/post/help-requests/GGRnPh7)
@@ -15,8 +16,12 @@
   - [做了一个没有任务、没有终点的小游戏 🌼](https://2libra.com/post/personal-works/fCe4T0Q)
   - [发现了一个撸猫网站](https://2libra.com/post/sharing-discoveries/P_bpJJO)
   - [大家快来猜猜是什么导致 AI 拒绝回答的](https://2libra.com/post/large-models/3YT3JWh)
+  - [大家有折腾 IPTV 源么](https://2libra.com/post/tv/JerzVj3)
+  - [有个疑问，黑洞里面的金币池还会被触发吗](https://2libra.com/post/forum-function/K4N-2dA)
   - [有无质保的 gemini 开通渠道或者优惠活动](https://2libra.com/post/ai-tools/YfBXFJ3)
   - [现在都没人发帖了嘛](https://2libra.com/post/slacking-off/Nwt6gRq)
+  - [突发奇想](https://2libra.com/post/forum-function/fdCmdvj)
+  - [肌肉大只佬上班族都是怎么持续健身的](https://2libra.com/post/sports/ZFTD1g8)
   - [说说你在玩的游戏？](https://2libra.com/post/game-share/amnwsnL)
   - [请教大佬们运营 x 账号的环境稳定性问题](https://2libra.com/post/networking/qAddOLG)
 - 360 Netlab Blog - 360
@@ -28,6 +33,8 @@
   - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump renews call for Nvidia to rehire Jensen Huang as CEO](https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CyberNews
+  - [How You Can Stream BBC iPlayer in Australia with PureVPN](https://cybernews.com/partner-content/how-you-can-stream-bbc-iplayer-in-australia-with-purevpn/)
 - defend.network
   - [GL.iNet cloud flaw exploited; MONAI zero-day; Cleverbridge breach](https://defend.network/briefings/glinet-cloud-exploit-monai-zero-day-cleverbridge-breach-2026-11-23.html)
 - Hacker News Frontpage
@@ -49,7 +56,9 @@
   - [Exploit for CVE-2026-102945](https://sploitus.com/exploit?id=A09C222A-95F2-5539-AA54-9B2BEB4E5412&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-104099](https://sploitus.com/exploit?id=17A61CF0-706E-5500-B1C6-6C1DB8C61942&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-128136](https://sploitus.com/exploit?id=37E87394-7DA9-5A11-A518-F1D30D5B9413&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-128139](https://sploitus.com/exploit?id=1F99AEBC-5978-56B5-8C54-EDF8AFF21867&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-129221](https://sploitus.com/exploit?id=607080D0-9AFC-5A15-B850-C2AE10F175E6&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-45325](https://sploitus.com/exploit?id=8A8D5EBB-208C-5789-BC23-FCE7BFDB0F5E&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-59988](https://sploitus.com/exploit?id=1C2FDBCC-6AF1-5780-8716-4A939982BCA0&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-77369](https://sploitus.com/exploit?id=4987D36F-6C04-57C0-9936-1FEE2C254F44&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-77376](https://sploitus.com/exploit?id=C1F4551A-7775-561D-A112-15017D7546C5&utm_source=rss&utm_medium=rss)
@@ -72,6 +81,7 @@
   - [‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)
 - The Block
   - [A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge](https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838)
+  - [Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings](https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866)
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
   - [Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts](https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857)
   - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
@@ -82,6 +92,8 @@
   - [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review)
   - [Some of our favorite Switch 2 games are cheaper through Black Friday](https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale)
   - [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages)
+- troyhunt.com
+  - [Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies](https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/)
 - Vulners.com RSS Feed
   - [CVE-2026-121480](https://vulners.com/nvd/NVD:CVE-2026-121480?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129024](https://vulners.com/nvd/NVD:CVE-2026-129024?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -178,6 +190,8 @@
   - [群联展示内置NPU和64GB内存的固态硬盘 可在硬盘上运行AI框架](https://buaq.net/go-456712.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [GTA 6 如何在游戏中刻画电动汽车？](https://www.solidot.org/story?sid=85961)
 - 爱范儿
   - [iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始](https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [XREAL AURA 体验：科幻电影的未来，这么近那么远](https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=)
