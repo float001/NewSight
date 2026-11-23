@@ -10,7 +10,9 @@
   - [Amazon fights Delivery Protection Act by putting stickers on its packages](https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/)
   - [Reports: Russia may launch nuclear weapon into orbit as soon as next month](https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/)
   - [Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret](https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/)
+  - [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/)
   - [Surveillance pricing uses our personal data to make us pay more](https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/)
+  - [Trump halts Iowa detonation, says new governor to blame if it blows accidentally](https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/)
 - ByteByteGo
   - [DoorDash Dispatch: Building a Lightning-Fast Delivery System](https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning)
 - CoinTelegraph
@@ -19,6 +21,7 @@
   - [BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn](https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cross River Bank enters Bitcoin-backed lending with $250K loans](https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks](https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi secures temporary win in New York gambling law dispute](https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Donald Trump on Jensen Huang’s Reinstatement at Nvidia](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493)
@@ -26,6 +29,7 @@
 - darkreading
   - [AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes)
   - [Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors)
+  - [CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal](https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal)
   - [US Cyber Director Pick Signals Shift Toward Expertise](https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise)
 - Data Breach
   - [Cleverbridge Confirms Attackers Copied Payment Card Data From Its Platform](https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html)
@@ -47,14 +51,19 @@
   - [What Is Endpoint Detection and Response (EDR)?](https://kalilinuxtutorials.com/endpoint-detection-and-response/)
 - MIT Technology Review
   - [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
+- simonwillison.net
+  - [Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/)
 - TechCrunch
   - [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
   - [CrowdStrike to acquire Zscaler for $44 billion](https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/)
+  - [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/)
   - [Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)
   - [Jensen Huang isn’t out of the woods yet](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/)
   - [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)
+  - [Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)
   - [Meta throws out its net-zero goal. Its competitors should be furious](https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/)
   - [Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/)
+  - [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
   - [Trump reportedly called into Nvidia board meeting to advocate for Huang’s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)
   - [‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia](https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/)
 - The Block
@@ -66,6 +75,7 @@
   - [OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably](https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/)
   - [OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits](https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/)
 - The Verge
+  - [AI data centers throw another wrench into chaotic UN climate talks](https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit)
   - [Apple renews Ted Lasso for season 5](https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv)
   - [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)
   - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale)
@@ -76,6 +86,7 @@
   - [Oregon and Virginia sue SpaceX over Grok’s porn deepfakes](https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit)
   - [Peacock subscriptions are up to 66 percent off for Black Friday](https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale)
   - [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay)
+  - [The Apple Watch Series 12 is cheaper than ever ahead of Black Friday](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale)
   - [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
   - [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated)
 - Vulners.com RSS Feed
@@ -173,7 +184,10 @@
   - [CVE-2026-96457](https://vulners.com/nvd/NVD:CVE-2026-96457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HTTP Digest Realm Confusion Authentication Bypass](https://vulners.com/laminas/LP-2026-01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [B&H Photo Promo Codes and Deals This November 2026](https://www.wired.com/story/bh-photo-coupon/)
+  - [How to Win Big Betting on Jensen Huang? Listen to Trump](https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/)
   - [Jensen Huang Is Back and So Is Nvidia’s Stock](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)
+  - [Nvidia Is Powering Brain-Computer Interfaces Now](https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/)
   - [The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead](https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
