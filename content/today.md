@@ -1,12 +1,17 @@
 # 今日安全资讯（2026-11-23）
 
 - 2Libra
+  - [Token 羊毛在线汇总网站](https://2libra.com/post/deal-hunter/K8gPOwZ)
   - [做了一个没有任务、没有终点的小游戏 🌼](https://2libra.com/post/personal-works/fCe4T0Q)
+  - [发现了一个撸猫网站](https://2libra.com/post/sharing-discoveries/P_bpJJO)
+  - [有无质保的 gemini 开通渠道或者优惠活动](https://2libra.com/post/ai-tools/YfBXFJ3)
+  - [说说你在玩的游戏？](https://2libra.com/post/game-share/amnwsnL)
 - CoinTelegraph
   - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Hacker News Frontpage
   - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+  - [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
   - [Nyx, the Oldest Internet Service Provider](https://nyx.net/)
   - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
   - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
@@ -16,11 +21,13 @@
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-104099](https://sploitus.com/exploit?id=17A61CF0-706E-5500-B1C6-6C1DB8C61942&utm_source=rss&utm_medium=rss)
+  - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://sploitus.com/exploit?id=E0EF2187-EB13-5131-99EF-B331EC9C76FF&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=FC616450-579B-5DFD-B045-0AFB06914FD4&utm_source=rss&utm_medium=rss)
   - [pentest-agent-xss-skills-1 exploit](https://sploitus.com/exploit?id=6A2EE873-34BD-533C-A586-95CCCD864228&utm_source=rss&utm_medium=rss)
   - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
   - [xss47 exploit](https://sploitus.com/exploit?id=8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/)
   - [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
   - [TechCrunch Mobility: A/B testing robots vs. humans](https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/)
   - [The best apps to make new friends right now](https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/)
