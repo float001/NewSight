@@ -9,6 +9,8 @@
 - Ars Technica
   - [Amazon fights Delivery Protection Act by putting stickers on its packages](https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/)
   - [Reports: Russia may launch nuclear weapon into orbit as soon as next month](https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/)
+  - [Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret](https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/)
+  - [Surveillance pricing uses our personal data to make us pay more](https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/)
 - ByteByteGo
   - [DoorDash Dispatch: Building a Lightning-Fast Delivery System](https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning)
 - CoinTelegraph
@@ -17,18 +19,21 @@
   - [BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn](https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cross River Bank enters Bitcoin-backed lending with $250K loans](https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks](https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Kalshi secures temporary win in New York gambling law dispute](https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [Donald Trump on Jensen Huang’s Reinstatement at Nvidia](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493)
   - [Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’](https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo)
 - darkreading
   - [AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes)
   - [Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors)
+  - [US Cyber Director Pick Signals Shift Toward Expertise](https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise)
 - Data Breach
   - [Cleverbridge Confirms Attackers Copied Payment Card Data From Its Platform](https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html)
 - Google AI Blog
   - [A more tailored Google Search that’s uniquely yours](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/)
 - Hacker News Frontpage
   - ["Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"](https://arm.jonpalmisc.com/)
+  - [Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html)
   - [Kagi Mail is here (Public Beta)](https://blog.kagi.com/kagi-mail-public-beta)
   - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 - Horizon3.ai
@@ -49,6 +54,7 @@
   - [Jensen Huang isn’t out of the woods yet](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/)
   - [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)
   - [Meta throws out its net-zero goal. Its competitors should be furious](https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/)
+  - [Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/)
   - [Trump reportedly called into Nvidia board meeting to advocate for Huang’s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)
   - [‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia](https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/)
 - The Block
@@ -57,8 +63,10 @@
   - [Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry](https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373)
 - The Decoder
   - [Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy](https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/)
+  - [OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably](https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/)
   - [OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits](https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/)
 - The Verge
+  - [Apple renews Ted Lasso for season 5](https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv)
   - [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)
   - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale)
   - [How Jensen Huang ended up as Nvidia CEO again](https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return)
@@ -72,15 +80,26 @@
   - [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated)
 - Vulners.com RSS Feed
   - [CVE-2026-101219](https://vulners.com/cvelist/CVELIST:CVE-2026-101219?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-12422](https://vulners.com/nvd/NVD:CVE-2026-12422?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127223](https://vulners.com/nvd/NVD:CVE-2026-127223?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127224](https://vulners.com/nvd/NVD:CVE-2026-127224?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130164 Hermes Agent: Missing key validation for Bot Desktop screen environment file in non-local terminal backends](https://vulners.com/cve/CVE-2026-130164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130164 Hermes Agent: Missing key validation for Bot Desktop screen environment file in non-local terminal backends](https://vulners.com/cvelist/CVELIST:CVE-2026-130164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134010](https://vulners.com/nvd/NVD:CVE-2026-134010?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134056](https://vulners.com/cve/CVE-2026-134056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134056](https://vulners.com/nvd/NVD:CVE-2026-134056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134056 Out-of-bounds write in padded block cipher decryption in AWS-LC](https://vulners.com/cvelist/CVELIST:CVE-2026-134056?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135079](https://vulners.com/nvd/NVD:CVE-2026-135079?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135080](https://vulners.com/nvd/NVD:CVE-2026-135080?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135081](https://vulners.com/nvd/NVD:CVE-2026-135081?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135082](https://vulners.com/nvd/NVD:CVE-2026-135082?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135088 ONLYOFFICE onlyoffice-humhub Mention Notification Mention.php html cross site scripting](https://vulners.com/cve/CVE-2026-135088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135088 ONLYOFFICE onlyoffice-humhub Mention Notification Mention.php html cross site scripting](https://vulners.com/cvelist/CVELIST:CVE-2026-135088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135120](https://vulners.com/nvd/NVD:CVE-2026-135120?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135126](https://vulners.com/nvd/NVD:CVE-2026-135126?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135127](https://vulners.com/nvd/NVD:CVE-2026-135127?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135128 FredrikNoren ungit /api/clone git-api.js argument injection](https://vulners.com/cve/CVE-2026-135128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135128 FredrikNoren ungit /api/clone git-api.js argument injection](https://vulners.com/cvelist/CVELIST:CVE-2026-135128?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135244](https://vulners.com/nvd/NVD:CVE-2026-135244?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135247](https://vulners.com/nvd/NVD:CVE-2026-135247?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135248](https://vulners.com/nvd/NVD:CVE-2026-135248?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -115,6 +134,9 @@
   - [CVE-2026-135444](https://vulners.com/nvd/NVD:CVE-2026-135444?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135445](https://vulners.com/nvd/NVD:CVE-2026-135445?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135446](https://vulners.com/nvd/NVD:CVE-2026-135446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135470](https://vulners.com/nvd/NVD:CVE-2026-135470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135471](https://vulners.com/nvd/NVD:CVE-2026-135471?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135472 open62541 1.5.0-1.5.10 Use-After-Free via RelativePath Parsing](https://vulners.com/cvelist/CVELIST:CVE-2026-135472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95410](https://vulners.com/cvelist/CVELIST:CVE-2026-95410?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95411](https://vulners.com/cve/CVE-2026-95411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95411](https://vulners.com/cvelist/CVELIST:CVE-2026-95411?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -147,6 +169,7 @@
   - [CVE-2026-95431](https://vulners.com/cvelist/CVELIST:CVE-2026-95431?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95432](https://vulners.com/cve/CVE-2026-95432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-95432](https://vulners.com/cvelist/CVELIST:CVE-2026-95432?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95793](https://vulners.com/nvd/NVD:CVE-2026-95793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-96457](https://vulners.com/nvd/NVD:CVE-2026-96457?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [HTTP Digest Realm Confusion Authentication Bypass](https://vulners.com/laminas/LP-2026-01?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
