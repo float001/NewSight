@@ -8,10 +8,14 @@
   - [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
   - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
   - [What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+- seangoedecke.com
+  - [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)
 - Sploitus.com Exploits RSS Feed
   - [CTF---Hack-and-Juice exploit](https://sploitus.com/exploit?id=3B87A0B9-1EC5-5FEA-84AE-862B99817117&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-104099](https://sploitus.com/exploit?id=17A61CF0-706E-5500-B1C6-6C1DB8C61942&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=FC616450-579B-5DFD-B045-0AFB06914FD4&utm_source=rss&utm_medium=rss)
   - [pentest-agent-xss-skills-1 exploit](https://sploitus.com/exploit?id=6A2EE873-34BD-533C-A586-95CCCD864228&utm_source=rss&utm_medium=rss)
+  - [Vulners Software Audit exploit](https://sploitus.com/exploit?id=KS:SCANNER-VULNERS-SOFTWARE_AUDIT&utm_source=rss&utm_medium=rss)
   - [xss47 exploit](https://sploitus.com/exploit?id=8ED7BCA4-A7AD-5CBE-BF5D-070BBE5971BE&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)
@@ -20,6 +24,7 @@
   - [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/)
   - [‘You Can See Everything’ has made more than $100M worldwide](https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/)
 - The Block
+  - [A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge](https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838)
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
   - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
 - The Verge
