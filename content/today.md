@@ -1,6 +1,9 @@
 # 今日安全资讯（2026-11-23）
 
+- 2Libra
+  - [做了一个没有任务、没有终点的小游戏 🌼](https://2libra.com/post/personal-works/fCe4T0Q)
 - CoinTelegraph
+  - [Half of wallets on Trump’s dinner list got tokens from non-US exchanges](https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest](https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Hacker News Frontpage
   - [Canada recommits to federal funding for news](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
@@ -52,6 +55,10 @@
   - [CVE-2026-131793](https://vulners.com/nvd/NVD:CVE-2026-131793?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-131794](https://vulners.com/nvd/NVD:CVE-2026-131794?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132147](https://vulners.com/nvd/NVD:CVE-2026-132147?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134731](https://vulners.com/nvd/NVD:CVE-2026-134731?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134732](https://vulners.com/nvd/NVD:CVE-2026-134732?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134733](https://vulners.com/nvd/NVD:CVE-2026-134733?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134734](https://vulners.com/nvd/NVD:CVE-2026-134734?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134800](https://vulners.com/nvd/NVD:CVE-2026-134800?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134802](https://vulners.com/nvd/NVD:CVE-2026-134802?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134804](https://vulners.com/nvd/NVD:CVE-2026-134804?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -107,5 +114,7 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始](https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机](https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元](https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 白帽Wiki - 一个简单的wiki
   - [[2026]不要追踪我 浏览器插件](https://key08.com/index.php/2026/11/23/3407.html)
