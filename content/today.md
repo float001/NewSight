@@ -5,10 +5,16 @@
   - [微信小羊毛必中 可多号撸 新羊毛刚出来](https://2libra.com/post/deal-hunter/VAr2n_c)
 - 404 Media
   - [Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character](https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/)
+  - [University Approves Nuclear Weapons Data Center, Township Vows to Fight On](https://www.404media.co/ypsilanti-michigan-data-center-vote/)
+- Ars Technica
+  - [Amazon fights Delivery Protection Act by putting stickers on its packages](https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/)
+  - [Reports: Russia may launch nuclear weapon into orbit as soon as next month](https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/)
 - ByteByteGo
   - [DoorDash Dispatch: Building a Lightning-Fast Delivery System](https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning)
 - CoinTelegraph
+  - [Base makes quantum security a 2027 priority as regulators warn of risks](https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations](https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn](https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cross River Bank enters Bitcoin-backed lending with $250K loans](https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks](https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -17,9 +23,12 @@
 - darkreading
   - [AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes)
   - [Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors)
+- Data Breach
+  - [Cleverbridge Confirms Attackers Copied Payment Card Data From Its Platform](https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html)
 - Google AI Blog
   - [A more tailored Google Search that’s uniquely yours](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/)
 - Hacker News Frontpage
+  - ["Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"](https://arm.jonpalmisc.com/)
   - [Kagi Mail is here (Public Beta)](https://blog.kagi.com/kagi-mail-public-beta)
   - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
 - Horizon3.ai
@@ -36,18 +45,26 @@
 - TechCrunch
   - [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
   - [CrowdStrike to acquire Zscaler for $44 billion](https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/)
+  - [Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)
   - [Jensen Huang isn’t out of the woods yet](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/)
   - [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)
   - [Meta throws out its net-zero goal. Its competitors should be furious](https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/)
   - [Trump reportedly called into Nvidia board meeting to advocate for Huang’s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)
+  - [‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia](https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/)
 - The Block
   - [CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight](https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384)
+  - [DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens](https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398)
   - [Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry](https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373)
 - The Decoder
   - [Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy](https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/)
   - [OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits](https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/)
 - The Verge
+  - [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)
+  - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale)
+  - [How Jensen Huang ended up as Nvidia CEO again](https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return)
+  - [Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return](https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return)
   - [My trusty 27-inch Alienware QD-OLED gaming monitor is just $280](https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale)
+  - [New magical shows worth watching instead of Harry Potter](https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter)
   - [Oregon and Virginia sue SpaceX over Grok’s porn deepfakes](https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit)
   - [Peacock subscriptions are up to 66 percent off for Black Friday](https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale)
   - [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay)
