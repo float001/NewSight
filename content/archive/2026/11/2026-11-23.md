@@ -4,6 +4,7 @@
   - [doge_ninja 既视感，整了个三合一保暖面罩， 真的好](https://2libra.com/post/worth-buying/Y0zU-Hu)
   - [LiteBLOG 轻量博客系统，高性能，低代码](https://2libra.com/post/open-source-sharing/MIM7JQt)
   - [Token 羊毛在线汇总网站](https://2libra.com/post/deal-hunter/K8gPOwZ)
+  - [【周末家常菜】周六青椒擂皮蛋 or 周日黄鱼炖豆腐，哪个更对胃口？](https://2libra.com/post/personal-life/mAbACJ3)
   - [【投票】你会定期去洗牙么？](https://2libra.com/post/health-consultation/-RBFHMv)
   - [【💰】大家有没有好的加湿器推荐，预算 500 左右](https://2libra.com/post/ask-recommendation/w4r5HMQ)
   - [【💰】有没有老哥做也是做内容社区的，对发广告的发帖机器人有什么好的屏蔽方法吗？](https://2libra.com/post/help-requests/GGRnPh7)
@@ -43,6 +44,11 @@
   - [Exploit for CVE-2026-128136](https://sploitus.com/exploit?id=37E87394-7DA9-5A11-A518-F1D30D5B9413&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-129221](https://sploitus.com/exploit?id=607080D0-9AFC-5A15-B850-C2AE10F175E6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-59988](https://sploitus.com/exploit?id=1C2FDBCC-6AF1-5780-8716-4A939982BCA0&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-77369](https://sploitus.com/exploit?id=4987D36F-6C04-57C0-9936-1FEE2C254F44&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-77376](https://sploitus.com/exploit?id=C1F4551A-7775-561D-A112-15017D7546C5&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-77377](https://sploitus.com/exploit?id=B638E59C-CC53-53C0-966C-6BC2DAA8FA06&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-77379](https://sploitus.com/exploit?id=C0BE619B-4C71-5C54-A9BB-5FDD7BF6B72F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-77382](https://sploitus.com/exploit?id=3ACE9339-5356-5D78-8539-8942DDB1382B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-95839](https://sploitus.com/exploit?id=AC7B0315-C36A-5C9B-9864-5663A3737467&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Openidentityplatform Openam](https://sploitus.com/exploit?id=E0EF2187-EB13-5131-99EF-B331EC9C76FF&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Underflow (Wrap or Wraparound) in F5 Dos](https://sploitus.com/exploit?id=FC616450-579B-5DFD-B045-0AFB06914FD4&utm_source=rss&utm_medium=rss)
@@ -59,6 +65,7 @@
 - The Block
   - [A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge](https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838)
   - [Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty](https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829)
+  - [Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts](https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857)
   - [Trump to host second memecoin dinner tonight with TRUMP down 99% from peak](https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828)
 - The Verge
   - [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
