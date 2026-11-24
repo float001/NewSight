@@ -17,6 +17,7 @@
   - [纯 AI 手搓的仿 Postman！](https://2libra.com/post/personal-works/iz6Bjes)
   - [纳指因老黄全面起飞!然而..](https://2libra.com/post/stock-market/cuSRxuG)
   - [老黄王者回归了，大家怎么看](https://2libra.com/post/tech-news/kgHDYx7)
+  - [获得 725 金币，不用客气。](https://2libra.com/post/forum-function/gdRHpeZ)
   - [隔壁 NL 站 UI 今天大更新啊](https://2libra.com/post/invite-code/CToSj7p)
 - 404 Media
   - [Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character](https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/)
@@ -32,6 +33,7 @@
   - [DoorDash Dispatch: Building a Lightning-Fast Delivery System](https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning)
 - CoinTelegraph
   - [Base makes quantum security a 2027 priority as regulators warn of risks](https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%](https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations](https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn](https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC staff say exchanges can count Bitcoin toward operating reserves](https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -68,6 +70,9 @@
   - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
   - [The Beauty of Artists' Studios](https://spectator.com/article/the-beauty-of-artists-studios/)
   - [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
+  - [VP ≠ VNP over Every Field [pdf]](https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf)
+- HackerNews
+  - [西班牙 LaLiga 确认黑客窃取球迷个人数据](http://0.0.0.0:8080/post/64943)
 - Horizon3.ai
   - [ARTEX Is Changing the Economics of Attack. Defenders Must Change the Economics of Validation.](https://horizon3.ai/intelligence/blogs/artex-economics-of-attack-validation/)
   - [From a Cracked CEO Credential to a Potential Ransomware Path](https://horizon3.ai/downloads/use-case/cracked-ceo-credential-ransomware-path/)
@@ -410,6 +415,7 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Google 申请专利为用户量身定制 AI 电视频道](https://www.solidot.org/story?sid=85973)
   - [新浏览器 Ladybird 释出首个 alpha 版本](https://www.solidot.org/story?sid=85972)
 - 爱范儿
   - [iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议](https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=)
