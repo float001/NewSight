@@ -7,6 +7,7 @@
   - [Bing Rewards 10,008 积分可以用来干什么？](https://2libra.com/post/questions/7IPRGDZ)
   - [KIRO 送福利了！](https://2libra.com/post/ai-programming/nwwslpg)
   - [《家政女皇》生活小妙招（洗澡篇）](https://2libra.com/post/personal-life/eguwKy1)
+  - [【开放 API】通知事件 Webhook 上线，补齐原生通知能力](https://2libra.com/post/product-updates/LqdQtPd)
   - [【运动打卡】这几天玩游戏懒拉，赖床了](https://2libra.com/post/game-discussion/t_wS8dN)
   - [【💰】cha.la IP 纯净度检测功能优化建议征集](https://2libra.com/post/interaction/0dyZZiz)
   - [【💰】求推荐好用便宜的 esim 手机](https://2libra.com/post/phone/CgHOI3e)
@@ -34,9 +35,13 @@
 - 404 Media
   - [Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character](https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/)
   - [University Approves Nuclear Weapons Data Center, Township Vows to Fight On](https://www.404media.co/ypsilanti-michigan-data-center-vote/)
+- anildash.com
+  - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/)
+  - [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/)
 - Ars Technica
   - [Amazon fights Delivery Protection Act by putting stickers on its packages](https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/)
   - [Amazon says hackers' AI agents found and exploited 0-day with little human input](https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/)
+  - [How Trump and Silicon Valley forced Nvidia to take Jensen Huang back](https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/)
   - [One terminal command gave my forgotten Android device a desk job](https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/)
   - [Reports: Russia may launch nuclear weapon into orbit as soon as next month](https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/)
   - [Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret](https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/)
@@ -64,9 +69,11 @@
   - [Kalshi secures temporary win in New York gambling law dispute](https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals](https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Swiss central bank, UBS and SIX study ledger for tokenized settlement](https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [USDT buyers face 22% VAT when Moscow Exchange opens crypto trading](https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts](https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html)
 - CyberNews
+  - [Google tries to patent an AI TV channel where you’d be the star, but fails](https://cybernews.com/news/google-ai-tv-channel-patent/)
   - [Hackers claim major research firm, leaking Roblox and KPMG details](https://cybernews.com/security/ipsos-data-leak-qilin-ransomware-gang/)
   - [Hackers exploit GTA VI hype to spread info-stealing malware](https://cybernews.com/security/hackers-gta-vi-info-stealing-malware/)
   - [If Jensen Huang had died, who would be running Nvidia?](https://cybernews.com/news/jensen-huang-simulation-theory-nvidia-reinstatement-leadership/)
@@ -125,6 +132,7 @@
   - [Researchers Find a New AI Attack Path: Agent Instructions](https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/)
 - johndcook.com
   - [Finite Projective Spaces](https://www.johndcook.com/blog/2026/11/23/finite-projective-spaces/)
+  - [Memorable 12-digit primes](https://www.johndcook.com/blog/2026/11/24/memorable-12-digit-primes/)
   - [Two generators suffice](https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/)
 - Kali Linux Tutorials
   - [What Is Endpoint Detection and Response (EDR)?](https://kalilinuxtutorials.com/endpoint-detection-and-response/)
@@ -155,6 +163,8 @@
   - [Exploit for CVE-2026-133949](https://sploitus.com/exploit?id=0DDA2C0C-96B6-5C70-BA7C-106794B54C6A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-135725](https://sploitus.com/exploit?id=2743B368-D971-58E4-88B0-2CEC0649EACC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-135731](https://sploitus.com/exploit?id=CF96E54A-4C00-5AFF-880D-56DBAC629147&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-135732](https://sploitus.com/exploit?id=C48059FC-2D47-5D34-8FDC-1A8BCB32C38F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-135740](https://sploitus.com/exploit?id=2CF0B48D-D751-5001-8C80-9A3B61D1012A&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-99310](https://sploitus.com/exploit?id=968ED21D-3350-5076-8386-C4F3C56433BB&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Mirasvit Full_Page_Cache_Warmer](https://sploitus.com/exploit?id=5AE0AE03-690E-5138-9A2A-AEE72CF1B5BB&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Oracle Jdk](https://sploitus.com/exploit?id=9B8B3460-F50D-595D-B699-979EFA25DEE7&utm_source=rss&utm_medium=rss)
@@ -181,6 +191,7 @@
   - [Trump reportedly called into Nvidia board meeting to advocate for Huang’s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)
   - [‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia](https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/)
 - The Block
+  - [Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K](https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548)
   - [Bitcoin slips back toward $60,000 as Jensen Huang’s Nvidia return rally fizzles](https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472)
   - [BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors](https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524)
   - [California court terminates lawsuit against Coinbase over TerraUSD purchases](https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448)
@@ -198,6 +209,7 @@
   - [South Korea’s draft crypto bill sets path for domestic ICOs while capping exchange shareholder stakes at 20%](https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494)
   - [XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth](https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395)
 - The Decoder
+  - [Anthropic researcher stands by his AI-assisted Riemann proof but owns up to "stupid things" in the rollout](https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/)
   - [Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy](https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/)
   - [Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/)
   - [German researchers call for computer science to reinvent itself as "Computer and AI Science"](https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/)
@@ -208,6 +220,7 @@
   - [Apple renews Ted Lasso for season 5](https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv)
   - [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)
   - [Google alternative Kagi launches an email service](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative)
+  - [Harman Kardon’s classic, see-through SoundSticks 4 are half off](https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale)
   - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale)
   - [How Jensen Huang ended up as Nvidia CEO again](https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return)
   - [Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return](https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return)
@@ -635,10 +648,12 @@
   - [OFFgrid-SDR Update: Single HTML File SDR Receiver Adds SDRplay RSP Support, DAB+, DRM and an 8-Channel Signal Monitor](https://buaq.net/go-456957.html)
   - [Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)](https://buaq.net/go-456945.html)
   - [TikTok在全球范围内推出肖像检测功能 用户可以查找并举报AI冒用内容](https://buaq.net/go-456940.html)
+  - [Vision Security Adds Free Feed to Track ARTEX IP Addresses](https://buaq.net/go-457080.html)
   - [德国虚拟主机提供商netbeat遭到黑客攻击 部分客户登录凭证泄露影响网站数据安全](https://buaq.net/go-456959.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
+  - [Firefox 161 释出](https://www.solidot.org/story?sid=85979)
   - [Google 申请专利为用户量身定制 AI 电视频道](https://www.solidot.org/story?sid=85973)
   - [新浏览器 Ladybird 释出首个 alpha 版本](https://www.solidot.org/story?sid=85972)
 - 爱范儿
