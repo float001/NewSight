@@ -7,6 +7,7 @@
   - [【运动打卡】这几天玩游戏懒拉，赖床了](https://2libra.com/post/game-discussion/t_wS8dN)
   - [为什么我感觉万妖不好看](https://2libra.com/post/animation-sharing/I4BtVA1)
   - [今日记录不展示消耗 0 金币的记录了？](https://2libra.com/post/forum-function/-yQRSHv)
+  - [你家附近三公里内有一家新开的【免费素面】，你愿意去吃吗？](https://2libra.com/post/social-observation/idpXPzB)
   - [因本人不愿接手英伟达 CEO 职务，英伟达董事会恢复黄仁勋的总裁、首席执行官及董事职务](https://2libra.com/post/idea/1Jh4Qcm)
   - [大意了，苹果账号没了](https://2libra.com/post/apple/6lxyRO8)
   - [寻找上班的辅助系统](https://2libra.com/post/touch-fish/_BZf2CR)
@@ -15,6 +16,7 @@
   - [纯 AI 手搓的仿 Postman！](https://2libra.com/post/personal-works/iz6Bjes)
   - [纳指因老黄全面起飞!然而..](https://2libra.com/post/stock-market/cuSRxuG)
   - [老黄王者回归了，大家怎么看](https://2libra.com/post/tech-news/kgHDYx7)
+  - [隔壁 NL 站 UI 今天大更新啊](https://2libra.com/post/invite-code/CToSj7p)
 - 404 Media
   - [Google Wants To Make a 24/7 AI TV Channel. You’ll Be the Main Character](https://www.404media.co/google-wants-to-make-a-24-7-ai-tv-channel-youll-be-the-main-character/)
   - [University Approves Nuclear Weapons Data Center, Township Vows to Fight On](https://www.404media.co/ypsilanti-michigan-data-center-vote/)
@@ -93,6 +95,8 @@
   - [Exploit for CVE-2026-99310](https://sploitus.com/exploit?id=968ED21D-3350-5076-8386-C4F3C56433BB&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Mirasvit Full_Page_Cache_Warmer](https://sploitus.com/exploit?id=5AE0AE03-690E-5138-9A2A-AEE72CF1B5BB&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Weaver E-Cology](https://sploitus.com/exploit?id=396C1D31-75FC-5BD8-89D7-B2B80C4B5C99&utm_source=rss&utm_medium=rss)
+  - [Exploit for Unrestricted Upload of File with Dangerous Type in Chamilo Chamilo_Lms](https://sploitus.com/exploit?id=DD9F5584-0BD6-51E5-974A-16BD11DE2D91&utm_source=rss&utm_medium=rss)
+  - [remote-greybox-exploit-development](https://sploitus.com/exploit?id=1FDFF9C8-6461-5A4A-9583-B7646B3BD3A3&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
   - [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
@@ -389,6 +393,8 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议](https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [「试用期」已到，苹果开始给 AI 收费了 | AG&I](https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布](https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！](https://www.qbitai.com/2026/11/512297.html)
