@@ -8,6 +8,7 @@
   - [NASA may get $2 billion boost as White House seeks to accelerate Artemis](https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/)
   - [No more heated seat subscriptions for cars in New York from 2027](https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/)
   - [Tidal announces ban on AI-generated music; 27 million tracks will be deleted](https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/)
+  - [What's going on with the Riemann hypothesis?](https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/)
 - Articles | InfoStealers
   - [Remus Stealer Uses a Fake Google Sheets Extension to Steal Gmail Messages](https://www.infostealers.com/article/remus-stealer-uses-a-fake-google-sheets-extension-to-steal-gmail-messages/)
 - Checkmarx.com
@@ -18,9 +19,11 @@
   - [BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong](https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC sets new prediction market rules as more firms seek US entry](https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How South Korea’s proposed 20% cap could change who runs Upbit](https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Utah moves to dismiss criminal charges against Kalshi after trading halt](https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Attackers Exploit Unpatchable Idunno.AntiCsrf RCE Flaw CVE-2026-131914 in ASP.NET Apps](https://www.cyberkendra.com/2026/11/cve-2026-131914-idunno-anticsrf-rce-exploited.html)
   - [CVE-2026-109484: Critical Azure App Service Linux Flaw Fixed](https://www.cyberkendra.com/2026/11/cve-2026-109484-azure-app-service-linux-flaw.html)
+  - [Hackers breach CIA and ODNI open-source intelligence system, exposing unclassified data](https://www.cyberkendra.com/2026/11/cia-odni-breach-open-source-intelligence-system.html)
   - [Hex.pm Breach: Attacker Ran Commands on Erlang and Elixir Package Registry Servers — Reset Your 2FA](https://www.cyberkendra.com/2026/11/hex-pm-breach-cve-2026-129514.html)
   - [How to Reduce Container Vulnerabilities Without Breaking Your Builds](https://www.cyberkendra.com/2026/11/how-to-reduce-container-vulnerabilities-without-breaking-your-builds.html)
   - [Minecraft2Shell RCE in Minecraft Java Still Unpatched](https://www.cyberkendra.com/2026/11/minecraft2shell-minecraft-java-rce-resource-pack.html)
@@ -40,6 +43,8 @@
   - [Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)](https://grafana.com/grafana/download)
   - [How to Make a Lovable City](https://www.worksinprogress.news/p/how-to-make-a-lovable-city)
   - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
+  - [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
+  - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
   - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
   - [Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
   - [“Pervert glasses" named word of the year by Macquarie Dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
@@ -73,9 +78,11 @@
   - [Kraken’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC](https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498)
   - [Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’](https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052)
   - [Robinhood co-leads $5 million seed round for onchain trading platform Rialto](https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030)
+  - [SEC staff gives Molecule no-action relief for scientific research tokens](https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067)
   - [We’ve Entered Peak FEAR; SKY Falls](https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476)
 - The Decoder
   - [Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents](https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/)
+  - [Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows](https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/)
   - [Novartis CEO says AI will shave four years off drug development, not cure all disease](https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/)
   - [OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a "very steep rate of progress"](https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/)
 - The Verge
@@ -88,6 +95,7 @@
   - [The clock is running out for America’s most contentious spying law](https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave)
   - [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
   - [Tidal will start banning AI-generated music next month](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban)
+  - [TikTok was down](https://www.theverge.com/tech/1041618/tiktok-down-outage)
   - [US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list)
 - Vulners.com RSS Feed
   - [CVE-2026-111546](https://vulners.com/cvelist/CVELIST:CVE-2026-111546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
