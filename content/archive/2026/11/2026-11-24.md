@@ -33,6 +33,8 @@
   - [University Approves Nuclear Weapons Data Center, Township Vows to Fight On](https://www.404media.co/ypsilanti-michigan-data-center-vote/)
 - Ars Technica
   - [Amazon fights Delivery Protection Act by putting stickers on its packages](https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/)
+  - [Amazon says hackers' AI agents found and exploited 0-day with little human input](https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/)
+  - [One terminal command gave my forgotten Android device a desk job](https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/)
   - [Reports: Russia may launch nuclear weapon into orbit as soon as next month](https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/)
   - [Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret](https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/)
   - [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/)
@@ -55,10 +57,12 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi secures temporary win in New York gambling law dispute](https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
+  - [Hackers claim major research firm, leaking Roblox and KPMG details](https://cybernews.com/security/ipsos-data-leak-qilin-ransomware-gang/)
   - [Hackers exploit GTA VI hype to spread info-stealing malware](https://cybernews.com/security/hackers-gta-vi-info-stealing-malware/)
   - [If Jensen Huang had died, who would be running Nvidia?](https://cybernews.com/news/jensen-huang-simulation-theory-nvidia-reinstatement-leadership/)
   - [Microsoft finds a way to prevent the Blue Screen of Death on Windows 11](https://cybernews.com/news/microsoft-windows-11-bsod-crash/)
   - [New York outlaws car subscriptions and fees for built-in features, such as heated seats](https://cybernews.com/tech/new-york-bans-car-feature-subscriptions/)
+  - [OpenAI, Cisco free Linux shield could mean trouble for cybersec start-ups](https://cybernews.com/security/openai-cisco-shirudo-free-linux-shield/)
   - [Shared Hosting vs. VPS: Which One Does Your Business Actually Need?](https://cybernews.com/partner-content/shared-hosting-vs-vps-which-one-does-your-business-actually-need/)
   - [US uranium mine shuts down operations following mysterious cyberattack](https://cybernews.com/security/peninsula-energy-cyberattack-uranium-mine/)
   - [Yahoo emails may have been stolen, as hackers claim data breach](https://cybernews.com/security/yahoo-emails-data-breach/)
@@ -85,6 +89,7 @@
   - [Kagi Mail is here (Public Beta)](https://blog.kagi.com/kagi-mail-public-beta)
   - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
   - [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
+  - [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)
   - [Mcpseal: Grade an MCP server for safety before you install it](https://www.npmjs.com/package/@hashshabbir/mcp-pack)
   - [Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
   - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
@@ -98,6 +103,7 @@
   - [From a Cracked CEO Credential to a Potential Ransomware Path](https://horizon3.ai/downloads/use-case/cracked-ceo-credential-ransomware-path/)
 - infosecurity-magazine.com
   - [Bots Hide Behind AI Agent Names to Hunt for Secrets](https://www.infosecurity-magazine.com/news/secrethunting-trafficai-agent/)
+  - [Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test](https://www.infosecurity-magazine.com/news/chinese-ai-models-top/)
   - [LaLiga Says Football Fans’ Personal Data Stolen](https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/)
   - [OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems](https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/)
   - [Researchers Find a New AI Attack Path: Agent Instructions](https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/)
@@ -108,10 +114,14 @@
   - [What Is Endpoint Detection and Response (EDR)?](https://kalilinuxtutorials.com/endpoint-detection-and-response/)
 - MIT Technology Review
   - [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
+- pluralistic.net
+  - [Pluralistic: Free lunches (24 Nov 2026)](https://pluralistic.net/2026/11/24/move-fast-break-kings/)
 - rtl-sdr.com
   - [LittleSpec: A Pocket-Sized Battery-Powered RTL-SDR Blog V4L Receiver That Connects to iOS and Android over Bluetooth](https://www.rtl-sdr.com/littlespec-a-pocket-sized-battery-powered-rtl-sdr-blog-v4l-receiver-that-connects-to-ios-and-android-over-bluetooth/)
   - [Mayhem Mobile Update: Trunked Voice, HD Radio, UAT Weather, Radiosondes and Now on Google Play](https://www.rtl-sdr.com/mayhem-mobile-update-trunked-voice-hd-radio-uat-weather-radiosondes-and-now-on-google-play/)
   - [OFFgrid-SDR Update: Single HTML File SDR Receiver Adds SDRplay RSP Support, DAB+, DRM and an 8-Channel Signal Monitor](https://www.rtl-sdr.com/offgrid-sdr-update-single-html-file-sdr-receiver-adds-sdrplay-rsp-support-dab-drm-and-an-8-channel-signal-monitor/)
+- shkspr.mobi
+  - [Virgin Media Hub 5 API](https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/)
 - simonwillison.net
   - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)
   - [Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/)
@@ -127,12 +137,15 @@
   - [Exploit for CVE-2026-132825](https://sploitus.com/exploit?id=AE61850C-25CC-5A0B-99A0-BCFE3AA35B2B&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-133680](https://sploitus.com/exploit?id=30EA2CA7-2C1C-5C32-8369-995DBBA62598&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-133949](https://sploitus.com/exploit?id=0DDA2C0C-96B6-5C70-BA7C-106794B54C6A&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-135725](https://sploitus.com/exploit?id=2743B368-D971-58E4-88B0-2CEC0649EACC&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-135731](https://sploitus.com/exploit?id=CF96E54A-4C00-5AFF-880D-56DBAC629147&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-99310](https://sploitus.com/exploit?id=968ED21D-3350-5076-8386-C4F3C56433BB&utm_source=rss&utm_medium=rss)
   - [Exploit for Deserialization of Untrusted Data in Mirasvit Full_Page_Cache_Warmer](https://sploitus.com/exploit?id=5AE0AE03-690E-5138-9A2A-AEE72CF1B5BB&utm_source=rss&utm_medium=rss)
   - [Exploit for Heap-based Buffer Overflow in Oracle Jdk](https://sploitus.com/exploit?id=9B8B3460-F50D-595D-B699-979EFA25DEE7&utm_source=rss&utm_medium=rss)
   - [Exploit for Missing Authentication for Critical Function in Weaver E-Cology](https://sploitus.com/exploit?id=396C1D31-75FC-5BD8-89D7-B2B80C4B5C99&utm_source=rss&utm_medium=rss)
   - [Exploit for Path Traversal in Basercms](https://sploitus.com/exploit?id=1378A3C7-B3F2-53EB-87D9-2B370677E2D1&utm_source=rss&utm_medium=rss)
   - [Exploit for Unrestricted Upload of File with Dangerous Type in Chamilo Chamilo_Lms](https://sploitus.com/exploit?id=DD9F5584-0BD6-51E5-974A-16BD11DE2D91&utm_source=rss&utm_medium=rss)
+  - [hospital-dbsec exploit](https://sploitus.com/exploit?id=AAE63AF0-AD85-5FC9-86F9-18B2371741D6&utm_source=rss&utm_medium=rss)
   - [remote-greybox-exploit-development](https://sploitus.com/exploit?id=1FDFF9C8-6461-5A4A-9583-B7646B3BD3A3&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
@@ -154,6 +167,7 @@
   - [California court terminates lawsuit against Coinbase over TerraUSD purchases](https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448)
   - [CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight](https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384)
   - [CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses](https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435)
+  - [Crypto Market Structure Basics](https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986)
   - [DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens](https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398)
   - [Ethereum Foundation doubles protocol security team, calls AI a ‘more urgent risk’ than quantum](https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497)
   - [Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook](https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418)
@@ -164,6 +178,7 @@
 - The Decoder
   - [Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy](https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/)
   - [Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own](https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/)
+  - [German researchers call for computer science to reinvent itself as "Computer and AI Science"](https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/)
   - [OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably](https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/)
   - [OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits](https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/)
 - The Verge
@@ -524,6 +539,7 @@
   - [JLSEC-2026-1533](https://vulners.com/osv_jlsec/OSV:JLSEC-2026-1533?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [8 Best Espresso Machines for Home (2026), Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)
   - [AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It](https://www.wired.com/story/ai-solved-maths-most-famous-problem/)
   - [B&H Photo Promo Codes and Deals This November 2026](https://www.wired.com/story/bh-photo-coupon/)
   - [Best Early Black Friday AirPods Deals (2026)](https://www.wired.com/story/best-early-black-friday-airpods-deals-11-24-2026/)
