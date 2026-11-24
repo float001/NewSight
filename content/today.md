@@ -1,8 +1,42 @@
 # 今日安全资讯（2026-11-25）
 
+- Ars Technica
+  - [Fake gears and real 911 DNA: Driving Porsche's electric 718 Boxster](https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/)
+  - [NASA may get $2 billion boost as White House seeks to accelerate Artemis](https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/)
+  - [No more heated seat subscriptions for cars in New York from 2027](https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/)
+- CoinTelegraph
+  - [How South Korea’s proposed 20% cap could change who runs Upbit](https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- daringfireball.net
+  - [David Sacks’s Pool Boy Is Cocky](https://www.threads.com/@karaswisher/post/DgGBe_XI147)
+  - [Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO in 1991](https://www.threads.com/@meidastouch/post/DgGKhbTAka5)
+- Hacker News Frontpage
+  - [Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+  - [Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban](https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/)
+  - [How to Make a Lovable City](https://www.worksinprogress.news/p/how-to-make-a-lovable-city)
+  - [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro)
+  - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
+- HackerNoon
+  - [Byrrgis Opens to the Public With One-Signature Swaps Across Four Chains and No Custody](https://hackernoon.com/byrrgis-opens-to-the-public-with-one-signature-swaps-across-four-chains-and-no-custody?source=rss)
+  - [What Building a Postgres CDC Pipeline Taught Me About Feeding Snowflake](https://hackernoon.com/what-building-a-postgres-cdc-pipeline-taught-me-about-feeding-snowflake?source=rss)
+- infosecurity-magazine.com
+  - [New Inception Extortion Brand Tied to SSO Vishing Campaign](https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/)
 - TechCrunch
+  - [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)
   - [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/)
+  - [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
+  - [Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch](https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/)
+  - [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/)
+- The Block
+  - [Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%](https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705)
+  - [Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services](https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019)
+  - [Robinhood co-leads $5 million seed round for onchain trading platform Rialto](https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030)
+- The Verge
+  - [Jensen Huang deepfakes are the hot new AI slop](https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes)
+  - [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+  - [US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list)
 - Wired
   - [Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving](https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/)
+  - [Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games](https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/)
+  - [The 24 Very Best Amazon Black Friday Deals to Get Now (2026)](https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
