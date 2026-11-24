@@ -3,11 +3,16 @@
 - 2Libra
   - [12 月开始 Jio 可以在 Antigravity 中使用用 Hydrogen 模型了](https://2libra.com/post/ai-programming/KQj5vB8)
   - [[开源分享] Hop v0.6.0：原生无 WebView 的 mihomo 客户端迎来大更新](https://2libra.com/post/open-source-sharing/j6Ibyl9)
+  - [B 站 2 元大会员月卡活动](https://2libra.com/post/deal-hunter/DBeYjpd)
+  - [【运动打卡】这几天玩游戏懒拉，赖床了](https://2libra.com/post/game-discussion/t_wS8dN)
   - [为什么我感觉万妖不好看](https://2libra.com/post/animation-sharing/I4BtVA1)
+  - [今日记录不展示消耗 0 金币的记录了？](https://2libra.com/post/forum-function/-yQRSHv)
   - [因本人不愿接手英伟达 CEO 职务，英伟达董事会恢复黄仁勋的总裁、首席执行官及董事职务](https://2libra.com/post/idea/1Jh4Qcm)
   - [大意了，苹果账号没了](https://2libra.com/post/apple/6lxyRO8)
+  - [寻找上班的辅助系统](https://2libra.com/post/touch-fish/_BZf2CR)
   - [将任意歌曲转换为喵喵叫](https://2libra.com/post/tech-fun/kqloKok)
   - [微信小羊毛必中 可多号撸 新羊毛刚出来](https://2libra.com/post/deal-hunter/VAr2n_c)
+  - [纯 AI 手搓的仿 Postman！](https://2libra.com/post/personal-works/iz6Bjes)
   - [纳指因老黄全面起飞!然而..](https://2libra.com/post/stock-market/cuSRxuG)
   - [老黄王者回归了，大家怎么看](https://2libra.com/post/tech-news/kgHDYx7)
 - 404 Media
@@ -30,6 +35,7 @@
   - [Cross River Bank enters Bitcoin-backed lending with $250K loans](https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks](https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation doubles protocol security team ahead of overhaul](https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Google wants to make you the star of your own AI slop movies](https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Kalshi secures temporary win in New York gambling law dispute](https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - daringfireball.net
@@ -51,6 +57,8 @@
   - [Kagi Mail is here (Public Beta)](https://blog.kagi.com/kagi-mail-public-beta)
   - [Ladybird Is Now in Alpha](https://ladybird.org/posts/alpha/)
   - [Levent Alpöge comments on his Riemann Hypothesis proof](https://twitter.com/__alpoge__/status/2124987173439209561)
+  - [Mcpseal: Grade an MCP server for safety before you install it](https://www.npmjs.com/package/@hashshabbir/mcp-pack)
+  - [Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
   - [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
   - [The Beauty of Artists' Studios](https://spectator.com/article/the-beauty-of-artists-studios/)
   - [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
@@ -66,6 +74,9 @@
   - [What Is Endpoint Detection and Response (EDR)?](https://kalilinuxtutorials.com/endpoint-detection-and-response/)
 - MIT Technology Review
   - [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
+- rtl-sdr.com
+  - [Mayhem Mobile Update: Trunked Voice, HD Radio, UAT Weather, Radiosondes and Now on Google Play](https://www.rtl-sdr.com/mayhem-mobile-update-trunked-voice-hd-radio-uat-weather-radiosondes-and-now-on-google-play/)
+  - [OFFgrid-SDR Update: Single HTML File SDR Receiver Adds SDRplay RSP Support, DAB+, DRM and an 8-Channel Signal Monitor](https://www.rtl-sdr.com/offgrid-sdr-update-single-html-file-sdr-receiver-adds-sdrplay-rsp-support-dab-drm-and-an-8-channel-signal-monitor/)
 - simonwillison.net
   - [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)
   - [Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/)
@@ -319,6 +330,8 @@
   - [Nvidia Is Powering Brain-Computer Interfaces Now](https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/)
   - [The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead](https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/)
 - 不安全
+  - [Mayhem Mobile Update: Trunked Voice, HD Radio, UAT Weather, Radiosondes and Now on Google Play](https://buaq.net/go-456956.html)
+  - [OFFgrid-SDR Update: Single HTML File SDR Receiver Adds SDRplay RSP Support, DAB+, DRM and an 8-Channel Signal Monitor](https://buaq.net/go-456957.html)
   - [Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)](https://buaq.net/go-456945.html)
   - [TikTok在全球范围内推出肖像检测功能 用户可以查找并举报AI冒用内容](https://buaq.net/go-456940.html)
 - 代码审计星球
