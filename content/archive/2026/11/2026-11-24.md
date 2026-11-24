@@ -22,6 +22,7 @@
   - [社区没有监听某个节点或者用户的通知能力。](https://2libra.com/post/forum-function/ajNx_oZ)
   - [纯 AI 手搓的仿 Postman！](https://2libra.com/post/personal-works/iz6Bjes)
   - [纳指因老黄全面起飞!然而..](https://2libra.com/post/stock-market/cuSRxuG)
+  - [给项目加了个线上回归测试，每次发版修复要一个多小时，怎么破？](https://2libra.com/post/automation-testing/ydTAxDa)
   - [老黄王者回归了，大家怎么看](https://2libra.com/post/tech-news/kgHDYx7)
   - [获得 725 金币，不用客气。](https://2libra.com/post/forum-function/gdRHpeZ)
   - [这是我能把握住的么？邀请 19 位新用户。](https://2libra.com/post/forum-function/gjAnTOw)
@@ -53,7 +54,9 @@
   - [Kalshi secures temporary win in New York gambling law dispute](https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [Hackers exploit GTA VI hype to spread info-stealing malware](https://cybernews.com/security/hackers-gta-vi-info-stealing-malware/)
+  - [Microsoft finds a way to prevent the Blue Screen of Death on Windows 11](https://cybernews.com/news/microsoft-windows-11-bsod-crash/)
   - [New York outlaws car subscriptions and fees for built-in features, such as heated seats](https://cybernews.com/tech/new-york-bans-car-feature-subscriptions/)
+  - [Shared Hosting vs. VPS: Which One Does Your Business Actually Need?](https://cybernews.com/partner-content/shared-hosting-vs-vps-which-one-does-your-business-actually-need/)
   - [US uranium mine shuts down operations following mysterious cyberattack](https://cybernews.com/security/peninsula-energy-cyberattack-uranium-mine/)
 - daringfireball.net
   - [Donald Trump on Jensen Huang’s Reinstatement at Nvidia](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493)
@@ -90,6 +93,7 @@
   - [From a Cracked CEO Credential to a Potential Ransomware Path](https://horizon3.ai/downloads/use-case/cracked-ceo-credential-ransomware-path/)
 - infosecurity-magazine.com
   - [Bots Hide Behind AI Agent Names to Hunt for Secrets](https://www.infosecurity-magazine.com/news/secrethunting-trafficai-agent/)
+  - [LaLiga Says Football Fans’ Personal Data Stolen](https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/)
   - [Researchers Find a New AI Attack Path: Agent Instructions](https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/)
 - johndcook.com
   - [Finite Projective Spaces](https://www.johndcook.com/blog/2026/11/23/finite-projective-spaces/)
@@ -461,9 +465,14 @@
   - [JLSEC-2026-1532](https://vulners.com/osv_jlsec/OSV:JLSEC-2026-1532?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [JLSEC-2026-1533](https://vulners.com/osv_jlsec/OSV:JLSEC-2026-1533?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It](https://www.wired.com/story/ai-solved-maths-most-famous-problem/)
   - [B&H Photo Promo Codes and Deals This November 2026](https://www.wired.com/story/bh-photo-coupon/)
+  - [Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents](https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/)
+  - [Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving](https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/)
+  - [Election Deniers Despair Because Even Donald Trump Isn’t Buying What They’re Selling](https://www.wired.com/story/election-deniers-despair-because-even-donald-trump-isnt-buying-what-theyre-selling/)
   - [How to Win Big Betting on Jensen Huang? Listen to Trump](https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/)
   - [Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return](https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/)
+  - [Inside the Chinese City Where Furniture Dupes Are Made](https://www.wired.com/story/foshan-china-dupes-furniture/)
   - [Jensen Huang Is Back and So Is Nvidia’s Stock](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)
   - [Nvidia Is Powering Brain-Computer Interfaces Now](https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/)
   - [The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead](https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/)
@@ -483,6 +492,7 @@
 - 爱范儿
   - [iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议](https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [「试用期」已到，苹果开始给 AI 收费了 | AG&I](https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=)
+  - [华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点](https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任](https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign=)
   - [早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布](https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
