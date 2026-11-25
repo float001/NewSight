@@ -1,10 +1,34 @@
 # 今日安全资讯（2026-11-26）
 
+- 2Libra
+  - [vibe code 项目体检 skill](https://2libra.com/post/prompts/8-Rm7Ha)
+- Ars Technica
+  - [Ars Live recap: Don’t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/)
+  - [Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets](https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/)
+- daringfireball.net
+  - [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda)
+- HackerNoon
+  - [Ant Group Open-Sources LingSante: Why Open Medical AI Matters](https://hackernoon.com/ant-group-open-sources-lingsante-why-open-medical-ai-matters?source=rss)
+  - [Beyond the Pilot: Making AI Deliver Real Business Value](https://hackernoon.com/beyond-the-pilot-making-ai-deliver-real-business-value?source=rss)
+  - [MEXC Thanksgiving Annual Campaign: Launching "Blue Friday" with Six Major Rewards for Global Users](https://hackernoon.com/mexc-thanksgiving-annual-campaign-launching-blue-friday-with-six-major-rewards-for-global-users?source=rss)
+  - [Why Are We Still So Easy to Fool in the Age of Unlimited Information?](https://hackernoon.com/why-are-we-still-so-easy-to-fool-in-the-age-of-unlimited-information?source=rss)
 - infosecurity-magazine.com
   - [US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds](https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/)
+- Kali Linux Tutorials
+  - [Test EDR Telemetry in a Home Lab: Sysmon & eBPF](https://kalilinuxtutorials.com/test-edr-telemetry-in-a-home-lab-sysmon-ebpf/)
+- Sploitus.com Exploits RSS Feed
+  - [aaWAF exploit](https://sploitus.com/exploit?id=8E9712EB-9F2F-5EBA-81B2-CE524551C888&utm_source=rss&utm_medium=rss)
+- TechCrunch
+  - [WhatsApp now lets you schedule messages in group and individual chats](https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/)
 - The Block
   - [Aave Labs publicly launches savings app as balances top $63 million](https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674)
+  - [Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF](https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686)
+- The Decoder
+  - [Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/)
 - The Verge
   - [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
+  - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
+- Vulners.com RSS Feed
+  - [aaWAF](https://vulners.com/gitee/8E9712EB-9F2F-5EBA-81B2-CE524551C888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
