@@ -73,7 +73,11 @@
   - [Minecraft2Shell RCE in Minecraft Java Still Unpatched](https://www.cyberkendra.com/2026/11/minecraft2shell-minecraft-java-rce-resource-pack.html)
 - CyberNews
   - [Adult services platform leaked data on millions of sex workers](https://cybernews.com/security/hot-adult-platform-data-leak-exposes-workers/)
+  - [Government investigators got four AI chatbots to plan terror attacks in hours](https://cybernews.com/security/gao-ai-chatbots-terror-attack-plans/)
+  - [Influencer shares ChatGPT trick to land first-class upgrade, but ends up overpaying](https://cybernews.com/ai-news/chatgpt-trick-first-class-upgrade-overpaid/)
+  - [Man shocked after a doctor secretly placed a smart implant transmitting data to a corporate cloud](https://cybernews.com/tech/smart-knee-implant/)
   - [Microsoft declares “Code Red” after historic outage](https://cybernews.com/news/microsoft-declares-code-red/)
+  - [OpenAI issues: ChatGPT and Codex degrade in UK and Europe](https://cybernews.com/ai-news/openai-outage-chatgpt-codex/)
   - [Treasury, CIA, ODNI, FBI hacked: What we know about the US government cyberattack spree](https://cybernews.com/security/us-government-cyberattacks-treasury-cia-fbi/)
   - [Ukrainian man catches Electrolux water heater connecting to Russian cloud](https://cybernews.com/security/electrolux-smart-water-heater-russian-cloud-connection/)
 - daringfireball.net
@@ -137,6 +141,8 @@
   - [Mini0com CalypsoX Lite: A Custom Motorola C139 Firmware Adding GSM Tools and IMSI Catcher Detection](https://www.rtl-sdr.com/mini0com-calypsox-lite-a-custom-motorola-c139-firmware-adding-gsm-tools-and-imsi-catcher-detection/)
 - Securelist
   - [How to protect against preinstalled Android malware](https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/)
+- shkspr.mobi
+  - [Book Review: Slow Gods by Claire North ★★★★⯪](https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/)
 - Sploitus.com Exploits RSS Feed
   - [ai漏洞挖掘 exploit](https://sploitus.com/exploit?id=C303FD1E-F714-5B0E-8CFA-B097B52C6A24&utm_source=rss&utm_medium=rss)
   - [Claude-BugHunter exploit](https://sploitus.com/exploit?id=DDBC5165-0E5C-553C-9F33-F398673EA100&utm_source=rss&utm_medium=rss)
@@ -159,6 +165,7 @@
   - [Maple raises $5.3M to build AI products that protect your data, even from itself](https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/)
   - [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)
   - [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/)
+  - [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/)
   - [Threads comes to iPad and takes a page from X’s playbook with cashtags](https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/)
   - [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
   - [Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)
@@ -181,8 +188,10 @@
   - [Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’](https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052)
   - [Robinhood co-leads $5 million seed round for onchain trading platform Rialto](https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030)
   - [SEC staff gives Molecule no-action relief for scientific research tokens](https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067)
+  - [UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity](https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150)
   - [Utah moves to drop criminal charges against Kalshi after platform halts operations](https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090)
   - [We’ve Entered Peak FEAR; SKY Falls](https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476)
+  - [‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case](https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151)
 - The Decoder
   - [Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents](https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/)
   - [Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows](https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/)
@@ -194,6 +203,7 @@
   - [Amazon is knocking almost $50 off six months of Apple TV](https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday)
   - [David Fincher is being dragged for suspected use of AI in his latest film](https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive)
   - [Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday](https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026)
+  - [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware)
   - [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
   - [Jensen Huang deepfakes are the hot new AI slop](https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes)
   - [Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology)
@@ -611,6 +621,7 @@
   - [Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss)
 - 不安全
   - [Abolish Lock Poisoning](https://buaq.net/go-457166.html)
+  - [Two exposed databases held over 3.5 billion records](https://buaq.net/go-457309.html)
   - [真不要脸！戴尔/慧与/超微等服务器厂商在客户签约数月后要求加价 涨幅甚至达到45%](https://buaq.net/go-457198.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
