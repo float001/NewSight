@@ -72,9 +72,12 @@
 - HackerNoon
   - [Byrrgis Opens to the Public With One-Signature Swaps Across Four Chains and No Custody](https://hackernoon.com/byrrgis-opens-to-the-public-with-one-signature-swaps-across-four-chains-and-no-custody?source=rss)
   - [What Building a Postgres CDC Pipeline Taught Me About Feeding Snowflake](https://hackernoon.com/what-building-a-postgres-cdc-pipeline-taught-me-about-feeding-snowflake?source=rss)
+- Horizon3.ai
+  - [Black Friday Change Freeze: When a Security Risk Justifies an Exception](https://horizon3.ai/intelligence/blogs/black-friday-change-freeze-security-exception/)
 - infosecurity-magazine.com
   - [New Inception Extortion Brand Tied to SSO Vishing Campaign](https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/)
 - Sploitus.com Exploits RSS Feed
+  - [ai漏洞挖掘 exploit](https://sploitus.com/exploit?id=C303FD1E-F714-5B0E-8CFA-B097B52C6A24&utm_source=rss&utm_medium=rss)
   - [Claude-BugHunter exploit](https://sploitus.com/exploit?id=DDBC5165-0E5C-553C-9F33-F398673EA100&utm_source=rss&utm_medium=rss)
   - [CVE-2020-11851 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CH1NGHZ-CVE-2020-11851&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-125396](https://sploitus.com/exploit?id=833D3C1F-5942-502A-A540-D95EF7F582C6&utm_source=rss&utm_medium=rss)
@@ -97,10 +100,12 @@
   - [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/)
   - [Threads comes to iPad and takes a page from X’s playbook with cashtags](https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/)
   - [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
+  - [Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)
   - [Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch](https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/)
   - [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
   - [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
   - [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/)
+  - [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
 - The Block
   - [Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%](https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705)
   - [Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines](https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061)
@@ -130,8 +135,10 @@
   - [Tidal will start banning AI-generated music next month](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban)
   - [TikTok was down](https://www.theverge.com/tech/1041618/tiktok-down-outage)
   - [US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia](https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list)
+  - [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident)
   - [Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa](https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa)
 - Vulners.com RSS Feed
+  - [ai漏洞挖掘](https://vulners.com/gitee/C303FD1E-F714-5B0E-8CFA-B097B52C6A24?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Claude-BugHunter](https://vulners.com/gitee/DDBC5165-0E5C-553C-9F33-F398673EA100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111546](https://vulners.com/cvelist/CVELIST:CVE-2026-111546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120654 Joomla! Core - [20261102] - Core - Improper ACL checks in com_newsfeeds delete action in Joomla 1.6.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-120654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -320,3 +327,5 @@
   - [Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 爱范儿
+  - [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=)
