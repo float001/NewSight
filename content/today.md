@@ -3,6 +3,7 @@
 - 2Libra
   - [AIDesk（暂定）局域网+公网远程工具初版发布](https://2libra.com/post/personal-works/hHyIvtN)
   - [GPT 又不干人事了](https://2libra.com/post/large-models/LyydJPR)
+  - [【T2】T2 Desktop 焕新升级，功能更全，界面更优美。](https://2libra.com/post/forum-function/yAGbLJL)
   - [【运动打卡】今天小区走路真冷啊](https://2libra.com/post/sports/QKyOOy5)
   - [【💰】我也做了一个猜年龄的，大家来试试鸭](https://2libra.com/post/personal-works/E-87m-C)
   - [【💰】有没有可以免费在线听歌的网站](https://2libra.com/post/recommendations/bFtC324)
@@ -14,6 +15,7 @@
   - [我账号出问题了吗，第三方应用授权登录失败](https://2libra.com/post/community/HV-7Lx3)
   - [有没有人玩卫戍协议](https://2libra.com/post/game-discussion/ZSV9ZsB)
   - [这 AI 坏我道心！](https://2libra.com/post/ai-programming/wmJetOS)
+  - [陪嫁两套房子选哪个？](https://2libra.com/post/marriage/Tvl1gax)
 - Armin Ronacher's Thoughts and Writings
   - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 - Ars Technica
@@ -54,6 +56,9 @@
   - [Hex.pm Breach: Attacker Ran Commands on Erlang and Elixir Package Registry Servers — Reset Your 2FA](https://www.cyberkendra.com/2026/11/hex-pm-breach-cve-2026-129514.html)
   - [How to Reduce Container Vulnerabilities Without Breaking Your Builds](https://www.cyberkendra.com/2026/11/how-to-reduce-container-vulnerabilities-without-breaking-your-builds.html)
   - [Minecraft2Shell RCE in Minecraft Java Still Unpatched](https://www.cyberkendra.com/2026/11/minecraft2shell-minecraft-java-rce-resource-pack.html)
+- CyberNews
+  - [Microsoft declares “Code Red” after historic outage](https://cybernews.com/news/microsoft-declares-code-red/)
+  - [Treasury, CIA, ODNI, FBI hacked: What we know about the US government cyberattack spree](https://cybernews.com/security/us-government-cyberattacks-treasury-cia-fbi/)
 - daringfireball.net
   - [David Sacks’s Pool Boy Is Cocky](https://www.threads.com/@karaswisher/post/DgGBe_XI147)
   - [Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau](https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/)
@@ -100,6 +105,8 @@
   - [Black Friday Change Freeze: When a Security Risk Justifies an Exception](https://horizon3.ai/intelligence/blogs/black-friday-change-freeze-security-exception/)
 - infosecurity-magazine.com
   - [New Inception Extortion Brand Tied to SSO Vishing Campaign](https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/)
+- Product Hunt
+  - [Homa IR Test](https://www.producthunt.com/products/homa-ir-test)
 - rtl-sdr.com
   - [Mini0com CalypsoX Lite: A Custom Motorola C139 Firmware Adding GSM Tools and IMSI Catcher Detection](https://www.rtl-sdr.com/mini0com-calypsox-lite-a-custom-motorola-c139-firmware-adding-gsm-tools-and-imsi-catcher-detection/)
 - Sploitus.com Exploits RSS Feed
@@ -134,6 +141,7 @@
   - [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
 - The Block
   - [Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%](https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705)
+  - [Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000](https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109)
   - [Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines](https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061)
   - [Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more](https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074)
   - [Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services](https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019)
@@ -172,6 +180,7 @@
   - [CANalyzat0r](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SCHUTZWERK-CANALYZAT0R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Claude-BugHunter](https://vulners.com/gitee/DDBC5165-0E5C-553C-9F33-F398673EA100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111546](https://vulners.com/cvelist/CVELIST:CVE-2026-111546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115280](https://vulners.com/nvd/NVD:CVE-2026-115280?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-118898](https://vulners.com/nvd/NVD:CVE-2026-118898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120654 Joomla! Core - [20261102] - Core - Improper ACL checks in com_newsfeeds delete action in Joomla 1.6.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-120654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120655 Joomla! Core - [20261103] - Core - Information disclosure in Schema.org system plugin in Joomla 5.0.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-120655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -188,6 +197,7 @@
   - [CVE-2026-123216 Copeland XWEB Pro OS command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-123216?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123217 Copeland XWEB Pro argument injection](https://vulners.com/cvelist/CVELIST:CVE-2026-123217?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-123340 Copeland XWEB Pro OS command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-123340?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-125896](https://vulners.com/nvd/NVD:CVE-2026-125896?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126046 Joomla! Core - [20261113] - Core - Improper ACL checks in com_media file overwrite in Joomla 4.0.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cve/CVE-2026-126046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126046 Joomla! Core - [20261113] - Core - Improper ACL checks in com_media file overwrite in Joomla 4.0.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-126046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126536 Akaunting 3.3.0 - Stored cross-site scripting through imported tax names in update notifications](https://vulners.com/cvelist/CVELIST:CVE-2026-126536?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -197,6 +207,13 @@
   - [CVE-2026-127301 Joomla! Core - [20261121] - Core - XSS in com_contenthistory version preview in Joomla 3.2.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-127301?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127303 Joomla! Core - [20261123] - Core - XSS in com_associations modal in Joomla 3.7.0-5.4.10](https://vulners.com/cve/CVE-2026-127303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127303 Joomla! Core - [20261123] - Core - XSS in com_associations modal in Joomla 3.7.0-5.4.10](https://vulners.com/cvelist/CVELIST:CVE-2026-127303?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128838](https://vulners.com/nvd/NVD:CVE-2026-128838?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128852](https://vulners.com/nvd/NVD:CVE-2026-128852?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128853](https://vulners.com/nvd/NVD:CVE-2026-128853?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128854](https://vulners.com/nvd/NVD:CVE-2026-128854?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128855](https://vulners.com/nvd/NVD:CVE-2026-128855?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128856](https://vulners.com/nvd/NVD:CVE-2026-128856?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-128857](https://vulners.com/nvd/NVD:CVE-2026-128857?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129362 Joomla! Core - [20261125] - Core - XSS in note custom field in Joomla 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-129362?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129363 Joomla! Core - [20261126] - Core - XSS in administrator menu module in Joomla 3.8.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-129363?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129366 Joomla! Core - [20261129] - Core - XSS in module titles in Joomla 1.6.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cve/CVE-2026-129366?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -227,6 +244,10 @@
   - [CVE-2026-129969](https://vulners.com/nvd/NVD:CVE-2026-129969?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129970](https://vulners.com/nvd/NVD:CVE-2026-129970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-130336](https://vulners.com/nvd/NVD:CVE-2026-130336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132046](https://vulners.com/nvd/NVD:CVE-2026-132046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132047](https://vulners.com/nvd/NVD:CVE-2026-132047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132048](https://vulners.com/nvd/NVD:CVE-2026-132048?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132074](https://vulners.com/nvd/NVD:CVE-2026-132074?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132145](https://vulners.com/nvd/NVD:CVE-2026-132145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132254](https://vulners.com/nvd/NVD:CVE-2026-132254?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132255](https://vulners.com/nvd/NVD:CVE-2026-132255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -311,8 +332,19 @@
   - [CVE-2026-134446 Webmin through 2.670 Predictable Password Generation in Users and Groups Module](https://vulners.com/cvelist/CVELIST:CVE-2026-134446?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134447 Webmin through 2.670 Stored XSS via Mail Queue Attachment Filenames](https://vulners.com/cve/CVE-2026-134447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134447 Webmin through 2.670 Stored XSS via Mail Queue Attachment Filenames](https://vulners.com/cvelist/CVELIST:CVE-2026-134447?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134473 WordPress WP Social Ninja plugin <= 4.5.0 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cve/CVE-2026-134473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134473 WordPress WP Social Ninja plugin <= 4.5.0 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-134473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134475 WordPress FluentCart plugin <= 2.3.2 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cve/CVE-2026-134475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134475 WordPress FluentCart plugin <= 2.3.2 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-134475?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134476 WordPress Fluent Support plugin <= 2.5.0 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cve/CVE-2026-134476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134476 WordPress Fluent Support plugin <= 2.5.0 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-134476?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134478 WordPress Fluent CRM plugin <= 3.3.1 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cve/CVE-2026-134478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134478 WordPress Fluent CRM plugin <= 3.3.1 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-134478?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134487 WordPress Radius Booking — Booking Calendar for Appointments &amp; Services plugin <= 1.0.22 - Broken Access Control vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-134487?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134875](https://vulners.com/nvd/NVD:CVE-2026-134875?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134931](https://vulners.com/nvd/NVD:CVE-2026-134931?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134942 WordPress ElasticPress plugin <= 5.3.5 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cve/CVE-2026-134942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-134942 WordPress ElasticPress plugin <= 5.3.5 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-134942?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135046 WordPress Store Exporter plugin <= 2.8.2 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cve/CVE-2026-135046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135046 WordPress Store Exporter plugin <= 2.8.2 - Cross Site Request Forgery (CSRF) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-135046?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135414 Server-side request forgery in snapshot repository registration in Amazon OpenSearch Service](https://vulners.com/cve/CVE-2026-135414?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -326,6 +358,10 @@
   - [CVE-2026-135815 zhblue hustoj judge_client.cc prepare_files os command injection](https://vulners.com/cve/CVE-2026-135815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135815 zhblue hustoj judge_client.cc prepare_files os command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-135815?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135818](https://vulners.com/nvd/NVD:CVE-2026-135818?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135877 WordPress ZoloBlocks plugin <= 2.8.4 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/cve/CVE-2026-135877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135877 WordPress ZoloBlocks plugin <= 2.8.4 - Cross Site Scripting (XSS) vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-135877?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135878 WordPress ZoloBlocks plugin <= 2.8.4 - Broken Access Control vulnerability](https://vulners.com/cve/CVE-2026-135878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135878 WordPress ZoloBlocks plugin <= 2.8.4 - Broken Access Control vulnerability](https://vulners.com/cvelist/CVELIST:CVE-2026-135878?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136134](https://vulners.com/nvd/NVD:CVE-2026-136134?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136135](https://vulners.com/nvd/NVD:CVE-2026-136135?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136139 Zefan-Cai R-KV FlashInfer weight loader loader.py _shard_files path traversal](https://vulners.com/cve/CVE-2026-136139?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -365,6 +401,9 @@
   - [CVE-2026-136548 Tenda RX3 GBK-to-UTF-8 Conversion auto_discover stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-136548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136549 Tenda RX3 SetRemoteWebCfg formSetSafeWanWebMan command injection](https://vulners.com/cve/CVE-2026-136549?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136549 Tenda RX3 SetRemoteWebCfg formSetSafeWanWebMan command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-136549?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136552](https://vulners.com/nvd/NVD:CVE-2026-136552?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136553](https://vulners.com/nvd/NVD:CVE-2026-136553?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136554](https://vulners.com/nvd/NVD:CVE-2026-136554?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136613](https://vulners.com/nvd/NVD:CVE-2026-136613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136614](https://vulners.com/nvd/NVD:CVE-2026-136614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136679](https://vulners.com/nvd/NVD:CVE-2026-136679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -389,6 +428,7 @@
   - [CVE-2026-86154](https://vulners.com/nvd/NVD:CVE-2026-86154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86155](https://vulners.com/nvd/NVD:CVE-2026-86155?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-86156](https://vulners.com/nvd/NVD:CVE-2026-86156?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-92367](https://vulners.com/nvd/NVD:CVE-2026-92367?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [donut](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-THEWOVER-DONUT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [drltrace](https://vulners.com/kitploit/KITPLOIT:8482220412402152523?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DSA-6656-1 runc - security update](https://vulners.com/osv_dsa/OSV:DSA-6656-1?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -415,6 +455,7 @@
   - [jsunpack-n](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-URULE99-JSUNPACK-N?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [LDAPRecon-AI](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITLAB-AYINEDJIMI-CONSULTANTS-LDAPRECON-AI?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [libinjection](https://vulners.com/gitee/B6E8FDE6-9B16-542B-8524-ABEBED1FB473?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [linksec-autotest-ai](https://vulners.com/githubexploit/F1F92A67-CADF-56A5-9C53-79DE724F4ACE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [mukemmel-reversing](https://vulners.com/githubexploit/FB6A7195-CD7E-5BB9-B649-D5D7757322DC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4webkit](https://vulners.com/githubexploit/21153F7B-9CBC-5394-8591-19424E3AE48A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tfc](https://vulners.com/kitploit/KITPLOIT:2245295184314950617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -438,6 +479,7 @@
 - xania.org
   - [Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss)
 - 不安全
+  - [Abolish Lock Poisoning](https://buaq.net/go-457166.html)
   - [真不要脸！戴尔/慧与/超微等服务器厂商在客户签约数月后要求加价 涨幅甚至达到45%](https://buaq.net/go-457198.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
@@ -447,3 +489,5 @@
 - 爱范儿
   - [Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2](https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=)
+- 量子位 QbitAI
+  - [A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆](https://www.qbitai.com/2026/11/512515.html)
