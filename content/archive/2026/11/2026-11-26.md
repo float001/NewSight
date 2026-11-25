@@ -8,6 +8,7 @@
   - [Ars Live recap: Don’t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/)
   - [Backblaze explains why it's sharing customer information with advertisers](https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/)
   - [Etsy clarifies AI terms after seller backlash](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/)
+  - [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
   - [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/)
   - [Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets](https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/)
   - [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
@@ -21,6 +22,7 @@
   - [Braiins warns of Bitcoin mining attacks affecting over 1,000 sites](https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers](https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia agrees to $290M settlement over crypto mining revenue disclosures](https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Switzerland clears 57 jurisdictions for crypto tax data sharing](https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -28,7 +30,9 @@
 - CoinTelegraph Security
   - [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
+  - [1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata](https://1password.com/blog/update-on-nov-2026-security-incident)
   - [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda)
+  - [‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’](https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html)
 - Hacker News Frontpage
   - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
 - HackerNoon
@@ -36,6 +40,9 @@
   - [Beyond the Pilot: Making AI Deliver Real Business Value](https://hackernoon.com/beyond-the-pilot-making-ai-deliver-real-business-value?source=rss)
   - [MEXC Thanksgiving Annual Campaign: Launching "Blue Friday" with Six Major Rewards for Global Users](https://hackernoon.com/mexc-thanksgiving-annual-campaign-launching-blue-friday-with-six-major-rewards-for-global-users?source=rss)
   - [Why Are We Still So Easy to Fool in the Age of Unlimited Information?](https://hackernoon.com/why-are-we-still-so-easy-to-fool-in-the-age-of-unlimited-information?source=rss)
+- Horizon3.ai
+  - [CVE-2026-123890 | VMware vCenter Directory Service Authentication Bypass Vulnerability](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-123890/)
+  - [The Architecture of Self-Defending Systems](https://horizon3.ai/intelligence/blogs/architecture-of-self-defending-systemsm/)
 - infosecurity-magazine.com
   - [US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds](https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/)
 - jeffgeerling.com
@@ -62,6 +69,7 @@
   - [FCC approves SpaceX plan to put AI data centers in space](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)
   - [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
   - [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
+  - [S&P considers Nvidia credit downgrade over governance and ‘key man’ risks](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
   - [State AGs fight Character AI’s plan to auction off users’ private chats](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
   - [The canceled Tesla Cybertruck is the fastest-selling used truck in America](https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/)
   - [Want to buy your kid an AI toy this Christmas? Not in New York](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
@@ -75,6 +83,7 @@
   - [Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF](https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686)
   - [Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’](https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711)
   - [Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil](https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709)
+  - [Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption](https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756)
 - The Decoder
   - [Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/)
   - [Anthropic CEO Dario Amodei says letting AI govern society would be "a bad idea"](https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/)
