@@ -6,16 +6,19 @@
   - [【T2】T2 Desktop 焕新升级，功能更全，界面更优美。](https://2libra.com/post/forum-function/yAGbLJL)
   - [【运动打卡】今天小区走路真冷啊](https://2libra.com/post/sports/QKyOOy5)
   - [【💰】我也做了一个猜年龄的，大家来试试鸭](https://2libra.com/post/personal-works/E-87m-C)
+  - [【💰】有没有使用 ai 做科研写论文的](https://2libra.com/post/ai-applications/5yK5dYt)
   - [【💰】有没有可以免费在线听歌的网站](https://2libra.com/post/recommendations/bFtC324)
   - [【💰】要十级了](https://2libra.com/post/forum-function/Zrhf9oF)
   - [交出你 K T V 点歌不踩雷的歌曲](https://2libra.com/post/recommendations/slu-hAb)
   - [准备跑路了，还能干点什么？](https://2libra.com/post/workplace-stories/owZArdG)
+  - [周三恶语](https://2libra.com/post/workplace-stories/2pb7lHj)
   - [小豆的邀请码](https://2libra.com/post/invite-code/1LXv8hH)
   - [小黄鱼还会回去吗？](https://2libra.com/post/financial-management/dzxMVMe)
   - [我账号出问题了吗，第三方应用授权登录失败](https://2libra.com/post/community/HV-7Lx3)
   - [有没有人玩卫戍协议](https://2libra.com/post/game-discussion/ZSV9ZsB)
   - [这 AI 坏我道心！](https://2libra.com/post/ai-programming/wmJetOS)
   - [陪嫁两套房子选哪个？](https://2libra.com/post/marriage/Tvl1gax)
+  - [黑五限时｜Proxy001 住宅代理最高 5 折起，流量再赠最高 500GB](https://2libra.com/post/promotion/kZsN9Bm)
 - Armin Ronacher's Thoughts and Writings
   - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 - Ars Technica
@@ -41,6 +44,7 @@
   - [BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong](https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CFTC sets new prediction market rules as more firms seek US entry](https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books](https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [EU seeks up to $55B for AI and quantum computing fund: Report](https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Europol follows $28.5M crypto trail in streaming piracy crackdown](https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hackers breach CIA intelligence network in latest US cyberattack](https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -109,6 +113,8 @@
   - [Homa IR Test](https://www.producthunt.com/products/homa-ir-test)
 - rtl-sdr.com
   - [Mini0com CalypsoX Lite: A Custom Motorola C139 Firmware Adding GSM Tools and IMSI Catcher Detection](https://www.rtl-sdr.com/mini0com-calypsox-lite-a-custom-motorola-c139-firmware-adding-gsm-tools-and-imsi-catcher-detection/)
+- Securelist
+  - [How to protect against preinstalled Android malware](https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/)
 - Sploitus.com Exploits RSS Feed
   - [ai漏洞挖掘 exploit](https://sploitus.com/exploit?id=C303FD1E-F714-5B0E-8CFA-B097B52C6A24&utm_source=rss&utm_medium=rss)
   - [Claude-BugHunter exploit](https://sploitus.com/exploit?id=DDBC5165-0E5C-553C-9F33-F398673EA100&utm_source=rss&utm_medium=rss)
@@ -488,6 +494,7 @@
   - [梅奥诊所向每天用自己的时间启动电脑的员工补发工资](https://www.solidot.org/story?sid=85985)
 - 爱范儿
   - [Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2](https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比](https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆](https://www.qbitai.com/2026/11/512515.html)
