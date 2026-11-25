@@ -37,6 +37,7 @@
   - [Hackers breach CIA intelligence network in latest US cyberattack](https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How South Korea’s proposed 20% cap could change who runs Upbit](https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Trump willing to pardon Jensen Huang, says it won’t be necessary](https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Utah moves to dismiss criminal charges against Kalshi after trading halt](https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Attackers Exploit Unpatchable Idunno.AntiCsrf RCE Flaw CVE-2026-131914 in ASP.NET Apps](https://www.cyberkendra.com/2026/11/cve-2026-131914-idunno-anticsrf-rce-exploited.html)
@@ -76,6 +77,7 @@
   - [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
   - [Matrix Multiplication is O(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
   - [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
+  - [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)
   - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
   - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
   - [Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
@@ -407,6 +409,8 @@
   - [The 24 Very Best Amazon Black Friday Deals to Get Now (2026)](https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/)
 - xania.org
   - [Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss)
+- 不安全
+  - [真不要脸！戴尔/慧与/超微等服务器厂商在客户签约数月后要求加价 涨幅甚至达到45%](https://buaq.net/go-457198.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
