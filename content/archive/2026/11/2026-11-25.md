@@ -30,6 +30,7 @@
 - Armin Ronacher's Thoughts and Writings
   - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
 - Ars Technica
+  - [A familiar Iranian hacking group has found a new way to cause chaos](https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/)
   - [Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can](https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/)
   - [FAA opens probe after Amazon delivery drone clips cable, crashes into garage](https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/)
   - [Fake gears and real 911 DNA: Driving Porsche's electric 718 Boxster](https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/)
@@ -55,6 +56,7 @@
   - [CleanSpark weighs selling more Bitcoin than it mines to ‘de-risk’ books](https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [EU seeks up to $55B for AI and quantum computing fund: Report](https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Europol follows $28.5M crypto trail in streaming piracy crackdown](https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal](https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [French Senate rejects 100K euro crypto wallet disclosure requirement](https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Hackers breach CIA intelligence network in latest US cyberattack](https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -97,6 +99,7 @@
   - [‘The Economy Is a Hostage Situation’](https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&)
 - darkreading
   - ['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)
+  - [Cyber Insurers See New Divide: AI Defense 'Haves' &amp; 'Have Nots'](https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide)
   - [Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing](https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing)
   - [Webworm APT Slithers Into Networks With Customized SoftEther VPN](https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn)
 - defend.network
@@ -106,6 +109,7 @@
 - experimental-history.com
   - [Everything I know about writing](https://www.experimental-history.com/p/everything-i-know-about-writing)
 - Hacker News Frontpage
+  - [Amazon S3 Files](https://aws.amazon.com/s3/features/files/)
   - [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
   - [CIA Hacked](https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77)
   - [Compiling Web Applications into Verified Operations for AI Agents](https://protocolis.co/paper/)
@@ -123,6 +127,7 @@
   - [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
   - [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/)
   - [Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
+  - [U.S. jury convicts Huawei of fraud, Iran sanctions violations](https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/)
   - [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
   - [Working with AI](https://www.anthropic.com/research/working-with-ai)
   - [“Pervert glasses" named word of the year by Macquarie Dictionary](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
@@ -134,10 +139,12 @@
 - infosecurity-magazine.com
   - [NCSC Shares Guidance to Tackle Agentic Threat From ARTEX-Like Tools](https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/)
   - [New Inception Extortion Brand Tied to SSO Vishing Campaign](https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/)
+  - [Palo Alto Fixes Fragnesia Kernel Bug Chained With PHP2Shell in Firewall Attacks](https://www.infosecurity-magazine.com/news/palo-alto-fragnesia-php2shell-fix/)
   - [Ransomware Attacks Surge 23% in October Following Record Quarter](https://www.infosecurity-magazine.com/news/ransomware-surge-october-record/)
   - [UK Authorized Push Payment Losses Surge 22% as Fraudsters Steal £660m](https://www.infosecurity-magazine.com/news/uk-app-losses-surge-22-fraudsters/)
   - [US Treasury Investigates Cyber Incident Amid Reported Federal Agency Breaches](https://www.infosecurity-magazine.com/news/us-treasury-cyber-incident/)
 - johndcook.com
+  - [Covering a body with eight smaller copies of itself](https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/)
   - [Polynomials and Planets](https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/)
 - MIT Technology Review
   - [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)
@@ -160,6 +167,7 @@
   - [ai漏洞挖掘 exploit](https://sploitus.com/exploit?id=C303FD1E-F714-5B0E-8CFA-B097B52C6A24&utm_source=rss&utm_medium=rss)
   - [Claude-BugHunter exploit](https://sploitus.com/exploit?id=DDBC5165-0E5C-553C-9F33-F398673EA100&utm_source=rss&utm_medium=rss)
   - [CVE-2020-11851 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CH1NGHZ-CVE-2020-11851&utm_source=rss&utm_medium=rss)
+  - [CVE-2021-26415 exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ADENKIEWICZ-CVE-2021-26415&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-125396](https://sploitus.com/exploit?id=833D3C1F-5942-502A-A540-D95EF7F582C6&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-135232](https://sploitus.com/exploit?id=62718E94-BF82-5609-9CC8-D2A7182F91FF&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-135239](https://sploitus.com/exploit?id=85CFA9C4-FCD3-5A05-9C5A-349AA987B0B7&utm_source=rss&utm_medium=rss)
@@ -167,11 +175,15 @@
   - [Exploit for CVE-2026-135250](https://sploitus.com/exploit?id=37EAF1DF-A566-5A33-9F1E-F2CC509A48EC&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-135257](https://sploitus.com/exploit?id=A41664AB-0871-5D54-BCAB-AE4DA076ECA5&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-135290](https://sploitus.com/exploit?id=690F2505-D291-51FF-8BB3-683744F26A0F&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-135295](https://sploitus.com/exploit?id=7F926029-1F50-55DD-8D0B-111710733D0F&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-135300](https://sploitus.com/exploit?id=4800E79D-02E9-5DE4-BFE1-0BE8C5044161&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-135445](https://sploitus.com/exploit?id=1CC3E5DF-4930-5119-A58D-42CA32A8CA47&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-135746](https://sploitus.com/exploit?id=B5AC4CBC-676A-5B16-964E-83CEBC3B5DA5&utm_source=rss&utm_medium=rss)
   - [Exploit for Integer Overflow or Wraparound in Ffmpeg](https://sploitus.com/exploit?id=85CDA659-83DB-5337-8EB6-79E955147534&utm_source=rss&utm_medium=rss)
   - [libinjection exploit](https://sploitus.com/exploit?id=B6E8FDE6-9B16-542B-8524-ABEBED1FB473&utm_source=rss&utm_medium=rss)
   - [nginx2root exploit](https://sploitus.com/exploit?id=E272A7F0-5196-516B-B18E-8B7E4329A529&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/)
   - [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)
   - [Dozens of oil and shipping tankers hacked in recent weeks, per report](https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/)
   - [Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank](https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/)
@@ -184,6 +196,7 @@
   - [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/)
   - [Threads comes to iPad and takes a page from X’s playbook with cashtags](https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/)
   - [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
+  - [Todoist confirms 6% of customers’ details were stolen in data breach](https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/)
   - [Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)
   - [Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch](https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/)
   - [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
@@ -193,6 +206,7 @@
 - The Block
   - [Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%](https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705)
   - [Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000](https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109)
+  - [Bit Digital repays $50 million to Galaxy after selling 29,825 ETH](https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164)
   - [Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines](https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061)
   - [Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more](https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074)
   - [Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade](https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125)
@@ -201,9 +215,11 @@
   - [Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization](https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131)
   - [Kraken’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC](https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498)
   - [New York senator proposes 10% tax on prediction market fees to fund universal pre-K](https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082)
+  - [NovaTech founders ordered to pay $1.3 million over crypto Ponzi scheme targeting Haitian investors](https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643)
   - [Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’](https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052)
   - [Robinhood co-leads $5 million seed round for onchain trading platform Rialto](https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030)
   - [SEC staff gives Molecule no-action relief for scientific research tokens](https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067)
+  - [Ukraine passes crypto market law, with $332 million revenue target](https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182)
   - [UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity](https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150)
   - [Utah moves to drop criminal charges against Kalshi after platform halts operations](https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090)
   - [We’ve Entered Peak FEAR; SKY Falls](https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476)
@@ -219,6 +235,7 @@
   - [PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values](https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/)
 - The Verge
   - [Amazon is knocking almost $50 off six months of Apple TV](https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday)
+  - [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
   - [David Fincher is being dragged for suspected use of AI in his latest film](https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive)
   - [Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday](https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026)
   - [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware)
@@ -691,7 +708,9 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
   - [Kagi 推出邮件服务](https://www.solidot.org/story?sid=85984)
+  - [如何维护超算](https://www.solidot.org/story?sid=85989)
   - [梅奥诊所向每天用自己的时间启动电脑的员工补发工资](https://www.solidot.org/story?sid=85985)
+  - [研究显示不是所有地区的男性精子数量都大幅下降](https://www.solidot.org/story?sid=85990)
 - 安全客
   - [AI攻破安全厂商，锅在一把没回收的密钥](https://www.anquanke.com/post/id/316541)
 - 爱范儿
@@ -700,3 +719,6 @@
   - [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=)
 - 量子位 QbitAI
   - [A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆](https://www.qbitai.com/2026/11/512515.html)
+  - [算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划](https://www.qbitai.com/2026/11/512582.html)
+  - [逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试](https://www.qbitai.com/2026/11/512683.html)
+  - [零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体](https://www.qbitai.com/2026/11/512715.html)
