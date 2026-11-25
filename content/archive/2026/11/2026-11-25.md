@@ -10,6 +10,7 @@
   - [【💰】有没有可以免费在线听歌的网站](https://2libra.com/post/recommendations/bFtC324)
   - [【💰】要十级了](https://2libra.com/post/forum-function/Zrhf9oF)
   - [交出你 K T V 点歌不踩雷的歌曲](https://2libra.com/post/recommendations/slu-hAb)
+  - [你觉得截至目前，你遇到人生最大的挑战是什么？](https://2libra.com/post/questions/o1WcfiO)
   - [准备开日区 Spotify 家庭车，五个车位，45 元季付](https://2libra.com/post/sharing/ZG-o24j)
   - [准备跑路了，还能干点什么？](https://2libra.com/post/workplace-stories/owZArdG)
   - [周三恶语](https://2libra.com/post/workplace-stories/2pb7lHj)
@@ -18,6 +19,7 @@
   - [我账号出问题了吗，第三方应用授权登录失败](https://2libra.com/post/community/HV-7Lx3)
   - [有没有人玩卫戍协议](https://2libra.com/post/game-discussion/ZSV9ZsB)
   - [符合我当前现状](https://2libra.com/post/personal-life/0LXTGTQ)
+  - [还有什么桌面端小工具可以开发的么？](https://2libra.com/post/indie-dev/ZMQXRKv)
   - [这 AI 坏我道心！](https://2libra.com/post/ai-programming/wmJetOS)
   - [陪嫁两套房子选哪个？](https://2libra.com/post/marriage/Tvl1gax)
   - [黑五限时｜Proxy001 住宅代理最高 5 折起，流量再赠最高 500GB](https://2libra.com/post/promotion/kZsN9Bm)
@@ -53,6 +55,7 @@
   - [Hackers breach CIA intelligence network in latest US cyberattack](https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How South Korea’s proposed 20% cap could change who runs Upbit](https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [HYPE drops 8% as Trump bump gives way to 40% slide from peak](https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana DEX Velocity halts trading over bug just months after relaunch](https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [South Korea’s crypto bill could move stablecoin race beyond token issuance](https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Stablecoin redemptions hit $12B in 30 days, echoing 2022 bear market](https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -68,6 +71,7 @@
 - CyberNews
   - [Microsoft declares “Code Red” after historic outage](https://cybernews.com/news/microsoft-declares-code-red/)
   - [Treasury, CIA, ODNI, FBI hacked: What we know about the US government cyberattack spree](https://cybernews.com/security/us-government-cyberattacks-treasury-cia-fbi/)
+  - [Ukrainian man catches Electrolux water heater connecting to Russian cloud](https://cybernews.com/security/electrolux-smart-water-heater-russian-cloud-connection/)
 - daringfireball.net
   - [David Sacks’s Pool Boy Is Cocky](https://www.threads.com/@karaswisher/post/DgGBe_XI147)
   - [Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau](https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/)
@@ -115,9 +119,12 @@
 - infosecurity-magazine.com
   - [NCSC Shares Guidance to Tackle Agentic Threat From ARTEX-Like Tools](https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/)
   - [New Inception Extortion Brand Tied to SSO Vishing Campaign](https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/)
+  - [Ransomware Attacks Surge 23% in October Following Record Quarter](https://www.infosecurity-magazine.com/news/ransomware-surge-october-record/)
   - [UK Authorized Push Payment Losses Surge 22% as Fraudsters Steal £660m](https://www.infosecurity-magazine.com/news/uk-app-losses-surge-22-fraudsters/)
 - MIT Technology Review
   - [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)
+- Pen Test Partners
+  - [Allow-list the Web Application Firewall (WAF) for your web app test](https://www.pentestpartners.com/security-blog/allow-list-the-web-application-firewall-waf-for-your-web-app-test/)
 - Product Hunt
   - [Homa IR Test](https://www.producthunt.com/products/homa-ir-test)
 - rtl-sdr.com
@@ -162,6 +169,7 @@
   - [Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade](https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125)
   - [Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services](https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019)
   - [Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities](https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132)
+  - [Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization](https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131)
   - [Kraken’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC](https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498)
   - [New York senator proposes 10% tax on prediction market fees to fund universal pre-K](https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082)
   - [Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’](https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052)
@@ -172,6 +180,7 @@
 - The Decoder
   - [Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents](https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/)
   - [Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows](https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/)
+  - [MIT team discovers that unrealistic training data makes AI climate predictions more reliable](https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/)
   - [Novartis CEO says AI will shave four years off drug development, not cure all disease](https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/)
   - [OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a "very steep rate of progress"](https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/)
 - The Verge
@@ -539,7 +548,10 @@
   - [Klook Promo Code: 20% Off November 2026](https://www.wired.com/story/klook-promo-code/)
   - [Noom Promo Codes: 50% Off Best Deals for November 2026](https://www.wired.com/story/noom-promo-code/)
   - [NordVPN Coupons: 75% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
+  - [Shop Small: Our Favorite Gifts From Independent Businesses (2026)](https://www.wired.com/story/shop-small-gift-guide-2026/)
   - [The 24 Very Best Amazon Black Friday Deals to Get Now (2026)](https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/)
+  - [The 6 Best Latte Machines for Automatic Espresso Drinks (2026)](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
+  - [The Best iPhone Duo Cases and Accessories (2026)](https://www.wired.com/story/best-iphone-duo-cases-and-accessories/)
   - [Uplift Promo Codes: $300 Off](https://www.wired.com/story/uplift-desk-coupon-code/)
   - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
 - xania.org
@@ -552,6 +564,8 @@
 - 奇客Solidot–传递最新科技情报
   - [Kagi 推出邮件服务](https://www.solidot.org/story?sid=85984)
   - [梅奥诊所向每天用自己的时间启动电脑的员工补发工资](https://www.solidot.org/story?sid=85985)
+- 安全客
+  - [AI攻破安全厂商，锅在一把没回收的密钥](https://www.anquanke.com/post/id/316541)
 - 爱范儿
   - [Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2](https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign)
   - [拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比](https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign)
