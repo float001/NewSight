@@ -1,6 +1,7 @@
 # 今日安全资讯（2026-11-25）
 
 - 2Libra
+  - [AIDesk（暂定）局域网+公网远程工具初版发布](https://2libra.com/post/personal-works/hHyIvtN)
   - [GPT 又不干人事了](https://2libra.com/post/large-models/LyydJPR)
   - [【运动打卡】今天小区走路真冷啊](https://2libra.com/post/sports/QKyOOy5)
   - [【💰】我也做了一个猜年龄的，大家来试试鸭](https://2libra.com/post/personal-works/E-87m-C)
@@ -10,6 +11,7 @@
   - [准备跑路了，还能干点什么？](https://2libra.com/post/workplace-stories/owZArdG)
   - [小豆的邀请码](https://2libra.com/post/invite-code/1LXv8hH)
   - [小黄鱼还会回去吗？](https://2libra.com/post/financial-management/dzxMVMe)
+  - [我账号出问题了吗，第三方应用授权登录失败](https://2libra.com/post/community/HV-7Lx3)
   - [有没有人玩卫戍协议](https://2libra.com/post/game-discussion/ZSV9ZsB)
   - [这 AI 坏我道心！](https://2libra.com/post/ai-programming/wmJetOS)
 - Armin Ronacher's Thoughts and Writings
@@ -42,6 +44,7 @@
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How South Korea’s proposed 20% cap could change who runs Upbit](https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Solana DEX Velocity halts trading over bug just months after relaunch](https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [South Korea’s crypto bill could move stablecoin race beyond token issuance](https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump willing to pardon Jensen Huang, says it won’t be necessary](https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Utah moves to dismiss criminal charges against Kalshi after trading halt](https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -64,6 +67,8 @@
 - darkreading
   - ['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)
   - [Webworm APT Slithers Into Networks With Customized SoftEther VPN](https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn)
+- defend.network
+  - [Daily Threat Briefing – November 25, 2026](https://defend.network/briefings/broadcom-patched-vmware-flaws-incl-2026-11-25.html)
 - Emergent Minds | paddo.dev
   - [Make It Work, Make It Right, Make It Land: Delivery When Agents Outrun Sign-off](https://paddo.dev/blog/three-streams/)
 - experimental-history.com
@@ -436,6 +441,9 @@
   - [真不要脸！戴尔/慧与/超微等服务器厂商在客户签约数月后要求加价 涨幅甚至达到45%](https://buaq.net/go-457198.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [Kagi 推出邮件服务](https://www.solidot.org/story?sid=85984)
+  - [梅奥诊所向每天用自己的时间启动电脑的员工补发工资](https://www.solidot.org/story?sid=85985)
 - 爱范儿
   - [Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2](https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=)
