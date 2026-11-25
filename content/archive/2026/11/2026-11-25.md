@@ -3,10 +3,14 @@
 - 2Libra
   - [GPT 又不干人事了](https://2libra.com/post/large-models/LyydJPR)
   - [【运动打卡】今天小区走路真冷啊](https://2libra.com/post/sports/QKyOOy5)
+  - [【💰】我也做了一个猜年龄的，大家来试试鸭](https://2libra.com/post/personal-works/E-87m-C)
   - [【💰】有没有可以免费在线听歌的网站](https://2libra.com/post/recommendations/bFtC324)
   - [【💰】要十级了](https://2libra.com/post/forum-function/Zrhf9oF)
+  - [交出你 K T V 点歌不踩雷的歌曲](https://2libra.com/post/recommendations/slu-hAb)
   - [准备跑路了，还能干点什么？](https://2libra.com/post/workplace-stories/owZArdG)
   - [小豆的邀请码](https://2libra.com/post/invite-code/1LXv8hH)
+  - [小黄鱼还会回去吗？](https://2libra.com/post/financial-management/dzxMVMe)
+  - [有没有人玩卫戍协议](https://2libra.com/post/game-discussion/ZSV9ZsB)
   - [这 AI 坏我道心！](https://2libra.com/post/ai-programming/wmJetOS)
 - Armin Ronacher's Thoughts and Writings
   - [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)
@@ -37,6 +41,7 @@
   - [Hackers breach CIA intelligence network in latest US cyberattack](https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [How South Korea’s proposed 20% cap could change who runs Upbit](https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Solana DEX Velocity halts trading over bug just months after relaunch](https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Trump willing to pardon Jensen Huang, says it won’t be necessary](https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Utah moves to dismiss criminal charges against Kalshi after trading halt](https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
@@ -125,6 +130,7 @@
 - The Block
   - [Ansem denies involvement in $2.57 million wallet drain; Black Bull creator coin plummets 55%](https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705)
   - [Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines](https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061)
+  - [Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more](https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074)
   - [Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services](https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019)
   - [Kraken’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC](https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498)
   - [New York senator proposes 10% tax on prediction market fees to fund universal pre-K](https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082)
@@ -161,6 +167,7 @@
   - [CANalyzat0r](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SCHUTZWERK-CANALYZAT0R?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Claude-BugHunter](https://vulners.com/gitee/DDBC5165-0E5C-553C-9F33-F398673EA100?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-111546](https://vulners.com/cvelist/CVELIST:CVE-2026-111546?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-118898](https://vulners.com/nvd/NVD:CVE-2026-118898?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120654 Joomla! Core - [20261102] - Core - Improper ACL checks in com_newsfeeds delete action in Joomla 1.6.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-120654?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120655 Joomla! Core - [20261103] - Core - Information disclosure in Schema.org system plugin in Joomla 5.0.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-120655?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120674 Joomla! Core - [20261104] - Core - XSS in com_finder search view in Joomla 2.5.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cve/CVE-2026-120674?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -214,6 +221,8 @@
   - [CVE-2026-129395 Joomla! Core - [20261158] - Core - DoS in InputFilter tag cleaning in Joomla 1.5.0-5.4.10, 6.0.0-6.2.0](https://vulners.com/cvelist/CVELIST:CVE-2026-129395?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129969](https://vulners.com/nvd/NVD:CVE-2026-129969?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-129970](https://vulners.com/nvd/NVD:CVE-2026-129970?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-130336](https://vulners.com/nvd/NVD:CVE-2026-130336?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132145](https://vulners.com/nvd/NVD:CVE-2026-132145?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132254](https://vulners.com/nvd/NVD:CVE-2026-132254?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132255](https://vulners.com/nvd/NVD:CVE-2026-132255?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-132256](https://vulners.com/nvd/NVD:CVE-2026-132256?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -346,8 +355,15 @@
   - [CVE-2026-136538](https://vulners.com/nvd/NVD:CVE-2026-136538?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136539](https://vulners.com/nvd/NVD:CVE-2026-136539?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136540](https://vulners.com/nvd/NVD:CVE-2026-136540?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136547](https://vulners.com/nvd/NVD:CVE-2026-136547?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136548 Tenda RX3 GBK-to-UTF-8 Conversion auto_discover stack-based overflow](https://vulners.com/cve/CVE-2026-136548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136548 Tenda RX3 GBK-to-UTF-8 Conversion auto_discover stack-based overflow](https://vulners.com/cvelist/CVELIST:CVE-2026-136548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136549 Tenda RX3 SetRemoteWebCfg formSetSafeWanWebMan command injection](https://vulners.com/cve/CVE-2026-136549?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136549 Tenda RX3 SetRemoteWebCfg formSetSafeWanWebMan command injection](https://vulners.com/cvelist/CVELIST:CVE-2026-136549?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136613](https://vulners.com/nvd/NVD:CVE-2026-136613?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136614](https://vulners.com/nvd/NVD:CVE-2026-136614?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136679](https://vulners.com/nvd/NVD:CVE-2026-136679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-136680](https://vulners.com/nvd/NVD:CVE-2026-136680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-16668](https://vulners.com/nvd/NVD:CVE-2026-16668?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-4033](https://vulners.com/nvd/NVD:CVE-2026-4033?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-48401](https://vulners.com/nvd/NVD:CVE-2026-48401?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -397,16 +413,23 @@
   - [mukemmel-reversing](https://vulners.com/githubexploit/FB6A7195-CD7E-5BB9-B649-D5D7757322DC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ps4webkit](https://vulners.com/githubexploit/21153F7B-9CBC-5394-8591-19424E3AE48A?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [tfc](https://vulners.com/kitploit/KITPLOIT:2245295184314950617?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - wheresyoured.at
   - [Defective Accelerationism](https://www.wheresyoured.at/defective-accelerationism/)
 - Wired
   - [11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia](https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/)
   - [16 Best Black Friday Headphone Deals (2026): Up to 57% Off](https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/)
+  - [Adidas Promo Code | 60% Off | November 2026](https://www.wired.com/story/adidas-promo-code/)
   - [Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving](https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/)
   - [Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games](https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/)
   - [Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return](https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/)
   - [Jensen Huang’s Return Shows Nvidia Is Too Big to Police](https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/)
+  - [Klook Promo Code: 20% Off November 2026](https://www.wired.com/story/klook-promo-code/)
+  - [Noom Promo Codes: 50% Off Best Deals for November 2026](https://www.wired.com/story/noom-promo-code/)
+  - [NordVPN Coupons: 75% Off + 3 Months Free](https://www.wired.com/story/nordvpn-coupon/)
   - [The 24 Very Best Amazon Black Friday Deals to Get Now (2026)](https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/)
+  - [Uplift Promo Codes: $300 Off](https://www.wired.com/story/uplift-desk-coupon-code/)
+  - [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
 - xania.org
   - [Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss)
 - 不安全
@@ -414,4 +437,5 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2](https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=)
