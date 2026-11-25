@@ -2,16 +2,27 @@
 
 - 2Libra
   - [vibe code 项目体检 skill](https://2libra.com/post/prompts/8-Rm7Ha)
+- 404 Media
+  - [The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships](https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/)
 - Ars Technica
   - [Ars Live recap: Don’t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/)
+  - [Backblaze explains why it's sharing customer information with advertisers](https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/)
   - [Etsy clarifies AI terms after seller backlash](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/)
   - [Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets](https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/)
   - [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
+  - [The FCC has authorized SpaceX to deploy 1 million satellites](https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/)
+- blog.jim-nielsen.com
+  - [Have You Tried Using Your Agent?](https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/)
+- Chainalysis Blog
+  - [Chainalysis Nodes London 2026: Chain, Our AI Workspace ‘Tips the Scales’ for Defenders](https://www.chainalysis.com/blog/nodes-london-2026-chain-ai-workspace/)
 - CoinTelegraph
   - [Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%](https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers](https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia agrees to $290M settlement over crypto mining revenue disclosures](https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- CoinTelegraph Security
+  - [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - daringfireball.net
   - [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda)
 - HackerNoon
@@ -25,6 +36,7 @@
   - [Test EDR Telemetry in a Home Lab: Sysmon & eBPF](https://kalilinuxtutorials.com/test-edr-telemetry-in-a-home-lab-sysmon-ebpf/)
 - Microsoft Security Blog
   - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security](https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/)
+  - [What defenders need to know about ARTEX, the agentic AI framework threat actors abuse](https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/)
 - Sploitus.com Exploits RSS Feed
   - [aaWAF exploit](https://sploitus.com/exploit?id=8E9712EB-9F2F-5EBA-81B2-CE524551C888&utm_source=rss&utm_medium=rss)
   - [Apache Tomcat: Auth Bypass exploit](https://sploitus.com/exploit?id=1DAYEXPLOIT:CVE-2026-101296&utm_source=rss&utm_medium=rss)
@@ -36,8 +48,10 @@
   - [Next.js: DoS exploit](https://sploitus.com/exploit?id=1DAYEXPLOIT:CVE-2026-94482&utm_source=rss&utm_medium=rss)
   - [oss-scan exploit](https://sploitus.com/exploit?id=3374CB39-3236-574E-8001-7F95C070C472&utm_source=rss&utm_medium=rss)
 - TechCrunch
+  - [1Password said hackers broke into its internal systems, but customer passwords are safe](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
   - [DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers](https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/)
   - [State AGs fight Character AI’s plan to auction off users’ private chats](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
+  - [Want to buy your kid an AI toy this Christmas? Not in New York](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
   - [WhatsApp now lets you schedule messages in group and individual chats](https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/)
   - [X’s latest update for creators focuses on vertical video](https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/)
 - The Block
@@ -48,6 +62,7 @@
   - [Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil](https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709)
 - The Decoder
   - [Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/)
+  - [OpenAI wants companies to trust it with sensitive work by promising not to look at their data](https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/)
 - The Verge
   - [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
   - [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
@@ -103,5 +118,7 @@
   - [Exploit for CVE-2026-134023](https://vulners.com/githubexploit/1DA44EA5-04A1-55D8-B7B3-A1725EB9281E?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Next.js: DoS](https://vulners.com/1dayexploit/1DAYEXPLOIT:CVE-2026-94482?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [oss-scan](https://vulners.com/gitee/3374CB39-3236-574E-8001-7F95C070C472?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+- Wired
+  - [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
