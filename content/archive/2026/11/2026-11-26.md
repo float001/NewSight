@@ -8,6 +8,7 @@
   - [Ars Live recap: Don’t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/)
   - [Backblaze explains why it's sharing customer information with advertisers](https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/)
   - [Etsy clarifies AI terms after seller backlash](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/)
+  - [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/)
   - [Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets](https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/)
   - [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
   - [The FCC has authorized SpaceX to deploy 1 million satellites](https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/)
@@ -53,6 +54,7 @@
   - [1Password said hackers broke into its internal systems, but customer passwords are safe](https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/)
   - [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
   - [DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers](https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/)
+  - [FCC approves SpaceX plan to put AI data centers in space](https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/)
   - [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
   - [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
   - [State AGs fight Character AI’s plan to auction off users’ private chats](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
@@ -70,13 +72,16 @@
   - [Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil](https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709)
 - The Decoder
   - [Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/)
+  - [Anthropic CEO Dario Amodei says letting AI govern society would be "a bad idea"](https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/)
   - [OpenAI wants companies to trust it with sensitive work by promising not to look at their data](https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/)
+  - [US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs](https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/)
 - The Verge
   - [1Password breach leaked customer names and emails, but not passwords](https://www.theverge.com/tech/1042409/1password-data-breach-leak)
   - [EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa](https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant)
   - [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
   - [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
+  - [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages)
 - Vulners.com RSS Feed
   - [aaWAF](https://vulners.com/gitee/8E9712EB-9F2F-5EBA-81B2-CE524551C888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-110470 Stack-based buffer overflow in mkevent notification mode](https://vulners.com/cve/CVE-2026-110470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
