@@ -15,6 +15,7 @@
   - [【💰】Gemini 账号飓风营救成功，来一波福利](https://2libra.com/post/ai-tools/QCkil61)
   - [【💰】大家现在平时通勤或者徒步的时候一般是穿什么鞋？哪个品牌？欢迎大家来交流](https://2libra.com/post/interaction/v9WORz0)
   - [个人属性](https://2libra.com/post/forum-function/t1WdXSG)
+  - [刚刚获得“前排打手”勋章](https://2libra.com/post/personal-life/N4Old7t)
   - [发现一个无限放大空间的网页，好梦幻](https://2libra.com/post/sharing-discoveries/ktxe2F1)
   - [建立了本社区第一个微信群，大家感兴趣可以加一下。群内请备注本站 ID🆔，请遵守国家和社区相关规则。](https://2libra.com/post/interest-groups/4nMUauN)
   - [微信](https://2libra.com/post/small-things/6FwLRSy)
@@ -43,6 +44,7 @@
 - Chainalysis Blog
   - [Chainalysis Nodes London 2026: Chain, Our AI Workspace ‘Tips the Scales’ for Defenders](https://www.chainalysis.com/blog/nodes-london-2026-chain-ai-workspace/)
 - CoinTelegraph
+  - [1Password hacker stole customer names and emails, but vaults safe](https://cointelegraph.com/news/1password-hacker-stole-customer-names-and-emails-but-vaults-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says](https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%](https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Braiins warns of Bitcoin mining attacks affecting over 1,000 sites](https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -50,6 +52,7 @@
   - [FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers](https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Nvidia agrees to $290M settlement over crypto mining revenue disclosures](https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions](https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Switzerland clears 57 jurisdictions for crypto tax data sharing](https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Why ECB collateral eligibility could boost demand for tokenized bonds](https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -83,6 +86,7 @@
   - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security](https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/)
   - [What defenders need to know about ARTEX, the agentic AI framework threat actors abuse](https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/)
 - rtl-sdr.com
+  - [Antennaut: A Browser-Based RTL-SDR and HackRF Receiver with ADS-B, AIS, FT8, LoRa and More Decoders Built In](https://www.rtl-sdr.com/antennaut-a-browser-based-rtl-sdr-and-hackrf-receiver-with-ads-b-ais-ft8-lora-and-more-decoders-built-in/)
   - [Malahit DSP4s: A New Licensed Malahit Portable SDR with 100 kHz–1620 MHz Coverage, 650 kHz Bandwidth and Digital Voice Decoders](https://www.rtl-sdr.com/malahit-dsp4s-a-new-licensed-malahit-portable-sdr-with-100-khz-1620-mhz-coverage-650-khz-bandwidth-and-digital-voice-decoders/)
   - [RadioFoundry Gateway: An Open-Source DMR Tier III Trunked Repeater Built Around RTL-SDR, PlutoSDR and ESP32](https://www.rtl-sdr.com/radiofoundry-gateway-an-open-source-dmr-tier-iii-trunked-repeater-built-around-rtl-sdr-plutosdr-and-esp32/)
 - simonwillison.net
@@ -425,7 +429,10 @@
 - Wired
   - [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
 - 不安全
+  - [Antennaut: A Browser-Based RTL-SDR and HackRF Receiver with ADS-B, AIS, FT8, LoRa and More Decoders Built In](https://buaq.net/go-457456.html)
+  - [PlayPorted – 近 2500 个游戏移植项目，都在这个网站上](https://buaq.net/go-457460.html)
   - [密码管理器 1Password 遭黑客入侵，部分用户数据泄露，用户主密码、密码库均安全。](https://buaq.net/go-457444.html)
+  - [待办事项与任务管理服务Todoist遭到黑客攻击 部分用户的敏感数据被窃取](https://buaq.net/go-457465.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -434,6 +441,7 @@
   - [Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」](https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign)
   - [专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司](https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」](https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类](https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign)
 - 量子位 QbitAI
   - [AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了](https://www.qbitai.com/2026/11/512828.html)
   - [任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习](https://www.qbitai.com/2026/11/512897.html)
