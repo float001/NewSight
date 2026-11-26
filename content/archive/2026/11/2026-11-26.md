@@ -18,9 +18,13 @@
   - [【运动打卡】每天听一段灵异播客小故事](https://2libra.com/post/personal-life/YUxrzas)
   - [【💰】Gemini 账号飓风营救成功，来一波福利](https://2libra.com/post/ai-tools/QCkil61)
   - [【💰】大家现在平时通勤或者徒步的时候一般是穿什么鞋？哪个品牌？欢迎大家来交流](https://2libra.com/post/interaction/v9WORz0)
+  - [【💰】有没有除了开港卡别的买美股的方案](https://2libra.com/post/stock-market/WOyMZ0W)
+  - [【💰】来了不少用户呢，我开个高概率的金币池，欢迎各位 🎉](https://2libra.com/post/touch-fish/7TIwJsO)
   - [【💰】求推荐洗碗机](https://2libra.com/post/recommendations/KEFFHdH)
   - [个人属性](https://2libra.com/post/forum-function/t1WdXSG)
+  - [买花的学问](https://2libra.com/post/sharing-discoveries/fz-Q8N3)
   - [刚刚获得“前排打手”勋章](https://2libra.com/post/personal-life/N4Old7t)
+  - [又是缝缝补补的一天](https://2libra.com/post/forum-function/z1oubzs)
   - [发现一个无限放大空间的网页，好梦幻](https://2libra.com/post/sharing-discoveries/ktxe2F1)
   - [只有我还不知道的好工具网页推荐](https://2libra.com/post/tools-sharing/Q3K_2vm)
   - [听说 2libra 有欢迎仪式？](https://2libra.com/post/newcomer/DQGbajD)
@@ -29,9 +33,14 @@
   - [摄影小白求推荐（尼康 z30 如何）](https://2libra.com/post/photography-equipment/W3Y-f99)
   - [最后几天时间用公司 ai 蹬了一个桌面宠物](https://2libra.com/post/personal-works/PuhynKw)
   - [有关签到咨询一下](https://2libra.com/post/forum-function/nkHil5H)
+  - [有没有 claude 的中转站不掺水的](https://2libra.com/post/ai-gateway/4KkGyVJ)
+  - [杨紫琼 2026 年新剧 〚银翼杀手 2099〛](https://2libra.com/post/movie-sharing/kYX8Qg9)
   - [火币账号被封了，现在要买服务器怎么付 u？](https://2libra.com/post/cryptocurrency/aA71a-v)
   - [热水洗头一个月了，感觉真有说法](https://2libra.com/post/personal-life/xRGlbpK)
+  - [爱死 Jimmy 了](https://2libra.com/post/forum-function/l5rBWGR)
   - [看别人骑摩托好欢乐，好生羡慕。](https://2libra.com/post/motorcycle/hmP6bxS)
+  - [要不要约定明天周五 10 点半上号啊](https://2libra.com/post/forum-function/1YOvThe)
+  - [观【Gemini 账号飓风营救成功，来一波福利】中另一条思路](https://2libra.com/post/ai-tools/zPxskzv)
   - [该死的潘多拉，浪费了我好多钱](https://2libra.com/post/forum-function/lAB2v6P)
   - [跨端开发拥有一套完整的跨端 UI 方案才是硬道理。](https://2libra.com/post/frontend/PSWS3g8)
   - [这个需要等级 LV5 的那个面具图标是做什么用的，能让我参加蒙面派对吗？](https://2libra.com/post/forum-function/ZxMXNWf)
@@ -50,6 +59,8 @@
   - [Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets](https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/)
   - [Ladybird browser's first downloadable alpha is surprisingly capable](https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/)
   - [The FCC has authorized SpaceX to deploy 1 million satellites](https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/)
+- Bitdefender Labs
+  - [SYS010 Reloaded: The new malvertising campaign targeting Meta Business Accounts](https://www.bitdefender.com/en-us/blog/labs/sys010-reloaded-malvertising-campaign-targeting-meta-business-accounts)
 - blog.jim-nielsen.com
   - [Have You Tried Using Your Agent?](https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/)
 - Chainalysis Blog
@@ -73,6 +84,8 @@
   - [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [1Password breach exposes customer data after hacker exploits corporate GitHub account](https://cybernews.com/security/1password-breach-github-account-customer-data/)
+  - [Hackers claim Burger King, Tim Hortons, and Popeyes owner, some credit card data exposed](https://cybernews.com/security/burger-king-owner-ransomware-claims/)
+  - [JPMorgan hackers claim USA Today breach revealed 166M records](https://cybernews.com/security/usa-today-hacker-data-breach/)
 - daringfireball.net
   - [1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata](https://1password.com/blog/update-on-nov-2026-security-incident)
   - [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda)
@@ -146,6 +159,7 @@
   - [LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain](https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770)
   - [Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil](https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709)
   - [Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption](https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756)
+  - [Spot bitcoin ETFs on track for worst month on record as bear market drags on](https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814)
 - The Decoder
   - [Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/)
   - [Anthropic CEO Dario Amodei says letting AI govern society would be "a bad idea"](https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/)
@@ -498,8 +512,10 @@
   - [awtest](https://buaq.net/go-457478.html)
   - [GTA6非官方PC移植项目被删除 R星发送DMCA侵权通知函后GitHub删除3007个仓库](https://buaq.net/go-457483.html)
   - [PlayPorted – 近 2500 个游戏移植项目，都在这个网站上](https://buaq.net/go-457460.html)
+  - [zaproxy w2026-11-25](https://buaq.net/go-457507.html)
   - [密码管理器 1Password 遭黑客入侵，部分用户数据泄露，用户主密码、密码库均安全。](https://buaq.net/go-457444.html)
   - [待办事项与任务管理服务Todoist遭到黑客攻击 部分用户的敏感数据被窃取](https://buaq.net/go-457465.html)
+  - [英伟达暂停向新加坡/泰国/马来西亚/印尼/巴西交付AI服务器 需等待美国政府审批](https://buaq.net/go-457510.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
@@ -513,6 +529,7 @@
   - [AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了](https://www.qbitai.com/2026/11/512828.html)
   - [任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习](https://www.qbitai.com/2026/11/512897.html)
   - [刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行](https://www.qbitai.com/2026/11/512819.html)
+  - [极客公园创新大会 2027 全议程公布！](https://www.qbitai.com/2026/11/512952.html)
   - [沈向洋刚讲了好多AI非共识啊](https://www.qbitai.com/2026/11/512840.html)
   - [顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一](https://www.qbitai.com/2026/11/512916.html)
 - 黑海洋
