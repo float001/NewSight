@@ -3,14 +3,23 @@
 - 2Libra
   - [1password 又被黑了](https://2libra.com/post/network-security/LpipZd3)
   - [cloudflare 免费 works 可以发邮件了](https://2libra.com/post/backend/55hxttv)
+  - [QQ 第三方机器人项目都被下了？](https://2libra.com/post/tech-qa/7boeTx2)
   - [vibe code 项目体检 skill](https://2libra.com/post/prompts/8-Rm7Ha)
+  - [【运动打卡】每天听一段灵异播客小故事](https://2libra.com/post/personal-life/YUxrzas)
+  - [【💰】Gemini 账号飓风营救成功，来一波福利](https://2libra.com/post/ai-tools/QCkil61)
+  - [【💰】大家现在平时通勤或者徒步的时候一般是穿什么鞋？哪个品牌？欢迎大家来交流](https://2libra.com/post/interaction/v9WORz0)
+  - [个人属性](https://2libra.com/post/forum-function/t1WdXSG)
   - [建立了本社区第一个微信群，大家感兴趣可以加一下。群内请备注本站 ID🆔，请遵守国家和社区相关规则。](https://2libra.com/post/interest-groups/4nMUauN)
   - [微信](https://2libra.com/post/small-things/6FwLRSy)
   - [最后几天时间用公司 ai 蹬了一个桌面宠物](https://2libra.com/post/personal-works/PuhynKw)
+  - [有关签到咨询一下](https://2libra.com/post/forum-function/nkHil5H)
   - [火币账号被封了，现在要买服务器怎么付 u？](https://2libra.com/post/cryptocurrency/aA71a-v)
+  - [热水洗头一个月了，感觉真有说法](https://2libra.com/post/personal-life/xRGlbpK)
+  - [看别人骑摩托好欢乐，好生羡慕。](https://2libra.com/post/motorcycle/hmP6bxS)
   - [该死的潘多拉，浪费了我好多钱](https://2libra.com/post/forum-function/lAB2v6P)
   - [这个需要等级 LV5 的那个面具图标是做什么用的，能让我参加蒙面派对吗？](https://2libra.com/post/forum-function/ZxMXNWf)
   - [随笔(二)——最早叫云南的地方-祥云](https://2libra.com/post/travel-logs/A0pNbvs)
+  - [黑五抄底｜Proxy001 住宅 IP 直降 25%，充值最高白送 500GB，覆盖 200 + 国家](https://2libra.com/post/promotion/JWpIvK4)
 - 404 Media
   - [The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships](https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/)
 - Ars Technica
@@ -66,6 +75,9 @@
 - Microsoft Security Blog
   - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security](https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/)
   - [What defenders need to know about ARTEX, the agentic AI framework threat actors abuse](https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/)
+- rtl-sdr.com
+  - [Malahit DSP4s: A New Licensed Malahit Portable SDR with 100 kHz–1620 MHz Coverage, 650 kHz Bandwidth and Digital Voice Decoders](https://www.rtl-sdr.com/malahit-dsp4s-a-new-licensed-malahit-portable-sdr-with-100-khz-1620-mhz-coverage-650-khz-bandwidth-and-digital-voice-decoders/)
+  - [RadioFoundry Gateway: An Open-Source DMR Tier III Trunked Repeater Built Around RTL-SDR, PlutoSDR and ESP32](https://www.rtl-sdr.com/radiofoundry-gateway-an-open-source-dmr-tier-iii-trunked-repeater-built-around-rtl-sdr-plutosdr-and-esp32/)
 - simonwillison.net
   - [Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/)
 - Sploitus.com Exploits RSS Feed
@@ -96,8 +108,10 @@
   - [Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’](https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678)
   - [Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections](https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723)
   - [Fidelity files for spot Chainlink ETF with planned Nasdaq listing](https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735)
+  - [House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage](https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778)
   - [Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF](https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686)
   - [Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’](https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711)
+  - [LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain](https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770)
   - [Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil](https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709)
   - [Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption](https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756)
 - The Decoder
@@ -354,10 +368,16 @@
   - [XenoScan](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NICKCANO-XENOSCAN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
+- 不安全
+  - [密码管理器 1Password 遭黑客入侵，部分用户数据泄露，用户主密码、密码库均安全。](https://buaq.net/go-457444.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板](https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」](https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」](https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign)
 - 量子位 QbitAI
+  - [AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了](https://www.qbitai.com/2026/11/512828.html)
   - [刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行](https://www.qbitai.com/2026/11/512819.html)
+- 黑海洋
+  - [网传国家电网6.46亿条用户数据遭泄露并公开售卖](https://blog.upx8.com/%E7%BD%91%E4%BC%A0%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%916-46%E4%BA%BF%E6%9D%A1%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2%E5%B9%B6%E5%85%AC%E5%BC%80%E5%94%AE%E5%8D%96)
