@@ -8,7 +8,9 @@
   - [cloudflare 免费 works 可以发邮件了](https://2libra.com/post/backend/55hxttv)
   - [CodeArts Agent 软件和体验套餐 token 输出都很慢。](https://2libra.com/post/ai-programming/hdHqCTd)
   - [Google 账号被封了](https://2libra.com/post/vibe-coding/sDDQTpO)
+  - [PrivJet 免费 eSIM：每账号 1GB/7 天、74 国可用免绑卡，必须 WhatsApp 验号](https://2libra.com/post/deal-hunter/2TguPcJ)
   - [QQ 第三方机器人项目都被下了？](https://2libra.com/post/tech-qa/7boeTx2)
+  - [Tern + Omp 的组合比我想象中还好用](https://2libra.com/post/ai-tools/B2vTxoU)
   - [vibe code 项目体检 skill](https://2libra.com/post/prompts/8-Rm7Ha)
   - [vite 报出了一个漏洞，看大家有没有要注意的](https://2libra.com/post/frontend/AkiNz34)
   - [【一人食】港式牛杂 yyds 😋😋😋](https://2libra.com/post/personal-life/CAD9sFh)
@@ -27,7 +29,9 @@
   - [热水洗头一个月了，感觉真有说法](https://2libra.com/post/personal-life/xRGlbpK)
   - [看别人骑摩托好欢乐，好生羡慕。](https://2libra.com/post/motorcycle/hmP6bxS)
   - [该死的潘多拉，浪费了我好多钱](https://2libra.com/post/forum-function/lAB2v6P)
+  - [跨端开发拥有一套完整的跨端 UI 方案才是硬道理。](https://2libra.com/post/frontend/PSWS3g8)
   - [这个需要等级 LV5 的那个面具图标是做什么用的，能让我参加蒙面派对吗？](https://2libra.com/post/forum-function/ZxMXNWf)
+  - [送 200 金币，马上周五，忙碌了一周来回帖发疯一下。](https://2libra.com/post/slacking-off/bPehl_B)
   - [随笔(二)——最早叫云南的地方-祥云](https://2libra.com/post/travel-logs/A0pNbvs)
   - [黑五抄底｜Proxy001 住宅 IP 直降 25%，充值最高白送 500GB，覆盖 200 + 国家](https://2libra.com/post/promotion/JWpIvK4)
 - 404 Media
@@ -67,6 +71,8 @@
   - [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda)
   - [Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term](https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/)
   - [‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’](https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html)
+- defend.network
+  - [PAN-OS Fragnesia exploited; 1Password breach; GeoServer attacks](https://defend.network/briefings/pan-os-fragnesia-1password-geoserver-exploits-2026-11-26.html)
 - Der Flounder
   - [I wrote a new book – this time about money](https://derflounder.wordpress.com/2026/11/25/i-wrote-a-new-book-this-time-about-money/)
 - Hacker News Frontpage
@@ -122,6 +128,7 @@
   - [Aave Labs publicly launches savings app as balances top $63 million](https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674)
   - [Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’](https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678)
   - [Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections](https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723)
+  - [Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says](https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724)
   - [Fidelity files for spot Chainlink ETF with planned Nasdaq listing](https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735)
   - [Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525](https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786)
   - [House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage](https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778)
@@ -457,6 +464,8 @@
   - [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
 - 不安全
   - [Antennaut: A Browser-Based RTL-SDR and HackRF Receiver with ADS-B, AIS, FT8, LoRa and More Decoders Built In](https://buaq.net/go-457456.html)
+  - [awtest](https://buaq.net/go-457478.html)
+  - [GTA6非官方PC移植项目被删除 R星发送DMCA侵权通知函后GitHub删除3007个仓库](https://buaq.net/go-457483.html)
   - [PlayPorted – 近 2500 个游戏移植项目，都在这个网站上](https://buaq.net/go-457460.html)
   - [密码管理器 1Password 遭黑客入侵，部分用户数据泄露，用户主密码、密码库均安全。](https://buaq.net/go-457444.html)
   - [待办事项与任务管理服务Todoist遭到黑客攻击 部分用户的敏感数据被窃取](https://buaq.net/go-457465.html)
@@ -474,5 +483,6 @@
   - [任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习](https://www.qbitai.com/2026/11/512897.html)
   - [刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行](https://www.qbitai.com/2026/11/512819.html)
   - [沈向洋刚讲了好多AI非共识啊](https://www.qbitai.com/2026/11/512840.html)
+  - [顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一](https://www.qbitai.com/2026/11/512916.html)
 - 黑海洋
   - [网传国家电网6.46亿条用户数据遭泄露并公开售卖](https://blog.upx8.com/%E7%BD%91%E4%BC%A0%E5%9B%BD%E5%AE%B6%E7%94%B5%E7%BD%916-46%E4%BA%BF%E6%9D%A1%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E9%81%AD%E6%B3%84%E9%9C%B2%E5%B9%B6%E5%85%AC%E5%BC%80%E5%94%AE%E5%8D%96)
