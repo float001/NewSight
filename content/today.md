@@ -12,6 +12,7 @@
   - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
   - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
   - [Kagi Watch](https://kagi.com/watch)
+  - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
 - Kali Linux Tutorials
   - [10 Best Endpoint Detection and Response Software in 2026](https://kalilinuxtutorials.com/10-best-endpoint-detection-and-response-software-in-2026/)
 - TechCrunch
