@@ -126,6 +126,7 @@
 - Hacker News Frontpage
   - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
   - [Intel One Mono font](https://github.com/intel/intel-one-mono)
+  - [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
   - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 - HackerNoon
   - [Ant Group Open-Sources LingSante: Why Open Medical AI Matters](https://hackernoon.com/ant-group-open-sources-lingsante-why-open-medical-ai-matters?source=rss)
@@ -137,6 +138,7 @@
   - [The Architecture of Self-Defending Systems](https://horizon3.ai/intelligence/blogs/architecture-of-self-defending-systemsm/)
 - infosecurity-magazine.com
   - [1Password Hit by Backend Breach via Hijacked Employee GitHub Account](https://www.infosecurity-magazine.com/news/1password-github-account-backend/)
+  - [CISA Issues Alert After Danfoss Reveals Critical Flaw in Fridge Controllers](https://www.infosecurity-magazine.com/news/cisa-alert-danfoss-critical-flaw/)
   - [Google Cloud Requires AI Agents to Access Workspace Through Approved Methods](https://www.infosecurity-magazine.com/news/google-cloud-ai-agents-workspace/)
   - [Home Office Reprimanded After GDPR Failure at the Border](https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/)
   - [Phishers Abuse Hugging Face's AI Site Builder to Spoof Big Brands](https://www.infosecurity-magazine.com/news/hugging-face-ai-builder-phishing/)
@@ -230,6 +232,7 @@
   - [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
   - [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages)
+  - [Why GTA VI’s version of Florida feels so real](https://www.theverge.com/entertainment/1042629/gta-6-city-design)
   - [X is finally getting its first parental controls](https://www.theverge.com/news/1043078/x-parental-controls-features)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [What Two Million Canary Prompts Reveal About AI Supply Chain Security](https://blog.qualys.com/category/product-tech)
@@ -730,6 +733,8 @@
   - [英伟达暂停向新加坡/泰国/马来西亚/印尼/巴西交付AI服务器 需等待美国政府审批](https://buaq.net/go-457510.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [中国发现新古人类支系](https://www.solidot.org/story?sid=86002)
 - 爱范儿
   - [2026 年，国产模型还能追上 Opus 5.5 吗](https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign)
   - [A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板](https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign)
