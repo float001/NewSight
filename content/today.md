@@ -3,9 +3,12 @@
 - ByteByteGo
   - [The Life of a Database Row: What Really Happens Behind the Scenes](https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really)
 - CoinTelegraph
+  - [Binance completes withdrawal recovery four weeks after $6.3B hack](https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [BNB Chain details new layer-1 for trading, private finance and AI](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto on notice as hawkish Fed risks December ‘meltdown’](https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Spain moves to grant financial watchdog power to freeze crypto accounts](https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [UK is ‘getting it wrong’ on DeFi regulation, says Coinbase](https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Why AI Governance Policies Fail Without Runtime Enforcement](https://www.cyberkendra.com/2026/11/why-ai-governance-policies-fail-without-runtime-enforcement.html)
 - Hacker News Frontpage
@@ -13,6 +16,7 @@
   - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
   - [Kagi Watch](https://kagi.com/watch)
   - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
+  - [The greatest architect you've never heard of is in Pakistan](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 - Kali Linux Tutorials
   - [10 Best Endpoint Detection and Response Software in 2026](https://kalilinuxtutorials.com/10-best-endpoint-detection-and-response-software-in-2026/)
 - TechCrunch
@@ -36,6 +40,7 @@
   - [CVE-2025-8209](https://vulners.com/nvd/NVD:CVE-2025-8209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102001](https://vulners.com/nvd/NVD:CVE-2026-102001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120353](https://vulners.com/nvd/NVD:CVE-2026-120353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126139](https://vulners.com/nvd/NVD:CVE-2026-126139?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134470](https://vulners.com/nvd/NVD:CVE-2026-134470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134488](https://vulners.com/nvd/NVD:CVE-2026-134488?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-134712](https://vulners.com/nvd/NVD:CVE-2026-134712?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -76,6 +81,10 @@
   - [CVE-2026-137548](https://vulners.com/circl/CIRCL:CVE-2026-137548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-137549](https://vulners.com/circl/CIRCL:CVE-2026-137549?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-137551](https://vulners.com/circl/CIRCL:CVE-2026-137551?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137618](https://vulners.com/nvd/NVD:CVE-2026-137618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137620](https://vulners.com/nvd/NVD:CVE-2026-137620?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137621 RT-Thread Bouffalo ADC Driver drv_adc.c bl_adc_get_value array index](https://vulners.com/cve/CVE-2026-137621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137621 RT-Thread Bouffalo ADC Driver drv_adc.c bl_adc_get_value array index](https://vulners.com/cvelist/CVELIST:CVE-2026-137621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-29V7-6X3J-R97Q](https://vulners.com/circl/CIRCL:GHSA-29V7-6X3J-R97Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-37JH-F235-72QP](https://vulners.com/circl/CIRCL:GHSA-37JH-F235-72QP?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-47PJ-M4XP-74G5](https://vulners.com/circl/CIRCL:GHSA-47PJ-M4XP-74G5?utm_source=rss&utm_medium=rss&utm_campaign=rss)
