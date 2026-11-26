@@ -90,6 +90,7 @@
   - [UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report](https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Why ECB collateral eligibility could boost demand for tokenized bonds](https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement](https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
@@ -111,6 +112,7 @@
   - [I wrote a new book – this time about money](https://derflounder.wordpress.com/2026/11/25/i-wrote-a-new-book-this-time-about-money/)
 - Hacker News Frontpage
   - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
+  - [Intel One Mono font](https://github.com/intel/intel-one-mono)
   - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 - HackerNoon
   - [Ant Group Open-Sources LingSante: Why Open Medical AI Matters](https://hackernoon.com/ant-group-open-sources-lingsante-why-open-medical-ai-matters?source=rss)
@@ -122,6 +124,7 @@
   - [The Architecture of Self-Defending Systems](https://horizon3.ai/intelligence/blogs/architecture-of-self-defending-systemsm/)
 - infosecurity-magazine.com
   - [1Password Hit by Backend Breach via Hijacked Employee GitHub Account](https://www.infosecurity-magazine.com/news/1password-github-account-backend/)
+  - [Home Office Reprimanded After GDPR Failure at the Border](https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/)
   - [US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds](https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/)
 - jeffgeerling.com
   - [Ansible Fails waiting for privilege escalation on Ubuntu 26](https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/)
@@ -133,6 +136,7 @@
 - rtl-sdr.com
   - [Antennaut: A Browser-Based RTL-SDR and HackRF Receiver with ADS-B, AIS, FT8, LoRa and More Decoders Built In](https://www.rtl-sdr.com/antennaut-a-browser-based-rtl-sdr-and-hackrf-receiver-with-ads-b-ais-ft8-lora-and-more-decoders-built-in/)
   - [Dxing.org DRM Receiver: An Open-Source Windows DRM Decoder with Airspy Support, Journaline and Slideshows](https://www.rtl-sdr.com/dxing-org-drm-receiver-an-open-source-windows-drm-decoder-with-airspy-support-journaline-and-slideshows/)
+  - [Game SIGINT: An 8-Bit Style Signals Intelligence Simulation Game with SDR Rig Building, Decryption and Satellite Tracking](https://www.rtl-sdr.com/game-sigint-an-8-bit-style-signals-intelligence-simulation-game-with-sdr-rig-building-decryption-and-satellite-tracking/)
   - [Malahit DSP4s: A New Licensed Malahit Portable SDR with 100 kHz–1620 MHz Coverage, 650 kHz Bandwidth and Digital Voice Decoders](https://www.rtl-sdr.com/malahit-dsp4s-a-new-licensed-malahit-portable-sdr-with-100-khz-1620-mhz-coverage-650-khz-bandwidth-and-digital-voice-decoders/)
   - [RadioFoundry Gateway: An Open-Source DMR Tier III Trunked Repeater Built Around RTL-SDR, PlutoSDR and ESP32](https://www.rtl-sdr.com/radiofoundry-gateway-an-open-source-dmr-tier-iii-trunked-repeater-built-around-rtl-sdr-plutosdr-and-esp32/)
 - simonwillison.net
@@ -189,6 +193,7 @@
   - [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
   - [The Verge’s guide to the best gifts under $100](https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026)
   - [WhatsApp’s new scheduled messages let you choose the right time to send](https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages)
+  - [X is finally getting its first parental controls](https://www.theverge.com/news/1043078/x-parental-controls-features)
 - Vulnerabilities and Threat Research – Qualys Security Blog
   - [What Two Million Canary Prompts Reveal About AI Supply Chain Security](https://blog.qualys.com/category/product-tech)
 - Vulners.com RSS Feed
@@ -559,15 +564,19 @@
   - [30% Off Canon Promo Codes | November 2026](https://www.wired.com/story/canon-promo-code/)
   - [50% Off DoorDash Promo Code | November 2026](https://www.wired.com/story/doordash-promo-code/)
   - [AT&T Promo Codes: $50 Off This November 2026](https://www.wired.com/story/att-promo-code/)
+  - [Best Robot Vacuum of 2026: Shark, Eufy, Roborock](https://www.wired.com/story/best-robot-vacuum/)
   - [Chewy Promo Codes: 50% Off November 2026](https://www.wired.com/story/chewy-promo-code/)
   - [Design Within Reach Promo Codes: 30% Off | November 2026](https://www.wired.com/story/design-within-reach-promo-code/)
   - [Disney Plus Discount Codes: 52% Off November 2026](https://www.wired.com/story/disney-plus-discounts/)
+  - [How Do Cooking Pros Decide the ‘Best’ Recipe for Something?](https://www.wired.com/story/how-do-cooking-pros-decide-what-the-best-recipe-is/)
   - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
   - [Lenovo Coupon Codes: 15% Off in November 2026](https://www.wired.com/story/lenovo-coupon-code/)
   - [LG Promo Code: 40% Off for November 2026](https://www.wired.com/story/lg-promo-code/)
+  - [Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/)
   - [Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces](https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/)
   - [Office Depot Coupons: $20 Off November 2026](https://www.wired.com/story/office-depot-promo-codes/)
   - [Paramount+ Coupon Codes and Deals for 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+  - [The Best Bed Frames, Tested in Our Own Rooms (2026)](https://www.wired.com/story/best-bed-frames/)
   - [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
 - 不安全
   - [Antennaut: A Browser-Based RTL-SDR and HackRF Receiver with ADS-B, AIS, FT8, LoRa and More Decoders Built In](https://buaq.net/go-457456.html)
