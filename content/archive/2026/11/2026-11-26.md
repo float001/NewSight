@@ -55,11 +55,13 @@
   - [黑五抄底｜Proxy001 住宅 IP 直降 25%，充值最高白送 500GB，覆盖 200 + 国家](https://2libra.com/post/promotion/JWpIvK4)
 - 404 Media
   - [All the Worst Government GTA Memes from Around the World](https://www.404media.co/all-the-worst-government-gta-memes-from-around-the-world/)
+  - [Grand Thanksgiving Autumn](https://www.404media.co/grand-thanksgiving-autumn/)
   - [Pass the Controller: How Single Console Households Split 'GTA VI'](https://www.404media.co/gta-vi-sharing-playstation-console-accounts/)
   - [The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships](https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/)
 - Ars Technica
   - [Ars Live recap: Don’t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/)
   - [Backblaze explains why it's sharing customer information with advertisers](https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/)
+  - [Draining peatlands is responsible for a few percent of our global warming](https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/)
   - [Etsy clarifies AI terms after seller backlash](https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/)
   - [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
   - [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/)
@@ -93,10 +95,12 @@
   - [Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour](https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report](https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook](https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve](https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Why ECB collateral eligibility could boost demand for tokenized bonds](https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement](https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - CoinTelegraph Security
   - [Ethereum Foundation backs Keccak-256 to counter quantum, AI threats](https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
+  - [Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve](https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss_tag_security&utm_campaign=rss_partner_inbound)
 - CyberNews
   - [1Password breach exposes customer data after hacker exploits corporate GitHub account](https://cybernews.com/security/1password-breach-github-account-customer-data/)
   - [Critical NFS flaw hands hackers root on NAS, Kubernetes storage nodes, and other file servers](https://cybernews.com/security/nfs2root-linux-kernel-vulnerability-exposes-nas-kubernetes/)
@@ -104,6 +108,7 @@
   - [JPMorgan hackers claim USA Today breach revealed 166M records](https://cybernews.com/security/usa-today-hacker-data-breach/)
   - [Linux creator is “pissed off” over AI bug fixes, says AI companions should get their act together](https://cybernews.com/ai-news/linux-bug-fixes/)
   - [Linux user cracks PS1 game where a monk says he hid NASA UFO footage](https://cybernews.com/tech/linux-ufo-uap-nasa-playstation/)
+  - [Malware found on the Microsoft Store, delivering a powerful remote access trojan](https://cybernews.com/security/malware-found-on-microsoft-store-vinci-rat-trojan/)
   - [Users accuse Google of trying to make Android more like iOS](https://cybernews.com/tech/google-android-lockdown-ios/)
 - daringfireball.net
   - [1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata](https://1password.com/blog/update-on-nov-2026-security-incident)
@@ -131,6 +136,7 @@
 - infosecurity-magazine.com
   - [1Password Hit by Backend Breach via Hijacked Employee GitHub Account](https://www.infosecurity-magazine.com/news/1password-github-account-backend/)
   - [Home Office Reprimanded After GDPR Failure at the Border](https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/)
+  - [Phishers Abuse Hugging Face's AI Site Builder to Spoof Big Brands](https://www.infosecurity-magazine.com/news/hugging-face-ai-builder-phishing/)
   - [US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds](https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/)
 - jeffgeerling.com
   - [Ansible Fails waiting for privilege escalation on Ubuntu 26](https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/)
@@ -139,12 +145,16 @@
 - Microsoft Security Blog
   - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security](https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/)
   - [What defenders need to know about ARTEX, the agentic AI framework threat actors abuse](https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/)
+- pluralistic.net
+  - [Pluralistic: Charles Koch is a cult leader (26 Nov 2026)](https://pluralistic.net/2026/11/26/science-of-liberty/)
 - rtl-sdr.com
   - [Antennaut: A Browser-Based RTL-SDR and HackRF Receiver with ADS-B, AIS, FT8, LoRa and More Decoders Built In](https://www.rtl-sdr.com/antennaut-a-browser-based-rtl-sdr-and-hackrf-receiver-with-ads-b-ais-ft8-lora-and-more-decoders-built-in/)
   - [Dxing.org DRM Receiver: An Open-Source Windows DRM Decoder with Airspy Support, Journaline and Slideshows](https://www.rtl-sdr.com/dxing-org-drm-receiver-an-open-source-windows-drm-decoder-with-airspy-support-journaline-and-slideshows/)
   - [Game SIGINT: An 8-Bit Style Signals Intelligence Simulation Game with SDR Rig Building, Decryption and Satellite Tracking](https://www.rtl-sdr.com/game-sigint-an-8-bit-style-signals-intelligence-simulation-game-with-sdr-rig-building-decryption-and-satellite-tracking/)
   - [Malahit DSP4s: A New Licensed Malahit Portable SDR with 100 kHz–1620 MHz Coverage, 650 kHz Bandwidth and Digital Voice Decoders](https://www.rtl-sdr.com/malahit-dsp4s-a-new-licensed-malahit-portable-sdr-with-100-khz-1620-mhz-coverage-650-khz-bandwidth-and-digital-voice-decoders/)
   - [RadioFoundry Gateway: An Open-Source DMR Tier III Trunked Repeater Built Around RTL-SDR, PlutoSDR and ESP32](https://www.rtl-sdr.com/radiofoundry-gateway-an-open-source-dmr-tier-iii-trunked-repeater-built-around-rtl-sdr-plutosdr-and-esp32/)
+- shkspr.mobi
+  - [OGP Image Format Support on Major Sites and Apps](https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/)
 - simonwillison.net
   - [Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/)
 - Sploitus.com Exploits RSS Feed
@@ -621,6 +631,7 @@
   - [x-stream__xstream_CVE-2020-26217_1-4-14-java77](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SHOUCHENG3-X-STREAM__XSTREAM_CVE-2020-26217_1-4-14-JAVA77?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [XenoScan](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-NICKCANO-XENOSCAN?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [10 Best Office Chairs of 2026—We Tested 70 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
   - [20% Off Samsung Promo Code | November 2026](https://www.wired.com/story/samsung-promo-codes/)
   - [30% Off Canon Promo Codes | November 2026](https://www.wired.com/story/canon-promo-code/)
   - [50% Off DoorDash Promo Code | November 2026](https://www.wired.com/story/doordash-promo-code/)
@@ -640,6 +651,7 @@
   - [Office Depot Coupons: $20 Off November 2026](https://www.wired.com/story/office-depot-promo-codes/)
   - [Paramount+ Coupon Codes and Deals for 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
   - [The Best Bed Frames, Tested in Our Own Rooms (2026)](https://www.wired.com/story/best-bed-frames/)
+  - [The Best MagSafe Wallets for Your Everyday Carry (2026)](https://www.wired.com/gallery/best-magsafe-wallets/)
   - [The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/)
   - [Thuma Dupes: Japanese Joinery Bed Frames That Stack Up (2026)](https://www.wired.com/gallery/japanese-joinery-bed-frames/)
 - 不安全
@@ -662,6 +674,7 @@
   - [早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」](https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign)
   - [荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类](https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign)
 - 量子位 QbitAI
+  - [AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用](https://www.qbitai.com/2026/11/512981.html)
   - [AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了](https://www.qbitai.com/2026/11/512828.html)
   - [任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习](https://www.qbitai.com/2026/11/512897.html)
   - [刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行](https://www.qbitai.com/2026/11/512819.html)
