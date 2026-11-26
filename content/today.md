@@ -2,6 +2,7 @@
 
 - 2Libra
   - [vibe code 项目体检 skill](https://2libra.com/post/prompts/8-Rm7Ha)
+  - [随笔(二)——最早叫云南的地方-祥云](https://2libra.com/post/travel-logs/A0pNbvs)
 - 404 Media
   - [The Birds Are Listening: Scientists Used Seabirds to Track Hidden Ships](https://www.404media.co/the-birds-are-listening-scientists-used-seabirds-to-track-hidden-ships/)
 - Ars Technica
@@ -32,11 +33,13 @@
 - daringfireball.net
   - [1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata](https://1password.com/blog/update-on-nov-2026-security-incident)
   - [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda)
+  - [Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term](https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/)
   - [‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’](https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html)
 - Der Flounder
   - [I wrote a new book – this time about money](https://derflounder.wordpress.com/2026/11/25/i-wrote-a-new-book-this-time-about-money/)
 - Hacker News Frontpage
   - [Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]](https://scottaaronson.blog/?p=10379)
+  - [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)
 - HackerNoon
   - [Ant Group Open-Sources LingSante: Why Open Medical AI Matters](https://hackernoon.com/ant-group-open-sources-lingsante-why-open-medical-ai-matters?source=rss)
   - [Beyond the Pilot: Making AI Deliver Real Business Value](https://hackernoon.com/beyond-the-pilot-making-ai-deliver-real-business-value?source=rss)
@@ -297,3 +300,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」](https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign)
+- 量子位 QbitAI
+  - [刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行](https://www.qbitai.com/2026/11/512819.html)
