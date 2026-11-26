@@ -7,8 +7,10 @@
   - [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain details new layer-1 for trading, private finance and AI](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto on notice as hawkish Fed risks December ‘meltdown’](https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Spain moves to grant financial watchdog power to freeze crypto accounts](https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK is ‘getting it wrong’ on DeFi regulation, says Coinbase](https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express](https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Why AI Governance Policies Fail Without Runtime Enforcement](https://www.cyberkendra.com/2026/11/why-ai-governance-policies-fail-without-runtime-enforcement.html)
 - Hacker News Frontpage
@@ -19,6 +21,8 @@
   - [The greatest architect you've never heard of is in Pakistan](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 - Kali Linux Tutorials
   - [10 Best Endpoint Detection and Response Software in 2026](https://kalilinuxtutorials.com/10-best-endpoint-detection-and-response-software-in-2026/)
+- Sploitus.com Exploits RSS Feed
+  - [cve-watch exploit](https://sploitus.com/exploit?id=4AC1041E-0388-59D1-AB3C-159A7E95C5E1&utm_source=rss&utm_medium=rss)
 - TechCrunch
   - [A month with the iPhone Duo has changed how I use my phone](https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/)
   - [As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)
