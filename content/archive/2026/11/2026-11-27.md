@@ -71,6 +71,7 @@
   - [Privacy coins face diverging fortunes as KuCoin moves to drop Monero](https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Spain moves to grant financial watchdog power to freeze crypto accounts](https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK is ‘getting it wrong’ on DeFi regulation, says Coinbase](https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [What was Coinbase worth while Nasdaq was closed?](https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express](https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Why AI Governance Policies Fail Without Runtime Enforcement](https://www.cyberkendra.com/2026/11/why-ai-governance-policies-fail-without-runtime-enforcement.html)
@@ -89,6 +90,8 @@
   - [SAP confirms cyber incident, but no customer data accessed](https://cybernews.com/security/sap-cyber-incident-customer-data/)
   - [SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://cybernews.com/tech/sap-considers-at-least-10000-job-cuts/)
   - [UK government’s benefits system taken offline after cyber incident](https://cybernews.com/security/uk-government-benefits-system-dwp-offline/)
+- Darknet – Hacking Tools, Hacker News & Cyber Security
+  - [Malware History – From Creeper to WannaCry and NotPetya](https://www.darknet.org.uk/2026/11/malware-complete-history-viruses-stickler/)
 - darkreading
   - ['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)
 - Data Breach
@@ -157,6 +160,7 @@
   - [EntraTrace exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BERT-JANP-ENTRATRACE&utm_source=rss&utm_medium=rss)
   - [ESAFNET-SmartSec-LPE-PoC exploit](https://sploitus.com/exploit?id=E8F64EF9-0CE6-56D6-9EDC-0330B0C46729&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-132165](https://sploitus.com/exploit?id=9403BA04-DC29-55A8-919E-42DD7FF96629&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-98260](https://sploitus.com/exploit?id=E4BF7384-5678-5650-9679-380E2FA6CAEF&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-99491](https://sploitus.com/exploit?id=97D5FE44-F45B-500C-9D23-048FD1D595E3&utm_source=rss&utm_medium=rss)
   - [Exploit-Index](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SECUREWITHUMER-EXPLOIT-INDEX&utm_source=rss&utm_medium=rss)
   - [exploit-time-machine](https://sploitus.com/exploit?id=2FEF8A78-8B8E-5957-B102-29528A488B1A&utm_source=rss&utm_medium=rss)
@@ -180,16 +184,20 @@
   - [Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)
   - [X finally gets parental controls after 20 years](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/)
 - The Block
+  - [AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33](https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549)
   - [Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’](https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059)
   - [China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation](https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029)
   - [Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15](https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051)
   - [JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple](https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007)
+  - [Tether buys $10 million of Bitdeer shares as stock hovers near all-time low](https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554)
 - The Decoder
   - [Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it](https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/)
   - [GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error](https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/)
+  - [SAP plans to cut at least 10,000 jobs as it pivots to AI](https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/)
 - The Verge
   - [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu)
   - [Android’s DIY widgets are a bit of vibe-coding fun](https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini)
+  - [Buying a laptop right now is rough, but these Black Friday deals help](https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026)
   - [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026)
   - [Federal judge blocks the FCC from reviewing ABC’s licenses early](https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block)
   - [Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending](https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending)
@@ -546,6 +554,7 @@
   - [Squarespace Promo Codes: 55% Off in November 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [The 10 Best Black Friday TV Deals (2026): Save Up to 53% Off](https://www.wired.com/story/early-black-friday-tv-deals-11-27-2026/)
   - [The 123 Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)
+  - [The 24 Very Best Amazon Black Friday Deals (2026): Up to 60% Off](https://www.wired.com/story/amazon-black-friday-deals-11-27-2026/)
   - [The 6 Best Black Friday Deals on Expert-Tested Laptops (2026): Up to $470 Off](https://www.wired.com/story/black-friday-laptop-deals-11-27-2026/)
   - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
   - [The Best Black Friday Sonos Deals (2026): Up to 34% Off](https://www.wired.com/story/best-black-friday-sonos-deals-11-27-26/)
