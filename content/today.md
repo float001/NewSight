@@ -5,6 +5,7 @@
   - [【偶遇感恩节】新·太二：酸菜鱼+川菜](https://2libra.com/post/personal-life/cFDGo4X)
   - [【兑换码】LibraX - 2Libra Android 原生客户端发布了，欢迎 2 友下载体验](https://2libra.com/post/personal-works/gUY4TtM)
   - [【投票】今天能刷新 268 最高在线人数，拿到走个面么？](https://2libra.com/post/forum-function/C3jvWhA)
+  - [【未实践】奇思妙想之免手机号注册谷歌账号](https://2libra.com/post/tech-rumination/GIcFi0M)
   - [【💰】今天不想上班只想摸鱼](https://2libra.com/post/slacking-off/M-R8WDv)
   - [三字兑换码信息掩码存在问题，不过很少有三字兑换码。](https://2libra.com/post/community/wihj09r)
   - [亚太区 Visa 卡免费领 1 年全球 eSIM，主流通讯软件（TG/微信/WA）无限免流](https://2libra.com/post/deal-hunter/GCBxyZ7)
@@ -14,8 +15,10 @@
   - [又到周五咯](https://2libra.com/post/personal-life/SMed57t)
   - [周五工作内容](https://2libra.com/post/office-life/RK-LUZY)
   - [大家玩过最长时间的游戏是什么？](https://2libra.com/post/game-discussion/dHk2jFR)
+  - [好瞌睡，想睡觉](https://2libra.com/post/personal-life/WugG56N)
   - [小电驴怎么选](https://2libra.com/post/recommendations/1qdoqZX)
   - [把 nvm 换成了 mise，用起来方便很多。](https://2libra.com/post/tool-sharing/e3do7oG)
+  - [既然掉徽章这个潘多拉不考虑去掉，能否考虑加个可以带双徽章的潘多拉？](https://2libra.com/post/forum-function/HqyHfoZ)
   - [有没有使用土区 Apple 购买 gemini pro 成功的兄弟！ 求助一下！](https://2libra.com/post/help-requests/xEaIEqh)
   - [现在购买新款 Macbook 最便宜的方式](https://2libra.com/post/recommendations/fY2Rg7q)
   - [花了 1000+金币补卡 真的贵啊](https://2libra.com/post/forum-function/QCD9_t9)
@@ -38,6 +41,10 @@
   - [‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express](https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
   - [Why AI Governance Policies Fail Without Runtime Enforcement](https://www.cyberkendra.com/2026/11/why-ai-governance-policies-fail-without-runtime-enforcement.html)
+- CyberNews
+  - [Dutch groups ask court to halt Meta smart glasses sales over privacy concerns](https://cybernews.com/tech/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales/)
+- defend.network
+  - [Juniper, Mitel MiCollab, Drupal flaws exploited in the wild](https://defend.network/briefings/juniper-mitel-micollab-drupal-flaws-exploited-2026-11-27.html)
 - Hacker News Frontpage
   - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
   - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
@@ -45,6 +52,7 @@
   - [Kagi Watch](https://kagi.com/watch)
   - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
   - [The greatest architect you've never heard of is in Pakistan](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+  - [The group chat where your AI talks behind your back](https://construct22.com/)
 - jeffgeerling.com
   - [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/)
 - Kali Linux Tutorials
@@ -315,6 +323,7 @@
   - [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://vulners.com/thn/THN:2C58DFF3B663255AE4653845DFE985C6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
   - [Dell Coupon Codes: 20% Off for November 2026](https://www.wired.com/story/dell-coupon-code/)
   - [Dyson Promo Codes: 25% Off in November 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [eBay Coupons: 20% Off in November 2026](https://www.wired.com/story/ebay-coupon-code/)
