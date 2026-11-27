@@ -2,11 +2,18 @@
 
 - 2Libra
   - [【偶遇感恩节】新·太二：酸菜鱼+川菜](https://2libra.com/post/personal-life/cFDGo4X)
+  - [【投票】今天能刷新 268 最高在线人数，拿到走个面么？](https://2libra.com/post/forum-function/C3jvWhA)
+  - [三字兑换码信息掩码存在问题，不过很少有三字兑换码。](https://2libra.com/post/community/wihj09r)
   - [亚太区 Visa 卡免费领 1 年全球 eSIM，主流通讯软件（TG/微信/WA）无限免流](https://2libra.com/post/deal-hunter/GCBxyZ7)
   - [你对“小豆”怎么看？](https://2libra.com/post/ai-tools/O6xi_20)
+  - [周五工作内容](https://2libra.com/post/office-life/RK-LUZY)
+  - [小电驴怎么选](https://2libra.com/post/recommendations/1qdoqZX)
+  - [现在购买新款 Macbook 最便宜的方式](https://2libra.com/post/recommendations/fY2Rg7q)
+  - [花了 1000+金币补卡 真的贵啊](https://2libra.com/post/forum-function/QCD9_t9)
 - ByteByteGo
   - [The Life of a Database Row: What Really Happens Behind the Scenes](https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really)
 - CoinTelegraph
+  - [AI is driving a flood of crypto bug reports. Now it’s helping sort them](https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance completes withdrawal recovery four weeks after $6.3B hack](https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain details new layer-1 for trading, private finance and AI](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -27,9 +34,11 @@
 - Kali Linux Tutorials
   - [10 Best Endpoint Detection and Response Software in 2026](https://kalilinuxtutorials.com/10-best-endpoint-detection-and-response-software-in-2026/)
 - rtl-sdr.com
+  - [MultiScan SDR Update: Adds Satellite Tracking, a Learning Signal Classifier and Smarter Full Spectrum Scans](https://www.rtl-sdr.com/multiscan-sdr-update-adds-satellite-tracking-a-learning-signal-classifier-and-smarter-full-spectrum-scans/)
   - [Saturn IE and RE: A 16-Bit FPGA and Raspberry Pi CM5 Based HF SDR Transceiver and Test Instrument Coming to Crowd Supply](https://www.rtl-sdr.com/saturn-ie-and-re-a-16-bit-fpga-and-raspberry-pi-cm5-based-hf-sdr-transceiver-and-test-instrument-coming-to-crowd-supply/)
 - Sploitus.com Exploits RSS Feed
   - [cve-watch exploit](https://sploitus.com/exploit?id=4AC1041E-0388-59D1-AB3C-159A7E95C5E1&utm_source=rss&utm_medium=rss)
+  - [ESAFNET-SmartSec-LPE-PoC exploit](https://sploitus.com/exploit?id=E8F64EF9-0CE6-56D6-9EDC-0330B0C46729&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-99491](https://sploitus.com/exploit?id=97D5FE44-F45B-500C-9D23-048FD1D595E3&utm_source=rss&utm_medium=rss)
   - [secator exploit](https://sploitus.com/exploit?id=EE8B1998-A7D4-5F14-B59D-9DF9A895773B&utm_source=rss&utm_medium=rss)
 - TechCrunch
@@ -52,12 +61,22 @@
 - Vulners.com RSS Feed
   - [CVE-2025-8209](https://vulners.com/nvd/NVD:CVE-2025-8209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102001](https://vulners.com/nvd/NVD:CVE-2026-102001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106125 Sneeit Framework <= 8.7 - Unauthenticated Remote Code Execution via sneeit_compact_menu_mega_content_callback](https://vulners.com/cve/CVE-2026-106125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-106125 Sneeit Framework <= 8.7 - Unauthenticated Remote Code Execution via sneeit_compact_menu_mega_content_callback](https://vulners.com/cvelist/CVELIST:CVE-2026-106125?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113774 Schema & Structured Data for WP & AMP <= 1.68 - Unauthenticated Deserialization of Untrusted Data to Arbitrary File Deletion via 'saswp_reviewer_name' Parameter via Public Review Form](https://vulners.com/cve/CVE-2026-113774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-113774 Schema & Structured Data for WP & AMP <= 1.68 - Unauthenticated Deserialization of Untrusted Data to Arbitrary File Deletion via 'saswp_reviewer_name' Parameter via Public Review Form](https://vulners.com/cvelist/CVELIST:CVE-2026-113774?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115844 lxd: Host root code execution via raw.dnsmasq configuration injection by restricted project users](https://vulners.com/cve/CVE-2026-115844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-115844 lxd: Host root code execution via raw.dnsmasq configuration injection by restricted project users](https://vulners.com/cvelist/CVELIST:CVE-2026-115844?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115867 Database for Contact Form 7, WPforms, Elementor forms <= 1.5.5 - Unauthenticated Arbitrary File Upload via Ninja Forms Submission](https://vulners.com/cve/CVE-2026-115867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-115867 Database for Contact Form 7, WPforms, Elementor forms <= 1.5.5 - Unauthenticated Arbitrary File Upload via Ninja Forms Submission](https://vulners.com/cvelist/CVELIST:CVE-2026-115867?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116494 Forminator Forms <= 1.58.3 - Unauthenticated Account Approval Bypass via Merge Tag Injection](https://vulners.com/cve/CVE-2026-116494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-116494 Forminator Forms <= 1.58.3 - Unauthenticated Account Approval Bypass via Merge Tag Injection](https://vulners.com/cvelist/CVELIST:CVE-2026-116494?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-120353](https://vulners.com/nvd/NVD:CVE-2026-120353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122225 lxd: Symbolic link following in imported VM backup config drives](https://vulners.com/cve/CVE-2026-122225?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122225 lxd: Symbolic link following in imported VM backup config drives](https://vulners.com/cvelist/CVELIST:CVE-2026-122225?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126139](https://vulners.com/nvd/NVD:CVE-2026-126139?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126717 Translate WordPress with Weglot 2.0 <= 6.4.3 - Unauthenticated Stored Cross-Site Scripting via Comment Content](https://vulners.com/cve/CVE-2026-126717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-126717 Translate WordPress with Weglot 2.0 <= 6.4.3 - Unauthenticated Stored Cross-Site Scripting via Comment Content](https://vulners.com/cvelist/CVELIST:CVE-2026-126717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127151 lxd: Guest VM disk disclosure and tampering via unauthenticated abstract unix NBD sockets](https://vulners.com/cve/CVE-2026-127151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127151 lxd: Guest VM disk disclosure and tampering via unauthenticated abstract unix NBD sockets](https://vulners.com/cvelist/CVELIST:CVE-2026-127151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127152 lxd: Improper privilege management when rebuilding never-started unprivileged containers](https://vulners.com/cve/CVE-2026-127152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -104,6 +123,8 @@
   - [CVE-2026-135383 lxd: Incorrect authorization in TLS certificate trust and revocation handling](https://vulners.com/cvelist/CVELIST:CVE-2026-135383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135385 lxd: Incorrect authorization in backup export and network zone read endpoints](https://vulners.com/cve/CVE-2026-135385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135385 lxd: Incorrect authorization in backup export and network zone read endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-135385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135616 W3 Total Cache <= 2.11.0 - Authenticated (Subscriber+) PHP Object Injection to Remote Code Execution via Memcached Object Cache Key Collision](https://vulners.com/cve/CVE-2026-135616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135616 W3 Total Cache <= 2.11.0 - Authenticated (Subscriber+) PHP Object Injection to Remote Code Execution via Memcached Object Cache Key Collision](https://vulners.com/cvelist/CVELIST:CVE-2026-135616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136975 lxd: Authentication bypass by spoofing in bridged NIC MAC filtering](https://vulners.com/cve/CVE-2026-136975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136975 lxd: Authentication bypass by spoofing in bridged NIC MAC filtering](https://vulners.com/cvelist/CVELIST:CVE-2026-136975?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-136976 lxd: Improper link resolution in recursive file pull client handling](https://vulners.com/cve/CVE-2026-136976?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -143,7 +164,11 @@
   - [CVE-2026-137621 RT-Thread Bouffalo ADC Driver drv_adc.c bl_adc_get_value array index](https://vulners.com/cvelist/CVELIST:CVE-2026-137621?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-137653](https://vulners.com/nvd/NVD:CVE-2026-137653?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-137660](https://vulners.com/nvd/NVD:CVE-2026-137660?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137677](https://vulners.com/nvd/NVD:CVE-2026-137677?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137702](https://vulners.com/cve/CVE-2026-137702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137702](https://vulners.com/cvelist/CVELIST:CVE-2026-137702?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7181](https://vulners.com/nvd/NVD:CVE-2026-7181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [ESAFNET-SmartSec-LPE-PoC](https://vulners.com/githubexploit/E8F64EF9-0CE6-56D6-9EDC-0330B0C46729?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-61725](https://vulners.com/githubexploit/E2556E2B-5426-543B-B244-B85EB88FFC38?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-99491](https://vulners.com/gitee/97D5FE44-F45B-500C-9D23-048FD1D595E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-29V7-6X3J-R97Q](https://vulners.com/circl/CIRCL:GHSA-29V7-6X3J-R97Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -168,3 +193,5 @@
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记](https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign)
+- 量子位 QbitAI
+  - [20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩](https://www.qbitai.com/2026/11/513053.html)
