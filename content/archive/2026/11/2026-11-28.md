@@ -12,11 +12,16 @@
 - Hacker News Frontpage
   - [France Slips into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5)
   - [I'm Scared of AI](https://thesoapbox.email/archive/3)
+  - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 - miguelgrinberg.com
   - [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots)
+- The Block
+  - [CryptoQuant says bitcoin price recovery needs USDT supply growth](https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560)
 - The Decoder
+  - [Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports](https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/)
   - [Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models](https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/)
 - The Verge
+  - [Anker’s 100W universal travel charger is down to $60, its lowest price yet](https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale)
   - [Here are the best Black Friday deals you can grab for $30 or less](https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026)
   - [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
   - [The best Black Friday deals on AirPods, MacBooks, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
@@ -48,9 +53,14 @@
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [zimbra-2fa-relogin-xss](https://vulners.com/githubexploit/0124B1BB-75BE-5C81-ADD8-B80300E699DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)
   - [Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More](https://www.wired.com/story/black-friday-apple-deals-11-27-2026/)
+  - [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/)
   - [Best CurrentBody Black Friday Deals Worth Shopping (2026)](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 安全客
+  - [3小时、200美元，AI挖出Java致命0day](https://www.anquanke.com/post/id/316568)
+  - [搜个DeepSeek微信没了，高仿官网正在批量投毒](https://www.anquanke.com/post/id/316565)
 - 爱范儿
   - [24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展](https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign)
