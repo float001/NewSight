@@ -2,11 +2,14 @@
 
 - 2Libra
   - [感觉怪怪的，我在问题解决后习惯性给 AI 反馈结果，哈哈哈](https://2libra.com/post/ai-applications/VgpzoAl)
+- aresluna.org
+  - [UI style guides](https://aresluna.org/ui-style-guides)
 - CoinTelegraph
   - [Bitcoin price drops below $59K as Anthropic joins tech stock rebound](https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin whales pile into BTC despite shrinking profit cushion](https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China sets March 2027 rollout for blockchain identity regulations](https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Franklin Templeton makes room for HYPE in crypto index ETF](https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Fidelis Security
   - [Where Deception Fits in a Zero Trust Threat Hunting Framework](https://fidelissecurity.com/threatgeek/deception/threat-hunting-framework-zero-trust/)
 - filfre.net
@@ -16,6 +19,7 @@
   - [I'm a watchmaker and I accidentally made a software factory](https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/)
   - [I'm Scared of AI](https://thesoapbox.email/archive/3)
   - [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
+  - [Source Control from Hell](https://frantic.im/git/)
   - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 - miguelgrinberg.com
   - [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots)
@@ -39,6 +43,7 @@
   - [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
   - [The best Black Friday deals on AirPods, MacBooks, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
   - [The best Black Friday deals on smart home gear](https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday)
+  - [The new iPad Mini is getting its first major discount for Black Friday](https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026)
   - [You might lose your Oura health data if you’re still using an old Android phone](https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11)
 - Vulners.com RSS Feed
   - [-CVE-2021-41962](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LOHYT--CVE-2021-41962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -167,6 +172,7 @@
   - [Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More](https://www.wired.com/story/black-friday-apple-deals-11-27-2026/)
   - [Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers](https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/)
   - [Best Black Friday AirPods Deals I’ve Found (2026)](https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/)
+  - [Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)](https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/)
   - [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/)
   - [Best CurrentBody Black Friday Deals Worth Shopping (2026)](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/)
   - [Black Friday Deals on Household Essentials and Affordable Toys to Donate](https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/)
