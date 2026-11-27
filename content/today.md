@@ -7,6 +7,7 @@
   - [【💰】今天不想上班只想摸鱼](https://2libra.com/post/slacking-off/M-R8WDv)
   - [三字兑换码信息掩码存在问题，不过很少有三字兑换码。](https://2libra.com/post/community/wihj09r)
   - [亚太区 Visa 卡免费领 1 年全球 eSIM，主流通讯软件（TG/微信/WA）无限免流](https://2libra.com/post/deal-hunter/GCBxyZ7)
+  - [今天左侧栏清一色【橱窗位招租】，广告都到期了吗？](https://2libra.com/post/forum-function/IBkx1Pk)
   - [你对“小豆”怎么看？](https://2libra.com/post/ai-tools/O6xi_20)
   - [又到周五咯](https://2libra.com/post/personal-life/SMed57t)
   - [周五工作内容](https://2libra.com/post/office-life/RK-LUZY)
@@ -24,6 +25,7 @@
   - [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain details new layer-1 for trading, private finance and AI](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto on notice as hawkish Fed risks December ‘meltdown’](https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays](https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Privacy coins face diverging fortunes as KuCoin moves to drop Monero](https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Spain moves to grant financial watchdog power to freeze crypto accounts](https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -59,6 +61,7 @@
   - [Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)
   - [X finally gets parental controls after 20 years](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/)
 - The Block
+  - [China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation](https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029)
   - [JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple](https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007)
 - The Decoder
   - [Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it](https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/)
