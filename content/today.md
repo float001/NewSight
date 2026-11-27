@@ -2,12 +2,18 @@
 
 - 2Libra
   - [【偶遇感恩节】新·太二：酸菜鱼+川菜](https://2libra.com/post/personal-life/cFDGo4X)
+  - [【兑换码】LibraX - 2Libra Android 原生客户端发布了，欢迎 2 友下载体验](https://2libra.com/post/personal-works/gUY4TtM)
   - [【投票】今天能刷新 268 最高在线人数，拿到走个面么？](https://2libra.com/post/forum-function/C3jvWhA)
+  - [【💰】今天不想上班只想摸鱼](https://2libra.com/post/slacking-off/M-R8WDv)
   - [三字兑换码信息掩码存在问题，不过很少有三字兑换码。](https://2libra.com/post/community/wihj09r)
   - [亚太区 Visa 卡免费领 1 年全球 eSIM，主流通讯软件（TG/微信/WA）无限免流](https://2libra.com/post/deal-hunter/GCBxyZ7)
   - [你对“小豆”怎么看？](https://2libra.com/post/ai-tools/O6xi_20)
+  - [又到周五咯](https://2libra.com/post/personal-life/SMed57t)
   - [周五工作内容](https://2libra.com/post/office-life/RK-LUZY)
+  - [大家玩过最长时间的游戏是什么？](https://2libra.com/post/game-discussion/dHk2jFR)
   - [小电驴怎么选](https://2libra.com/post/recommendations/1qdoqZX)
+  - [把 nvm 换成了 mise，用起来方便很多。](https://2libra.com/post/tool-sharing/e3do7oG)
+  - [有没有使用土区 Apple 购买 gemini pro 成功的兄弟！ 求助一下！](https://2libra.com/post/help-requests/xEaIEqh)
   - [现在购买新款 Macbook 最便宜的方式](https://2libra.com/post/recommendations/fY2Rg7q)
   - [花了 1000+金币补卡 真的贵啊](https://2libra.com/post/forum-function/QCD9_t9)
 - ByteByteGo
@@ -34,8 +40,10 @@
 - Kali Linux Tutorials
   - [10 Best Endpoint Detection and Response Software in 2026](https://kalilinuxtutorials.com/10-best-endpoint-detection-and-response-software-in-2026/)
 - rtl-sdr.com
+  - [Ground Station Update: Now Decodes ADS-B, Radiosondes, Meshtastic and APRS](https://www.rtl-sdr.com/ground-station-update-now-decodes-ads-b-radiosondes-meshtastic-and-aprs/)
   - [MultiScan SDR Update: Adds Satellite Tracking, a Learning Signal Classifier and Smarter Full Spectrum Scans](https://www.rtl-sdr.com/multiscan-sdr-update-adds-satellite-tracking-a-learning-signal-classifier-and-smarter-full-spectrum-scans/)
   - [Saturn IE and RE: A 16-Bit FPGA and Raspberry Pi CM5 Based HF SDR Transceiver and Test Instrument Coming to Crowd Supply](https://www.rtl-sdr.com/saturn-ie-and-re-a-16-bit-fpga-and-raspberry-pi-cm5-based-hf-sdr-transceiver-and-test-instrument-coming-to-crowd-supply/)
+  - [Turning a $26 ESP32-C5 Touchscreen Board into a Standalone KiwiSDR and Web888 Receiver](https://www.rtl-sdr.com/turning-a-26-esp32-c5-touchscreen-board-into-a-standalone-kiwisdr-and-web888-receiver/)
 - Sploitus.com Exploits RSS Feed
   - [cve-watch exploit](https://sploitus.com/exploit?id=4AC1041E-0388-59D1-AB3C-159A7E95C5E1&utm_source=rss&utm_medium=rss)
   - [ESAFNET-SmartSec-LPE-PoC exploit](https://sploitus.com/exploit?id=E8F64EF9-0CE6-56D6-9EDC-0330B0C46729&utm_source=rss&utm_medium=rss)
@@ -188,10 +196,13 @@
 - Wired
   - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
 - 不安全
+  - [Ground Station Update: Now Decodes ADS-B, Radiosondes, Meshtastic and APRS](https://buaq.net/go-457681.html)
   - [headscale v0.29.8](https://buaq.net/go-457667.html)
+  - [公开反对黄仁勋回归的英伟达副总裁曾与A社CEO阿莫迪在百度AI实验室共事过](https://buaq.net/go-457686.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
   - [早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记](https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign)
 - 量子位 QbitAI
   - [20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩](https://www.qbitai.com/2026/11/513053.html)
+  - [乾崑共创者计划发布：加入乾崑生态，共创出行未来！](https://www.qbitai.com/2026/11/513087.html)
