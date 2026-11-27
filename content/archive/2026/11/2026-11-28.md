@@ -4,12 +4,52 @@
   - [感觉怪怪的，我在问题解决后习惯性给 AI 反馈结果，哈哈哈](https://2libra.com/post/ai-applications/VgpzoAl)
 - CoinTelegraph
   - [Bitcoin price drops below $59K as Anthropic joins tech stock rebound](https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [China sets March 2027 rollout for blockchain identity regulations](https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Fidelis Security
+  - [Where Deception Fits in a Zero Trust Threat Hunting Framework](https://fidelissecurity.com/threatgeek/deception/threat-hunting-framework-zero-trust/)
+- filfre.net
+  - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
+- Hacker News Frontpage
+  - [France Slips into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5)
+  - [I'm Scared of AI](https://thesoapbox.email/archive/3)
+- miguelgrinberg.com
+  - [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots)
 - The Decoder
   - [Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models](https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/)
 - The Verge
+  - [Here are the best Black Friday deals you can grab for $30 or less](https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026)
+  - [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
   - [The best Black Friday deals on AirPods, MacBooks, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
+- Vulners.com RSS Feed
+  - [CVE-2026-132876 Dreamweaver Desktop | Dependency on Vulnerable Third-Party Component (CWE-1395)](https://vulners.com/cve/CVE-2026-132876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-132876 Dreamweaver Desktop | Dependency on Vulnerable Third-Party Component (CWE-1395)](https://vulners.com/cvelist/CVELIST:CVE-2026-132876?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137684](https://vulners.com/nvd/NVD:CVE-2026-137684?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137992](https://vulners.com/nvd/NVD:CVE-2026-137992?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137993](https://vulners.com/nvd/NVD:CVE-2026-137993?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137994](https://vulners.com/nvd/NVD:CVE-2026-137994?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137995](https://vulners.com/nvd/NVD:CVE-2026-137995?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137996](https://vulners.com/nvd/NVD:CVE-2026-137996?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137997](https://vulners.com/nvd/NVD:CVE-2026-137997?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137998](https://vulners.com/nvd/NVD:CVE-2026-137998?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137999](https://vulners.com/nvd/NVD:CVE-2026-137999?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81041](https://vulners.com/nvd/NVD:CVE-2026-81041?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81042](https://vulners.com/nvd/NVD:CVE-2026-81042?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81044](https://vulners.com/nvd/NVD:CVE-2026-81044?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81045](https://vulners.com/nvd/NVD:CVE-2026-81045?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81047](https://vulners.com/nvd/NVD:CVE-2026-81047?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81050](https://vulners.com/nvd/NVD:CVE-2026-81050?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81053](https://vulners.com/nvd/NVD:CVE-2026-81053?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81054](https://vulners.com/nvd/NVD:CVE-2026-81054?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-81055](https://vulners.com/nvd/NVD:CVE-2026-81055?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-73968](https://vulners.com/githubexploit/24CF9648-782C-533E-B219-B721DB996D49?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Important: Red Hat Security Advisory: kernel security, bug fix, and enhancement update](https://vulners.com/redhat/RHSA-2026:104088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: vdpa_sim_blk: reject out-of-range sector starts](https://vulners.com/redhat/RHSA-2026:104088-CVE-2026-97991?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [kernel: wifi: mac80211: validate extension-frame layout before RX](https://vulners.com/redhat/RHSA-2026:104088-CVE-2026-68470?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [zimbra-2fa-relogin-xss](https://vulners.com/githubexploit/0124B1BB-75BE-5C81-ADD8-B80300E699DF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
   - [Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More](https://www.wired.com/story/black-friday-apple-deals-11-27-2026/)
+  - [Best CurrentBody Black Friday Deals Worth Shopping (2026)](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
