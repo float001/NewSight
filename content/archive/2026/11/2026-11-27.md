@@ -2,6 +2,8 @@
 
 - 2Libra
   - [codex 使用](https://2libra.com/post/ai-programming/2fnQXDq)
+  - [Google AI 会员送的 Colab 显卡别放过期了：两句话交给本地 Agent，昨晚花 13.81 CU 跑了部 10 集 1080p60 短剧](https://2libra.com/post/ai-gateway/gGl-gOn)
+  - [Locus：用 GPUI 写的轻量开源数据库工具](https://2libra.com/post/open-source-sharing/FM4gCOw)
   - [WorkBuddy 竟然未经授权读取文件！](https://2libra.com/post/ai-companies/NkRxWwv)
   - [「转自 X」Google 开始大量清退免费 gemini 号](https://2libra.com/post/ai-trends/--sX4bC)
   - [【偶遇感恩节】新·太二：酸菜鱼+川菜](https://2libra.com/post/personal-life/cFDGo4X)
@@ -25,6 +27,7 @@
   - [吐槽一下，找一个环境好的泳池真不容易](https://2libra.com/post/sports/mnhBBNh)
   - [周五工作内容](https://2libra.com/post/office-life/RK-LUZY)
   - [周末给自己来一场电影马拉松吧](https://2libra.com/post/movie-sharing/hqbVNTT)
+  - [大家小时候最爱吃的小卖部零食都有哪些？](https://2libra.com/post/small-things/A9FoOKC)
   - [大家玩过最长时间的游戏是什么？](https://2libra.com/post/game-discussion/dHk2jFR)
   - [好瞌睡，想睡觉](https://2libra.com/post/personal-life/WugG56N)
   - [小电驴怎么选](https://2libra.com/post/recommendations/1qdoqZX)
@@ -40,6 +43,10 @@
   - [黑五送 2 年免费二级域名](https://2libra.com/post/domain-service/hjA2Qkn)
 - 360 Netlab Blog - 360
   - [AI安全专题周报（20261127）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-20261127/)
+- Ars Technica
+  - [Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026](https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/)
+- berthub.eu
+  - [Het succesvolle Fieldlab van de Nederlandse Digitale Dienst deze week](https://berthub.eu/articles/posts/fieldlab-is-van-de-it/)
 - bunnie's blog
   - [Formlabs Form Studio 1 Teardown](https://www.bunniestudios.com/blog/2026/formlabs-form-studio-1-teardown/)
 - ByteByteGo
@@ -48,6 +55,7 @@
   - [AI is driving a flood of crypto bug reports. Now it’s helping sort them](https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance completes withdrawal recovery four weeks after $6.3B hack](https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives](https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bluefin to shut down perps, refocus on spot trading and tokenized RWAs](https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain details new layer-1 for trading, private finance and AI](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto on notice as hawkish Fed risks December ‘meltdown’](https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -62,12 +70,18 @@
 - Cyber Kendra
   - [Why AI Governance Policies Fail Without Runtime Enforcement](https://www.cyberkendra.com/2026/11/why-ai-governance-policies-fail-without-runtime-enforcement.html)
 - CyberNews
+  - [Barclays’ US banking arm confirms data breach](https://cybernews.com/security/barclays-us-data-breach/)
   - [Critical Tor Browser flaw exposes users’ real IP addresses to malicious websites](https://cybernews.com/security/critical-tor-browser-flaw-exposes-users-real-ip-addresses-to-malicious-websites/)
   - [Dutch groups ask court to halt Meta smart glasses sales over privacy concerns](https://cybernews.com/tech/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales/)
   - [Google AI is flooding French poison control centers with panic calls](https://cybernews.com/news/google-overviews-hallucination-poison-center/)
+  - [Hackers breach US Air Force flagship Cloud One computing platform](https://cybernews.com/security/hackers-breach-us-air-force-flagship-cloud-one/)
+  - [Hackers leak data stolen from internet landlord GoDaddy](https://cybernews.com/security/godaddy-data-leak-inception-ransomware/)
+  - [McDonald’s Amazon servers attacked, hackers say they stole customer data](https://cybernews.com/security/mcdonalds-amazon-servers-data-breach/)
   - [Quit or go home, says IBM as tech giant refuses to sponsor H-1B visas](https://cybernews.com/tech/ibm-stops-sponsoring-h1b-visas/)
   - [SAP confirms cyber incident, but no customer data accessed](https://cybernews.com/security/sap-cyber-incident-customer-data/)
   - [SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://cybernews.com/tech/sap-considers-at-least-10000-job-cuts/)
+- Data Breach
+  - [SAP Security Incident: Stolen Tokens Raise Supply Chain Concerns](https://securityaffairs.com/204121/data-breach/sap-security-incident-stolen-tokens-raise-supply-chain-concerns.html)
 - defend.network
   - [Juniper, Mitel MiCollab, Drupal flaws exploited in the wild](https://defend.network/briefings/juniper-mitel-micollab-drupal-flaws-exploited-2026-11-27.html)
 - ElcomSoft blog
@@ -75,6 +89,7 @@
 - Hacker News Frontpage
   - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
   - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
+  - [Fields-winning mathematicians worried about eerie silence over AI and encryption](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)
   - [Google will show solo Android developers' phone numbers and addresses](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en)
   - [Kagi Watch](https://kagi.com/watch)
   - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
@@ -86,6 +101,7 @@
 - infosecurity-magazine.com
   - [CyberStrikeAI Creator Shuts Down Open-Source AI Offensive Framework](https://www.infosecurity-magazine.com/news/cyberstrikeai-shut-down-threatbook/)
   - [FIFA Confirms Cyber-Attack, Personal and Business Information Compromised](https://www.infosecurity-magazine.com/news/fifa-confirms-cyberattack/)
+  - [UK Welfare and Pension Services Taken Offline Following Cyber Incident](https://www.infosecurity-magazine.com/news/uk-welfare-services-offline/)
 - jeffgeerling.com
   - [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/)
 - Kali Linux Tutorials
@@ -158,6 +174,7 @@
   - [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
   - [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)
   - [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
+  - [The SE 3 is the Apple Watch most people should buy on Black Friday](https://www.theverge.com/gadgets/1040313/apple-watch-se-3-black-friday-2026-deal-sale)
 - Vulners.com RSS Feed
   - [APTS](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-OWASP-APTS?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [binfinder](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AQUASECURITY-BINFINDER?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -172,6 +189,7 @@
   - [CVE-2024-54880](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AILENYE-CVE-2024-54880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-55457-PoC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-H13NH04NG-CVE-2024-55457-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-3088](https://vulners.com/nvd/NVD:CVE-2025-3088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-41680](https://vulners.com/nvd/NVD:CVE-2025-41680?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-8209](https://vulners.com/nvd/NVD:CVE-2025-8209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102001](https://vulners.com/nvd/NVD:CVE-2026-102001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105917](https://vulners.com/nvd/NVD:CVE-2026-105917?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -205,9 +223,12 @@
   - [CVE-2026-120353](https://vulners.com/nvd/NVD:CVE-2026-120353?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122225 lxd: Symbolic link following in imported VM backup config drives](https://vulners.com/cve/CVE-2026-122225?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-122225 lxd: Symbolic link following in imported VM backup config drives](https://vulners.com/cvelist/CVELIST:CVE-2026-122225?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123706 Out-of-bounds write vulnerability in VectorImage impacts Qt Framework](https://vulners.com/cve/CVE-2026-123706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-123706 Out-of-bounds write vulnerability in VectorImage impacts Qt Framework](https://vulners.com/cvelist/CVELIST:CVE-2026-123706?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126139](https://vulners.com/nvd/NVD:CVE-2026-126139?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126717 Translate WordPress with Weglot 2.0 <= 6.4.3 - Unauthenticated Stored Cross-Site Scripting via Comment Content](https://vulners.com/cve/CVE-2026-126717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-126717 Translate WordPress with Weglot 2.0 <= 6.4.3 - Unauthenticated Stored Cross-Site Scripting via Comment Content](https://vulners.com/cvelist/CVELIST:CVE-2026-126717?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-127118](https://vulners.com/nvd/NVD:CVE-2026-127118?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127151 lxd: Guest VM disk disclosure and tampering via unauthenticated abstract unix NBD sockets](https://vulners.com/cve/CVE-2026-127151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127151 lxd: Guest VM disk disclosure and tampering via unauthenticated abstract unix NBD sockets](https://vulners.com/cvelist/CVELIST:CVE-2026-127151?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-127152 lxd: Improper privilege management when rebuilding never-started unprivileged containers](https://vulners.com/cve/CVE-2026-127152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -344,6 +365,11 @@
   - [CVE-2026-137723](https://vulners.com/cvelist/CVELIST:CVE-2026-137723?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-137724](https://vulners.com/cve/CVE-2026-137724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-137724](https://vulners.com/cvelist/CVELIST:CVE-2026-137724?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137742](https://vulners.com/nvd/NVD:CVE-2026-137742?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137743 Free5GC UDR subs_to_notify_collection.go race condition](https://vulners.com/cve/CVE-2026-137743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137743 Free5GC UDR subs_to_notify_collection.go race condition](https://vulners.com/cvelist/CVELIST:CVE-2026-137743?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137826](https://vulners.com/nvd/NVD:CVE-2026-137826?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-137888](https://vulners.com/nvd/NVD:CVE-2026-137888?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19443 Cri-o: cri-o: checkpoint restore path traversal in deleted.files allows host filesystem deletion](https://vulners.com/cve/CVE-2026-19443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-19443 Cri-o: cri-o: checkpoint restore path traversal in deleted.files allows host filesystem deletion](https://vulners.com/cvelist/CVELIST:CVE-2026-19443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26897-EcoOnline-DeepLink](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IWALLPLACE-CVE-2026-26897-ECOONLINE-DEEPLINK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -391,9 +417,13 @@
   - [CVE-2026-95622 ModemManager: Reachable assertion in Cell Broadcast encoding parse causes denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-95622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DarkLoadLibrary](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BATS3C-DARKLOADLIBRARY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [deepin-linux_reader_RCE-exploit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FEBINREV-DEEPIN-LINUX_READER_RCE-EXPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [DHI-WT55-QO5B-HPBL-YLRY Game Music Emu (libgme) through 0.6.5 contains a heap out-of-bounds read vulnerability in the AY loader get_data…](https://vulners.com/osv_dhi/OSV:DHI-WT55-QO5B-HPBL-YLRY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [DHI-ZFMW-QQYU-MXGT-HFL6 Game Music Emu (libgme) through 0.6.5 contains a global out-of-bounds read vulnerability in Classic_Emu::mute_voices_…](https://vulners.com/osv_dhi/OSV:DHI-ZFMW-QQYU-MXGT-HFL6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EntraTrace](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BERT-JANP-ENTRATRACE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [ESAFNET-SmartSec-LPE-PoC](https://vulners.com/githubexploit/E8F64EF9-0CE6-56D6-9EDC-0330B0C46729?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-126187](https://vulners.com/githubexploit/F240277A-8AD1-5A54-B76C-F80809E1D4BF?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-61725](https://vulners.com/githubexploit/E2556E2B-5426-543B-B244-B85EB88FFC38?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [Exploit for CVE-2026-7275](https://vulners.com/githubexploit/45DC95D8-F31A-5EEE-8B05-C55A8367BEF7?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit for CVE-2026-99491](https://vulners.com/gitee/97D5FE44-F45B-500C-9D23-048FD1D595E3?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Exploit-Index](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-SECUREWITHUMER-EXPLOIT-INDEX?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [GHSA-29V7-6X3J-R97Q](https://vulners.com/circl/CIRCL:GHSA-29V7-6X3J-R97Q?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -419,10 +449,12 @@
   - [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://vulners.com/thn/THN:2C58DFF3B663255AE4653845DFE985C6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [15 Best Buy Black Friday Deals on Hot Tech (2026): Up to 65% Off](https://www.wired.com/story/black-friday-best-buy-deals-11-27-2026/)
   - [16 Best Black Friday Headphone Deals (2026): Up to 57% Off](https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/)
   - [20 Best Black Friday Tech Deals (2026)](https://www.wired.com/story/black-friday-tech-deals-11-27-2026/)
   - [22 Best Black Friday Deals Under $100 (2026)](https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/)
   - [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
+  - [Best Black Friday Google Pixel Deals (2026): Up to $400 Off](https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/)
   - [Best Black Friday Phone Deals (2026): iPhone, Pixel, and More](https://www.wired.com/story/best-black-friday-phone-deals-11-27-26/)
   - [Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys](https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/)
   - [Best Kitchen Gifts for Home Cooks (2026)](https://www.wired.com/story/the-best-gifts-for-cooks-who-love-cooking/)
@@ -436,8 +468,11 @@
   - [Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change](https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/)
   - [Squarespace Promo Codes: 55% Off in November 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [The 10 Best Black Friday TV Deals (2026): Save Up to 53% Off](https://www.wired.com/story/early-black-friday-tv-deals-11-27-2026/)
+  - [The 123 Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)
+  - [The 6 Best Black Friday Deals on Expert-Tested Laptops (2026): Up to $470 Off](https://www.wired.com/story/black-friday-laptop-deals-11-27-2026/)
   - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
   - [Ulta Promo Codes: Up to 20% Off in November 2026](https://www.wired.com/story/ulta-coupon/)
+  - [Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture](https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/)
   - [Whoop Promo Codes: 20% Off This November 2026](https://www.wired.com/story/whoop-promo-code/)
   - [‘It’s broken people's normalcy bias’: The UK Goes Fully Prep Mode](https://www.wired.com/story/its-broken-peoples-normalcy-bias-the-uk-goes-fully-prep-mode/)
 - 不安全
@@ -445,10 +480,13 @@
   - [Ground Station Update: Now Decodes ADS-B, Radiosondes, Meshtastic and APRS](https://buaq.net/go-457681.html)
   - [headscale v0.29.8](https://buaq.net/go-457667.html)
   - [NodeWarden – 不用服务器，在 Cloudflare 上免费自建密码管理器【续】](https://buaq.net/go-457733.html)
+  - [Sad-Girls-0day-Club](https://buaq.net/go-457754.html)
   - [Third-Party Risk Assessment: A 2027 Framework for Security and Risk Teams](https://buaq.net/go-457714.html)
   - [公开反对黄仁勋回归的英伟达副总裁曾与A社CEO阿莫迪在百度AI实验室共事过](https://buaq.net/go-457686.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [欧盟委员会称浏览器竞争是 DMA 优先事项](https://www.solidot.org/story?sid=86012)
 - 爱范儿
   - [10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展](https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign)
   - [30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相广州车展](https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign)
