@@ -3,6 +3,7 @@
 - 2Libra
   - [codex 使用](https://2libra.com/post/ai-programming/2fnQXDq)
   - [Google AI 会员送的 Colab 显卡别放过期了：两句话交给本地 Agent，昨晚花 13.81 CU 跑了部 10 集 1080p60 短剧](https://2libra.com/post/ai-gateway/gGl-gOn)
+  - [ipv64 二级域名回收](https://2libra.com/post/domain-service/s6Bh8xx)
   - [Locus：用 GPUI 写的轻量开源数据库工具](https://2libra.com/post/open-source-sharing/FM4gCOw)
   - [WorkBuddy 竟然未经授权读取文件！](https://2libra.com/post/ai-companies/NkRxWwv)
   - [「转自 X」Google 开始大量清退免费 gemini 号](https://2libra.com/post/ai-trends/--sX4bC)
@@ -53,11 +54,13 @@
   - [The Life of a Database Row: What Really Happens Behind the Scenes](https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really)
 - CoinTelegraph
   - [AI is driving a flood of crypto bug reports. Now it’s helping sort them](https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Austria-supervised crypto firms report 20.4B euros in H1 trading volume](https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance completes withdrawal recovery four weeks after $6.3B hack](https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives](https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bluefin to shut down perps, refocus on spot trading and tokenized RWAs](https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain details new layer-1 for trading, private finance and AI](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Brazil’s stock exchange pushes stablecoin launch back to 2027](https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto on notice as hawkish Fed risks December ‘meltdown’](https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays](https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -70,6 +73,8 @@
 - Cyber Kendra
   - [Why AI Governance Policies Fail Without Runtime Enforcement](https://www.cyberkendra.com/2026/11/why-ai-governance-policies-fail-without-runtime-enforcement.html)
 - CyberNews
+  - [AI labs “sitting on bombshells” that can break encryption systems, a scientist warns](https://cybernews.com/ai-news/anthropic-openai-encryption/)
+  - [Apple flags Chinese food app over malware that steals data from users’ image gallery](https://cybernews.com/security/apple-chinese-food-app-malware/)
   - [Barclays’ US banking arm confirms data breach](https://cybernews.com/security/barclays-us-data-breach/)
   - [Critical Tor Browser flaw exposes users’ real IP addresses to malicious websites](https://cybernews.com/security/critical-tor-browser-flaw-exposes-users-real-ip-addresses-to-malicious-websites/)
   - [Dutch groups ask court to halt Meta smart glasses sales over privacy concerns](https://cybernews.com/tech/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales/)
@@ -80,6 +85,7 @@
   - [Quit or go home, says IBM as tech giant refuses to sponsor H-1B visas](https://cybernews.com/tech/ibm-stops-sponsoring-h1b-visas/)
   - [SAP confirms cyber incident, but no customer data accessed](https://cybernews.com/security/sap-cyber-incident-customer-data/)
   - [SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://cybernews.com/tech/sap-considers-at-least-10000-job-cuts/)
+  - [UK government’s benefits system taken offline after cyber incident](https://cybernews.com/security/uk-government-benefits-system-dwp-offline/)
 - Data Breach
   - [SAP Security Incident: Stolen Tokens Raise Supply Chain Concerns](https://securityaffairs.com/204121/data-breach/sap-security-incident-stolen-tokens-raise-supply-chain-concerns.html)
 - defend.network
@@ -104,6 +110,8 @@
   - [UK Welfare and Pension Services Taken Offline Following Cyber Incident](https://www.infosecurity-magazine.com/news/uk-welfare-services-offline/)
 - jeffgeerling.com
   - [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/)
+- johndcook.com
+  - [Counterexamples to proof by example](https://www.johndcook.com/blog/2026/11/27/counterexample-to-proof-by-example/)
 - Kali Linux Tutorials
   - [10 Best Endpoint Detection and Response Software in 2026](https://kalilinuxtutorials.com/10-best-endpoint-detection-and-response-software-in-2026/)
 - Positive Security | IT Security research and happy coincidences
@@ -116,6 +124,8 @@
   - [Saturn IE and RE: A 16-Bit FPGA and Raspberry Pi CM5 Based HF SDR Transceiver and Test Instrument Coming to Crowd Supply](https://www.rtl-sdr.com/saturn-ie-and-re-a-16-bit-fpga-and-raspberry-pi-cm5-based-hf-sdr-transceiver-and-test-instrument-coming-to-crowd-supply/)
   - [Turning a $26 ESP32-C5 Touchscreen Board into a Standalone KiwiSDR and Web888 Receiver](https://www.rtl-sdr.com/turning-a-26-esp32-c5-touchscreen-board-into-a-standalone-kiwisdr-and-web888-receiver/)
   - [Turning the Raspberry Pi 5’s Onboard BCM43455 Wi-Fi Chip into a Receive-Only SDR](https://www.rtl-sdr.com/turning-the-raspberry-pi-5s-onboard-bcm43455-wi-fi-chip-into-a-receive-only-sdr/)
+- shkspr.mobi
+  - [Gadget Review: WiFi Carbon Monoxide Alarm (JKD-625W) ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/)
 - Sploitus.com Exploits RSS Feed
   - [APTS exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-OWASP-APTS&utm_source=rss&utm_medium=rss)
   - [binfinder exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-AQUASECURITY-BINFINDER&utm_source=rss&utm_medium=rss)
@@ -137,6 +147,7 @@
   - [deepin-linux_reader_RCE-exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FEBINREV-DEEPIN-LINUX_READER_RCE-EXPLOIT&utm_source=rss&utm_medium=rss)
   - [EntraTrace exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-BERT-JANP-ENTRATRACE&utm_source=rss&utm_medium=rss)
   - [ESAFNET-SmartSec-LPE-PoC exploit](https://sploitus.com/exploit?id=E8F64EF9-0CE6-56D6-9EDC-0330B0C46729&utm_source=rss&utm_medium=rss)
+  - [Exploit for CVE-2026-132165](https://sploitus.com/exploit?id=9403BA04-DC29-55A8-919E-42DD7FF96629&utm_source=rss&utm_medium=rss)
   - [Exploit for CVE-2026-99491](https://sploitus.com/exploit?id=97D5FE44-F45B-500C-9D23-048FD1D595E3&utm_source=rss&utm_medium=rss)
   - [Exploit-Index](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SECUREWITHUMER-EXPLOIT-INDEX&utm_source=rss&utm_medium=rss)
   - [MalSCCM exploit](https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-NETTITUDE-MALSCCM&utm_source=rss&utm_medium=rss)
@@ -170,6 +181,8 @@
   - [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu)
   - [Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026)
   - [Federal judge blocks the FCC from reviewing ABC’s licenses early](https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block)
+  - [Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending](https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending)
+  - [Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026)
   - [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
   - [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
   - [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)
@@ -455,6 +468,7 @@
   - [22 Best Black Friday Deals Under $100 (2026)](https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/)
   - [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
   - [Best Black Friday Google Pixel Deals (2026): Up to $400 Off](https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/)
+  - [Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories](https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/)
   - [Best Black Friday Phone Deals (2026): iPhone, Pixel, and More](https://www.wired.com/story/best-black-friday-phone-deals-11-27-26/)
   - [Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys](https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/)
   - [Best Kitchen Gifts for Home Cooks (2026)](https://www.wired.com/story/the-best-gifts-for-cooks-who-love-cooking/)
@@ -491,9 +505,13 @@
   - [10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展](https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign)
   - [30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相广州车展](https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign)
   - [30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展](https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展](https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign)
   - [Agent 上车元年，支付宝造了一个行动座舱](https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign)
   - [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展](https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展](https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign)
   - [广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底](https://www.ifanr.com/1695800?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展](https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记](https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign)
   - [蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型](https://www.ifanr.com/1695848?utm_source=rss&utm_medium=rss&utm_campaign)
   - [阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展](https://www.ifanr.com/1695875?utm_source=rss&utm_medium=rss&utm_campaign)
