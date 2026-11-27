@@ -18,6 +18,8 @@
   - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 - miguelgrinberg.com
   - [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots)
+- minimaxir.com
+  - [Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized](https://minimaxir.com/2026/11/opus-fable/)
 - Sploitus.com Exploits RSS Feed
   - [知御 exploit](https://sploitus.com/exploit?id=56BAE780-95FF-5E47-BE24-A18C0F97113D&utm_source=rss&utm_medium=rss)
 - The Block
@@ -28,7 +30,9 @@
   - [Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models](https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/)
 - The Verge
   - [Anker’s 100W universal travel charger is down to $60, its lowest price yet](https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale)
+  - [Apple’s latest AirTags have dropped to just $18 a pop for Black Friday](https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale)
   - [Here are the best Black Friday deals you can grab for $30 or less](https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026)
+  - [Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday](https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale)
   - [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
   - [The best Black Friday deals on AirPods, MacBooks, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
   - [The best Black Friday deals on smart home gear](https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday)
@@ -109,6 +113,7 @@
 - Wired
   - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)
   - [Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More](https://www.wired.com/story/black-friday-apple-deals-11-27-2026/)
+  - [Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers](https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/)
   - [Best Black Friday AirPods Deals I’ve Found (2026)](https://www.wired.com/story/best-black-friday-airpods-deals-11-27-2026/)
   - [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/)
   - [Best CurrentBody Black Friday Deals Worth Shopping (2026)](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/)
