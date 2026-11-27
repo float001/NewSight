@@ -6,6 +6,7 @@
   - [「转自 X」Google 开始大量清退免费 gemini 号](https://2libra.com/post/ai-trends/--sX4bC)
   - [【偶遇感恩节】新·太二：酸菜鱼+川菜](https://2libra.com/post/personal-life/cFDGo4X)
   - [【兑换码】LibraX - 2Libra Android 原生客户端发布了，欢迎 2 友下载体验](https://2libra.com/post/personal-works/gUY4TtM)
+  - [【周末福利】免费白嫖领 5 刀！满血中转站，稳定号池不降智，一个 Key 接入多种模型，欢迎老板们前来试吃！](https://2libra.com/post/promotion/vZey3VN)
   - [【投票】今天能刷新 268 最高在线人数，拿到走个面么？](https://2libra.com/post/forum-function/C3jvWhA)
   - [【未实践】奇思妙想之免手机号注册谷歌账号](https://2libra.com/post/tech-rumination/GIcFi0M)
   - [【💰】今天不想上班只想摸鱼](https://2libra.com/post/slacking-off/M-R8WDv)
@@ -30,11 +31,15 @@
   - [把 nvm 换成了 mise，用起来方便很多。](https://2libra.com/post/tool-sharing/e3do7oG)
   - [既然掉徽章这个潘多拉不考虑去掉，能否考虑加个可以带双徽章的潘多拉？](https://2libra.com/post/forum-function/HqyHfoZ)
   - [有没有使用土区 Apple 购买 gemini pro 成功的兄弟！ 求助一下！](https://2libra.com/post/help-requests/xEaIEqh)
+  - [添加附言没有任何徽章可以减少金币消耗吗？](https://2libra.com/post/forum-function/LwhBB_5)
+  - [爱上说“每个人的身上有毛毛”的女孩子，都是很有意思的经历](https://2libra.com/post/love/Xo0oop2)
   - [现在购买新款 Macbook 最便宜的方式](https://2libra.com/post/recommendations/fY2Rg7q)
   - [花了 1000+金币补卡 真的贵啊](https://2libra.com/post/forum-function/QCD9_t9)
   - [西梅汁怎么样](https://2libra.com/post/health-consultation/VLTrHBU)
   - [首年 100 金币补签，如果抽到补签潘多拉还会有折扣么？](https://2libra.com/post/forum-function/Uv86VZV)
   - [黑五送 2 年免费二级域名](https://2libra.com/post/domain-service/hjA2Qkn)
+- 360 Netlab Blog - 360
+  - [AI安全专题周报（20261127）](https://blog.netlab.360.com/aian-quan-zhuan-ti-zhou-bao-20261127/)
 - bunnie's blog
   - [Formlabs Form Studio 1 Teardown](https://www.bunniestudios.com/blog/2026/formlabs-form-studio-1-teardown/)
 - ByteByteGo
@@ -43,6 +48,7 @@
   - [AI is driving a flood of crypto bug reports. Now it’s helping sort them](https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance completes withdrawal recovery four weeks after $6.3B hack](https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BIS chief Pablo Hernández de Cos set to become next ECB president: FT](https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [Bluefin to shut down perps, refocus on spot trading and tokenized RWAs](https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [BNB Chain details new layer-1 for trading, private finance and AI](https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Crypto on notice as hawkish Fed risks December ‘meltdown’](https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays](https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -58,6 +64,7 @@
 - CyberNews
   - [Critical Tor Browser flaw exposes users’ real IP addresses to malicious websites](https://cybernews.com/security/critical-tor-browser-flaw-exposes-users-real-ip-addresses-to-malicious-websites/)
   - [Dutch groups ask court to halt Meta smart glasses sales over privacy concerns](https://cybernews.com/tech/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales/)
+  - [Google AI is flooding French poison control centers with panic calls](https://cybernews.com/news/google-overviews-hallucination-poison-center/)
   - [Quit or go home, says IBM as tech giant refuses to sponsor H-1B visas](https://cybernews.com/tech/ibm-stops-sponsoring-h1b-visas/)
   - [SAP confirms cyber incident, but no customer data accessed](https://cybernews.com/security/sap-cyber-incident-customer-data/)
   - [SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://cybernews.com/tech/sap-considers-at-least-10000-job-cuts/)
@@ -78,10 +85,13 @@
   - [新的 NFS2ROOT Linux 缺陷可让攻击者获取 root 权限](http://0.0.0.0:8080/post/64962)
 - infosecurity-magazine.com
   - [CyberStrikeAI Creator Shuts Down Open-Source AI Offensive Framework](https://www.infosecurity-magazine.com/news/cyberstrikeai-shut-down-threatbook/)
+  - [FIFA Confirms Cyber-Attack, Personal and Business Information Compromised](https://www.infosecurity-magazine.com/news/fifa-confirms-cyberattack/)
 - jeffgeerling.com
   - [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/)
 - Kali Linux Tutorials
   - [10 Best Endpoint Detection and Response Software in 2026](https://kalilinuxtutorials.com/10-best-endpoint-detection-and-response-software-in-2026/)
+- Positive Security | IT Security research and happy coincidences
+  - [SVDB: A structured database for better vulnerability management](https://positive.security/blog/svdb)
 - rtl-sdr.com
   - [Airspace Monitor: A 24/7 Sydney Airband and ADS-B Station with Local AI Transcription and an ADS-B-Steered PTZ Camera](https://www.rtl-sdr.com/airspace-monitor-a-24-7-sydney-airband-and-ads-b-station-with-local-ai-transcription-and-an-ads-b-steered-ptz-camera/)
   - [CyberEther V2 Released: GPU-Accelerated SDR Flowgraphs with Python Blocks, Tiling Displays and an Optional AI Assistant](https://www.rtl-sdr.com/cyberether-v2-released-gpu-accelerated-sdr-flowgraphs-with-python-blocks-tiling-displays-and-an-optional-ai-assistant/)
@@ -133,6 +143,7 @@
   - [Is Alice Huang a spy or not?](https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/)
   - [X finally gets parental controls after 20 years](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/)
 - The Block
+  - [Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’](https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059)
   - [China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation](https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029)
   - [Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15](https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051)
   - [JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple](https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007)
@@ -408,10 +419,13 @@
   - [Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access](https://vulners.com/thn/THN:2C58DFF3B663255AE4653845DFE985C6?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [Vulners Software Audit](https://vulners.com/kittysploit/KS:SCANNER-VULNERS-SOFTWARE_AUDIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 - Wired
+  - [16 Best Black Friday Headphone Deals (2026): Up to 57% Off](https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/)
   - [20 Best Black Friday Tech Deals (2026)](https://www.wired.com/story/black-friday-tech-deals-11-27-2026/)
   - [22 Best Black Friday Deals Under $100 (2026)](https://www.wired.com/story/best-black-friday-deals-under-100-11-27-2026/)
   - [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
   - [Best Black Friday Phone Deals (2026): iPhone, Pixel, and More](https://www.wired.com/story/best-black-friday-phone-deals-11-27-26/)
+  - [Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys](https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/)
+  - [Best Kitchen Gifts for Home Cooks (2026)](https://www.wired.com/story/the-best-gifts-for-cooks-who-love-cooking/)
   - [Dell Coupon Codes: 20% Off for November 2026](https://www.wired.com/story/dell-coupon-code/)
   - [Dyson Promo Codes: 25% Off in November 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
   - [eBay Coupons: 20% Off in November 2026](https://www.wired.com/story/ebay-coupon-code/)
@@ -419,6 +433,7 @@
   - [Newegg Promo Codes and Coupons for November 2026](https://www.wired.com/story/newegg-promo-code/)
   - [Nike Promo Codes and Discounts: 30% for November 2026](https://www.wired.com/story/nike-promo-code/)
   - [Peacock Promo Codes: 40% Off November 2026](https://www.wired.com/story/peacock-promo-code/)
+  - [Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change](https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/)
   - [Squarespace Promo Codes: 55% Off in November 2026](https://www.wired.com/story/squarespace-promo-code/)
   - [The 10 Best Black Friday TV Deals (2026): Save Up to 53% Off](https://www.wired.com/story/early-black-friday-tv-deals-11-27-2026/)
   - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
