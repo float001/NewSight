@@ -2,19 +2,25 @@
 
 - 2Libra
   - [codex 使用](https://2libra.com/post/ai-programming/2fnQXDq)
+  - [WorkBuddy 竟然未经授权读取文件！](https://2libra.com/post/ai-companies/NkRxWwv)
   - [【偶遇感恩节】新·太二：酸菜鱼+川菜](https://2libra.com/post/personal-life/cFDGo4X)
   - [【兑换码】LibraX - 2Libra Android 原生客户端发布了，欢迎 2 友下载体验](https://2libra.com/post/personal-works/gUY4TtM)
   - [【投票】今天能刷新 268 最高在线人数，拿到走个面么？](https://2libra.com/post/forum-function/C3jvWhA)
   - [【未实践】奇思妙想之免手机号注册谷歌账号](https://2libra.com/post/tech-rumination/GIcFi0M)
   - [【💰】今天不想上班只想摸鱼](https://2libra.com/post/slacking-off/M-R8WDv)
+  - [【💰】周五了 抽 500 gold coin 给一个幸运儿](https://2libra.com/post/forum-function/Kw9u2AS)
   - [【💰】大家能不能说下所在行业的不为人知的内幕或者小道消息，或是有趣的小知识](https://2libra.com/post/industry-inside/FuBGltu)
   - [【💰】小小金币池](https://2libra.com/post/slacking-off/v3AoEv4)
   - [三字兑换码信息掩码存在问题，不过很少有三字兑换码。](https://2libra.com/post/community/wihj09r)
+  - [上班摸鱼撸猫的日子](https://2libra.com/post/touch-fish/5S0dsAO)
+  - [不懂就问](https://2libra.com/post/PT/_b5WcHx)
   - [亚太区 Visa 卡免费领 1 年全球 eSIM，主流通讯软件（TG/微信/WA）无限免流](https://2libra.com/post/deal-hunter/GCBxyZ7)
   - [今天左侧栏清一色【橱窗位招租】，广告都到期了吗？](https://2libra.com/post/forum-function/IBkx1Pk)
+  - [你多久没好好爽打游戏了](https://2libra.com/post/game-discussion/ya43AKX)
   - [你对“小豆”怎么看？](https://2libra.com/post/ai-tools/O6xi_20)
   - [使用 Kotlin Multiplatform 开发 APP，开发及用户体验如何？](https://2libra.com/post/mobile-development/ft4s1Pu)
   - [又到周五咯](https://2libra.com/post/personal-life/SMed57t)
+  - [吐槽一下，找一个环境好的泳池真不容易](https://2libra.com/post/sports/mnhBBNh)
   - [周五工作内容](https://2libra.com/post/office-life/RK-LUZY)
   - [大家玩过最长时间的游戏是什么？](https://2libra.com/post/game-discussion/dHk2jFR)
   - [好瞌睡，想睡觉](https://2libra.com/post/personal-life/WugG56N)
@@ -24,6 +30,7 @@
   - [有没有使用土区 Apple 购买 gemini pro 成功的兄弟！ 求助一下！](https://2libra.com/post/help-requests/xEaIEqh)
   - [现在购买新款 Macbook 最便宜的方式](https://2libra.com/post/recommendations/fY2Rg7q)
   - [花了 1000+金币补卡 真的贵啊](https://2libra.com/post/forum-function/QCD9_t9)
+  - [西梅汁怎么样](https://2libra.com/post/health-consultation/VLTrHBU)
   - [首年 100 金币补签，如果抽到补签潘多拉还会有折扣么？](https://2libra.com/post/forum-function/Uv86VZV)
 - bunnie's blog
   - [Formlabs Form Studio 1 Teardown](https://www.bunniestudios.com/blog/2026/formlabs-form-studio-1-teardown/)
@@ -51,6 +58,8 @@
   - [SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://cybernews.com/tech/sap-considers-at-least-10000-job-cuts/)
 - defend.network
   - [Juniper, Mitel MiCollab, Drupal flaws exploited in the wild](https://defend.network/briefings/juniper-mitel-micollab-drupal-flaws-exploited-2026-11-27.html)
+- ElcomSoft blog
+  - [iOS Forensic Toolkit 10.14: app data extraction for iOS 27 and the iPhone 18 range](https://blog.elcomsoft.com/2026/11/ios-forensic-toolkit-10-14-app-data-extraction-for-ios-27-and-the-iphone-18-range/)
 - Hacker News Frontpage
   - [Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)
   - [Ask HN: How do you find meaning of life at 41?](https://news.ycombinator.com/item?id=50657957)
@@ -59,6 +68,11 @@
   - [Nvidia was right to bring back Jensen Huang, writes Sarah Guo](https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo)
   - [The greatest architect you've never heard of is in Pakistan](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
   - [The group chat where your AI talks behind your back](https://construct22.com/)
+- HackerNews
+  - [Remus 恶意软件通过伪造 Google Sheets 扩展窃取 Gmail 邮件](http://0.0.0.0:8080/post/64963)
+  - [新的 NFS2ROOT Linux 缺陷可让攻击者获取 root 权限](http://0.0.0.0:8080/post/64962)
+- infosecurity-magazine.com
+  - [CyberStrikeAI Creator Shuts Down Open-Source AI Offensive Framework](https://www.infosecurity-magazine.com/news/cyberstrikeai-shut-down-threatbook/)
 - jeffgeerling.com
   - [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/)
 - Kali Linux Tutorials
@@ -356,10 +370,14 @@
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展](https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign)
   - [30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相广州车展](https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign)
   - [30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展](https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign)
   - [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底](https://www.ifanr.com/1695800?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记](https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型](https://www.ifanr.com/1695848?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [限时 25.49 万元起！奔驰纯电 GLC「大件夹抵食」](https://www.ifanr.com/1695815?utm_source=rss&utm_medium=rss&utm_campaign)
 - 量子位 QbitAI
   - [20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩](https://www.qbitai.com/2026/11/513053.html)
   - [DeepSeek APP突然更新账单，网友：要收费了？](https://www.qbitai.com/2026/11/513305.html)
