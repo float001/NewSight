@@ -7,6 +7,8 @@
   - [【投票】今天能刷新 268 最高在线人数，拿到走个面么？](https://2libra.com/post/forum-function/C3jvWhA)
   - [【未实践】奇思妙想之免手机号注册谷歌账号](https://2libra.com/post/tech-rumination/GIcFi0M)
   - [【💰】今天不想上班只想摸鱼](https://2libra.com/post/slacking-off/M-R8WDv)
+  - [【💰】大家能不能说下所在行业的不为人知的内幕或者小道消息，或是有趣的小知识](https://2libra.com/post/industry-inside/FuBGltu)
+  - [【💰】小小金币池](https://2libra.com/post/slacking-off/v3AoEv4)
   - [三字兑换码信息掩码存在问题，不过很少有三字兑换码。](https://2libra.com/post/community/wihj09r)
   - [亚太区 Visa 卡免费领 1 年全球 eSIM，主流通讯软件（TG/微信/WA）无限免流](https://2libra.com/post/deal-hunter/GCBxyZ7)
   - [今天左侧栏清一色【橱窗位招租】，广告都到期了吗？](https://2libra.com/post/forum-function/IBkx1Pk)
@@ -22,6 +24,7 @@
   - [有没有使用土区 Apple 购买 gemini pro 成功的兄弟！ 求助一下！](https://2libra.com/post/help-requests/xEaIEqh)
   - [现在购买新款 Macbook 最便宜的方式](https://2libra.com/post/recommendations/fY2Rg7q)
   - [花了 1000+金币补卡 真的贵啊](https://2libra.com/post/forum-function/QCD9_t9)
+  - [首年 100 金币补签，如果抽到补签潘多拉还会有折扣么？](https://2libra.com/post/forum-function/Uv86VZV)
 - bunnie's blog
   - [Formlabs Form Studio 1 Teardown](https://www.bunniestudios.com/blog/2026/formlabs-form-studio-1-teardown/)
 - ByteByteGo
@@ -35,6 +38,7 @@
   - [Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays](https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Japan’s crypto security group taps SEAL to speed up hack response](https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [New York AG secures $1.37B court judgment against NovaTech founders](https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Privacy coins face diverging fortunes as KuCoin moves to drop Monero](https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Spain moves to grant financial watchdog power to freeze crypto accounts](https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [UK is ‘getting it wrong’ on DeFi regulation, says Coinbase](https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -43,6 +47,8 @@
   - [Why AI Governance Policies Fail Without Runtime Enforcement](https://www.cyberkendra.com/2026/11/why-ai-governance-policies-fail-without-runtime-enforcement.html)
 - CyberNews
   - [Dutch groups ask court to halt Meta smart glasses sales over privacy concerns](https://cybernews.com/tech/dutch-groups-ask-court-to-halt-meta-smart-glasses-sales/)
+  - [SAP confirms cyber incident, but no customer data accessed](https://cybernews.com/security/sap-cyber-incident-customer-data/)
+  - [SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports](https://cybernews.com/tech/sap-considers-at-least-10000-job-cuts/)
 - defend.network
   - [Juniper, Mitel MiCollab, Drupal flaws exploited in the wild](https://defend.network/briefings/juniper-mitel-micollab-drupal-flaws-exploited-2026-11-27.html)
 - Hacker News Frontpage
@@ -106,6 +112,7 @@
   - [X finally gets parental controls after 20 years](https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/)
 - The Block
   - [China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation](https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029)
+  - [Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15](https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051)
   - [JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple](https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007)
 - The Decoder
   - [Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it](https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/)
@@ -130,6 +137,7 @@
   - [CVE-2024-29269-RCE](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-HACK-WITH-ROHIT-CVE-2024-29269-RCE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-54880](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-AILENYE-CVE-2024-54880?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2024-55457-PoC](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-H13NH04NG-CVE-2024-55457-POC?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2025-3088](https://vulners.com/nvd/NVD:CVE-2025-3088?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2025-8209](https://vulners.com/nvd/NVD:CVE-2025-8209?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-102001](https://vulners.com/nvd/NVD:CVE-2026-102001?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-105917](https://vulners.com/nvd/NVD:CVE-2026-105917?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -211,6 +219,7 @@
   - [CVE-2026-135383 lxd: Incorrect authorization in TLS certificate trust and revocation handling](https://vulners.com/cvelist/CVELIST:CVE-2026-135383?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135385 lxd: Incorrect authorization in backup export and network zone read endpoints](https://vulners.com/cve/CVE-2026-135385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135385 lxd: Incorrect authorization in backup export and network zone read endpoints](https://vulners.com/cvelist/CVELIST:CVE-2026-135385?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-135548](https://vulners.com/redhatcve/RH:CVE-2026-135548?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135616 W3 Total Cache <= 2.11.0 - Authenticated (Subscriber+) PHP Object Injection to Remote Code Execution via Memcached Object Cache Key Collision](https://vulners.com/cve/CVE-2026-135616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135616 W3 Total Cache <= 2.11.0 - Authenticated (Subscriber+) PHP Object Injection to Remote Code Execution via Memcached Object Cache Key Collision](https://vulners.com/cvelist/CVELIST:CVE-2026-135616?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-135618](https://vulners.com/nvd/NVD:CVE-2026-135618?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -292,8 +301,12 @@
   - [CVE-2026-19443 Cri-o: cri-o: checkpoint restore path traversal in deleted.files allows host filesystem deletion](https://vulners.com/cvelist/CVELIST:CVE-2026-19443?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-26897-EcoOnline-DeepLink](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-IWALLPLACE-CVE-2026-26897-ECOONLINE-DEEPLINK?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-7181](https://vulners.com/nvd/NVD:CVE-2026-7181?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77679](https://vulners.com/nvd/NVD:CVE-2026-77679?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-77682](https://vulners.com/nvd/NVD:CVE-2026-77682?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-89228](https://vulners.com/nvd/NVD:CVE-2026-89228?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-92549](https://vulners.com/nvd/NVD:CVE-2026-92549?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95622 ModemManager: Reachable assertion in Cell Broadcast encoding parse causes denial of service](https://vulners.com/cve/CVE-2026-95622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-95622 ModemManager: Reachable assertion in Cell Broadcast encoding parse causes denial of service](https://vulners.com/cvelist/CVELIST:CVE-2026-95622?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [DarkLoadLibrary](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BATS3C-DARKLOADLIBRARY?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [deepin-linux_reader_RCE-exploit](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-FEBINREV-DEEPIN-LINUX_READER_RCE-EXPLOIT?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [EntraTrace](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-BERT-JANP-ENTRATRACE?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -338,12 +351,17 @@
 - 不安全
   - [Ground Station Update: Now Decodes ADS-B, Radiosondes, Meshtastic and APRS](https://buaq.net/go-457681.html)
   - [headscale v0.29.8](https://buaq.net/go-457667.html)
+  - [Third-Party Risk Assessment: A 2027 Framework for Security and Risk Teams](https://buaq.net/go-457714.html)
   - [公开反对黄仁勋回归的英伟达副总裁曾与A社CEO阿莫迪在百度AI实验室共事过](https://buaq.net/go-457686.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 爱范儿
+  - [30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相广州车展](https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展](https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign)
   - [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign)
   - [早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记](https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign)
 - 量子位 QbitAI
   - [20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩](https://www.qbitai.com/2026/11/513053.html)
+  - [DeepSeek APP突然更新账单，网友：要收费了？](https://www.qbitai.com/2026/11/513305.html)
   - [乾崑共创者计划发布：加入乾崑生态，共创出行未来！](https://www.qbitai.com/2026/11/513087.html)
+  - [韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名](https://www.qbitai.com/2026/11/513320.html)
