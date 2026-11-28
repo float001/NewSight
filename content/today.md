@@ -52,9 +52,11 @@
   - [I'm a watchmaker and I accidentally made a software factory](https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/)
   - [I'm Scared of AI](https://thesoapbox.email/archive/3)
   - [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
+  - [Physics Breakthrough Simulator](https://pages.ethanmdavidson.com/ai-physics-breakthrough)
   - [Source Control from Hell](https://frantic.im/git/)
   - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
   - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+  - [Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run](https://github.com/RiccardoSottini/AffrescoUI)
   - [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
 - miguelgrinberg.com
   - [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots)
@@ -105,6 +107,7 @@
   - [Google Deepmind's "Humanity's First Exam" shows top AI models still fail simple everyday tasks under repeated runs](https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/)
   - [OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers](https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/)
   - [Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots](https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/)
+  - [Terence Tao sees AI ushering in "Big Math," but calls major tech firms' proofs "toxic waste"](https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/)
   - [Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models](https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/)
   - [UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence](https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/)
 - The Verge
@@ -430,6 +433,7 @@
   - [Zoro Coupon Codes: 20% Off November 2026](https://www.wired.com/story/zoro-promo-code/)
 - 不安全
   - [10 款热门开源项目｜旧手机当控制面板，Mac 刘海变文件架](https://buaq.net/go-457899.html)
+  - [leanrea](https://buaq.net/go-457925.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 奇客Solidot–传递最新科技情报
@@ -440,9 +444,14 @@
   - [搜个DeepSeek微信没了，高仿官网正在批量投毒](https://www.anquanke.com/post/id/316565)
 - 爱范儿
   - [24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展](https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [在混动和纯电渐成主流的今天，长城为什么还在做 HEV？丨广州车展](https://www.ifanr.com/1696066?utm_source=rss&utm_medium=rss&utm_campaign)
+  - [对话蔚来李斌：传统汽车工业是打鼓，智能电动汽车工业是交响乐丨广州车展](https://www.ifanr.com/1696049?utm_source=rss&utm_medium=rss&utm_campaign)
   - [德系最大 SUV 来了！奥迪 Q9 国内首秀，车长超 5 米 3，还有一台大 V6丨广州车展](https://www.ifanr.com/1696001?utm_source=rss&utm_medium=rss&utm_campaign)
 - 量子位 QbitAI
+  - [200亿美元…史上最贵AI自媒体](https://www.qbitai.com/2026/11/513577.html)
+  - [刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开](https://www.qbitai.com/2026/11/513535.html)
   - [最新：黎曼猜想证明通过独立验证！](https://www.qbitai.com/2026/11/513484.html)
   - [用Claude证明黎曼猜想的90后数学家，收到了致命威胁](https://www.qbitai.com/2026/11/513463.html)
+  - [谷歌Tibo亲授Gemini 4 Neon内部打开方式！第一步：删光旧规则](https://www.qbitai.com/2026/11/513555.html)
 - 黑海洋
   - [YOLO：从0到1 游戏视觉推理模型的完整制作流程](https://blog.upx8.com/YOLO-0-1)
