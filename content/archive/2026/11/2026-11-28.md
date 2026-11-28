@@ -3,6 +3,8 @@
 - 2Libra
   - [Eating your own dog food.](https://2libra.com/post/vibe-coding/UJU7dKV)
   - [hostloc 啥时候倒闭了](https://2libra.com/post/tech-rumination/9ii8RjU)
+  - [Nginx 安全更新 修补 CVE-2026-132779 漏洞](https://2libra.com/post/devops/Gn04AKN)
+  - [【兑换码】黑五福利｜注册送 500M 动态流量，另放 4 个 1G CDK，先到先得](https://2libra.com/post/promotion/80ZZbL8)
   - [养成快进的习惯了，看剧很难专注。](https://2libra.com/post/movie-experience/DX8duiT)
   - [加了吗您？](https://2libra.com/post/office-life/TInGjj7)
   - [感觉怪怪的，我在问题解决后习惯性给 AI 反馈结果，哈哈哈](https://2libra.com/post/ai-applications/VgpzoAl)
@@ -22,6 +24,8 @@
 - daringfireball.net
   - [OpenAI Countersues Apple for Stealing Trade Secrets](https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1)
   - [Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&leadSource=article-gifting)
+- defend.network
+  - [SAP GitHub breach, Cacti zero-day PoC, Hex.pm RCE exploited](https://defend.network/briefings/sap-github-breach-cacti-zero-day-hexpm-rce-2026-11-28.html)
 - Fidelis Security
   - [Where Deception Fits in a Zero Trust Threat Hunting Framework](https://fidelissecurity.com/threatgeek/deception/threat-hunting-framework-zero-trust/)
 - filfre.net
