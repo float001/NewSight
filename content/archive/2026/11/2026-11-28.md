@@ -17,6 +17,7 @@
 - aresluna.org
   - [UI style guides](https://aresluna.org/ui-style-guides)
 - CoinTelegraph
+  - [ASEAN+3 agrees on initiative to explore crypto payments cooperation](https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance receives in-principle approval, plans Asia hub in Bhutan](https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price drops below $59K as Anthropic joins tech stock rebound](https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin whales pile into BTC despite shrinking profit cushion](https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -57,6 +58,7 @@
 - The Decoder
   - [Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports](https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/)
   - [OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers](https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/)
+  - [Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots](https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/)
   - [Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models](https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/)
 - The Verge
   - [Allstate has been suffering an outage since Monday](https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday)
@@ -291,6 +293,7 @@
   - [20 Best Black Friday Headphone Deals (2026): Up to 57% Off](https://www.wired.com/story/black-friday-headphone-deals-11-28-26/)
   - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)
   - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-28-2026/)
+  - [29 Best Black Friday Deals Under $100 (2026)](https://www.wired.com/story/best-black-friday-deals-under-100-11-28-2026/)
   - [Altra Running Promo Codes: 10% Off November 2026](https://www.wired.com/story/altra-promo-code/)
   - [Apple Black Friday Deals (2026): AirPods, iPads, MacBooks, and More](https://www.wired.com/story/black-friday-apple-deals-11-27-2026/)
   - [Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers](https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/)
@@ -298,6 +301,7 @@
   - [Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)](https://www.wired.com/story/shark-vacuum-black-friday-deals-11-27-2026/)
   - [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-27-2026/)
   - [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/)
+  - [Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to 60% Off](https://www.wired.com/story/black-friday-robot-vacuum-deals-11-28-2026/)
   - [Best CurrentBody Black Friday Deals Worth Shopping (2026)](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/)
   - [Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off](https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/)
   - [Black Friday Deals on Household Essentials and Affordable Toys to Donate](https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/)
