@@ -7,12 +7,14 @@
   - [【兑换码】黑五福利｜注册送 500M 动态流量，另放 4 个 1G CDK，先到先得](https://2libra.com/post/promotion/80ZZbL8)
   - [养成快进的习惯了，看剧很难专注。](https://2libra.com/post/movie-experience/DX8duiT)
   - [加了吗您？](https://2libra.com/post/office-life/TInGjj7)
+  - [大疆 nano 拇指相机 vs360 影石 Go Ultr 哪个好](https://2libra.com/post/worth-buying/-derwAR)
   - [感觉怪怪的，我在问题解决后习惯性给 AI 反馈结果，哈哈哈](https://2libra.com/post/ai-applications/VgpzoAl)
   - [暮光之城看完了，还有什么电影推荐？](https://2libra.com/post/recommendations/786bkBl)
   - [有没有让你无法释怀的友情](https://2libra.com/post/friendship/T_MQfKM)
 - aresluna.org
   - [UI style guides](https://aresluna.org/ui-style-guides)
 - CoinTelegraph
+  - [Binance receives in-principle approval, plans Asia hub in Bhutan](https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin price drops below $59K as Anthropic joins tech stock rebound](https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Bitcoin whales pile into BTC despite shrinking profit cushion](https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [China sets March 2027 rollout for blockchain identity regulations](https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -302,6 +304,8 @@
   - [Walmart Promo Codes: 20% Off for November 2026](https://www.wired.com/story/top-walmart-promo-codes/)
   - [Yeti Coolers Are up to 30% Off for Black Friday (2026)](https://www.wired.com/story/yeti-black-friday-sale-11-2026/)
   - [Zoro Coupon Codes: 20% Off November 2026](https://www.wired.com/story/zoro-promo-code/)
+- 不安全
+  - [10 款热门开源项目｜旧手机当控制面板，Mac 刘海变文件架](https://buaq.net/go-457899.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
 - 安全客
