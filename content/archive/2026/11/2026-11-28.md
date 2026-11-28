@@ -14,8 +14,12 @@
   - [有没有让你无法释怀的友情](https://2libra.com/post/friendship/T_MQfKM)
   - [求黑五便宜的机](https://2libra.com/post/ask-recommendation/n70tFc4)
   - [集合待办，基金追踪，体重，家庭资产的于一体的开源项目](https://2libra.com/post/open-source-sharing/-QShpFU)
+- 404 Media
+  - [Scientists Discovered a Mysterious Lost Human Species](https://www.404media.co/scientists-discovered-a-mysterious-lost-human-species/)
 - aresluna.org
   - [UI style guides](https://aresluna.org/ui-style-guides)
+- berthub.eu
+  - [How to easily measure temperature with a Raspberry Pi](https://berthub.eu/articles/posts/measuring-temperature-raspberry-pi/)
 - CoinTelegraph
   - [ASEAN+3 agrees on initiative to explore crypto payments cooperation](https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Binance receives in-principle approval, plans Asia hub in Bhutan](https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
@@ -38,6 +42,7 @@
   - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/)
 - Hacker News Frontpage
   - [Alaska seized his plane over some beers. He is asking the Supreme Court for help](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
+  - [AnthropicAI posted a fraudulent proof of RH](https://twitter.com/QualiaQuanta/status/2126158001035768256)
   - [Farewell](https://github.com/p-e-w/heretic/issues/601)
   - [France Slips into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5)
   - [I'm a watchmaker and I accidentally made a software factory](https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/)
@@ -51,6 +56,8 @@
   - [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots)
 - minimaxir.com
   - [Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized](https://minimaxir.com/2026/11/opus-fable/)
+- shkspr.mobi
+  - [Theatre Review: Angels in America Part Two - Perestroika ★★★★★](https://shkspr.mobi/blog/2026/11/theatre-review-angels-in-america-part-two-perestroika/)
 - Sploitus.com Exploits RSS Feed
   - [知御 exploit](https://sploitus.com/exploit?id=56BAE780-95FF-5E47-BE24-A18C0F97113D&utm_source=rss&utm_medium=rss)
 - The Block
@@ -311,7 +318,9 @@
   - [Best Black Friday Espresso Machine Deals: Up to 38% Off (2026)](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/)
   - [Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories](https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-28-2026/)
   - [Best Black Friday Robot Vacuum Deals from Roborock (2026): Up to 60% Off](https://www.wired.com/story/black-friday-robot-vacuum-deals-11-28-2026/)
+  - [Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys](https://www.wired.com/story/best-black-friday-toy-deals-11-28-26/)
   - [Best CurrentBody Black Friday Deals Worth Shopping (2026)](https://www.wired.com/story/currentbody-black-friday-deals-11-27-2026/)
+  - [Best Dyson Vacuum Black Friday Deals (2026): Up to $400 Off](https://www.wired.com/story/best-black-friday-dyson-vacuum-deals-11-28-2026/)
   - [Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off](https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/)
   - [Black Friday Deals on Household Essentials and Affordable Toys to Donate](https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/)
   - [Black Friday Mattress Deals: Get Up to 55% Off (2026)](https://www.wired.com/story/black-friday-mattress-deals-11-27-2026/)
@@ -335,11 +344,16 @@
   - [10 款热门开源项目｜旧手机当控制面板，Mac 刘海变文件架](https://buaq.net/go-457899.html)
 - 代码审计星球
   - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- 奇客Solidot–传递最新科技情报
+  - [科学家用海鸟监视关闭 AIS 信号的船只](https://www.solidot.org/story?sid=86016)
 - 安全客
   - [3小时、200美元，AI挖出Java致命0day](https://www.anquanke.com/post/id/316568)
   - [搜个DeepSeek微信没了，高仿官网正在批量投毒](https://www.anquanke.com/post/id/316565)
 - 爱范儿
   - [24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展](https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign)
   - [德系最大 SUV 来了！奥迪 Q9 国内首秀，车长超 5 米 3，还有一台大 V6丨广州车展](https://www.ifanr.com/1696001?utm_source=rss&utm_medium=rss&utm_campaign)
+- 量子位 QbitAI
+  - [最新：黎曼猜想证明通过独立验证！](https://www.qbitai.com/2026/11/513484.html)
+  - [用Claude证明黎曼猜想的90后数学家，收到了致命威胁](https://www.qbitai.com/2026/11/513463.html)
 - 黑海洋
   - [YOLO：从0到1 游戏视觉推理模型的完整制作流程](https://blog.upx8.com/YOLO-0-1)
