@@ -12,6 +12,7 @@
   - [Franklin Templeton makes room for HYPE in crypto index ETF](https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
   - [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - Cyber Kendra
+  - [Cacti 4HTTP2ROOT Zero-Day Enables RCE via Guest Access](https://www.cyberkendra.com/2026/11/cacti-4http2root-zero-day-rce.html)
   - [Penetration Testing Statistics in 2026: How to Read a Vendor’s Numbers Without Getting Fooled](https://www.cyberkendra.com/2026/11/penetration-testing-statistics-in-2026-how-to-read-a-vendors-numbers-without-getting-fooled.html)
 - daringfireball.net
   - [OpenAI Countersues Apple for Stealing Trade Secrets](https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1)
