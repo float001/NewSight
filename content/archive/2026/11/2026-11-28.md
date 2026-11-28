@@ -3,6 +3,7 @@
 - 2Libra
   - [加了吗您？](https://2libra.com/post/office-life/TInGjj7)
   - [感觉怪怪的，我在问题解决后习惯性给 AI 反馈结果，哈哈哈](https://2libra.com/post/ai-applications/VgpzoAl)
+  - [有没有让你无法释怀的友情](https://2libra.com/post/friendship/T_MQfKM)
 - aresluna.org
   - [UI style guides](https://aresluna.org/ui-style-guides)
 - CoinTelegraph
@@ -29,6 +30,7 @@
   - [Michael Nielsen took down his book on neural nets](https://twitter.com/michael_nielsen/status/2126359767362748777)
   - [Source Control from Hell](https://frantic.im/git/)
   - [The NFL Player Who Left Football for Math](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
+  - [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
   - [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
 - miguelgrinberg.com
   - [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots)
@@ -55,6 +57,7 @@
   - [The absolute best Black Friday deals we’ve found (so far)](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
   - [The best Black Friday deals on AirPods, MacBooks, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
   - [The best Black Friday deals on smart home gear](https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday)
+  - [The M5 MacBook Air just got its biggest discount since Apple raised the price](https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale)
   - [The new iPad Mini is getting its first major discount for Black Friday](https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026)
   - [This purple electric Chinese minivan can go up to 559 miles on a charge](https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge)
   - [We found 60-odd Black Friday deals we love for $100 or less](https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026)
@@ -210,6 +213,14 @@
   - [CVE-2026-138152 Otter Blocks before 3.2.12 SSRF via Mailchimp API Key Validation](https://vulners.com/cvelist/CVELIST:CVE-2026-138152?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-138153 Otter Blocks before 3.2.12 Incorrect Authorization via Posts Grid and Atomic Wind](https://vulners.com/cve/CVE-2026-138153?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-138153 Otter Blocks before 3.2.12 Incorrect Authorization via Posts Grid and Atomic Wind](https://vulners.com/cvelist/CVELIST:CVE-2026-138153?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138154](https://vulners.com/nvd/NVD:CVE-2026-138154?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138158](https://vulners.com/nvd/NVD:CVE-2026-138158?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138159](https://vulners.com/nvd/NVD:CVE-2026-138159?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138160](https://vulners.com/nvd/NVD:CVE-2026-138160?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138161](https://vulners.com/nvd/NVD:CVE-2026-138161?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138162](https://vulners.com/nvd/NVD:CVE-2026-138162?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138163](https://vulners.com/nvd/NVD:CVE-2026-138163?utm_source=rss&utm_medium=rss&utm_campaign=rss)
+  - [CVE-2026-138164](https://vulners.com/nvd/NVD:CVE-2026-138164?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-21962](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-0XBLACKASH-CVE-2026-21962?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-35223-Joomla-Access-Control](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-LAREMONTADA12-CVE-2026-35223-JOOMLA-ACCESS-CONTROL?utm_source=rss&utm_medium=rss&utm_campaign=rss)
   - [CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://vulners.com/kitploit/KITPLOIT:TOOLS-GITHUB-RAYO0009-CVE-2026-35273-ORACLE-PEOPLESOFT-PEOPLETOOLS-ZERO-DAY-?utm_source=rss&utm_medium=rss&utm_campaign=rss)
@@ -279,3 +290,5 @@
   - [搜个DeepSeek微信没了，高仿官网正在批量投毒](https://www.anquanke.com/post/id/316565)
 - 爱范儿
   - [24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展](https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign)
+- 黑海洋
+  - [YOLO：从0到1 游戏视觉推理模型的完整制作流程](https://blog.upx8.com/YOLO-0-1)
